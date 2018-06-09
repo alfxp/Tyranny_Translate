@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_echocallcrossing_main_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Battle of Echocall Crossing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak with Iron Marshal Erenyos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to Ashe's tent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Meet with Antio at Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Signal the Scarlet Furies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Cross the river at the western bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Attack the eastern bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Take out the winch controlling the eastern drawbridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Continue into Echocall Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Secure Echocall Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Report back to Bitter Quip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Lower the bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Echocall Crossing must be taken before [url=glossary:kyros]Kyros[/url]' forces can press their attack on the [url=glossary:vendrien's well]Vendrien's Well[/url] Citadel. Help the [url=glossary:disfavored]Disfavored[/url] subdue the rebels and take control of the Crossing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Speak with Iron Marshal at the [url=glossary:disfavored]Disfavored[/url] camp to discuss how you should approach the battle for Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Your forces have prevailed at Echocall Crossing and Tripnettle Wilderness. Return to Ashe's tent and inform the Archons of your success.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Antio and his company of soldiers are moving to break the opposition blockade at Echocall Crossing. You have been dispatched to find Antio and assist as necessary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] sent scouts downstream to cross the river. Make for higher ground on the rocky outcroppings to the southwest and signal the Furies for their assistance. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>The Chorus scouts were successful in securing a rope across the river at the western bridge of Echocall Crossing. While time remains, ford the river there to surprise the enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>While the Chorus scouts attempt to send a rope across the river, create a distraction for your forces by attacking the eastern bridge of Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>You have crossed the river and made your way towards the eastern bridge. Destroying the winch will open the way for [url=glossary:disfavored]Disfavored[/url] forces to join the fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>You made it to the outskirts of Echocall Village. While your allies gather in force around the captured eastern bridge, push into the village and find the rebel leader, Matani Sybil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>The rebels have fallen back to Echocall Village. In order to solidify your hold on the region, kill Matani Sybil or force her to surrender.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>The eastern bridge cannot be crossed at the moment, but you may have bought Bitter Quip's men time to provide another way across the river. Speak with Bitter Quip near the entrance to Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>You made it across the water. Fight your way to the eastern bridge of Echocall Crossing and lower it for your allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You chose to let the villagers of Echocall Crossing go but killed all the [url=glossary:vendrien guard]Vendrien Guard[/url] in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You chose to take Captain Sybil and the rebels captive in exchange for letting the villagers and Vendrien rebels go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You decided the safest thing to do was to burn down the village. There were no survivors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>You chose to let the villagers of Echocall Crossing go, but decided it was best to burn the village in order destroy the rebels' base of operations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>You chose to let the villagers of Echocall Crossing go but killed all the [url=glossary:vendrien guard]Vendrien Guard[/url] rebels. However, you managed to take their leader, Matani Sybil, prisoner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>You decided the village should be kept intact as a foothold for [url=glossary:kyros]Kyros[/url]' forces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>You decided to send a message to the rebels and burned the village down, rendering settlers and potential spies without homes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>You decided to send a message the [url=glossary:vendrien guard]Vendrien Guard[/url] won't soon forget, and burned down the village with everyone in it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

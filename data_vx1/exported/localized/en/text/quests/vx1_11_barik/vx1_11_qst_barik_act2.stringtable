@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1_11_barik\vx1_11_qst_barik_act2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Weight of Aegis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak with Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Petition [url=glossary:tunon]Tunon[/url] on Barik's behalf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Speak with Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Enlist the aid of a [url=glossary:forge-bound]Forge-Bound[/url] not subject to [url=glossary:kyros]Kyros[/url]' law</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Have Barik examined by a smith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Travel to Sentinel Stand Outskirts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Locate a sample of fused iron and bronze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to the smith with the sample</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Speak with Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Barik wants to know if there's a way he can be freed from his armored prison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Barik wishes to discuss something with you. Talk to him to find out what is on his mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Barik requested that you petition [url=glossary:tunon]Tunon[/url] the Adjudicator to have his armor removed. Speak with [url=glossary:tunon]Tunon[/url] at his court in the [url=glossary:bastard city]Bastard City[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] ruled that Barik is to remain in his armor and forbade citizens of [url=glossary:kyros]Kyros[/url]' dominion from helping him remove it. Perhaps you should discuss Barik's predicament with him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Without the aid of a [url=glossary:forge-bound]Forge-Bound[/url], there's no way to help Barik. Search for a specialized smith that would not be opposed to disobeying [url=glossary:kyros]Kyros[/url]' law.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>You have convinced a smith to study Barik in the hopes of finding a way to free him of his armor. Take him to the smith to begin the examination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>You need a sample of fused iron and bronze from the site of Barik's exposure to the [url=glossary:edict]Edict[/url] of Storms in the [url=glossary:blade grave]Blade Grave[/url]. Accompany Barik to Sentinel Stand Outskirts to find one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>You have arrived at Sentinel Stand Outskirts. Locate a sample of fused iron and bronze from the site of Barik's exposure to the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>With the sample in hand, return to your smith to learn what she can uncover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>You've learned that so long as Barik remains under Ashe's Aegis, his armor will remain a part of him. Speak to him to discuss the quandary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>You have heard of a mage smith in the [url=glossary:stone sea]Stone Sea[/url] that works outside of [url=glossary:kyros]Kyros[/url]' law. She may be able to assist you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>With wealth and influence, you may be able to hire a loyal smith and provide them with a forge at which to work. An awakened Spire might make the perfect location for a smithy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] smith Lohara in [url=glossary:lethian's crossing]Lethian's Crossing[/url] may be willing to help Barik with his armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Zdenya at [url=glossary:lethian's crossing]Lethian's Crossing[/url] may be able to provide the services of [url=glossary:kyros]Kyros[/url]' [url=glossary:forge-bound]Forge-Bound[/url] smiths... if you can sway her loyalty to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Now that you have secured her loyalty, Zdenya may be willing to provide the services of [url=glossary:kyros]Kyros[/url]' [url=glossary:forge-bound]Forge-Bound[/url]. She has relocated to [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You have lost the support from the Forgebound - and the smith you recruited to assist Barik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Barik has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Barik has left the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You have refused to disobey [url=glossary:tunon]Tunon[/url]'s ruling on the matter, and agreed that Barik should remain in his armor indefinitely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Your loyal mage smith determined that [url=glossary:graven ashe]Graven Ashe[/url]'s Aegis is what keeps Barik melded to his armor. Barik refuses to abandon the [url=glossary:disfavored]Disfavored[/url] or betray the Archon of War. Until a way to separate Barik from the Aegis presents itself, he will remain trapped in his metal prison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

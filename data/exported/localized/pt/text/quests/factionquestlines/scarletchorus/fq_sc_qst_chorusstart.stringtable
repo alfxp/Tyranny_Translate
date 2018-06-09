@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\factionquestlines\scarletchorus\fq_sc_qst_chorusstart</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Dissonância da Guerra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Cacofonia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Youve been directed by [url=glossary:tunon]Tunon[/url] to speak to [url=glossary:the voices of nerat]the Voices of Nerat[/url] in Cacophony.Cacophony can be found in the [url=glossary:stone sea]Stone Sea[/url] region.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Go to Cacophony and speak to [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Fale com os sete dedos sobre aonde você irá em seguida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You spoke with [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

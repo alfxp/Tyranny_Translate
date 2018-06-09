@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\06_cv_dis_grandmother_act2_skypillar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Are you content to wander about looking for conversation? Because some of us want to head down to rejoin the troops! There's a war on, and we're missing it."
+
+"I won't rest until the teleporter gets working again. I suggest you do the same." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"How do you think Ashe will respond to the civil war?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sounds like I should go investigate the teleporter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I think that would be best!" She crosses her arms and shivers against the cool breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She blinks at you and shakes her head. "Fatebinder, I'm the lieutenant who's going to start kicking people off this Spire if I don't see that teleporter flicker to life! Now is not the time for me to rattle off accomplishments and hopes for the future. Save it for after the war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"With tact and coordination. [url=glossary:the voices of nerat]The Voices of Nerat[/url] is chaotic, emotional and baseless creature. [url=glossary:graven ashe]Graven Ashe[/url] is going to dismantle the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and wipe its leader from the face of Terratus. Count on it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Speak to you soon, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I take it you have questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I can practically see the Northern Empire from here." She squints off at the horizon. "I hope whoever built this place fell to their death. There's such a thing as standing too tall." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

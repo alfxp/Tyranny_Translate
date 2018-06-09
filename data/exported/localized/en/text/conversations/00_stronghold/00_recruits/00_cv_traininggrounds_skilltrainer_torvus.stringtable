@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_traininggrounds_skilltrainer_torvus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"No time for training right now, Fatebinder. Perhaps later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Fatebinder." He smiles broadly. "Come for some training?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The soldier grunts and regards you with disinterest. "Come for your daily bruises? I can lend a couple." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Here for some training, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Hail, Fatebinder, and welcome back to your Spire! I must say, the view up here is quite impressive." The soldier scratches the back of his head and shrugs. 
+
+"I never thought I'd see the day when I greeted an agent of [url=glossary:tunon]Tunon[/url] so happily, but then I never thought I'd see the top of a Spire either, so I guess we're all about breaking from tradition these days." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"How did you even get up here? I should have the security checked..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I wouldn't want to bore you with the details. An officer of your stature has enough to worry about without concerning yourself over the likes of me or how I get from place to place." He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'm sure that [url=glossary:tunon]Tunon[/url] has filled your head with all sorts of lessons, and the details would probably scare me half to death. But we need you in peak form and you need every means of defending yourself at your disposal." 
+
+"What do you say? Interested in some training on top of your training?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Let's get started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Leave] "Not now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

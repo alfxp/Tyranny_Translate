@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_tripnettlewilderness_main_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Taking the Outer Valley</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to Tripnettle Wilderness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Locate the rebel captain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Confront the cornered [url=glossary:vendrien guard]Vendrien Guard[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to Ashe's tent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Interrogate Variah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Speak with the Fifth Eye at the [url=glossary:scarlet chorus]Scarlet Chorus[/url] camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Win Lantry's freedom from the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Report back to Fake Limp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Defeat Pelox Florian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Leave Tripnettle Wilderness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Attend the meeting of Archons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Attend the meeting of Archons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Eliminate the [url=glossary:vendrien guard]Vendrien Guard[/url] reinforcements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Return to Fake Limp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Eliminate the [url=glossary:vendrien guard]Vendrien Guard[/url] reinforcements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] are currently attempting to secure the outer ring of Vendrien’s Well. You’ll need to help them deal with rebel forces in the area before [url=glossary:kyros]Kyros[/url]’ armies may safely march upon the Citadel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Head to the Tripnettle Wilderness and assess the situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Fake Limp told you that Nerat wants the captain of the [url=glossary:vendrien guard]Vendrien Guard[/url] rebels in Tripnettle Wilderness taken alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Your forces have prevailed at Echocall Crossing and Tripnettle Wilderness. Return to Ashe's tent and inform the Archons of your success.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>The Fifth Eye believes that the rebel captive Variah in the [url=glossary:scarlet chorus]Scarlet Chorus[/url] camp might have crucial information about rebel movements in Tripnettle. He would like you to interrogate her while he observes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>When you met with the Archons, you learned that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] has an ongoing operation in Tripnettle which hasn't proven successful. Speak with the Fifth Eye at the [url=glossary:scarlet chorus]Scarlet Chorus[/url] camp and see what you can do to assist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>A [url=glossary:sage]Sage[/url] by the name of Lantry claims that he knows how to decipher the [url=glossary:vendrien guard]Vendrien Guard[/url] message you acquired from the dead prisoner. Convince the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to release him to gain his assistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>You convinced Captain Florian to surrender. Fake Limp is awaiting your return in the Tripnettle Wilderness and will be pleased to hear about your success.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>You weren't able to negotiate a peaceful outcome with the [url=glossary:vendrien guard]Vendrien Guard[/url] in the Tripnettle Wilderness. Kill them all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>You've gone against your orders and allowed the [url=glossary:vendrien guard]Vendrien Guard[/url] to flee. It would be best to leave Tripnettle before the [url=glossary:scarlet chorus]Scarlet Chorus[/url] catch word of this, or you'll have to silence them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>You have received word that [url=glossary:graven ashe]Graven Ashe[/url] and [url=glossary:the voices of nerat]the Voices of Nerat[/url] are meeting at the [url=glossary:disfavored]Disfavored[/url] camp in Ashe's tent. You should be present at this meeting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>You have received word that [url=glossary:graven ashe]Graven Ashe[/url] and [url=glossary:the voices of nerat]the Voices of Nerat[/url] are meeting at the [url=glossary:disfavored]Disfavored[/url] camp in Ashe's tent. You should be present at this meeting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>Pelox Florian's reinforcements have arrived in Tripnettle Wilderness. You need to kill them all to cleanse the area of all rebel resistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>You've taken care of [url=glossary:vendrien guard]Vendrien Guard[/url] around Tripnettle, although a bit more violently than you were told. Time to report back to Fake Limp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10034</ID>
+      <DefaultText>Pelox Florian's reinforcements have arrived in Tripnettle Wilderness. You need to kill them all to cleanse the area of all rebel resistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You've killed every [url=glossary:vendrien guard]Vendrien Guard[/url] and Merchant hiding out in Tripnettle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You've killed all the rebel soldiers you've found, but you gave Silver Argot to the [url=glossary:disfavored]Disfavored[/url] for interrogation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You've killed all the rebel soldiers you've found, but you let Silver Argot go free in exchange for information.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>You've killed Euclin, the [url=glossary:vendrien guard]Vendrien Guard[/url] Champion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>You've managed to conscript Florian into the [url=glossary:scarlet chorus]Scarlet Chorus[/url]' ranks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>You've killed all of the rebels hiding out in Tripnettle Wilderness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>You've allowed Florian and the other [url=glossary:vendrien guard]Vendrien Guard[/url] to escape, helping the rebels in the process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Work with the Chorus to subdue the secondary rebel forces operating out of Tripnettle Wilderness. Defeating these rebels will ensure that [url=glossary:kyros]Kyros[/url]' forces will avoid a rearward attack when advancing upon the Citadel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

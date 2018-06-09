@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_library_missions_velos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"My apologies Fatebinder, I haven't been able to make anything since the Spire went under maintenance, check back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Velos scowls and contorts his face into a tight knot. "Yes, that is what it used to be called before [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] fell upon us all, taking thousands of years of knowledge and reducing it to ash." He quickly regains his composure. "My apologies Fatebinder, the wound is still fresh for many of us, please, let me be of service to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What have you made for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Velos squints at you, as if to sniff out some hidden motive, but finds none. "You still call it by its old name. Most these days refer to it as the [url=glossary:burning library]Burning Library[/url], or the burning heap of shit." 
+
+His posture visibly slouches. "Yes, I had many colleagues and mentors far more scholarly on the subject of the written word and its many forms than I could ever grasp." His gaze wanders past you, escaping off into some distant memory. "We lost many good scrolls when the [url=glossary:edict]Edict[/url] fell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Greetings, Fatebinder. Do you need something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Let me show you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I don't have anything for you at the moment. Check back later."
+
+[Recruits can generate items for you while you are gaining experience by adventuring in the world.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The sage examines a scroll, taking in every detail of his handiwork. "Did you know there are seven ways to write fire, but only two for water?" He continues to examine the scroll without the slightest sign that he was expecting an answer. "Could it be that fire has more meaning in our era?"
+
+
+There is a short pause before he realizes you've actually approached him for something. "Oh, my apologies Fatebinder, I can be taken for a ride by my own trails of thought. I'm sure there is something you need from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You seem fairly versed in the common language, did you study at the [url=glossary:vellum citadel]Vellum Citadel[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

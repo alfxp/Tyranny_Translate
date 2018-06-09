@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\02_qst_dm_missingweaponshipment</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Missing Shipment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search for the missing shipment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Lohara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Find the Brotherhood commander in Deserter's March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Locate a plausible shipment ambush location. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A [url=glossary:forge-bound]Forge-Bound[/url] weapon shipment has gone missing. Lohara would like you to locate the shipment, which is likely somewhere in the forested region southwest of [url=glossary:lethian's crossing]Lethian's Crossing[/url].
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lohara mentioned that their weapon shipment was being moved through Deserter's March. Look for the weapons there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Take the weapons shipment back to Lohara in [url=glossary:lethian's crossing]Lethian's Crossing[/url].
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>You know there are [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldiers in Deserter's March. Their commander will be interested in this weapon shipment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Lohara mentioned that their weapon shipment was being moved through the forests southwest of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Seek out known locations of Brotherhood activity in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Lohara is dead. Take the weapons shipment back to Ulantis in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Deserter's March is an enormous forest. Seek out known locations of Brotherhood activity in the area before traveling there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You have located the weapons and returned them to Lohara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You have located the weapons and gave them to the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You have located the weapons and returned them to Ulantis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>You betrayed your allies and are no longer able to complete this task.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>You chose the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] over the [url=glossary:forge-bound]Forge-Bound[/url], causing Lohara and the rest of them to leave [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

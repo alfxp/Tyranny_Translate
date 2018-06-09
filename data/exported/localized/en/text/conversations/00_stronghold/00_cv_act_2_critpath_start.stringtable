@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_cv_act_2_critpath_start</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Did you sense that?" Lantry signs a long sigil in the air, squinting at you as he works his cantrip. "The ripples are everywhere. When you move, the magic of this place stirs and churns. That portal over there, those burning braziers - they all grow more intense as you approach. I think it's responding to your presence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Before we get ahead of ourselves, it's worth remembering that you ended [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url]. That's no small feat. Maybe your connection to this place is related? Either way, sounds like something for the arcane-minded to investigate." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hate to interrupt the woolgathering, but you did just resolve one of [url=glossary:kyros]Kyros[/url]' Edicts, which is at least as remarkable as ascending a Spire. Am I the only one who thinks they might be related?"
+
+Barik plants his feet and crosses his arms. "As the lawful holder of this Spire, it is your duty to find out as much about it as possible. That includes understanding Edicts as well. If you forget your responsibilities, I'll be only too happy to remind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Judging from what just happened, one of two things happened. Either ending the [url=glossary:edict]Edict[/url] resulted in a backlash of sorts, or [url=glossary:ascension hall]Ascension Hall[/url] had some old enchantment lying dormant. Maybe both? Seems we should take a closer study of this, and other Spires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I know that you're busy with the weight of the Tiers weighing down your shoulders, but let's point this ship back on its bearing - you resolved an [url=glossary:edict]Edict[/url]. The significance, it just... it isn't..." Lantry searches among his papers and comes up empty. "Well, there's really no comparison. And ascending to the top of a Spire? I can't help but feel that these actions are related, and we should know more about them as soon as possible." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Strange..." Eb curls her fingers and draws a quick sigil in the air, then studies how it fades. "The magic of this place responds to you. The portal, the braziers - it all grows more vibrant when you approach." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>In spite of the things you've seen and only dimly understood, one truth is undeniable - you resolved [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url], the very one that you proclaimed in [url=glossary:vendrien's well]Vendrien's Well[/url]. That's no small task, and now here you stand at the summit of a Spire. 
+
+The possibility that these events are connected both chills and excites you. Above all else, you want to know more about Edicts, Spires, and how you've become inextricably involved in both. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No doubt you have much to report to [url=glossary:tunon]Tunon[/url]. While you meet with the Archon, Florian, Sybil, and I will to tend to the wounded and salvage what we can from the Archons' war camps. We'll meet you back at [url=glossary:ascension hall]Ascension Hall[/url]... provided the Archon of Justice doesn't execute you for assisting us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Be sure to see me after your audience with [url=glossary:tunon]Tunon[/url]. We cannot let the [url=glossary:scarlet chorus]Scarlet Chorus[/url] gain hold in the Tiers. Together we will wipe them from the land."
+
+"Come to me as soon as you can, Fatebinder. We have a lot of work to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Speak with me after you see [url=glossary:tunon]Tunon[/url], Fatebinder. The [url=glossary:disfavored]Disfavored[/url] need to be shown their place - if a dog acts up, you use a firm hand to put it back down."
+
+"If we are to succeed in the Tiers, we must work quickly. I will be waiting."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

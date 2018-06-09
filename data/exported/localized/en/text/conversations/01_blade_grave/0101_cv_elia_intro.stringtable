@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0101_cv_elia_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What are you doing inside our camp?!" Her hand moves toward her weapon. "No matter, your corpse will be leaving soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I'm not sure. Maybe they're content to wait, now that we're stuck in camp. I have my suspicions that the soldiers we've seen are only an advance force, and more are coming." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I don't have time for conversation right now! We need to repel [url=glossary:kyros]Kyros[/url]' forces!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Agathon sent me a bird, so I thought we'd cross paths eventually. You must have really carried your weight at Duskwatch to impress that sanctimonious braggart."
+
+She frowns, wiping a line of sweat from under her brow. "But here I am getting ahead of myself. I'm Elia, leader of this camp... for lack of a better word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I got a bird from Mattias that told me to expect you. Didn't believe my eyes at first - he doesn't normally get that excited, so I took it for a Chorus trick." She shrugs. "Sorry for doubting." 
+
+"If Mattias says that you're important to the [url=glossary:unbroken]Unbroken[/url], then I'm willing to believe the sentimental dung heap. I'm Elia, the leader of this..."  she gestures to the sorry camp behind her, "this hovel of dust-choked worms." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Her expression twists with sudden recognition. "Aren't you the one who fucked over Agathon at Duskwatch? We have nothing to say to one another. Either you're [url=glossary:graven ashe]Graven Ashe[/url]'s favorite comfort soldier or you just like to see honest folk die. Either way, you're a pile of Beast shit to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You're the red-stained Chorus garbage who conscripted Mattias? He was our best, but to you I suppose he's just battle fodder." She shakes her head. 
+
+"I hope you drown in your own fucking camp latrine, choking on the piss of a thousand men." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You're late, but not so untimely that we can't make use of you. The [url=glossary:disfavored]Disfavored[/url] showed up first and surrounded the camp. A few short clashes later, we had to pull back. We've sent ravens with pleas for aid, but our enemies keep shooting them out of the skies."
+
+She grimaces. "I lost some fucking talented birds today, and it hasn't improved my mood." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"No matter what happens here, the [url=glossary:unbroken]Unbroken[/url] will take back Sentinel Stand and banish all you Northern piss-troughs from the Tiers! I'd rather die than see Stalwart under [url=glossary:kyros]Kyros[/url]' sigil. You can't imagine what I'd do to avoid it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Why haven't the [url=glossary:disfavored]Disfavored[/url] finished off this fort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What needs to be done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"We're looking for a way into Sentinel Stand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"So is everyone and their sister. The [url=glossary:unbroken]Unbroken[/url] are hedging a lot of bets on getting inside Sentinel Stand ahead of the [url=glossary:disfavored]Disfavored[/url] so we can end the [url=glossary:edict]Edict[/url] of Storms." 
+
+She lowers her face into her palm and sighs. "If the old Regent would do the honorable thing and die for his country, this wouldn't be a problem." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"All of that aside, I came here on Mattias' orders with a small group. We weren't supposed to draw attention..." she shrugs, "and you've seen how that's gone." 
+
+"Rust Canyons sits atop the resting place of fallen Regents, who each carried a powerful artifact that could help us against the storms around Sentinel Stand. This siege is in the middle of a great big salvage operation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"How can these artifacts help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Were you able to find anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>She frowns and glances off, scanning the horizon of Rust Canyons. "Not exactly. Not what we were looking for, in any case." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"The strength of Stalwart was reinforced by old magic - storied artifacts that could turn soldiers into living walls, or cut through an enemy line with unstoppable force."
+
+"We can't end an [url=glossary:edict]Edict[/url] with an artifact, but we may be able to resist [url=glossary:kyros]Kyros[/url]' storms with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Specifically, we've been hunting for the Steadfast Insignia. I can work with you on recovering it, but we won't get far unless we deal with these [url=glossary:disfavored]Disfavored[/url] first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"In the long run, we seek vengeance against the [url=glossary:disfavored]Disfavored[/url] for tearing Stalwart to bits and the last Regent for [url=lore:edict_storms_resolution]betraying us[/url] when we needed his courage." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What must be done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"For now, I'll be pleased if we can hold this fort against the [url=glossary:disfavored]Disfavored[/url]."
+
+"The fight will come to us whether we're prepared for it or not. My scouts have reported [url=glossary:disfavored]Disfavored[/url] forces closing in, so it would be in your best interest to arm yourselves for battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"We could always use an edge on the battlefield..." Elia studies you and nods. "Some of our men are captive to the [url=glossary:disfavored]Disfavored[/url] outside of camp. Deal with [url=glossary:kyros]Kyros[/url]' soldiers and rescue ours - that will give us a few more warm bodies to hurl at our enemies." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"The [url=glossary:unbroken]Unbroken[/url] stand in defiance of [url=glossary:kyros]Kyros[/url]' rule. My presence should come as no surprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Do you truly believe that you can win?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"If you tell me how to breach Sentinel Stand, I might show the [url=glossary:unbroken]Unbroken[/url] mercy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Clueless lapdog." Elia spits. "Of course I expected [url=glossary:kyros]Kyros[/url] to dispatch someone eventually. The Overlord isn't in the habit of making appearances."
+
+"You seem smart enough to realize that the Overlord's wrath kills servant and foe alike. Why you aren't smart enough to do anything about it is a mystery to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I may die today, and Stalwart may remain a wasteland for another generation, but our people will remember. That memory will awaken a thirst only quenched by your Overlord's blood. That hope is enough to keep me standing in defiance."
+
+"Can I win? Probably not. Can Stalwart? Absolutely." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"This camp will fall today. Surrender to me, or sentence your soldiers to death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"You'll pardon the fuck out of me if I go ahead and ignore your Northern rhetoric. Your type sees us as nothing but future slaves, made only to serve the Empire's needs." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I already know that the [url=glossary:disfavored]Disfavored[/url] are looking for artifacts of Stalwart. I also know that they're searching blind. I'll take my knowledge to the grave if it keeps you out of Sentinel Stand. You can count on that." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Your threat is of no consequence. I'm willing to die for our cause, and have no delusions of my importance. Whether I fall today or ten seasons from now, our nation will live on." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You've made your choice. I will return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Attack] "I didn't come to negotiate anyway." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"At least you're setting the right expectation, which is all that counts." Elia motions to the soldiers beneath her. "Kill him."</DefaultText>
+      <FemaleText>"At least you're setting the right expectation, which is all that counts." Elia motions to the soldiers beneath her. "Kill her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Don't leave me to wonder, you simpering three-ring upright!" Elia makes a vulgar hand motion and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"You're a fickle one - helping the [url=glossary:unbroken]Unbroken[/url] only to turn your back on us. I suppose there are stranger qualities in the Overlord's peons, but I had expected a servant of [url=glossary:tunon]Tunon[/url]'s to be more consistent. Seems I overestimated you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"So, your pretense of helping us was a ruse. Unsurprising from a servant of the Overlord. Un... expected from one of [url=glossary:tunon]Tunon[/url]'s lackeys. They're usually more predictable." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Fatebinder! My brethren have returned, and I'm told you are to thank for their survival." 
+
+"I understand there are still [url=glossary:disfavored]Disfavored[/url] soldiers in the area. We need all of them dealt with before they have a chance to join the incoming reinforcements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Killing the [url=glossary:disfavored]Disfavored[/url] is a significant step forward, but we need our soldiers freed from their bonds before there's any chance of pushing back the enemy advance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"You're the motherless pig who killed my men? Cutting down unarmed captives is thirsty work, so here!" She spits down at you. 
+
+"Suck on that, you engorged owl pellet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Thank you, Fatebinder. Your deeds may just turn the tide." She scans the distant canyon as the sound of an approaching force grows in volume. "They're coming. Get inside! We'll open the gate for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Move your ass. [url=glossary:disfavored]Disfavored[/url] reinforcements are coming." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What was that you said about the Regents?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"According to [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url], the storms will only abate when the last of the royal bloodline falls. We hear tell that the last Regent is buttoned-up all safe and secure inside the walls of Sentinel Stand. "
+
+"Unless the final scion of their line charitably kills himself, the storms aren't going anywhere. We need a better defense against the winds, and that means artifacts." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"My men had just returned to camp when you arrived. They said the Fatebinder had released them... a claim I could scarcely believe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I come on behalf of a coalition of rebels united against [url=glossary:kyros]Kyros[/url]. If I help you, will you hear us out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>She regards you with incredulity. "Do I look like I have the time to hear about anyone else's problems? The [url=glossary:disfavored]Disfavored[/url] have a sword to my throat. If you can wrestle them off me, you'll have my undivided attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url]'s Fatebinder in the flesh. I wouldn't have expected to see you here, but I got a bird from Agathon that said you helped him. Can't say I know what to make of you. You rejected the Archons, and you don't support the locals."
+
+"If you try to fuck me over, I'll shove a pike up your nethers and invite all of Stalwart to a puppet show." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I received word from Mattias that told me to expect you. He says we're to work with the Chorus to avenge ourselves on the [url=glossary:disfavored]Disfavored[/url] and the Regent. Normally I wouldn't trust a red bird, but I know our captain's handwriting." She frowns.
+
+"The whole thing sounds like a wagonload of Beast shit to me, but I don't have time to send him my thoughts with the [url=glossary:disfavored]Disfavored[/url] breathing down my neck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] captain looks down from the elevated platform, resting a heavy boot on top of an axe head buried in the wooden slats. She grips its handle as you approach.
+
+"What do we have here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I'm willing to hear you out, and if I like what I hear then I'll keep listening, but I can't promise anything more. I have enough capable soldiers to make a [url=glossary:disfavored]Disfavored[/url] attack against us costly to the Archon of Inbred Dimwits, but that doesn't make our situation any less desperate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] are my enemy. I seek [url=glossary:graven ashe]Graven Ashe[/url]'s daughter in Sentinel Stand." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"If you joined with the [url=glossary:scarlet chorus]Scarlet Chorus[/url], we could fight the [url=glossary:disfavored]Disfavored[/url] together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I know you've been hunting for artifacts. Have you found the sword Dauntless?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You've come all the way out here for the sake of one prisoner? I can't decide if that's impressive or a total waste of resources. Maybe both. I suppose [url=glossary:the voices of nerat]the Voices of Nerat[/url] has his reasons for seeking the daughter of his enemy. Not that I want to know any of them." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Mattias sent us to Rust Canyons searching for artifacts carried by the Stalwart Regents. If we find what we're looking for, it could mean unlocking Sentinel Stand." 
+
+"Help us bury these [url=glossary:disfavored]Disfavored[/url] and I'll tell you what I know." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>She studies you through narrow eyes. "We've been looking for artifacts, all right - the ones the Regents carried into war. They might just be the key that unlocks Sentinel Stand, where we can strike back and reclaim Stalwart."
+
+"Help us deal with the [url=glossary:disfavored]Disfavored[/url] stinking up the canyon and I'll tell you what I know about the Dauntless." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Do you truly believe that you can win?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I may die today, my remains swept off in [url=glossary:kyros]Kyros[/url]' storm. And Stalwart may remain a wasteland for another generation... but our people will remember, and that memory will awaken a thirst only quenched by your Overlord's blood. That hope is enough to keep me standing in defiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"You're fucking kidding me if you think-" She stops herself and frowns. "Look, as you can probably tell, we're not exactly at peak strength over here. I might not be in any condition to turn down an offer of resources... but I couldn't begin to consider it unless my soldiers' lives were guaranteed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Random Node 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"We are a little outnumbered at the moment, so provoking a fight might not be the best course of action. Let's wait until we have Teodor and his men to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Like fighting. Let Beastwoman fight [url=glossary:unbroken]Unbroken[/url]. Will rend-rip Elia to pieces with claws. But not now. Should wait, stalking in shadow - send iron-clads to deaths first. Win, win."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Much as I'd love to put an arrow through her throat, she's got a point. We should return with Teodor and his ironclads at our backs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I like her... reminds me of a younger me, minus my amazing hips and incessant modesty. At the rate you two are going, this is going to get hostile real quick. It might be best to walk away now and get Teodor and his squad to back us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Insufferable! These Stalwart wretches are too stubborn for even [url=glossary:kyros]Kyros[/url] to break. We ought to return with Teodor and his forces. We'll show them how the North handles firebrands like her." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"She's got that look of someone who's lost too much to ever know fear again. Before you taunt your way into yet another battle, perhaps we should meet with Teodor - we can have this conversation again later, but with the [url=glossary:disfavored]Disfavored[/url] on our side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Elia whistles to her men - a warning signal of impending attack. She stares at you, silent and ready.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"If you won't tell me where the Dauntless is, I'll pry the secret from your corpse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"For now, I'll be pleased if we can hold this fort against the [url=glossary:disfavored]Disfavored[/url]."
+
+"The fight will come to us whether we're prepared for it or not. My scouts have reported [url=glossary:disfavored]Disfavored[/url] forces closing in, so it would be in your best interest to arm yourselves for battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"My men had just returned to camp when you arrived. They said the Fatebinder had released them... a claim I could scarcely believe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"We could always use an edge on the battlefield..." Elia studies you and nods. "Some of our men are captive to the [url=glossary:disfavored]Disfavored[/url] outside of camp. Deal with [url=glossary:kyros]Kyros[/url]' soldiers and rescue ours - that will give us a few more warm bodies to hurl at our enemies." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"If we're going to take back Stalwart, we need to find the artifacts that the Regents carried into the war. They're the only hope we have at crossing the windwall into Sentinel Stand." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"What was that you said about the Regents?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"According to [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url], the storms will only abate when the last of the royal bloodline falls. We hear tell that the last Regent is buttoned-up all safe and secure inside the walls of Sentinel Stand. "
+
+"Unless the final scion of their line charitably kills himself, the storms aren't going anywhere. We need a better defense against the winds, and that means artifacts." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"How can these artifacts help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"The strength of Stalwart was reinforced by old magic - storied artifacts that could turn soldiers into living walls, or cut through an enemy line with unstoppable force."
+
+"We can't end an [url=glossary:edict]Edict[/url] with an artifact, but we may be able to resist [url=glossary:kyros]Kyros[/url]' storms with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Were you able to find anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>She frowns and glances off, scanning the horizon of Rust Canyons. "Not exactly. Not what we were looking for, in any case." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Specifically, we've been hunting for the Steadfast Insignia. I can work with you on recovering it, but we won't get far unless we deal with these [url=glossary:disfavored]Disfavored[/url] first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I hear you're looking for artifacts. Found anything?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Yeah, your mother's pizzle cane!" Elia slaps her knee and peers down at you with a grin. "You're on the wrong side of this war to be asking me anything." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"This one's got a smart mouth. I like her. Think she'd be interested in joining us?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[To Elia] "I don't suppose it's too late to offer you a spot in our party?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"There's no way I'm inviting that along with us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>She looks at you with total bewilderment. "Are you fucking kidding me? I'd rather gargle Beast milk!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Well, a girl can't get everything she wants. What's important is you tried your best." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Neither are we, darling." Verse sighs. "At least we can amuse ourselves by gutting her and seeing what spills out." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>The captain darts her gaze between the two of you throughout the exchange. "I'm not here to negotiate with any of [url=glossary:kyros]Kyros[/url]' mongrels!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"If it isn't the Stormcaller himself. You can eat shit and bleed for shoving this [url=glossary:edict]Edict[/url] up our asses without as much as a warning." She hawks an impressive glob of phlegm over the wall. </DefaultText>
+      <FemaleText>"If it isn't the Stormcaller herself. You can eat shit and bleed for shoving this [url=glossary:edict]Edict[/url] up our asses without as much as a warning." She hawks an impressive glob of phlegm over the wall. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"The Stormcaller, if I'm not mistaken." Elia frowns down at you. "You fucked us over good with the [url=glossary:edict]Edict[/url] of Storms, but you gave us fair warning beforehand. I'll give you that much by way of respect." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Why haven't the [url=glossary:disfavored]Disfavored[/url] finished off this fort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I'm not sure. Maybe they're content to wait, now that we're stuck in camp. I have my suspicions that the soldiers we've seen are only an advance force, and more are coming." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Her expression brightens with amusement, and her tone softens. "Will you, now? Because wave after wave of [url=glossary:disfavored]Disfavored[/url] have come through here, and I'm still standing."
+
+She gestures to the ground beyond the fort entrance, holding her composure. "Did I ever give you the impression that I was tying daisy chains back here, or that I fucking kill people for my country? Because you sound confused about who exactly you're talking to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Maybe I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Attack] "I don't need a cause to justify what I'm about to do to you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Then have at us, you bloated gut-stone!" She lets out a piercing whistle to alert her soldiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Maybe you'll do that, and maybe I'll stretch your dumb mouth open and fill it with rocks until you shit me a diamond?"
+
+She dismisses you with a wave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Consider your soldiers under the protection of the Voices. What can I do to help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>She releases a stored breath and nods. "Very well. This isn't where I saw my day going, but if it brings us closer to Sentinel Stand, the [url=glossary:unbroken]Unbroken[/url] will have to... bend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Elia whistles to her men - a warning signal of impending attack. She stares at you, silent and ready.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Too bad for human, Beastwoman is not lactating for brood." She chuffs, amused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>She shrugs. "Would not be first human to suckle Beastwoman's teat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Bank Node 162</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>She stands taller against the harsh winds. "The sooner Teodor joins his countrymen as a corpse, the sooner I get to leave this garbage heap." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>She stands taller against the harsh winds. "The sooner Teodor joins his countrymen as a corpse, the sooner I get to leave this garbage heap." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"This camp will fall today. Surrender to me, or sentence your soldiers to death."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

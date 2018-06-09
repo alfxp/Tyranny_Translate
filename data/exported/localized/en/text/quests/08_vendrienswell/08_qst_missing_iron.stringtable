@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_missing_iron</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] Iron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Explore Echocall Crossing for clues of the missing shipment of iron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find the iron located somewhere in Echocall Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Isotanis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to the [url=glossary:disfavored]Disfavored[/url] camp and inform a smith about the fate of the shipment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[url=glossary:resolve]Resolve[/url] the Battle of Echocall Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A shipment of iron bound for the [url=glossary:disfavored]Disfavored[/url] Camp went missing somewhere around Echocall Crossing. Isotanis, a blacksmith working in the [url=glossary:disfavored]Disfavored[/url] camp, has a suspicion it might have fallen into enemy hands. It would greatly benefit the [url=glossary:disfavored]Disfavored[/url] war effort, if they had iron to repair or forge new weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Isotanis has reason to believe that the settlement near Echocall Crossing would be a good place to start looking for the missing iron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The iron shipment must be located somewhere in the village. Search the area for the goods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Matani Sybil was attempting to arm her soldiers with the iron shipment the settlers found washed ashore. You managed to find the remaining iron inside one of the settler's homes. Return to the [url=glossary:disfavored]Disfavored[/url] camp and tell Isotanis the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>You discovered a missing iron shipment in Echocall Village that Matani was using to arm her soldiers. It was likely headed for the [url=glossary:disfavored]Disfavored[/url] legion, but the [url=glossary:vendrien guard]Vendrien Guard[/url] intercepted it first. Perhaps there is a [url=glossary:disfavored]Disfavored[/url] smith in the camp that is looking for this shipment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>The chaos of battle will make finding this lost shipment difficult. It would be wise to deal with the [url=glossary:vendrien guard]Vendrien Guard[/url] in the area before continuing this search.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>You discovered waterlogged crates with notches that match the ones Isotanis showed you. This must have been filled with the iron Isotanis was expecting. The rest of the shipment must be nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>You found a broken crate with a busted [url=glossary:disfavored]Disfavored[/url] weapon inside. This must have been part of the shipment. There must be more clues nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You decided to keep the shipment for yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You returned the shipment to Isotanis in the [url=glossary:disfavored]Disfavored[/url] camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You decided to leave the shipment where it was.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Echocall burns and so do the remains of whatever iron the rebels may have found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>You did not manage to find the shipment for Isotanis before the assault began.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>You discovered a shipment of iron hidden in Echocall Village which Matani had used to arm her soldiers with. Now that you have seized it, it is up to you what to do with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

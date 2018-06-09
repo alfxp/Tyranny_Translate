@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_vendrienswell_assault_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Assault on the Citadel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Meet the [url=glossary:disfavored]Disfavored[/url] at the Citadel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find a way over the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Clear the courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Find Iron Marshal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Defend the Earthshakers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Kill the Reinforcements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Enter and Secure the Courtyard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Enter [url=glossary:vendrien's well]Vendrien's Well[/url] Keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Clear the Courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Enter [url=glossary:vendrien's well]Vendrien's Well[/url] Keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Get to [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Meet the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at the Citadel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Find Fifth Eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Find a way over the west wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Defend the Blood Chanters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Kill the Reinforcements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Enter and Secure the Courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Clear the courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Defeat the Eastern Reinforcements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Enter [url=glossary:vendrien's well]Vendrien's Well[/url] Keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Defeat the rebel leaders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Speak with Iron Marshal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Speak with Fifth Eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Enter the Main Courtyard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The attack on [url=glossary:vendrien's well]Vendrien's Well[/url] Citadel is underway, and the fate of the siege will soon be decided. Help [url=glossary:kyros]Kyros[/url]' forces take the fortress and gain control of the valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Travel to [url=glossary:vendrien's well]Vendrien's Well[/url] Citadel and assist the [url=glossary:disfavored]Disfavored[/url] with their assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Iron Marshal said her scouts spotted a possible climbing spot in an eastern section of the wall. Climb it and get to the courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Kill the [url=glossary:vendrien guard]Vendrien Guard[/url] in the courtyard to clear the way for the Earthshakers to destroy the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Iron Marshal will have instructions for you regarding what is needed to bring down the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>The Earthshakers are getting into position to unleash their arcane powers against the perimeter wall. Ensure that they can cast their spells uninterrupted by slaying any [url=glossary:vendrien guard]Vendrien Guard[/url] who interfere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Support from the [url=glossary:vendrien guard]Vendrien Guard[/url] is incoming. Defeat the reinforcements and continue the attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Enter the Citadel and clear out what [url=glossary:vendrien guard]Vendrien Guard[/url] troops remain behind the walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Push your way into the Keep and clear a path to [url=glossary:ascension hall]Ascension Hall[/url]. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Defeat the [url=glossary:vendrien guard]Vendrien Guard[/url] in the main courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>The way is clear. Push into the keep and fight your way toward [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Make your way through the Keep to [url=glossary:ascension hall]Ascension Hall[/url] and confront the leaders of the [url=glossary:vendrien guard]Vendrien Guard[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Travel to [url=glossary:vendrien's well]Vendrien's Well[/url] Citadel and assist the [url=glossary:scarlet chorus]Scarlet Chorus[/url] with their assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Fifth Eye will have instructions for you for the attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Fifth Eye said his scouts discovered a possible climbing point by a destroyed section of the west wall. Climb it to get to the courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>The Blood Chanters are getting into position to unleash their arcane powers against the perimeter wall. Ensure that they can cast their spells uninterrupted by slaying any [url=glossary:vendrien guard]Vendrien Guard[/url] who interfere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Support from the [url=glossary:vendrien guard]Vendrien Guard[/url] is incoming. Defeat the reinforcements and continue the attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Enter the Citadel and clear out what [url=glossary:vendrien guard]Vendrien Guard[/url] troops remain behind the walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Kill the [url=glossary:vendrien guard]Vendrien Guard[/url] in the courtyard to clear the way for the Blood Chanters to destroy the gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Defeat the Guards entering from the eastern courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Push your way into the Keep and clear a path to [url=glossary:ascension hall]Ascension Hall[/url]. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>There is no way out for the [url=glossary:vendrien guard]Vendrien Guard[/url]. Defeat them here and end the battle for [url=glossary:vendrien's well]Vendrien's Well[/url] once and for all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>You have made your side known in the confrontation you witnessed between the two Archons. Speak with Iron Marshal near the training grounds to begin the assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10030</ID>
+      <DefaultText>You have made your side known in the confrontation you witnessed between the two Archons. Speak with Fifth Eye at the [url=glossary:scarlet chorus]Scarlet Chorus[/url] camp to begin the assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>Get into the main courtyard before the [url=glossary:scarlet chorus]Scarlet Chorus[/url] do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You helped the [url=glossary:disfavored]Disfavored[/url] rout the [url=glossary:vendrien guard]Vendrien Guard[/url] and took control of the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You ultimately decided to betray [url=glossary:kyros]Kyros[/url]' forces and help the [url=glossary:vendrien guard]Vendrien Guard[/url] defend the Citadel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You helped the [url=glossary:scarlet chorus]Scarlet Chorus[/url] rout the [url=glossary:vendrien guard]Vendrien Guard[/url] and took control of the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\interactables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>364</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Container</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Default Examinable Text</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A ragged Stalwart flag sways gently in the wind, marking the site where its original owner died during the casting of the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Though the soldiers of old Stalwart were ripped apart by the magic of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url], many of their battle standards still remain upright, reminders of their heroic fight against the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wedged into these rocks are the iron trappings of soldiers killed by [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url]. Magical winds sheared away all flesh, leaving behind only rusting armor and weaponry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The smell of men soaking in their own waste rises up from this spear-lined pit used to keep prisoners.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The scavengers have used the environment to help build their camp. This makeshift tent is comprised of a large patchwork of cloth held aloft, in part, by spikes of earth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The equipment of both [url=glossary:disfavored]Disfavored[/url] and [url=glossary:unbroken]Unbroken[/url] soldiers are embedded in these jagged rocks. The destruction of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] did not distinguish ally from enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>This campfire smells of rust and burnt hair. Whoever built it struggled with the Rust Canyon's scarcity of kindling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Container</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>A Wall Trap
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>A Floor Trap
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The dusty stone platform is lifeless, but small markings indicate that its old magic might be reawakened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You see subtle movement beneath the faintly-glowing surface of this object.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The purpose of this bygone altar is a mystery. The sculpted figure cradles a bowl with reverence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Brackish, foul-smelling water pours from these spouts and disappears away into nothingness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Tines of bedrock dot the landscape, providing little shelter from the constant winds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Light emanates from within this massive passageway into the Oldwalls, simultaneously calming and imposing to behold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Distant howls echo within this pit, which descends into darkness. When you crane your neck, you can just barely make out the Bane clustered at the bottom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The labyrinth that is the Oldwalls seems to go on forever. The numerous sconces and alcoves that line the massive stone wall go as far as the eye can see before fading into blackness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>It is unclear if this Bane Snare was destroyed by the [url=glossary:unbroken]Unbroken[/url] trying to get in, or the Bane attempting to escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The crystal in the beacon shimmers softly as you bring the torchkey closer to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The enormous door to the Oldwalls stands a silent vigil here, sealed against intrusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Oldwalls Trap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>There is a small recessed panel in the stone here. It looks like something was meant to fit into the space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>A massive stone door towers above you. It looks like this was the actual entrance to the Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bandits erected this wilderness camp as a temporary base of operations.  Ready to be moved at a moment's notice, it contains no permanent fixtures whatsoever. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Bandits have gone through most of the cargo driven off the road, and have left some traps behind for the next round of travelers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>The walls of this Keep have been beaten and chipped away by both the storm and the bitter clash between the [url=glossary:disfavored]Disfavored[/url] and the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>The Helm of the First Regent can be found embedded in the earth here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Reinforcements from [url=glossary:kyros]Kyros[/url]' armies are setting up here, ready to provide backup if needed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>A gargantuan door towers above you, sealed shut and impenetrable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>This campfire smells of rust and burnt hair. Whoever built it struggled with the Rust Canyon's scarcity of kindling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The imposing wall looms over the rivers, stretching up and out of sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Magma Pulse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The wind whips violently past, throwing bits of rock and metal past you along with the dust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The moat that once encircled Sentinel Stand has long since succumbed to the harsh environment. Standing water and patches of moist dirt are all that remain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You can't tell if the recent battle here caused this destruction or if has been this way for a while.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Sentinel Stand Keep was once a proud, imposing structure. Now it stands as a mere shadow of its former glory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Unseen Force</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Earth Trap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Massive spikes split apart the castle walls here, the result of tremendous winds that passed through long ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Fire Trap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Pentibor's Shop</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>This group of Beastmen show no signs of infighting and appear to have been stabbed through the back while on their knees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The weapons on this wagon all appear to be made of iron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>The wall here is crumbling and decayed. Stones jut out, creating a perfect spot to climb up to the walkway above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Several sections of the main door show signs of wear that have not been recently repaired. Well-placed attacks on those spots could quickly bring the door down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>A huge crack has formed in the wall, compromising it. If the Earthshakers concentrated their magic here, they could bring down the walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Quartermaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Sniggler Dagos' Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>The path behind you is now blocked. [url=glossary:kyros]Kyros[/url]' magic has sealed the valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>A rotting body bearing [url=glossary:scarlet chorus]Scarlet Chorus[/url] war paint is skewered upon a wooden pike. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>A body resembling Sniggler Dagos lies limp, impaled by a broad spike. Flies have only just begun to gather around the corpse - his death was recent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>This barrel is full of murky, red water. Severed limbs bob under the greasy soup skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>A blood-stained map of the [url=glossary:vendrien's well]Vendrien's Well[/url] region. Multiple arrows corkscrew toward the Tripnettle Wilderness surrounding the outer ring of the valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>These battle plans were scribbled with mad glee. Arrows all point towards the Matani River, with a big circle surrounding Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Battle plans are scribbled over a blood stained map of the Tiers. Arrows point toward the inner ring of the [url=glossary:vendrien's well]Vendrien's Well[/url] valley, and small circles are drawn around the Citadel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Alitia's Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>The ancient Weeping Mother statue pays homage to the Queen Lycaerus, First of Her Name. Fresh water once flowed from this statue, but when [url=glossary:kyros]Kyros[/url]' forces attacked [url=glossary:vendrien's well]Vendrien's Well[/url] in 429, the statue began weeping blood, and has done so ever since.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>The once pure water of Queen Lycaerus' Tears has run red with blood since [url=glossary:kyros]Kyros[/url] forces invaded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Desiccated corpses line the Road of Victory to [url=glossary:vendrien's well]Vendrien's Well[/url] - an example of the fate that awaits those who resist [url=glossary:kyros]Kyros[/url]' will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Weathered bodies line the Road of Victory to [url=glossary:vendrien's well]Vendrien's Well[/url]. Though [url=glossary:kyros]Kyros[/url] decreed that a display be erected, you chose to limit the victims to [url=glossary:vendrien guard]Vendrien Guard[/url] soldiers that took arms against [url=glossary:kyros]Kyros[/url]' armies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>The grisly remains of men, women, and children line [url=glossary:kyros]Kyros[/url]' Road of Victory to [url=glossary:vendrien's well]Vendrien's Well[/url]. At your order, [url=glossary:kyros]Kyros[/url]' armies spiked the families of captured soldiers and wiped out entire bloodlines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>The inhabitants of this valley have already surrendered once before. Having little patience for second surrenders, [url=glossary:kyros]Kyros[/url]' soldiers have begun making gruesome examples of the oathbreakers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>These wall segments are part of the original masonry of Edgering Fort. Much of the fort fell into the ravine below when [url=glossary:cairn]Cairn[/url], Archon of Stone, assaulted the fort two years ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Weapons and armor are strewn haphazardly around the cart. Every blade shows signs of rust, and every piece of armor is in need of repair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>The symbol of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] is smeared in blood on the tattered cloth tent. No effort has been made to repair the gaping tears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Weapons and armor are stacked with neat precision on this transport cart. Every spear is honed and oiled, ready for battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url] ordered the original icon of the [url=glossary:disfavored]Disfavored[/url] erased from memory. For over a hundred years, the [url=glossary:disfavored]Disfavored[/url] have kept the scratched-out iconography, wearing it with pride.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>This torn banner bears the scratched-out icon of the [url=glossary:disfavored]Disfavored[/url]. The army's original symbol has been lost to history and [url=glossary:graven ashe]Graven Ashe[/url] has never ordered a replacement, preferring the blasted icon over all others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Several skulls - bleached by the sun and picked clean by carrion birds - are spiked on a roughly-hewn post. It is the only heraldry the [url=glossary:scarlet chorus]Scarlet Chorus[/url] needs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>An empty spike stands waiting to claim its victim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Gravelight Trap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Shock Trap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Horde Recruit Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[url=glossary:sage]Sage[/url] Recruit Vendor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Container</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>You see bits of metal flakes surrounding the campfire and a pair of [url=glossary:forge-bound]Forge-Bound[/url] tongs. It looks like whoever was here left in a hurry and forgot to take them. Nearby tracks head to the Oldwalls Entrance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>This is the junction point for two waterfalls that pour over the top of the Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>The river is commonly used by merchants bringing their wares to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>During clear mornings, the western waterfall reflects the rising sun in a beautiful display of color.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>This is the eastern waterfall. Though it cascades down alone, some settlers believe that the waterfalls split from a single source somewhere above the Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Merchant tents are a common sight in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Due to the frequency of raids, all the bridges and ramps in [url=glossary:lethian's crossing]Lethian's Crossing[/url] can be raised to provide safe places for settlers to hide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>The river flows from [url=glossary:lethian's crossing]Lethian's Crossing[/url] to this point, where it splits into what are known as the Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Shadow Trap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Though the amount of heat rushing through this fissure is intense, the lower floor somehow remains intact. It isn't clear why the library hasn't been wholly consumed by lava.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Waves of heat hit you as you lean over to look upon lake of lava far below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>A large boulder blocks your passage. It is firmly wedged in place and will not move, no matter what you do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>The scrolls here are blank. It looks like they were stored here along with implements and ingredients to make ink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>The stone here shimmers and warps behind the waves of heat emanating from the lava. The temperature down here is almost unbearable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>There appears to be some kind of ramp underneath the lava. There is no way to use it without immediately bursting into flame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Below you is a sweeping view of some of the shelves of the main library. A few of them, against any reason, remain intact - their scrolls somehow resisting the intense heat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>A lake of lava surrounds a section of floor that collapsed into it. Had the lava pooled any higher, the island would have been completely submerged.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>The edge of the floor near the entrance drops right off into a lake of lava. The heat coming from the molten rock is practically unbearable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Beyond the gaping hole in the floor, hundreds of scrolls fill the shelves on the far wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>These dangling ropes served as a last, desperate attempt to keep homes together following the collapse. The aftershocks proved to be too much for the makeshift supports.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>These dangling ropes served as a last, desperate attempt to keep homes together following the collapse. The aftershocks proved to be too much for the makeshift supports.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>A home lays flattened by the quake that shattered Halfgate. The majority of the structures here stood no chance against the strength of the tremors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>This cliff is perched above a distant drop, one that stretches far down into the [url=glossary:stone sea]Stone Sea[/url]'s massive depths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>The giant hole in this Plainsgate residence formed during the great quakes that shaped Azure into the [url=glossary:stone sea]Stone Sea[/url]. Plainsgate, as a whole, actually fared better than most settlements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Plainsgate serves as the crossroads of the [url=glossary:stone sea]Stone Sea[/url], surviving off profits made from supplying travelers with basic goods and materials.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>These beautiful purple crystalline formations are a common sight in the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Far below lies the [url=glossary:stone sea]Stone Sea[/url]. Gulfglow Oldwalls is a fraction of its previous land mass - only spires of terrain remain after the great earthquakes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Treasure hunters frequent these sections of the [url=glossary:stone sea]Stone Sea[/url], hoping for a chance at finding increasingly-scarce artifacts and forgotten stores of valuables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>These carts have been all but destroyed by thieves and scavengers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Aged planks of wood and withered rope are the only things keeping travelers alive while crossing the great chasms of the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>This cart is bursting with fresh food and useful goods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>These arrows were fletched with precision and care. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>This sparring dummy shows the deep gouges of hard use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] insignia has been violently defaced. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Fresh straw in the corner of this prison cell absorbs much of the stench. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>This passageway has been blocked by a magical field. It isn't clear how one might remove it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>This shelf is well-separated from the surrounding area and looks quite perilous to scale. Strange, rocky protrusions can be seen along the top, likely magical in nature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>The stone is cool, unaffected by the molten lava that flows over it. As you touch it, the lava flares brilliantly. For a moment, you can only see its light and the outline of an intricate sigil bathing in its glow. The light quickly subsides, but the shape within remains seared into your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>The wood is decorated with gouges and scorch marks. It likely saw use as fortification.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>These spears are uniform in their quality craftsmanship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>A meager portion of game simmers in the large copper pot. Fragrant spices attempt to mask the potent smell of whatever creature they've decided to cook.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Most of these provisions are withered with rot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Shards of blackened bone smolder among the embers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>These arrows are splintered, their fletching mottled. They were likely pulled from corpses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>These spears are brittle and rusted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>These threadbare tents show signs of hard use and long-term exposure to the elements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Accessible waterfalls like this one are rare in the [url=glossary:stone sea]Stone Sea[/url] and are a valuable resource. The water that flows into the depths below forms one of the major netherstreams that sustains the region's scattered populations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Eruptions of crystal like this one appeared in the [url=glossary:stone sea]Stone Sea[/url] shortly after [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] tore the land asunder. It isn't known if they are a byproduct of the Overlord's magic, or the result of [url=glossary:cairn]Cairn[/url]'s experiments during the war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>This recessed space appears to be a nesting area, where Beastmen young are often confined for safety. It has most recently been used to hold captured outsiders. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Buildings like this once numbered in the thousands in Azure's great cities. Those that weren't swallowed by the earth have been left behind in ghost towns, haunting reminders of a more glorious past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>A river of lava flows freely around an island made of huge cracked piece of the floor. The destruction seems more widespread down here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>This room is mysteriously untouched by the destruction that ripped the rest of the library apart. The scrolls look completely undisturbed on the intact shelving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Battle Standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Iron Thorn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>The body seems to belong to a poorly disguised Horde member.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Corpse Eye's Questionable Wares</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Eirena's Magical Menagerie
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Temerin's Forge
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Vora's Armory
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Ragus' Exceptional Wares
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Willa's Armory
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Prixos' [url=glossary:scouting]Scouting[/url] Goods
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Arasto's Alchemical Goods
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Gela's [url=glossary:quality]Quality[/url] Mixtures
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Nereus' Problem Solvers
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>A decapitated body lies on the ground before you. Claws have shredded the tattered garbs of what you've determined to be a follower of Nunoval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>A decapitated body lies on the ground before you. Claws have shredded the tattered garbs of what you've determined to be a follower of Calio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>A decapitated body lies on the ground before you. Claws have shredded the tattered garbs of what you've determined to be a follower of Nunoval. You also notice the sigil of the Fatebinder, which resembles the one found on Rending-Hound's Trophy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Orb of Life
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>The [url=glossary:stone sea]Stone Sea[/url] environment is harsh and unforgiving. Arid plant life is about all that can survive in these parts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Quartermaster
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Basila's Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Helina's Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Praxus' Store
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Store
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Arason's Wares
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Irene's Wares
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Charise's [url=glossary:quality]Quality[/url] Goods
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Lohara's Forge
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Boltok's Wares
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Tychus' Store
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Forged Weapons and [url=glossary:armor]Armor[/url]
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Harchiand's Exquisite Selection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[url=glossary:sage]Sage[/url] Store
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Store
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Merchant
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Sentinel Stand Keep Wares
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Duskwatch Merchant
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>A [url=glossary:sage]Sage[/url] lies here in the lava, screaming in agony. Though the lava appears to be burning him, his skin stays intact as he writhes around, his eyes pleading with you for help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>You see a worn down and faded rune embedded into the wall. It is currently impossible to decipher what the rune is.
+(Lantry's Voice of Ages talent is required to learn this spell rune).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>The torc possesses a number of small grooves. It otherwise appears fairly ordinary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Sterling Hagnon's Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>These empty crates appear to have significant water damage. You also notice a small series of notches on the top left corner of each box.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Quartermaster's Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>The large wooden gate is barred tightly from the other side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>This beacon appears to be missing its crystal. Closer inspection reveals damage that may have been caused by a Havoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>A Beastman lies here, bound and unable to move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>A Beastman lies here, bound and unable to move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>This appears to be the body of the [url=glossary:unbroken]Unbroken[/url] champion you're looking for, but the Dauntless is nowhere to be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>The thick clumps of dirt and rusted iron block most of your view into the storm. You can vaguely make out the silhouette of a distant structure, which can only be the inner keep of Sentinel Stand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>This battle report from Echocall Crossing blames the failure of the assault on the village on the [url=glossary:scarlet chorus]Scarlet Chorus[/url] - apparently, their scouts failed to report critical intelligence about the enemy composition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>The stall contains spoils acquired on the battlefield, all of it neatly labeled and organized.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>These reports list all known [url=glossary:scarlet chorus]Scarlet Chorus[/url] outposts and strongholds as well as troop compositions - it's safe to assume that [url=glossary:graven ashe]Graven Ashe[/url] has his own eyes and ears within the ranks of his enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>The production of new potions isn't keeping up with demand. Many of these bottles remain empty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Bodies of [url=glossary:disfavored]Disfavored[/url] commanders are proudly displayed behind [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s throne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>The cluttered and unorganized tents go on for as far as you can see.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Scraps of food and cloth litter the floor of the tent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]' standard, an imposing sight for both conquered and unconquered alike.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>The ornament atop of the throne resembles [url=glossary:tunon]Tunon[/url]'s mask. It always seems to meet your gaze, regardless of where you are standing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Any petitioners that displeased [url=glossary:tunon]Tunon[/url] would meet their fate in the pits below the court.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>The stone throne is caked with a solid layer of dust. No one has sat upon it for quite some time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>The intricacies of this architecture suggest a master of craftsmanship that is far beyond what one would expect from a normal Tiersman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>All that remains on the plates and in the goblets are molded bits of bread and dingy water. A decent meal hasn't been had in this room for a long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] weaponry and armor lie here. Chipped, scratched and scarred, these armaments have proven their efficiency and durability time and time again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Jagged Remedy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>You hear the faint wailing of a baby behind the door. No one comes to aid it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>The fire in the mess hall still burns, and plates and silverware line the tables. This room hasn't seen combat for generations. The [url=glossary:vendrien guard]Vendrien Guard[/url] will never be the same after this battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] food supplies are stored here. Most of it is comprised of vegetables grown in the Tiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>The Matani River's currents pose little threat to small boats, let alone bridges like this one. The magic that split this bridge must have been quite powerful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Most of the homes on the southern side of the river have been abandoned, much like this one. Few of Apex's citizens believe that raising a blue flag will be respected by [url=glossary:kyros]Kyros[/url]' forces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>The Matani River forms the boundaries of Apex's central ring. The river narrows considerably at Echocall, making it one of the few access points for the valley's interior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Arcane glyphs adorn the scrolls scattered on this table. The penmanship suggests a [url=glossary:sage]Sage[/url]'s hand, though it is written on crude parchment produced in the valley - a collaboration between two normally separate rebel groups.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>The tree still smolders from the unquenched embers beneath the ground, no doubt due to Chorus efforts to render the land unfarmable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>The wagon appears to have been used as a makeshift shelter from volleys of arrows. It wasn't entirely successful, judging from the blood stains that trail away from the wagon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>The soldier has numerous wounds on his body. The cold forms of two elderly villagers lay nearby, two victims that he ultimately could not shield from harm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Spiked barricades have been strung together, blocking the path.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Flickering embers dance through the air as wind blows through an abandoned campsite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Insects flutter around and land on a few pieces of rotten vegetables interspersed amongst the produce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>The table is lined with various medicinal herbs. It would appear that they have been carefully rationed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Carefully skinned game hang from this branch. They appear sickly and malnourished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>From your vantage point you see tents trail off, obscured by the rising smoke of camp fires. The soldiers you see appear somber and quiet, a calm before the storm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Off in the distance, you pick up the typical clamor of a military camp - the clang of sparring steel, the low rumble of stomping feet, and hushed murmurs emanating behind closed tents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>The wood used for these parapets is pristine and finely cut. These walls have yet to see any battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>A humble grave lies before you. A battered sword has been used as a marker, the initial "B" deeply engraved into the iron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>This ancient cloth looks both extremely old and surprisingly well-preserved at the same time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>The bottom of the chasm goes farther than you can see. The faint sound of rushing water can be heard below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>There is a list on old, crumpled paper. While various simple items for crafting and repair are crossed out, most food items remain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>The tidal waves of rock and rust have clearly spread their destruction far across the region.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>The Oldwalls extends from the ruined lands out to the Southern sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>A small settlement resides on the bank of the large river.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Even from this height, the Portuscor River is vast and expansive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>A small village rests on the precipice of a crystal-ridden canyon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>The impressive size of the cliffs and deep crevices is enhanced when looking across the whole of the region.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Immense crystals envelope what remains of the land in all directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>A small collection of structures rest precariously on a sheer cliff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>The stench of piss and fecal matter emanate from this tent, one clearly not used for rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Small marks have been painted onto this corpse, marking certain body parts as more difficult targets than others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>The supply routes outlined on the map weave in and out of the disfigured terrain that was once Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Even in the oppressive rust storms, the [url=glossary:unbroken]Unbroken[/url] soldiers have remarkably good aim with a bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Small piles of rust have built up on top of the barrels and crates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>This home has been bisected by Earthshaker magic. Antio likely ordered his mages to do so to intimidate the villagers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Echocall Village appears to be unusually well-supplied. It's likely that the locals have been helping the revolutionary forces for some time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>You hear muffled voices and fearful exclamations coming from inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>The grasslands of the Tiers stretch far throughout the land. Much of it remains uninhabited and unclaimed by any faction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>You make out the faintest outline of a soldier's arm at the bottom of this pond, a victim of a previous battle in this area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>This training dummy is well worn and looks as if it's been patched up and put back together multiple times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>The armor in this cart is old, dented, and looks as if it's almost unusable. The weapons do not appear to be in any better shape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>You can make out the faintest outline of a soldier's arm in the bottom of this pond, a victim of a previous battle in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>These crates look as if they were placed here and then soon forgotten. There is a pungent odor emanating from them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>It appears someone attempted to smother this campfire with nearby dirt but missed most of the fire pit in their haste to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>The wheel axle on this wagon is broken, likely leading to its abandonment here. Grass and dirt have begun to overtake the portions of it closest to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Despite being cracked, worn, and possibly about to break, these spears show recent use in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Azurelith crystals are found throughout the [url=glossary:stone sea]Stone Sea[/url] and are highly revered by the [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Frequent attempts to harvest the Azurelith crystals have made the [url=glossary:stonestalkers]Stonestalkers[/url] more hostile to any humans who enter the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>This damage dates back to [url=glossary:kyros]Kyros[/url]' initial Conquest of the Tiers. That it is one of the few blemishes remaining is testament to the [url=glossary:vendrien guard]Vendrien Guard[/url]'s reconstruction efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>The central spire stretches into the clouds, towering at a height that is difficult to comprehend. From here, it appears completely unassailable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>These walls have been assaulted time and time again throughout the history of the [url=glossary:younger realms]Younger Realms[/url]. The resiliency of the [url=glossary:vendrien's well]Vendrien's Well[/url] Citadel is legendary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>This fire pit burns with embers that give off an ethereal glow. Looking into the flame, you feel you can see glimpses of distorted faces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>To the west you see the shining spire of [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>To the east you can see deep, ashen clouds surrounding the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>The great spikes of the [url=glossary:blade grave]Blade Grave[/url] provide cover for soldiers and Beasts alike, making them perfect sites for ambushing unwary travelers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>All signs suggest that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] ambushed this caravan, killed everyone and stole the transported goods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>The Beastmen have blocked off this main route out of the forest. Skilled hunters and trackers, the Beastmen know how to corner their prey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>This Bane Snare was broken long ago. Given the state of the other Bane Snares in these Oldwalls, it's likely whoever broke it didn't enter this room from the south entrance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>This Bane Snare appears to have ruptured on its own. This would explain some of the Bane currently wandering free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Gino's Goods</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Lethian's Mistress</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Sword or Sheath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>The storm still rages down this path, making it impossible to navigate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Massive spikes of stone flare out from ground where a storm of unimaginable power ripped through the terrain. The weapons and armor of soldiers ripped from their bodies are now encased in the stone as silent effigies of [url=glossary:kyros]Kyros[/url]' wrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Alagan's Goods</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>A Regent has always ruled from this throne in Stalwart for the last 500 years, an unbroken bloodline that has survived through numerous generations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>This crib has been meticulously cleaned. While other objects in the hall have traces of dust and metallic powder on them, none of it is found here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Shields and armor line the outside of this makeshift tent, offering further protection from the unbelievably unforgiving environment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>[url=glossary:armor]Armor[/url] and supplies clearly belonging to the [url=glossary:unbroken]Unbroken[/url] are strewn about. It is hard to tell if the red accents are from blood or Chorus warpaint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>These packs and supplies are far too well-kept and organized to originate from any [url=glossary:scarlet chorus]Scarlet Chorus[/url] gang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>These rock spires seem to have risen so suddenly and violently that weapons and armor alike were pierced straight through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>While it looks quite uncomfortable, there is no doubt that this rust-covered makeshift tent can survive the worst weather in the Tiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>This crystal has somehow managed to rupture through the foundation of the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Cryptic runes line this section of wall and continue upward as far as your eyes can see.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Brilliant flames cast an emerald light on the walls. How they got that color and why they don't burn out is a mystery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Weapons and armor remain submerged in the water, most of them rusted and not salvageable. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Blood and rust adorn this banner from a battle long since past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Opening one of the sacks releases a horrific stench into the air. Peering into it, you can see what remains of rotting fruits and grains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>This door won't move an inch. It must be barricaded from the other side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>At the bottom of the pit, a small hole collects all of the water pouring out of the spouts. Occasionally, the hole closes and the water drains to some unseen location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>You have seen this symbol repeated with remarkable consistency throughout this place. Since research of Oldwalls has been forbidden, it is likely that this symbol's meaning has been lost to history.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Enemies of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] who have not yet earned a spike are left to hang from the cliff wall until death comes for them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Dirge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Wrathrot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Chrysantha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>It appears that Nerat’s “generosity” extended only to Amelia’s daughter, and not to Amelia herself. The Voices has deliberately placed her body in a prominent position, a trophy of war that may only be eclipsed by the cold form of her father. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>With the secrets of the Silent Archive uncovered, the Censor no longer has had any purpose beyond serving as a vessel for its knowledge. She has been propped upright by multiple spikes, a garish reminder of the limits to personal advancement within the Chorus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Eldian’s body is a collage of small puncture wounds, his hands deformed and coated with dried blood. It seems like the old man was toyed with prior to his death, but went down fighting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Pelox has been spiked through his rear, a degrading display meant to demoralize any surviving [url=glossary:vendrien guard]Vendrien Guard[/url] that may catch word of his fate. Thick, dried lines of mucus run down his armor, a gift continually delivered by Horde soldiers with bitter memories of the Apex campaign.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>The once proud leader of the [url=glossary:stonestalker]Stonestalker[/url] tribe lays upon the ground, reduced to nothing more than a decorative animal. You see some familiar, but distinctive, footprints facing away from Hundred-Blood’s body, giving you the distinct impression that Nerat may be using her as an improvised seat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Mattias “Brown Bottom” continues to live up to his name, having soiled himself horribly during his final moments of life. The [url=glossary:unbroken]Unbroken[/url] leader’s head is tilted upward, giving him a somehow prideful affectation despite the flies buzzing about his rear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Zdenya’s body is difficult to recognize, a patchwork of puncture wounds, gashes, dust and dried blood. The famously defiant Master of the Forge clearly refused to accept her fate without a titanic struggle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Even in death, Raetommon’s still-open eyes manage to convey a kind of manic desperation. He teeters over the edge of the abyss, just as he did in life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>The Iron Spear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>The Discerning Eye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>There are many more passageways and rooms within sight, but beyond reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>These floor stones have been broken recently. Bits of metal nearby would suggest it’s the result of careless soldiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>There does not seem to be a way to open this door from this side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>There is an eerie glow of unknown origin coming from the depths of this pit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Blood stains litter the training grounds. [url=glossary:vendrien guard]Vendrien Guard[/url] trainees spar in this area, perfecting their martial craft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Following [url=glossary:kyros]Kyros[/url]' Conquest, food has become far less plentiful in the tiers. The [url=glossary:vendrien guard]Vendrien Guard[/url] must make do with very little.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>These small barracks are nowhere near large enough to keep the [url=glossary:vendrien guard]Vendrien Guard[/url] comfortable and well rested. Sleeping occurs in short shifts, with soldiers rotating in and out of beds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>The altar sits in the middle of a lake of lava, encircled by ritual braziers. The bodies of the Sages who gave their lives to stop the Library's collapse are littered around the central pedestal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>The corpses of sages are skewered on these spikes. Their skin has been blackened by the heat of the magma belching from nearby fissures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>These three jars appear to have been meticulously placed on this altar. Inscriptions on them resemble the torchkey sigils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>The plaque is so smudged and scratched that you can't read most of it, but it mentions "a new binding technique" and "mastering the magic to preserve the scrolls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>The fire that emanates from the tree creates long dancing shadows that stretch across the scorched earth. If you look hard enough you can see the shadows pulse occasionally, as if they have a life of their own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>The fire that emanates from the tree casts shadows that now remain still and lifeless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Most of Caedo's settlers fled as Chorus forces approached. This home, like most others, has been abandoned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>These Horde soldiers have been dead for less than a day. The Oath Bound stalking the valley have been busy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Remnants of an old Azure city can be seen jutting out of the rock walls down below, nearly obscured by the darkness of the chasm. Scavengers and scholars alike brave these treacherous depths in search of the riches of the once-powerful kingdom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>It's hot, don't touch it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>These worn, iron weapons look as if they have been recently repaired and are being readied to be shipped back out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>This armor is newly-made by the [url=glossary:forge-bound]Forge-Bound[/url]. It is still warm to the touch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>The back wall of this home has long since crumbled away, revealing the Oldwalls behind it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>This wall appears to have been damaged years ago but was never properly repaired.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>The crates are overflowing with spoiled food.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Executed Brotherhood soldiers have been lined up here, along with a small pile of gear, satchels and rings. By the looks of it, they were killed fairly recently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>None of the bodies here match the features described in the spy's notes. The satchel from which you recovered the missive is slightly damp, unlike the rest of the gear piled on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>These could be the weapons mentioned in the missive, though nothing of significance can be seen nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Judging by the dead man's nose ring and facial scar, it appears you've found the Brotherhood spy. A thick gash runs across the front of his neck, a garish reminder of the risks of his chosen profession. The hand-written notes in his clothes have been ruined by the water, though you can see a few still-intact magical scrolls in a hidden pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] scouts such as these are not an uncommon sight in Deserter's March. These two were likely attempting to observe the Brotherhood camp below and were gifted several arrows for their trouble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>The Brotherhood rarely camp in one location for more than a few weeks at a time, lest they become predictable targets for [url=glossary:kyros]Kyros[/url]' forces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>The table is supported by a few flimsy planks of wood. It's a surprise it's still upright, given all the tremors in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>The tent has been dyed to blend in with its surroundings, and doesn't appear to have been abandoned. Freshly-gathered wood rests in a nearby bundle, and you find a few morsels of dried rabbit in a leather pouch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>The Earthshakers moved this boulder with ease. Magic of that magnitude may be crucial for taking [url=glossary:vendrien's well]Vendrien's Well[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>[url=glossary:cairn]Cairn[/url]'s remains lie here, collapsed in a pile of Azurelith and stone. The wandering Archon was destroyed by the might of the [url=glossary:edict]Edict[/url] of Stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Azurelith crystals are a resource for the Earthshakers' powers. Their essence, once harvested, may be used by the mages to bolster their abilities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>The Earthshakers mean to defend the final resting place of [url=glossary:cairn]Cairn[/url] to the death. Weapons, supplies and resources have been brought in to sustain the soldiers at this camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>This camp is typical of [url=glossary:stone sea]Stone Sea[/url] explorers. Many travel from all corners of the Tiers in search of unclaimed treasures from the now-defunct Kingdom of Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Few forces can dispatch the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] with such ease. These corpses look like they haven't been dead for very long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>This cart has been picked clean by scavengers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>As the cliffs fell away, these buildings and their contents crumbled into the abyss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>This wall was torn down in a rush and the items inside are missing. It's unclear whether fleeing residents or aggressive looters are responsible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>This tithe bucket is almost overflowing with items and rings for Sirin. It would appear she is doing well for herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>The Keystone fails to generate a response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Several Earthshakers apparently attempted to flee a recent conflict. Additional, crumpled forms further down the path paint a grim picture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>The great Archon, [url=glossary:cairn]Cairn[/url], is dead. How this came to pass is unclear, though it is likely the Chorus attacked the fort for this very purpose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>The number of [url=glossary:disfavored]Disfavored[/url] dead far outnumber the Horde bodies littering the ground. It seems unlikely that any [url=glossary:disfavored]Disfavored[/url] survived the battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>The Spire has survived the magical tremors that ravaged the [url=glossary:stone sea]Stone Sea[/url]. It stretches incomprehensibly far into the sky, making the rocky pillars nearby appear diminutive in comparison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>The bodies don’t show visible signs of decomposition. Whatever conflict occurred here must have been recent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>You notice some of the same crystals embedded in the rock in the Earthshaker’s satchels. This appears to have been a gathering expedition that went wrong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>This is the Spire glimpsed by countless travelers along the [url=glossary:stone sea]Stone Sea[/url]’s northern horizon. Though it is a common sight, very few are able to successfully navigate to this location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Motes of dust kicked up from the battle disintegrate upon contact with this magical barrier. It doesn't look like anything is getting through while the Sages maintain it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Sigils of fire glow within the powerful orbs channeled by the Blood Chanters. Simply staring at it elicits a feeling of dread.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Though a large crack runs along this wall, powerful barrier magic ensures that it will not be exploited. The Sages maintaining it must be silenced, first.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>The Earthshakers are focused, readying a spell to bring down the Citadel's stone wall. The powerful barrier magic employed by the Sages is impeding their efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>The forge is locked. The [url=glossary:forge-bound]Forge-Bound[/url] appear to have left [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>The crystal in the beacon is unresponsive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>The crystal in the beacon is not responding to torchkeys from these Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>This structure was destroyed by the earthquakes, and later picked apart by scavengers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>This path slopes upward and out of the ruins, but has been permanently buried underneath volcanic rock. Without advance warning of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url], the Sages were unable to secure the library's exits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] has transformed this floor into a molten lake of fire. Had the Sages more time to prepare, larger swaths of the library would have been saved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>The lava rests dangerously close to the floor's edge, mere inches away from spilling over and consuming the ground at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>HowlingRock Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>These grooves in the floor are inlaid with a dim incandescent material that glimmers upon closer inspection. They appear to intersect at various angles, forming a myriad of potential shapes similar to the rubbing you found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>These grooves in the floor are inlaid with a dim incandescent material that glimmers upon closer inspection. They appear to intersect at various angles, forming a myriad of potential shapes. Perhaps there are clues in the architecture of the room as to the pattern it once held.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Bodies of [url=glossary:unbroken]Unbroken[/url] soldiers and [url=glossary:scarlet chorus]Scarlet Chorus[/url] recruits litter the ground. Crows have already made short work of the eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>By the evident quality of his armor and how the other corpses are clustered around him, this must be the [url=glossary:unbroken]Unbroken[/url] leader. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>These crates have a small series of notches on the top left corner of each box, and scuffs on the ground suggest they were dragged from the nearby home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Sybil, the once defender of Echocall Crossing lies before you.  It is difficult to tell where her fiery red hair ends and her injuries begins through the layers of blood. With all the wounds she sustained, a good number of them appear to have been made after her death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>The door cannot be moved by hand and will easily resist any effort to force it open. You notice a small receptacle carved into one of the panels adorning this door, though nothing in the chamber looks like it will fit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>The door creates a near-perfect seal with the surrounding walls. Along its surface, you see several chips and shallow gouges from failed attempts to force it open. There is nothing to interact with on its panels, and you surmise that it was never meant to be opened from this side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Far below you, a large boulder is suspended over an immense drop that tapers off into complete darkness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>Phaedrus' Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>The undulating coils of luminous energy atop this platform seem curiously at peace for a Bane. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

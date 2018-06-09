@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0101_cv_camp_secured_anarch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>No [url=glossary:unbroken]Unbroken[/url] remain in the scavenger fort. Elia and her soldiers managed to flee north - likely in an attempt to escape the canyons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>There is still time to chase her down before she leaves, taking all knowledge of Stalwart artifacts with her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Let's track these [url=glossary:unbroken]Unbroken[/url] rats to their next warren. I venture they went due north, the only escape route left open."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"If the [url=glossary:unbroken]Unbroken[/url] are so keen on turning tail, it's no wonder where they get their reputation."
+
+"Let's track them due north. I'll bet good rings they're trying to escape the canyon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"So much for having a friendly chat with the locals. There are tracks leading north - we should follow them before the trail is erased by the storm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I think that's the last of the garrison. The captain's not among the bodies - she probably fled north."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"All the [url=glossary:unbroken]Unbroken[/url] here are dead. Everyone else probably fled north while we were fighting. Cowards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Have slaughtered all of [url=glossary:unbroken]Unbroken[/url] in den-fort. Except for pack's Alpha who fled north in fear. Is time to hunt, yep-yep? Is time to chase down, rend-rip, and mangle."
+
+She flicks her claws and grins darkly in anticipation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Random Node 10</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_oldwall_spheres</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>As pedras da elucidação</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Recupere as Pedras de Elucidação para Hieronymus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dê as pedras para Hieronymus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Hieronymus quer que você pegue as duas Pedras de Elucidação do Oldwalls Breach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Hieronymus encarregou você de recuperar as Pedras de Elucidação da Brecha de Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você coletou as duas Pedras de Elucidação da Oldwalls. Entregue-os a Hieronymus na Oldwalls Breach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Você recuperou a primeira Pedra de Elucidação. Depois que você encontrar o segundo, devolva-os a Hieronymus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você enfrentou a Brecha de Muralha Antiga e recuperou as Pedras de Elucidação para Hieronymus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Falha na missão</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

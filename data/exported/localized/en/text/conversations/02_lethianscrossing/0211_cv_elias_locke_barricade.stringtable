@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\0211_cv_elias_locke_barricade</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A small figure stands before some armor-clad soldiers. His arms move wildly as he gestures in frustration, yelling at the man directly in front of him.
+
+"Absolutely not! I've come through Ironhaul Trail more times than I can remember. No one ever asked for a toll before, and I won't be paying one now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He notices you standing nearby and turns to speak.
+
+"Fatebinder, surely you, of all people, can help me. My name is Aster, and I must get to [url=glossary:lethian's crossing]Lethian's Crossing[/url]. I have goods to deliver! Tell this... man I will not be paying a toll - to him, or anyone - and he is to let me through!" He folds his arms over his chest and nods with a pronounced finality.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Greetings, Fatebinder. I am sorry you have been drawn into this. What you've stumbled into here is merely a conflict of the changing times."
+
+"I am Will of the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]. Ironhaul Trail is under our protection and anyone passing through must obey our rules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"If this 'gentleman' would like passage through our land, a simple donation is required."
+
+He holds out his hand. "These funds help our cause and keep Ironhaul a safe place for all travelers! Clearly you both can see the value in that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm naught but a traveling merchant! I have no money to spare and I certainly pose no threat to anyone! Keep this area safe, indeed." He points at Will. "You are the only threat here!"
+
+"Fatebinder, please... talk some sense into this man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Pay 50 ring toll for Aster] "Here is payment for the merchant to pass unharmed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Address Will] "This man will not be paying a toll today. Call your guards off and allow us passage immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Address Aster] "Just because you passed through before means nothing. Pay the toll now or head back. You try my patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"This matter is waste of my time. You are on your own, merchant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Thank you, Fatebinder! You have done a great deal of good today." Aster bows dramatically. 
+
+He turns back to the soldier. "And you...brute. Move aside and let me pass!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Will makes an exaggerated flourish and moves out of Aster's way. "But of course!"
+
+He raises an enormous hammer and stops Aster, pressing it against his chest. "Though, merchant... do be sure to have some rings of your own for your trip back. I doubt your friend here will be around to pay your way through these lands twice." He smiles, moves his hammer, and gestures for Aster to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Thank you, Fatebinder! You have done a great deal of good today." Aster bows dramatically.
+
+He turns back to the soldier. "And you...brute. Move aside and let me pass!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Will holds his position and gives you a meaningful look.
+
+"Perhaps you want to reconsider your stance on the matter, Fatebinder." He plants his hammer on the ground and leans on it, staring Aster down. "Passage is bought with rings or blood, but I'll happily take both."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Aster fumes for a few moments, his mouth comically opening and closing in rage. "I cannot...abide...this level of...absurdity!" He rifles through his belonging and pulls out some rings, slamming them down into Will's outstretched hand.
+
+"FINE! Here is your toll, thief. Now get out of my way!" He turns to you, a look of distaste on his face. "I will not forget your 'help,' Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Aster's face falls and he reaches out to you. "But...I...Fatebinder, you must help me! I will not pay a toll to some brute enforcing a cause that means nothing to me! This is injustice at its most heinous!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Will smiles and puts the rings in a pouch hanging from his neck. "I knew you'd see it my way, Fatebinder." He makes an exaggerated flourish and moves out of Aster's way.
+
+"And you, my good merchant, thank you for your gracious payment. You may pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Will laughs and points south, over Aster's shoulder. "Whether you care for the cause or not, merchant...you will not be gaining entry today. Now, turn yourself around and head back the way you came before my hammer shows you the error of your ways."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I stand by my decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Aster raises his hands in protest. "I thank you for your efforts Fatebinder but it is not worth bloodshed. I will leave in peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Aster speaks, his arms swinging about again, emphasizing his words. "And who, exactly, is keeping it safe? You, standing there with your weapons at the ready against me?" His arms drop and he turns to you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Address Will] "Raetommon already gave me permission to pass and Aster's coming with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Will's face drops, taking a petulant look as his eyes dart back and forth between the two of you. Finally he sighs and gestures over his shoulder for you to pass.
+
+"Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>He raises an enormous hammer and stops Aster, pressing it against his chest. "Though, merchant...do be sure to have some rings on you for your trip back. I doubt your friend here will be around to get you through these lands twice."
+
+He smiles, moves his hammer, and steps aside. "By your leave, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Aster turns to leave and glances at you, his lips drawn to a thin line. "I will remember your 'help,' Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

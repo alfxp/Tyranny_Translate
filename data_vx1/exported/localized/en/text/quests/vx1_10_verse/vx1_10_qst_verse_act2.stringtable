@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1_10_verse\vx1_10_qst_verse_act2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Fire Inside</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Read the missive from [url=glossary:the voices of nerat]The Voices of Nerat[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Talk to Verse about the missive regarding her sisters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Travel to the Merchant Crossroads and meet with Verse's contact</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Intercept Krokus at Hunter's Respite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Locate Irissa at the Torn Strand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Find Clea at River's Break</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] provided you information regarding the identities of those responsible for the deaths of Verse's Scarlet Fury sisters. Help Verse track down the killers and attain some resolution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>You have received a missive from [url=glossary:the voices of nerat]The Voices of Nerat[/url], Archon of Secrets and spymaster of the Overlord. It may contain vital intelligence... or dangerous misinformation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>In his missive, the Vocies of Nerat asked you to provide Verse with new evidence regarding the people that killed the members of her previous gang. Speak with Verse and discuss how you will proceed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url]'s missive included a cypher Verse can use to obtain further intelligence from an informant at Merchant Crossroads near [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Travel there and find out what this merchant knows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>You have learned that Krokus, a man who has boasted about killing three Scarlet Furies in Apex during the Conquest, accepted work as a caravan guard for a merchant named Aesa. The caravan's scheduled route includes a stop at Hunter's Respite. Verse wants to confront Krokus there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>You learned from Krokus that Irissa, one of the Apex soldiers who destroyed Verse's gang, can be located among a group of [url=glossary:unbroken]Unbroken[/url] at the Torn Strand. Travel there with Verse to confront her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Irissa is already dead, and Verse wants to visit her vengeance upon Irissa's sister Clea instead. Their family's farmstead is located at River's Break in [url=glossary:vendrien's well]Vendrien's Well[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>In an act of forgiveness, you and Verse decided to let Essa live. Verse is now another step closer to the resolution she seeks for the death of her sisters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Against Verse's wishes, you killed Essa for the crimes she and her daughters committed. Despite regretting the outcome, Verse is another step closer to the justice she seeks for her sisters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>For the crimes Essa and her daughters committed, you ordered Verse to end her life. Despite regretting the outcome, Verse is another step closer to the justice she seeks for her sisters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Verse has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Verse has left the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

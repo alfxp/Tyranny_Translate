@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\loadingtips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>[url=glossary:armor]Armor[/url] can never reduce damage below 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Spells are created from both core and expression sigils. Core sigils determine the type of magic (fire, healing, etc.) while expression sigils determine the shape (touch, aura, bolt, etc.).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>(String Not Found)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Hold down the TAB key to highlight important characters and objects you can interact with.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Hover your mouse over an enemy's selection circle to see their defenses. Right-click to lock the information window in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Characters can be targeted or selected by left-clicking on the selection circle at their feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Left-click and drag the mouse to select multiple party members within the selection area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Using a consumable in combat happens instantly and doesn't send your character into recovery. Once a consumable is used, all consumables are on cooldown for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>All party members begin with four Quick Item slots for consumables. These can be increased with the Bandolier talent in the Leadership Tree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Skills gain experience as they are used and increase their rank with enough experience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The [url=glossary:athletics]Athletics[/url] skill can be used to intimidate characters in conversations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The [url=glossary:subterfuge]Subterfuge[/url] skill can be used to bluff or deceive characters in conversations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The [url=glossary:lore]Lore[/url] skill can be used to impress characters in conversations with your knowledge or insight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Enable [url=glossary:scouting]Scouting[/url] Mode to gain a bonus to detect hidden containers or traps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Use the Space Bar to pause and unpause the game during combat to issue orders to your party members and evaluate your strategy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Hover your mouse over an enemy's selection circle to see your chance to hit with your next attack or ability.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Gauntlets change how much unarmed attack damage your characters will do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Characters become Wounded when their health is significantly reduced or they are Knocked Out. [url=glossary:wounds]Wounds[/url] are cleared when a character gains a new level or the party rests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Hold SHIFT to issue multiple commands to a party member. They will execute their commands in the order you issued them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Some abilities allow party members to attack multiple times with basic attacks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>With each level your character gains you can increase one attribute and purchase one new talent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Hold down the 'M' key to maximize the Mini-map / Combat Log window.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The Combat Log provides detailed information on your attack rolls, enemy defenses, and Afflictions applied by abilities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Companion Combo abilities allow your character and a Companion to work in concert to deliver a devastating effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Moving away from an enemy who is engaging you will trigger a free Disengagement Attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>A high [url=glossary:lore]Lore[/url] skill is required to create the most powerful spell combinations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Spell sigils can be found throughout the world of Terratus. Collect these sigils to construct powerful magical attacks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>When using an area of effect ability or spell, target an enemy directly to have the ability track their position. This makes it easier to hit moving targets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Unlike most enemies, Bane deal large amounts of Arcane damage. Your normal defenses won't work as well against them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Different enemies are susceptible to different types of damage. Identifying their weaknesses will give you an edge in battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Use the + and - keys on the NumPad to toggle Fast and Slow modes when playing the game.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Characters become Wounded when they are Knocked Out. On Path of the Damned difficulty, characters also become Wounded when their health is significantly reduced. [url=glossary:wounds]Wounds[/url] are cleared when a character gains a new level or the party rests.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

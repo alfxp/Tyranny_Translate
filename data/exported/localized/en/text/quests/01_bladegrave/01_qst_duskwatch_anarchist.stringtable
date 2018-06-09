@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_duskwatch_anarchist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Undaunted</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Meet with Agathon at Duskwatch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fortify Duskwatch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Defend the Fort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Kill all [url=glossary:unbroken]Unbroken[/url] at Duskwatch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Talk to Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Kill Osmios and the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Speak With Captain Agathon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Speak with Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Investigate Sentinel Stand Keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Speak with the [url=glossary:unbroken]Unbroken[/url] Scout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Travel to Duskwatch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The former kingdom of Stalwart is littered with countless ruined weapons scattered across its battered plains. Somewhere in the rusted waste of the [url=glossary:blade grave]Blade Grave[/url] lies Dauntless, an [url=glossary:unbroken]Unbroken[/url] blade of legend. [url=glossary:bleden mark]Bleden Mark[/url] said that if you were to acquire it, you will strike fear into the hearts of all who face you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] want to defend their fort, and the [url=glossary:disfavored]Disfavored[/url] want it as their own. Talk to Captain Agathon of the [url=glossary:unbroken]Unbroken[/url] to lend your help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] need help reinforcing damaged segments of the fort walls. Help them restore it into fighting order.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] have begun their attack upon Duskwatch. Defend the fort from all attackers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>You attacked the fort at Duskwatch. Eliminate all [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Callias, a prisoner at Duskwatch, may have the information you seek about [url=glossary:unbroken]Unbroken[/url] operations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Osmios and a number of [url=glossary:disfavored]Disfavored[/url] soldiers have returned to claim Callias. You must not allow this to happen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>You have successfully repulsed the [url=glossary:disfavored]Disfavored[/url] attack. Find Captain Agathon at the prisoner pen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Now that the [url=glossary:disfavored]Disfavored[/url] have been dealt with, it's safe to speak with Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Dauntless was last seen at the fortress of Sentinel Stand. Travel there and see if you can find any trace of the artifact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>An [url=glossary:unbroken]Unbroken[/url] scout observed your fight with the Bane in Sentinel Stand. Speak with him and see if he can help you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Janos believes that the [url=glossary:unbroken]Unbroken[/url] leader, Mattias, may have searched for the Dauntless recently. Travel to the [url=glossary:unbroken]Unbroken[/url] fort of Duskwatch and speak with its acting commander, Agathon, to inquire further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>You have decided not to cooperate with Agathon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>You have decided not to cooperate with Osmios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You've helped the [url=glossary:unbroken]Unbroken[/url] defend their base at Duskwatch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>With your assistance, the [url=glossary:disfavored]Disfavored[/url] have taken over Duskwatch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Though you killed all of the [url=glossary:unbroken]Unbroken[/url] and [url=glossary:disfavored]Disfavored[/url] soldiers at Duskwatch. You didn't find the Dauntless, but you learned that Mattias sent [url=glossary:unbroken]Unbroken[/url] soldiers to Rust Canyons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You've killed all of the [url=glossary:unbroken]Unbroken[/url] and [url=glossary:disfavored]Disfavored[/url] forces at Duskwatch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>You have decided to take Duskwatch fort for your own reasons. Take out those in your way and decide what to do next in your journey.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

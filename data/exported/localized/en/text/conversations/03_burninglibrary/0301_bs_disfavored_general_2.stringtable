@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_disfavored_general_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I only wish I had the pleasure of splitting the Censor open myself. A pustuled prick of a woman, if I've ever seen one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"We certainly made an example of [url=glossary:sage]Sage[/url] and Chorus alike. This citadel's a ruin, and these lands won't recover for a generation!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I owe you, Fatebinder, though should we not destroy the library? [url=glossary:kyros]Kyros[/url] won't be pleased until it's nothing but ash." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"How... did you do that? I've never seen anyone end an [url=glossary:edict]Edict[/url], not even General Ashe."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

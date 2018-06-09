@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_forge_vendor_ragus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fatebinder." A large grin flashes across his face only momentarily masking a continually worried expression. "As poor a time as any to mention I'm not too fond of heights, eh?" He takes in a deep breath and calms himself to the best of his ability. "If I can master this fear, than I can master anything, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He notices your approach and quickly attempts a semblance of composure to no avail. "I-I'd rather keep our exchanges brief - I need to concentrate on not blowing off this damn thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Come to buy something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"My apologies Fatebinder, but the forge is under maintenance. I cannot sell you any wares until it is finished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The man shuffles back further towards the wall behind him, avoiding as much eye contact with the horizon as possible. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Fatebinder." The man nods to you, but his eyes continually dart to the horizon behind you as he speaks. "I appreciate the opportunity to serve you, I just never imagined that..." He gulps. "Such heights would be involved."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

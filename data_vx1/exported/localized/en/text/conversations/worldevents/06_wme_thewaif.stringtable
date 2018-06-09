@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\06_wme_thewaif</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You draft a straightforward report of the slayings and send it to the Archon of War before continuing on your journey. You receive a missive in response thanking you for your continued friendship to the legion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You draft a straightforward report of the slayings and send it to the Archon of War before continuing on your journey. The missive you receive in response includes only curt gratitude, though Ashe does note that he will commend your courtesy to the Archon of Justice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You draft a coded missive for the Archon of Secrets and dispatch it to Cacophony before continuing on your journey. You never receive a response, but you get the impression from [url=glossary:the voices of nerat]the Voices of Nerat[/url] when you next see him that he was amused by your findings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You draft a straightforward report of the slayings and dispatch it to the Archon of Secrets before continuing on your journey. The bird that returns to you is spattered with blood, the missive scrawled in a wild hand. It asks if you have an accusation to make, or whether you merely enjoy wasting the time of your betters. The note ends in a ridiculously long list of tortures he'd have put the [url=glossary:disfavored]Disfavored[/url] soldiers through had he actually had the opportunity. The last line suggests he'll have to find someone else, perhaps a Fatebinder, to subject to such.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Before continuing your journey, you draft a brief report of your findings to the Court. A few days later you receive a formal missive of appreciation from the Archon of Justice. This is further evidence, he purports, of the chaos gripping the Tiers. Remain vigilant, he warns, and continue forward with unclouded eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Continue...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

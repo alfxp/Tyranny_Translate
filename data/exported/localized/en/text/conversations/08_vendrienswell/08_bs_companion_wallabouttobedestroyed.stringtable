@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_companion_wallabouttobedestroyed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Our Sages have fallen! The wall cannot stand to Ashe's ironclads!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The scholars are crow pickings. At this rate, the wall can't hold against the [url=glossary:disfavored]Disfavored[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"My colleagues are no more, and the defenses are laid bare to the [url=glossary:disfavored]Disfavored[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"With the Sages dead, there is nothing to stop the [url=glossary:disfavored]Disfavored[/url] from breaking through this wall. Except the wall itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bank Node 6</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

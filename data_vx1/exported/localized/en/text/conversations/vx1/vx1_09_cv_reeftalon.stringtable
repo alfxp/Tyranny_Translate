@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_reeftalon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>194</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The Beastwoman waits by the dust-caked altar, head bent downward in contemplation. A deep, gravely rumble emanates from her chest as you cross the chamber's threshold.
+
+With a loud chuff, she turns to face you. A fierce pair of ice-blue eyes watch you with murderous intensity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Stalkers and hunters. Bane and mystics - all come to spill Reef-Talon's lifeblood. Beastwoman must climb deep-deep, paw where lights do not follow." She watches you intently, her ice-blue eyes piercing the chamber's shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>She places her knuckles upon the cold stone floor, muscles coiled menacingly. "Fatebinder creeps to Beastwoman's den bathed in blood of Wound-warriors. Why should Reef-Talon speak with human?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'm here to help you. We can bring an end to the Sleepless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I just want to ask some questions and determine whether or not you're a threat to Bastard's Wound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wagstaff sent me. There's still a way for you to help those in the Wound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Jaspos sent me. There's still a way for you to help those in the Wound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You're a threat, one I can't allowed to lurk within these ruins." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Human is arrogant. Speaks of Sleepless like rival clan, as if simple blood rite can tame dreamless wanderers. Does Fatebinder not realize that poison within Reef-Talon gives birth to Sleepless?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"So human comes ready to hunt?" A low rumble creeps from the back of her throat, only to be dismissed with a loud chuff. "But Fatebinder has not bared fangs yet. Is willing to listen perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She snorts and raises a claw in warning. "Fatebinder is fearless, like overconfident whelp before first hunt. Would human paw to Shadowhunter den and demand [url=glossary:prima]Prima[/url]'s life? To [url=glossary:stonestalker]Stonestalker[/url] den?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Her eyes widen in alarm and her lips part to reveal massive, yellowed fangs. "Fatebinder comes to shed blood! But human speaks truth. Reef-Talon has failed tribe, poisoned clan. Will not submit to hunters, but... will also not return to Wound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She watches you cautiously, silently awaiting your next words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Why flee the Wound? You could have simply stopped using your magic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Tell me of the Sleepless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The Beastwoman bristles at the mention. "Greatest of shames... Reef-Talon has sickened own tribe with dreamlessness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Do you know how they were created?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Why are they down here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Beastwoman only knows that Sleepless were birthed from mystic-strength. From Reef-Talon's corrupting touch. Dark powers extinguish life-spark of dying human. After mending-rite, human looks like living warm-blood, but carries hollow-death on inside." Reef-Talon looks away, ashamed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"After mending-rites, dreamless kith smell like spent flame. Hearts do not beat with purpose or desire to live. Dreamless always call out to Reef-Talon, beg-mewling for answers... Reef-Talon has none."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Any idea why the Bane ignore the Sleepless?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Same question ponders Reef-Talon. Scourge-beasts seek blood of Beastwoman, but never of Sleepless kith, even noisy Sleepless! Reef-Talon thinks Sleepless cast no scent for Scourge-beasts to smell - no dreams to tempt ancient hungers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Do you know of any way to cure them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"If Beastwoman knew, would have already tried! Human-sage called Lexeme insists Reef-Talon has gift, can mend better, but is wrong! Is folly to try! Must never use wretched 'gift' again!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Too dangerous! What if Reef-Talon's milk sickens cubs, what if blood corrodes tinker-tools? No-no, too much to lose, Reef-Talon will take no chances, will stay confined to depths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>For a moment, her eyes grow distant and shed their intensity. "Reef-Talon has lived four lives. First life, was free Mantaborn in islands near human-lands called Stalwart. Second life, was as slave." She chuffs and banishes the thought with a shake of her head. "Third life was [url=glossary:prima]Prima[/url] to Wound-tribe. And now Reef-Talon lives fourth life as wretched outcast, skulking in deep pits of Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"It's time for you to return to the Wound, in one form or another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Human will leave this place! Nothing to discuss! Leave Reef-Talon to suffer with withered-kin. Let finding Reef-Talon fade from memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I want to know more about your healing abilities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You should leave this place and go further into the Oldwalls. Much further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Your blood is special. Wagstaff can use it to cleanse the water for years to come. Will you submit and help the Wound?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Attack] "Then we'll settle this by blade and claw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"No." The word is spoken menacingly, in a low tone that transforms into a deep rumbling within her chest. "Reef-Talon has seen cages of torture and blood-taking... will not be skinned and flayed as common elk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>As you draw your weapon, the Sleepless in the chamber react with a discordant chorus of wails, drawing in closer to protect Reef-Talon. "Back! Scamper-flee-escape! Do not raise blunt-claws to Fatebinder. Only Reef-Talon must answer challenge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Bane sing loud songs in the depths - humans cannot hear, but Reef-Talon can. Would be good to find death in darkest of Scourge-nest... proper end for proper hunter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Worry about the settlers, not the Bane. So long as they remain, they will hunt you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Lie] "Strong magic often ends when the mystic who cast the magic dies. If you die battling the Bane, the mystic backlash is more probable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I've seen how your 'tribe' harvests its own kind. Stay here and that could be your fate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"It's only a matter of time before [url=glossary:kyros]Kyros[/url]' armies know of the Wound. How safe will you be then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Very well. If I can't convince you to leave, then we'll settle this another way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>She tilts her head, eying you with curiosity. "How will Fatebinder do such thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The beastwoman covers her ears with her hands. "Sleepless brood will not leave Beastwoman... always reminder of failure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Can you be sure that your powers won't manifest in a new way that harms the settlers, even from here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What do you hope to gain from hiding here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"So you are content to let Jaspos and Wagstaff lead your tribe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Beastwoman did not envision this." Reef-Talon's hackles raise in alarm. "Fatebinder speaks of possible truth. Sleepless poison is created by mending-touch. What if same corruption grows stronger and spreads from afar?" She glances down at the leathery pads of her palm . "Perhaps Reef-Talon has been cursed for trespassing where human [url=glossary:prima]Prima[/url] called [url=glossary:kyros]Kyros[/url] forbids."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Not hiding! Am saving others!" Her breath clouds the cool air, her words sharp and prideful. "Reef-Talon could not let corrupting power harm kin and kith. Left home den but did not abandon tribe. Did not run and hide. But... does not know what will solve problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Would hope ocean-mystic and stone-cutter choke on own hatreds! Reef-Talon is no longer [url=glossary:prima]Prima[/url], so must not - cannot - be concerned by such matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>She emits a short, sharp chuff, her eyes focused and intent. "Will go, will climb-leap-swim far into ancient depths where blunt-claws cannot follow. Tribe will flourish in Reef-Talon's absence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>As your comment sinks in, her lips curl back to reveal her fangs "If darker curse resides in Reef-Talon's lifeblood... then... then Beastwoman must leave, forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Beastwoman was once slave, never again! Was chained to walls of stone away from free waters!" A powerful rumble builds in her chest and erupts in a roar that reverberates across the Oldwalls expanse. "Will die before wearing blunt-claw's chains!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Let's talk of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Lexeme believes you can learn to control your powers, maybe with some help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Jaspos says he can provide safe water for years, but your bones are the key reagent. Will you submit and help the Wound?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Why does Fatebinder trust chirping of human-mystic that roams deep-dark halls? Reef-Talon has watched Lexeme speak with own shadow. Or sit on damp-cold floor to sing to ancient stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"What do you know of the murals in these Oldwalls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"How did these powers awaken in you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What's the alternative? Learn to tame your powers and become more, or you wither away in these Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The Beastwoman snorts defiantly but averts her gaze. Slowly, she bobs her head in agreement. "Fatebinder is correct. Reef-Talon should not hide or run from strange power, like cowardly pack whelp not fit for breeding. Must learn to dominate mystic-strength, just as Alpha controls unruly pack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Can see shapes and shadows telling stories, and know that stories are made with claw and brushed by fur." She sits back on her haunches and gazes towards the blackened ceiling. "Well... Reef-Talon does not KNOW but humans too puny to carve, and doubt that Bane paw-paw on walls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Beastwoman cannot... say for sure." Her hands gesticulate wildly but for a time, no words come out. "Ever since coming to this place, Reef-Talon feels hum of magic but... did not FEEL it until it already happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>A disheveled Lexeme shuffles into the chamber, interrupting Reef-Talon's moment of self-reflection. "Then we're agreed! I had a feeling you'd rouse her to action. We should move quickly. My mind wanders and I'll not squander this chance while I still have my wits!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Already, this place has changed Reef-Talon... made Beastwoman's touch heal for a moment, but sicken forever." With a violent lurch, she slaps herself across the face. "Must swim in ancient magics until strong enough to understand or drowned and no longer a threat. Will go now. Meet Fatebinder through quick-leap pad, to east."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Fatebinder, you may have run across some of these old murals in your time here. Look them over, I'm sure you'll glean some insight that Reef-Talon can put to use." She marks the locations of a few of them on your map. "The one Reef-Talon refers to is just through a teleporter down the hallways, to the east. We'll await your return there!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Packmate was injured on patrol and Reef-Talon ran to clutch injured whelp. Beastwoman remembers hearing lifeblood from inside dying body, and roared it to obey. That's when mending-rite began to knit flesh... that's when Reef-Talon's shame began."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Does Fatebinder remember time before knowing to crawl? Beastwoman did not know such power existed until packmates already mended." She shrugs with a scowling grimace. "Have no answers for Fatebinder or Beastwoman!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Iron-clads called [url=glossary:disfavored]Disfavored[/url] and Chorus-whelps scamper away from Scourge-beasts. Oldwalls-deep is same as ocean darkness. Will not find Reef-Talon in deep-dark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Wound hunters have already come, will come again." She chuffs dismissively at the notion. "Reef-Talon does not the fear blunt-claws."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Return to the Wound. You can be of help there - perhaps even lead the settlers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>She rests back on her haunches and chuffs dismissively. "Reef-Talon has already fouled packmates. Mending-rites closed rips and tears but left empty husk in place of human-kith. Wound-tribe no longer accepts Reef-Talon as Alpha or even lowly pack whelp. Fatebinder's speaks empty words that cannot be fulfilled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Tell me about your time in slavery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"What was your life as a Mantaborn like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Mantaborn are warriors of land and ocean. More free than land-trapped beastmen! Island-kith are not quarrelsome like Tiers tribes. Not always leading packs to rend-rake-kill rivals over parched land. Island warriors respect tribe boundaries where sand meets water."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Beastwoman has no need to fight other tribes. Mother ocean provides great-maws and deep-lurkers to test warriors and mystics. To keep Mantaborn strong." Reef-Talon's mouth stretches into a knowing smile. "Has Fatebinder wrestled with black-eyed great-maw with head and tail of spears? Or killed clear-skin lurker with glowing fangs and snakes for limbs? Has human ever heard deadly song of stinging-cloud and stayed awake? Mantaborn does not need tribal war to stay fierce. Hunt. Bleed. Feed pack-mates." She bobs her head at the fond memory. "Was good life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>The beastwoman extends a claw towards the nearby chasm. "Oldwalls waters are easy for Reef-Talon to swim. Not afraid of dark waters, though Scourge-beasts sometimes lurk in deep places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Was less-than-seven years ago. Reef-Talon awoke to nest beset with humans. Human tribe answering to [url=glossary:prima]Prima[/url] Straydus overwhelmed Reef-Talon and kin. Likely survived only because humans desired captive muscle, not roasted beast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>She narrows her eyes, ruminating over some remembered detail. "Long did Reef-Talon toil in confinement, [url=lore:conquest_reeftalon]until mystics from Chorus-tribe came one morning to human den.[/url] As humans drank-rutted-feasted over moonless night, blood-rage filled Reef-Talon and the other captive kin." The hair on the Beastwoman's back stands erect as she speaks. "Saw only red-red-red! Awoke to butchered captors... and freedom! Reef-Talon does not know what fever possessed other beastmen... did not think to ask, thought only of escape."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"How did you come to lead the Wound, even if briefly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Did not come to Wound to be [url=glossary:prima]Prima[/url], but once arrived, Reef-Talon was only proper answer. Was best at hunting new prey. Showed kin and kith how to slink through deep-dark, how to hold ground against Scourge-beasts. All Beasts bowed to Reef-Talon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Once, Wound-clan gathered to discuss Scourge-hunt in Oldwalls. Stone-cutter and ocean-mystic could not agree on plan, wished only to bicker and yell until Reef-Talon roared and the whelps cowered. Tribe knew only [url=glossary:prima]Prima[/url] Reef-Talon could maintain order... until tribe became fearful of [url=glossary:prima]Prima[/url]'s magic tough - then Beastwoman could no longer inspire order, only fear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"How did you come to find the Wound?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Conquest] "I know of this - the Chorus used magic to enrage Beastman slaves. I allowed it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Conquest] "I know of this - the Chorus used magic to enrage Beastman slaves. I put an end to that practice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>She glowers menacingly at you. "Fatebinder used tribe as war slaves! And yet, Reef-Talon could not have escaped without such carnage." She watches you cautiously, as if sizing up unknown prey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>She bobs her head in approval, her chest purring with satisfaction. "Good. Fatebinder shows respect for Mantaborn tribe. Perhaps Fatebinder is also worthy of respect in return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"How did these powers awaken in you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Why do you think the healed become Sleepless?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Do you think being in the Oldwalls give you these powers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"You're only running because the Sleepless remind you of your guilt. If I could help them find peace, would you return?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"You should lead. Neither Wagstaff nor Jaspos can truly unite the people of the Wound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"The Beastmen still need you, regardless of what the humans think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>A thoughtful rumble vibrates along the back of her throat. "Mystic-strength is source of dreamless corruption. Reef-Talon could keep power buried inside and focus on leading hunt for Scourge-beasts... could still serve tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"But dreamless brood clings to life. Hollow husks always follow Reef-Talon, step-stumble through dark halls and hunger for pack leader's call. No way to ease suffering of Sleepless except by death... but Reef-Talon will NOT kill feeble kith." Her bright eyes narrow in suspicion, finding yours in the darkness. "Is Fatebinder suggesting...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Lie] "Of course not. I'll find another way that doesn't involve killing them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"No. If that's the only way, then that's not an option."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Yes. What other choice do we have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Yell at her.] "You need to take responsibility and end their suffering! Only you can do that!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Human is foolish and cruel. Should not bray and give voice to futile hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Beastwoman has tried to quell restless storm within Sleepless. Has failed... pain of whelps is vast and unending. Fatebinder is foolish to try to bring peace to wretched dreamless. Can try. Reef-Talon will still be here after human has failed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"No!" Reef-Talon roars her protest with fury, momentarily rousing the nearby Sleepless from their collective daze, if only to cower. "Fatebinder will NOT kill Sleepless. Endless braying of dreamless brood is punishment for Reef-Talon's mistakes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"But Reef-Talon HAS accepted responsibility for bringing pain to Sleepless brood! Has come to endless depths to slink in darkness with addled whelps... has done everything!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>She leaps towards the chamber's entrance in a burst of vigor. "Wait here. Sleepless have long been dead, only pretending at life. Reef-Talon will now fix her mistakes - will not take long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ocean-mystic Wagstaff and stone-cutter Jaspos roar loudly. Wound-leaders imitate Alpha, but must slink-smile-boast to scrounge respect of tribe. True [url=glossary:prima]Prima[/url] does not scrounge... true [url=glossary:prima]Prima[/url] ALREADY has respect. Was like this when Reef-Talon claimed Wound-tribe, but now pack-mates fear mending-rites. Reef-Talon does not have respect needed to tame Wagstaff and Jaspos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>She grunts, waving her claws in disagreement. "Cannot return to Wound! Shame has not faded into distant memory. Dreamless husks would follow Reef-Talon back to tribe - will invite only sorrow back into the nest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>The Beastwoman crouches on the chamber floor, tracing her claws aimlessly across the stone tiling. Her icy eyes find yours as she rises to her feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Battered and bloodied, Reef-Talon collapses to the ground with a drawn-out groan. The momentary daze in her eyes is quickly replaced with a look of vicious intent. With an energy born of pure defiance, she raises herself - cracks forming in the stone tile from her powerful grip - and readies for a final pounce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Shackle her.] "You still have a purpose in Wagstaff's service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Execute her.] "I will make this quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Though slow on her feet, the massive Beastwoman launches herself at you, fangs and claws poised to pierce flesh in one last lunge. You deftly step aside and her body crashes clumsily to the floor, prone and defenseless. You move in for the kill and put the massive Beast to rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>She parts her lips in a fang-bearing grimace, bitter laughter coming out in a series of hacks from the back of her throat. "So Reef-Talon is to once again wear chains and live as slave." She weakly extends her claws as you clap the shackles around her limbs. "Weak-willed whelps that pretend to be Alphas cannot tame Reef-Talon without chains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Return to Bastard's Wound and find a way to contribute, or die by my hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>The Beastwoman lies silently upon the floor for a long time, until at last she rises to sit on her haunches. "Fatebinder offers fair choice. Same choice that Reef-Talon has always faced. Die in depths or return to Wound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>The Beastwoman sniffs the air as you approach, bounding from one corner of the room to the next in excitement. "Reef-Talon no longer hears mewling of Sleepless brood. No longer kept awake by painful cries from across the deep. How did Fatebinder bring peace to wounded kith?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Fatebinder has kept promise and helped end suffering of dying brood. Beastwoman will also keep promise." She chuffs and stamps the ground several times, seemingly working up the courage to continue. "Reef-Talon will return to Wound now and help tribe. Have dwelled in pit for too long. Now is time to return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I killed them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Lie] "I led them away from you. Once far enough, your tie to them was severed and they found peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Lie] "I offered them a choice. Each and every one of them requested death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>She settles back on her haunches and looks towards the dim expanse to her side. Reef-Talon offers the darkness a series of short, mournful cries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Her piercing eyes take on a sudden, predatory gleam. "Fatebinder was not to kill! Reef-Talon will tear Fatebinder's  Scourge-heart from puny ribs and throw into darkest depths!" With a room-shaking roar, Reef-Talon leaps to attack, claws swirling with mystical energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>She watches you carefully, parting her jaws to breath in your scent. "Human words tell lies but human scent-taste speaks true. Reef-Talon can smell blood of Sleepless on human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Beastwoman cannot... say for sure." Her hands gesticulate wildly but for a time, no words come out. "Ever since coming to this place, Reef-Talon feels hum of magic but... did not FEEL it until it already happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Packmate was injured on patrol and Reef-Talon ran to clutch injured whelp. Beastwoman remembers hearing lifeblood from inside dying body, and roared it to obey. That's when mending-rite began to knit flesh... that's when Reef-Talon's shame began."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Can describe sensation of healing-power but not meaning." She pauses to think, listlessly tracing a painted symbol on her chest with a claw. "When human lies on ground with lifeblood pouring from wounds, Reef-Talon can sense blood-rage inside dying creature, and when Beastwoman touches paw to human, Reef-Talon can... stoke blood-rage to live longer? To DEMAND blood keep pumping? Am not explaining right, no-no. Can't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"But mystic 'gift' always goes too far! Always! Mending-rites grab of life-spark, stretches far and fast until extinguished-snuffed-drowned! After rite, human's wounds close and lifeblood dries, but life-spark is gone. Healed human is hollow. Does not remember pain or pleasure. Does not dream... is Sleepless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>She shrugs, scratching her head with a gruff sigh. "Maybe. Reef-Talon never finished proper teaching to be mystic. Power always feels like is coming from WITHIN Reef-Talon... but maybe Oldwalls awoken mending-rite?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Leave] "I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Claws dug into the stone floor, Kills-in-Shadows bristles her fur. "[url=glossary:prima]Prima[/url] of Wound tribe is impressive... not as impressive as Kills-in-Shadows, but mighty all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>After a few hours, Reef-Talon paws back into the chamber, fur matted and damp with blood. Her eyes have a distant, haunted look to them, and she pants as if tired from an explosive sprint. "Beastwoman has killed own brood... blood leaves bitter taste, but it is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Shackle her.] "You still have a purpose in Jaspos' service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>She steps towards you, close enough to brush your skin with her fur, and breathes deeply. "Beastwoman will remember Fatebinder's scent. Do not harm Wound packmates, or Reef-Talon will emerge from shadow-depths and stalk prey-that-betrays." Satisfied with her warning, she calmly walks over to the railing and leaps into the darkness below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Reef-Talon, I believe the ancient paintings in these Oldwalls are the key. Your powers didn't really manifest until you were here in the Wound. And you've been down amongst these corridors and murals prior to your power first manifesting. And if I'm correct, these murals convey magic in an a similar fashion to how we Sages convey knowledge along parchment. At the very least, there's little harm in testing my hunch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"What does Fatebinder see in ancient painting?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Why does Fatebinder think Reef-Talon skulks in deep-dark pit? Beastwoman does not fear hunters. Does not fear Scourge-beasts. Only fears poison inside Reef-Talon. In Oldwalls hollow, Beastwoman cannot steal dreams of clan-mates. Wound-tribe is safe with Reef-Talon forgotten in wretched deep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>A pensive hum plays along the back of her throat. "Perhaps Fatebinder is correct...dreamless must die eventually, same as dreamers. Reef-Talon must not let Sleepless suffer in imitation of life, must find courage to cull weak herd, no different than harsh winter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>As quickly as it arrived, the energy dissipates. Her muscles, once coiled and taut, finally buckle, dropping the Beastwoman into a heap upon the cold rock. "Kill Reef-Talon. Bring many-many failures to end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Her blood-stained arm shoots outward, a single claw pointed in your direction. "Reef-Talon will not die before Sleepless debt of blood has been returned." She chuffs sharply, with conviction. "Will go. Will return to Wound as Fatebinder says."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>A soft whine drifts out between labored breaths. "Good. Reef-Talon has skulked and stalked far from ocean waters too long. Have ruined enough in four life-times, no need for fifth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>She grasps a broken fragment of the stone floor and laves her tongue over it, scraping it over and over to remove the taste. "Sleepless whelps now return to ocean mother. No longer suffer in endless depths of Oldwalls. For first time in months, Reef-Talon no longer hears mewling call."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>The Beastwoman waits by the dust-caked altar, head bent downward in contemplation. A deep, gravely rumble emanates from her chest as you cross the chamber's threshold.
+
+With a loud chuff, she turns to face you. A fierce pair of ice-blue eyes watch you with murderous intensity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[Execute her.] "Nobody stays a [url=glossary:prima]Prima[/url] forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Dreamless brood still wanders halls. Has Fatebinder found way to help Sleepless humans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>She extends a claw-tipped hand to offer you a worn keystone. "Take. Mystic-stone awakens far-leap stone. Will take human to high perch where water flows, where Reef-Talon would watch, keep tribe safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Human is thick with scent of packmates' blood." She parts her lips and flashes a pair of razor-sharp fangs. A powerful rumble bursts from her chest to rattle your ears. "Will rend limbs and tug entrails! Before soft-skinned prey gives last breath, Reef-Talon will bring human back as Sleepless husk to forever roam dark-shadowed halls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Despite her protestations, the Sleepless are undeterred. Reef-Talon abandons her objections and turns to face you, raising her massive frame to its full height. She bares her fangs, shaking the air with a tremendous roar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Today may be the day I mark 'a Beastwoman literally exploding from anger' off of my List of Things I've Never Seen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Shit, Fatebinder, she's already half-rabid. You think leashing her's going to calm her down any?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"In the legion, we put down unruly Beasts that present an obvious and life-threatening danger but... as you will it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"I know the risks. She's going back to the Wound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I've seen only human Sleepless. Are there no Sleepless Beasts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"No... not yet. Used mending-rites on Beasts in pack but saw no dreamless scar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>As her eyes follow a trail of cascading dust, a contemplative purr vibrates along the back of her throat.
+
+"But Fatebinder's goal is wise. Reef-Talon can feel mystic-strength in blood. Like ocean-storm, Beastwoman's blood is not tame. Will flow like petulant cub."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"If you can't learn to control your magic, you're worthless to the Wound, to everyone. Do something about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"We're trying to help. If we wanted to harm you, there are much easier ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I've seen a number of them already, they're fascinating to behold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Fatebinder shames Reef-Talon... but is not incorrect." She balls her fist, grinding her knuckles into the stonework. "Is NOT incorrect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>A low growl escapes her lips as she eyes you with caution. She sniffs twice at you, then turns toward Lexeme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Despite her protestations, the Sleepless are undeterred. Reef-Talon abandons her objections and turns to face you, raising her massive frame to its full height. She bares her fangs, shaking the air with a tremendous roar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>She glances down to the stones beneath her feet. She taps two toes against the rock, a low grumble rising in her chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"So you learned your magic from Mantaborn mystics?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"No. Mantaborn groomed Reef-Talon for such role, but only for a season. Outsiders came, mystic paint came off, war paint came on... and tribe was shattered. Reef-Talon never given rites of initiation, is not deserving of ancient title."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>As you draw your weapon, the Sleepless in the chamber react with a discordant chorus of wails, drawing in closer to protect Reef-Talon. "Back! Scamper-flee-escape! Do not raise blunt-claws to Fatebinder. Only Reef-Talon must answer challenge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Fatebinder should have Reef-Talon's knife." She draws what must be a small blade to her but is a proper sword to your hand from her bandoleer. With head bowed, she hands you the weapon.
+
+"Brought good luck to Reef-Talon in deep-dark. Will bring good luck to Fatebinder. Also has too much stink of blood from humans Reef-Talon trained to hunt... much-much better Fatebinder has."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Fatebinder should have Reef-Talon's knife." She draws what must be a small blade to her but is a proper sword to your hand from her bandoleer. With head bowed, she hands you the weapon.
+
+"Brought good luck to Reef-Talon in deep-dark. Will bring good luck to Fatebinder. Also has too much stink of blood from humans Reef-Talon trained to hunt... much-much better Fatebinder has."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Fatebinder should have Reef-Talon's knife." She draws what must be a small blade to her but is a proper sword to your hand from her bandoleer. With head bowed, she hands you the weapon.
+
+"Brought good luck to Reef-Talon in deep-dark. Will bring good luck to Fatebinder. Also has too much stink of blood from humans Reef-Talon trained to hunt... much-much better Fatebinder has."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Fatebinder should have Reef-Talon's knife." She draws what must be a small blade to her but is a proper sword to your hand from her bandoleer. With head bowed, she hands you the weapon.
+
+"Brought good luck to Reef-Talon in deep-dark. Will bring good luck to Fatebinder. Also has too much stink of blood from humans Reef-Talon trained to hunt... much-much better Fatebinder has."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>As you place the Beast in restraints you disarm her of her conspicuously glowing blade. The sizable sword appears only slightly newer than the Oldwalls themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"The old man sent us. We'll make sure she gets back to the Wound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Glad she's alive, we weren't exactly thrilled at the thought of helping you move a body through the Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>The sound of shouts and clattering armor signals the approach of another hunting party. As they come into view, you spot their colors - the man that sent you down here sent them, too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Everything? This is no different than a litter too large to feed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"If someone seriously hurt your cub, but did so by accident, would you rather they mercifully end the creature, or would you prefer they prolong the cub's suffering to ease their guilt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[Conquest] "Remember being a prisoner of the Chorus-mystics? The agony you felt must be what they feel now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>The massive beast cowers under your stern gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"What does human know of culling own tribe?" She snorts in contempt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"You've done everything but put them out of their misery. You know it has to be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"How many seasons do they have left? Why prolong their tired lives?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"No! Will not kill Sleepless! Have done enough harm already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"No." She vigorously shakes her head. "Reef-Talon is tired of running... and has Sleepless to protect. Cannot keep fleeing sadness - is chasing own rump."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[Raise your voice.] "Coward! Would you rather waste away on your haunches?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>[Conquest] "Remember your suffering at the hands of the Chorus-mystics? Have you learned nothing? You must always keep moving forward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>The massive beast cowers under your stern gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>She lowers her head, unable to meet your gaze. "Not afraid of hunting the deep-dark, but does not know why. Reef-Talon's death will not help Sleepless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"The truly sick must be cloven from the pack to spare others of illness. Have you forgotten this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>She snorts at you, dismissively. "Will not abandon Sleepless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>She looks at the floor with a sad, sorrowful glare.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

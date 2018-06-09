@@ -1,0 +1,3077 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_barik_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>611</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"My Lord Binder. You have something which requires my attention?" Barik salutes as he turns to greet you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Fatebinder. You look like you need to talk."
+
+Barik nods to you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You look as if you have something on your mind. By all means." Placing his weapon to his side, Barik salutes you. The joints of his armor groan in protest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Barik turns to face you, nodding silently. A short sigh escapes as he waits for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Tell me about the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I have some questions about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What can you tell me of the Tiers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I am the line your enemies cannot cross... all other details are meaningless. But I suspect you have some thirst for details, so ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'd like to know more about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Have you fought in any notable battles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tell me about your name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What's the story with your armor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"As with all [url=glossary:disfavored]Disfavored[/url], I assume you grew up in the Northern Empire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"We are the iron legion, the warrior-elite of [url=glossary:kyros]Kyros[/url]' fighting force. I could easily lose count of the hours extolling our glories. What is it you'd like to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me about [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What can you tell me of your time in the legion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What of the other [url=glossary:disfavored]Disfavored[/url] lieutenants?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Did you seek the trade of war, or did it find you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What more can you tell me of the legion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What would you like to know about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What do you know of [url=glossary:the voices of nerat]the Voices of Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What can you tell me of their troops and tactics?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"How do you think the [url=glossary:scarlet chorus]Scarlet Chorus[/url] convinced so many Tiersmen to join?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Uphill both ways and full of dumb sods. I learned some history in training, and I've been here for a few years, but... I'm no expert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What is your assessment of the local forces?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What do you know of the [url=glossary:younger realms]Younger Realms[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Once I saw the modest scope of their defensive, I knew they would be easily outclassed. They couldn't even rally their best to make a competent stand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Tell me of the [url=glossary:vendrien guard]Vendrien Guard[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Tell me about the [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"What can you tell me of the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Why didn't the legion prevent the uprising of [url=glossary:vendrien's well]Vendrien's Well[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I served in Stalwart for the better part of a year. Faced the enemy everywhere from Coral Run to Sentinel Stand. I lost count of the battles. Seems like we fought every other day." A sigh echoes in the cavern of his helm. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Some of our best victories took place there - fighting an enemy worthy of our iron. But we were not successful enough to please the Overlord... and the final intervention was harsh on us all." Barik takes in a deep breath, his arms folding as his posture stiffens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I had an... unusual view of the [url=glossary:edict]Edict[/url] of Storms. [url=glossary:kyros]Kyros[/url]' judgment left its mark on me. Yet considering how we fought at Stalwart, with the skill and honor of legend, only the [url=glossary:edict]Edict[/url] is remembered. A shame." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Both, I suppose. I knew fighting was in my blood, and the [url=glossary:disfavored]Disfavored[/url] offered me a chance to use my skills to bring peace - otherwise I'd have wound up some brigand or an enforcer to a crooked merchant." Barik taps his scabbard, looking away in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"'Barik' is a shortening of my Northern surname, which has been passed down through the generations since [url=glossary:graven ashe]Graven Ashe[/url] assembled his army. I go by it because I wear it with pride. The proper form is Barikonen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"It is a symbol of [url=glossary:kyros]Kyros[/url]' will - one that I'm not likely to forget. I found this armor... perhaps it would be better to say that it found me, during the [url=glossary:edict]Edict[/url] of Storms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"That's right. I grew up in Battle's Rest, then trained at Fort Resolution before they marched me out to support the Second Cohort. I hope to spend my rusting years in Fretten Shores... unless of course I die in glorious battle, which would be preferable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] is the General of the [url=glossary:disfavored]Disfavored[/url], veteran of centuries of battle, and an Archon without peer! I would follow him to the void and back without question." Barik swings his arm in salute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I joined the legion three years before the conquest of the Tiers began. Though handy with a few weapons, my size made me the perfect addition to a phalanx."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"They are [url=glossary:graven ashe]Graven Ashe[/url]'s most trusted officers and warriors from the [url=glossary:iron guard]Iron Guard[/url]. Between Ashe's arcane powers of command and his cadre of gifted leaders, there is little confusion or chaos in the ranks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tell of the one they call Iron Marshal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"What of [url=glossary:cairn]Cairn[/url]'s disciple, Radix?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What of the scout master, Maric?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What of the veteran warrior, Varimas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I think that's a question you ought to ask of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]! They too were charged with ensuring the locals remained vanquished and unarmed."
+
+Barik lurches forward as he speaks, iron plates grinding under his motion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] are [url=glossary:kyros]Kyros[/url]' elite. The duty was theirs to fail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"If the Chorus had conscripted more aggressively, perhaps there would not have been an uprising."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I would say the [url=glossary:vendrien guard]Vendrien Guard[/url] are really the only guilty party - it was their rebellion, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"There is a century of tradition, honor, and tactical mastery in our ranks. We don't let just anyone into the legion - only Northmen of character and prowess are welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"The Archon of Secrets? All I know are rumors, hearsay, speculation, but that's as much as anyone knows of the Voices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Tactics? These are the first I've heard of them. The Chorus is more of an irregular mob than a proper army. Still, it's a well-armed mob, and they even have a few proper warriors and magicians in their pitiful excuse for ranks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"What do you know of their warriors?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What sort of magic does the Chorus use?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"If the Chorus is a mob, how is it led and supplied?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"It began with Sirin - she had a song that got whole villages marching to her will. And once these peasants killed their neighbors or cousins in service of the Voices, it either hardened them into warriors or broke their mind for servitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"The Tiersmen would only be a weak link in the [url=glossary:disfavored]Disfavored[/url] shield wall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] turn away all people of the Tiers? That seems selective to the point of foolishness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Better that the Tiersmen serve [url=glossary:kyros]Kyros[/url] in some capacity than have them rot in mass graves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Before we marched on the Bastard Tier, I recall [url=glossary:graven ashe]Graven Ashe[/url] giving us a speech as we stood assembled at Fort Resolution. He told us that the [url=glossary:younger realms]Younger Realms[/url] lacked the sense to make a stand against us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Let's discuss some immediate concerns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"What is it you have on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"What do you think of our circumstances?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"What are your thoughts on me and my deeds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"She takes it upon herself to train and harden our greener recruits. Not only that, she has a keen eye for talent and how to foster it for leadership." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"An Earthshaker who swore service to [url=glossary:cairn]Cairn[/url] a few years before the conquest. Since [url=glossary:cairn]Cairn[/url] is gone, the cult now follows Radix. Unlike his Archon, at least he knows how to follow orders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Maric is a devoted leader, and Ashe seems to hold his counsel in high regard. Both set their troops ahead of themselves, which I'm sure is why they work so well together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"He is the finest of us, second only to Ashe! Varimas is an Evocatus - a soldier who lived to see the end of his term of service. It's rare for anyone to survive that long, much less willingly return." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I see, [Player Name], so the incompetence of the Chorus shields them from blame? That sounds like the sort of law [url=glossary:tunon]Tunon[/url] would teach his Fatebinders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Agreed. We have never relied upon the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to win victories, only to recruit in number and secure our holdings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Most Chorus rats are untrained peasants handed a knife or a pitchfork. It doesn't take much to qualify you for the front lines. One only needs a beating heart, and even then the Chorus could make do." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"The Blood Chanters are the mages who follow [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Like the Chorus itself, their order is not steeped in tradition and antiquity - rather, built on knowledge stolen from other guilds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] gives orders to his elite commanders, who in turn send instructions out to the gang captains. But beneath that hierarchy, it is chaos." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Yes! The North is our shared link, our consistency. How could I trust a woman or man to hold the shield wall if I don't understand their customs?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I would not expect a Fatebinder of [url=glossary:tunon]Tunon[/url] to grasp notions of pedigree and standards. The [url=glossary:disfavored]Disfavored[/url] are a family - not some military orphanage or home of second chances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"They'd be best served lugging grain for the [url=glossary:disfavored]Disfavored[/url]... but you're certainly correct - even the lowliest Tiersman deserves the chance to serve - even as fodder for the front lines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"They used to be the Queen's Royal Army of Vendrien. I guess defeat inclined them to a shorter name. We crushed them back in 429 - I'm proud to say I took part in the decisive battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"The [url=glossary:unbroken]Unbroken[/url] Union of Stalwart. May they rot in the decrepitude of their fallen realm." Barik squeezes his gauntlet into a hard fist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Mercenaries from the Free Cities. The Chorus needed extra muscle, and you can always mint new rings. Hard to believe the Tiersmen turned on each other for mere loops of metal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] left little room for confusion: a representative of the Overlord must breach [url=glossary:ascension hall]Ascension Hall[/url] before [url=glossary:kyros]Kyros[/url]'  [url=lore:kyros_day_swords]Day of Swords[/url], and must assume death is the price of failure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] loathe you... each day I spend with you no doubt harms my standing in the legion. I am bound to not kill you while you sleep, but know that I could likely win the legion's favor with such a move."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Let us speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"What do you know of the Beastmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"So why is the legion called the [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"It is a name born in shame, now worn in honor. After [url=glossary:graven ashe]Graven Ashe[/url] stood against [url=glossary:kyros]Kyros[/url], he was forced to give up much - his allegiance, his pride, and the name of his vaunted army." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"They drilled us on Beastman combat before the invasion, but it did little to prepare us. The local savages are lacking in brains, hygiene, and the ability to arm themselves - yet the prime hunters of their species are formidable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"How do you feel about [url=glossary:graven ashe]Graven Ashe[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"What happened during the [url=glossary:edict]Edict[/url] of Storms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Back to my questions about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"The Overlord will not stand for civil war between the Archons. I would like to think that [url=glossary:tunon]Tunon[/url] would broker peace between the two but... there is too much hostility between [url=glossary:graven ashe]Graven Ashe[/url] and [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I was expecting The Overlord to kill these squabbling minions, but it seems they've been given chance to sort out matters for themselves." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ashe is your ally, and holds you in some esteem. I don't know how you two will settle this impasse, but he is a man of honor and will not attack you first. Perhaps he will see reason and accept your claim. Perhaps not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"The Great General will show neither mercy nor lenience. For backing the [url=glossary:scarlet chorus]Scarlet Chorus[/url], you have signed your own death warrant." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ashe will not be quick to accept you as his superior. If you must come to blows, so be it. Remember that I am your sword, but even I have my breaking point." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"How do I feel about him? Archon Ashe is the bravest, warmest, most compassionate General who ever lived. He's a living icon of leadership and courage."
+
+Barik tilts his head slightly to the side - as far as the suit's limited range of motion permits. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] needed recruits in anticipation of the march south. They offered to care for my mother and brother as long as I stayed with the legion, which is a better guarantee than you'll find anywhere else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"As we surrounded the citadel, I heard the opening peals of thunder - as did the scout I was busy trying to kill. Then the winds hit like an avalanche. Many of us begged [url=glossary:kyros]Kyros[/url] for deliverance... what else were we to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"A piece of the citadel wall broke off and nearly crushed my skull. I only remember a few scattered moments from the storm, like the flying bits of bronze and iron cutting my flesh, the severed limbs of fallen soldiers tumbling through the air..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"You're genuinely stuck in there? Haven't tried taking it off?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Do you handle your own repairs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Looks like pretty solid protection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"That would be an understatement. If only it protected me from foolish questions." Barik regards you in such a way that you can tell he's rolling his eyes. A forlorn sigh escapes his helmet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I made attempts in the past. Even had one of the beast haulers pull on the helmet while another pulled on my boots. The men in the phalanx have taken great pleasure in trying to find ways to liberate me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"In time, I grew weary of the struggle. Sometimes I fear that removing the armor would be to question [url=glossary:kyros]Kyros[/url]' judgment and risk a more odious curse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I try to keep the surface oiled to slow the spreading rust, and I bend the plates from time to time. But repairs? Maintenance? No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"When we heard that [url=glossary:kyros]Kyros[/url] would proclaim the [url=glossary:edict]Edict[/url], we rushed into the field to battle the forces of Stalwart. I was shoulder-to-shoulder with some of the legion's most decorated veterans, and my pride blinded me to the danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"What else do you know of his past?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"As an Archon, what magic does he wield?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Back to my questions about the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"How did he come to serve [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Before the uniting of the Northern Empire, [url=glossary:graven ashe]Graven Ashe[/url] served as a warlord in the service of one of the local kings that defied [url=glossary:kyros]Kyros[/url]' rule. Incredible as it may seem, Ashe stood against [url=glossary:kyros]Kyros[/url]' rule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] took an interest in the military genius that bloodied his army. [url=glossary:graven ashe]Graven Ashe[/url] was summoned to a conclave of Archons - and though he was sent in chains, he left as an Archon - having been granted a position of power in [url=glossary:kyros]Kyros[/url]' great host of war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"From how I hear the story, [url=glossary:the voices of nerat]the Voices of Nerat[/url] was the Archon tasked with conquering [url=glossary:graven ashe]Graven Ashe[/url]'s homelands. So it was the Voices' disorganized mob that Ashe shamed, and the mad Archon has loathed [url=glossary:graven ashe]Graven Ashe[/url] ever since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I follow him into battle, I am not his personal scribe. And if I did know more of him, it would not be my place to say." Barik takes a half-step back, folding his arms across his chest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ashe works his magic through us - his soldiers. When we do battle, Ashe seems to know the events even before our runners have given word. Most importantly though, he protects us. It's... a bit tricky to explain unless you've experienced it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I can think of countless times I've been struck by a spear, or hit with an axe, and even run through with an arrow - and in each of those moments, the pain and injury just ceased to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"The [url=glossary:bastard city]Bastard City[/url], the Gates of Judgment, Vendrien Pass, Occon's Ring, a quick tour in Baris-in-Chains, and then Stalwart. I... spent a long time in Stalwart. Lost a lot of friends there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"She is the youngest member of the [url=glossary:iron guard]Iron Guard[/url]. Her family line served the [url=glossary:disfavored]Disfavored[/url] back before Ashe bowed to [url=glossary:kyros]Kyros[/url]. Say what you will of how many seasons she's weathered - her lineage is impressive beyond measure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"To his credit, Radix seems to appreciate the honor of fighting alongside the [url=glossary:disfavored]Disfavored[/url] - [url=glossary:cairn]Cairn[/url] was always peeved to be invited in the glory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"What if a capable Tiersman wished to join?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"What about me? What if I wished to join?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"We would not recruit even a champion of the Tiersmen. Each soldier in the legion is tied by blood and fealty to those that stood with [url=glossary:graven ashe]Graven Ashe[/url] during the coming of [url=glossary:kyros]Kyros[/url]. That is part of who we are, and that will never change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"A charming sentiment, good Fatebinder, but no. You are sworn to another Archon - your loyalty would be suspect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"You have been an ally to the [url=glossary:disfavored]Disfavored[/url], but there is no debate on this matter. Perhaps if you were younger and not already sworn to [url=glossary:tunon]Tunon[/url]'s service. Ashe will have you as an ally, but not as a vassal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"What was the legion originally called?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"The allies that were supposed to help us conquer the Tiers? Common criminals, every last one of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Our allies do not share the [url=glossary:disfavored]Disfavored[/url] sense of honor and discipline. The Chorus will trust any criminal, rapist, or half-wit with a truncheon or blade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"In truth, I know little of the Voices, and have reason to suspect almost anything about him could be true. You could tell me his tears turn cheese back into milk and it would seem more sensible to believe you than not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Do you know anything of his powers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Do you think him disloyal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Back to my questions about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Yes! Almost without question. You were there at the uprising of [url=glossary:vendrien's well]Vendrien's Well[/url] - the [url=glossary:scarlet chorus]Scarlet Chorus[/url] seemed intent on delaying the [url=glossary:disfavored]Disfavored[/url] war efforts - no doubt hoping to keep us outside the Well and in the maw of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I really shouldn't comment on such matters." Barik looks ahead blankly, and then clears his throat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I am no scholar of sorcery, but as I understand it, [url=glossary:the voices of nerat]the Voices of Nerat[/url] is a thief of minds. They say he can swipe your thoughts and make them his own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Inefficient? Every weakling lost in the shuffle is one less burden to those in the Choir still dancing to the song of battle. Our ways must be harsh, otherwise the stupid and the soft will inherit the chant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"The Chorus has a lot of mouths to feed, so the conscripts that can't or won't fight are made to gather food and water - else, I'm told, they're fed to the pigs... becoming food and water, in a sense." Barik shrugs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Barik is too dismissive by far, but he's right that most recruits are novices pressed into service. Most will not survive the first few battles. Those who live will have experience to lead, and those who fall can easily be replaced." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"The elders of the Blood Chanters are traitors from the School of Wild Wrath. As fickle and dangerous as the fire they worshiped, they were outlawed by every Realm and hated by most sane folk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"It's not pretty, and it shouldn't be. The Chorus is a forge - all the dirt of the Tiers goes in, and the finest bits are refined into weapons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"There are many that join the [url=glossary:scarlet chorus]Scarlet Chorus[/url] because they wish to join the winning side. It's a shame that such patriots were not born to proper Northern stock - too weak or too slight to be [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"You know the rest. A year after we thought them conquered, thousands of Vendrien oathbreakers murdered the garrison and declared themselves free of the Overlord's rule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Good riddance! I suppose their name isn't what it used to be, is it? So many lives lost, years spent, land ruined... all because the people of Stalwart were too proud to bend a knee to [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"They are no friends of mine. If you would speak of the [url=glossary:unbroken]Unbroken[/url], ask them yourself. I have faced them too often on the battlefield to stomach their company." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] worship the Scourges. Yes - those monsters from the Oldwalls... the mercenaries are grown adults that willingly admire a magical abomination. Read into that what you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"That said, it should surprise no one that the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] eventually wanted more than just rings and turned on their contract. [url=glossary:kyros]Kyros[/url] now considers them an enemy... which is for the best. The Overlord needs a better class of combatants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"I don't think I need to point out that the average Tiersman is just plainly inferior to the sons and daughters of the North. For every one of ours they kill, we must drag a score and a half bleeding into the soil with us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"A regrettably apt observation, Barik. My Guild and I were laughed out of Azure, Ardent, Stalwart, and Occon - each time we offered to fight for the Tiers, and each time we were told our magic was unwelcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Aside from being rapacious killers, the Beastmen make good haulers and laborers - once you've killed the half that won't follow orders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"You have the advantage that your Spires aren't easily invaded. We should keep moving, and tackle the other Archons one by one. [url=glossary:the voices of nerat]The Voices of Nerat[/url], [url=glossary:tunon]Tunon[/url], [url=glossary:bleden mark]Bleden Mark[/url].... and then there's [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Your story is becoming something of a legend. It would seem you have a touch of the Overlord's gift - I do not know what to make of it myself, but like most, I'm curious and terrified to see what you'll do next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] hold you in high regard. The legion is wary of letting outsiders bury our refuse, much less fight among our ranks. So take the compliment for what it's worth... filthy outsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"You have something of a following among the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Did you always aspire to be the idol of thieves and rapists? If so, you've done yourself proud." Barik steps in close, the smell of rancid olive oil creeps with him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Those who shirk the Overlord's laws adore you, and if I didn't know better, I would say you favor our enemies over our allies. [url=glossary:tunon]Tunon[/url] must keep his Fatebinders on a very, very long leash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Much as it pains me to admit it, in all the realms of the Tiers, the [url=glossary:unbroken]Unbroken[/url] have been the only foe worthy to meet the [url=glossary:disfavored]Disfavored[/url] in battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"The [url=glossary:unbroken]Unbroken[/url] value tradition - just as we do. Stalwart has never lost a war on their own soil - a reputation they take quite seriously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"The name has been forgotten by all save Ashe and [url=glossary:kyros]Kyros[/url], and it is considered bad form to bring up the topic. Since you didn't know any better, I'll say this much... '[url=glossary:disfavored]Disfavored[/url]' is the only name by which one needs to know us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"I heard his tears can turn cheese into milk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"That's very amusing, Fatebinder." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"What do you know of his associate, the Archon Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Sirin is the Archon of Song, and one of the youngest of her rank. She can influence human emotion with her voice alone. The Voices may be the conductor of the Chorus, but I'd argue Sirin is their best weapon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Yes Barik, what have you heard of me? And speak honestly... doesn't everyone like honesty?" Sirin steps in close, humming softly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"The Voices put her talent to good use. He had her singing a song up and down the coast, and the Tiersmen defected to the Chorus in droves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"I hear the conscripts call you a child, slut, diva, and Archon of Tantrums. I heard that your crown is a cage like mine, only yours will kill you. I hear men describe how they'd like to-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Sirin, that's enough! Barik, as you were saying..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Sirin lifts an eyebrow and stares at you for a long moment before stepping away from the conversation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"That will do. Thank you Fatebinder - I had but one question. He's yours now." She tilts her head in a half-bow and leaves the swaying soldier to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Where were we?" Barik glances left and right, as if distracted by the buzzing of a fly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"I've heard the Choirmen say... very terrible things about the Archon Sirin - her youth and power invite envy... and fantasies better left unspoken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"If you have any ideas of how to better maintain this... situation, I'm open to discussing them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"These days he lends his tactical expertise to [url=glossary:graven ashe]Graven Ashe[/url], though by all rights he should be enjoying his twilight years in a seat of honor and dignity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Would you like to discuss removing your armor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"I don't need to tell you that this suit of junk is a literal pain in my ass. Half-broken, smelling of a midden, and perpetually jabbing my side with some [url=glossary:kyros]Kyros[/url]-be-damned caltrop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"My armor saved me from the destruction of Stalwart, where thousands of others lost their lives. So you can see why I continue to wear it. For the time being, we will not be separated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Do you even want it removed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"What does [url=glossary:graven ashe]Graven Ashe[/url] think of your predicament?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"How long do you think it can last?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Let us talk of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"These dusty plates may not be up to standard, but they serve the [url=glossary:disfavored]Disfavored[/url] well enough on the battlefield - if only to intimidate the enemy. Better for me to endure this condition than to shirk an advantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Considering that I wore this as I marched across the bones of Stalwart-that-was, my burden growing heavier with each step, I have no desire to leave it behind. It's a lesson, a reminder, and yes - a prison. But all of those things make it... something more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"It's an armor fastened in ideas," Lantry mutters to himself soberly and commits a few words to his manuscript. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"These plates have something of me in them. They are as wicked as a bramble patch, as stubborn as a fortress... and hopelessly flawed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"At present, removing my armor is not an option. If that ever changes, I suspect that the Tiers will tremble with the impact of my collapsing fortification. What a day that will be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"I suspect that he doesn't. Not to besmirch the Great General - he has larger matters to consider than any one soldier's woes." His shrug sends a puff of debris clattering to the ground. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"The armor hasn't shown any sign of weakening, and my maintenance regimen is all that keeps it from rusting solid. Were I to stop applying oil and give in to entropy, this shell would harden to a degree that no forgemaster has ever seen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"I think it could very well stand for as long as the Oldwalls, with my skeleton peering out from the depths. And someday, not even that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Every time you cross the [url=glossary:disfavored]Disfavored[/url], you strengthen the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Even if we didn't have strict regulations governing enlistment, I wouldn't even recommend you to Ashe. As far as he's considered, you're as harmful as the enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Fatebinder." Barik eyes you up and down, shaking his head in a manner that causes his armored joints to squeal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Fatebinder, I'm a little busy right now. Couldn't you find someone else to babysit your curiosity?"
+
+Grunting, Barik is focused on bending down a sharp point protruding from his armor. With a sigh, he relents and glares at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Now isn't that a cheery thought?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Back to my previous questions about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Back to my previous questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Any reservations I have aside, your military record speaks for itself. You are [url=glossary:tunon]Tunon[/url]'s Fatebinder, and my opinions on the matter don't come into it one way or another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"We'll talk later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Perhaps I didn't make myself clear: we are discussing it now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"You certainly know how to throw your authority around when you need to. That is your right as Fatebinder of [url=glossary:tunon]Tunon[/url], but... very well. If you insist." Barik rises to his full height and regards you with impassive coldness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"I am only too eager to move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"By all means, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Go on, I'm listening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"That is a supposition unworthy of you, Fatebinder. The Tiers are but children before [url=glossary:kyros]Kyros[/url] - we don't blame them for their ignorance, but the responsibility to set them straight is ours alone!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Yes, let's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Back to my questions about the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"By all means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Enough about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Good, let's move on to another matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Go on, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Enough about the Tiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"As you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Back to my previous questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"By all means, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"You think Ashe and his legion bring peace? That's cute, but it doesn't hold water from where I'm standing, big guy. I've seen them spill as much blood as any Chorus gang." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Be sure you tell the Fatebinder everything, you ironclad heap. Wouldn't want a negative report sent to your beloved General, would you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"You will be silent!" Barik hisses, the sound like steam escaping between his plates. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"'Challenges his betters and yells at women.' Be sure to include that in your report, Fatebinder." Verse turns to you wearing a smug smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Barik says nothing for a time, his chest rising and falling in erratic breaths that he struggles to equalize. Then he releases a deep exhalation and continues. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Damn thing chooses this moment to go dry... and with so few survivors to recount the [url=glossary:edict]Edict[/url]... bah!" 
+
+Lantry shakes his quill and presses it harder against a scrap of parchment, imploring it to write. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"I heard that [url=glossary:cairn]Cairn[/url] was unpredictable, even by Archon standards. He would wander the lands in isolation, and many of the Earthshakers have patterned their studies off of his example. Guess you've got to be careful who you pick as your guiding standard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"From where I'm standing, metal man, you're the only one still defending the [url=glossary:disfavored]Disfavored[/url]. If you took a moment to own up to the legion's shortcomings, that would go a long way toward making them stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"How did you survive when everyone fell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"That is a mystery to me as well. Did [url=glossary:kyros]Kyros[/url] hear my plea for mercy? Did this heap of scrap metal protect me, imprison me, punish me?" He rubs the back of his helmet with his gauntleted hand - a pantomime of a gesture his armor prohibits. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"So, Ashe bent his knee to a conqueror."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"He made the right choice to save his troops."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] made the ultimate sacrifice. To spare the legion, he put his loyalty ahead of his pride. There is no greater honor, and I will not hear otherwise from the likes of you." Barik leans forward and glares through the darkness of his helm. A groan of bending metal resounds in the silence between you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"And he would make it again to save any of us! There has never been a more devoted and attentive leader." Barik makes a proud fist and steps to a salute with the forceful clatter of pots and pans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Zigzagging around the Tiers, cleaving a path through our enemies? I can tell you with certainty that I have endured worse assignments than this." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"The decision isn't mine to make - what do you intend to get out of confronting Ashe?" Barik focuses on you with interest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"I will likely give Ashe the chance to submit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Given the opportunity, [url=glossary:graven ashe]Graven Ashe[/url] will die by my hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"I don't know yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"Then I'm glad you see it that way. Give the General the opportunity to accept your rule. Ever since he was invited to join the Archons, Ashe has believed in the value of mercy. This time it will be you - not [url=glossary:kyros]Kyros[/url] - extending the olive branch." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Barik flinches, and a plate of metal running down his spine grinds until it snaps. He turns away, introspective. When he glances at you again, the shadows of his visor seem to peer down into a bottomless gulf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"The responsibility on your shoulders is a heavy one, and should not be taken lightly. Gather your thoughts before making any hasty decisions. Even the Overlord makes missteps, but I fear you don't have the luxury of unlimited power... yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"The winds knocked the legs of our offensive out from under us. All the decorated soldiers I brought to the battle were swept up and dashed to pieces, their armor and bodies mixing with the dirt of a tornado that spun in maddening revolutions." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Our march was a hasty one. A cohort of [url=glossary:disfavored]Disfavored[/url] soldiers vanished in the second year of the war - among them, the daughter of [url=glossary:graven ashe]Graven Ashe[/url]. After a long silence, we learned that she was held in the fortress of Sentinel Stand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"And so civil war divides the armies of mighty [url=glossary:kyros]Kyros[/url]. The reckoning that comes of this failure will be great indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"We find ourselves in the darkest times. Brothers and sisters who fought for a similar cause now skewer each other over blighted lands and the favor of distant powers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"What would you have done at [url=glossary:vendrien's well]Vendrien's Well[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"This isn't a matter for discussion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Backing the [url=glossary:disfavored]Disfavored[/url] was the only logical choice. [url=glossary:graven ashe]Graven Ashe[/url] is the only Archon worthy of your confidence, and you were wise to recognize as much. Naturally, I would have done the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"No? Whether in combat or in life, avoiding your problems will rarely solve them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Whatever others might say about what happened in [url=glossary:vendrien's well]Vendrien's Well[/url], you acted from instinct. I can't help but respect that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"I have some questions for you before we move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Onward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"I was an elite fighter as far as most were concerned, though still green by [url=glossary:disfavored]Disfavored[/url] standards. Luckily for everyone, my skills improved under the Iron Marshal's rigorous training."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"Verse has a point. The [url=glossary:disfavored]Disfavored[/url] could reconsider their approach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Barik is right. The [url=glossary:scarlet chorus]Scarlet Chorus[/url] is too chaotic to recognize order." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"You've clearly been too busy sacking villages and stealing crops to notice how a proper army conducts a war. We sow order, not discord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>"Perhaps you need a few lessons in military strategy, then. Battles can be won by hurling troops into the furnace, but war is a labor a love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"I can see you're beginning to understand. The Chorus is a useful tool to throw at one's enemy, but it grows brittle with age, and is soon replaced."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Beyond its age and association with the General's legion, the name of Barikonen has no great titles or associations. I hold no claim to a great house or legacy, save for the [url=glossary:disfavored]Disfavored[/url]. They are all the kin I need." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"I've heard enough. Back to my previous questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Your attention span leaves something to be desired. I hope you have the patience to see this campaign to its end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Though the General seldom speaks of it, I know that Ashe humbled himself in order to spare his troops the brunt of [url=glossary:kyros]Kyros[/url]' punishment. His loyalty to the old blood of the North is beyond question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"I'm sure that Ashe and the Voices have numerous reasons to dislike each other, but I've heard several veterans tell it that the Voices' resentment goes back a long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Ashe is a soldier, but he doesn't kill for sport - a leader, but he doesn't issue commands to hear himself talk. He demands discipline and sober conduct of his troops, and I applaud such standards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"The mages seem a necessary complication. They are insubordinate and can't lug their own supplies... but I would not want to go to war without their spells of tremor and leaping stones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Their fire magic earns them a place on the battlefield, but they also have chants that stir the mind and the heart. The motherless sods have spells that can bolster a man's courage, or tap into his fears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>Barik stares at you through his narrow eye slits, saying nothing at all. The only evidence that he still lives is the steam of heavy exhalations that escape the cracks of his helm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"Are you okay in there, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"All right, then. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>He continues to stare, unmoving. Though you can't see his face, you get the impression that his mood has darkened even further. The stench that his armor exudes has intensified.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Are you mad about something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Barik, did you die under there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>[Poke him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"You betrayed [url=glossary:graven ashe]Graven Ashe[/url], the legion, and our Northern countrymen! As far as I'm concerned, you are a traitor to this campaign!" Barik leans in close, looking ready to throttle you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>A loud sigh escapes the helmet and Barik shakes his head in tired bewilderment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Barik grabs your extended finger before you even get close. At first you think he's going to snap your hand in half, but he releases it with a heavy sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Before you can turn away, Barik grabs your shoulder and spins you around. His heavy breathing intensifies as he struggles to find his words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"It was my right as [url=glossary:tunon]Tunon[/url]'s Fatebinder to choose a side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Stand down, soldier!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] made a better case. Accept it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>[Punch Barik in the gut.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Your fist connects with his armor with a hard clang. Barik looks down at you with as much confusion as disapproval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"I don't know what you expected would happen, but I'm only too pleased to disappoint you." He turns away, shaking his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Let us be clear on one point - you have my blade, but my heart belongs to Ashe and the North. I am a weapon bound to you only by duty. Nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"And your office compelled you to support the cause of a raving madman? If you have no better excuse than that, then I have nothing further to say to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>Something in your tone causes Barik to reflexively straighten his posture and stand at attention. He gradually eases his stance and looks down at his palms, horrified by his automatic response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"I will do no such thing. If the Archon of Secrets won over your admiration, then everything you think or believe is compromised. There can be no trust between us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"And you chose the savage Tiersmen over those who came to guide them with a civilizing hand? You disgust me, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"And you made no choice whatsoever. Well done. You will find the Tiers a friendless, unsympathetic place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"The people of the Tiers deserve to govern themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"All of the powers behind this war failed to impress me. I carve out my own path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"If you truly believe that, then you have missed the entire point of this conquest from the beginning. Three years of wasted effort..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"It is not the job of Archons or soldiers to pander to every legal clerk who strolls through camp! [url=glossary:tunon]Tunon[/url] dispatched you to the Tiers with a mission, and you failed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"I have nothing further to say to you, Fatebinder. Leave me be for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"My mother is good with the soil, my father with rings. He spends much of his time away on one merchant's errand or another. Still, I'm lucky to say they're both alive." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"Thus the [url=glossary:disfavored]Disfavored[/url] were born. All of us today trace our line back to those warriors that impressed [url=glossary:kyros]Kyros[/url] with their will and tenacity. The only difference is now we fight on the winning side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"Some accounts tell that he's actually dead, and the Overlord has trapped the minds of his foes in the same body to torture them all. As likely an explanation as any I've heard." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Eventually I woke up, thinking myself trapped under rubble. When I rose and felt like I was buckling under my own weight, that's when I realized I was stuck, right and truly stuck, inside this heap of scrap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"It is fortunate that Stalwart has poor relations with all its neighbors. The rest of the Tiers will not come to their aid. So as bravely as they fight, their end is inevitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"We are not powerless to help the situation - we can try to find ways to stop [url=glossary:the voices of nerat]the Voices of Nerat[/url], or discredit him in the Overlord's eyes. If the Voices were eliminated, the Chorus would collapse and the in-fighting would cease."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"A fine contrast to the honor, efficiency, and decency of the [url=glossary:disfavored]Disfavored[/url]. The legion demands courage and tenacity, but provides us with good iron, and does not leave its soldiers to forage like vultures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"None of us know how he does it, or how he can sense that we're in danger and intervene from afar... but I suppose that's why he's an Archon. What he does probably wouldn't make sense to someone like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"I don't know how it works. When I recruited into the [url=glossary:disfavored]Disfavored[/url], the Iron Marshal told me never to take an audience with the Voices if I didn't have a witness on hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Lots of criminals and drifters joined the Chorus, too. It seems like the scum of the Tiers just need the promise of glory and sanctioned debauchery to turn on their neighbors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"The [url=glossary:scarlet chorus]Scarlet Chorus[/url] is their best freedom from fealty to the [url=glossary:younger realms]Younger Realms[/url]. Not everyone has the fortune of gaining [url=glossary:tunon]Tunon[/url]'s favor." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"Of course, not everyone in the Chorus is an infirm child or sickly old crone - some ex-soldiers and madmen join, and the fighting elite of the Chorus form a clique known as the Scarlet Furies." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"He's no magician but he does share a special connection to his war band, and they are entrusted with the most important scouting assignments. They say he can see what his scouts see - hear what they hear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"It didn't help that they're afraid of magic, and relied on their battlefield prowess to stage a defense." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"We should assist the [url=glossary:disfavored]Disfavored[/url] in their siege preparations - as only the legion should take the Well's fortified Citadel. I wouldn't wager a wooden ring on the [url=glossary:scarlet chorus]Scarlet Chorus[/url] impressing anyone but the vultures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"I may speak out of turn, but you asked my opinion. You play a dangerous game courting the Chorus' approval. Do not let it interfere with you oath to [url=glossary:tunon]Tunon[/url] and the Overlord's laws."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Cascade Node 514</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"So when [url=glossary:the voices of nerat]the Voices of Nerat[/url] offered them an alliance, many of the Wrath mages accepted the offer to set fire to the Tiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"It is rare enough that anyone has the opportunity to proclaim an [url=glossary:edict]Edict[/url], much less break one. How are you holding up, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"To be honest, my head hurts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"I toy with powers greater than my understanding, and yet I don't stop." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"I have no wish to discuss this with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"That is to be expected. I am no expert in arcane matters, but I understand that the will and commitment needed to shatter [url=glossary:kyros]Kyros[/url]' magic are not resources in abundance." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"Take care that you don't exhaust yourself and become worthless to the war effort." Barik looks you up and down with appraisal, keeping any conclusions to himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"At least you are aware of your recklessness. I would be more concerned if the case was otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>"I shouldn't expect you to. Arcane matters are beyond my ken as it is, I doubt anything you have to say would make the knowledge more palatable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>"The arcana can seem overwhelming at times, but I think I have the fortitude to maintain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>"I'm glad to hear it. Since you seem more comfortable with magic than I had credited, I'll try not to worry myself over your well-being. Just thought I'd check in." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>He looks at you for a very long time, his expression as unreadable as ever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"Though we are encouraged to couple and mate within the legion, I don't consider you one of my cohorts. I think I'll decline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>"That's not what I... Oh, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"Wait, you're saying the answer would be different if I was [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"I wasn't talking about sex, Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"I don't know how long you've harbored these thoughts, but I would strike them from your imagination. I won't be leaving this armor any time soon, and you have no hope of breaching it without capable tools and endless patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Can we move on? You're making me uncomfortable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"You weren't? Forgive me. It's been some time since anyone made an advance, and I am long out of practice. As you can see." He knocks on his iron codpiece with a resounding clang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"Suffice it to say my armor and I will not be separated for the time being. When the war is over, perhaps [url=glossary:tunon]Tunon[/url] will lend me one of his [url=glossary:forge-bound]Forge-Bound[/url]. Until then, here I remain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Are you comfortable in there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"I... I would not speak of this now, Fatebinder. Please, consider the topic closed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"As your commander, I am concerned about the state of your uniform." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Damn it... you are right to be concerned. My apologies that you needed to pull rank. It was wrong of me to withhold information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"I have somehow developed enough calluses that I can sleep at night, but I wouldn't call that 'comfort,' would you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>"This is my armor. It has everything it needs and more - purpose, meaning, strength. If it were comfortable, that would only take away from its other qualities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>"Tell me about what you can and can't do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>"I can strike fear into the hearts of our enemies and protect a shield wall with my very body. What more do I need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"How do you vacate your bowels?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"How do you... take pleasure from life?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"How do you fare in water?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>"Back to my other questions about your armor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"Let us say I manage, and manage poorly. The parts of this misbegotten thing I can reach are in better repair than the ones I can't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>"Are we actually talking about this, Fatebinder? Do you have nothing better to do than wonder how I access my nether regions for a frenzied bout of self-interest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>"Well I can't, and not from lack of trying. My works are inaccessible from the outside, and much as I've tried to worm my arm out of this sleeve of iron, I would only succeed in dislocating my shoulder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"If you ever think me frustrated or disagreeable, just imagine what I've dealt with since the third year of the conquest. Or more accurately, what I haven't dealt with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"I don't want to hear this! How do I even run far enough to avoid it?" Verse plugs her ears and winces against the inevitable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"Better to ask 'how do I sink?' The answer is 'quickly.' Water passes my lips easily enough, though I take great care to keep it from anywhere else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Go on, then. I'm only getting rustier standing here entertaining your curiosity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"What happened to Ashe's daughter after the [url=glossary:edict]Edict[/url] hit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"She was trapped behind the walls of Sentinel Stand, imprisoned by [url=glossary:kyros]Kyros[/url]' storm as well as the fortress itself. A thousand soldiers standing shoulder to shoulder could not have endured those winds to rescue her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>"Of course, the poor girl is beyond all help since you murdered her." Barik glares at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"Better that she had stayed there than go to the clutches of [url=glossary:the voices of nerat]the Voices of Nerat[/url]." Barik shakes his head, troubled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>"She lives in freedom now, which is all that matters in spite of her... questionable choices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>"I don't have enough fingers or toes to count the possible reasons, so I try to not dwell on them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>"If [url=glossary:tunon]Tunon[/url] is to be believed, the armor is a reflection of [url=glossary:kyros]Kyros[/url]' will, and should never be removed. I question the wisdom behind that judgment, but I will not dispute it now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>"Though his army was dismantled by [url=glossary:kyros]Kyros[/url]' overwhelming numbers, Ashe's forces performed admirably. It was said that he and his troops claimed seventy-and-seven lives for each of their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"They were asleep on the watch! The [url=glossary:vendrien guard]Vendrien Guard[/url] should have been slaves of the Chorus, not free men and women allowed to plot and conspire!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>"And of course, your association with the Archon of Secrets is no balm to heal the many wounds of this war. I doubt you'll be of much help in bringing this conflict to an agreeable close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>"Suit up, Barik. We're leaving." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"If you would have me travel at your side, then I am not opposed to seeing more of this degenerate realm. Onward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>"We should talk about your connection with Verse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"We are... siblings. Half siblings. Regrettable and repugnant as that fact might seem, it is true. Though the products of different nations and cultures, we have the distinction of sharing a father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "This is not a worthy topic for our time together, Fatebinder. The Scarlet Fury and I have our differences and our similarities, but they are none of your concern." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>"Speak for yourself, you overstuffed mound of scrap metal. I've got nothing to hide from the Binder here. Would you rather I told the story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>"Very well. Since you force my hand, I will relent... though know that it goes against my very being to tell of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"I am disgusted  by the thought that my father lay down with some lowborn Southern farmhand, but my horror does not spare me from the truth of it. So I accept the fact and try to move on." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "The same goes for me. The only thing we have in common is our repulsion and disinterest in each other. And you, I guess." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"How did you two become aware of this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>"Do you even like each other?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>"How has this affected you, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>"During the conquest, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] made sport of shooting down messenger birds on their way to the [url=glossary:disfavored]Disfavored[/url] camp. Anything they could accomplish to hinder our efforts or embarrass us was fair game."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>"My father sent a missive intended for my eyes alone. By incredible chance, Verse intercepted it and recognized the name and handwriting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>"She found me in camp that evening, and we discussed our unlikely... situation. We have done everything in our power to keep the word quiet. Not many in the legion know that I share blood with a Southerner, much less a Chorus rat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"Not particularly. She is unstable at the best of times, and a hardened killer at the worst. I don't know what her family did to her, but she lacks any pretense of human decency."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"It takes one to know one. Don't act like we're so different, Barik. You're the most repressed and intolerant soldier I've ever met. You hide it under duty and pride, but it's still there." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"You should take it as a compliment to our father's skills. My mother is a tough woman to please. I rather think I took after him, don't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>"Don't worry, Barik. When my old gang boss caught wind of our discovery, I killed her and took the gang for myself. Our secret's safe with me. It was, anyway." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"Well, Verse has a nasty habit of jabbering in my ear and making this war intolerable. I plan on parting ways and returning to the North at first convenience. My father will answer for his infidelity." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>"When you go back home, send father my fondest greetings and thanks. If he hadn't gone to ground on my mother's drydock, I might not be here today." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>"My heritage was a point of pride and distinction before I met you, Verse. Not that you would care." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>"I've heard enough, though I'd like to return to this topic when both of you are present." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>"You've just got to know, don't you? I suppose there's no point in hiding it - Barik and I are siblings. We share a father, if little else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Do we have to? Look... I'm not opposed to a lively discussion of my past, but at the moment I'm not in the mood. Could we talk about anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>Trigger Conv Node 591</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"I try not to think too much about some Northern merchant dropping anchor in my mother's port, but it happened and the fortunate result stands proudly before you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>"There were a lot of lazy days during the conquest, and among other things I spent my off hours using messenger birds as target practice. You should have seen Ashe's anger when he heard that was going on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"I've tried to get along with that ironclad knot of repression, but it would seem he's having none of it. Good riddance, then. The war has tossed us together, but nothing says we have to keep that going." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"I've asked myself about that several times, but unfortunately I don't have what you'd call a definitive answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"One day, I snagged a bird that flew from the hands of a proud, Northern daddy. The missive was about the goings on at the family farm. I recognized the name and handwriting from a note in my mother's belongings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>"There weren't too many people named 'Barik' in the army, so tracking him down was no challenge. I cornered him in camp and we shared a few heated words. Some blackmail even."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"She tried to extort rings from me, and I was having none of it. Not even [url=glossary:graven ashe]Graven Ashe[/url] would think less of me for our father's indiscretion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"I like your confidence, but my ring belt is feeling a little light these days. Maybe you want to take me up on that offer, or I can start whispering in [url=glossary:disfavored]Disfavored[/url] ears? Think about it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"The most we do for each other is try not to get the other one killed, which is more than you can say for most [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"Have you noticed any significant impact, Verse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"The Northerners put a lot of meaning behind family and blood. Seems arbitrary to me, but I don't want to discredit it entirely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>"I told you about what happened to my Scarlet Fury sisters? The hesitation I experienced... sometimes I wonder if that wasn't because of my connection to Barik. He's stubborn, regimented... everything I'm not." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"There have been times when I acted strangely on the battlefield and could find no reason why, or gotten distracted and had thoughts I couldn't explain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>"I suppose there's no telling for sure, but if I had to guess - yeah. Sometimes I get messed up in my head, and learning I had a brother has helped me understand that better." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"If we must, though I cannot imagine what can be gained of traveling together. I grant that we are both proficient fighters, but most days we get along as well as the Archons of War and Secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Whatever you say. If it makes Barik uncomfortable, I'm game for anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>Trigger Conv Node 609</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>"Beyond that, I am happy to consider myself in every way unaffected. My superiors once accused me of having an impulsive streak, but I have worked to suppress it at every turn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>[To Barik and Verse] "Have either of you noticed that you fight particularly well together?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"The thought has crossed my mind from time to time. During the many battles of the conquest, we found ourselves standing back to back with enemies on all sides on more than one occasion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>"The big guy here is useless as an empty scabbard without his phalanx to keep him alive, but I move fast enough to compensate for it. And it's nice having a living wall of rusted iron I can use for cover." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"Do you think this is because of your shared heritage?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>"How do you think this is possible?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>"I want you two to train together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"I... damn it. I can think of a hundred reasons to refuse, but if this will serve the war effort, I can swallow my pride. Verse, if you even try to cut my head off, we're finished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"Absolutely not. Our fighting styles are incompatible, and any [url=glossary:disfavored]Disfavored[/url] lieutenant will tell you not to join at the hip soldiers who can't stomach each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"I make no promises. Tricky idea, Fatebinder. Old ironclad and I might not stand each other, but maybe a few sparring sessions and a battle or two will be good for us. Barik, shall we get started?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>"If you want to attach some arcane meaning to the whole thing, be my guest. I couldn't tell you for sure. I doubt that a capable tactician could explain why certain soldiers learn to rely on each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>"In the [url=glossary:disfavored]Disfavored[/url] ranks, the Oath Bound seem to know more about synchronizing their efforts, and the same could be argued for the Scarlet Furies. I don't know how they pair up their units, but it isn't by virtue of blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>"Enough. Let's be off." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>"I would suggest that our fighting styles complement each other, but they do not. I would suggest that we get along, but we do not. We don't even finish each other's-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>"Sentences... okay, that was strange. Did you hear that? The next time I catch a whiff of Barik's meaning, I'm keeping my mouth shut." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>"I'm inclined to agree. If you want to pair up fighters, there has to be some great passion or magnetism between them. We don't have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>"I could command you to train together." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>[Bluff] "If neither of you is up to the challenge, then I won't force the matter." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>"Why won't you give it a shot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>"We can discuss this again later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Sorry, Fatebinder... but no. It's a fair idea, but we would likely just kill each other for your troubles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>"Now now, let's not be too hasty here... I say we look at this as an opportunity in disguise. Barik, what of your longing for glory and renown? All across the Tiers, people will know us by our carnage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Agreed. It's not happening in this lifetime, but I like your passion." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>"Much as I hate the prospect, I am compelled to follow that order. Should we give it a try, Verse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>"I'd rather watch you devour your armor one shaved-off spoonful at a time. But since that isn't going to happen anytime soon, I suppose I'll make an effort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"I would rather be known for my fair execution of [url=glossary:graven ashe]Graven Ashe[/url]'s will, but I am not above engaging my... baser instincts. I will make the attempt if it means spilling the enemy's blood more efficiently."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>"Sounds like we're of one mind. Well, damn it, Fatebinder, but you got us to agree on something. Maybe there's hope for the fight yet. Barik, shall we begin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>"I think that 'because I don't want to' covers it pretty well. Training alongside this self-important braggart is likely to sap whatever patience I have left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>"I can see that you're out to serve the best interests of the war, but we are accustomed to handling ourselves as individuals rather than as a pair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>"Now see here! Verse's temperament and unpredictable ways are an annoyance, but no challenge is beyond my skill. Verse, we should take some time to face off in the sparring fields. It might even improve our disposition toward one another." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "A valiant attempt, but I'm not as easily swayed by your courtly tongue." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Neither am I. At least not in this context." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>Barik looks you up and down with detached appraisal. The fact that he does not look away is the strongest sign that you have his undivided attention. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>"You don't like me very much, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>"Your deeds have earned you a measure of respect in my eyes, but do not mistake my approval for admiration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>"I have found you to be an agent of great misdeeds, and it disgusts me that your official capacity keeps you at bay from the guilt or punishment deserving of a soldier if they committed similar acts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>"The question is irrelevant. Your support of [url=glossary:the voices of nerat]the Voices of Nerat[/url] makes you an enemy of [url=glossary:graven ashe]Graven Ashe[/url], and no friend of mine. I cling to our allegiance in hope that it will end the war and bring dignity to the [url=glossary:disfavored]Disfavored[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>He stares at you with a vacant expression, as if searching for any fabrication or mockery behind your words. At last he lets his shoulders sag with a heavy sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>"You have no right to such information. Only a true friend or an ally to the legion has any claim to my informal speech." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>"I proclaimed the [url=glossary:edict]Edict[/url]. Where were you when it struck?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>"I was in the field. Even though I knew that the [url=lore:vw_drastem_react]people of Stalwart would receive no warning,[/url] duty compelled me to march on the stronghold in the heart of the realm. There was important work left unfinished." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>"I had taken to battle, knowing full well that the [url=glossary:edict]Edict[/url] was approaching and the [url=lore:vw_drastem_react]people of Stalwart were prepared.[/url] In spite of every setback, my sense of duty compelled me to march on the stronghold in the heart of the realm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>"Are you truly interested in learning about our units, our courage, our history? Or is this some ploy to find our weaknesses? You will learn no tactical advantages that you can feed your ravenous master, I promise that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>"They have been the finest in all my life. Were you a friend to the legion, no doubt you would find them of interest. More's the pity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>"If you only want to know which of our leaders are the weakest or most corruptible, tell your Archon of Secrets that I will allow no such scrutiny from the likes of you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>"No doubt you could tell me more, since you have held their counsel with such enthusiasm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>"What do you think of our travel companions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>"I am more accustomed to traveling in the company of soldiers, so I am out of practice judging the worth of civilians and miscreants. If you had anyone particular in mind, I will give them some thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>"What do you think of Lantry?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>"What do you think of Verse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>"What do you think of Kills-in-Shadow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>"What do you think of Eb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>"What do you think of Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"I do not know how many years he has walked the face of Terratus, but he clearly knows more than he claims to. Since he claims to know a great deal indeed, there is no limit to what he could be holding back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>"My sister, you mean? She is a reckless, heartless, indecent and bloodthirsty excuse of a woman who has no business serving under the banner of [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>"I try not to. She is a force of chaos, an agent of [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Taking her into our confidence can only lead to ruin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>"But in spite of that... I am proud of her. She follows her passion and her dreams. She takes from life everything that she feels she deserves, and more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>"I am a soldier, through and through. I never had the strength of her convictions. I serve my Archon and the needs of this war, but there is little enough of me outside of this armor. I cannot say the same for Verse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>Verse glances toward your discussion and smooths back her hair, acting as if she hasn't listened to a word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>"And yet she is a capable fighter. For the time being, I am confident that you can trust her to serve your interests, and rely on her skills on the battlefield. She may even offer some useful perspective on the war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>"A fascinating specimen, to be sure. Though I am loath to tolerate Beastmen serving under the banner of [url=glossary:kyros]Kyros[/url], even I must admit that her strength and tenacity have inspired me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>"Before I get too far ahead of myself, I do not think that she would hesitate to hunt you for sport if the whim appealed to her. Be warned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>"She is as opinionated and talented as she is vulgar. Much as we can disagree on the reasons behind this war, I have never found a more impressive example of a Tiersman." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>"I admit to also finding her quite... striking. Whenever she makes a jab at me, or [url=glossary:kyros]Kyros[/url], or the legion... in spite of whatever I might say in my defense, I am pleased to have captured her interest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>"She is complicated and volatile even by an Archon's standards. [url=glossary:kyros]Kyros[/url] took a significant risk by inviting Sirin into the hierarchy. It would have been simpler to kill her than risk unleashing her power upon Terratus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>"Yet I am glad that Sirin is with us. She brings innocence and dignity to a conflict that too often lacks either quality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>"But I would not have her know my thoughts on the matter. She is a Southern savage, after all, and I a decorated soldier. No need to overcomplicate our feelings in a time of war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>You try to get Barik's attention but he cannot find the strength to lift his head and register your presence. His helmet is downcast, the iron around his eyes and mouth corroded into ragged slits that lack any of their former evident humanity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>"Are you still with me, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>"I had to kill [url=glossary:graven ashe]Graven Ashe[/url]. He didn't give me any choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>"Farewell, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>A tremor passes through his armor. Separate from awareness, it strikes you as the jerking reflexes of a dead nerve. You can't even tell if Barik is awake under his rusted shell, much less alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>You hear a choked sob under his helmet, but it goes silent just as quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>"I have questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>His head moves to the left and right, a pantomime of refusal that might be nothing more than a loss of focus and coordination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>"Stand at attention!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>His shoulders slump even deeper than before. Barik's knees lack the strength to support his heavy frame, and it seems to take all of his remaining willpower just to stay upright.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>Before you can step away, Verse touches your arm and looks at Barik with concern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>"What's wrong with him?" She looks to you with a plea in her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>In spite of his infirmity, you can tell that there is still strength left in Barik's limbs. He may even mumble a choice word at times, but they will be nothing more than the echoes of a lost man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>"His Archon is dead. I don't think he's handling it well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>"I don't know." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>"Any ideas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>She nods, her hand straying to the hilt of a blade at her side for comfort. Verse looks away, finding it difficult to look at Barik's depleted form.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>"Pull it together, big guy. I know you're strong enough to make it through this." She quickly draws her arm across her nose and shakes her head with sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>"Wherever he's gone, I hope he comes back." She smooths back her hair and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>"I've seen this in new recruits after they get broken from a night of Chorus conscription, but Barik is made of stronger stuff. He's just... not there anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>"You seemed to take it personally when Ashe killed Verse. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>Barik focuses on the ground between his feet. For a moment he seems totally unresponsive. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>"She was my sister. We learned of our... unlikely connection during the conquest, and spoke of it little. Verse wanted to keep it from her gangs, just as I had no wish to inform the legion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "I beg you not to bring that up again. I would not speak of it, and have no wish to recall it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>"But now... now I wish I could hear her voice again. She was a vulgar, disrespectful murderer... but she was my friend. There is something missing from me now, and I would never have guessed it was Verse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>[Demonstrate your authority.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>Barik does not show any sign of waking up from his numb stupor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>"ATTENTION!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>"The North still has need of its truest son, Barik." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>[Kick him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] Your words fail to rouse him from his present state.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>At first, Barik shows no sign of waking up from his numb stupor. Then a vibration builds in strength, trembling over his armor with enough force to shake away the worst of the rust, leaving patches of iron clean for the first time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>The motion is as slow and laborious as the turning of the stars in the sky, but Barik raises his head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>"Fatebinder? I don't know what came over me. How long have I been like this?" He brushes off debris from his shoulders and turns his wrists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>"I am, though I wonder if you'll have me back in my present state." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>"Are you with me at last, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>"You have Verse to thank for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>"I am not the man I once was. I don't know how I can ever move beyond the death of the Great General. By distancing myself from the legion and his protection, I suppose I'll have to learn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>"Please don't thank me. The last thing I need or want is a hug from the shambling junkheap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>"All the same, I appreciate it. Had I continued to drown in my sorrow, I might have rusted solid and never moved again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>The motion is as slow and laborious as the turning of the stars in the sky, but Barik raises his head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>[Give up for now.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>"Welcome back, asshole. You scared me for a second there." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>[Stab him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>You search among the many treacherous layers of his armor. Try as you might, you cannot find your way to his skin - as if he is iron through and through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] asked if you are unwell. What does he know that I don't?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>"The Archon can be very free with his words, especially in the company of those he holds in confidence. And his care for the well-being of his soldiers is to be commended. However..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>"I wish that he had said nothing of my condition. I would not give you the impression that I am unfit for duty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>"What condition is that, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>"Your condition... you mean your armor from the battle of Sentinel Stand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>"Let's change the topic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>"By all means, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>"The only obvious one. My armor. I am trapped in this shell with no form of escape."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Nothing worthy of your concern. Our time is precious enough as it is. Can we instead speak of relevant matters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>"We've discussed my armor before. I woke up in this iron mess after the [url=glossary:edict]Edict[/url] of Storms blasted Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>"A year into this sorry state, and my armor shows no sign of weakness. If anything, the plates have grown tighter. They need constant oiling if I'm to have any hope of sustaining a long march." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>"There are... other problems. I have not been able to inspect my body for wounds or infection. I know nothing of my physical condition, and until recently, I gave off a foul odor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>"Until recently?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>"Don't I know it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>"I've had enough of this strange discussion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>"Lean closer. Either my reek is gone or my nose has fallen off, and neither possibility gives me peace of mind." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>"Very amusing, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>"Fine. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>"I also feel less of the irritation or discomfort that I once did. I have sat up awake at night wondering what it could mean. The range of possibilities... frightens me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>"Do you think you're dead inside there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>[Lie] "I'm sure you're healthy and fit under that shell. This will pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>"I wouldn't concern yourself. You're just accustomed to the armor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>"I don't know how that could be possible. It would make sense that I have rotted in this iron shell, and my body has given up its last. Or perhaps I died in the last battle of Stalwart, and occupied this shape."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>"And what would that make me? A skeleton, a shadow? An empty suit of rusted iron? It seems almost foolish to speculate. I am a part of Ashe's legion, which is all that matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>"I am not the man I was when I entered Stalwart. I have always known that, but these worries of mine force me to consider ideas that are better left unexplored. Thank you for... for listening. If nothing else, you can help me prattle off to no end." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>"An optimistic outlook, to be sure. I don't know how my body could have adapted to this harsh climate so easily, but in your company many things seem possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>"You have a good ear for long-winded tales. Yes, this fortified prison of rusted iron occupies me to no end, but I am also concerned by what lurks underneath it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>"Perhaps you are right... and perhaps not. My instincts tell me that I could not have survived these conditions for long, and yet the evidence supports it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "You are kind to offer me consolation, Fatebinder... but no. Nothing has been right about my circumstances for some time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>"There was a time early in the war when I would have feared the [url=glossary:younger realms]Younger Realms[/url] working together. Imagine that?" He chuckles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>"I've served with the Stone Shields ever since. Proud to say I've stood front row, right corner in over a dozen battles. That has been my place ever since the Iron Marshal gave me the assignment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] accept only the finest warriors. We are all volunteers and soldiers by trade - not farmers and fishmongers pressed into service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>"Whole gangs will break from the larger force and disperse back into their homelands. The Chorus is inefficient beyond words, and yet more bodies keep coming in to replace those lost in the mess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>"You seem like a more than capable fighter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>"I trained with the spear and shield in my youth, but gave it up the day I earned [url=glossary:disfavored]Disfavored[/url] iron. I can still throw with some accuracy, but it's a challenge these days." He knocks twice on his helmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>"Why - were you interested in a sparring session?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>"Show me how a Northerner would impale a wild boar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>"I heard rumor that Ashe has an unbeatable swordfighting technique." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>"Perhaps later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>"You flatter the legion's reputation, but the Archon does make sure we are competent swordsmen. Observe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>"Would you like to discuss something else, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>"It would be my pleasure. This is a traditional hunting technique, but I have used it a time or two in the arena." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Nothing is unbeatable. However, I am not of a mind to share Ashe's trainings to an outsider. I mean no offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Take no offense from this, but I would prefer to keep my fighting techniques private for the time being. They are as personal to me as family secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>Barik demonstrates a clever move with a spear where he feints, baits the enemy by dropping the defense, and follows through by extending the weapon in a graceful plunge. He executes the maneuver several times, and you are taken aback by his grace. When you are finished, Barik looks out onto the northern horizon in thoughtful silence, saying no more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>Barik takes up a sword and offers several practice jabs, testing its weight and balance. Before you know what to expect, the gleaming iron whips through the air fast enough for a sharp breeze to disturb the air. Barik does this several more times, never showing any sign of exhaustion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>"Feh, iron-clads." The massive Beastwoman hacks and spits at the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>"Is oldest of iron-clads. Is fat alpha with gray fur. Yep? Laves pain away to protect pack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>Barik glares at Kills-in-Shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>"Can carry heavier weight than even iron-clads. But only stone whelps, weakest tribe, would enslave selves to humans to survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>"Is true. Packmate has survived many more killing-blows than other iron-clads Beastwoman has slaughtered. Makes Beastwoman's blood beat quick-quick. Makes for best hunt. Yep?"
+
+"Packmate should show skills to Alpha and Kills-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>Through the dark slit of his helmet, you get the impression of Barik rolling his eyes. He clears his throat and continues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>"Do speak, iron-clad. Tell to Beastwoman each and every thought hidden behind iron shadow. Say words that will surely incite Beastwoman to violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>"Calm down, Kills."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>"Go on, Barik. Tell Kills-in-Shadow what you think of her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>She snarls and snaps at you, irritated at being reprimanded, but ultimately she obeys - settling sulkily on her haunches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>"Are just called 'prey' to Kills-in-Shadow."
+
+She snorts and splits her maws in a wide, fang-baring grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>"Packmate is sleeping? Maybe is good time to pry from iron shell, to carve claws into skin and lick welling blood-trails."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText>"Come. Tell Beastwoman all about lumbering prey that bleeds rivers but still defies death twice and three times from Beastwoman's killing-claws."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>"Lucky... but not always proud. When this war is over, I will have some very direct words with my father about his habits abroad." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>"This Spire allows for such a long and uninterrupted view..." Barik glances over the edge with hesitation, and then shivers. "I find restraint and limitations more to my liking, though it is nice to feel a breeze running through these plates of solid rust." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>Trigger Conv Node 796</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>"You two are worse than Ashe and the Voices. Stop this at once." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>Drawing himself up, Barik glares at you with distaste. "Speaking ill of the Great General is not wise while I am in earshot, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>"Hey, the boss has a point. Trading jabs is fun, but it's not going to get us anywhere." Verse chuckles and shakes her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>"May I continue my story, or do you plan on interrupting again?" Barik waits until Verse makes a rude, dismissive wave before continuing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>"Enough of this. You're making us look foolish before the Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>"Let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>805</ID>
+      <DefaultText>"As you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>806</ID>
+      <DefaultText>"If we must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>"Barik, let's be off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>809</ID>
+      <DefaultText>He follows you in a halfhearted fashion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>"I can scarcely believe it... you proclaimed an [url=glossary:edict]Edict[/url]. You wielded the power of the Overlord - for a moment, perhaps - but it was enough to turn the tide of battle in our favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText>"That simply doesn't happen. The Overlord's magic is as unknowable as anything on Terratus, as mysterious and... well, I was about to say as unapproachable as the Spires, but you have cleanly dispelled that notion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>812</ID>
+      <DefaultText>"This can only mean trouble for us. [url=glossary:kyros]Kyros[/url] doesn't tolerate competition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText>"What do you suggest I do next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>814</ID>
+      <DefaultText>"I have questions for you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText>[Leave] "Enough for now. Let's be off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>816</ID>
+      <DefaultText>"Of course, Fatebinder." Barik bows stiffly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>817</ID>
+      <DefaultText>"No indeed. I wouldn't want to stand in your place when the day of reckoning comes, but standing next to you might prove just as dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>818</ID>
+      <DefaultText>"Hold fast to your loyalties in the Overlord's hierarchy. There's always the chance that [url=glossary:kyros]Kyros[/url] will leave you alone if your fealty is true, but I offer no guarantees. That is what I would do, anyway. You must follow your own path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>819</ID>
+      <DefaultText>"It may be too late to mend your ties with [url=glossary:kyros]Kyros[/url]' hierarchy. If you continue to prove your worth, then perhaps you can be invited back into the fold. I suppose that [url=glossary:kyros]Kyros[/url] needs some time for introspection - as do we all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>820</ID>
+      <DefaultText>"Verse is gone. I doubt there was enough of her left in the Voices' swirling green madness to feel the moment of their shared death. For her sake, I hope that she felt nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>"Verse takes a strange responsibility upon herself in occupying [url=glossary:the voices of nerat]the Voices of Nerat[/url]. I only hope that she outlasts him for as long as this... condition endures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>822</ID>
+      <DefaultText>"She accepted her fate with dignity and courage. In spite of myself, I... couldn't be more proud of my sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>"I've heard enough, though I'd like to return to this topic when both of you are present." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

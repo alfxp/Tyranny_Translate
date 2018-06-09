@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\03_burninglibrary\03_qst_renata_scrivenerseye</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Olho por olho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Get to the lower levels of the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Recupere o Olho dos Escritores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retorne o Olho dos Escritores para Renata.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Renata has influence over the surviving Sages in the [url=glossary:burning library]Burning Library[/url] but seeks to cement her leadership of the guild.Ela precisa do artefato histórico de liderança, o Olho dos Escrivães, para reunir os Sábios atrás dela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The Scriveners Eye was last seen with First [url=glossary:sage]Sage[/url] Arwel in the lower levels of the [url=glossary:vellum citadel]Vellum Citadel[/url] prior to the catastrophe.Get to the lower levels of [url=glossary:burning library]Burning Library[/url] to begin the search.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The Scriveners Eye should be somewhere in the lower levels of the [url=glossary:burning library]Burning Library[/url] likely with the remains of First [url=glossary:sage]Sage[/url] Arwel.Search for a fallen [url=glossary:sage]Sage[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Entregue o Olho dos Escritores para Renata para que ela possa cimentar sua liderança sobre os Sábios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>First [url=glossary:sage]Sage[/url] Arwel left a note indicating that he meant to reach the Silent Archive.Procure por ele lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você deu a Renata o Olho de Scriveners garantindo sua liderança dos Sábios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você matou Renata fazendo o retorno do Scriveners Eye um ponto discutível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Although you retrieved the Scriveners Eye you were able to switch out the Silent Archive for a different artifact and didnt need Renatas help ending the [url=glossary:edict]Edict[/url] of Fire after all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Falha na missão</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

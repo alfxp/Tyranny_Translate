@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_melitta</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A slender woman picks through produce in a carried sack. Her hands appear focused on finding a particular piece of fruit, but her eyes are intent on the other shoppers in the marketplace below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Good day to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Greetings." The merchant bows as you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Did he now? I suppose he needs a reminder in our code of confidentiality. If I may ask, how and where did you run into Wagstaff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Leave] "That's all I need for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"She mentioned a place called 'Phlogiston' - think she means the village that used to be called Babbling Springs before the war - out in the Contested Lands. And that's as much as I know about where to find her. If you can't find her there, maybe she's taken her chances at the Library itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"It was a chance meeting up North - he's healthy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"He's helping to run a settlement of squatters in the Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You gripe about confidentiality and then ask where he is? Come on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Cute... and I bet his Oldwalls mansion is next door to [url=glossary:kyros]Kyros[/url]' summer home? That's fine, you don't need to tell me - it's perhaps best you don't. He knows where to find me if he ever needs to do business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"He indirectly hinted he was considering turning his back to the Tidecaster flotilla and I guess he really meant it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>A man passes by her, accidentally dropping a pouch as he goes. She bends down to retrieve it, and hands it back to him. "Careful, you almost lost this." He takes the pouch with a blushing smile and promptly walks away, clutching the pouch close to his side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The woman spots your approach as the man walks away. "Greetings, how may I be of service?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Clever. I almost didn't see you palm those rings into that pouch. Almost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Step close and loom menacingly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You're Melitta, right? I'm looking for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I didn't realize I had an audience - must be a sign I'm slowing down after all these years. Don't worry, nothing underhanded, just trying to repay a debt on the quiet. Certainly someone such as yourself understands the need for discretion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"No need to search me, Fatebinder, I've got nothing worth-" as she flourishes her hand to gesticulate her point, a slip of parchment slides out of sleeve. She grabs the sheet out of the air with a sudden burst of reflexes, and looks at you with a red-handed smile. "I uh... forgot I had that there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Uh, yes, that's me but - while I'm in town 'Xantha' will suffice. In my line of work, discretion is lesson number one. Although it seems someone else failed in their discretion, else you wouldn't be here..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Nice trick. I see pick-pockets do things like that all the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I'm not interested in causing any troubles, but I do need you to answer some questions of mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Oh just because I CAN deftly snatch a ring purse doesn't mean I..." a nervous smile spreads across her face. "I should stop this line of reasoning while I'm ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Oh, this?" Her hands briefly vanish within the folds of her skirt, only to reappear with the pouch in question. "Scraps of parchment. I meant to deliver this to the Court after acquiring it from a traveling [url=glossary:sage]Sage[/url]. It may be magical in nature, or contain knowledge forbidden by [url=glossary:kyros]Kyros[/url]. Please, take it! I'm only happy to do my part."
+	
+She steps back and observes you, continuing to maintain an air of pleasant attentiveness. "Is there anything else I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Me? No, I'm Xantha. There was a Melitta here but she died back in 402 so... either you're running very late or you're in the wrong place. Sorry, wish I could help." She cranes her neck and looks around the market, scanning the faces of the shoppers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"No need to pretend. I'm here on behalf of Wagstaff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wagstaff? I'm not sure who or what that is." She takes a step back, growing visibly nervous. "Please, I think you have the wrong person. I don't want any trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Wagstaff sent me to find you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I'm looking for one of your past associates, Phoibe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Phoibe? Oh she comes through town every week to pick up thread and grain. Nice enough lass, gonna be a real looker when she comes of age. Is she in some of trouble? She's a bit young to be running afoul of the law."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Your stare is met with a patient smile. "Good day for a stroll in the market, wouldn't you agree?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Phoibe sends me the occasional missive. Last I heard from her, she's doubled back toward the [url=glossary:burning library]Burning Library[/url] - she's got herself the dangerous notion that she can recover scripts from her old home - though I think she's avoiding the actual Library, seeing as it's the epicenter of the devastation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Tell me what I need to know and I won't have to take a thorough inspection of your property."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Just what are you here to peddle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Melitta, I presume? You must be the... peddler my friend mentioned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Leave] "I must be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I used to specialize in written things but the Schools are gone, and so are most of my clients. These days, I mostly deal in wineskins, shoes, and lamp oil. Nothing glamorous, but what else do people need during times such as these?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She looks at you with a nervous smile. "Is there something I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"So... if I were to read that scroll, would I see something illegal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>She unfurls the scroll she took pains to hide from you, revealing a turn-of-the-century map of the Tiers. "Not according to the last Fatebinder I asked - It's not [url=glossary:sage]Sage[/url] lore, if that's what you mean. Just an old turn-of-the-century map of the Tiers - more a curiosity than anything else. A [url=glossary:disfavored]Disfavored[/url] chap paid handsomely for one a year ago so I've been trying to collect more of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Discretion is my livelihood! I can't-" A look of protest appears across her face but she quickly thinks better of it. "But I certainly can't afford to be in a marketplace being searched by a Fatebinder. So... I'll speak candidly if you keep this a casual conversation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Draw your weapon.] "Enough! Lie again and I'll have your head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Steady your hand, no need for that! Apologies, but I know who you are, and discretion is my business." Fear grips the woman and she cowers back, her whole body trembling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I need to find Phoibe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Did you need something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Search her possessions.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Leave] "This isn't worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Kill her and search her corpse for information.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The woman raises her hands to defend herself but provides little resistance, and is easily dispatched.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Rummaging through her belongings, you find numerous bits of thread, small tools, and parchment scraps seemingly pulled from random tomes.
+
+One scrap of parchment comes to your attention - it's the fragment of a missive from Phoibe saying that she is headed to the [url=glossary:burning library]Burning Library[/url] in search of things to recover, and looks forward to meeting up with Melitta to talk prices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Well, the fact that I know her - that's free. Current information costs extra, and information on friends costs extra... so this isn't the kind of question I'm comfortable answering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Offer 10000 Rings.] "I get it. Friendship's worth iron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Offer 800 Rings.] "I've got a belt of bronze here that'll make you more comfortable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"How about I don't order the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] to break legs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I can be trusted - ask around town if you don't believe me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Intimidate] "I assure you, you'll be less comfortable not answering the question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I swear by [url=glossary:kyros]Kyros[/url], I will do no harm to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>She gives you a knowing smile as she takes the rings. "I see you understand me perfectly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>She stares at the rings in her hands for a long moment, seemingly debating whether to push her luck and ask for more. Eventually, the look on her face tells you she's settled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"No need for that sort of talk - I've no want for trouble, let's just keep things civil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I can't buy grain with noble sentiments but... if a Fatebinder is asking, I can find it in me to be forthcoming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Can't fault me for trying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>She returns your stare with a practiced tranquility.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Lie] "He's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Well shit." She nods very slowly, taking a deep breath. "I'll just... not ask any follow up questions about how he died or your involvement or... anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I need to find Phoibe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Find what you wanted?" Face flush with rage, she turns her back to you, pretending to be occupied with the market.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Take care, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

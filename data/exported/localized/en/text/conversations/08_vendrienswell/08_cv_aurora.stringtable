@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_aurora</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"The oathbreaker slays a [url=glossary:disfavored]Disfavored[/url] commander and you show a lenient hand? A sad excuse for justice..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Need something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"How long have you been with the [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What's the situation here in [url=glossary:vendrien's well]Vendrien's Well[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What can you tell me of the [url=glossary:vendrien guard]Vendrien Guard[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Seven years..." she pauses to count on her fingers, "two seasons, mayhap a handful of days. I trained at Fort Resolution a bit before the conquest. Compared to the commanders you find around camp or stationed at Iron Hearth, that makes me one of the young bloods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The oathbreakers hold the citadel at the heart of the valley - the one built around the base of the Spire." Aurora points east toward the tower in the distance. "The Matani river has been our largest headache during the siege. It's unsafe for armored troops to ford, save for at key locations, and the enemy knows this as well as we do." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Fatebinder," Aurora salutes as you approach, "we are honored by your presence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Carry on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Aurora is correct. The slow advance will win out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"If either of you was correct, the campaign would be over, and I wouldn't be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Verse has a point. There's been a lack of cooperation here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Without question. Patience and determination will deliver these Tiersmen to us in chains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"A fair point. The legion is eager to gain some perspective on our quarrels... consequently, I retract my previous remark." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"They are the last gasp of the [url=glossary:younger realms]Younger Realms[/url]. Among them are warriors that escaped the [url=glossary:bastard city]Bastard City[/url] siege, a few refugees from other victories, and a bunch of Vendrien locals with delusions of independence." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She taps her gauntlet to her breastplate in salute. "Have a pleasant siege, Fatebinder." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Trigger Conv Node 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I know we'd be a lot farther along if the [url=glossary:scarlet chorus]Scarlet Chorus[/url] used its alleged 'strength in numbers' to ford the river themselves and overwhelm the enemy." Aurora looks at Verse with a disapproving air. "As it is, we must take the valley slowly and advance the [url=glossary:disfavored]Disfavored[/url] bulwark, since that's where the real work gets done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Because all it takes is numbers to cross a river under a hail of arrows? If the [url=glossary:disfavored]Disfavored[/url] were quicker to act, maybe the [url=glossary:vendrien guard]Vendrien Guard[/url] wouldn't be so trained up to face us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"On both sides, I assure you. And we get nowhere by bickering over the failings of past battles." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The Stone Shield warrior stiffens her posture as you approach, offering a curt nod in acknowledgment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Really? Because I don't. Next time you say something, try to mean it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"This has been a long and grueling campaign, but the end is in sight. We'll soon have the oathbreakers back under control. Then we can rest, retrain, and even cycle out troops so we can see our families again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"These southern wastrels cannot match our iron, nor the Chorus' numbers. What on Terratus gave them the nerve to rise up and ask for a second helping of battle is anyone's guess." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ah, greetings, Barik. Did that last wave of oathbreakers manage to chip at your armor at all?" She looks him up and down with an amused smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'm afraid not, Commander. These iron plates are as solid as they day I received them." He stands tall and brushes some flakes of rust from his gauntlets. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Fatebinder. Glad to see a new face at this siege. I fear we're all getting a little sick of each other." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Seen anything interesting during the war?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I once saw a [url=glossary:forge-bound]Forge-Bound[/url] artisan set himself on fire... occupational hazard. That was an unpleasant day. The first of many, to be honest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I wasn't there to watch you proclaim the [url=glossary:edict]Edict[/url] of Storms, but I saw the devastation hit Stalwart and take up several cohorts of [url=glossary:disfavored]Disfavored[/url] with it..." She squeezes her eyes shut and shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I heard about the [url=glossary:edict]Edict[/url] you proclaimed at the [url=glossary:burning library]Burning Library[/url], but thankfully I wasn't there. One fire was enough for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I would have liked to see the [url=glossary:edict]Edict[/url] of Stone hit [url=glossary:cairn]Cairn[/url]'s rebellious hide, but I'm more grateful that I didn't have to march against him. I'm sure you did whatever you could to stop that madman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I take it I wasn't the only one touched by the [url=glossary:edict]Edict[/url] of Storms, was I?" She looks at Barik with evident sympathy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The big Stone Shield remains perfectly silent, though his head dips a little in what you can only assume is remembrance.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>155</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Welcome to Terratus!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>If this is your first visit to the world of Tyranny, watch for these windows to help you become familiar with the game. You can disable tutorial messages at any time from the Game Options menu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Characters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Most people you encounter in the world are neutral or friendly. You can interact with them by clicking on their selection circle. Many characters will simply greet you and go on their way, but others will have larger conversations to explore. The soldier Aurora has an important conversation for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Conversations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Conversations involve you, another character, and sometimes additional parties like bystanders or companions who may interject. The choices you make change how the story develops and will build a reputation for your character over time. People in the world will learn of your reputations - good and bad - and respond accordingly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>To begin creating a spell, select the Core Sigil for the type of magic followed by the Expression Sigil to determine what form the spell takes. For example, if you wanted to create a Fireball Spell, you would select the Sigil of Flame as the Core, followed by the Sigil of Directed Force to determine its shape.
+
+Spells have default names based on the selected Core and Expression. You can rename your spells using the spell interface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Your character's attributes, skills, history, and gender - as well as decisions you made in the Conquest - may all open up options for you in dialogue. These options are not necessarily superior to the other responses, but give you a wider variety of choices to select from. The manner in which someone responds to your choices depends on their individual personality and attitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[url=glossary:reputation]Reputation[/url] in Conversations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Each character who speaks to you will display a banner beneath their portrait. These banners indicate which faction the character is allied with. The tooltip on these banners will provide details about how that faction feels about you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Important Characters and Locations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You will often see the names of important characters and locations displayed in a gold text color. The tooltips on these glossary entries provide you with important information about the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[url=glossary:lore]Lore[/url] And Reactivity Tooltips</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>In many conversations you will see words or phrases displayed in a green text color. The tooltips on these provide you with information that your character knows about the world, based on previous choices you've made. These links can help explain why another character is being friendly or hostile to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Movement and Controls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>To move your character, click anywhere on the screen where your cursor is a circle of four wedges. If you see a red circle with a line through it, you cannot walk on that part of the map. As you add companions to your party, all selected party members will move to their corresponding position in the formation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Tyranny uses a pauseable real-time combat system. Because you will often manage more than one character at a time, it's a good idea to pause the game, issue orders, and resume real-time to see the orders play out. The Options menu also contains many choices for automatic pausing when certain conditions are met (e.g., the start of combat). Press [keymap=PAUSE] to pause and unpause the game.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Your character can always perform basic attacks using their equipped weapon, or their fists if fighting unarmed. Characters also have special abilities and spells they can use in combat. When a character is selected, their ability bar displays their hotkeyed abilities. As new abilities and spells are gained, they are automatically added to the ability bar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>All characters in the game, friend and foe, have five primary defenses against attacks: [url=glossary:parry]Parry[/url], [url=glossary:dodge]Dodge[/url], Endurance, Will, and Magic. These defenses are based on the character's attributes, equipped items, and other effects. A character's accuracy is based on their skill with the type of weapon they are wielding. [url=glossary:accuracy]Accuracy[/url] is compared to the appropriate defenses when an attack is made to determine how likely it is that the attack will hit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>All of your character's abilities and spells can be accessed by selecting the category icon at the bottom of the selected frame. Abilities are grouped into Talents, Spells, Combo Abilities, Artifact Abilities, [url=glossary:reputation]Reputation[/url] Abilities, and Stances. Category icons for [url=glossary:weapon sets]Weapon Sets[/url] and Quick Items follow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>There are four possible results from any attack: Hit, Critical Hit, Graze, and Miss. A critical hit increases your damage, while a graze reduces it. With each attack, you gain experience in the weapon skill(s) used to make the attack. Even a miss will grant some experience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[url=glossary:armor]Armor[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>All attacks that do damage have to overcome the target's [url=glossary:armor]Armor[/url]. An enemy's armor reduces the incoming damage by the listed amount, down to a minimum of 1 point. Some armor is stronger at defending against some types of damage than others. Most enemies are strong against one or two damage types and weak against a similar number.
+
+The damage types are: Slash, Pierce, Crush, Burn, Frost, Shock, Corrode, and Arcane.
+
+Some abilities do Raw damage, which ignores armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Once you have created a spell, use the Assign button to add that spell to one of your active party members. You can assign a spell to more than one character.
+
+If you want to modify the spell later after you've discovered more sigils, select the spell from the party member you wish to modify. The interface will populate with that spell's information, allowing you to modify it and save your changes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Sometimes, a weapon or spell simply isn't well-suited to penetrating an enemy's armor. When the attack hits, the armor will wipe out all but 1 point of the incoming damage. You'll hear your characters complain about it when it happens. Take heed, note the damage type that's being blocked, and switch to a weapon or spell that does a different damage type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Skill Increased</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>One of your skills has gone up a rank! As you use your skills in the game, they accumulate experience. When they gain enough experience they will increase their skill rank. As skill ranks increase, your characters will gain experience towards their next level.
+
+Press [keymap=CHARACTER_SHEET] to open the Character Sheet and view your current skill experience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Mini-map</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>As you make your way through the Tiers, use the Mini-map in the lower right corner of your screen to see what parts of the map you've already been to and what's left to explore. Hold down the [keymap=MAXIMIZE_LOG] key to maximize the Mini-map, or press the [keymap=LOG_TAB_NEXT] key to toggle between the Mini-map and combat log.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Each Sigil requires a certain amount of [url=glossary:lore]Lore[/url] skill to learn and control. Characters must have a [url=glossary:lore]Lore[/url] skill at least equal to the spell's total difficulty in order to cast the spell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The mini-map displays useful information like the position of enemies you've discovered, lootable chests, and key characters in the scene. Use the buttons on the right side of the mini-map to toggle display of these indicators.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Companions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The companion Verse has joined your party! Verse is a capable warrior, skilled in both melee and ranged combat. As you acquire companions, you will need to balance their strengths against the strengths of your character to be successful in combat. While it is possible to adventure alone, you will find the game more rewarding with a well-balanced party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You can view and manage your character's inventory, attributes, and talents using the buttons on the navigation bar at the top of the screen, or by pressing the hotkey associated with the various interfaces: [keymap=INVENTORY] for Inventory, [keymap=CHARACTER_SHEET] for your Character Sheet, [keymap=TALENT] for the Talent Sheet, and [keymap=JOURNAL] for the Quest Journal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>There are now two characters in your party and both are selected. Any commands you issue now will affect both party members. To select a single party member, click on their selection circle, their portrait, or press [keymap=PARTY_SELECT_SLOT1] to select the player character, or [keymap=PARTY_SELECT_SLOT2] to select Verse. To select multiple party members, click and hold anywhere on the screen and drag the marquee over the circles of the party members you'd like to include.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Companion Combos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>When you have companions in your party you are able to execute unique and powerful abilities called companion combos. These abilities allow two characters to act in concert to create a powerful effect. Try using the Blood Soaks Stone combo ability against Tarkis Demos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[url=glossary:engagement]Engagement[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>One of your characters has been Engaged in melee. When characters are Engaged, they immediately stop moving. If they move away from the enemy engaging them, they will provoke a powerful Disengagement Attack. Your characters will also automatically Engage enemies when they initiate attacks against them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Press [keymap=IN_GAME_MENU] at any time to save the game, load a saved game, or to exit Tyranny. You can also use [keymap=QUICKSAVE] to create a quicksave of the game, and [keymap=QUICKLOAD] to load your last quicksave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[url=glossary:engagement]Engagement[/url] is indicated by arrows drawn between the selection circles of enemies. To see who a character is engaging - or is engaged by - mouse over their selection circle to display the engagement arrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Critical Hit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You scored a [url=glossary:crit]Crit[/url]! A [url=glossary:crit]Crit[/url] is a better result than a Hit and they are more likely to occur when the attack's [url=glossary:accuracy]Accuracy[/url] is higher than the target's defense. Attacks that deal damage will do more damage on a [url=glossary:crit]Crit[/url]. Spells and abilities that heal or improve your allies will be better on a [url=glossary:crit]Crit[/url]. Attacks that inflict status effects or Afflictions will have increased duration on a [url=glossary:crit]Crit[/url]. Grazes are worse than Hits and suffer decreased damage and effect duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Wounded</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>When a party member takes damage, they will start to lose [url=glossary:health]Health[/url]. The health bar next to their portrait will start to decrease. When a party member's health drops low enough, they will gain a Wound and the health bar will turn red. Wounded characters have their maximum health reduced and receive a penalty to all skills. [url=glossary:wounds]Wounds[/url] are removed when the party rests, or when a character levels up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>High Defense</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You're currently attacking a foe with at least one defense ([url=glossary:parry]Parry[/url], [url=glossary:dodge]Dodge[/url], Endurance, Will, or Magic) that is much higher than the accuracy of the character attacking it. When defense is significantly above accuracy, it can be extremely difficult to score a Hit and impossible to score a [url=glossary:crit]Crit[/url]. Try to raise the attacker's accuracy or use a spell or ability that targets a different defense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Knocked Out</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Ouch! When a party member is reduced to 0 [url=glossary:health]Health[/url], they are Knocked Out. This means they are out of the fight, but as long as your side is victorious, they will regenerate their [url=glossary:health]Health[/url] when combat ends. Being knocked out applies a Wound to the character, reducing their maximum health for future combats until they rest or level up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Character [url=glossary:recovery]Recovery[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>All characters - friend and foe - must recover after every action they take in combat. This recovery timer is displayed above each character in combat. The length of recovery time varies based on the character, the weapon they are wielding, the armor they have equipped, and the attack, ability, or spell they just used.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Abilities</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>All abilities and spells in Tyranny have a cooldown timer that determines how often they can be used in combat. Some abilities have short cooldowns and can be used multiple times per combat. Others recover more slowly. The [url=glossary:quickness]Quickness[/url] attribute reduces the cooldown time of spells and abilities. Ability Cooldowns reduce while the party travels through an area and when resting. Traveling between areas on the World Map does not affect cooldown times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[url=glossary:scouting]Scouting[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The Tiers are a dangerous place full of lurking enemies and carefully-concealed secrets. Enable [url=glossary:scouting]Scouting[/url] Mode by pressing [keymap=STEALTH_TOGGLE] to move stealthily and search for hidden objects like traps and hidden containers. A character's ability to find hidden objects is based on their [url=glossary:subterfuge]Subterfuge[/url] skill. A higher [url=glossary:subterfuge]Subterfuge[/url] allows them to find objects at a greater distance, as well as those that are more cleverly concealed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Stealth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[url=glossary:scouting]Scouting[/url] mode is used both for stealth and for finding hidden objects like traps and secret containers. 
+
+While scouting, your characters' selection circles will start to fill with yellow when a hostile character is starting to detect them. Once the circle fills yellow, the character is suspicious and will move to investigate while the circle fills red. If the circle becomes fully red, your characters will be discovered. 
+
+Several talents will grant your character bonuses when attacking from stealth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Magic Sigils</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You've discovered a new sigil! Magic in the world of Tyranny comes from learning how to perfectly scribe sigils and empower them with energy. Open the Spell interface by pressing [keymap=SPELL_CREATION] to create a new spell with the sigil you just learned!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Spell Creation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Spells are created using two or more Sigils. The core sigil determines the type of magic, such as Fire, Frost, or Illusion. The expression sigil determines how that core shapes itself into the world - such as a ball of fire, or frost enchanting a weapon. There are several categories of sigils that can accent a spell, granting it greater range, accuracy, or providing bonus secondary effects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Level Up!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Your character has earned enough experience to advance a level! With each level your maximum health increases and your character is fully healed. You also increase one Attribute of your character, and purchase a new Talent. Click on the level number on your character's portrait to spend your points, or press [keymap=CHARACTER_SHEET].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Attribute Points</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>With each level you can increase one of your character's attributes: [url=glossary:might]Might[/url], [url=glossary:finesse]Finesse[/url], [url=glossary:quickness]Quickness[/url], [url=glossary:wits]Wits[/url], [url=glossary:vitality]Vitality[/url], or [url=glossary:resolve]Resolve[/url]. Each of these Attributes provides benefits to your character, as well as increases one or more skills.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Talent Points</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>There are six categories of talents available to your character: Leadership, Defense, Power, Agility, Ranged, and Magic. With each level you gain one point to purchase a talent from any of these categories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Interactive Objects</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Hold down the [keymap=HIGHLIGHT_HOLD] key to highlight interactive objects in the environment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Field Interactions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Some objects in the world represent problems or obstacles that have multiple solutions. Selecting these objects will display the Field Interaction window. Many of these options will require a member of your party to have a minimum number of ranks in [url=glossary:athletics]Athletics[/url], [url=glossary:subterfuge]Subterfuge[/url], or [url=glossary:lore]Lore[/url] before you are able to choose that option.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[url=glossary:reputation]Reputation[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You have increased your reputation with a faction in the game! Each faction views your character in two ways: Respect and Wrath. As you gain reputation along each axis, you will reach reputation thresholds called tiers. Attaining a reputation tier can grant unique abilities to your character. Open the [url=glossary:reputation]Reputation[/url] UI by pressing [keymap=REPUTATION] to see what abilities you can gain with factions you've discovered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[url=glossary:reputation]Reputation[/url] Ability</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You have gained enough reputation to unlock a new ability! Open the [url=glossary:reputation]Reputation[/url] UI by pressing [keymap=REPUTATION] to see the new ability available to your character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Sirin's Songs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>When combat starts, Sirin will begin singing one of her songs. Each of her songs is a series of stanzas that produce different effects. As one stanza ends, its effects will linger, overlapping with the effects of the next stanza. You can change Sirin's current song by selecting her and choosing a new song from her song interface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Quest Journal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>As you receive quests, your Journal will update with relevant information. If you ever get stuck, open it up to review your notes. You can open the journal by pressing [keymap=JOURNAL].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Dismissed Companions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Once a character has been dismissed from the party, they will return to either their war camp, or the Spire if you've unlocked it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Disengagement Attack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>One of your party members has been hit with a disengagement attack. A disengagement attack occurs when one character is engaging another character in combat, and the person they are engaging tries to move away. Be careful of how your party members move on the battlefield to avoid receiving disengagement attacks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[url=glossary:weapon sets]Weapon Sets[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>You can switch to new weapon sets by selecting the weapon icon from an individual character's action bar. You can also hotkey weapon sets to make switching between weapons easier for the selected character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Stealth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>When the selected character is engaged, your cursor will change to a red circle of four wedges. This indicates that moving that character will provoke a disengagement attack from the enemy engaging them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Hidden Objects</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>You have discovered a hidden object! Many areas of Terratus have hidden traps or chests. When discovered, these objects will highlight for all of your party to see. Enable scouting mode by pressing [keymap=STEALTH_TOGGLE] to make finding these hidden objects easier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Spire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You have acquired your first Spire! This Spire will be your home base as you adventure through the lands of [url=glossary:kyros]Kyros[/url]' Tiers. Your Spire gives you a free location to rest and recover from your travels. As you acquire more Spires, you will discover additional functionality.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Power</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Ending [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] on [url=glossary:vendrien's well]Vendrien's Well[/url] filled you with a great deal of power!  This will undoubtedly prove useful as you travel through the Tiers. You should investigate the origins of this power and find ways to acquire more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Companion Combos (Improved)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The power you gained by ending [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] on [url=glossary:vendrien's well]Vendrien's Well[/url] can be channeled into your combo abilities with your companions. All of your combos have grown more powerful as a result. Perhaps you will discover additional ways to make use of this power as you adventure through the Tiers!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Spire Unlocked</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You have acquired a second Spire! All Spires are linked, allowing you to travel instantly between them. This will reduce your travel time through the Tiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Recruits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>New recruits are available to work for you at your Spire! Each recruit will provide a benefit when they are at your Spire, such as training skills and selling or crafting unique items.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Resources</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>There are five resources you can find in [url=glossary:kyros]Kyros[/url]' Tiers that can be used to power upgrades to your Spire. They are: Scrolls, Iron Ingots, Bronze Ingots, Alchemy Supplies, and Hide. Each upgrade uses different resources.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Library Upgrade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You have constructed a Library on one of your Spires! The Library is a source of knowledge both obscure and arcane. Its presence will attract Sages from the School of Ink and Quill. With enough scrolls, these recruits can discover powerful secrets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Forge Upgrade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>You have constructed a Forge on one of your Spires! The Forge is a source of powerful weapons and armor. Mages from the [url=glossary:forge-bound]Forge-Bound[/url] will be called to your Forge, where they can construct powerful items - including rare Artifacts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Training Grounds Upgrade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>You have constructed the Training Grounds on one of your Spires! The greatest skill trainers in the Tiers will be attracted to your Spire, where they can enhance the skills of your party members beyond what they could normally achieve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Infirmary Upgrade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>You have constructed an Infirmary on one of your Spires. This will bring the most learned Alchemists and healers to your Spire. With enough Alchemy Supplies, they will be able to construct powerful potions for you to use in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Spire Symbol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You have completed a pattern that displays a Spire symbol. You can use this as a guide to unlock the Spire!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Stores allow you to trade and sell your items for copper rings or items in the store's inventory. Merchants buy items from you at a greatly reduced price. If you sell something, you may see it appear in the store's inventory with a much higher cost. Stores periodically refresh their inventories, so check back often to see what items are now available!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Missives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>You have received a missive! Missives are short messages carried by birds between distant parts of [url=glossary:kyros]Kyros[/url]' Empire. Click on the missive icon or press [keymap=MISSIVES] to open the missive interface and read your message.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Artifact</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>You have discovered an Artifact! Artifacts are powerful magical items that, when wielded, grant their owner a new ability. Artifacts are known throughout the Tiers - and the greater Empire beyond. As an Artifact's reputation grows, its ability becomes more powerful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[url=glossary:camping supplies]Camping Supplies[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>You've discovered some [url=glossary:camping supplies]Camping Supplies[/url]. You can use these to rest in the wilderness or dungeons, fully restoring all of your characters' abilities and [url=glossary:health]Health[/url], and removing [url=glossary:wounds]Wounds[/url]. If you fully run out of [url=glossary:camping supplies]Camping Supplies[/url], try to find more from a vendor or chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Rest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Resting will fully restore all of your party members' health, abilities, and clear all [url=glossary:wounds]Wounds[/url]. You can use camping supplies to rest anywhere, or find locations that allow you to rest for free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Click on the Spire icon to open your home base interface, or press [keymap=STRONGHOLD].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>A new bar on your Character Sheet displays your current level of power. Press [keymap=CHARACTER_SHEET] to open your Character Sheet and view your current level of Power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>You can upgrade Spires you discover, building new structures on top of them. Each upgrade will provide you with different benefits. Click on the Spire icon (or press [keymap=STRONGHOLD]) to select an upgrade for your new Spire!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>When recruits create items for you, they are stored in a common inventory. The Spire UI will indicate when you have items from recruits ready for you. If you have multiple recruits in a Spire that generate items, you can speak to any of them to access all of the constructed items.
+
+Items are generated while your party adventures through the world and gains experience. You cannot simply rest on your spire to have an infinite supply of items generated for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>You can pause the game at any time by pressing [keymap=PAUSE] on your keyboard, or by clicking on the time of day icon on the interface. Press [keymap=PAUSE] or click the icon again to unpause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Upgrades take time and money to build, and money to maintain. If you no longer have the money to maintain an upgrade, it will be suspended and you will no longer receive its benefits until you are able to pay its maintenance cost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>To use an ability, left click on the ability icon, or press the hotkey corresponding to its location on the ability bar. Your cursor will change to indicate whether your mouse is over a valid target for the ability. If the cursor has a red X in the corner, you are not over a valid target. If the cursor has a pair of feet in the corner, you will need to move closer to the target to use the ability.
+
+For abilities that target party members (healing spells, buffs, etc.) you can click on the party portraits to target the ability on that party member.
+
+Press ESC at any time to cancel targeting the ability.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>If you issue an action to a character and want to cancel it, you can press [keymap=CANCEL_ACTION] with that character selected. Once an action has progressed far enough (IE: an attack has dealt damage), it cannot be canceled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>You can either control your new Companion directly, or you can enable their AI and have them attack and use their abilities automatically. Once their AI is enabled, you can always select them and tell them to attack a specific enemy or use an ability, and they will follow your orders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>If you right-click on the AI button, you can see the AI settings for your party members. You can set the auto-attack behavior of each character which determines how they attack enemies. For Companions, you can also choose AI packages that determine how they will use their abilities in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[url=glossary:consumables]Consumables[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>One of your party members is low on health! You can use a health potion to heal your character so they can continue fighting. 
+
+Using a health potion is an instant action - the benefits apply immediately even if your character is on recovery. Afterwards, all consumables are on cooldown for a short duration.
+
+[url=glossary:consumables]Consumables[/url] can be added to the Quick Item slots in your character's Inventory ([keymap=INVENTORY]) so they can be used in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Verse has several Stance abilities that provide her with different benefits in combat. Stances are Modal abilities, meaning they can be toggled on and off. Only one Stance can be active at a time. When a stance is deactivated, all Stance abilities enter cooldown for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>When a Companion Combo ability is activated, you will see that the icon above each character's head is set to the same ability. The combo will begin when each character is out of [url=glossary:recovery]Recovery[/url] - when the blue circle around the ability icon is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Talking with Companions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Once a Companion joins your party, you can talk to them at any time by selecting the conversation icon on their portrait. Each Companion who joins you will have important information about the world of Terratus, and their own opinions on the factions and situations you encounter. Knowing how they feel about events will allow you to make choices that build your reputation with each Companion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Companions will also interject their opinions into conversations you're having with other characters. How you respond to their statements will alter your reputation with that Companion, and others in the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Some locations will allow you to rest without using one of your [url=glossary:camping supplies]Camping Supplies[/url]. These locations are rare, so it is best to make use of them when you find them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Most Factions have abilities your character can acquire as you build reputation with them. In order to acquire these abilities, you must build enough Favor or Wrath with the faction. [url=glossary:reputation]Reputation[/url] abilities are only granted to your character, not to other party members.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>You can customize your spells by selecting different icons. If you create multiple spells using the same Core and Expression, but with different accents, these icons can help you differentiate your spells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Each spell has a default name, but you can customize your spell's name to reflect the accents you've added to the spell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Each Spire can support a limited number of recruits. Once you reach that limit, you will need to dismiss a recruit in order to hire another one. Once dismissed, you need to pay the hiring cost to get that recruit again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Some accent sigils allow you to modify the area of effect or range of your spells. When you use these sigils, the casting UI will display the increased range as a second, more transparent, area beyond the base area of the spell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Within a talent tree, each tier of talents unlocks based on how many talent points have been spent within that tree. To learn a talent, select its icon and then the 'SAVE' button to confirm your choice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Each Companion has their own talent trees with unique abilities. These abilities unlock in the same manner as your character's talents. As you spend points within a companion talent tree, further tiers of talents become available.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Increasing an attribute costs one point, until the attribute score reaches 19. To raise an attribute from 19 to 20 requires 2 attribute points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]' Day of Swords</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Now that you have delivered word of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] to the armies, the time remaining until [url=glossary:kyros]Kyros[/url]' Day of Swords appears next to the current date on the navigation bar. The terms of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] must be met by this date, or everyone in [url=glossary:vendrien's well]Vendrien's Well[/url] will die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Spell Scrolls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>You've discovered a scroll that contains the image for a Sigil of magic!
+
+If a member of your party has a high enough [url=glossary:lore]Lore[/url] skill, you can learn this Sigil and use it to craft spells. If you meet the [url=glossary:lore]Lore[/url] requirement for this scroll, Right-click on the scroll icon and then click on the Learn button at the bottom of the inspection interface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>When a party member takes damage, they will start to lose [url=glossary:health]Health[/url]. The health bar next to their portrait will start to decrease. When a party member's health drops low enough, they will gain a Wound and the health bar will turn red. Wounded characters have their maximum health reduced. [url=glossary:wounds]Wounds[/url] are removed when the party rests, or when a character levels up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[url=glossary:reputation]Reputation[/url] Unlocks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>In New Game+, you can unlock [url=glossary:reputation]Reputation[/url] abilities earned in your previous playthrough without first meeting the requisite [url=glossary:reputation]Reputation[/url]. To unlock these, open the [url=glossary:reputation]Reputation[/url] screen; the available abilities will be outlined in gold, and the number you can unlock is displayed at the bottom of the [url=glossary:reputation]Reputation[/url] interface. The number of abilities you can unlock increases with each subsequent playthrough.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\02_lethianscrossing\02_qst_kill_the_garrison</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Travessia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Derrote a guarnição.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A hostile force is in charge of [url=glossary:lethians crossing]Lethians Crossing[/url].Mate todos eles e lembre a todos que ninguém deve ficar no caminho de Fatebinders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kill all the groups of soldiers and their commander stationed in [url=glossary:lethians crossing]Lethians Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You wiped out the garrison stationed at [url=glossary:lethians crossing]Lethians Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

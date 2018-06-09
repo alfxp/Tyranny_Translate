@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\fq_dis_qst_chorusdisposal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eliminação de coro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Eliminate the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Caedis and Radix have asked you to eliminate the [url=glossary:scarlet chorus]Scarlet Chorus[/url] from [Plainsgate] in an effort to clear the way for their travels to Howling Rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Travel to [Plainsgate] so you can begin hunting down all members of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The Chorus at [Plainsgate] will only serve as an interference as you press forward into the [url=glossary:stone sea]Stone Sea[/url].Mate todos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You have successfully eliminated the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você traiu seus aliados e não consegue mais concluir essa tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

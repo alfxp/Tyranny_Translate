@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_pghg_adjudication_heraldnunoval</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>116</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The Blood Chanter's eyes widen at your approach and she nearly leaps for you in her excitement. She flails her staff wildly in your direction. "That's him - right there! That's the Fatebinder I sent the missives about!" </DefaultText>
+      <FemaleText>The Blood Chanter's eyes widen at your approach and she nearly leaps for you in her excitement. She flails her staff wildly in your direction. "That's her - right there! That's the Fatebinder I sent the missives about!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[Player Name]." The Fatebinder of War tips his head to you. He bears a wide, boyish grin. It's a strange image, framed by the scruff of his beard and contrasted by the harshness of his years. "Thought the scamp I've been hearing about might've been you. No matter where you moor, you churn up a wake, do you not, my friend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What's this, now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Apologies, but I must beg my leave. Another time, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>His friendly demeanor suddenly turns harsh, rough and jagged as stone. "I'm here following a flood of formal requests to adjudicate in your trial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"That's right." The Blood Chanter nods gravely. "After dozens of missives reporting our grievances, a Fatebinder has finally come to investigate our claims."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Nod] "Nunoval, good to see you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"And you, as well." He rests a hand on the haft of his halberd, but it's merely a habitual, relaxed gesture. He rubs at his beard thoughtfully, posture utterly at ease. "Now, what's this about you withholding arcane knowledge from the Blood Chanters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What complaints have been arraigned against me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Isn't this a bit beneath your rank, Nunoval?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The Fatebinder laughs, deep from the pit of his bowels. "Perhaps it is, but I found myself growing blunted, cooped up in the Courts. A good sword is wasted if not used, and so I decided to take a jaunt." 
+
+He gives you a knowing look. "Better me than Calio, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I can provide witness evidence of Fatebinder [Player Name] entering the remains of the [url=glossary:burning library]Burning Library[/url] for the purpose of extracting the Silent Archive. The Fatebinder was successful at that time, and though the Chorus had been working toward recovering the knowledge contained with the Archive for many spans prior, [Player Name] has not yet shared its contents with us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The Fatebinder of War tips his head to you in brusque greeting. He regards you with a harshness, his face rough and jagged as stone. "Fatebinder [Player Name], I'm here following a flood of formal requests to adjudicate in your trial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"When it concerns you - not in the slightest. Or were you unaware that [url=glossary:tunon]Tunon[/url] has grown wary of your recent... inclinations? You see, to win a war one must equally understand the minds of both their enemies and their allies.
+
+He cuts at you with a discerning stare. "Better a calling from me than Calio, wouldn't you say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Recently, the Fatebinder colluded with the Earthshakers to purposefully inspirit them with the remainder of [url=glossary:cairn]Cairn[/url]'s essence. Considering [url=glossary:cairn]Cairn[/url]'s apostasy against [url=glossary:kyros]Kyros[/url] and the Earthshakers' questionable loyalties, this act must be considered rash and shortsighted at best. At worst, we Blood Chanters would suggest it may even stem from treasonous motivations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I have no time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I am here, and so you will find the time for this arbitration. Or we'll cut ahead to the part where I decide your fate." He smooths a hand through his coarse beard and grins. "Either way, I have a feeling it will be a most rousing affair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I can provide witness evidence of Fatebinder [Player Name] entering the remains of the [url=glossary:burning library]Burning Library[/url] for the purpose of extracting the Silent Archive. Yet, instead the Fatebinder destroyed the Silent Archive. Whether willfully or not remains unknown, however - the Chorus had been working toward recovering the knowledge contained with the Archive for many spans prior. This loss has cost us greatly in our efforts to win the war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"A Fatebinder has reportedly been aiding Sages throughout the Tiers, and I believe it to be [Player Name] as he has been sighted traveling with a [url=glossary:sage]Sage[/url] on at least one occasion. It does make one question why, does it not? Why would a Fatebinder of [url=glossary:tunon]Tunon[/url] aid an unsanctioned sect over [url=glossary:kyros]Kyros[/url]' own condoned mages within the Chorus?"</DefaultText>
+      <FemaleText>"A Fatebinder has reportedly been aiding Sages throughout the Tiers, and I believe it to be [Player Name] as she has been sighted traveling with a [url=glossary:sage]Sage[/url] on at least one occasion. It does make one question why, does it not? Why would a Fatebinder of [url=glossary:tunon]Tunon[/url] aid an unsanctioned sect over [url=glossary:kyros]Kyros[/url]' own condoned mages within the Chorus?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"The Blood Chanters must protest most gravely - Fatebinder [Player Name] has roused ancient, long-slumbering magic through the Spires. We do not know if this magic is something [url=glossary:kyros]Kyros[/url] has forbidden along with the Oldwalls, but we do know that whatever the Fatebinder has gleaned as a result, he has not shared with us! Yet we are entitled to any weapon that will aid us in winning [url=glossary:kyros]Kyros[/url]' war."</DefaultText>
+      <FemaleText>"The Blood Chanters must protest most gravely - Fatebinder [Player Name] has roused ancient, long-slumbering magic through the Spires. We do not know if this magic is something [url=glossary:kyros]Kyros[/url] has forbidden along with the Oldwalls, but we do know that whatever the Fatebinder has gleaned as a result, she has not shared with us! Yet we are entitled to any weapon that will aid us in winning [url=glossary:kyros]Kyros[/url]' war."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"This is not proof, this is hearsay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"My duty is to interpret and enact [url=glossary:kyros]Kyros[/url]' will. The Blood Chanters have no say in what I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Time and again I've aided [url=glossary:the voices of nerat]the Voices of Nerat[/url], yet this is how you repay me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Be that as it may, you have acquired a reputation for being particularly... pliant in your duties as a Fatebinder. Perhaps if you were to mentor an ardent band of front-line mages, it would adjust your perspective of the battle we fight. Yes, let it be so in the honorable name of [url=glossary:kyros]Kyros[/url]."
+
+He waves a hand as if relaying the order to a messenger on the battlefield, an old habit and one he's likely unaware of. 
+
+"In addition, I will heft a fine of 200 rings. Let this caution you from the path you seek to stray, Fatebinder."
+
+He tips his head to you in gruff farewell. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I fathomed as much, but it provided for an entertaining excursion - one I will regale for seasons to come."
+
+He settles you with a boyish smile before turning a more severe expression on the Blood Chanter.
+
+"[Player Name]'s point is valid. Have you any evidence of actual wrongdoing, Ignatia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The Fatebinder nods, having no dispute with your supposition.
+
+"[Player Name] speaks true. The authority of a Fatebinder grants us answer to [url=glossary:tunon]Tunon[/url] and [url=glossary:kyros]Kyros[/url] alone. Those who seek to impede our duties will suffer the wrath of the Court firsthand."
+
+He steps closer to Ignatia, heavy armor shifting on his frame.
+
+"Have you any proof of actual wrongdoing, Blood Chanter, or have you summoned [url=glossary:tunon]Tunon[/url]'s Fatebinder of War for no reason?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The Fatebinder laughs deep from his belly, amused by your twist of fortune. "The Chorus have always been a ragged bunch, have they not? Allow me to gift you a bit of advice from a seasoned Fatebinder of War - you must lead with a strong hand and when needed, strike with a stronger one yet. Lest your soldiers grow factious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'll leave it to your judgment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Burn her on a pyre and let her screams ward those who would slander a Fatebinder. If she can survive the flames - then she's skilled enough to teach new Chanters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Lie] "And I say that none of it is true. Your move, Ignatia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Your actions in service to the Court have been rather erratic of late, [Player Name]. As such, your word no longer carries the weight it once would."
+
+He glances at Ignatia. "Still... have you more to offer than hollow words, Ignatia? Some evidence of [Player Name]'s wrongdoing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Script Node 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The Fatebinder claps you on the back in amusement. "I see your sense of justice has not waned."
+
+"In any case, this matter is now closed. I'll ensure the Chanter's punishment. But then you must come and buy me a drink. I would have you regale me with all that has happened since we last met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Feeling generous, [Player Name]? I believe this degree of slander typically calls for a flogging."
+
+The Fatebinder claps you on the back with the full weight of his strength.
+
+"In any case, this matter is now closed. I'll see to the Chanter's punishment. Then you must drink with me until we forget this day, indeed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I... no, Fatebinder Nunoval. But it's true, I swear by-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Be that as it may, you have acquired a reputation for being particularly... pliant in your duties as a Fatebinder. Perhaps if you were to mentor an ardent band of front-line mages, it would adjust your perspective of the battle we fight. Yes, let it be so in the honorable name of [url=glossary:kyros]Kyros[/url]."
+
+He waves a hand as if relaying the order to a messenger on the battlefield, an old habit and one he's likely unaware of. 
+
+"In addition, I will heft a fine of 200 rings. Let this caution you from the path you seek to stray, Fatebinder."
+
+He tips his head to you in gruff farewell. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"So," the Fatebinder of War scratches thoughtfully behind his ear. "What ought we to do with the Blood Chanter who has offended your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Leave her be. Ignatia's devotion to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] is commendable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"A hundred thank yous, Fatebinder [Player Name]. Forgive my rash words. I was only desirous of your vast knowledge." She bows low, face twisted in a wince.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Feeling generous, [Player Name]? You know, letting the guilty go unpunished merely sets a bad precedent."
+
+He sighs, seemingly disappointed in the outcome of events, but he's quick to offer you a sly grin.
+
+"In any case, the matter is settled. Now you must come and buy me a drink. I would have you regale me with all that has happened since we last met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I fathomed as much, but it provided for an entertaining excursion - one I will regale for seasons to come."
+
+He settles you with a boyish smile before turning a more severe expression on the Blood Chanter.
+
+"[Player Name]'s point is valid. Have you any evidence of actual wrongdoing, Ignatia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Paying me fine of 200 rings seems appropriate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You heard him, Blood Chanter. Best pay up before I overrule his leniency and carve you the punishment you deserve."</DefaultText>
+      <FemaleText>"You heard her, Blood Chanter. Best pay up before I overrule her leniency and carve you the punishment you deserve."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Bank Node 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Bank Node 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"You took that verbal flogging on the chin, just to let her off without a sentence? Sometimes I imagine how I would act in your role." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What the fuck Fatebinder, do you have... actual, regular, decent parents who taught you right from wrong? Never would have guessed until now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Beastwoman wants to drink with Fatebinders, also. Can find den-place for food and bathing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"How very merciful... that's one for the Chronicle."
+
+Lantry nods with a satisfied grin as he inks the minutes of the exchange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"A [url=glossary:scarlet chorus]Scarlet Chorus[/url] nobody insults you and tries to besmirch your name and you let her off without even a beheading? I'd say I admire your self-control, but that would be a lie..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I think that any form of punishment would have been more interesting than the sorry display I just witnessed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Bank Node 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I can't decide if you think that rings can help you in the execution of justice or if you care not at all for due process." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Only children and suckers fail to put a price on their time." Eb nods with a satisfied grin. "Let's find more people to waste your time, then shake them down for all the rings they've got! I never realized how much fun the law can be!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Beastwoman wants to drink with Fatebinders, also. Can find den-place for food and bathing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"A prudent move - if there's no cost to a false accusation, hearsay will rule the Court."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"If you want rings so badly, why not just ask me to sing them onto your belt? Is this what passes for justice? You could have at least had her whipped..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I was just remarking that my ring belt feels a little light these days. We should find more disputes and fill it up again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Bank Node 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"If you feel that infamy is the only way to spread your influence, be my guest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Oh, you were being serious! I honestly thought that was a joke verdict. How very... subtle..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Beastwoman wants to drink with Fatebinders, also. Can find den-place for food and bathing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"That's going to be a fascinating conversation starter for her, if she lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Well, now... I can't say I would have been that creative with a punishment, but the Chorus deserve everything they get!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"You're really leaving your mark on the Tiers, aren't you? I hope [url=glossary:bleden mark]Bleden Mark[/url] is watching from the shadows. Ach, sorry... this is beneath me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Bank Node 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"You should show more interest in your work, Fatebinder. Otherwise, no one will seek out your services." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"This person confronts you with malice and you don't even know how you'd respond? At least you aren't this indecisive in battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Beastwoman wants to drink with Fatebinders, also. Can find den-place for food and bathing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Lantry's quill comes to slow stop as he lets out a disappointed sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"She falsely accused you and that's the best you come back with? You might not want to overstep your bounds, but now you're just understepping..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Are you sick of your role in the court, or do you just hate fun? I'm genuinely curious." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The Fatebinder watches you warily as you approach, but it is only in the final breadth of distance that you realize his gaze is following not you, but the blood- and mud-caked Beastwoman at your heels. 
+
+The hardened warrior's stance is stiff but ready. His hand rests on the iron hilt of his halberd, but he does not lift the weapon from its holster. 
+
+"Is there nowhere you will not traipse, creature of darkness?" he demands. "Is there is no hovel in any Realm that you Beasts fear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Did not come hunting for Fatebinder." The Beastwoman chuffs and tosses Nunoval a deadly grin. Her crimson eyes are bright with recognition, delight - and desire - as they rove the Fatebinder of War, slowly, from helm to boot. 
+
+"But Beastwoman can see Fatebinder called Nunoval has remembered Kills-in-Shadow's vengeance. Yep-yep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>He bristles, and for a moment you worry he may actually attack. 
+
+"As if I could forget." He taps his chest plate with two meaty fingers, hard enough that it nearly dents. "I am not the same as I once was. Try to carve me another memento, Beast, and I'll wear your pelt about my loins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>The massive Beastwoman cocks her head to one side, studying her prey. "Beastwoman, too, has grown and changed. Lost tribe. Lost Haven-lands. Follows Alpha who is human," she sniffs in disdain, "who is male - to survive."
+
+She sits back on her haunches and huffs, allowing the tension between them to ease.</DefaultText>
+      <FemaleText>The massive Beastwoman cocks her head to one side, studying her prey. "Beastwoman, too, has grown and changed. Lost tribe. Lost Haven-lands. Follows Alpha who is human," she sniffs, "who is also called Fatebinder - to survive."
+
+She sits back on her haunches and huffs, allowing the tension between them to ease.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Nunoval considers her words before nodding once, gruffly, setting the matter aside for the time being.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Anyone want to tell me what in [url=glossary:kyros]Kyros[/url]' name that was about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>She bobs, momentarily excited, before settling down. Her rough, mauve tongue dangles, dripping saliva between her fangs as she chortles and yips deeply. 
+
+"Shadowhunter, too, wants to hear. Tell humans what happened," she teases the Fatebinder of War.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"It's a story I do not care to tell, now or ever," Nunoval retorts. He flicks his gaze from the Beastwoman to you, clearly struggling to reign in his anger. 
+
+"But a shorter explanation that may sate you is this - once, I lacked a healthy... appreciation for the Beast tribes of Haven. Your monstrous friend here took someone very dear to me, to correct my indiscretion."
+
+He grunts, his red beard a trembling flame. "And that is all I will speak on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Why are you here? What's going on with the Blood Chanter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"So a Fatebinder's hard work is met with frivolous and fraudulent disputes. I find this tiring. How much will it cost to simply wash my hands of this matter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I... that's not - " She pauses to consider your words more carefully. You can almost see the greed slither behind her eyes before she grins. "Sure, all right. I can see my complaints are going nowhere. A hundred coppers on a string ought to keep me out of your hair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"The court has no discontent with the manner in which two parties settle their dispute. Do you find her price agreeable?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Pay her and be done with it.] "Yes, I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"No, I most certainly do not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Then I am again needed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The Blood Chanter's cheeks flush and a frown sets on her face. She's not about to back down without a settlement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>She nods, face flushed with exuberance. "Well, now you've heard my charges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"A hundred thank yous, Fatebinder [Player Name]. Forgive my rash words. I was only desirous of your vast knowledge." She bows low as she pockets the rings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I don't have the rings for such asking price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"And if I acquiesce to your charges, what would you have me do to atone for these grievances?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The Blood Chanter bristles with excitement. "I ask only that you teach us in your advanced ways, Fatebinder. We are prepared to devote ourselves to you for weeks, if needed. Incite our blood so that we may better battle in [url=glossary:kyros]Kyros[/url]' name!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Fine, let it be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"If you wanted my aid, you should have asked for it, not tried to browbeat it out of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I find that I like the idea of you mentoring a band of ruthless battle mages. Yes, let it be thus if only so their doggedness will finally, blessedly break from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>He claps you on the back with the full weight of his strength. "Now that the matter has been settled, come and buy me a drink. I would have you regale me with all that has happened since we last met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Be that as it may, you have acquired a reputation for being particularly... pliant in your duties as a Fatebinder. Perhaps if you were to mentor an ardent band of front-line mages, it would adjust your perspective of the battle we fight. Yes, let it be so in the honorable name of [url=glossary:kyros]Kyros[/url]."
+
+He waves a hand as if relaying the order to a messenger on the battlefield, an old habit and one he's likely unaware of. 
+
+"Let this caution you from the path you seek to stray, Fatebinder."
+
+He tips his head to you in gruff farewell. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Be that as it may, you have acquired a reputation for being particularly... pliant in your duties as a Fatebinder. Perhaps if you were to mentor an ardent band of front-line mages, it would adjust your perspective of the battle we fight. Yes, let it be so in the honorable name of [url=glossary:kyros]Kyros[/url]."
+
+He waves a hand as if relaying the order to a messenger on the battlefield, an old habit and one he's likely unaware of. 
+
+"Let this caution you from the path you seek to stray, Fatebinder."
+
+He tips his head to you in gruff farewell. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>He pins Ignatia with a hardened stare. "[Player Name] speaks true. I, myself, have heard tales of his service to the Chorus. Yet you heft these claims upon him with no proof of wrongdoing?"</DefaultText>
+      <FemaleText>He pins Ignatia with a hardened stare. "[Player Name] speaks true. I, myself, have heard tales of her service to the Chorus. Yet you heft these claims upon her with no proof of wrongdoing?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Then I would deem the only guilty party here is you, Ignatia. Guilty of wasting my time, and guilty of slandering a Fatebinder."
+
+He studies the Blood Chanter who accused you, who is now red-faced and furious, but has no legal standing in which to protest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The Fatebinder claps you on the back with the full weight of his strength.
+
+"Now you must come and buy me a drink with your new rings. I would have you regale me with all that has happened since we last met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>The Fatebinder of War watches, silent, without so much as a shrug or a sigh, and for a man of both his stature and sheer size, you wonder why he allows the Chanter's rampage. Finally, once she's stomped far enough that his eyes can no longer follow her, he splits a wide grin for you and offers to lead the way to a place he knows that happens to serve sweet, mulberry mead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>You lurch on gawkish feet, straw and grit stuck to your face, a cloying aftertaste of fruit, meat, and something carnal, leaden on the back of your tongue.
+
+Your head throbs with too many braggart tales, and perhaps not for the first time, you're glad for the momentary reprieve from Nunoval's hearty laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Though Nunoval is eager to entertain your company, Ignatia lingers like an infected boil at your side. She demands, brashly, that you immediately begin her training. She is willing to follow you to the ends of the realms if need be, and she claims to know a spell to torment your dreams. And so, it is after waving the Fatebinder of War ahead with a promise to join him later, that you offer the Blood Chanter a stern but resigned nod. You attack arcanely and without warning, again and again, insisting she learn primarily through observation in combat. You correct her mistakes and spend the next several hours doing your best to utterly run her ragged, pleased to find that she is a proficient study.
+
+Her face flushed with pride and exuberance, her shoulders slumped in exhaustion, she finally offers you her gratitude before limping off. You head off in search of your friend from the Court or for a soft cot near a warm fire, whichever you manage to stumble upon first. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>The Blood Chanter throws her hands up, furious and frightened to the point of shaking. 
+
+"I should've known no Fatebinder would be impartial in dealing with another!" She shrieks. "What a farce of justice! Knaves! You're blacker than [url=glossary:bleden mark]Bleden Mark[/url]'s shadows!"
+
+Guards enclose and then escort her, still screaming - now obscenities - dragging her away until her voice diminishes into but a distant howl. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>The Fatebinder of War watches, silent, without so much as a shrug or a sigh, finally spitting once at the ground before he splits a wide grin for you and offers to lead the way to a place he knows that happens to serve sweet, mulberry mead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>The Blood Chanter spits at your feet, ired and irksome. 
+
+"Tch. I should've known no Fatebinder would be so impartial in dealing with another. What a farce of justice."
+
+With a final heated scowl, she storms off, threatening to take her complaints to the Voices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>The Fatebinder cracks a boisterous laugh. "We proceed, then. Ignatia, state your grievances." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Continue glaring silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Have you really nothing to say for yourself, my friend? You do realize, you leave me little choice in the matter by biting your tongue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>His calloused fingers scratch through his beard as thoughtful sigh escapes him. "As it appears [Player Name] wishes to offer nothing in his defense, I have no choice but to accept the Blood Chanter's claims in this dispute."</DefaultText>
+      <FemaleText>His calloused fingers scratch through his beard as thoughtful sigh escapes him. "As it appears [Player Name] wishes to offer nothing in her defense, I have no choice but to accept the Blood Chanter's claims in this dispute."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>The Blood Chanter bristles with excitement. "I ask only that the Fatebinder should teach us in his advanced ways, Lord Nunoval. We are prepared to devote ourselves to [Player Name] for weeks, if needed."
+
+She bows deeply to you. "Incite our blood so that we may better battle in [url=glossary:kyros]Kyros[/url]' name!"</DefaultText>
+      <FemaleText>The Blood Chanter bristles with excitement. "I ask only that the Fatebinder should teach us in her advanced ways, Lord Nunoval. We are prepared to devote ourselves to [Player Name] for weeks, if needed."
+
+She bows deeply to you. "Incite our blood so that we may better battle in [url=glossary:kyros]Kyros[/url]' name!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I find that I like the idea of you mentoring a band of ruthless battle mages, my friend. Yes, let it be thus if only so Ignatia's doggedness will finally, blessedly break from me."
+
+He claps you on the back with the full weight of his strength. "Now that the matter has been settled, come and buy me a drink. I would have you regale me with all that has happened since we last met."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

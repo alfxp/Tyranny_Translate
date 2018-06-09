@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\disfavored\fq_dis_06_gravenashe_ashesfort</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Granddaughter? I had no idea. Even the notion that Amelia could beget a scion of the Tiers... Unthinkable." 
+
+His brow furrows as he enters a state of deep contemplation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"What makes you think that someone will betray you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"What sorts of threats are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Because what should have been a simple campaign to subdue a backwoods nation has degenerated into civil war! My soldiers should be in the beloved North, and yet we are trapped here. Did it never occur to you that this was by design?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"I do not know, and that is what most disturbs me. Perhaps [url=glossary:the voices of nerat]the Voices of Nerat[/url] has me leaping at shadows and bellowing at my own reflection in terror, but I cannot give him full credit."
+
+"As I know when my family grows near, I recognize the presence of my enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

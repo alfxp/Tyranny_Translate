@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_dis_qst_02_lethianscrossing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Blades of Iron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Speak to [url=glossary:iron guard]Iron Guard[/url] Vintara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Destroy the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] garrison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Destroy the [url=glossary:scarlet chorus]Scarlet Chorus[/url] garrison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Speak to Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Visit the Forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Observe as Zdenya places the Magebane Helm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Enter the Oldwalls at [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Kill the Bane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Return to Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Find Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] has sent you to [url=glossary:lethian's crossing]Lethian's Crossing[/url] ensure the [url=glossary:forge-bound]Forge-Bound[/url] are protected and can continue making weapons for the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] master is currently in [url=glossary:lethian's crossing]Lethian's Crossing[/url], the settlement at the base of the Sunset Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>[url=glossary:iron guard]Iron Guard[/url] Vintara is the [url=glossary:disfavored]Disfavored[/url] garrison's commander in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You should inform her of your arrival.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] have control over [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Since their garrison won't let you move through the settlement peacefully, you'll have to destroy them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>You gave the [url=glossary:scarlet chorus]Scarlet Chorus[/url] control over [url=glossary:lethian's crossing]Lethian's Crossing[/url] during [url=glossary:kyros]Kyros[/url]' Conquest, but they turned against you during the recent events at [url=glossary:vendrien's well]Vendrien's Well[/url]. They won't let you move through the settlement peacefully, so you'll have to destroy them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Speak to Eldian, the leader of [url=glossary:lethian's crossing]Lethian's Crossing[/url], to learn more about the [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Zdenya can be found in the [url=glossary:forge-bound]Forge-Bound[/url] foundry, known simply as the Forge. It's located east of the river on the first Tier of the Moonrise District, just above the ground floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Zdenya asked you to join her on the third tier of [url=glossary:lethian's crossing]Lethian's Crossing[/url] where she will place the Magebane Helm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Eldian has asked you to confirm that the Magebane Helm actually works by entering the Oldwalls at [url=glossary:lethian's crossing]Lethian's Crossing[/url] and watching for loosed Bane. He gave you a keystone that will allow you to enter the Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>The Magebane Helm didn't work, and Bane are on the loose inside the Oldwalls at [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Kill them before they can escape out into the settlement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Return to Zdenya in [url=glossary:lethian's crossing]Lethian's Crossing[/url] and inform her the Magebane Helm didn't work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Eldian is the leader of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You'll need to speak with him about Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>You ran into an unexpected toll on the way to [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Speak to someone about being let through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Raetommon has agreed to let you through the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] toll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>You killed the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] guarding the bridge. You can continue on to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Forge Master Zdenya brought the Magebane Helm to protect [url=glossary:lethian's crossing]Lethian's Crossing[/url], but both she and the Helm were taken by Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

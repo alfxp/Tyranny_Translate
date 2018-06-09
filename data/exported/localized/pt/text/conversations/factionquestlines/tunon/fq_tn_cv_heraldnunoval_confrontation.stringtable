@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\tunon\fq_tn_cv_heraldnunoval_confrontation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Player Name].Sua expressão é sombria. On [url=glossary:tunon]Tunon[/url]s orders Ive been spreading word of your treachery throughout the Tiers - you wont have any place left to hide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Not youll get a chance to hide - [url=glossary:tunon]Tunon[/url] also gave us permission to kill you should we find you.Você não está saindo daqui vivo.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

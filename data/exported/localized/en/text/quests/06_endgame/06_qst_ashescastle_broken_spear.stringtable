@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\06_qst_ashescastle_broken_spear</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Broken Spear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to Caedo Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Confront Mouth Breather Nefsio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Eliminate Mouth Breather Nefsio's guards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Follow Mouth Breather Nefsio into the settler's home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Eliminate Mouth Breather Nefsio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Return to Acalos at Iron Hearth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A [url=glossary:scarlet chorus]Scarlet Chorus[/url] troublemaker, Mouth Breather Nefsio, has spent the last year targeting [url=glossary:disfavored]Disfavored[/url] supply depots. The [url=glossary:disfavored]Disfavored[/url] have him cornered in a village near [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Travel there and subdue him before he breaks through the defensive line and escapes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Travel to Caedo Village to confront Mouth Breather Nefsio before he escapes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Mouth Breather Nefsio is cornered at Caedo Village. Deal with him before he has the chance to escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Mouth Breather Nefsio has run off. Eliminate his guards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Mouth Breather Nefsio has retreated into a settler's home. Follow him and deliver justice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Mouth Breather Nefsio is refusing to cooperate with the [url=glossary:disfavored]Disfavored[/url]. Kill him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>You have dealt with the troublemaker, Mouth Breather Nefsio. Return to Acalos and tell him you have completed your task.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You have dealt with the troublesome Mouth Breather Nefsio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You betrayed your allies and are no longer able to complete this task.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_alchemist_enebrus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Maintenance. Come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The [url=glossary:sage]Sage[/url] is preoccupied with examining every groove and crack in the stone work of the Spire. He sees you and begins to shake his head in astonishment. "By [url=glossary:kyros]Kyros[/url]' wrinkled sack, how on Terratus did you build something like this so high off the ground! How do you secure your vials from the wind? What do you do when it rains?"
+
+Before you have a chance to respond, his face has already leaned into a collection of herbs growing in the planter, completely disregarding any answers you might have for him. "I'll be sure to make something worthy of this soaring apothecary, make no mistake of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What have you made for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Can you make it quick? I'm pretty busy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Yes, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Let me show you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I don't have anything for you at the moment. Check back later."
+
+[Recruits can generate items for you while you are gaining experience by adventuring in the world.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The old [url=glossary:sage]Sage[/url] stirs a pot vigorously before noticing you. "Ah, Fatebinder. I've received missives underscoring the goodwill you've shown some of my colleagues in the School of Ink and Quill." He smiles with a genuine warmth. "I misjudged you - Took you for some half-witted warmonger that would have things offered to them on the opposite end of a sword, rather than actually make something live with their own two hands." 
+
+His mood last only as longs as his potion takes to brew, as the pot he was stirring begins to sputter with strange sounds, and lights. "Look what you've done! If there's something you wanted, get on with it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

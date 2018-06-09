@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\06_endgame\06_qst_act3_issueedict_endgame</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Os exércitos no norte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para o Pináculo da Montanha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Issue an [url=glossary:edict]Edict[/url] upon the Northern Kingdom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Meet with your alliance in [url=glossary:ascension hall]Ascension Hall[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>It has come to your attention that the Empire has made good on [url=glossary:kyros]Kyros[/url] threat.Os exércitos marcham do norte com apenas um objetivo: a total aniquilação dos Tiers.
+
+Fortunately you have the resonator at the [url=glossary:vendriens well]Vendriens Well[/url] Spire at your disposal.With it you have the power to issue an [url=glossary:edict]Edict[/url] and disrupt the Northern Kingdom.A vitória final ainda pode ser sua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Return to your Spire in [url=glossary:vendriens well]Vendriens Well[/url].From there youll be able to issue an [url=glossary:edict]Edict[/url] to repel the armies of the Northern Kingdom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>You arrived at the [url=glossary:vendriens well]Vendriens Well[/url] Spire in the face of an incoming invasion of [url=glossary:kyros]Kyros[/url] forces.Use o ressonador e determine sua resposta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Arri mandou avisar que viu exércitos se aproximarem do norte. She fears your alliance might dissolve in the face of such a catastrophe as [url=glossary:kyros]Kyros[/url] imperial army marching on their homelands.Ela pediu a você que fizesse uma reunião para fortalecer a causa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>You will need to meet with your alliance to determine what is next now that all the Archons have been defeated and [url=glossary:kyros]Kyros[/url] threat hangs overhead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You issued an [url=glossary:edict]Edict[/url] upon the Northern Kingdom and repelled [url=glossary:kyros]Kyros[/url] invasion force.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_bs_disfavored_general</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"It was a damn miracle seeing you in the ruins. I thought my last sight would be a Chorus blade. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The Library's still standing, unfortunately. Even so, we can easily hold it until General Ashe decides what to do with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Couldn't be happier that these ruins are bathed in fire now, as [url=glossary:kyros]Kyros[/url] wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"The Sages should never have resisted. Look at what has become of these lands! It's good that you fulfilled [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url], at last."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

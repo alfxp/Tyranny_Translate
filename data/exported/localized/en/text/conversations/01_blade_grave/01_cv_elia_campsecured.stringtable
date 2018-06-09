@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_elia_campsecured</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Elia nods at you, her face showing the hint of an appreciative smile. "Less than I anticipated. It seems their full force has yet to arrive." Her eyes dart about the fallen enemies, searching for familiar faces. 
+
+"No commanders here. Damn." A few distant horn blasts pierce the wind from the south. "That's probably the rest. We can expect far more than the initial assault!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"We won't survive the day if we stay here. Our walls have been compromised, and the winds grow stronger still." She points north, past the twisted remains of the gate. "That's our only route. Teodor sent men to hold the northern junkyard. We have a chance with them, but only if we act now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Troubling. If the [url=glossary:disfavored]Disfavored[/url] were sent on assault without a commander, the move had to be a stalling tactic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Help me one more time, and I'll tell you what I know about getting inside Sentinel Stand." She pauses to touch the tip of her spear. "You must be careful - we've trapped the terrain north of the camp. Step lightly and rally to the northwest plateau. If we defeat the soldiers stationed there, we'll have a clear escape route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What of you and your soldiers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Very well. I'll go now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"We'll bandage the wounded and ease the passing of those that can't follow. We're in no shape to join you - not after that attack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Fatebinder, we have little time left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"One more thing, Fatebinder.  Not all of my men made it behind the walls after the initial attack. My hope is they're hiding in the northern canyons and still well enough to travel. If you find any of my crew, give them a chance to escape while there's still time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Reconsider the plan. You're too weak to leave these walls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>She chuckles. "You may be right. And yet there's no turning back now. Not for us, anyway. We're a stubborn breed. You should know that much about the [url=glossary:unbroken]Unbroken[/url] already." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

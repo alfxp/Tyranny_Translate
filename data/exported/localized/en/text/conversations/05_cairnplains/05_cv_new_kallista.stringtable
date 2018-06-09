@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_new_kallista</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>222</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Well, well. Must be my lucky day." The Crimson Spear cocks her helm-hidden face to the side, studying you curiously. 
+
+"The name's Misery. You'd do well to remember it, Fatebinder, as this little town belongs to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"And by little, I mean what's left of it after your friend had her way with the place." She lets out a harsh, barking laugh. "Not that I'm complaining! Pure destruction really gets my blood going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"But enough about that - let's get to the point. What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"And by little, I mean what's left of it after you had your way with the place." She lets out a harsh, barking laugh. "Not that I'm complaining! Pure destruction really gets my blood going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I do love little hovels like [Plainsgate]. It's so easy to get recruits. Desperate people tend to believe anything you tell them. And if you can't con them into servitude, kidnapping suffices just fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"If you're talking to me, it better be because you've got good news. I'm neck deep in shitcreek. And if I drown, I'm taking you with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Nerat grows impatient that you have not yet killed [url=glossary:cairn]Cairn[/url]. While you dawdle and fail, our army continues to starve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Leave] "Nothing. I'm just passing through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Does he now?"
+
+She cocks her head to one side, whole body primed and ready for a fight near instantly as she eases into a battle stance, spear drawn faster than the blink of an eye. She holds her stance, violence barely contained, as she waits for your cue for how the exchange is going to progress.
+
+"Going to say the Voices wants a word with me in his tent, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Heh. You got a funny way of saying you're here to help me."
+
+She shrugs and drops her spear into the sheathe on her back. But she crosses her arms as she regards you, ever wary of an attack.
+
+"Don't fret. I know better than to fail the Voices. I've had my gangs combing the Sea more than four spans now, without sleep. We're close to finding that moaning muckpile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Word from the locals says [url=glossary:cairn]Cairn[/url] was headed for a Spire when he crumbled. We've already checked the one at [url=lore:Gulfglow]Gulfglow[/url], so it's got to be at the place the Beastmen call [url=lore:Howling_Rock]Howling Rock[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Then it's a good thing you're here to save my ass from the pike. Cause you're going to find [url=glossary:cairn]Cairn[/url]," she snaps her fingers, "just like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Only it isn't so easy as keeping an eye on the sky and marching straight ahead. Got a few hundred chasms and double a dozen [url=glossary:disfavored]Disfavored[/url] separating [Plainsgate] from [url=lore:Howling_Rock]Howling Rock[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What's the plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"The Beastmen giving you problems here in the [url=glossary:stone sea]Stone Sea[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Bottom line is, we need them to find [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The one called Hundred-Blood gets a bit touchy when we encroach on the tribe's den. But the real problem is one we managed to recruit, named Rending-Hound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tell you what, Fatebinder, while you're out in the [url=glossary:stone sea]Stone Sea[/url] if you find Rending-Hound, get him in line. Or kill him for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I'll put the fear of [url=glossary:kyros]Kyros[/url] in him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Well, move it along then. I've got work to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"How are Chorus operations running in the region?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"It seems plenty of Chorus answer to you here, but who do you answer to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Why garrison [Plainsgate] for your base of operations?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"How'd you get your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Maybe you haven't noticed, but I'm a Crimson Spear - a rank earned with treachery and blood. I answer to the Voices and none other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Our efforts to shore up recruits are going better than expected here in [Plainsgate]. Our efforts to discredit the [url=glossary:disfavored]Disfavored[/url] are just ramping up near Graystone. It's our efforts to locate [url=glossary:cairn]Cairn[/url] that have been the most troublesome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Aside from it being the last city to stand in the rubble? There's nowhere better for shoring up recruits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'm not really of a mind to talk about it. Least of all with a Fatebinder of [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"If that were the case, I would not be here to ensure the hastening of your success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Doesn't look like you'd go, if I did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>She laughs and relaxes her guard, charmed by your bluntness.
+
+"Well. You're right about that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Back down or lose that spear-fighting arm. Your choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You may be the Voices' pet Fatebinder, but you're not the big boss in these parts. If you've come to help then help, but don't forget this is my racket."
+
+She drops her spear into the sheathe on her back and crosses her arms, wary as she regard you.
+
+"I've had my gangs combing the Sea more than four spans now, without sleep. We're close to finding that moaning muckpile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Close doesn't cut it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Where does the intel point us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I am no one's pet. And if you keep trying to annoy me, I'll chop you into little pieces and feed you to the crows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"To be perfectly honest, I'm thinking about flaying you and taking over your gang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"That's a fresh one, Fatebinder. But I'm not one for jokes, you see? You're standing plumb in the middle of a town run by my Chorus. Wave your weapon at me, and I'll have your head on a stick before you can say, 'Mercy, Misery! Mercy!'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Attack] "I accept the challenge. Let us see whose head shall be taken for trophy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Diffuse the situation.] "You're right. It was merely a jest. For now..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"So you say." She unsheathes her weighty spear and hefts it across her shoulders. "I didn't claw my way to this rank by being easy to kill. I'll be watching you, Binder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'll have your dying lips moan my name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>She falls silent and unnaturally still, taut as a snake arched to strike. Finally, she shirks back, settling the tension between you with a lazy salute.
+
+"Point taken. I can see you're one of us after all. If the Voices sent you to help, then I'll tell you what I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I can get us there, but it's not my neck on the chopping block. If you know what I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Sounds challenging. I'll need to see to some preparations first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Yeah, I think I get what you mean." She grunts and spits at the ground through her mask's mouth slit.
+
+"What's it going to take for me to sweeten the pot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"If you're stocking up, drop my name with the traders around town. They'll give you a warm welcome or risk their ring-fingers."
+
+She nods once, gruffly.
+
+"When you're ready, Octave will be waiting for you in [url=lore:StoneDown]Stone Down[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I've sent my right-hand man, Octave, with a slew of Furies to recruit or kill the [url=glossary:stonestalkers]Stonestalkers[/url] at the heart of their den in [url=lore:StoneDown]Stone Down[/url]. They know where [url=glossary:cairn]Cairn[/url] is, so I'm saying they'll either help us or get out of the damn way, permanently. Go and join him, if only to make sure he doesn't swive this up for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Yeah, Binder, we have. Had that idea myself pretty early on. I'd nearly gone mad listening to that stone lump's moaning, morn after morn and night after night. Thought, hey now, we could track that. But the howls, they echo off of every peak and crevice in the whole valley. Especially when the Beastmen are answering his cry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Have you tried following the sound of the moaning?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"You want to conscript Beastmen for their strength?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Those Beasts are gloriously vicious. I've seen them tear a [url=glossary:disfavored]Disfavored[/url]'s arms and legs off - through the damned armor. Knowing that, I'd prefer to have them on my side, wouldn't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Plus, the [url=glossary:stonestalkers]Stonestalkers[/url] know how to get to the Spire at Howling Rock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You said the Beastmen were killing you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What's up with the Beastman in the town square?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"My gang helped drag him in a couple days ago. The townfolk are clamoring to skin him alive. But if I let that happen, it'd be a waste of an asset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Left-Claw is fast, fierce hunter. Should not be treated like prey."
+
+She sniffs, her expression dark as she regards Misery.
+
+"Chorus claims to help Left-Claw. But smells of lies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Honey-claw, we're the only ones around here who don't want to skin that Beast alive. Of course, we'd happily free him, but with such a crowd at his throat, there's only so much we can do. We're not going to turn the whole of [Plainsgate] against us for the sake of one Beast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Reassure Kills-in-Shadow] "Don't worry. I won't let them kill Left-Claw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The Beastwoman grunts her understanding. She watches Misery with a predatory, blood-thirsting gaze, saying nothing further, trusting you with the situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Misery shrugs, seeming utterly unconcerned, but you notice that during the exchange she had moved her hand to rest on the hilt of her sheathed spear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Taunt Misery] "Calling a Beastwoman 'honey-claw' - not the smartest idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The Beastwoman chuffs, both amused by your remark and in agreement with it. She watches Misery with a predatory, bloodthirsty gaze, tongue laving her bared fangs, but she says nothing further on the matter, entrusting it to you, her chosen Alpha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The Beastwoman huffs but says nothing further. Instead, she turns away and crouches on her haunches, pointedly showing you and Misery her hairy back as she sulks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Misery barks a laugh, clearly amused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I've heard all I need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Then I've said all I needed to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"That's a matter of perspective." She laughs, hearty and deep. "On who's giving who problems."
+
+She hawks phlegm through the narrow mouth slit in her mask, leaving a trail of spittle dribbling down her bronzed chin.
+
+"They kill us. We hunt them - for their added strength to the Chorus or just for their skin. Makes no mind to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Just kill him, and I'll be satisfied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"That's right, so show some respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Your surety makes me want to choke my best lackey. Help me kill [url=glossary:cairn]Cairn[/url] and I'll wash your feet with my hair - and his blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"But screw me on this, and I'll make sure the Voices eats you whole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Have one your Blood Chanters teach me some magic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Talk me up to your gang, and I'll get you to Howling Rock faster than you can say '[url=glossary:kyros]Kyros[/url] have mercy.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"It's a deal well done."
+
+She gives a mock bow, flourishing her gauntleted arms wide before you.
+
+"I like you, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"It's a deal well done."
+
+She gives a mock bow, flourishing her gauntleted arms wide before you.
+
+"I like you, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I presume the Beastmen have refused to lead you to Howling Rock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Right on the mark, you are. They've been less than welcoming ever since we hunted a herd of them during the fall of Azure. We've had to stoop to less than upstanding methods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Brutally efficient. I approve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I do so aim to please."
+
+She gives a mock bow, flourishing her gauntleted arms wide before you.
+
+"I like you, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I'll help you deal with the [url=glossary:stonestalkers]Stonestalkers[/url], but in exchange I want you to free Left-Claw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Think it'll make it easier for you to win the tribe over? Suit yourself - the situation had gotten complicated with that one. It's a deal well done."
+
+She gives a mock bow, flourishing her gauntleted arms wide before you.
+
+"I like you, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"What can you tell me about Left-Claw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Come again?" She stares you down from the impenetrable wall of her mask, but after a moment twitches a glance toward the raucous of the town square, betraying her ruse. "Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I'm referring to the Beastman your Chorus captured. The one on trial in the town square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"All right, you got me. [url=glossary:kyros]Kyros[/url] only knows why, he's been single-mindedly hunting [url=glossary:disfavored]Disfavored[/url] throughout the Sea. He's damn good at it, too. So we set a trap for him. Figured we could force him into our ranks. Only, the situation's gotten... messy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"That's about what I thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Got a problem with that, you can take it up Arabella, my spear." She jiggles the imposing weapon in its holster, proud. "You wouldn't be the first Fatebinder she's tasted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"You claiming to have fought a Fatebinder and lived?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Wouldn't be standing here to brag about it if I hadn't survived, now would I? Impressed?" She cracks her neck, the snap loud and unnerving, though she hardly seems to notice. "Next time you see Nunoval, tell him Misery sends her regards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"You're lying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>She shrugs. "Believe what you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>She titters, trembling with excitement at the thought. "Well, it's not like he didn't leave his mark as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>She shrugs. "Believe what you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>She titters, trembling with excitement at the thought. "Well, it's not like he didn't leave his mark as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Sounds like more mouths to feed when you've yet to restore the Azure's farmland."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Until the people of [Plainsgate] swear to an Archon, they've no rights under [url=glossary:kyros]Kyros[/url]' Law. Conscript them at speartip if need be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"We're losing bodies every day. To hunger, to Beasts, to [url=glossary:disfavored]Disfavored[/url], and in-fighting. Not replacing them would only kill the Chorus faster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Damn right, I will. We're losing bodies every day. To hunger, to Beasts, to [url=glossary:disfavored]Disfavored[/url], and in-fighting. Replacements have got to come from somewhere. And unlike Ashe's inbreds, we don't shy away from Tiersmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Do not play coy with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Left-Claw is good whelp. Hunts iron-clads for Kills-in-Shadow. Hunts for revenge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"This Beastwoman saying she trained him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Sounds like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"How should I know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Now that's interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"She follows you, doesn't she? Never mind. Either way, it's interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Oh? Run in with the Courts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Understandable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I said I don't want to talk about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Oh, yeah. I love being pitied. Try to sympathize with what you don't know, and I'll give you something to gnash your teeth over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Why do you think they know that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Once, this whole realm was their territory. Now they're taking it back, stone by stone. They're the followers of [url=glossary:cairn]Cairn[/url], and they know this newly barren landscape better than anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"You don't know where he is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"What has the Beastman done to warrant a visit from a Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"If I did, he wouldn't still be a problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Like I said, he's causing problems. I think maybe he's taken to hunting our own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I'll think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"There aren't many under the Voices who can refuse the request of a Crimson Spear. What is this strange feeling? Ah, annoyance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"That doesn't sound too convincing. He must be something of a personal threat to you for you to want him dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I can see you're going to figure it out, one way or another. He's too damn strong. If I leave him to range unchecked, he's likely to become a Crimson Spear, if you know what I mean. I became a Crimson Spear the day I killed my boss and took her spot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"How hard was it to take control of the town?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Couldn't have been easier. The people here are scared and vulnerable - and that's a winning combination. Move in, make promises, and stretch the truth. People will treat you like saviors from a problem that doesn't really exist. In this case, it helped that there actually is a problem we can make them think we're going to help with."
+
+"That just made it easier to sweep in and grab control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Was it always the plan to take control of this settlement?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"So are you here to stop the quakes or are you here to damage the [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Obviously, both. If we kill [url=glossary:cairn]Cairn[/url] and stop the quakes, we can return these plains to the farmland they used to be and feed our swelling army."
+
+She laughs. "And if we can hurt the [url=glossary:disfavored]Disfavored[/url] as a secondary goal, then even better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Fine by me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Doesn't the Voices tell you anything? Of course we planned to take [Plainsgate] - after the break down at [url=glossary:vendrien's well]Vendrien's Well[/url]."
+
+She waves her hand slyly. "We would never openly defy [url=glossary:kyros]Kyros[/url]' will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Don't lie to us, or by thunder we'll know! Did the [url=glossary:scarlet chorus]Scarlet Chorus[/url] plan on claiming this territory before the civil war?" Barik advances with a dangerous air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>She reaches for her spear but doesn't yet draw it, confident and firm in her stance. "No more than the [url=glossary:disfavored]Disfavored[/url] marked their territory all over Stalwart." She shrugs. 
+
+"Did you think the Voices wouldn't notice how Ashe put down stakes for a [url=glossary:disfavored]Disfavored[/url]-only occupation? Anyone with eyes would see it as suspicious. And the Voices has more than his share of eyes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"The [url=glossary:scarlet chorus]Scarlet Chorus[/url] should not have plotted to take the region for themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"By that logic, the [url=glossary:disfavored]Disfavored[/url] are just as corrupt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"It's no matter now that the armies have their teeth in each other's throats. But it makes a gal wonder whose side you're really on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Damn right they are." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I am a harbinger of justice, not a slayer of innocents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Just like a Fatebinder to always be sniffing around. If you must know, I joined with the Chorus back before they invaded the Tiers. And wherever I went, misery followed." She looks down at the ground in recollection. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I ditched home for the biggest army [url=glossary:kyros]Kyros[/url] had, and landed myself in one of the toughest gangs. Of course, when we tore through my homeland, both my parents and siblings took up arms. Nerat entrusted me with their execution, and now I'm here, ruling this pile of rubble, and they're just bones under the ground." 
+
+Her bronze visage stares coldly back. "Story time's over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"You are welcome to try, hag, but I guarantee you'll regret it. I don't need any more excuse to walk every one of you off a cliff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Shut your hole, Misery. He only does that to people he admires. That puts you in the clear." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Bank Node 153</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>She sneers at the other woman and pumps her spear in a both threatening and clearly vulgar manner. 
+
+"I could put a hole in your throat faster than you could squeak. Sure, it might kill me. But it sure as shit would kill you."
+
+She shrugs but is a little too eager to back off after her show, when given the chance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] respect Archon called [url=glossary:cairn]Cairn[/url] because [url=glossary:cairn]Cairn[/url] fought for Beastwomen. Why wouldn't tribe answer Stone-mystic's dying whines?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Don't like rot-smelling human's words. Rending-Hound is good whelp. Savage fighter. Must be threat to human's ranking in pack - or why would human whine to have Beastman killed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Beastwoman also has met human called Nunoval."
+
+She chuffs and snorts, amused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Misery juts her chin, impressed. "Seems the Fatebinder of War has a better survival rate than even the [url=glossary:disfavored]Disfavored[/url]'s elite. Would like to know how he heals his wounds - and why he's so shit at avoiding them to start with." She laughs, a choking, rough sound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Must be my lucky day." The Crimson Spear cocks her helm-hidden face to the side, studying you warily. 
+
+"I get to bathe my Arabella in a Fatebinder's blood." She stomps into a hip-squared crouch and pivots her long spear over her head. As her hand movements speed, the bronze spear begins to wump and snap at the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>The Crimson Spear tips her masked face to one side, weighing the Beastwoman's logic for a moment before speaking further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Do not threaten little song bird." The Beastwoman glowers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>She shrugs but is a little too eager to back off after her show, when given the chance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>She sneers at the other woman and pumps her spear in a both threatening and clearly vulgar manner. 
+
+"I could put a hole in your throat faster than you could squeak. Sure, it might kill me. But it sure as shit would kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Do not threaten Beastwoman's packmate." Kills-in-Shadow glowers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>She surveys the ruin you've wrought on her town - the wake of bodies and blood you've churned at her feet, and her stance stiffens. Her grip tightens on her spear until her arms are wholly shaking.
+
+"I haven't clawed my fingers to the bone - I haven't slaughtered those who plague my dreams just to be washed away by a [url=glossary:kyros]Kyros[/url]-damned Fatebinder! I'll make you regret it. You hear me?! I'll make you regret ever coming here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>She slaps her spear against the ground, loud as a whip crack, and her arms shudder from the force as the haft ricochets back into the air. She laughs, clamorous and throaty and pleased, eager to test her prowess against you.
+
+"Any last words?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"If you mean the last words you're ever going to hear, how about these: You're going to die now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Scarlet harpy, I shall smite you in the name of the legion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"How about a truce?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Tch." She spits vehemently at the ground. "Insolent pox-prick. I'm going to enjoy skinning you, slowly, over the next few weeks. Best hope I don't take you alive, eh?"
+
+With that, she cracks her neck audibly, raises her spear, and charges for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Tch." She spits vehemently at the ground. "You iron pox-prick. I'm going to enjoy skinning you, slowly, over the next few weeks. Best hope for Ashe's sake, I don't take you alive, eh?"
+
+With that, she cracks her neck audibly, raises her spear, and charges for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Coming from the swiver with my soldiers' blood still smeared on his chin?" She spits vehemently at the ground. "Try again, you two-faced, motherless, pox-prick."
+
+With that, she cracks her neck audibly, raises her spear, and charges for you.</DefaultText>
+      <FemaleText>"Coming from the swiver with my soldiers' blood still smeared on her chin?" She spits vehemently at the ground. "Try again, you two-faced, motherless, tit."
+
+With that, she cracks her neck audibly, raises her spear, and charges for you.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[Point excitedly.] "H-hey! What's that over there?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"And a blade for my throat?" She cracks her neck and shrugs. "Well, I don't see him - or any particularly deathly looking shadows here, do you?"
+
+She lunges for you without further warning, fast as lightning, and followed by a thunderous crack of her spear.
+
+"I don't fear the darkness. The darkness fears me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"If you grow a boil on your asscheek and name it [url=glossary:kyros]Kyros[/url], that doesn't make it the Overlord." She throws her heavy-helmed head back and titters. But abruptly she sobers, spear mid-hoist as she attacks without warning.
+
+"In other words," she shrieks, "keep dreaming!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Well? Come at me, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Gladly." She spits vehemently at the ground. "I'm going to enjoy skinning you, slowly, over the next few weeks. Best hope I don't take you alive, eh?"
+
+With that, she cracks her neck audibly, raises her spear, and charges for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>A curse dead on her lips, she glances with a jolt toward the horizon. "Motherless fu - "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Punch her in the jaw.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>[Make a run for it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>A resounding clang splits the sky as your fist strikes her armored mask. Her neck snaps to the side, and she curses anew before spitting blood and teeth at your feet. 
+
+She trembles with fury, her eyes hot as cinders as she looks back to you. 
+"I'm going to enjoy killing you."
+
+Spear whipping in her hands, she lunges for you without further warning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Tch. Go on and run you chicken-shit! It won't help you get away!" Spear raised, she lunges for you, fast and hot on your heels. "I'm going to enjoy skinning you, slowly, over the next few weeks. Best hope I don't take you alive, eh?"
+
+She swipes for you, spear cracking thunderously through the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I'm starting to run out of 'last words' to offer, to be honest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I'll be sure to carve that on your tombstone." She cracks her neck, slow and audibly. "Just kidding. I'll be leaving your corpse rotting in the streets."
+
+
+She lunges for you without further warning, fast as lightning, and followed by a thunderous crack of her spear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"[url=glossary:bleden mark]Bleden Mark[/url] sends his regards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"I'm liberating this realm from the tyranny of your crimson chokehold. No more will you terrorize these innocents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"How about a truce?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>[Point excitedly.] "H-hey! What's that over there?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[Do nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Petty diversions can't save you." She spits vehemently at the ground. "Too petrified to flee or fight? Don't worry. You needn't move to die!"
+
+She lunges for you without further warning, fast as lightning, and followed by a thunderous crack of her spear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Back down or lose that spear-fighting arm. Your choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[Conquest] "I know the landscape's been shifting ever since the [url=glossary:edict]Edict[/url] - guessing you haven't found a way?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Sure enough. Just when we think we've found a route through, a new gorge opens and swallows the path whole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I have news regarding Rending-Hound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"If you're standing here, you best have slaughtered and skinned the Beast. And perhaps brought me a token from the hunt? I do so savor a good trophy - a warning of what happens to those who challenge me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>[Give her the necklace.] "It's yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>She examines the grotesque necklace with a clear amusement. "Oh, this is phenomenal. Almost makes me regret not trusting the ruthless bastard at my back." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[Keep the necklace for yourself.] "My kill, my trophy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Her helmed face cants sharply as she studies you, her lips no doubt twisted into a sneer behind her mask.
+
+"Keep your bloody prize, then. Arabella's the only warning I need at my side. But you? Yeah, you'll need all the trophies you can get." She laughs, but it's a cold and cruel clang from her chest. "Best watch your back as you walk within MY town - brimming with MY fucking gangs. Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"This is a nice souvenir. I would like to keep it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Oh, is that right? And does it brings out the color of your eyes? You sentimental shit-smear! Hand it over."
+
+She flexes her armored fingers, her hand outstretched, impatient. "Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Well, look at you - a Fatebinder, Archon-killer, and queller of quakes - my big fucking hero."
+
+She laughs harshly from behind her helm, sweeping an exaggerated bow. As her foot slides on the stony ground and her arms flourish wide, she whips her spear around hard - barely missing the strike to your abdomen.  
+
+"Whoops," she shrugs as she uprights herself from the bow. "Almost knicked you there. Would be a real shame for you to die now, considering all you've done for the Chorus." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"You see, it's funny. I haven't heard from Octave since you killed [url=glossary:cairn]Cairn[/url] for him at Howling Rock. You didn't give that little piss-ant any strange ideas about running off, now did you?"
+
+She flips her spear around her wrist with idle annoyance at the thought.
+
+"If so, I'll have to track him down. And break him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Was a pleasure working with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Watch it, Misery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Oh, don't look so sour, [Player Name]. True, you'll never get my thanks, but you earned my respect. And there aren't many who can live through that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"I'm sure it was." She tips her head to you in approval. "Look, it was pretty good for me, too. You ever have someone you need gutted, say with a lovely, long-tipped spear, you just send them my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>She hums, the tune throaty and pleased and not the least bit concerned. One day her arrogance will be the death of her, surely. 
+
+"I like you Fatebinder," she purrs, but her words grind like grit as she warns, "Let's leave it at that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Now make yourself scarce. I've got a realm to run and an army to feed - for the big boss, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"How could anyone but the Voices be the big boss?! Tell me - what am I supposed to do now?! What was all of this swiving shit for?"
+
+With a frustrated scream, she throws her spear clanging to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>[Break her neck.] "I've been waiting for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>She doesn't break easily. Even beneath the jut and strength of her helm - even with both of your hands wrapped, squeezing, her throat is wrought as the bronze she wears. And her neck is supple as the spear she wields.
+
+She gurgles a bloody growl. Then bones snap. And her body goes limp - empty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Just kill him, and I'll be satisfied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Did you think we didn't know what you were up to, you dirt-mage pukes?"
+
+The Crimson Spear points her long-handled weapon at you. The bronzed tip bobs and oscillates, slicing at the air as she shouts.
+
+"I've got a gift for your Archon. And for you. It's a swift, sweet little death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>[Roll your eyes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>[Attack without warning.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Why does the Chorus want [url=glossary:cairn]Cairn[/url] dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Radix, Caedis, to arms!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>She swivels her helm-hidden face to one side, the move reptilian and cold, a calculating assessment.
+
+"I bet the Voices would love to get inside your daft head. To end the [url=glossary:edict]Edict[/url]. Why else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Enough drivel!"
+
+She slams her spear against the ground, raising a cloud of dust cover.
+
+"Come! I'm starving for some action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Kill the Fatebinder THEN the Archon!" 
+
+A sound of surprise catches in her throat at your hasty attack, but she neither stumbles or falters. Instead, she swings her spear in a hard arc, aimed for your throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Radix, to arms!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>The Master of the Earthshakers nods his head to you with a grave air of respect.
+
+"Fatebinder, I would invite you to join me in protecting the remains of my Archon and in smiting these foul weevils whose utter existence is as a scourge to this land."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>The Master of the Earthshakers nods his head to you with a grave air of respect.
+
+"Fatebinder, I would invite you to join me in protecting the remains of my Archon and in smiting these foul weevils whose utter existence is as a scourge to this land."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Fatebinder, it would seem we've reason here to support each other. And you know I'll always have your back, brother."
+
+The [url=glossary:disfavored]Disfavored[/url] officer hefts his broadsword at the ready, two-handedly gripping the worn leather haft. With a grunt, he works his shoulders to loosen them, heavy iron plates clanking with the circular movement. 
+
+"Besides, I like gutting screamers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Isadora! A little help here?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"M-me?!" The whites of her eyes flash wildly. "I'm not - I mean... Oh, for the love of [url=glossary:cairn]Cairn[/url]! If I'm going to die, it might as well be protecting my Archon and guild."
+
+She thrusts her staff skyward with a surprisingly stalwart shout, and the ground roils in answer to her power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Incensed by your disrespect, the Crimson Spear lungs for you with a shrill shout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Fatebinder. Brother. It'd be a real pleasure to fight at your backs."
+
+The [url=glossary:disfavored]Disfavored[/url] officer hefts his broadsword at the ready, two-handedly gripping the worn leather haft. With a grunt, he works his shoulders to loosen them, heavy iron plates clanking with the circular movement. 
+
+"But I call dibs on the screamer with the spear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>[Leave] "I will take my leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

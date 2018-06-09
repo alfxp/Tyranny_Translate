@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0105_cv_defense_phase_feedback</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Você ouve gritos vindos do lado norte do forte. The [url=glossary:disfavored]Disfavored[/url] are attempting to breach one of the damaged palisade walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Explosões de buzina irrompem do leste. You can see [url=glossary:disfavored]Disfavored[/url] soldiers ramming the eastern wall.As fortificações não parecem durar muito mais tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_junkyardscavenger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Limpando o ferro-velho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Volte para Aram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Mate os catadores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Volte para Teodor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Um grupo de catadores fugiu para o ferro-velho em Rust Canyons. Teodor solicitou que você os eliminasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Você matou os catadores. Volte a Aram com as notícias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>The scavengers are reportedly hiding in the junkyard north of the [url=glossary:unbroken]Unbroken[/url] camp in Rust Canyons.Lave-os e mate-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você matou os catadores. Volte a Teodor em Rust Canyons com as notícias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você eliminou todos os catadores que escaparam quando você estava atacando o acampamento deles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>You attacked Bajko sending all the remaining [url=glossary:scarlet chorus]Scarlet Chorus[/url] out of the Rust Canyons before you could collect your reward from Aram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>You attacked Jacomus sending all the remaining [url=glossary:disfavored]Disfavored[/url] out of the Rust Canyons before you could collect your reward from Teodor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Você traiu seus aliados e não consegue mais concluir essa tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

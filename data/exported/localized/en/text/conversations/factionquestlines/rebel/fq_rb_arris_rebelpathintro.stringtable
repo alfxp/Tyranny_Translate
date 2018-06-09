@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_arris_rebelpathintro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>81</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fatebinder - welcome back!" Arri smiles and bows. "Our patrols have been chasing off stragglers from the valley, but otherwise, [url=glossary:vendrien's well]Vendrien's Well[/url] is almost quiet for the first time in... ages. Considering what we've been through, it's a much needed lull in violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What major settlements are intact and available to stand with us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Were I in your position, I would consider [url=glossary:lethian's crossing]Lethian's Crossing[/url]. The settlement wasn't more than a commerce hub before the war, but it's grown quite a bit since the coming of [url=glossary:kyros]Kyros[/url]."
+
+"During the conquest, [url=glossary:tunon]Tunon[/url] exploited the waterways to transport iron from the forges to the front lines of the war. Ever since then, refugee traffic and opportunities for trade have made the Crossing more than it ever was or deserved to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Don't the [url=glossary:forge-bound]Forge-Bound[/url] work for the [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"A band of wild mercenaries originally from the Free Cities. [url=glossary:the voices of nerat]The Voices of Nerat[/url] hired them to claim and hold [url=glossary:lethian's crossing]Lethian's Crossing[/url] during the war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"They are one of the mage guilds recognized under [url=glossary:kyros]Kyros[/url]' rule, and for the time being their weapons have gone to [url=glossary:disfavored]Disfavored[/url] soldiers." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"[url=glossary:lethian's crossing]Lethian's Crossing[/url] sounds like the best prospect. Stabilizing the area can help our cause." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"If you brought order to the Crossing, it would go a long ways toward legitimizing your alliance... and your intentions. You might not find everyone as quick to trust a Fatebinder in this part of the world."
+
+"Until then, feel free to consider [url=glossary:ascension hall]Ascension Hall[/url] your home base. If you gather forces to join the coalition, have them send a representative here, where we can discuss our plans for the future." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I only point out the Crossing because, like [url=glossary:vendrien's well]Vendrien's Well[/url], it seems poised for someone to intercede and end the conflict. We could restock our weapons and provisions, and maybe even garner some support from the locals." 
+
+"More importantly, it would seem that Zdenya, the [url=glossary:forge-bound]Forge-Bound[/url] Master, has been dispatched to the Crossing under secret order. I know you both serve the same Archon, and I can't imagine that makes you anymore the acquaintance than anybody else, but perhaps by your example she may see... alternatives to [url=glossary:kyros]Kyros[/url]' rule. If she turns, her guild will follow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Script Node 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I've encountered the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] already. They set up a toll on Ironhaul Trail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"That hardly surprises me. They're out to make rings and profit from the war, not fight for anyone's freedom. I sincerely doubt you'll find any help there." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"We need to use this time to shore up our strength. If either of the Archons decided to attack us in earnest, we wouldn't last long. So now's the time to scrounge up whatever resources we can muster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You don't need resources. You need allies." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Do you think the [url=glossary:vendrien guard]Vendrien Guard[/url] can mount an offensive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You're a fool if you think you can stand alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Not without a chance to regroup first, but yes, if we can wrest the Well out of [url=glossary:kyros]Kyros[/url]' hands, then other regions might follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>She blinks. "With the other regions of the Tiers beset by [url=glossary:kyros]Kyros[/url]' forces, we've all been spread too thin to help one another. We've long hoped to inspire others to rally to our cause but after a while, I just... assumed that no one was coming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You underestimate our strength and our conviction, I think!" Arri straightens her bearing, but her resolve wavers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] have us outclassed, and the [url=glossary:scarlet chorus]Scarlet Chorus[/url] outnumber us by tens of thousands. Yet we'll have no lasting peace while they infest the Tiers. What do you propose?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"We tried to assemble a unified front at the Gates of Judgment, but our enemies were too strong, as you well remember." Her expression twists with bitterness, though she attempts to hide it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It'll take more provisions and arms than we have now by far. Once we take a year or more to stock up and gather our strength, the [url=glossary:vendrien guard]Vendrien Guard[/url] can march on the fallen territories and begin to reclaim the Tiers."
+
+She regard you with interest. "But something I see in you tells me that you have other plans." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>She sighs. "You make a point, though, and one that I can't in all conscience ignore. The [url=glossary:vendrien guard]Vendrien Guard[/url] are strong, but we're in no position to take on the full strength of [url=glossary:kyros]Kyros[/url]' forces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Unite against [url=glossary:kyros]Kyros[/url]. Bring peace and order on your terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Gather the strength of the fallen regions and use it to destroy the Archons and their armies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"We came to invade, the generals took it for granted that the Tiersmen could never work together. If you want to demoralize the Archons, prove them wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Rally every sword under your banner. Bait the Overlord into attacking a united front."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Your strength and passion might inspire the masses, but they won't win this war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I hear the truth of your words, though the implications don't offer much in the way of comfort."
+
+"We can batter ourselves against the shields and gangs of [url=glossary:kyros]Kyros[/url]' army, but we might only make a glancing blow against their combined training and numbers." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She sighs. "Now that I say it out loud, I can see how we are in over our heads. We've taken back [url=glossary:vendrien's well]Vendrien's Well[/url]. The best thing we can do is hold it, at least for the time being." 
+
+"Of course, that hardly solves the problem of [url=glossary:kyros]Kyros[/url]' invasion." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Under our terms... that is something I haven't heard in a long time. [url=glossary:kyros]Kyros[/url] has dictated every move of this war so far, and it seems impossible that we could reclaim even a corner of our control." She glances around as if for the first time. "Yet look at what we've done here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I like your ambition, but what you're proposing sounds more than a little beyond our scope. I'd be happy if we achieved a position of strength on our home soil."
+
+She frowns in thought. "Though if we did manage to take back the Tiers, it would send a message to anyone listening in the North." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"A coalition, then..." Her face warms with a smile as the idea takes root. "It's madness, but it has potential. We won't know if we never try, right? You've already proven yourself better at organizing us than the Queens and Regents who couldn't defend the Tiers at our full strength." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I see your education in the Court wasn't wasted. You propose we make an example of ourselves? If we could get the regions together and cooperating, there's little we couldn't accomplish."
+
+She mutters to herself in thought.
+
+"You're right... historically, it hasn't been done, but now that folks have seen the price of not taking the threat of [url=glossary:kyros]Kyros[/url] seriously..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Now that is as reckless and bold an idea as I've ever heard. But with you standing at the helm, we might just have a chance. [url=glossary:kyros]Kyros[/url] is going to strike back either way. If we could face the Overlord's army as one..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"But where to start? I can lead the [url=glossary:vendrien guard]Vendrien Guard[/url] from here, but we're in no position to branch out into the rest of the Tiers just yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Leave that to me. [url=glossary:tunon]Tunon[/url] sent me out here to end a siege, but I'll happily end a war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I wonder if the Adjudicator knew what he was asking when he invited you to the front." She shakes her head and smiles. "Either way, I'm glad you're on our side." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'm here for my own reasons, but I'll get the leaders to assemble and sort out their differences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Whatever your motivations, you backed us at the siege, and we'll never forget that. If you'll have us, then it would give me pride to call the [url=glossary:vendrien guard]Vendrien Guard[/url] the first member of your coalition." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"The settlers are caught between a constant battle with [url=glossary:kyros]Kyros[/url]' [url=lore:lc_control]occupying forces[/url] and the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] - a mercenary band who laid claim to the city during the conquest, and wish to take it back."
+
+"The [url=glossary:forge-bound]Forge-Bound[/url] are the real treasure of the Crossing. I'm loath to trust mages, but their iron weapons are second to none, and the reason why the Overlord's armies are so well provisioned." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"The settlers are caught between a constant battle with [url=lore:lc_control]their protectors[/url] - the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] mercenary band - and [url=glossary:kyros]Kyros[/url]' forces, who seek to reclaim their iron production." 
+
+"The [url=glossary:forge-bound]Forge-Bound[/url] are the real treasure of the Crossing. I'm loath to trust mages, but their iron weapons are second to none, and the reason why the Overlord's armies are so well provisioned." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I don't know if you ever heard whispers of this during the conquest, but the [url=glossary:forge-bound]Forge-Bound[/url] aren't exactly pleased with their role in the war. They consider themselves artists, not mere weapon smiths to be farmed into exhaustion. If any mage guild seeks autonomy from [url=glossary:kyros]Kyros[/url], it would be them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"It seems they took their work too seriously, because now they won't surrender the Crossing to [url=glossary:kyros]Kyros[/url]' garrison. They're a strange bunch, caring only for relics and strange traditions. I would watch yourself among their ilk." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Like all armies, they wanted to keep what they conquered. [url=glossary:kyros]Kyros[/url]' forces had other plans. They forced the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] out, but the mercenaries are too stubborn to slink off with their tails between their legs. They've been fighting to retake the Crossing ever since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"As far as the [url=glossary:forge-bound]Forge-Bound[/url] go... use your best judgment. You'd find it easier to shout a Spire down than steer a mage's loyalty. I doubt they'll help the likes of us if they can avoid it. The Guilds have always been [url=lore:magician_folly]pretty comfortable[/url] under [url=glossary:kyros]Kyros[/url]' rule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"We could get the [url=glossary:forge-bound]Forge-Bound[/url] to cooperate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Are we going to gather allies or resources?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"That might be a challenge, as they're under the auspices of the court... though technically so are you." She smiles. "It sounds like anything is possible." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"That's up to you, though I might suggest a bit of both. We need the influence of people across the Tiers, and we need the arms to defend ourselves from whatever reprisal is coming from [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Fatebinder." Barik takes you aside and speaks low. "Must we suffer these fools and play their game of disobedience much longer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Patience, Barik. All of this will serve us in the end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Fall in line, soldier. I won't have you vexing this operation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Whisper] "I'm using these Southerners to serve our interests alone. Won't you play along for a time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Perhaps you are more shrewd than I credited. When this war is over, I'll make sure to tell the Great General how you won your greatest battle through cooperation. The Archon may even learn a thing or two." Barik nods with respect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"As you say, Fatebinder. Far be it for a leader to heed the advice of the rank and file. I've only fought a score of major battles and survived the rigors of the conquest to make it this far, but don't mind me." Barik crosses his arms and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I am less certain that catering to the South can aid Ashe or his mission to subjugate these lands, but I will follow your lead. Just see that you don't forget what's important." Barik nods and gestures for you to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I hope you two are finished with your palaver on the side..." Arri clears her throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"In other words, a gang." Verse nods. "You can win battles with a tightly-knit group, but you need a gang to win a war." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Those most eager to resist [url=glossary:kyros]Kyros[/url] are mostly all dead - killed in the early years of fighting. What's left are the hard-to-kill ninny-shitters like me and Arri, and the folks who are late coming to their senses. A lot of the recent recruits to the [url=glossary:vendrien guard]Vendrien Guard[/url] have been young adults not quite old enough to have made the mustering call when [url=glossary:kyros]Kyros[/url]' forces first came to the Tiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Score one improbable victory and it goes to your head. [url=glossary:vendrien's well]Vendrien's Well[/url] was a confluence of events in our favor. The [url=glossary:edict]Edict[/url], the Archons turning on each other - we stole victory from chaos. Arri, be proud of what we've done so far, but now is the time for cynical planning, not eager suicide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"He does no such thing, little dissident. You're just being stubborn and short-sighted, either of which could get you killed." </DefaultText>
+      <FemaleText>"She does no such thing, little dissident. You're just being stubborn and short-sighted, either of which could get you killed." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"A warlord's advice if I ever heard it. Cold tactics and planning will smother the most ardent enthusiasm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Sure they will, big boy. Because a shield wall can stand against a thousand howling peasants without forming a single breach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"If the wall stands firm and resolute, it can withstand anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"It's possible that an inspired attack can accomplish as much as a calculated one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You just keep telling yourself that, and I'll judge by what I've seen in the field."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"As you say, though it will take more than mere words to convince me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You're going to get these people killed, but I can't help but watch it all play out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"How does that serve what [url=glossary:kyros]Kyros[/url] is trying to accomplish here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"It doesn't, that's the point. I'll thank you not to question me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I'm uniting these disparate forces under one banner, as [url=glossary:kyros]Kyros[/url] intended."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"A stranger interpretation of our directive than any I've heard before... but if these fools will rally behind nothing except a shared enemy, then I trust in your instincts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I see. If you pledge yourself to our enemies, then I will simply take heart and shut my mouth, since that is all you require of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I've been hurling insults at him for years with nothing to show for it, but here you found just the right one. Call me impressed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"We've had an ongoing wager at the School of Ink and Quill as to which would happen first: a decade of peace between the [url=glossary:younger realms]Younger Realms[/url] or Beastmen taking flight. Most put their rings on the latter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I think I see your design here... manipulate both sides into combat to resolve the greater conflict. Reminds me of [url=glossary:vendrien's well]Vendrien's Well[/url] on a grander scale." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Can you actually see anything from under that rusted bucket?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"More clearly than I ever did without it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] fancies himself an artist, too. I venture he confuses war from the canvas twice as often as any [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_culling_dance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Culling Dance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to the Passage of Culling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Inspirit the Elder-Teeth Necklace with arcane energy from the Infused Azurelith Geode.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Slay the Bane in order to continue inpsiriting the Elder-Teeth Necklace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Speaks-for-Soil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>You have agreed to endure the Rite of Culling, a [url=glossary:stonestalker]Stonestalker[/url] ritual for mystics, to impress Speaks-for-Soil, an Elder earth-mystic of the Beastman tribe that inhabits Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Travel to the Passage of Culling to endure the [url=glossary:stonestalkers]Stonestalkers[/url]' Rite of Culling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Draw arcane energy from the Infused Azurelith Geode in the Passage of Culling in order to inspirit the Elder-Teeth Necklace and perform the Rite of Culling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>A surge of Bane, lured by the influx of magical energies, have infested the Passage of Culling. Slay these Bane in order to survive and finish the Rite of Culling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>You've endured the Rite of Culling and successfully inspirited your own Elder-Teeth Necklace. Return to Speaks-for-Soil in Stone Down to inform her of your mystic empowerment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>With the area cleared of Bane, it's once again safe to continue inspiriting the Elder-Teeth Necklace using the arcane energy in the Azurelith Geode.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Finish inspiriting the Elder-Teeth Necklace with telluric arcane energy from the Infused Azurelith Geode.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You survived the Rite of Culling and were successful in driving out the Bane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You can no longer complete the [url=glossary:stonestalkers]Stonestalkers[/url]' Rite of Culling because of your attacks on the [url=glossary:stonestalker]Stonestalker[/url] tribe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

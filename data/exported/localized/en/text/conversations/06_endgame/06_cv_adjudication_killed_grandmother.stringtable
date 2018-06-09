@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_adjudication_killed_grandmother</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"At last, the murderer shows himself before the court." The [url=glossary:disfavored]Disfavored[/url] officer scowls at you with open distaste.</DefaultText>
+      <FemaleText>"At last, the murderer shows herself before the court." The [url=glossary:disfavored]Disfavored[/url] officer scowls at you with open distaste.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Care to explain yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Albetronas here wishes to put you to task for killing her master, the Iron Marshal. You recall this from [url=glossary:vendrien's well]Vendrien's Well[/url], of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I am ready to speak in my defense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Let us begin. Offer your testimony. We would hear your account of what led to the officer's demise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Iron Marshal was overzealous. She was out of control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You know nothing! She was a passionate leader. She looked after us... even when we needed less of a stern hand." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Enthusiasm can be an encumbrance to military strength. The [url=glossary:disfavored]Disfavored[/url] are typically more measured and regimented, but I have seen many an occasion when authority was its own burden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I killed Iron Marshal because she would have done the same to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Would she? I wonder that you know this with such confidence. The [url=glossary:disfavored]Disfavored[/url] are rigid adherents to [url=glossary:kyros]Kyros[/url]' law. They do not compromise themselves without legal sanction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"The war tossed everything into confusion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"As I have heard. Though [url=glossary:kyros]Kyros[/url]' law makes no specific allowances for the disorienting influence of mayhem, the court is sympathetic. Disorder in the field can sway even the most rigid sense of morality." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I am finished with my testimony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"So be it. After weighing the matter, the court finds you innocent of the charges. Normally, I would not accept wartime as a viable defense for your actions. However, I am willing to look beyond the matter. [url=glossary:vendrien's well]Vendrien's Well[/url] had fallen to civil war and chaos in the scramble to resolve [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url]. Loyalties were questioned all around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] will hear of this. Mark my words." Albetronas squeezes her fists together, producing a screech of iron that echoes across the court. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Script Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm busy. Can we address this later?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"There is no task of greater import than this trial and your testimony, Fatebinder. I would thank you to treat these proceedings with deserving respect." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You are an affront to [url=glossary:kyros]Kyros[/url]' military."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Here comes the killer of my countryman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"The charge is murder of a subject protected under [url=glossary:kyros]Kyros[/url]' law. The punishment is death. I hope you can answer for yourself, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'm sorry - do I need to listen to this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I'm afraid you must. Justice cannot be dodged or avoided in these halls, and the court would see you defend yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Continue, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Unless something has challenged that honored reputation." He looks down to scrutinize Albetronas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"However, my servants are taught to be unfaltering in their objectivity. The death of the Iron Marshal is a failing in that respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Enough. I've let you speak enough on this subject. Lieutenants, there is a civil war afoot, and I require an explanation."
+
+[url=glossary:tunon]Tunon[/url] taps the base of his gavel on the ground and the echo begins to build until an almost deafening ring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Trigger Conv Node 29</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

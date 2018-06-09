@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_scarletchoruscamp_lantry_trial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>97</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Sorry to interrupt, but I highly doubt it's gibberish. More likely, it is one of the local scripts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Release this prisoner at once, I'm taking him into my custody."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Not a chance - he's our prisoner! If you think you can crack the information we need out of his skull without troubling the Archon, that's one thing... but you're not walking out of here with our property."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Fine, let's have this trial you want so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Did you hear that brothers and sisters?!" Raising his arms to the sky, the Fifth Eye roars for all nearby to hear. "Trial by combat is upon us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Rhythmic roaring and the stomping of hundreds of feet in unison flood the camp. Hordesmen begin to circle and swirl about, brandishing weapons and cheering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Begin the chant of gathering - let the warriors know that tonight's entertainment will soon commence!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Brothers and sisters! Who amongst you sets the standard for strength? Who amongst you will help winnow the weak from the strong?" 
+
+The Fifth Eye waves his hands in the air, drawing in a gathering of Chorus soldiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Our claimants have been assembled. Now let the trial of the oathbreaker begin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"By the righteous shedding of blood, we have found our answer. Regrettably, it appears the [url=glossary:sage]Sage[/url] is worthy of leaving our camp alive."
+
+The Fifth Eye offers a short, mocking bow to Lantry. "By the customs set forth by [url=glossary:the voices of nerat]the Voices of Nerat[/url]... you are free to go, old man. Brag to your grandkids that you fell afoul of the Chorus yet lived to tell the story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Have you reconsidered? Please don't leave me here for the Chorus' pleasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Script Node 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Script Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Script Node 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Let's deal with Variah, before we let that [url=glossary:sage]Sage[/url] speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Trigger Conv Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Script Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'm [url=glossary:sage]Sage[/url] Lantry - one of the [url=lore:vw_lantry_hiredquill]hired quills[/url] that was coordinating missives between the [url=glossary:vendrien guard]Vendrien Guard[/url] captains. They aren't paying me anymore and aren't coming to my rescue, so I'll decipher that parchment for you. That's what smart prisoners do, right? Make themselves useful?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Does my name count for nothing in the Chorus? I can guarantee his cooperation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Grab him by the mask.] "Did you just tell me... no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"That is a reasonable point. You've been more than fair to the Chorus in the past - certainly a better ally than the [url=glossary:disfavored]Disfavored[/url] have been."
+
+He nods vigorously, waving his hand at the prisoner to signal his release. "It's your lucky day old man - you get to tell the Fatebinder everything you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ngah!" The Chorus warrior emits a whimpering squeal as you grab him by the chin of his mask and pull him close. Gloved hands press against you, but try as he might, his push cannot exceed your pull.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Release the prisoner to me and I won't shame and degrade you in full view of your followers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Very brave of you to insult me to my face. Let's have your little trial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"We need the prisoner alive, this is a terrible idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Fine. But I'll be his champion - this one needs to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Yes yes!" He grunts and stammers as he struggles to wrest free from your grip. Once you release him, he shuffles to regain his composure.
+
+"You two!" Dusting himself off with one hand, he waves to two nearby conscripts with the other. "Release the [url=glossary:sage]Sage[/url]. He's the Fatebinder's problem now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"True, but by [url=glossary:kyros]Kyros[/url]' law, he could swear fealty to me and become my sworn vassal - my property."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"A most clever technicality! And I would happily serve the Archon of Justice's warrior... especially if it means getting out of this mess without a perforated lung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Silence old man! Good luck bowing to the Fatebinder with your head pulled from your neck!"
+
+The Fifth Eye jabs a finger at you. "The Chorus earned this prisoner right and proper. If you wish to rob from me, go ahead... but all will know you are the sort of Fatebinder to take as you please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"When is a trial by combat ever a terrible idea?" The Fifth Eye chuckles a hearty laugh, waving his hand dismissively. "If you are worried for his safety, fight on his side - the more blood shed, the more certain the verdict. You are our guest, the least you could do is honor our ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"He obviously has useful information, yet you're willing to let him die for sport?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Clearly you need an education in [url=glossary:scarlet chorus]Scarlet Chorus[/url] justice. Anything that satisfies their sick amusement is fair play. If the conquest is any judge, there are no limits to their depravity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Did [url=glossary:graven ashe]Graven Ashe[/url] castrate you during recruitment, or do you just not know the meaning of the word 'fun'? I'm actually curious." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>With a shake of his head, the Fifth Eye gives you a shrug. "Is it not obvious? If he is a true enemy of the Overlord, he will perish by our blades. If he can survive then he is strong, and the strong lead, thus his crimes will not be crimes, but simply the actions of the mighty. What's not to understand? This isn't alchemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The voice comes from another prisoner tied up next to Variah - an older gentleman with the quills, ink vials, and parchment scrolls one finds on the Sages of the School of Ink and Quill.
+
+Ink smudges cover his cheeks, temples, and ears. His clothes appear charred, and between the rips of the fabric you spot burn scars along his arms. Despite being emaciated and tied to a post, he offers a beaming smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Show him the parchment.] "Can you read this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Well let me see...I can't... umm... hmmm...Uh huh..."
+
+You hold the parchment in front of the bound [url=glossary:sage]Sage[/url] and his eyes dart down the length of the missive. He reads the words a second time, nodding in silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"So... I don't know exactly what it says but... I'm half certain that's [url=glossary:sage]Sage[/url] Selwin's handwriting. I'm sure I could decipher that in a few hours' time. Don't NEED my hands free, but... I think better when not tied to a post. I know, I'm weird that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"A few hours? Either you can read it or you cannot! What use is a [url=glossary:sage]Sage[/url] that doesn't know his letters! I've heard all I need to hear... I say we have some fun with this one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"He's trying to help. Isn't that worth something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Of course, it's worth a great deal - and for that, I'm willing to give him a trial by combat. If he were being brazenly deceptive, I'd just have him killed... but he's earned his shred of hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] will be upset to know you squandered a source of enemy intelligence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"How true... then we shan't put him to waste, he will serve as a most riveting source of amusement as we put him on trial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Read the parchment for yourself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>You unroll the parchment and see a message of modest length written with professional, albeit hasty, penmanship. The Tiersmen speak the Canto just like the Northerners, but they have a half dozen different ways of writing it - this particular script is unknown to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Thank you, I thought I was going to wind up as another corpse on that pile. Now hand me that parchment, the sooner I can find out what it says, the sooner I can get out of this place!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Then hand him over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"If it's a fight you want..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>A low growl rumbles from underneath his mask as he mulls over your comment.
+
+"Fine. As a gesture of goodwill to an ally, you can have the stupid [url=glossary:sage]Sage[/url]. Now begone - you are sucking the joy out of my camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Your life depends on you translating this scroll NOW."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Another useless prisoner. Dispose of him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I would love to help, I just need some time! That's written in another [url=glossary:sage]Sage[/url]'s shorthand, I'd have to sit down with it or, better yet, compare it to a piece of his writing I have stashed on me somewhere. If I sat down with it while sufficiently sober, it's highly probable I'd figure it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Sober? Since when do we share the good stuff with the prisoners?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Oh nobody shared. Right before I was taken prisoner I imbibed several vials of reagents. I wanted to be numb and disconnected when my captors used me for carnal catharsis. It's made these last few days tied to a post almost enjoyable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Wait! Wait! I beseech you, don't dispose of me just yet. A trial! A fair trial is all I ask!"
+
+The old man's eyes light up as he yells with strained vigor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"It can't hurt to give him a few hours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You read the [url=glossary:edict]Edict[/url], I don't need to tell you the sundial is working against us! This addled old bag is just trying to stall us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Untie him, give him a chance to translate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Are you giving me orders, Binder? Does this look like [url=glossary:tunon]Tunon[/url]'s Court? Last I checked, only the Archon of Secrets can tell me what to do with a prisoner."
+
+The Crimson Spear pounds his staff the ground. "If this old man wants freedom, we shall give him his fair shot at a trial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"A trial?" The Fifth Eye's posture straightens and notes of pleasure ring in his voice. "I was thinking the exact same thing! Never leave to debate what can be settled by strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Fatebinder, I beseech you, be my advocate for this trial. I'm no fool, I know the Chorus uses blood, not words, to settle these matters, but you are a servant of the Archon of Justice, are you not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Good! I like it when [url=glossary:tunon]Tunon[/url]'s puppies get their paws dirty." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>The [url=glossary:sage]Sage[/url] is unbound from the post. Stiff legs nearly buckle as he attempts to walk, and his arms flex and flail in their new freedom.
+
+Wiping sweat and grime from his brow, the [url=glossary:sage]Sage[/url] steps close to you with a nervous smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>The [url=glossary:sage]Sage[/url] is unbound from the post. Stiff legs nearly buckle as he attempts to walk, and his arms flex and flail in their new freedom.
+
+Wiping sweat and grime from his brow, the [url=glossary:sage]Sage[/url] steps close to you with a nervous smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"As a Fatebinder, it is not my place to tell the Chorus how to conduct trials on their own land."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"This trial may be a terrible idea, but if I don't entertain them in their 'court,' they'll have more grizzly recreation in mind. Please, I'll help you translate the message, I'll do whatever you need!"
+
+The old man's eyes fall to the ground as he lets out a long, crestfallen sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"A servant of justice that knows their proper place! Such a rarity amongst [url=glossary:tunon]Tunon[/url]'s law dogs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I wouldn't mind taking a swing at some loud-mouthed Chorus braggarts myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Script Node 120</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Script Node 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Script Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Script Node 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Over my dead body! [url=lore:right_command]You once denied us this right, back during the ill-fated campaign in the Vellum Citadel.[/url] You and the [url=glossary:sage]Sage[/url] aren't leaving this camp until I am entertained!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Did you hear that brothers and sisters?!" Raising his arms to the sky, the Fifth Eye roars for all nearby to hear. "Trial by combat is upon us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"If they got this worked up to fight the enemy, I venture the war would be over by now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"This really isn't my problem - let the old man defend himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"How about this! The Fatebinders are trained in magic, correct? Be my champion, protect me through this trial, and I will teach you all I know of the Healing arts! Think of all you could help with such mystic lore!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"But I can be of service! Please, I don't want to die here!"
+
+The old man looks at you, eyes filled with dread as he tugs at his restraints to no avail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Oh calm down old man. I didn't realize you had such valuable information in your mind. This changes everything." He whistles loudly, gesturing two soldiers toward Lantry. "Take this withered old [url=glossary:sage]Sage[/url] to [url=glossary:the voices of nerat]the Voices of Nerat[/url] - he has much to tell the Archon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"No, please don't abandon me!"
+
+[url=glossary:scarlet chorus]Scarlet Chorus[/url] warriors pull the [url=glossary:sage]Sage[/url] from his post, and grab the old man from either side, lifting him off the ground as they carry him toward [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s tent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Several hours pass, and at last, an attendant emerges from [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s war tent, parchment held in hand. Bowing before the Crimson Spear, the aide hands Fifth Eye the scroll, before backing away slowly, his posture remaining bowed until he is out of sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"The orders have been deciphered, we know that Captain Pelox Florian and his warriors are hiding near Tripnettle Wilderness. We ask that you go there now, and try to take the Captain alive. His men would draw bronze at the first sight of a Chorus gang, but you... you they will not be so quick to attack."
+
+"But should they attack you anyway, Chorus reinforcements will not be far behind, and they will happily join in any bloodshed you initiate. But again... Take. Florian. Alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"The Fifth Eye must authorize all prisoner visits!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Now we see if this old man was worth the effort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[To the old man.] "Are you hurt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"The Chorus has a rather bloody definition of the word trial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"That was fun. Your warriors almost put up a good fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Not in any lasting capacity. I'm uh... jostled but fine. Now... I believe I have a parchment to translate, lest I anger the powers that be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"So a trial should be lies told after the fact? Don't be so cross, Fatebinder, you got what you wanted. When we come begging to you for help in your Court, we'll have the trials your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"It really is bloodletting weather, is it not? My conscripts need to see more warriors of your skill in action - I thank you for the lesson you have given the camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Gracious Fatebinder," the [url=glossary:sage]Sage[/url] holds his hands up, cowering backwards, "I am humbled that you would put yourself at risk for me. I assure you, you have my full obedience and cooperation!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I thought I'd die tied to that post." The [url=glossary:sage]Sage[/url] looks down at his rope-worn wrists in disbelief. "Now hand me that parchment, I'm certain I can decipher it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Hold aloft a severed limb for all to see.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Splendid, splendid!" The Fifth Eye claps his bloody gloves as the crowd roars in approval. "That's the spirit, Fatebinder! Show the dregs justice wrought from strength!" He rubs his hands with a purr audible over the cheer. "If only Nerat had claimed you before [url=glossary:tunon]Tunon[/url] did... alas."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

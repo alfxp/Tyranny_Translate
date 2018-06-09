@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\03_burninglibrary\fq_sc_qst_01_burninglibrary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>O silêncio dos segredos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com o censor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Enter the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Encontre um caminho além da barreira mágica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Encontre mais pedaços de pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Encontre os pedaços de pergaminho restantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Encontre a última peça de pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Use as peças de pergaminho para alcançar o Arquivo silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Encontre uma maneira de remover o Arquivo silencioso da Biblioteca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Volte para Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] has asked you to go to the [url=glossary:burning library]Burning Library[/url] and bring back information contained within the Silent Archive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Head to the [url=glossary:burning library]Burning Library[/url] and speak with the Censor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Youve been allowed access to the [url=glossary:burning library]Burning Library[/url] but you still need to find a way inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Uma barreira mágica impede que você viaje mais nas ruínas. Find a way to dispell it to continue exploring the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você encontrou um fragmento de pergaminho que parece importante. Encontre mais e junte-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você encontrou dois fragmentos de pergaminho. Encontre o resto deles e junte-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você encontrou três pedaços de pergaminho. Parece que você precisa encontrar mais um para completar a página.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você encontrou pedaços de pergaminho suficientes para decifrar uma frase mágica. Depois de ter feito isso, use-o para obter acesso ao Arquivo silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Você encontrou o Arquivo silencioso. Na verdade, é um único pergaminho mágico que contém todo o conhecimento dos Sábios. Find a way to remove it from the Library to end the [url=glossary:edict]Edict[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Você recuperou o Arquivo silencioso. Return to Cacophony and speak with [url=glossary:the voices of nerat]the Voices of Nerat[/url] to let him know of your success.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Fale com os sete dedos sobre aonde você irá em seguida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You retrieved the Silent Archive from the [url=glossary:burning library]Burning Library[/url] and delivered it to Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You went against Nerats will and attacked the Censor alienating you from the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

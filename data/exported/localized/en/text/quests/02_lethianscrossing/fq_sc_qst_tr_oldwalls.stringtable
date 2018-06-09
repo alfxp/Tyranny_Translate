@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_sc_qst_tr_oldwalls</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Finding a Madman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Use the torchkey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Search the Oldwalls for Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Subdue Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Light the four beacons to extend the bridge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kill the Havoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Free Forge Master Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return to Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Raetommon has gone deep into the Oldwalls with [url=glossary:forge-bound]Forge-Bound[/url] Master Zdenya. [url=glossary:the voices of nerat]The Voices of Nerat[/url] wants the [url=glossary:forge-bound]Forge-Bound[/url] Master found and sent to him along with Raetommon if possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>You obtained a torchkey from Flatfoot Ferris. Use it to move further into the Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Raetommon must have left some traces of his passage in the Oldwalls. You'll need to search for him, room by room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nerat wants Raetommon taken alive if possible - otherwise, kill him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Use the correct torchkey on each of the beacons to extend the bridge and escape the Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>The Havoc escaped from its prison, kill it before it can unleash the Bane on [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>With Raetommon taken care of and the Havoc dead, release Forge Master Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Return to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and either give Eldian the Magebane Helm or claim it for your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Return to [url=glossary:the voices of nerat]the Voices of Nerat[/url] in Cacophony and tell him what happened in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Speak to Seven Toes about where you will go next.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You freed the [url=glossary:forge-bound]Forge-Bound[/url] Master and sent her to [url=glossary:the voices of nerat]the Voices of Nerat[/url]. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You went against the wishes of [url=glossary:the voices of nerat]the Voices of Nerat[/url] and killed the [url=glossary:forge-bound]Forge-Bound[/url] Master.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

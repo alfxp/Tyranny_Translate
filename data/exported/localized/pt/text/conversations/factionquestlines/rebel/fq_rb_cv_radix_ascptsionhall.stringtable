@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_radix_ascensionhall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trigger Conv Node 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Eu confio que tomei a decisão certa em seguir você nesta rebelião louca? Independentemente disso, suponho que não haja desvios do caminho que escolhemos agora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>I often wonder what [url=glossary:cairn]Cairn[/url] would think if he could see our guild now.Ele ficaria orgulhoso de que seu legado nos trouxe a isso? Ou ele amaldiçoaria a ruína que ele causou a todos nós?</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

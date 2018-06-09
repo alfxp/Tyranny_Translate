@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_edgeringruins_starting_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bem-vindo ao Ruin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Help the [url=glossary:disfavored]Disfavored[/url] battle the [url=glossary:vendrien guard]Vendrien Guard[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Derrote os rebeldes restantes no acampamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Youve arrived at the outskirts of [url=glossary:vendriens well]Vendriens Well[/url] at the old remains of the Edgering Fort.Just as one of the Crescent Runners was getting you up to speed on the situation the [url=glossary:vendrien guard]Vendrien Guard[/url] attacked.Help [url=glossary:kyros]Kyros[/url] forces fight back the rebel assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The [url=glossary:vendrien guard]Vendrien Guard[/url] broke through the forts defenses and now make their way toward the valley entrance.Siga-os e despache o máximo que puder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>You fought your way through the [url=glossary:vendrien guard]Vendrien Guard[/url] attempting to flee the valley.Derrote as forças inimigas restantes que continuam pressionando o ataque no acampamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Youve helped [url=glossary:kyros]Kyros[/url] forces defend the Edgering Ruins camp from a rebel attack saving Commander Drastus in the process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Youve helped [url=glossary:kyros]Kyros[/url] forces defend the Edgering Ruins camp from a rebel attack but you were unable to save Commander Drastus.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

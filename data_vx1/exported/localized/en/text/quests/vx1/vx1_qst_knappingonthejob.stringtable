@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_knappingonthejob</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Knapping on the Job</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Talk to the [url=glossary:forge-bound]Forge-Bound[/url] in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Talk to the merchant selling [url=glossary:forge-bound]Forge-Bound[/url] items in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Speak with Merchant Basila.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Travel to the village of South Haven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Speak with Cassandra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kill Cassandra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Speak with the residents of South Haven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Steal the Tools.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Return to Jaspos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Return to Jaspos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Take the Tools.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Check out the village center.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Steal the Tools.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Jaspos was not carrying all of his tools with him when he stumbled upon the Bastard's Wound, and as such, his collection of mystically infused tools were left behind at [url=glossary:lethian's crossing]Lethian's Crossing[/url]. He has asked you to find the [url=glossary:forge-bound]Forge-Bound[/url] currently in possession of his old gear and retrieve his prized, mystically-infused tools.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Jaspos left his tools in [url=glossary:lethian's crossing]Lethian's Crossing[/url] when he completed his work on the forge there. Speak with the [url=glossary:forge-bound]Forge-Bound[/url] about where they may be.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Jaspos left his tools in [url=glossary:lethian's crossing]Lethian's Crossing[/url] when he completed his work on the forge there. Speak with the merchant selling the wares the [url=glossary:forge-bound]Forge-Bound[/url] left behind to inquire about their whereabouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Merchant Cyril doesn't know where Jaspos' tools may have gone, but he thinks Merchant Basila may know.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Cassandra, the [url=glossary:forge-bound]Forge-Bound[/url] who has Jaspos' tools, is reported to currently be in the village of South Haven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>The leader of the [url=glossary:forge-bound]Forge-Bound[/url] in South Haven is a Master named Cassandra. Speak with her about Jaspos' tools.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Cassandra refuses to give up her tools, take them from her by force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Cassandra isn't willing to give up her tools knowing they would go to Jaspos. If you don't wish to take them by force, speaking with the residents of South Haven may reveal other options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Under the cover of night sneak into the [url=glossary:forge-bound]Forge-Bound[/url] area of the village and steal the tools from the workshop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>With the tools in hand return to Jaspos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>You decided not to take Cassandra's tools. Inform Jaspos of your decision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>You spotted the tools on the table behind the fire pit. With Cassandra gone you are free to take them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Capteron did not return after agreeing to get the tools from Cassandra and you hear angry villagers in the distance. See what the commotion is all about.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Cassandra is busy with a public execution for attempted theft of [url=glossary:forge-bound]Forge-Bound[/url] property. Her tools are currently unguarded and ripe for the taking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Cassandra is not available during the night hours, talk to someone about a place to stay until morning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Nikodemus isn't going to budge from his spot guarding the stairs to the [url=glossary:forge-bound]Forge-Bound[/url] area. Find a way to distract him so he'll leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] have become concerned by your recent actions. They no longer welcome you in South Haven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You gave Jaspos the remaining tools as he requested.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You gave the tools to Wagstaff instead of Jaspos. Jaspos was not pleased with your decision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You decided not to take the tools from Cassandra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You killed Jaspos and are unable to complete this quest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>You failed to grab the Gravelight Tools from the village before it burned down.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

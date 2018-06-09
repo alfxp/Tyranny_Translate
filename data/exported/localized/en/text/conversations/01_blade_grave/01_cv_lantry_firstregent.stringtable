@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_lantry_firstregent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Lantry gestures to the body on the platform in the middle of the pit. "See the armor on that corpse - that's got to be the First Regent."
+
+Pausing, he gives the remains a second glance. "She certainly picked an inconvenient place to perish - we'll need to raise that platform if we're going to sift through her trappings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He motions towards a crumpled form near the edge. "And that's... sister Javala."
+
+Lantry brandishes his quill with a quiet sigh, tapping it against his writing surface as he ponders the first words to write. "A moment please, she died young trying to prove her worth to the Sages - this must be noted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What is this thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It's an arcane barrier, but what it prohibits and why is unclear. At first I thought it was the home or nest of that amorphous... creature inside. But if this were a sanctuary, why didn't the horror come out and say hello?" Lantry's face turns to puzzlement. "It might just be waiting for us to turn our backs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>He shrugs. "Knowing our luck, this is a prison to keep us safe from it. But if we want to grab that relic, we'll have to get up close to that thing and find out for ourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Are you sure that's the [url=glossary:unbroken]Unbroken[/url] leader?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Until we've disproved the notion of elaborate mirage, I can't say I'm certain... but that corpse is wearing the First Regent's custom panoply - so it's either the First Regent or the thief that robbed her body. For our purposes, the difference is irrelevant - the relic we seek is likely to be amongst that pile of bronze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Let's find a way across."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Very well - we should examine everything here and see if we can decipher how the platform works - specifically, how to raise it."
+
+He gestures to Javala's body again. "Perhaps we should start there. She made it this far, after all..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Judging by the armor, the corpse appears to be one of the fallen Regents of Stalwart. His unconventional final resting place is a platform surrounded by an arcane barrier. It's unclear whether or not this arrangement was intentional.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Script Node 15</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

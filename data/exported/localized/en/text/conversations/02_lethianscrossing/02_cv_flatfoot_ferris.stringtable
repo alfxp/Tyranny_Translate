@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_flatfoot_ferris</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The Brotherhood soldier eyes you with immediate distrust, holding up a hand, indicating you should stop. 
+
+"How in the name of my fallen Brothers did you get in here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What is the Brotherhood doing inside the Oldwalls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave] "I'll be back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ferris smiles. "You're funny, Fatebinder. Raetommon told me you can't be trusted and to keep you from getting through at all costs. So... unless you've suddenly changed loyalties and you're planning on swearing fealty to Raetommon, you're not getting past me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Attack] "I don't have time for all this chatter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Give me that torchkey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He clutches it to his chest, wrapping his fingers tightly around it. 
+
+"No! Why should I give it to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tell me what you want or get gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I need your help to find [url=glossary:forge-bound]Forge-Bound[/url] Master Zdenya."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ferris looks at you like you're crazy. "I don't see how that is any of your business, really... but, I suppose I also don't see how it would hurt to tell you since you're already here..." He shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Attack] "I will swear this: you and Raetommon will both die before I bow to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Lie] "I swear fealty to Raetommon. All I want to do is help him achieve his goals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I need the torchkey to find Raetommon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Give me the torchkey, or not even the Scourges will find your remains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Why didn't you say so earlier?"
+
+He hands you a strange looking object with a sigil on it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Unless you plan on swearing fealty to Raetommon and bend your knee to his leadership, you aren't getting your hands on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Here! T-take it!" Ferris cries, throwing the torchkey at you and cowering away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Lie] "Raetommon probably needs it. If you give it to me, I can make sure he gets it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ferris looks unsure. "I don't know... But, if you want to help Raetommon, I guess I can trust you... And Raetommon might actually need it. I wouldn't want to be the one that prevents his plans..." He holds the torchkey out to you. "Better to play along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Come back for more, huh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I found a young man named Garrick inside this section of the Oldwalls. Let him pass unharmed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"People get lost in the Oldwalls all the time. Why is this one so special that I should let him pass?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Garrick is a [url=glossary:forge-bound]Forge-Bound[/url] Apprentice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Lie] "He's not special. Therefore he's not worth expending any effort, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Attack] "I guess we'll do this the hard way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ferris nods. "Fair point. I don't see the harm in letting him by, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"[url=glossary:forge-bound]Forge-Bound[/url], eh? They're the ones who make those special weapons and arms?"
+
+"Wonder if we could put him to work in our camp..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Think about it this way - he must be pisspoor at everything if he got stuck inside the Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Ferris nods. "Fair point. I don't see the harm in letting him by, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Just let him go so I don't have to murder you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>He blinks. "By the First Brother's sword - you don't need to make an incident out of this! He can go, just leave me alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Myrek gave me the keystone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>A soldier stands here, keeping guard with a group of Brothers. He stands straight when you enter and his eyes widen when he catches sight of Welby.
+
+"What in the name of our fallen Brothers is that traitorous bitch doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Lie] "There are other ways past the doors and I know them all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ferris nods in appreciation. "That's quite impressive. But those tricks won't help you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"So what happened to Myrek if you have the keystone? Why isn't he with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"So...'gave me' might be an overstatement. I killed him and took it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Lie] "Actually, I found him dead in Deserter's March and it was on his body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ferris shrugs. "I guess I shouldn't be surprised. Myrek never was the strongest soldier. Nice enough guy and fiercely loyal, but I'm surprised he lasted as long as he did. Still, that doesn't explain how you got here or why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You motherless whoreson! You'll pay for what you've done!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I convinced Myrek it was the best thing he could do. He knew I was right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ferris' eyes narrow with suspicion. "I find that hard to swallow. Myrek was loyal and would never betray the Brotherhood. If he gave it to you, he either had a very good reason or you tricked him. Either way..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Well, there was an altercation between some of your Brothers and Myrek didn't survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Brothers fighting Brothers." Ferris shakes his head. "We have bigger problems and shouldn't be killing each other! I suppose it's the price we pay... But that doesn't explain why you're here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Watch your mouth, Ferris before it runs too far ahead for you to catch." Ferris makes a chuffing sound and takes a small step forward.
+
+"Hold! I'm not here to fight. Shut up and listen to reason, I beg of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Ferris inhales sharply, but stops moving. He fumes for a second before saying, "Fine. Speak your peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"We don't have time for lengthy debates." Welby steps closer to Ferris. "We have to stop Raetommon before he kills us all. His desperate need to 'win' is going to end in disaster. He is going to unleash the Bane on [url=glossary:lethian's crossing]Lethian's Crossing[/url]. At best, we will lose our home and, at worst, our lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Ferris shakes his head, although he seems unsure in his convictions. "No. I can't believe that he would put our lives in jeopardy. He will lead us to victory if we stay firm behind him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Then why has he abandoned you? He's sacrificing his own men to achieve his goals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I heard him myself. He's planning on killing every one of you. Says your blood is the final ingredient in his magic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Everything Welby said is true. Raetommon needs to be stopped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Oh, I'm convinced." The sarcasm drips from his words "Raetommon does what he needs in order to ensure our safety. If some die in the process, it's the price we pay. Now, if you don't have anything else, I suggest you leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Ferris' mouth opens in shock. "Would he really do that?" He looks around at the rest of the Brothers gathered in the room. None of them seem sure of themselves anymore.
+
+He looks around for a few more moments. "All right. Say I believe you. What now? This is my home and I don't want to leave. And I certainly don't want to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What we do now is find Raetommon and stop him from making a fatal mistake. You've made the right decision, Ferris." Welby voice is filled with relief. "What can you tell us? Where is Raetommon? What is he doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Ferris shrugs. "I have no clue. He told us to stay here and not to let anyone follow him." He looks around, thinking.
+
+"Oh, we found this!" He reaches into a pouch and pulls out a strange-looking crystal. "No clue what it does, but it might help you." He holds it out to you. "Now, I've given you all the help you're going to get. You might be right, but I'm not going to push my luck. So..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ever since Raetommon spent a night inside to prove he was worthy to be the First Brother, he's spent more and more time in here. He said he mapped out the path so he can get through without attracting the Bane. And we've never had a problem as long as we stayed in this room."
+
+"We can hide out and no one knows we're here! You're the first one I've seen in here who wasn't part of the Brotherhood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Stay away from me, you maniac. You have what you need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Lie] "I swear fealty to Raetommon. All I want to do is help him achieve his goals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Why didn't you say so earlier?"
+
+He hands you a torchkey. "Be sure you tell Raetommon that Ferris helped you out. If there is a reward for this, I want in on it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"He told me to stay here and gave me something he calls a torchkey. I have no idea what it is or what it does and Raetommon didn't tell me. He keeps his secrets to himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Let me try. I know I can get him to hand it over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Random Node 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Mind if I do the talking? I think I know what he needs to hear..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I think I know how to get him to give it up," Lantry slides in close with a whisper, "might I have a word with him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"If you think you can get it from him, go ahead and try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[To Ferris] "Give me the torchkey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Sirin hums just loud enough for you to hear. She sways, slowly moving her hands in front of Ferris' face as she does. His eyes quickly go out of focus and his head begins to follow the pattern made by Sirin's hands. She stops swaying and holds out a hand. Ferris stares at it for a few moments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Young man," Eb steps forward with a smile, and plants her staff in ground with a conspicuous thud, "how long can you hold your breath?"
+
+With one hand on her staff, the other begins to trace a pattern in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Son, what you're holding is a piece of history. Now, us Sages are sworn to protect history," Snatching a quill into his hand, he steps forward, inking circles on his palm, "and I'll be happy to leave that trinket in your good care, but I need you to shake my hand and promise you'll care for it and not sell it."
+
+Lantry steps forward, his ink-stained hand extended. "Please say yes, otherwise my friend here will start a fight, things will get messy." The old [url=glossary:sage]Sage[/url] rolls his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Is this what you wanted?" His voice is thick and low, like someone in the middle of a dream. His men look around, concerned, but no one makes a move to stop him as he holds out the torchkey and places it in Sirin's hands. She smiles then looks pointedly at Ferris' men.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"No more, take it!" Ferris throws the torchkey to the ground as he spits and hacks his lungs clear. "Dirty fucking water witch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The two continue to shake hands until at last, Ferris' eye twitches, and the mercenary comes to his sense.
+
+"Oh... uh... what uh... what were we discussing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"That's just a small sample of what I can do. So I suggest we keep this between us? Okay?" There is a hint of the song lingering in the air and the group all slowly nods as one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Ferris shakes his head and looks around. "What's going on? Why are you all staring at me?" His men quickly look away, whispering and laughing amongst themselves. Ferris stares them down, a mixture of anger and confusion playing across his features. "I already told you the torchkey is staying with me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What is this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Leave] "Thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Raetommon called it a torchkey, whatever that means. He also said the torchkeys have names. This one is Amith and Raetommon has one called Emir. I have no clue what any of it means, but apparently Raetommon does..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What happened here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"After we got in here, Raetommon went on ahead. Said he had something he needed to do. We heard this terrible noise and suddenly we were swarmed by scourges. They looked like they were running away from something! It was crazy! I've never seen them act that way before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Some of them attacked us, but most of them just kept going right out the door. Then Raetommon reappeared and the rest of the scourges just up and left! Raetommon was laughing, almost like it was a game! He was saying 'This will show them! This is just a taste!' Then he sealed the doors and told me not to let anyone else through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Yeah?" He nods, smiling an impish grin. "I can certainly promise you that I'll... really take care of this... precious relic?"
+
+Ferris steps forward, grabs Lantry's hand, and gives him a vigorous handshake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The handshake continues...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"How long can I...? Listen, snowflake, I don't have time for your stupid-"
+
+His words come to choking halt as he grips his throat, retching a trickle of water from his nose and mouth. He falls to one knee, steadying himself as gasps for air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Because I'd wager you all my rings for your torchkey that you can't handle more than... two minutes of this? I'm certainly happy to find out for sure."
+
+Eb signs another gesture into the air, halting the drowning spell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Remain silent]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Next time, use your words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Nicely done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Otherwise... my friend here might... something?" Lantry smiles, his head nodding in unison with Ferris.
+
+As the two are locked in a blissful, delirious handshake, you snatch the torchkey from Flatfoot Ferris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Wait a minute... You're the Fatebinder, aren't you? I've heard of you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"You're the one that removed the [url=glossary:edict]Edict[/url] of Storms from Sentinel Stand Keep. At least that's what people are saying." He nods appreciatively.
+
+"Impressive... but you haven't lived until you've spent some time in the Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"You're the one that removed the [url=glossary:edict]Edict[/url] of Stone from the [url=glossary:stone sea]Stone Sea[/url]. People are saying you did, at least." He nods appreciatively. 
+
+"I'll admit I'm impressed. But you haven't really made a name for yourself until you spend time in the Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"People are saying you activated a Spire in the [url=glossary:stone sea]Stone Sea[/url]! If that's true, I will say I am very impressed. That means you've been inside the Oldwalls before. Only people with guts would dare step inside the Oldwalls!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"So... how did you get in here anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

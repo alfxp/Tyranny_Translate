@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_vendrienguard_leader_ascensionhall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You know better than anyone that the [url=glossary:younger realms]Younger Realms[/url] could never cooperate... well, I'm afraid it's much the same with the rebellion. The leaders are divided, and each is so entrenched in what THEY want that they can't hear the enemy pounding down their door."
+
+He worries his brow. 
+
+"In order for us to stand a chance against [url=glossary:kyros]Kyros[/url], we have to unite. It's as simple as that... which is to say, near impossible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Perhaps a meeting to air grievances is in order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"That would be more than appropriate. The [url=glossary:younger realms]Younger Realms[/url] had a similar tradition which took place in this very hall. Holding the meeting here would go a long way toward showing solidarity with the Tiers. It might only be ceremonial gesture, but ceremony is important when your very culture is under attack."
+
+"With that said, it would be up to you to get the rebel factions to meet in the first place. I imagine that convincing at least three of them would be a fine start."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I will send word once I have gathered enough support. Then you may call the meeting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Very well - I will await word of your success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ah, Fatebinder. I trust you received my message, and are ready to call a meeting of the rebel leaders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Good. My messengers will get word out through underground channels that the rebel leaders should assemble here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Well, don't delay too long. If you keep your friends waiting, their confidence in your leadership may wane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Welcome back, Fatebinder. Are you ready to call together the future leaders of the Tiers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"In that case, I'll have my messengers send word to the faction leaders. They should assemble here shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Fatebinder, this meeting is intended to keep the alliance from falling apart. I hope you don't forget that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Fatebinder, are you prepared to face your accuser in a duel?"
+
+He shakes his head. 
+
+"We still bow to the old ways when it comes to conflict resolution. Once this business with [url=glossary:kyros]Kyros[/url] is over, I look forward to finding a better way. In the meantime, we're lucky to have this much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Very well. Just let me remind you that the alliance looks to you for guidance. Without it, the future looks grim and uncertain for the Tiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You fought well, Fatebinder. Though I hate to see our coterie splinter by even a fraction... congratulations."
+
+"Back to important matters. The alliance is ready to support your campaign against the Archons. I think you can appreciate what a huge step this is?"
+
+"When you've spitted the last of [url=glossary:kyros]Kyros[/url]' lap dogs, return here. We'll likely need to have a discussion about the future of this alliance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Have you brought an artifact to represent your authority and solidarity with the Tiers? We'll need an appropriate rallying symbol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He frowns. "You might do well to keep in mind that these groups respond to tradition. Without a rallying symbol, your efforts will be for naught."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

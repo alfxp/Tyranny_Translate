@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_forge_missions_thantos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"[Player Name]." The briefest of smiles crosses his face and is gone as quickly as the light flickers across it. "If what they say is true about the magic of these spires, it will be my distinct honor to work for you among these forges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Thantos stares past you into the heat of the forge with an expressionless face. "I haven't the time nor the appetite for pleasantries, Fatebinder." He crosses his arms, revealing the scars of countless burns. "But if it is true that these spires enhance all matter of magic, I will supply you with the bronze you seek, I assure you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What have you made for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Fatebinder." The man crosses his arms revealing his scorch marked forearms. "These forges burn with an energy I have not seen in sometime." His eyes return to the flames of the forge. "It must be true that these Spires enhance all matters of magic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"The forge is under maintenance. We will resume our work once the maintenance is complete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Let me show you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I don't have anything for you at the moment. Check back later."
+
+[Recruits can generate items for you while you are gaining experience by adventuring in the world.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"How may I be of service, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

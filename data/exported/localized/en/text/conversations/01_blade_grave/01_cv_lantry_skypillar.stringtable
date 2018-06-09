@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_lantry_skypillar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hold a moment." Lantry bellows the comment louder than needed, smiling as he hears his voice echo through the massive chamber. "If my sense of direction is at all reasonable, we are standing below the Spire in this region."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What do you know of the Spires?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What do you recommend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lantry raises an eyebrow. "About as much as you, I'm afraid. Until our time at [url=glossary:vendrien's well]Vendrien's Well[/url], I didn't realize there were ways to access the upper reaches."
+
+"Speaking of which... I'm certain there's a way to access the top of this Spire as well. Let's keep our eyes out for sigils or glyphs nearby."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Lantry points at the pattern on the floor. "I'd start with the grooves and stones on the floor over there. If it's like the Spire at [url=glossary:vendrien's well]Vendrien's Well[/url], whomever built this created a mystical conduit to the top. And I'd think it very, very unlikely that the pattern is purely decorative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Let's press on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>This chamber immediately reminds you of [url=glossary:ascension hall]Ascension Hall[/url]. An intricate rune running along the floor can only mean one thing - you stand at the feet of a great Spire. Each step you take echoes across a great distance. As you gaze upward, the sage-colored walls quickly give way to unending blackness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The rune in the center of the floor is inactive, and the silence of the hall offers no clues as to its use or function. You feel a slight tug in your chest, a faint echo of the energy that enveloped you at [url=glossary:vendrien's well]Vendrien's Well[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

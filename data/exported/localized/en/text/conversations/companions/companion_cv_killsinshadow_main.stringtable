@@ -1,0 +1,2740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_killsinshadow_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>520</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The Beastwoman squats on her haunches, back bowed and face tilted forward as she meticulously grooms between the long, calloused fingers of one paw. A mauve tongue laves blood from her glistening claws. 
+
+She glances up, a jerky, startled movement at your approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kills-in-Shadow watches you, unblinking, black pupils dilating wide across her crimson eyes. She parts her lips as she scents the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The Beastwoman squats on her haunches, back bowed and face tilted forward as she meticulously grooms between the long, calloused fingers of one paw. A mauve tongue laves blood from her glistening claws. 
+
+She glances up, a jerky, startled movement at your approach. But there's no fear in her, only reaction - instinct - only a readiness to strike.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Fatebinder wants Beastwoman?"
+
+The reek of an unwashed, feral animal, bloodied and battle-worn, swathes you like a wet blanket, and you breathe through your mouth to keep from retching. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"If you're going to follow me, I'd like to know more about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"We should strategize how best to deal with our enemies... and our allies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I want your opinion on something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The Beastwoman sits back on her haunches. She scratches under one hairy teat, then the next, snuffling at the air, head bobbing lightly. Her red eyes slide closed with contentment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The Beastwoman rises up in response, lumbering over you, pale scars cut stark against her dark pelt. She inhales a sharp, deep whiff. 
+
+Her upper lip peels back above a row of sharp fangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Is good to ask Beastwoman for advice. Even strong Alpha needs cunning of [url=glossary:bolverk]Bolverk[/url] at side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"How would you assess our progress?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"How would you have us proceed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What do you think of the others in our pack?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Are brazen, callow. Are not as savage-fast-keen as Beastwoman. But are not weak. Fatebinder whelped good, tough pack." 
+
+She bobs as she thinks, gaze darting about, watchful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What're your thoughts on Lantry?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What're your thoughts on Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What're your thoughts on Verse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What're your thoughts on Eb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What're your thoughts on Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What else does Alpha to Kills-in-Shadow long to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Kills-in-Shadow - that's an... interesting name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Don't take this the wrong way, but you seem like a born killer..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"How did you end up with the [url=glossary:stonestalkers]Stonestalkers[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Best hunter is clever hunter. Stalks slow and soft, pad-pad-pad. Silent. Strikes fast-fast-fast. Kills without hesitation." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Did not kill out of mother's womb. All whelps suckle first, learn later. Beastwoman's first-blood was in second season after birth."
+
+Kills-in-Shadow hacks, a clear sign of her amusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Lost tribe. Left Haven-lands. Migrated. East. Was alone long time. Hunted many humans. Kill-kill-killed. Raged. Like undying fire. Then found pack of stone whelps - Caitiffs, outcasts of tribe, who needed Alpha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'd like to know more about your tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Miss seasons before hunger, before death. Before humans hunted tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Where did your tribe range?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Your tribe perished?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Tell me more about your tribe's history."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Why was your tribe named the Shadowhunters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>She snorts and glances off to one side, red eyes distant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Were hunted. Slain by [url=glossary:disfavored]Disfavored[/url]. Like dark dream Kills-in-Shadow could not wake from. Was much howling-gnashing-blood - most from humans, some from kith." 
+
+The Beastwoman crouches low, refusing to look at you. She grinds her claws into dirt, scarring her pain into the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You must hate the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] prove their might once again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I'm sorry for your loss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Scorpions sting. Vipers bite. Beastwomen do not fault predators. Kills-in-Shadow does not hate [url=glossary:disfavored]Disfavored[/url]. But will slaughter, rip-rend. Will kill extinct." 
+
+She sniffs at you, eyes dark with challenge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The Beastwoman's eyes darken with a sudden and intense bloodlust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Regret does not put meat in belly. Does not cut danger from territory or make warm den. Only weak creatures snivel and whimper from loss." Eyes darker than drying blood cut through you as she snarls, thick fangs bared in warning. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Nope-nope." Kills-in-Shadow scratches a hip, claws raking a rough patch of scar-tissue bisecting the jut of the bone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Some tribes grew strong from earth, sky, or ocean -- Shadowhunter tribe thrived in darkness. Was born from darkness. Hunted in darkness, bred and died in darkness." 
+
+The Beastwoman flexes and curls her claws in the air, the pitch blackness of them suddenly striking - a stark reminder of their power, their ability to kill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The Beastwoman settles you with a disparaging look and proceeds to pick lice from her mane, as if trifled by the question. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I want to talk about [url=glossary:kyros]Kyros[/url] and the Archons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"On stealing territory of Beastwomen lands - lands humans call realms of Tiersmen? Know Fatebinder claimed territory of [url=glossary:vendrien's well]Vendrien's Well[/url]. Is good for pack. Good for [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Should Kills-in-Shadow care outside of that?"
+
+She crouches down and scratches the lower curve of her back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Fatebinder did good in Stone-lands. Grew tough as jutting rocks at Jagged Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Alpha smells stronger after braving wind's cutting-claws in Blade Grade. Confronted [url=glossary:edict]Edict[/url] of [url=glossary:kyros]Kyros[/url]. Made people fear Fatebinder." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Alpha protected [url=glossary:cairn]Cairn[/url] for [url=glossary:stonestalker]Stonestalker[/url] tribe. Would have been fun to kill Archon, but is better for Beastwomen if alive. Tribe will be stronger. Alpha made good choice for Beastwomen. Kills-in-Shadow will not forget."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] did not want [url=glossary:cairn]Cairn[/url] dead. Archon of Stone made mystics and whole tribe stronger. But Kills-in-Shadow likes that pack Alpha killed Archon. Kills-in-Shadow follows strong Alpha. Archon-killer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Fatebinder claimed horizon-rock called Mountain Spire at [url=glossary:vendrien's well]Vendrien's Well[/url]. Should claim more. Take power as own. Become stronger and stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] rules own tribe and crushes threats to territory with attacks called Edicts. Fatebinder should learn same mystic strength. Even Archons cannot win against Edicts, yep? Are best attack. Will use to kill-kill-kill, survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Old. Many seasons. Should be weaker. Beastwoman does not like smell - reeks of coal-ink and lies. Is mystic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Beastwoman does not like [url=glossary:disfavored]Disfavored[/url]. But Kills-in-Shadow likes Barik. Will not kill human yet. Want to hunt good and long. Make bleed-scream-writhe. Mangle before kill." 
+
+Her eyes gleam darkly, and she puffs out a longing breath, mauve tongue slick from salivation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Good hunter. Reeks of blood-dirt-death. Is savage-swift like Beastwoman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Is strong. Breathes in gusts like ocean gale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Incessant morning lark. Ceaseless chitterer." The Beastwoman chuffs and rubs at her ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Fatebinder has many allies. More enemies. Which do Fatebinder and Kills-in-Shadow hunt today?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Let's discuss those in the Tiers who seek to defy [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Humans of these lands - of Beastwomen lands. Humans called Tiersmen who struggle-twist-fight against Fatebinder's tribe." 
+
+Kills-in-Shadow growls a soft noise of contemplation. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Many humans live in Beastwomen lands. Kills-in-Shadow knows Tiersman packs well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Humans of Beastwomen lands, humans called Tiersmen, are many, roiling maggots that infest, ruin good meat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Fatebinder's tribe. Know packs well."
+
+She huffs and snorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Fatebinder's old tribe. Packs turned prey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"What do you know of the [url=glossary:disfavored]Disfavored[/url] and [url=glossary:graven ashe]Graven Ashe[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"What do you know of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and [url=glossary:the voices of nerat]the Voices of Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"What do you know of [url=glossary:tunon]Tunon[/url] and his Court of Fatebinders?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Know Chorus and [url=glossary:disfavored]Disfavored[/url] fear Fatebinders more than Chorus and [url=glossary:disfavored]Disfavored[/url] fear each other." She bares her fangs, darkly pleased. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Pack wails, bleeds from relentless infighting - even Bolverks cannot wrestle whelps into control. Strong are few and feud each other. Rest are many-weak-chaff. But Archon does not cull pack. Makes aberrant. Dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] hunt, enslave Beastwomen. Only predators to rival tribes. Dislike. Admire. Envy skill. Want to stalk. Then want to kill, slowly. Make scream."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Do you know anything about the magical guilds in the Tiers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She grunts. "Maybe Fatebinder understands ways of human mystics better. Maybe not. Ask and discover."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Are strongest and smartest of Beastwomen - of all creatures, even Archons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"What do you know of the [url=glossary:vendrien guard]Vendrien Guard[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"What do you know of the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"What do you know of the [url=glossary:unbroken]Unbroken[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What're your thoughts on the [url=glossary:stonestalkers]Stonestalkers[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"What do you know of the Sages?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"What do you know of the [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What do you know of the Earthshakers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Tell me about the magic of the Beastmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"And would you happen to be one of these powerful Beastwomen mystics?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Which tribe has the strongest mystics?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"More powerful than Archons? Forgive me if I find that hard to believe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Broodmother was mystic. Kills-in-Shadow can hear song of shadows, can smell power in darkness, yep-yep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Shadowhunters. Had best mystics. Could seep into shadows. Could control darkness. Could suffocate, kill."
+
+The Beastwoman settles her blood-red eyes on you. It's a heavy gaze, full of pride. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Fatebinder thinks Beastwoman mystic cannot be called Archon? All Beastwomen tribes know legend, know life of Thunder-Mane. Slaughtered endless humans. Struck five Archons dead before was slain by [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"But are Tiersmen. Smell more of Stone-lands. More of earth-blood than [url=glossary:disfavored]Disfavored[/url], yep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Have you had past dealings with the Earthshakers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Earth-blood. Do I even want to ask?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Do you share arcane teachings?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"[url=glossary:stonestalker]Stonestalker[/url] cubs learn to lap same earth-blood that Earthshakers do, but Beastwomen methods are different. Both hunt with same mystic-claws, but slashing technique varies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Beneath dry soil, wet earth-blood beats. Thrums. Fatebinder's ears cannot hear surging blood song?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"If by 'dealings' Fatebinder means hunts and killings, then yep. Earthshakers crushed Shardnip tribe in south stone-lands. So Kills-in-Shadow slaughtered pack of Earthshakers in north near Howling Rock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"[url=glossary:forge-bound]Forge-Bound[/url] are builders, not fighters. Are like slaves to own human pack. Work-work-work without rest. Are weak and submissive, but can mold hard, gray ore like pressing paw prints into mud." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"What do you mean they're like slaves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"What gray ore?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Why would you call them weak?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Strange pack. Dispersed. [url=glossary:sage]Sage[/url] humans know each other, but prefer lone wolf travel. Are clever, harder to hunt. Smell of coal-ink and rotted trees. Leave Beastwomen alone most times, so Kills-in-Shadow likes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Know pack was defeated by [url=glossary:kyros]Kyros[/url]' tribe. Know pack struggled and survived. Not many packs can stand again when death-wounded. Makes Beastwoman's blood rush hot-fast with pride."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Lying kith. Are not broodbrothers. Use bronze killing-claws. Smell of tanned hide, blood, piss, and firewater. Fight like black-striped jackals. Laughing, nimble, reckless. Fight for trinkets, not survival."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Strongest humans in Beastwomen lands. Earth-blood must pump hot-fast through veins. Are tenacious, undefeated. Stand tough as mountains even against [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] breed like rodents. Swarm, consume lands. Have no pride. Rut weak mates. Whelp weak cubs and starve. Enslaved own tribe to humans to survive. Now range far from Azure-lands but still do not flourish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Do not like [url=glossary:disfavored]Disfavored[/url]. But iron-clads are strongest of humans. Return from throes of death. Fatebinder should help [url=glossary:disfavored]Disfavored[/url] death-defeaters. Should always side with pack that will win."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Should help [url=glossary:scarlet chorus]Scarlet Chorus[/url] pack. Do not like pack, but are biggest, wild, strong. Has smart, vicious Alpha. Will be good weapon - sharpest killing-claws - for slaying [url=glossary:kyros]Kyros[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Fatebinder and Kills-in-Shadow will help humans in Beastwomen lands, humans called Tiersmen. Will use to fight [url=glossary:kyros]Kyros[/url]' tribe. Is what Fatebinder who smells of Alpha wants to do, yep?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"You'll hold back if I tell you to. The [url=glossary:disfavored]Disfavored[/url] are a better alternative than the Chorus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You're right. The [url=glossary:disfavored]Disfavored[/url] are strong and merely a means to an end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] hold true to [url=glossary:kyros]Kyros[/url]' will - they alone embody the Overlord's strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Better for humans, for Fatebinder maybe. Not better for Beastwomen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Fatebinder and Kills-in-Shadow will use [url=glossary:disfavored]Disfavored[/url] until [url=glossary:disfavored]Disfavored[/url] cannot rise from death throes again. Until every last one is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] hunts Beastwomen, kills tribes extinct. Is threat to survival. [url=glossary:disfavored]Disfavored[/url] also hunt Beastwomen. Kills-in-Shadow will not submit as slave, will not die. Will kill-fight-slaughter [url=glossary:disfavored]Disfavored[/url] first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Agreed. The Chorus is clearly the winning side. And I only side with winners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Yes, the Chorus will serve as our tool. Nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Watch it, Beast. I prefer the Chorus to the [url=glossary:disfavored]Disfavored[/url], but I'm still loyal to [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Beastwoman, too. Alpha to Kills-in-Shadow is strong. Makes best choices to survive, kill, win. Is what Beastwoman likes about Alpha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] hunts Beastwomen, kills tribes extinct. Is threat to survival. Alpha thinks [url=glossary:kyros]Kyros[/url] will accept Kills-in-Shadow if part of [url=glossary:scarlet chorus]Scarlet Chorus[/url] pack? Or does Alpha not care if Beastwoman dies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Kills-in-Shadow has good Alpha. Is strong, smart hunter. Makes best choices to survive, kill, win. Will use [url=glossary:scarlet chorus]Scarlet Chorus[/url] pack then slaughter after."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Agreed. They're the lesser of the evils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"They're but a means to overthrow [url=glossary:kyros]Kyros[/url]. Nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"You're right. I want to help them. To struggle for freedom is a noble cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Struggle to survive is way of life in Beastwomen-lands. Does not make humans special. If Tiersmen struggle harder, is because of own weakness." The Beastwoman sneers, showing you a rough, purpled tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"These weak humans are currently surviving better than the Beastmen tribes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"That may be, but I've decided we're going to help them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Box her right ear.] "Do not backtalk me, Beast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"We'll let them struggle and die in our place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Have not been hunted like Beastwomen. Have not fought same way for lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Kills-in-Shadow scratches a cheek, considering your command.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Kills-in-Shadow understands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Beastwoman likes this hunting plan. Is good. Smart plan. Let humans die so Fatebinder and Kills-in-Shadow can win."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Good. Can slaughter humans that infect Beastwomen lands after threat of [url=glossary:kyros]Kyros[/url] is gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Lesser. Weaker. Usually, is foolish to side with weaker tribe. Will need good plan for hunting [url=glossary:kyros]Kyros[/url]' tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Kill everyone. Become strongest. Is easiest, best path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"[url=glossary:scarlet chorus]Scarlet Chorus[/url] and [url=glossary:disfavored]Disfavored[/url] packs already loathe and fear Fatebinder. Is good. Fatebinder and Kills-in-Shadow will make prey whine, beg for mercy. Will slaughter. Will fill rivers with blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Fear is best weapon for Alphas, gives power over others. [url=glossary:kyros]Kyros[/url] understands. To be [url=glossary:prima]Prima[/url], must shed much blood. Must teach pack to obey at any cost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Told Fatebinder. Was hunted. Was slain by [url=glossary:disfavored]Disfavored[/url]." The Beastwoman glowers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"[url=glossary:forge-bound]Forge-Bound[/url] make better-than-iron killing-claws and hard pelts all day for kith not of their pack. Why give to others if have choice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Rock. Ore. Heart and skin of Terratus. Smells like iron but is different. [url=glossary:forge-bound]Forge-Bound[/url] mold gray ore to give tribes teeth and claws. Carve better, slice deeper than ones of iron and bronze."
+
+The Beastwoman snorts and sneezes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Strong mystics, Beastwomen mystics, use earth-blood power to hunt-kill-eat prey - not to be leashed by others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"That's all I needed to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Let's speak of other matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I wish to speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Let's speak of other matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Let's talk of other matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I've heard all I need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Kills-in-Shadow flicks an ear at your approach. She continues grooming her pelt, long, gray fingers brushing through the coarse hair, picking at mange and mats, mud and blood. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Fatebinder wants you to bathe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Am bathing. Right now." Her red eyes brighten with amusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Fatebinder thought Kills-in-Shadow was [url=glossary:prima]Prima[/url]? Could have been. Was stronger. Could have taken by blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"You were [url=glossary:bolverk]Bolverk[/url] of your tribe? But you're strong enough to be a [url=glossary:prima]Prima[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Tell me more about the Beastmen tribes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"What does Fatebinder desire to know - regarding Beastwomen tribes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Any there any other tribes in the Tiers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Have heard are other tribes, north."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Fatebinder walks, rubbing shoulder against shoulder with [url=glossary:disfavored]Disfavored[/url]. Aligns with strongest predator. Kills-in-Shadow understands. But Beastwoman will not be enslaved. Will kill Fatebinder first."
+
+Cold, red eyes cut through you - promising a painful, drawn-out death should you betray her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Beastwoman thinks Fatebinder likes tumult of [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Beastwoman may not want to join, but understands draw of largest, wildest pack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Which would Fatebinder have Kills-in-Shadow stalk for slaughter first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] hunted tribe for slaves. But Shadowhunters are not slaves, not weak, not prey. Would not be tamed, would not yield. Fought to death. Tribe was strong. Best tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Bank Node 163</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"On stealing territory of Beastwomen lands - lands humans call realms of Tiersmen? Know Fatebinder claimed territory of [url=glossary:vendrien's well]Vendrien's Well[/url]. Is good for pack. Good for [url=glossary:disfavored]Disfavored[/url]. Should Kills-in-Shadow care outside of that?"
+
+She crouches down and scratches the lower curve of her back. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"On stealing territory of Beastwomen lands - lands humans call realms of Tiersmen? Know Fatebinder claimed territory of [url=glossary:vendrien's well]Vendrien's Well[/url]. Is good for pack. Good for Tiersmen. Should Kills-in-Shadow care outside of that?"
+
+She crouches down and scratches the lower curve of her back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"On stealing territory of Beastwomen lands - lands humans call realms of Tiersmen? Know Fatebinder claimed territory of [url=glossary:vendrien's well]Vendrien's Well[/url] for self. Is good for pack. Should Kills-in-Shadow care outside of that?"
+
+She crouches down and scratches the lower curve of her back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Know pack was defeated by [url=glossary:kyros]Kyros[/url]' tribe. Was small, easily hunted first time. Struggled - fought back to paws and knees. But could not have won second time. Was like hare challenging wolf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Your mystics lock themselves in caves? Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Are free. Can roam, can hunt, but don't. Exist to make pack stronger, sometimes lead. Teach, protect. Many seasons carve knowledge into cave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Where is this cave of the Shadowhunter mystics, exactly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Do [url=glossary:stonestalkers]Stonestalkers[/url] also carve magical knowledge into cave walls for anyone to stumble across?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Would not tell Fatebinder. Humans cannot read marks, either way. Not even Sages." She snorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Not that Kills-in-Shadow has seen. [url=glossary:stonestalkers]Stonestalkers[/url] do not carve marks with claws - have no understanding of things that... remain past death. [url=glossary:stonestalker]Stonestalker[/url] knowledge exists only as passed through living members of tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"I had a feeling you might say that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Fatebinder often has feelings for Beastwomen? Cannot resist lure of best predator, yep-yep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Uh-huh. But now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Kills-in-Shadow scratches behind one ear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Or maybe northern tribe who raised Fatebinder has strongest mystics now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Sadly, no. My tribe was killed by humans, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[Lie] "Yeah, it does. And if you don't do as I want, they'll come down here and suck the marrow from your bones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Maybe Fatebinder kills more-than-five for each slain tribe-mate, like Beastwoman, too? Kills-in-Shadow will help, will spill blood of humans who hurt Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Kills-in-Shadow is loyal [url=glossary:bolverk]Bolverk[/url]. And does not like threats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Human shadow mystic - Archon of darkness is dead? Kills-in-Shadow thinks this cannot be true. Shadows are strongest. Shadows lie. Distort sun and sight with darkness. Win with deceit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Bank Node 185</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Blood of Archon called [url=glossary:tunon]Tunon[/url] stains Fatebinder's hands. Kills-in-Shadow wants to lick blood, wants to judge power of dead Archon." Her lips curl back in a wild, demanding grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Alpha to Kills-in-Shadow slayed [url=glossary:disfavored]Disfavored[/url] called [url=glossary:graven ashe]Graven Ashe[/url]. Was best death. But Beastwoman would have liked to rend muscle from bone, rip-torn skin, mauled and mangled - more. Not much. Just some more." 
+
+The Beastwoman sighs, languishing at the thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Beastwoman is happy. Likes when Fatebinder wins. Likes that Fatebinder slaughtered Alpha of [url=glossary:scarlet chorus]Scarlet Chorus[/url] without mercy. Was vicious, cunning - Archon with many voices. Was Alpha of biggest pack. Means Alpha of Kills-in-Shadow is bigger, better. Strongest. Will always win." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Little chitter bird has pledged to Alpha of Kills-in-Shadow. Is good for chitter bird's chance of survival. But bad for Beastwoman's ears." She rubs the ridge of a pointed ear, eyes lost in thought. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>The dark-furred Beastwoman snuffs and quivers, panting lightly at your approach. She hunches low, long, gangly fingers caressing the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>The Beastwoman rises on her haunches at your approach, alert. She greets you with scenting, flared nostrils and wide, red eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>The Beastwoman scents you before she sees you, flinching well before her wary, red eyes settle on your face. She both desires and fears your power, and the emotions war, evident in her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>The Beastwoman rises on her haunches at your approach, alert. She greets you with scenting, flared nostrils and wide, red eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>The dark-furred Beastwoman snuffs and quivers, panting lightly at your approach. She hunches low, long, gangly fingers caressing the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Kills-in-Shadow watches you, unblinking, black pupils dilating wide across her crimson eyes. She parts her lips as she scents the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>The Beastwoman scents you before she sees you, flinching well before her wary, red eyes settle on your face. She both desires and fears your power, and the emotions war, evident in her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Fatebinder and Kills-in-Shadow will help humans in Beastwomen lands, humans called Tiersmen. Will use to fight [url=glossary:kyros]Kyros[/url]' tribe. Is what Fatebinder who smells of Alpha wants to do, yep?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Have not been hunted like Beastwomen. Fatebinder knows this. Hurt Kills-in-Shadow's old pack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>The Beastwoman snarls and snaps, rising up to attack, but at the look in your eyes, she flinches away, thinking better of it. She settles, guarded and cross.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Do not like [url=glossary:disfavored]Disfavored[/url]. But iron-clads are strongest of humans. Return from throes of death. Fatebinder should help [url=glossary:disfavored]Disfavored[/url] death-defeaters. Should always side with pack that will win."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Should help [url=glossary:scarlet chorus]Scarlet Chorus[/url] pack. Do not like pack, but are biggest, wild, strong. Has smart, vicious Alpha. Will be good weapon - sharpest killing-claws - for slaying [url=glossary:kyros]Kyros[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Don't simply drag your fetid tongue over another matted patch of fur. Stand under a waterfall or kneel in a stream. The crying statue in Edgering Ruins comes to mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Is washing with waterfall how packmate became trapped in iron? Did not think to shed iron shell first?" She runs her tongue over her fangs and rumbles a satisfied purr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Could your tribe have been that different? I've run afoul of many a Beastman in my day, and I find nothing that distinguishes their savage numbers." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Stay and see. Will think Kills-in-Shadow memorable when insides are being ripped slow-slow-dripping from iron-clad shell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"That makes two of us from Haven, though I doubt you're familiar with my old stomping ground - Ardent. It's a filthy, noisy city, doesn't seem your style."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Is true. Loped far from human dens before tribe was hunted by [url=glossary:kyros]Kyros[/url]. Do not like smell of urine-sweat-death and rot."
+
+She shrugs her hulking shoulders, digging at her fangs with one claw in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"If you truly think you could hunt our ten thousand to extinction, it would please even me to watch you try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"The tribes show a lot of physical diversity - I've heard of coastal Beasts with gills, boreal Beasts with impossibly long climbing arms - they can be a varied bunch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"The creature makes a compelling point, though I wonder if she understands all of the variables at play." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"May hunger for, but will not eat Kills-in-Shadow. Am not afraid of many-voiced Archon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Your whole pack could run off a cliff for all I care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] are like carousing idiots furiously outdoing each other in feats of drunken strength. That doesn't make them capable allies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] may lack the rough, sadistic attitude of the Chorus, but under their veneer of honor is a raging hatred for the Tiersmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Typical Beast. You'd rather have someone enslave you and use you as grist under the wheel than do some work. Maybe you deserve the Chorus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Bank Node 219</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Your sense of allegiance leaves something to be desired, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"This beast is clearly intelligent, but it's still a wild animal, not something you can truly control or predict. Do you want to be looking over your shoulder this whole time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"This is fascinating. Are you having a hard time keeping your animals under control, Fatebinder? Would you like a true Archon to show you how it's done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Think you can do better? Be my guest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Back off, Sirin. The Beastwoman answers only to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Sirin smiles and turns to Kill-in-Shadow, locking eyes with her. She sings a wordless song, stepping closer to the Beastwoman. She lifts her hands and brings them to the sides of Kills-in-Shadow's face. As she sings the final note of her song, she slowly lowers her hands, and Kills-in-Shadow's head follows. Sirin turns back to you, and points to the now-calm Beastwoman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Kills-in-Shadow pants placidly, red eyes dulled and distant as she stares affectionately at the Archon of Song. She shuffles forward on hands and feet, and without warning, headbutts the girl in her breast. The impact is hard enough that the teenager stumbles a step backward before the Beastwoman wraps her arms around her tiny waist. Kills-in-Shadow rubs her face against Sirin's neck, rumbling a deep, slow purr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"I didn't think so. Can't have a little girl showing better leadership skills than the Fatebinder, can we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"I have no leg to argue here, I'm always the once advocating the role of passive observer. Still, we COULD lift a finger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Proper strategy sometimes means sacrifice some lives to save others, but this seems less a matter of cunning, more... negligence? cowardice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Bank Node 230</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Well I understand smelling like ink, but what does a lie even smell like? And here I am thinking I've been too honest for my own good lately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"First time I've been called a broodmother, though it's not wholly inaccurate - twins count as a brood of two, right? Well I'm mostly certain you mean that as a compliment, so thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"If you think my voice is annoying now, animal, I could sing you a song you'll never stop hearing. Or just sing the last song you'll ever hear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Nope-nope. Do not want to hear."
+
+She grins and pants happily, tongue lolling from between her fangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"That's a higher compliment to the Beast than to me, but I appreciate the thought." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"This is the first time since Stalwart that I've felt... vulnerable. I don't fear swords or spears, but this Beast is something different." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"This beast is clearly intelligent, but it's still a wild animal, not something you can truly control or predict. Do you want to be looking over your shoulder this whole time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Bringing creatures into the military fold invites chaos. It can never end well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Cascade Node 239</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"You are correct to assume we are the more elite, but do not expend yourself trying to destroy us. We are the arm of the Northern Empire, and you would only bring annihilation upon your race." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Nerat is the cause of the rot in the Chorus. That monster is part of it, not outside it. Nerat encourages the chaos and revels in the destruction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] is many things, and more than one woman has called that creature desirable. Ask yourself where any of them have gone." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Bank Node 244</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Cute way of putting it, though I think [url=glossary:kyros]Kyros[/url] technically has two tribes that like to knock us around time and time again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Do not get taken in by the [url=glossary:unbroken]Unbroken[/url] reputation. The people of Stalwart are fond of rewriting history in favor a version that fits their sensibilities. Imagine that many people rallying around an idea, a story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Mountain Echo? Bounding Viper? Tuhav tribe? I know a little of the Beastmen tribes that roam in the north, but I know those were the largest as of a few decades ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"What tribes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"That's right, my tribe was from the north, not the Tiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Doubtful it's a synonym for lava or anything to do with blood. I imagine she's referring to the motion of earth magics - the mystical effect that's causing the tremors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"I'm certain this earthblood is more an arcane or abstract notion, not actual blood in the soil. Her senses are attuned to something we're not seeing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Bank Node 252</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"To my knowledge, yes! One our Sages wrote many pieces on a Beastwoman mystic believed to have an Archon's potential. But I remember only a few details, like I know she was killed earlier in her prime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Is this true, Lantry?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>She pants contentedly, cold saliva dripping off the length of her rough tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Beastwoman, too, sees many things." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>She scratches the hairy, taut plain of her stomach and snorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>She nods and gruffly grunts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>She yawns, mauve tongue curling between her wide-gaping jaws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>She scratches the hairy, taut plain of her stomach and snorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>She pants contentedly, cold saliva dripping off the length of her rough tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>She yawns, mauve tongue curling between her wide-gaping jaws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Beastwoman, too, sees many things." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Beastwoman, too, sees many things." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>She scratches a hairy teat and bares her blade-sharp fangs at you in a self-pleased grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"What now does Fatebinder wish to yip about?"
+
+With a sharp-tipped claw, she picks a bug from between her teeth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"I'd like to know more about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Best way is with bloodshed, yep?"
+
+She grins wide, tongue lolling across her gleaming, blade-sharp teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Kills-in-Shadow puffs her hairy, naked teats out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Best tribes. Tribes that grew from lands." Kills-in-Shadow scratches a calloused, gangly hand under her matted mane. She snorts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Kills-in-Shadow does not understand human behavior toward mystics. Tribes should value, protect mystics. Not treat like outcasts, Caitiffs - forced into separate packs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Beastwomen mystics are rare, honored, powerful. Can hear and scent lifeblood in earth, air, sea, and shadows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Earthshakers draw power from earth-blood like [url=glossary:stonestalker]Stonestalker[/url] mystics, like Beastwomen. Are [url=glossary:cairn]Cairn[/url]'s pack, yep? Are strong. Are [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"So there are still some Beastmen living in the [url=glossary:stone sea]Stone Sea[/url]... I'd heard your kind was nearly extinct."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>She snorts. "[url=glossary:stonestalkers]Stonestalkers[/url] are weak. Starve. Die to humans. Kills-in-Shadow is fast-fast-strong. Best hunter. Protects pack."
+
+She sets her shoulders and puffs out her chest, daring you to contradict her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Not all humans are out to kill Beastmen, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Protect the [url=glossary:stonestalkers]Stonestalkers[/url]? And how'd that work out for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Maybe Fatebinder who smells of Alpha, iron, and death will help Kills-in-Shadow's old pack. Maybe can save Left-Claw. Maybe Beastwoman will not slaughter Fatebinder today."
+
+She flicks an ear, blood-red eyes narrowing in response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Normally, I'd say don't push your luck, but continue on. I'm listening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Left-Claw, pack runt, was hunted. Caught by humans. Is chained in burrow called Plainsgate. Help. Free Beastman. Or humans will drape pack runt's skin by fireside like prize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Look, I'll try, but it'll be difficult if the settlers are out for blood. I'll speak to them and see what options we have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>A massive, calloused palm cups the back of your neck as the Beastwoman drags you forward. Her sweaty forehead presses to your own, and her pungent breath assaults your nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"How about a 'please' first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Beastwomen do not mewl to humans." 
+
+A low growl rips from Kills-in-Shadow's throat. Her lips pull back, baring yellowed fangs, and her voice rumbles viciously as she speaks next.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>[Press a blade to the Beastwoman's throat.] "I'll help if I feel like it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>[Lie] "Fine. I'll help the Beastman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"You're not a [url=glossary:stonestalker]Stonestalker[/url], right? So why were you leading a pack of Beastmen from that tribe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Is true. Am Shadowhunter from Haven-lands. But am last of tribe."
+
+She dips her head in thought, long tongue laving dried blood from her bottom lip. She worries the lip between her fangs and bright, fresh blood beads anew.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Is that so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"If you're not a [url=glossary:stonestalker]Stonestalker[/url] why were you leading a pack of Beastmen from that tribe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Is true. Am Shadowhunter from Haven-lands. But am last of tribe."
+
+She dips her head in thought, long tongue laving dried blood from her bottom lip. She worries the lip between her fangs and bright, fresh blood beads anew.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Happy that I rescued Left-Claw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Yep-yep. Fatebinder is good Alpha to Kills-in-Shadow. Listens to Beastwoman's demands like all males should. Must like Beastwoman to fight for former pack-whelp."
+
+She chuffs and shakes her head.</DefaultText>
+      <FemaleText>"Yep-yep. Fatebinder is good Alpha to Kills-in-Shadow. Listens to Beastwoman's demands. Must like Beastwoman to fight for former pack-whelp."
+
+She chuffs and shakes her head. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>She pants and scratches the back of her mane, hunching forward, closer to you, her breath puffing hot against your neck. Her dark pink tongue lolls, dripping drool on your shoulder as she grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Lead conversation. Beastwoman will follow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Katvanas now. Northwestern wind tribe. Are swift, wild. Like howling squall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Humans fear and snivel, snap at own mystics. Until mystics become strong Alphas like Archons. Then humans grovel and beg favor. Follow Archons in droves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Lead conversation. Beastwoman will follow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>The Beastwoman shuffles uncomfortably before resettling herself lower on her haunches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Lead conversation. Beastwoman will follow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Shadowhunters are gone. Trawlhooks are gone. Katvanas wander northwest of Bastard-lands. Westreavers, too. Bonebreakers are gone. Mantaborn claimed Fanged Bay." 
+
+She gnaws a clawed fingertip between two fangs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>She crinkles her snout in disapproval. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"But Kills-in-Shadow has tried to help [url=glossary:stonestalkers]Stonestalkers[/url], yep. Thought to use for own gains, for hunting [url=glossary:disfavored]Disfavored[/url], but ended up leading pack of good, obedient stone whelps. May be fond of some few..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"But are not Beastmen tribes. Beastmen are small, weak. Good only for rutting. Tribes belong to best hunters - biggest, most savage. Belong to Beastwomen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Lead conversation. Beastwoman will follow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Lead conversation. Beastwoman will follow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Means Fatebinders are better war-makers? Better blood-spillers? Would like to fight other Fatebinders, test prowess of these feared killers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Good thinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"I'm not worried about [url=glossary:bleden mark]Bleden Mark[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>She scratches a hairy teat and bares her blade-sharp fangs at you in a self-pleased grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>She lifts heated, blood red eyes to your face as she pants excitedly. Her rough, mauve tongue peeks from between her fangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Beastwoman agrees. Make Archon of Shadows bow to Alpha. Or let Kills-in-Shadow mangle Archon instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Archon with many voices is vicious, cunning, feral. Good, desirable Alpha. But pack is rank. Has taint of rotten meat." 
+
+Kills-in-Shadow rakes a curved, black claw across the bridge of her snout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>She snuffs and snorts, maw splitting wide in excitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Lead conversation. Beastwoman will follow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Human broodmother, mystic." Kills-in-Shadow tilts her head to one side as if listening intently to a sound discernible only to her ears. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Kills-in-Shadow understands - Tiersmen are not good choice, but are better choice. Tiersmen are not predators. Are smaller risk to Beastwomen tribes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>The Beastwoman huffs - her version of an amused, contented sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Do not hit Beastwoman again. Fatebinder will not like what happens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Head cocked to one side, the Beastwoman pants happily, glistening fangs bared in a dangerous grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"[url=glossary:bolverk]Bolverk[/url] will listen to Alpha of pack. Kills-in-Shadow is good [url=glossary:bolverk]Bolverk[/url]. Loyal to Fatebinder. For now."
+
+Her lips part in an easy smile, her tongue lolling between her teeth as she pins you with a roguish stare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>The Beastwoman narrows her eyes, murderous intent darkening the crimson coloration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Kills-in-Shadow understands - Tiersmen are not good choice, but are better choice. Tiersmen are not predators. Are smaller risk to Beastwomen tribes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Fatebinder's smell weakens, dims as strength dies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Fatebinder has good musk. Smells of blood-lust, of predator. Of savage-strong Alpha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"But after, Kills-in-Shadow will slaughter, rip-rend. Will kill iron-clads extinct. Will not hold back even for Alpha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"But after, Kills-in-Shadow will slaughter, rip-rend. Will kill iron-clads extinct. Will not hold back even for Alpha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Will never be enslaved. Will kill any who try."
+
+She sneers and rakes her claws against her chest, carving fresh, wet scars in her anger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Little bird chitterer often says what she does not mean. Little song bird is part of Beastwoman's pack now, understand? Yep?"
+
+She huffs, amused with Sirin's sass, her head cocked as she studies the scrawny girl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Of course, I don't want to see you die, Beastwoman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Have I not told you? Whether you live or die is of little concern to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>The Beastwoman squats low to the ground, panting happily, her head ducked in an almost bashful manner. But when she looks back up to you, her eyes are filled with a dangerous heat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>She sneers and snips her teeth at you, gnashing massive jaws in response. For a moment, she looks as if she will argue, but then she glances away. She licks her lips with a rough, purplish tongue, silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Am best hunter," she boasts, scratching one idly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Am last of tribe - tribe who killed King-Vipers, Alerion, and Thornstags extinct. Am Alpha. Broodmother. Can smell earth-blood like mystic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Lead conversation. Beastwoman will follow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Let's play a game."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Immediately, the Beastwoman perks up, back straightening as her red eyes rove you with interest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Like playing with prey... or with pack. Would play sometimes with stone whelps - rut, mate, slaughter."
+
+Her dark maws part in a massive, fangy grin. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"I'm always down for a game. Unless it involves throwing and catching... in which case... eh..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"How could Beastwoman choose any other? Would rut Eb, good and hard-hard-fast. Would mate Alpha. And would slaughter, cut-carve Barik to pieces. Slowly. Savoring while slicing flesh from neck. Yep-yep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Is easy. Packmate chooses one for each - rut, mate, slaughter. If prey is chosen, pack joins ensuing hunt. If packmate is chosen, and both agree to game, then pack gets to watch." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Oh I get it! Ok, I'd rut Barik since [url=glossary:kyros]Kyros[/url]' forces need a little pillage and rape in return. I'd mate with Verse, mostly to take half of whatever lands she's going to someday conquer. Obviously, I'd kill Lantry. Who wouldn't?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Bank Node 353</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Rut, mate, slaughter, eh? Does it have to be three different people? I rutted with my old gang boss, Fine Ass. Mated him for a time. And then I killed him. Of all my days running with the Chorus, I think I enjoyed Ass Gang the most." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Um, wow. I appreciate being included in this little...well, I'm not even really sure what to call this. It's not like any game I've ever played. But, I'm going to say 'nothing' and pretend like I haven't heard a word anyone said."
+
+"And then I'm going to go sing myself a little amnesia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Barik looks at you and simply shakes his head in horror and disbelief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"What? I'm old enough to be everyone's father! This is disgusting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Yap more now, or yip more later?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Fatebinder may be Alpha, but is not Beastwoman. Not kith, not tribe. Must earn if want to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Ancestors of Beastwomen were weak, hairless prey like humans. But mystics learned strength from earth-blood, from sky-touch, ocean-swells. Grew rending-fangs and killing-claws. Crawled, crouched in shadows. Changed to predators."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Shadowhunters are Beastwomen born from darkness." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Haven-lands. Better than hard, jutting earth [url=glossary:stonestalkers]Stonestalkers[/url] roam. Tribe had carved large territory. Lowlands with cold, rushing rivers. Green trees that sliced at sky. Cast darkest shadows. Was good for hunting."
+
+She sniffs and huffs and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Was before [url=glossary:kyros]Kyros[/url]' tribe challenged Beastwomen for lands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Broodsister, Creeping-Death, was [url=glossary:prima]Prima[/url] of Shadowhunter tribe. Kills-in-Shadow was [url=glossary:bolverk]Bolverk[/url] - second. Was tough, ruthless, best enforcer. Rutted when wanted, ate when wanted. Raised many whelps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Beastwomen do not grieve." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] hunt Beastwomen tribes. Are dangerous. Tough predators. Yep-yep. But Beastwomen have killed extinct many more, tougher predators through seasons. Will not lose. Will slaughter more-than-five [url=glossary:disfavored]Disfavored[/url] for every Shadowhunter slain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Then open eyes wide, iron-clad. Watch as Kills-in-Shadow rip-mangles body after body. Starting with [url=glossary:disfavored]Disfavored[/url] in own pack." She snarls viciously and licks her rough, purpled tongue over her fangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Can wait until Kills-in-Shadow no longer follows Fatebinder. But will hunt every and all [url=glossary:disfavored]Disfavored[/url] in season soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Am not [url=glossary:stonestalker]Stonestalker[/url]," the Beastwoman snarls. She bristles, flexing her back and shoulders before settling back on her haunches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Alpha to Kills-in-Shadow smells good. Like mountain doe. Makes Beastwoman's blood stir, run hot-hot. Makes Beastwoman want to hunt, bite, rut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>She looks up at you, a wild, violent anger gleaming in her eyes like unshed tears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"After tribe was slain, Kills-in-Shadow loped to Stone-lands, stalking on long hunt for [url=glossary:disfavored]Disfavored[/url]. But soon became needed by weak whelps. By [url=glossary:stonestalkers]Stonestalkers[/url] who had been slaves and had not learned how best to fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Beastwoman, too, likes Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"After tribe was slain, Kills-in-Shadow loped to Stone-lands, stalking on long hunt for [url=glossary:disfavored]Disfavored[/url]. But soon became needed by weak whelps. By [url=glossary:stonestalkers]Stonestalkers[/url] who had been slaves and had not learned how best to fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Left-Claw, pack runt, was hunted. Caught by humans. Is chained in burrow called Halfgate. Help. Free Beastman. Or humans will drape pack runt's skin by fireside like prize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Human Alpha will not fail." 
+
+Eyes closed, she exhales a hot, musky sigh. And for once, she sounds more hopeful than threatening. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Help. Or be hunted."
+
+She reaches out a clawed finger and carves a bloody line down the side of your cheek. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Alpha to Kills-in-Shadow smells good. Like mountain doe. Makes Beastwoman's blood stir, run hot-hot. Makes Beastwoman want to hunt, bite, rut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Alpha. Alpha to Kills-in-Shadow." Her voice is low, a growl.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Alpha smells good. Makes Beastwoman want to hunt. Kill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Fatebinder. Alpha to Kills-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>The Beastwoman snorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Fatebinder sees now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Wanted to lap last drips of blood, swallow final cries of dying whimper. Wanted to watch die, more-than-five times over." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Fatebinder. Alpha to Kills-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Alpha smells good. Makes Beastwoman want to hunt. Kill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Alpha. Alpha to Kills-in-Shadow." Her voice is low, a growl.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Human is tough like stone wall. Is hidden behind iron shadow where Beastwoman cannot smell or scout weakness. But is noisy like crashing boar. Easily stalked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"But [url=glossary:disfavored]Disfavored[/url] do not yowl easily. Have taken killing-teeth in throat, carving-claws in gut and survived. Alpha laves pain from pack - makes pack tougher. Deadly threat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Old [url=glossary:prima]Prima[/url] was mystic, elder of tribe. Had grown weak with many seasons. Slaughtered first. Then helped Creeping-Death kill old [url=glossary:prima]Prima[/url]'s brood, every son and daughter. Liked old [url=glossary:prima]Prima[/url]. But liked Creeping-Death better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] is a difficult Archon to follow under the best of circumstances - as likely to eat you as sing your praises." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Clever hunter would crouch behind humans like stone cover during fight with [url=glossary:kyros]Kyros[/url]' tribe. Let Tiersmen die so Fatebinder and Beastwomen can survive. Win."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"But did not learn, did not train for life of elder locked in cave. Wanted to be strong, but wanted to hunt, fight, kill-kill-kill more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"What is Archon if not merely name like [url=glossary:prima]Prima[/url]?" The Beastwoman's lips split in a menacing grin, all fangs and rough, dark tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"But Fatebinder bows to [url=glossary:tunon]Tunon[/url]. Cannot fight within pack without answering to pack's [url=glossary:bolverk]Bolverk[/url]. Archon called [url=glossary:bleden mark]Bleden Mark[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"If I ever thought you or the creature posed a significant threat, my actions would speak louder than my words. Your judgment leaves me in little doubt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"In her case, I think she means her tribe is highly nocturnal, perhaps to the point of seeing better at night than by day, and if you look at her pelt, hard to deny she's built for darkness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Had any good hunts, lately?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Good, yep. And many more-than-five."
+
+The Beastwoman flexes and curls her claws in the air, the pitch blackness of them suddenly striking - a stark reminder of their power, their ability to kill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Waded up deep, murky stream near [url=glossary:disfavored]Disfavored[/url] camp. Paw-paw-pawed in mud of bank, but did not leave tracks. Crept low and quiet to tent flap, scenting with tongue. Caught iron-clads and dragged, squirming like hurt rabbits, into cold-black depths of river."
+
+She grins, boastful and filled with bloodlust.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] cannot swim like Beastwoman. Only can sink."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Found pack of rot-smelling Chorus in Apex-lands. Humans tried to scamper-flee on sight, but Beastwoman was already in full sprint. Legs were pumping, blood was surging fast-hot, throb-throb-throb. Flicked claws and slashed through backs. Ears filled with screams."
+
+She pants happily at the memory, tongue lolling between her teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Was fun for Beastwoman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Kills-in-Shadow is clever hunter of many seasons. Sometimes hunts with trickery rather than claws." 
+
+She grins, crimson eyes glittering with pride.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Found pack of [url=glossary:disfavored]Disfavored[/url] called Oath Bound. Iron-clads fought but were weak, wounded. Dragged kicking and whimpering like fresh catch, like prey dying between teeth. Crying and writhing. Quickened pulse, made Beastwoman yearn for kill. Rip-tore through throat and death-blood gushed out. Tasted good, slick-hot on tongue. Wanted more."
+
+The Beastwoman dips her head and rubs harshly behind one ear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Chased human called Bronzed Brother who was swift runner, like riverine deer. Made Beastwoman's heart thump fast-fast and feet pound hard-hard through mud and slick grass."
+
+She scratches three spear-tipped nails through her thick, dark mane and crinkles her nose in a fleeting moment of regret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Should have made chase last longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Went to prowl length of Oldwalls during dark of nightfall. Killed many Bane, but could not kill all. Bane are strong, tough hunt even for Beastwomen. Had to run-run-flee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Heard whispers - rumor of human rutting with Beastmen in Stalwart-lands. Was curious. Wanted to dig at truth, see with own eyes. So hounded book-hauler called Nerik at Fanged Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Hauler's face and name were known by many, made prey easy to track. Moves books for Sages and keeps Beastmen pack - runts, weaklings to carry crates humans cannot."
+
+She huffs and shakes her head, fingers picking at a puckered scar across her chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Loped through strange smelling graveyard of [url=glossary:sage]Sage[/url]-mystics under light of new moon. Dug-dug-dug but only found rat-gnawed, human bones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Thought would stalk small pack of Sages near den-place called [url=glossary:burning library]Burning Library[/url]. But [url=glossary:sage]Sage[/url]-mystics used coal-ink and utterances to confuse Beastwoman. Could not see or track with scent. Lost trail quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Lured iron-clads far from den-fort by loping, stumbling through brush like injured calf. Whined and brayed while bleeding easy-to-follow trail. Still took iron-clads too long to chase Beastwoman. Were slow and lumbering, cautious, and whispering as if Beastwoman could not hear from so far away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Hauler Alpha was gentle, loved by Pad-Foot and whole pack. Pack's [url=glossary:bolverk]Bolverk[/url], Pad-Foot, could not protect Alpha so begged and whined, debased own self at Beastwoman's feet. So Beastwoman slunk away into shadows, ashamed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Cleaved through flesh - slow-slow-tender. Enjoyed each kill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Why always is Alpha asking Beastwoman? Maybe Alpha wants to prowl with Kills-in-Shadow? Wants to come, too?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Hunted pack of Chorus pestering Beastwomen in Haven-lands. Was too easy. Even blood tasted weak when laved from claws."
+
+She sneers in distaste for the memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"I'd like to spar with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Go and guard our den, Beastwoman. Protect the Mountain Spire while I journey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Beastwoman gets to play-fight with Alpha?"
+
+She immediately perks up, salivating and snarling happily as she rises on hind legs and swipes several practice swings to limber up. She splays her dark claws wide and pins you with an eager, blood-thrilling stare. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Come!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"It's time to hunt. Come with me, Kills-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Stretching, she cracks her back loudly as she yawns, her rough, mauve tongue curling between her fangs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Am ready. Want to hunt-stalk-prowl. Want to kill-kill. And howl for Alpha."
+
+She lopes forward, lips parted, tongue lolling between her discolored fangs - eager.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Should let Beastwoman pry shell from iron-clad. Then Kills-in-Shadow can play with [url=glossary:disfavored]Disfavored[/url] inside, yep-yep?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Should not have been. When felled to last breath of death, even best predators do not rise again. But [url=glossary:disfavored]Disfavored[/url] fought, beat death. Beat Beastwomen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Beastwoman will watch den for Alpha. Will guard will cutting-claws, killing-teeth, and own life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Want to lick little song bird... Will groom clean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"No, no... I'm good. Nice and clean already. Had a bath this morning, in fact! So, while I appreciate the offer, why don't you take that tongue somewhere else. Perhaps the Fatebinder could use some grooming!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"After long wait, iron-clads fell into pit-trap and Beastwoman had only to roll heavy-strong boulder down from top. But was not as fun as Beastwoman had planned. Maybe should have ripped throats out with claws?"
+
+She flicks her curved, black claws in the air, studying them as if in deep thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Her red eyes darken with cunning and she shifts her stance, hunkering low as if to spring an attack. But rather than strike, she rakes clawed fingers through her thick mane, thinking - assessing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Shadowhunter fought hard for Alpha, yep. Helped slaughter Archon who strikes from darkness - who thought to kill Alpha. Beastwoman rip-tore shadows to blood-soaked shreds and devoured blackest of livers. Was good. Bitter-fresh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Alpha to Kills-in-Shadow slayed [url=glossary:disfavored]Disfavored[/url] called [url=glossary:graven ashe]Graven Ashe[/url]. Wish Beastwoman could have helped with iron-clad's slaughter. Would have liked to rend muscle from bone, rip-torn skin, mauled, and mangled - until dead many more-than-five times over." 
+
+The Beastwoman sighs, languishing the thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>The Beastwoman pants fast and hard as she eyes you greedily, and you get the distinct impression she's selected you for all three.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>She pants contentedly, cold saliva dripping off the length of her rough tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>She snarls viciously and snaps her teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>She yawns, mauve tongue curling between her wide-gaping jaws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Curved claws scratch at her ribs, scrawling angry red lines into her skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Black snout bobbing slightly, she sniffs and snuffs at the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Her crimson eyes darken with a heat - with a predatory bloodlust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>[Growl and bare your teeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Her top lip peels back in snarl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"What can you tell me about Left-Claw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Left-Claw is good whelp. Hunts iron-clads for Kills-in-Shadow. Hunts for revenge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Left-Claw, pack runt, was hunted. Caught by humans. Is chained in burrow called Halfgate. Help. Free Beastman. Or humans will drape pack runt's skin by fireside like prize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Left-Claw, pack runt, was hunted. Caught by humans. Is chained in burrow called Plainsgate. Help. Free Beastman. Or humans will drape pack runt's skin by fireside like prize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Alpha has plans to help Left-Claw for Kills-in-Shadow, yep? Would not want to upset Beastwoman, yep?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"You were [url=glossary:bolverk]Bolverk[/url] of your tribe? But you're strong enough to be a [url=glossary:prima]Prima[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"You were [url=glossary:bolverk]Bolverk[/url] of your tribe? But you're strong enough to be a [url=glossary:prima]Prima[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] She shakes out her matted, dark mane in a brusque refusal to answer.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] The Beastwoman shrugs her meaty, scarred shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Nope-nope." Kills-in-Shadow scratches a hip, claws raking a rough patch of scar-tissue bisecting the jut of the bone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] The Beastwoman shrugs her meaty, scarred shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] Her lips peel back in a sneer, and growls low from the back of her throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] She shakes out her matted, dark mane in a brusque refusal to answer.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] Her lips peel back in a sneer, and growls low from the back of her throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Nope-nope." Kills-in-Shadow scratches a hip, claws raking a rough patch of scar-tissue bisecting the jut of the bone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Before you can step even a single foot forward, the Beastwoman surges for you without warning, without waiting, tackling you hard about the waist. The force of her weight slams into you, her muscled shoulder rammed into your gut, and you both tumble for the ground in a tangle of limbs and hair and claws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>[Stab her in the gut.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>[Blast her off of you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>[Curl into a ball and wimper.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>Twisting against Kills-in-Shadow's assault, you slide your bladed weapon deep between her ribs, eliciting a startled yelp from the back of her throat. She growls and digs harder into you, her gnarled hand fumbling for the blade in her side, but you wrench the weapon deeper still, and she is forced to scramble back, retreating from the fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Back pressed to the ground, your fingers fumble to form an apt sigil, and you gasp a breath as the power bubbles between you and then bursts, slamming her through the air to land in a crumpled heap. Her bared chest sizzles, fur singed and stinking, and she whimpers once, her leg quivering where she slides it across the ground to tuck beneath her.
+
+She is slow to rise, her movements careful and pained.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>The Beastwoman continues to brutalize you, excited and eager, until slowly she realizes you're not resisting her assault. She pauses, intrigued, a rough hand gripping your throat. Her body is heavy, hot, and hairy where it presses on top of you.
+
+Her fingers flex tighter around your throat in a brief, crushing squeeze before they drift higher up to rub, coarse as gritstone, over the line of your jaw. The tips of her claws scrape against your cheek as she forces your face to one side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>[Headbutt her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Hands gripping her hairy shoulders to steady yourself, you ram your forehead as hard as you can into her swarthy snout.
+
+Bone crunches audibly and Kills-in-Shadow howls, rearing back as blood spates down the front of her chin and throat.
+
+She gnashes her red-tinged fangs, pained and furious and looking for a moment as if she may very well tear your throat out. But then she licks the blood coating her lips and grins at you dangerously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>She grins darkly, a deeply sonorous purr escaping her chest as she licks a long line up the side of your face. Then she pulls away entirely, leaving you tensed and quivering on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Beastwoman likes fighting with Alpha," she purrs and carefully, sensually crawls back from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Alpha has given Kills-in-Shadow new scar," she remarks with equal parts awe and excitement. She tears the weapon from her side and tosses it to the ground, the exposed wound raw and weeping. 
+
+"Is good scar. Cut deep. Even now aches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Alpha is strong mystic," she relents, bowing her head to you in defeat. Then she retches half-digested meat all over the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>You've heard the tales before, that Beastwomen do not grieve, that such heartless monsters shed no tears, not even for their own cubs that have died. You may have even believed them in a time past. But there's no mistaking that the Beastwoman before you is experiencing now the keen pain of loss - her crimson eyes are dangerously dry, glittering with anger rather than tears, but a deep wailing sound keeps escaping her chest. She is whining, and she snarls as she steals glances at you from a short distance away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Am angry with human called Fatebinder. How could Alpha ignore own [url=glossary:bolverk]Bolverk[/url]'s wishes? How could Alpha to Kills-in-Shadow slaughter Left-Claw despite Beastwoman's protest?"
+
+She gnashes her fangs, clearly furious. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"Are you all right? You seem to be fairly upset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"Got a problem with me, Beast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>[Glare at her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"The masses wanted him dead. I placated them for our own survival."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>[Lie] "Justice is blind. I executed a murderer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"Do not think Kills-in-Shadow will so easily forget Fatebinder's promises. Am following Alpha - am fighting for Fatebinder in order for tribes to survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>The Beastwoman rears back and unleashes a low, ticking growl, but the fear in her eyes and the way she slowly retreats from you makes it clear that your threat has been heard - and heeded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"Before we continue our travels, I want to talk with you about some things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>[Leave] "Got it. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"Alpha needs only to speak. [url=glossary:bolverk]Bolverk[/url] will listen." She nods, but her words hold a reluctance, a wariness stemming from her emotional wound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] still roam free, but even with quakes from moaning mystic, can see Azure-lands are becoming more dangerous for tribe. Humans adapt even to roiling landscapes. Will travel and hunt for Beastwomen even in toughest of times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>[Leave] "I don't have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"You want to survive? You need only to do as you're told."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"You're right. I should have spared him for you. I apologize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>She eyes you warily, weighing your words with care. Clever and violent thoughts both drift behind her eyes, but ebb as she settles onto her haunches and grunts her compliance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"I won't forget it, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"Good. Because forgetting will be death of Fatebinder."
+
+She grins, showcasing a row of jagged killing-teeth though there is no levity to her words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Nope, cannot be true! Why-how?! How could Alpha betray Beastwoman?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>[Growl and bare your teeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Silent as a shadow, she grins, showcasing a row of jagged killing-teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"Alpha." The Beastwoman snarls. "Kills-in-Shadow must speak with Alpha. Now-now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Am clever hunter. Can reason why pack would need to kill one tribe of Beastwomen - weakest but largest tribe - to best human [url=glossary:prima]Prima[/url] called [url=glossary:kyros]Kyros[/url]. But Shadowhunter wants to know - needs to know NOW that pack's slaughtering of Beastwomen will not continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"It depends. If the other tribes get in my way, I'll cut them down just the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"I understand why you might be worried, but I have no reason to slaughter the other tribes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>[Leave] "I don't want to talk about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Have hunted many if not all [url=glossary:stonestalkers]Stonestalkers[/url]. Had reason, yep? But what of other tribes? What of Mantaborn of Stalwart-sea? What of Katvanas or Westreavers in northmost of Tiers-lands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Would hunt more tribes to death? For why? Kith do not needlessly hunt kith! Kills-in-Shadow will not blindly hunt Beastwomen extinct! Not even to survive predator called [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"Is true? Fatebinder is not lying?" She huffs a breath of relief even as she eyes you warily. Against her better judgment, she wants to trust you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"Kills-in-Shadow fights for Fatebinder so that kith will not die like Shadowhunters. So that all Beastwomen can thrive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>[Make a fist.] "What have I told you about questioning me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>Wild, crimson eyes narrow to slits, and she growls warningly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>She snarls and slathers, furious beyond words. For a moment, she merely quivers with barely contained violence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>[Attack] "You can't just walk away from me. I'll kill you first, Beast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Claws raking the air, she shrieks in anger and surprise. Her eyes are wide - wild - with fear, and though she strikes viciously for your throat, you are swifter, more ruthless, stronger and sharper-edged than the snarling Beastwoman. You gut her without mercy, and spit on her remains for daring to betray you.
+
+Let it be a lesson to others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"Any unruly beast needs to be put down... but this was a follower, and if you could not reason with her, what hope is there for the rest of us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"Hey, now you're making the tough calls. I had plenty of occasions to kill a gang member for no other reason than to prove a point and set a precedent. These things happen. Don't beat yourself up over it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Sirin stares at you, a look of horror on her face. "What have you done, Fatebinder? What was that for? I won't shed a tear for a fallen Beast, but that was...brutal!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Sketching the corpse of Kills-in-Shadow, Lantry's quill moves with a slow, trembling inelegance. "I assure you, you will hear no opposition to your plan from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Calm down. I'm not going to slaughter the other tribes - unless they give me just cause to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>[Leave] "Let's put this behind us and move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>[Punch her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>[Let it go.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>"Alpha to Kills-in-Shadow would not think to ruthlessly hunt Beastwomen extinct. And would not think Alpha could survive [url=glossary:bolverk]Bolverk[/url]'s own fury and fangs - once Beastwoman realized human's plan?"
+
+At the threat, she cracks her spindly knuckles, claws curving against the palm of her hand. They bite into the calloused skin until her fist drips blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"You're the one who wanted to join me. So either follow my lead - or take a hike."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"I don't have an agenda to exterminate the Beast tribes, trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Her lip twitches into a sneer, and she can't seem to resist tonguing one of her fangs in warning, but eventually she snorts and nods, accepting your right to lead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"Have seen Alpha accomplish many impossible feats. Have seen strength to rival Archons that hunt for Beastwomen. So Shadowhunter will submit to Fatebinder. For longer. For now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>She snuffs at the space between you, curling her lips back to draw a rush of air over her tongue - tasting for your possible lie.
+
+Finally, she bobs her head, satisfied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>[Bluff] "Don't worry. I have a plan to help the tribes survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>She howls and quivers, both frightened and surging with rage. Her claws dig deeply into the palms of her hands as she clenches her fists, and she grunts from the pain or the anger or both - clearly desiring to attacking you. But then she breathes deeply, jutting her teats proudly into the air. She snaps you a harsh nod, accepting your right to lead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"If Alpha desires so much to slaughter all Beastwomen tribes, then Kills-in-Shadow will not stay. Will leave and roam free. Will hunt and protect kith in own way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"You may not like my methods, but they're keeping us alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Look, it's nothing personal. This is war. The strong live and the weak die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Beastwomen are not weak! Are stronger than humans called Tiersmen and Chorus combined."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"You're right. I'll try to kill less Beasts going forward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Will not matter if Kills-in-Shadow is not only last Shadowhunter but also last of all tribes! Who would Beastwoman rut with then? How would Beastwoman birth more broods to reform tribes?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"I am no kith to filthy Beasts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>"If Fatebinder is neither kith nor friend to Beastwomen then maybe Kills-in-Shadow has no reason to follow human any longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

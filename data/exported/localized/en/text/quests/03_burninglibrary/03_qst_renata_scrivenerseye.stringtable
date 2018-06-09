@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_burninglibrary\03_qst_renata_scrivenerseye</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>An Eye for an Eye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Get to the lower levels of the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retrieve the Scrivener's Eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return the Scrivener's Eye to Renata.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Renata has influence over the surviving Sages in the [url=glossary:burning library]Burning Library[/url], but seeks to cement her leadership of the guild. She needs the historic artifact of leadership, the Scrivener's Eye, to rally the Sages behind her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The Scrivener's Eye was last seen with First [url=glossary:sage]Sage[/url] Arwel in the lower levels of the [url=glossary:vellum citadel]Vellum Citadel[/url] prior to the catastrophe. Get to the lower levels of [url=glossary:burning library]Burning Library[/url] to begin the search.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The Scrivener's Eye should be somewhere in the lower levels of the [url=glossary:burning library]Burning Library[/url], likely with the remains of First [url=glossary:sage]Sage[/url] Arwel. Search for a fallen [url=glossary:sage]Sage[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Deliver the Scrivener's Eye to Renata so that she can cement her leadership over the Sages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>First [url=glossary:sage]Sage[/url] Arwel left a note, indicating that he meant to reach the Silent Archive. Look for him there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You gave Renata the Scrivener's Eye, guaranteeing her leadership of the Sages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You killed Renata, making the return the Scrivener's Eye a moot point.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Although you retrieved the Scrivener's Eye, you were able to switch out the Silent Archive for a different artifact and didn't need Renata's help ending the [url=glossary:edict]Edict[/url] of Fire after all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Quest Failed</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

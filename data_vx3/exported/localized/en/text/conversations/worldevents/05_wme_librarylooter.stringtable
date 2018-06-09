@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\05_wme_librarylooter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A full-figured woman in a grime-smudged smock beckons to you as your paths cross near the derelict ruins of a nameless town spread amongst the cracked stones of old Azure. She waves excitedly, almost bouncing from foot to foot. "You," she cries out, "look like a traveler of MEANS!" Her voice echoes down the abyssal crevasse between you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Approach her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Avoid her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You pass without much interaction, brushing aside her attempts to converse. As you walk away, she continues in the opposite direction, gaze downcast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>She tugs on her bandolier, drawing attention to the numerous soot-stained scroll cases stashed on her person.
+
+Olive eyes peer at you above a button nose and dimpled cheeks as she excitedly informs you of the rare and potent secret texts she has on offer... for a price.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Peruse her wares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Interrogate her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Convict her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She claps her hands together excitedly and begins to rattle off the sundry scrolls she's collected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The woman blinks rapidly at your approach, a hand absently twisting her tightly braided hair. "Ah... Fatebinder. I didn't realize it was you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You stride purposefully towards the woman, and inform her of your duties as a Fatebinder of [url=glossary:tunon]Tunon[/url] the Adjudicator and an arbitrator of the legal code of [url=glossary:kyros]Kyros[/url].
+
+She blanches, her mouth hanging slightly agape. From the look on her face, it seems well aware of the Court of Fatebinders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You immediately inform her that she's in violation of the Overlord's provisions against the possession of forbidden knowledge. She begins to stammer an excuse, but you see her fingers forming practiced sigils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Execute her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Spare her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You lash out at her before she has an opportunity to finish her spell. The first blow ruins her hands, and she screams, holding the mangled appendages to her chest. Your second strike ends her life. 
+
+You rifle through her robes, discovering a small bundle of parchment. It's possible the magician had more cached away nearby, but if there's any truth to that supposition, it died with her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You assure her that she's in no danger from you, despite your pronouncement, and she calms, hands still free to form spells if the need arises. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She thanks you for your clemency and offers a few dusty and weathered scrolls for your mercy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Would you have called out if you had recognized me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"If you know who I am, you know you'd better answer my questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Of-of course!" she stammers. "I'll tell you anything you want to know. I would not dare to keep secrets from a Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Uh... maybe not?" She grins sheepishly. "Best not to court the attention of the Overlord, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Start talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"[Player Name], meet [url=glossary:sage]Sage[/url] Antignia," Lantry steps forward to introduce the two of you, "Tig, meet Fatebinder [Player Name]." He proffers her a curt bow. "Sorry, I didn't recognize you at first, but I you've changed your hair and in my defense, I'm not entirely sober."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I am Antignia, [url=glossary:sage]Sage[/url] of the School of Quill and Ink," she announces formally, back straightening slightly at the claim. She deflates immediately. "Or was, before the troubles at the [url=glossary:vellum citadel]Vellum Citadel[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"And I didn't recognize you as I thought you'd be a pile of ash! It's good to see you escaped the [url=glossary:edict]Edict[/url] and are in one piece." She nods her head toward you. "Did the Fatebinder arrest you? Did I catch you being marched to Court?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Not exactly, but I'm following the Fatebinders orders - that's all you need know."
+
+Lantry points toward the [url=glossary:sage]Sage[/url]. "Antignia worked on the other side of the Citadel from me, but I've known her for ages. She's good people - mostly harmless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Yes," Antignia nods emphatically. "Entirely harmless!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"But I suppose you'd know all about that, wouldn't you, Firestarter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I mean, I'm still Antignia. Just no longer a [url=glossary:sage]Sage[/url]." She frowns. "Or maybe I'm not Antignia anymore, that being the name I chose when I finished my apprenticeship." She shrugs. "I guess I'm still working out exactly how everything fits together now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>She shakes her head. "Regardless, people generally just call me Tig. Feel free to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You wanted my attention. Now you have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"What are you doing out here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Leave.] "Right. Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Well, you see, I'm trying to make it to Ardent. And then, I don't know from there. See if a boat can take me elsewhere... maybe even venture into the north, I guess. I just want to be away from the Tiers and away from war, and just as far away as I can get from the stench of ash and soot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Travel isn't free, though, especially now with the wartime scarcity and the Chorus looters. So I've got some scrolls, magical and historical research and the like, that I, er, rescued from the Citadel. I'm willing to part with them for rings to help me along my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You escaped with some of the library's scrolls? Brilliant! I've lost plenty of sleep grieving over all that we left behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You are aware that possession of Forbidden Knowledge is a punishable offense under the laws of the Overlord?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You are aware that the Overlord had me issue the [url=glossary:edict]Edict[/url] of Fire for a reason, correct? That possession of Forbidden Knowledge is a punishable offense?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Let's see what you have on offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Leave.] "I'm not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Oh, uh... sorry for wasting your time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Are you sure, Binder?" Lantry asks, nib of his quill pressed against his lips. "We may not have another opportunity to, er, archive and protect this knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Tig claps her hands. "Oh! You won't be sorry, I promise!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"But, uh, I - " the [url=glossary:sage]Sage[/url] stammers, suddenly finding her feet intensely interesting. "Surely not EVERYTHING in the [url=glossary:vellum citadel]Vellum Citadel[/url] was forbidden. I mean, not all knowledge is evil, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Oh!" Tig looks up at you, eyes wide. "So... Did you decide you wanted some of the Ancient Secrets of the Sages?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Fine. Show me what you have, Tig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Leave.] "I'm sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ah." He looks longingly towards Tig's scroll cases. "Very well then. Farewell, Antignia, and be safe - may we cross paths again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I'm not sure you want to challenge the Fatebinder on degrees of being forbidden but, um..." Lantry stammers on the end of his sentence before falling silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"That's for [url=glossary:kyros]Kyros[/url] to decide. And for me, as the Overlord's representative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I suppose I can overlook it this once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I certainly appreciate it!" She wipes her brow with the back of her hand, smearing a broken line of dirt across her forehead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"A show of good faith, perhaps in the form of a donation of one of your more dangerous acquisitions, would go a long way towards indicating that you understand the danger of the situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"A show of-" she frowns before her eyes widen in recognition. "Oh, you want a bribe! Why didn't you just say so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Subtle as ever." Lantry massages the bridge of his nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Here!" She pushes a weathered sheaf of papyrus into your palms. "This should do the trick!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Of course!" She nods furtively. "And what better way to judge this than to look at my scrolls? I won't hide anything, promise!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Attack.] "I hereby find you guilty of possession of Forbidden Knowledge. I declare the sentence to be death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Her eyes widen in fear, but her fingers immediately beging to form sigils, magic taking shape around her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Defer to Lantry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Lantry introduces the woman as [url=glossary:sage]Sage[/url] Antignia, and she admits that she fled the [url=glossary:burning library]Burning Library[/url] with some scraps that she now wishes to sell to pay her passage through the Tiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Are you aware the Sages have sworn allegience to me? What's left of the School is being put back together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I'd heard something along those lines." Tig grinds the ball of her left foot into the dirt. "That's great news... great news."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You don't seem particularly impressed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"There's a place for you at the Mountain Spire if you want it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"If you're not interested, you're not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Well sure, it's impressive. I'm not saying you're not impressive..." Her teeth press into her plump bottom lip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"At the Spire?" She can't hide the awe from her voice, but then she grimaces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"It's not that it's not interesting... but yes, Fatebinder. I'm afraid there's no going back for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>She shakes her head. "No. I've got to go elsewhere. Somewhere safe. Away from all of this." She gestures vaguely towards the [url=glossary:edict]Edict[/url]-blasted towers of stone jutting from the earth and punctuated by pulsing deposits of purple crystal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>She blinks numbly as you walk away, leaving her behind you in the dust of the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Thank you for your clemency, Fatebinder." She bites her lower lip, then rifles quickly through her bag and thrusts out a rolled sheaf of dry parchment. "This is on the house. In appreciation for your mercy." After handing you the scroll, she shuffles away into the dust of the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Continue...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

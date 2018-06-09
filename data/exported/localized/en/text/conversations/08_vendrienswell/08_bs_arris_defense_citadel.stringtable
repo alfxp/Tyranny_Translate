@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_bs_arris_defense_citadel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"They've made it over the walls! Form up, fight together, and show them no quarter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I need warriors up on that wall - more will be coming and we need to push them back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Fatebinder, climb down and get that rabble off my gate!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fall back! Fall back! Into the keep, all of you! We'll make our stand within!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Fatebinder, make haste to the side yard and help drive back the enemy. I will follow shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Fatebinder, see if you can climb down the wall and neutralize the soldiers - take them by surprise!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Drive them out of the keep! Choke the entrance with their corpses - we might still come out of this alive!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Arri points to a passageway leading west.
+
+"We opened one of our secret passages for you to use. Get around the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Show them no mercy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Arri points to a passageway leading east.
+
+"We opened one of our secret passages for you to use. Get around the [url=glossary:disfavored]Disfavored[/url]. Show them no mercy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He indicates the passage on the opposite side. "We will take this direction. Luck be with you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Brothers and sisters," Arri scans the faces of the [url=glossary:vendrien guard]Vendrien Guard[/url] still standing, "I think we've run out of ground to give. Come, let us make our final stand in [url=glossary:ascension hall]Ascension Hall[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

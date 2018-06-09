@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\fq_ac_qst_02b_stonesea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Troféu De Sangue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Plainsgate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Viajar para Halfgate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com Haygren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kill the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:bleden mark]Bleden Mark[/url] told you about the artifact known as the Azure Shield.Once a prized possession of the fallen kingdom of Azure the Shield is now a trophy of the [url=glossary:stonestalker]Stonestalker[/url] tribe in the [url=glossary:stone sea]Stone Sea[/url].Adquirir esse artefato ajudará você a dominar a região.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>[url=glossary:bleden mark]Bleden Mark[/url] has an agent Haygren in Plainsgate who can tell you the location of the [url=glossary:stonestalker]Stonestalker[/url] tribe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>[url=glossary:bleden mark]Bleden Mark[/url] has an agent Haygren in Halfgate who can tell you the location of the [url=glossary:stonestalker]Stonestalker[/url] tribe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Now that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] are no longer a threat you can speak to [url=glossary:bleden mark]Bleden Mark[/url]s agent Haygren in [Plainsgate] and continue yourprocure pelo Escudo Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] stand in your way of finding Haygren in [Plainsgate].Mate eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>After speaking with Haygren in [Plainsgate] he directed you to Stone Down to find Hundred-Blood and find out what she knows about the Azure Shield.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

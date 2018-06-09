@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_poi_ammon_prisoners</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Veja aquela caneta ali? The prisoners within are dressed in [url=glossary:unbroken]Unbroken[/url] colors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Aqueles prisioneiros têm sorte que as vozes não estão aqui para interrogá-los pessoalmente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The prisoners of the [url=glossary:disfavored]Disfavored[/url] have no idea how lucky they are.O coro poderia tê-los capturado ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Nó do banco 5</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

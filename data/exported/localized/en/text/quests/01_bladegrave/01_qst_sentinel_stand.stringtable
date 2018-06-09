@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_sentinel_stand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Making a Stand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Return to Sentinel Stand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Fight to the inner keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Find Straydus Herodin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Pursue Straydus Herodin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>End the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Convince Amelia to meet with Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Confront Amelia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>End the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Speak with Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Speak with [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Return to [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Get Across the Bridge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>End the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Return to the drawbridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>End the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Enter Sentinel Stand Inner Keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Eliminate the [url=glossary:disfavored]Disfavored[/url] units in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Battle for Sentinel Stand has begun. Now that the Steadfast Insignia has been recovered, multiple armies have descended upon the [url=glossary:unbroken]Unbroken[/url] fortress to battle for control. Fight for control of the keep with the [url=glossary:disfavored]Disfavored[/url], and put Straydus Herodin to rest to end the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>With the Steadfast Insignia, you may now withstand the fierce winds at Sentinel Stand and breach the interior. Return to the fortress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] and [url=glossary:disfavored]Disfavored[/url] are fighting for control of Sentinel Stand. Make your way through the war zone and pierce the tornado's wall of wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>You made it to Sentinel Stand's inner keep. Locate the last Regent, Straydus Herodin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Straydus is unwilling to cooperate and is falling back into the castle walls. Drive his forces back and defeat the Regent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Amelia's child is the last surviving Regent and the key to [url=glossary:kyros]Kyros[/url]' ongoing [url=glossary:edict]Edict[/url]. Kill the baby or find another way to end the storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>You found Amelia, but she is not the captive you expected to find. Her protector, Straydus Herodin, was killed in the fight, but you may still be able to convince her to go to [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Amelia's baby is the last surviving Regent and the key to [url=glossary:kyros]Kyros[/url]' ongoing [url=glossary:edict]Edict[/url]. Speak with Amelia and see what can be done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>Amelia's child is the last surviving Regent. Killing the baby will end the [url=glossary:edict]Edict[/url] of Storms and give you full control of Sentinel Stand Keep. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10035</ID>
+      <DefaultText>With Sentinel Stand now under Chorus control, return to Cacophony and discuss your next move with [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10036</ID>
+      <DefaultText>With Sentinel Stand now under [url=glossary:disfavored]Disfavored[/url] control, return to Iron Hearth to discuss your next move with [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10037</ID>
+      <DefaultText>With Sentinel Stand now under [url=glossary:unbroken]Unbroken[/url] control, return to [url=glossary:ascension hall]Ascension Hall[/url] to discuss your next move with Arri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10039</ID>
+      <DefaultText>The Bridge to the other</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10044</ID>
+      <DefaultText>You refused to kill Amelia's daughter, losing the [url=glossary:unbroken]Unbroken[/url] as allies and ruining any chance of forming a rebel coalition. 
+
+All that remains is to claim Sentinel Stand, and to do that, you must find a way to end the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10051</ID>
+      <DefaultText>You've eliminated all of the forces south of the river. Return to the bridge and see if Rumalan takes the bait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10053</ID>
+      <DefaultText>Amelia's child is the last surviving Regent. Killing the baby will end the [url=glossary:edict]Edict[/url] of Storms and give you full control of Sentinel Stand Keep. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10055</ID>
+      <DefaultText>The Steadfast Insignia has created an opening in the rust storm. The path to Sentinel Stand's inner keep is clear, you should be able to confront the forces inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10056</ID>
+      <DefaultText>Rumalan is confident that her forces northeast and southwest of the bridge will prevail. Defeat them in an attempt to goad her into combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>You discovered that the Regent bloodline is the result of a magical pact, one that can be rendered null if Amelia renounces her child's birthright.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The Senior Fatebinders of [url=glossary:tunon]Tunon[/url]'s Court may know more about the intricacies of [url=glossary:unbroken]Unbroken[/url] bloodlines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] may be able to offer some insight, particularly since this matter involves his daughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] begrudgingly gave you leave to search for information about [url=glossary:unbroken]Unbroken[/url] bloodlines at the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>You discovered that the Regent bloodline is the result of a magical pact, one that can be rendered null if Amelia renounces her child's birthright.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>The Senior Fatebinders of [url=glossary:tunon]Tunon[/url]'s Court may know more about the intricacies of [url=glossary:unbroken]Unbroken[/url] bloodlines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>The path leading to the inner keep is blocked by a raised drawbridge. You'll need to find way to destroy the winch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>A band of [url=glossary:unbroken]Unbroken[/url] need your assistance to the northeast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Your allies are in position to destroy the drawbridge's winch. Travel back to the bridge and cross it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Use the Steadfast Insignia to disrupt the Rust Storm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>You discovered that the Regent bloodline is the result of a magical pact, one that can be rendered null if Amelia renounces her child's birthright.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>The Senior Fatebinders of [url=glossary:tunon]Tunon[/url]'s Court may know more about the intricacies of [url=glossary:unbroken]Unbroken[/url] bloodlines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Rumalan has requested you defeat the remaining enemies on your side of the river before she will drop the drawbridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>You've eliminated all the [url=glossary:unbroken]Unbroken[/url] enemies on the south side of the river. Rumalan should have dropped the drawbridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>You killed Amelia, reasoning that her daughter's death is a necessary evil. Kill the child to end the [url=glossary:edict]Edict[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Surviving tomes in the [url=glossary:burning library]Burning Library[/url] may contain useful knowledge about [url=glossary:unbroken]Unbroken[/url] bloodlines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Surviving tomes in the [url=glossary:burning library]Burning Library[/url] may contain useful knowledge about [url=glossary:unbroken]Unbroken[/url] bloodlines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>You killed Amelia, reasoning that her daughter's death is a necessary evil. Kill the child to end the [url=glossary:edict]Edict[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>You killed Amelia, reasoning that her daughter's death is a necessary evil. Kill the child to end the [url=glossary:edict]Edict[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>Rumalan has fallen back behind the drawbridge. Perhaps defeating the rest of her soldiers will lure her out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>You've eliminated all of the forces south of the river. Return to the bridge and see if Rumalan takes the bait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>Use the Steadfast Insignia to disrupt the Rust Storm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>Speak to Seven Toes about where you will go next.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You ended [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Storms, bringing calm to the former realm of Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>You sent Amelia and her daughter to Nerat. Though the [url=glossary:edict]Edict[/url] of Storms remains, you have ended the core conflict in the [url=glossary:blade grave]Blade Grave[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>You captured Amelia, who will be held by the [url=glossary:unbroken]Unbroken[/url]. Her daughter was spared, and the [url=glossary:edict]Edict[/url] of Storms ended.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>You killed Amelia and her daughter, ending the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>You spared the lives of Amelia and her daughter while ending the [url=glossary:edict]Edict[/url] of Storms. Amelia and child have returned to [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>You killed Amelia and her daughter, ending the [url=glossary:edict]Edict[/url] of Storms. [url=glossary:graven ashe]Graven Ashe[/url] will understand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>You killed Amelia and her daughter, ending the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>The Battle for Sentinel Stand has begun. Now that the Steadfast Insignia has been recovered, multiple armies have descended upon the [url=glossary:unbroken]Unbroken[/url] fortress to battle for control. Fight through [url=glossary:disfavored]Disfavored[/url] and [url=glossary:unbroken]Unbroken[/url] forces and work with your Chorus allies to reach the interior. There, you must recover [url=glossary:graven ashe]Graven Ashe[/url]'s daughter, Amelia, and bring her to [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>The Battle for Sentinel Stand has begun. Now that the Steadfast Insignia has been recovered, multiple armies have descended upon the [url=glossary:unbroken]Unbroken[/url] fortress to battle for control. Fight alongside the [url=glossary:unbroken]Unbroken[/url] and push through the [url=glossary:disfavored]Disfavored[/url] forces to reach Straydus Herodin, and find a way to end the [url=glossary:edict]Edict[/url] of Storms once and for all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>With the Steadfast Insignia in your possession, it may now be possible to breach the magical storm encasing Sentinel Stand. Travel there and end the [url=glossary:edict]Edict[/url] to take the fortress for yourself.
+
+[Optional Quest]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

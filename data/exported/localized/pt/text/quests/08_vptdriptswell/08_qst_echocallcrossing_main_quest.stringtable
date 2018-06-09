@@ -1,0 +1,168 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_echocallcrossing_main_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Batalha de Echocall Crossing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com o Marechal de Ferro Erenyos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Retornar para a barraca de cinzas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Reúna-se com Antio no Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Sinalize as Fúrias Escarlate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Atravesse o rio na ponte oeste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Atacar a ponte oriental.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Retire o guincho que controla a ponte levadiça oriental.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Continue na vila de Echocall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Seguro Echocall Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Reporte-se para Bitter Quip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Abaixe a ponte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Echocall Crossing must be taken before [url=glossary:kyros]Kyros[/url] forces can press their attack on the [url=glossary:vendriens well]Vendriens Well[/url] Citadel.Help the [url=glossary:disfavored]Disfavored[/url] subdue the rebels and take control of the Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Speak with Iron Marshal at the [url=glossary:disfavored]Disfavored[/url] camp to discuss how you should approach the battle for Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Suas forças prevaleceram em Echocall Crossing e Tripnettle Wilderness. Volte à tenda de Ashes e informe os Archons do seu sucesso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Antio e sua companhia de soldados estão se movendo para quebrar o bloqueio da oposição em Echocall Crossing. Você foi despachado para encontrar Antio e ajudar conforme necessário.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] sent scouts downstream to cross the river.Construa um terreno mais alto sobre os afloramentos rochosos a sudoeste e sinalize às Fúrias como ajuda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Os batedores do coro foram bem sucedidos em garantir uma corda do outro lado do rio na ponte ocidental de Echocall Crossing. Enquanto o tempo permanece ford o rio lá para surpreender o inimigo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Enquanto os batedores do Coro tentam enviar uma corda pelo rio, crie uma distração para as suas forças, atacando a ponte oriental de Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Você atravessou o rio e se dirigiu para a ponte oriental. Destroying the winch will open the way for [url=glossary:disfavored]Disfavored[/url] forces to join the fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Você chegou até a periferia da vila de Echocall. Enquanto seus aliados se reúnem em torno da ponte oriental capturada, empurram a vila e encontram o líder rebelde Matani Sybil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Os rebeldes voltaram para a vila de Echocall. A fim de solidificar seu domínio sobre a região, mate Matani Sybil ou force-a a se render.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>A ponte oriental não pode ser atravessada no momento, mas você pode ter comprado o tempo dos homens Bitter Quips para dar outro jeito de atravessar o rio. Fale com Bitter Quip perto da entrada para Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>Você fez isso através da água. Lute até a ponte oriental de Echocall Crossing e abaixe-a para seus aliados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You chose to let the villagers of Echocall Crossing go but killed all the [url=glossary:vendrien guard]Vendrien Guard[/url] in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você escolheu levar o capitão Sybil e os rebeldes cativos em troca de deixar os aldeões e os rebeldes Vendrien irem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você decidiu que a coisa mais segura a fazer era incendiar a aldeia. Não houve sobreviventes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você optou por deixar os aldeões de Echocall Crossing irem, mas decidiu que era melhor queimar a aldeia para destruir a base de operações dos rebeldes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>You chose to let the villagers of Echocall Crossing go but killed all the [url=glossary:vendrien guard]Vendrien Guard[/url] rebels.No entanto, você conseguiu levar seu líder Matani Sybil prisioneiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>You decided the village should be kept intact as a foothold for [url=glossary:kyros]Kyros[/url] forces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Você decidiu enviar uma mensagem aos rebeldes e incendiou a aldeia, tornando colonos e possíveis espiões sem lares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>You decided to send a message the [url=glossary:vendrien guard]Vendrien Guard[/url] wont soon forget and burned down the village with everyone in it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

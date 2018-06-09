@@ -1,0 +1,2367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_verse_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>471</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Tell me something about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Tell me about your time with the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I want to ask about our travels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"We'll talk again later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"If you insist. I'm a Scarlet Fury. That should raise some flags for you. It means that I'm good at killing, and - more importantly... that I enjoy it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Tell me about your life before the Chorus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"How did you get conscripted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me about your training."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Enough questions about your past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"The [url=glossary:scarlet chorus]Scarlet Chorus[/url] is mostly for madmen and peasants with rusty daggers, but it's also a little niche of freedom that I never had. Once I survived training and met my Scarlet Fury sisters, I saw a different side of the howling mob." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tell me about [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Let me ask you about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Life - what life? As far as I'm concerned, I didn't exist before the Chorus. There was some girl in a farm wearing my face and talking with my voice, but she wasn't me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"How did I... I think you have the wrong idea about me. The Chorus didn't take me as a sobbing maid. I strode into their camp and enlisted. Someone tossed me a dented blade, I lived through initiation, spent a week butchering my neighbors, and moved on with my new kin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"For new recruits shoved to the front lines, 'training' means surviving the first battle. Anything beyond that is for the fighters who show potential, whether as blade dancers or arcane madmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"There's nothing in the world like getting put through the paces as a Scarlet Fury. Every day is a test of your commitment and passion. Failure means death. The first few weeks were the hardest, but also the most rewarding. I earned my name, picked up some quality weapons, and met my sisters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Tell me about your weapon skills."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Who are your sisters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Back to my questions about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"When I was just a kid, it didn't take me long to realize I was a natural. I could pick up a rusty kitchen knife and skewer a rat from across the room."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Before, you hesitated when you brought up your fighting styles. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "As if that's any of your business. If I wanted to say something, you would have heard it. Don't assume that I'm holding back." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"By my office as Fatebinder, you are beholden to deal with me honestly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I was concerned, nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"And here I've heard so much about the Fatebinder of [url=glossary:tunon]Tunon[/url]'s tactical genius, but no one mentioned your bleeding heart." Verse rolls her eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"That's as starchy and literal a point as I've ever heard, but you're not wrong. Also, I like how you handled yourself there, throwing your authority around like it meant something." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I mentioned before that I'm good at picking up different weapons and fighting techniques. The truth is... I'm better than good. I could flay a man so cleanly that I'd leave a single strip of skin behind. He wouldn't even need to be tied down." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"My sisters were the masters of their fighting forms. But since they died, my style has changed, almost like... like I can kill as they did. I could pick up a bow, a lance... anything, really. I could tear someone to pieces with a weapon that I only watched my sisters use."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I don't know what it could mean, and that worries me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"There wasn't a foe we couldn't take down together. Our fighting styles complemented perfectly, so we divided up the killing work like bards sharing a song. At least we used to." She presents a solemn salute. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tell me about Three Whispers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Tell me about Red Geyser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Tell me about Seeking-Sheath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Back to my questions about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"She was as calm as the surface of a pond, and light on her feet. More than one foe tripped and fell on their own blade due to Whispers' crafty footwork." Verse lets her gaze slip away from you as a fleeting moment of sorrow steals her attention. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"A one-woman siege breaker! She would launch herself at her foes like a battering ram. Not even a [url=glossary:disfavored]Disfavored[/url] phalanx could have withstood that dumb, suicidal wench. [url=glossary:kyros]Kyros[/url]' eyes, but she was something to behold!" Verse slams her fist into her palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"That girl could pass a spear through twelve rings from the far side of a battlefield. [url=glossary:kyros]Kyros[/url] help any foes who approached her marching single file - she made a game of spitting as many soldiers as possible on the same javelin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Do you ever wish you could do things over, and end up somewhere other than [url=glossary:kyros]Kyros[/url]' army?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"That's as naive a question as I've ever heard. [url=glossary:kyros]Kyros[/url] is everywhere. If you aren't in the Overlord's army, you're being trampled by it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"He's a madman, but that never stopped me from following his orders. Even in a legion as cutthroat as the Chorus, you know better than to get on the Voices' bad side. People who cross him - or just people he meets - don't tend to survive the experience." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"What makes [url=glossary:the voices of nerat]the Voices of Nerat[/url] so powerful?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"He's the Archon of Secrets, and he didn't earn that title lightly. People say that he knows more than every [url=glossary:sage]Sage[/url] in the Tiers combined, and that he can think a thousand steps ahead of the other Archons." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What are your thoughts on the [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"A warren of self-entitled children so wound up in delusions of honor they're likely to hang themselves by their own high standards. I wish they had stayed in the Northern Empire where they belonged. Then we could get some real work done in the Tiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"What do you think of their leader, [url=glossary:graven ashe]Graven Ashe[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Do you think the [url=glossary:disfavored]Disfavored[/url] have a chance to succeed in the Tiers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"What are your thoughts on their battle strategies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Speaking as one of the exceptions, most of the Tiersmen are pushovers. The people of Stalwart seem capable enough, though I have my doubts. You might call them the [url=glossary:disfavored]Disfavored[/url]'s best challenge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Even if they succeeded, it might be too late to redeem themselves. The Chorus have already impacted the conquest more than the [url=glossary:disfavored]Disfavored[/url] have, or likely ever will." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"And how many thousands of Choirmen did your victories cost you along the way?" Barik clears his throat, the grating sound echoing in his helmet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"As many as it took, junk heap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"He calls himself the Archon of War, though by the way he stalls his forces waiting for a better strategy to present itself, you would think he's afraid of battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You would think that someone more deserving would take Ashe's mantle from him, but the [url=glossary:disfavored]Disfavored[/url] have this cult of personality built around their 'Great General.' In their eyes, he can do no wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"What about Ashe's connection to his troops?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Who would you see take Ashe's place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I suppose you have a better idea how to handle the [url=glossary:disfavored]Disfavored[/url] forces?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Back to my questions about the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"'[url=glossary:graven ashe]Graven Ashe[/url] protects.' His soldiers keep harping on those words like they mean something. I don't deny that the [url=glossary:disfavored]Disfavored[/url] can take a few extra lumps on the battlefield, but that only speaks to their thick-headedness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I would rather let the [url=glossary:disfavored]Disfavored[/url] sort it out among themselves. [url=glossary:graven ashe]Graven Ashe[/url] is this aging figurehead of what should be a constantly-changing role. The right soldier needs to grow a pair and kill the old man. Kick his cane out from under him. Remind the legion what strength looks like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"They've really got something with that phalanx maneuver - a formation built on holding still, moving forward slowly, and hoping that no one slips in the mud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Scarlet Furies are dancers. We hear the music of battle and organize ourselves into works of killing art. Every fight is as hot and passionate as the last, with no room for stale routine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"You speak of routine and discipline as if they were weaknesses. The shield wall keeps soldiers alive. Chorus recruits fly to their deaths like moths to a candleflame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"To burn out while covered in the blood of your enemies is more honorable than the slow march to a dignified retirement. Would you rather feel the bite of a spear while hewing an axe through your enemy's skull, or the clench of your heart's betrayal while you sit up in bed, aged and alone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"What did you have in mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"What do you think of our present circumstances?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What do you think of our travel companions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Back to my previous questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Well, there's an [url=glossary:edict]Edict[/url] hanging over our heads. As far as I'm concerned, the incompetence of the [url=glossary:disfavored]Disfavored[/url] got us into this mess, and it will take the fury of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to get us out of it. In other words... nothing ever changes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You backed the winning team, and that's all that matters. The [url=glossary:scarlet chorus]Scarlet Chorus[/url] shouldered the weight of the conquest. Seems fitting that they get saddled with the cleanup. [url=glossary:graven ashe]Graven Ashe[/url] and his legion of fools will answer to [url=glossary:kyros]Kyros[/url], and to us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Anyone in particular?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"What do you think of Lantry?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"What do you think of Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"What do you think of Kills-in-Shadow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"What do you think of Eb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"What do you think of Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Back to my previous questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I've been meaning to ask you about him. Lantry is talkative, reads when he isn't writing, and brings as much to the battlefield as a sick bird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"He's... well, I'll give him some due credit. He's more complicated than he looks. He's still an intolerant and unapologetic bastard, but that's more his business than mine." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I've been watching her fight. She's fierce in a way that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] could use to our advantage. We've tried to conscript Beastmen in the past, but the results have been... less than successful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"It's easy to respect someone who brings that much passion to a battle. Even so - when she gets to talking about pushing [url=glossary:kyros]Kyros[/url] out of the Tiers, she makes me want to carve my opinions on the matter across her back." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Take this in the spirit in which it's intended. If I had her kind of power at that age, the last thing I would do is take orders from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"How is it that you picked up your fallen sisters' weapon skills?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What happened to them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"We were scouting around [url=glossary:vendrien's well]Vendrien's Well[/url] during the siege, back when we only suspected the Guard of organizing in secret. My sisters and I came upon a group of them... or [url=glossary:kyros]Kyros[/url] knows, maybe they found us. No one said anything. We drew iron and bronze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"They died. I lived. My sisters were relying on me to lead the dance, and I failed them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"It's understandable. Caution stayed your hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Your actions were inexcusable for a fighter of your station."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Any idea why you lost your nerve in battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Back to my questions about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Caution?! Save your caution for the [url=glossary:disfavored]Disfavored[/url]. If we showed caution, could we have taken the [url=glossary:bastard city]Bastard City[/url] or the Gates of Judgment? Could we have conquered the Tiers with anything less than our blood boiling over with rage, the song of battle ripping from our lungs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Any thoughts on the topic, or are we just here to open old wounds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"You're absolutely right. If I had witnessed the same in one of my sisters, I might have even killed her for endangering the rest of us. Good thing for me that they didn't get the chance." She chuckles, but there's no humor in it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I wish I had an explanation. For the first time, I lost the dance. The song of murder drew silent. Instead, there was only rigid, organized control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"That's been on my mind for some time, and I still don't have an explanation that fits. I have a few ideas, but..." Verse frowns in deep thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"When my sisters died, I felt each of them getting yanked out of my brain like someone pulling snails from a garden, but some of their slime residue was still there. Does that make any sense?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I would take comfort in that. Your sisters live on in you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"You should exploit this skill to its fullest potential."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Your optimism is cute, Fatebinder, if singularly useless. It won't bring my sisters back, and it doesn't fix this thing in my head that I don't understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Skill? Not sure if I'd call it that. There's something... parasitic about it, but I take your point. If there's an advantage to this... thing I'm experiencing, I'm not above using it against our foes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Then I'd leave any misplaced ethics back in the Northern Empire. They're not helping [url=glossary:kyros]Kyros[/url]' campaign anyway, so fuck them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Excellent. You would make them more like the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Would that be so wrong? The Chorus is accountable for itself in ways that the [url=glossary:disfavored]Disfavored[/url] aren't. Our weak die, and the strong fight to keep their rank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"What do you think of those who defy [url=glossary:kyros]Kyros[/url]' authority?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"The Tiersmen can either fight or submit to [url=glossary:kyros]Kyros[/url]' Peace, and only one of those options captures my interest. I suppose I appreciate when they go down fighting. If they did otherwise, I would need to find another excuse to flay them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"They need to understand - whether we unify the Tiers under a shared banner or at the bottom of a mass grave makes little difference to you, me, or [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Did you fight at any notable battles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Let's change the subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Fatebinder. Always a pleasure." Verse sizes you up with open curiosity. When her assessment is done, she laughs to herself - shaking her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Fatebinder." Verse pauses to nod in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"You have my attention. Spit out whatever you have to say." Verse eyeballs you with suspicion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Something on your mind, Fatebinder?"
+
+Verse rubs the bridge of her nose as you approach. She takes a deep breath and mutters a curse under her breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"At your service, Fatebinder." Verse bows with an added flourish. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Need to talk? Suppose I can give you a moment of my time." Verse crosses her arms and regards you with curiosity. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"What I won't enjoy are the pleasures of funerary rites packed with weeping mourners. Some day I'll fall in battle, and then they'll roll me into a mass grave or heap me atop a shit-stained wagon. One more anonymous, knife-riddled piece of meat." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"That suits me just fine. I'm not much for comparing family histories if I can avoid it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"When the [url=glossary:scarlet chorus]Scarlet Chorus[/url] swept through my village on their long trek from the [url=glossary:bastard city]Bastard City[/url], that was when I finally woke up. I buried my old life, took red vengeance on anyone who'd wronged me, and found the freedom I could only dream was out there." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"I didn't waste time with goodbyes. My mother had long since died, and the rest of my family were louses. The girl I used to be? Even she knew that she was worth more than all of them combined."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Of course, I could have labored on the family farm into my maturing years, married some dolt and littered him a nursery of squealing piglets. Having my body torn to pieces by smaller versions of me sounds like fun." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I think you could have given that life a chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"You're a killer - better to stick with the Chorus." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Then you don't know me at all, Fatebinder." She huffs and shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"At least you understand. The Chorus praises and rewards the thing inside me that I would suppress in 'civilized' company. Life is too short to repress every desire, right? Especially if I have anything to say about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"You 'earned' your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"If you think a simple farmer from the Tiers would name her child 'Verse,' I suggest you visit my old village. Most of them were walking around with surnames like 'Barrel' or 'Fish.' Not the most creative bunch." She smirks and shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"The Chorus takes your name away. Whoever you were before, you aren't that person anymore. Then you earn back a name through great deeds - usually murderous ones. That's why you see Choirmen walking around with names like Stinkmouse or Facefirst. There's probably a good reason for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"You'd take away everything that makes them strong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"It's a damn fine alternative from where I'm standing. If all that strength couldn't end a siege, what good is it to anyone?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>In the shadowy depths of his armor, Barik makes no sound. He doesn't even appear to be breathing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"If we must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Noticed that, did you? It's a... a matter that I'm not used to discussing. Mostly because I don't know how."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"What do you need to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"What do you need to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"What do you need to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"What do you need to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"If we must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"By all means, let's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"All right, I'm listening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"I like Lantry. I consider him a friend." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"We need him, and that's all you need to know." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Oh, pardon the fuck out of me, Fatebinder. If I had known we were out to make friends, I would have brought my tea set and some Stalwart hard cakes. I don't trust Lantry, and he's going to get us killed. If I see him twitch, I might just make the first move myself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Understood. You got something in mind you're using him to accomplish? Then by all means, let him tag along - but don't expect me to keep him alive. If he's pulling his weight somehow, feel free to clue me in, because I'm not seeing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Go ahead, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"That's an interesting view of the conquest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"It's a pragmatic one, anyway. The [url=glossary:scarlet chorus]Scarlet Chorus[/url] caught onto the idea at the beginning of the campaign. If no one objects that we're here to carve a bloody path for gain and amusement, then by all accounts that is our purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Besides, unification is such a vague concept that [url=glossary:kyros]Kyros[/url] allows the [url=glossary:disfavored]Disfavored[/url] and the Chorus to interpret it as they will. The Overlord is concerned with results. I'm happy to focus on the details, especially if that means cutting off a farmer's legs while his family watches their land burn." She smiles at a pleasing memory. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"No shame in taking pleasure in your work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"You're disgusting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"If you understood how a Scarlet Fury makes art out of death, you might not think so. Keep an open mind. You might enjoy the things I show you." Your words don't faze her in the slightest. She only nods, a suspicion confirmed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"No... no, there isn't. Fatebinder, I suspect that we're going to make something great together. A line of bodies stretching as far as the Oldwalls. It's going to be beautiful." She looks at you with renewed interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Tell me about the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"A walking nightmare, that one. I couldn't begin to guess who lives under that armor and speaks with that reedy voice, but I'll tell you what I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"When your world is built on secrets, it pays to have a few extra eyes. [url=glossary:the voices of nerat]The Voices of Nerat[/url] has eyes in abundance - some that he keeps close, and others that he sends out in the wilderness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Whoever the Fifth Eye was before he came into the Archon's service, now he's just a half-mad, jabbering speech hole. A bodily function. In other words, an Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"How many Eyes does the Archon of Secrets have?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"The number keeps changing - either because it grows or because rumors don't mean shit. Three, seven, nineteen... some even say that all of us are Eyes and we don't even know it." She shakes her head in thoughtful disapproval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"No matter how you paint it, some part of my sisters broke off in me when they died, and now I'm left to deal with it. Just another day in the Tiers, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Watch your words. I would not hear of you talking of the Archon this way." A growl ripples through Barik's armor, accompanied by sounds of bending metal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Zigzagging around the Tiers, pissing off authorities as we go? I suppose there are worse ways to occupy one's time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"You should loot some of these bodies before moving on. Where they're going, I don't think they'll miss their gear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Was I even talking to you, junkyard? And no, I will not." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Who are the [url=glossary:scarlet chorus]Scarlet Chorus[/url] leaders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Well, [url=glossary:the voices of nerat]the Voices of Nerat[/url] is the spider at the center of the web. He acts like the army belongs to him, and he only lends it to [url=glossary:kyros]Kyros[/url] because it suits his purposes. Both of which are true." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Tell me about the gang bosses." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Back to my questions about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"I like your curiosity." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"If he ever seems disorganized or lost, it's because he's channeling one of the personalities he's devoured over the years. His mannerisms shift over to someone else - someone who's probably long-since dead." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"A boss is anyone who can rally enough support to kill the previous boss. They cling to command until someone gets wise and stabs them in the back." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Tipcap leads the Filthy Lambs, Locks leads the Rusted Harps, Sharp used to lead the Bone Boys... couldn't say where he ended up after they broke his legs." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"What is the significance of your feathers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"We are getting awfully chummy, so I guess you deserve a story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"I also like how the feathers catch the breeze. Helps me keep my balance, especially when I'm moving fast." She slips the feather among the others and smooths it back. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"We'll talk when this is over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"I don't know in what brain-addled state you thought the [url=glossary:disfavored]Disfavored[/url] were the army to support, but I see you're committed to it. Of course you're free to do as you like." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"For having a military career as decorated as yours, I don't know what was going through your mind when you backed the [url=glossary:vendrien guard]Vendrien Guard[/url]. I can appreciate wanting to turn the tables on your superiors, but never at the cost of your status."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"I've turned on my share of friends, but never on that scale. Showing your rear to the rebels and allies alike, playing sides against each other... well, it's inspiring, really. If I had been smarter at the time, I would have done more scheming in my early days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Any particular reason you've chosen to travel with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"If you're baiting me for a compliment, you're talking to the wrong girl." </DefaultText>
+      <FemaleText>"What, did you have something in mind? It isn't that I'm not flattered, Fatebinder. I just don't think I'm your type."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"I don't have a gang anymore, and I wouldn't throw in my lot with any of the killers floating around the [url=glossary:scarlet chorus]Scarlet Chorus[/url] ranks. The fact of the matter is you're doing important work - even if you stumble and flail along the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"If that puts me at odds with my [url=glossary:scarlet chorus]Scarlet Chorus[/url] ties, so be it. I'm not such a camp follower that I don't look after my interests first. And I find you... interesting." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Besides, once this civil war business is taken care of, I figure anyone who follows in your shadow is due for some deserving reward. Though maybe some are more deserving than others." She sniffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"You've satisfied your curiosity, so let me satisfy mine. Why are you keeping a little scrap of a thing like me around?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"You're a hardened killer. That's reason enough." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"I consider us friends. Don't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"I have... feelings for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I wonder what makes you so sure I won't cut your throat some evening, just to hear you gurgle? It's taking a risk when you travel with someone like me. I suppose time will tell." She flashes you a pleasant smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Oh boy. We're getting into that territory, are we? Look... I know that folks tend to buddy up when they're in a camp together, but I'm not really 'friend' material. Hate to let you down, but that's the long and short of it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"I can promise you I'll stay loyal to your cause for as long as you'll have me, but I can't promise that we'll share anything more intimate than a stiff drink when this is all over. Deal?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"That's rich. What is it about me that squeezes your bellows - the blood stains on my armor, or the lice crawling underneath it?" </DefaultText>
+      <FemaleText>"Is that so? I won't pretend that the idea hasn't crossed my mind. Well, something more interesting than 'feelings' in any case. A girl needs to release her tension somehow." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"I hope I don't need to remind you that we're in a war. Find somewhere better to exercise your restless self - if not the battlefield, then a brothel. It always works for me when there's no sport around."</DefaultText>
+      <FemaleText>"But we're in the middle of a war, and more often than not sleeping an arm's length from some ant hill or Bane-haunted ruins. We'll probably be too blood crazy by the end of this to even think about that sort of thing. So put it out of your mind for now." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"You fight for me, do you not? Tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Have you tried that flaying trick before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Let's just say that when we ran out of canvas for pitching tents, the Fifth Eye handed me a knife and pointed me to the prison pens." She winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Tell me about the Scarlet Furies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"The elite fighters of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Your typical Horde recruit fights with a rusty spoon and a chip on his shoulder, but the Scarlet Furies are... well, different." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"We focus our madness, we coordinate, we kill, we dance. It's like art. Imagine a sculpture that twisted in weird, beautiful angles - and then gutted you too fast for you to realize what was happening." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"It sounds wonderful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Do you even hear yourself when you talk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Oh, fuck you, then. I'm not here to dazzle you with my use of metaphor. When it comes to the [url=glossary:scarlet chorus]Scarlet Chorus[/url], you either get it or you don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"It is, as I remind myself all the time. The most important day of my life was when [url=glossary:the voices of nerat]the Voices of Nerat[/url] recognized my potential and sent me to Scarlet Fury training."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"I had more questions about your sisters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Go ahead. I miss those girls, but I'm not so bad off that I can't talk about them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"That sounds like the security of a phalanx to me. You should practice a more orderly form of combat if it suits you so well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Even if the [url=glossary:scarlet chorus]Scarlet Chorus[/url] fought in formation, it wouldn't be anything like your hideous shield wall." She looks at him in disgust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"The rest are all offshoots of the Voices - like the Fifth Eye. Once you get down to the rank and file, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] organize around a motley bunch of gang bosses who call the shots. What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"You gave [url=glossary:the voices of nerat]the Voices of Nerat[/url] a piece of your mind at [url=glossary:vendrien's well]Vendrien's Well[/url] - you should be familiar with him already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"You've already met [url=glossary:the voices of nerat]the Voices of Nerat[/url], and apparently thought enough of him to put your trust in the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"He's dead. I think that says it all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"You destroyed his mind and replaced it with a better one. Brilliant move, by the way. That pretty much covers it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"You killed [url=glossary:the voices of nerat]the Voices of Nerat[/url], so that about does it as far as leadership is concerned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] is your puppet to control now, so I guess that makes you the head of the [url=glossary:scarlet chorus]Scarlet Chorus[/url], doesn't it? Funny how that work." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Wait - Nerat's 'eyes' are people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Back to my other questions about the [url=glossary:scarlet chorus]Scarlet Chorus[/url] leaders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Go on, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Maybe they used to be people. Whatever they were, they're Eyes now. Folks like to whisper that [url=glossary:the voices of nerat]the Voices of Nerat[/url] takes his servants and cuts out all the extra parts that they don't need." She makes a quick, snipping gesture with her fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"I once heard the Voices and the Fifth Eye in a tent together. The Voices kept screaming 'redundancies! redundancies!' Every time, another gout of blood would spray on the canvas walls. I can't even guess what he was cutting out." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"If anything, it's only true because his soldiers place that much trust in it. I've seen the power of suggestion do stranger things to people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Could that be possible?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Stranger than heal battlefield wounds? I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"We're talking about a man who's centuries old and wears glowing armor. You tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Suit yourself. I'm just putting it out there, and I don't see you coming up with any great explanation for a soldier who bounces back from a killing wound." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] changes. He's a multi-faceted gem, and the [url=glossary:scarlet chorus]Scarlet Chorus[/url] is a reflection of that beauty. If someone could rise up and strike down the Voices, any of us would follow them in a heartbeat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"You mean your little coalition in [url=glossary:ascension hall]Ascension Hall[/url], right? No offense, but I'm skeptical of their chances. They couldn't defeat [url=glossary:kyros]Kyros[/url] at full strength. Don't ask me to believe they can do it now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"I can unite the Tiers without the armies of [url=glossary:kyros]Kyros[/url]. We have a chance." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"You're in no position to question me, Verse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"If you say so. Were it me, I'd want to throw some extra bodies at the enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"I'm not trying to challenge your authority. You've got to understand that the Tiers have never collaborated on anything except for their own destruction. They earned a little healthy skepticism."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"I spent some time in Azure toward the end of the war. Beastmen ripped my unit apart. We thought they might be working under [url=glossary:cairn]Cairn[/url]'s orders, but we never found out for sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"The [url=glossary:scarlet chorus]Scarlet Chorus[/url] earned [url=lore:conq_cairnstribe]a lot of good intelligence[/url] when we tortured those Beastmen later on - all thanks to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"But you already knew that, didn't you? The [url=glossary:disfavored]Disfavored[/url] [url=lore:conq_cairnstribe]hunted the tribe down,[/url] and we never learned the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"How did you do that?"
+
+Verse looks at you with a quizzical expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Do what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"What are you babbling about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Back in the Archons' war tent. You cast an [url=glossary:edict]Edict[/url] as casually as reading a supply shipment. How did you do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Don't be an ass. This is serious business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Well, I've done it before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"It was nothing, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Don't I look stupid. You were the one who cast the [url=lore:vw_drastem_react]Edict of Storms[/url] on Stalwart, didn't you? The one that tore the battlefield apart with a cyclone of [url=glossary:kyros]Kyros[/url]' anger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"I don't know why I didn't realize it earlier. You proclaimed the [url=lore:edict_stone]Edict of Stone[/url] in Azure. It blighted the entire realm, all to destroy the rebellious Archon. I can't believe that was you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"You cast the [url=lore:edict_fire]Edict of Fire[/url] on the [url=glossary:vellum citadel]Vellum Citadel[/url]. I heard about it - how [url=glossary:kyros]Kyros[/url]' anger raised a volcano from under the Sages' own fortress. That... that was some impressive work." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Well, call me impressed. Considering that you've read the words of [url=glossary:kyros]Kyros[/url] more than once, I'm surprised that you're even alive to tell of it. Your vocal chords should have turned to ash by now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>[Conquest] "That was me, all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>[Nod silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"I don't wish to discuss it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"I'm not trying to make you feel uncomfortable. It's just worth recognizing what you've done. Not only are you [url=glossary:tunon]Tunon[/url]'s Fatebinder, you're the mouthpiece of the Overlord. Gives me plenty of reason to stick around. You're going places, and I want to see where they lead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Now is not the time to play coy. You spoke words that could lead to the deaths of hundreds. Take a moment to feel proud of yourself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"That's enough for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"If you say so. I have some questions about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"So, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and [url=glossary:disfavored]Disfavored[/url] are at each other's throats. Can't say I didn't see that coming, but the Archons might have waited until one war was over before they started another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Do you think I made the right decision?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Their war doesn't interest me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Claiming [url=glossary:vendrien's well]Vendrien's Well[/url] and kicking everyone out? It took brass balls the size of the Gates of Judgment, but I don't fault you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Fighting with the [url=glossary:scarlet chorus]Scarlet Chorus[/url]? Never doubt yourself for backing the winning team. The Chorus has the best chance of succeeding in the Tiers. For all their skill, the [url=glossary:disfavored]Disfavored[/url] are too stubborn by far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Fighting with the [url=glossary:disfavored]Disfavored[/url]? Not the call I would have made, but I'm sure you have your reasons. If you like iron weapons, or something about that purple uniform excites you, then be my guest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Fighting with the rebels? I'm sure [url=glossary:tunon]Tunon[/url] didn't see that one coming when he dispatched you to help break the siege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"If the siege was really that badly mismanaged, then I don't see that you had any other choice. It'll make you more enemies than friends in the long run, but friends are overrated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Funny sentiment, considering you're in the center of it. Not that I'm judging."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Noted. I have questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Let's be off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"I'll say this much - our time together is anything but dull. My blades are yours for as long as you'll have me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Who can say? War is all about compromising your morals, deciding who lives and dies. What seems like a mistake turns into your greatest call down the road."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Until then, I plan to take whatever I can from life, and have a little fun along the way." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Oh, I don't tell that story to just anyone. You'll have to butter me up before I get into the really intimate details."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"My mother kept a messenger bird. Widderbeak. He was an angry old bastard - spoiled from living the high life. Squawked in my window every. Single. Night. Pecked my fingers while I fed him only the fattest, juiciest mice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] gave me this name. When the [url=glossary:scarlet chorus]Scarlet Chorus[/url] runs howling into battle, he doesn't hear war - he hears a symphony. And when I fight with blade or bow, he told me that my music stands out louder than anyone else's, and contains too many parts to be easily defined." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"The [url=glossary:scarlet chorus]Scarlet Chorus[/url] gave me opportunities to further 'educate' myself. My sisters were always a bit surprised by how quickly I took to different fighting styles." She frowns for a moment, and then shakes off whatever she wanted to say.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"That was one of the first things I discovered about myself after joining the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. [url=glossary:the voices of nerat]The Voices of Nerat[/url] recognized it in me as well, which is why he singled me out for Scarlet Fury training."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Your concern is cute, if insulting and totally unnecessary. It's a good thing I'm feeling talkative, or I'd stake you to the bottom of a latrine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"That was when everything went wrong. I was supposed to take point and occupy the Guard with a dance of bladework - something disorienting while my sisters picked their marks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"It would be putting it lightly to say he's never alone under that disapproving helmet of his. If you make secrets your business, I guess having people constantly whisper in your ear is a good thing. I usually want people to shut up, but to each their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"It's one of those questions that drives you mad if you allow yourself to think about it for too long. Hey, you could be one of [url=glossary:tunon]Tunon[/url]'s Eyes. Bet you never thought of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"You led a gang?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Don't act so surprised. I can crack a whip better than any of those daisies at the [url=glossary:disfavored]Disfavored[/url] labor camps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"But I was never that interested in the power struggle of those grunts and scabs in the middle. I wanted to stand on the top like an apex predator. Here I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Are close, but would need fur and fangs to be top predator. Like Beastwomen." She chuffs, amused by the thought. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"So when I got tired of a gang, I disbanded and let the other bosses fight over the new recruits. That much amused me, at least. Some of my old mates are still alive and hanging around wherever they ended up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Seems as if [url=glossary:the voices of nerat]the Voices of Nerat[/url] is executing a lot of the people I send his way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Not to state the obvious, but [url=glossary:the voices of nerat]the Voices of Nerat[/url] is an Archon - he can do as he pleases, and few people on Terratus can tell him otherwise. Even [url=glossary:kyros]Kyros[/url]' law seems to know better than to restrict the likes of him." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Why do you think he kills so many?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Back to my other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"You've got me. When I joined up with the [url=glossary:scarlet chorus]Scarlet Chorus[/url], everyone acted like the trail of bodies in the Archon's wake was a common enough occurrence. As much as the Voices downplayed the killings, I always wondered if there was some plan or pattern." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"He would target prisoners who boasted some special information or talent. Sometimes he would hunt among neighboring towns if he heard of any locals who made a name for themselves. The people he chose were far from ordinary." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"I think he does it to [url=lore:voices_power]reap their knowledge."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Yeah... we all know that the Voices is knotted up with lots of different minds. There are more than a few people howling across the landscape of his thoughts. It's not something he ever talks about, but we all know it happens." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Go ahead. I can't talk about the Voices without getting covered in gooseflesh, like he's watching me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"People tell stories about him... they say that he can look into a man's eyes and know everything that lies behind them. He can peer into your thoughts, pick through what he wants and discard the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"It's crazy, I know, but they also say that he can dismantle your mind... and pull it into his own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Do you believe that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Never seen it happen, but I don't have any reason to doubt it. [url=glossary:the voices of nerat]The Voices of Nerat[/url] doesn't speak from just one mouth. Stands to reason he got that way somehow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Waterwheel orders around the Hairy Hunters, Hauls-for-Shit leads the Lazy Malkins. Then Scurvy Queen, Finger Food, and Wild Gash collectively lead the Ladies of Perpetual Strangulation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"I'm forgetting at least a dozen more. I've even led a gang or two in my day. They never survive very long, so no point in getting attached."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"I would like to discuss your apparent connection with Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Trigger Conv Node 394</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Trigger Conv Node 395</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>[To Barik and Verse] "Have either of you noticed that you fight particularly well together?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Trigger Conv Node 397</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Let me make one thing clear, just so there aren't any misunderstandings. You support [url=glossary:graven ashe]Graven Ashe[/url], and I couldn't care less. I'm here because you've done what none of the Archons could. Not even [url=glossary:the voices of nerat]the Voices of Nerat[/url] would fault me that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"He's also a complete bastard, and I wouldn't want to miss an opportunity to stab him in the gut and take control of his army. So there's that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"You've carved out a real knack for yourself by breaking the Overlord's Edicts left and right. Whatever [url=glossary:tunon]Tunon[/url] is paying you for your services, I'd say you're due for a raise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"How does it feel? Not only have you given voice to the Overlord's will, but you're breaking [url=glossary:kyros]Kyros[/url]' magic left and right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"I'm exposing myself to powers I don't understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"I'm only serving the interests of the mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"I'm in no mood to disclose my thoughts." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"War is about taking risks, and you're putting yourself out there more than anyone. I can't help but respect that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Sticking to your priorities is a good way to stay alive, but I wonder if you should be more reckless. I never got anywhere by playing it safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"You won't hear me complaining. As far as I'm concerned, you've got more than enough on your mind - including the words of a few Edicts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"I'm here if you need me, but I don't have a mind for arcane wisdom. I'll do whatever I can to get our little gang through this war. And if it ever looks like your strength is flagging, I'll put you out of your misery and take control. Cheer up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Our gang is building quite the little collection of Spires, aren't we? [url=glossary:the voices of nerat]The Voices of Nerat[/url] was never one for keeping strongholds, but I can definitely see the appeal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Why doesn't the Voices like strongholds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"What do you think of these Spires?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"I had questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Because there's no point in standing still. The Voices prefers to keep his forces busy and on the move, with the only restful hours between dusk and dawn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Besides, fighters in motion are less likely to rise up and challenge authority. Safety in numbers. But once you get people hunkering down to discuss their problems, suddenly everyone has a reason to kill the closest gang boss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"They're big, but make no mistake - a determined army could knock one down if they got enough shovels and picks together. Don't be so quick to assume that you're invincible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"As to what they are... I try not to ask those sorts of questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"What of your parents?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"My mother ran a successful farm, and I worked it for a number of years before I found the Chorus. She was a hard, bitter woman. Acted like the world owed her something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"She never talked about my father, though I figured out a thing or two about him later on. He was a merchant from the Northern Empire who took a liking to her, and she him. He stayed around only long enough to get what he wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Barik pointedly turns to look away. Verse frowns in his direction, though they say nothing to each other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Of course, we're all up to date on that little scandal, aren't we? Barik's whoremonger of a father likes to plant his seed in soil far from home. And who can blame him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"But never mind him. My mother never had what you would call taste, so he couldn't have been terribly influential to me if he did stick around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"If you would not speak well of him... then I beg you say nothing at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Then one day, when I decided enough was enough, I'd slit my husband's throat over breakfast and run off to join the Chorus anyway. My way saved a lot of time." Verse smooths back the feathers in her hair and shakes her head with a smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"When I left the farm to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url], I wrung that ungrateful little fucker like a dish rag, plucked his feathers, and gave his carcass to the mice. It felt like justice." She slides a crimson feather from her hair and spins it in her fingers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Scarlet Furies share a sort of link. It's how we coordinate our dance in the heat of battle. We don't pass messages or anything, but our emotions and intentions sync up without words." She starts worrying one of her knives. After a moment she sighs and slaps the blade back into its sheath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Is this link arcane in nature?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Were you grouped because of your compatibilities?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"I would say it's emotional. The Chorus is more interested in passion. Magic is just a convenient tool."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Something like that. But when it came to my sisters, we had as many differences as similarities, so it's difficult to tell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"The one thing I always knew was that I felt this connection more keenly than my sisters did. I could pick up nuances that they missed, and I could feel them from farther away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Are you a spy for [url=glossary:the voices of nerat]the Voices of Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Verse regards you with an unreadable expression. Her mismatched eyes look at each of yours in turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"I was. And to be perfectly fair, I think I've been more or less transparent about it. But that doesn't change anything about why I chose to travel with you. If I didn't want to, I'd just leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "I mean, does it even matter? You have to decide for yourself whether or not I'm worth trusting. Is keeping me along worth the risk that I'll spill the occasional word about what you ate for breakfast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] is the Archon of Secrets, not the Archon of Honesty or Fair Dealings. If you don't assume that everyone already reports to him, you're not being careful enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"What did the Voices want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"You were just doing your job. No harm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"He never told me. He just said to keep an eye on you, but there was an implication that I'd have an opportunity to report in. As if I would have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"More likely he would have stolen my mind and learned everything I knew, just to make sure I didn't leave anything out. So if you have any reservations about my discretion, keep that in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"I never trusted you, and this only confirms my suspicions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Well, I'm grateful that we don't have to make a big deal about it and waste our time wondering if we can ever trust each other again. Honestly, it's refreshing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"If it's such a big problem for you, then drop me off at the nearest occupied Spire and send me on my way. I'd rather find something useful to do than see your hurt expression every time I check that you're still alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"When you least suspect it, the Archon of Secrets can be downright charming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"I suppose that's true, and like any competent gang boss you want to know if your second in command is losing her nerve. Seems fair enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"'Who were they' would be more appropriate. Three Whispers, Red Geyser, and Seeking-Sheath. Best fighters I ever met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"I... hesitated. I lost my nerve. Instead of rushing the oathbreakers, I froze with my weapon drawn. My sisters fought on without me, but they were off-balance - like whatever I had was catching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Do you think you hesitated because of your connection with Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>She looks away from you, focusing on a point in the distance. You can see that she's chewing the inside of her cheek in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Yeah. It's a tough thing to imagine, but I think that what Barik and I share goes deeper than blood. He's in my head somewhere, and I'm in his. If what you say is true, our connection was active before we even met." She lets out a hard breath and shakes her head in amazement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"You sure have a knack for getting to the bottom of people, Fatebinder. Be careful with that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"You know the story already. I lost my nerve on the battlefield, and my sisters died. It was a terrible loss, and I'm not proud of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Hesitation is a rot. It's unbecoming of any Chorus member, and unheard of in a Scarlet Fury. I would cut it from my body and cauterize the wound if... if only I knew its source." She grimaces once more and turns inward, contemplating.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Better to die than become [url=lore:voices_power]part of the Voices."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"Feathers aren't good enough for you, are they?" Verse smooths back her crimson plumage with a humored chuckle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"I've seen enough of that high-minded braggart to know that he's all duty. Nothing but a charismatic, broad-shouldered scarecrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"Of course I do. First I'd stop babying the troops. Pain is a lesson best learned early. I'd conscript from the locals to bolster the front lines, because why waste your elite on the vanguard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] promote their waning bloodline, and discipline any soldier with the audacity to show their teeth. Though they'd never admit it, the [url=glossary:disfavored]Disfavored[/url] need the Chorus to show them the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"At best, the [url=glossary:disfavored]Disfavored[/url] are tired of using the same tactic over and over again. At worst, the enemy knows what to expect out of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Well, it falls to us to decide which of the Archons is fit to rule the Tiers. I guess that means killing off the rest, getting them to bow, or bending the knee yourself. I'd pick anything but that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Bank Node 467</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"You mean my stinking brother in the iron suit?" Her nose wrinkles with disgust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"In truth, the results have been ugly. It's tough to capture something that a net won't hold. As often as not, we either have to talk her kind into conscripting, or murder enough of them that only the weak are left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"You may think you're leading her around, but it might be the opposite. Would any of us even know the difference? All I need to know about Sirin is that she scares [url=glossary:kyros]Kyros[/url]. That... that pretty much says it all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Is there anything we can do for Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"I don't know. I've never seen him like this, but then again... we haven't known each other that long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"He always took such comfort in [url=glossary:graven ashe]Graven Ashe[/url]. That crooked old man... Maybe Barik would respond to a show of authority? He seemed to love nothing more than being ordered around." She sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"I have thoughts about your combat abilities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Do you now? Call me intrigued."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"You already know that I memorized the moves of my Scarlet Fury sisters. If it seems like a total mystery to me, I don't know how you could have arrived at any conclusions. But, I'm open to ideas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"Your talent reminds me of [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"I think you're just a damn good fighter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Did you take their fighting moves, or the memory of their fighting moves? Remind you of anyone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"I hope I didn't hear you say that, Fatebinder, because the implication is more than either of us is prepared to handle." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"Think about it. He [url=lore:voices_power]absorbs the minds[/url] of his victims."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"Forget I said anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Gladly! Can we move on from this already?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"Well, I don't want to fucking think about it! Didn't you consider for a second that the thought had occurred to me already?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"I've traveled with the Chorus for years. I've seen what the Voices can do, and it scares me, all right? The idea that everything I am could be reduced to... to that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"If I had that kind of power, if I could become like him, I don't know how I could live with myself. I'd rather drown myself in a camp latrine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"You don't have to become like him. Just be... selective."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"The Voices isn't so bad. Give it a chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] is a monster. We both know that Terratus has never seen a creature more despicable than him - never mind that he's kind of my boss." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"I'm sure he had the same idea when he got started... but you know what they say about power. It's usually wielded by assholes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"My sisters died. You should have seen us... we were amazing together. I didn't mean to take away what made them special, but I did it all the same. And let me tell you... it felt terrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"If I lived a century, I might never figure out how to make that happen again. And more importantly, I don't want to." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"You must not have been paying attention during the conquest, then. I wish I could tell you how many bodies he's left in his wake, but even I lost count."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"If you think so highly of him, you should be bowing at his throne and serving the Chorus. Between the two of us, I'm the authority on how terrible he can be." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"Shucks. You know just what to tell a girl, don't you? I'll thank you to spare me the empty compliments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"If you want to split hairs over it, you could argue that I took their instincts, their reactions, but I fail to see... Wait. Are you trying to compare me to [url=glossary:the voices of nerat]the Voices of Nerat[/url]?" Verse glares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"I'm not comparing you to the Voices - only this... talent you exhibit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"My little 'talent' that latches onto my friends and bleeds them dry, you mean? Because I never asked for it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Sometimes she would sneak out at night, take a scythe, and have some fun with the livestock. Our shared interests began and ended there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"The warriors at your side shouldn't suffer from elder's ache in their sword arm. You would be better served by putting him out of his misery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"I find myself in need of an accomplished killer." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"Point me in the right direction. I'll cut down whatever I find in my path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"I suppose I'd hate to deprive you. Let's be off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>"And I seem to be missing a gang. We're well matched, you and I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>Random Node 511</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"You learned a thing or two about fighting in the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Care to duel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"That would be an understatement, and I thought you'd never ask! Since you're obviously at a huge disadvantage, I'll let you pick our weapon of choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"Let's try dual wielding knives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"How about bows? Let's play target practice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"On second thought, let's fight another time. I want to survive this day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Feel free to draw iron or bronze any time. I'll be ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Exotic. Good choice. I'll leave you to guess which one is my dominant hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Verse slashes and parries with unrestrained ferocity. At times it becomes difficult to follow her movements. After taking more than a few cuts, you learn to relax your eyes and better follow the subtle motion of her dance. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"You held your own. Call me impressed. Need anything else, or did I tire you out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"If you want to risk becoming a pincushion, it's your funeral. But you're right about one thing - this will be fun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>You take turns loosing blunted arrows, using each other as moving targets. Verse is an accomplished runner, and swats the few projectiles that gets close out of the air. When her turn arrives, it takes all of your energy to keep up with her relentless volley of projectiles. You observe her technique and take a valuable lesson to heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Fatebinder, I treat my craft like my mother treated her hagsberry pie - I don't give the recipe to just anyone. Come to think of it, I still don't know what was in that damn pie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>"Why such an aversion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>"Because the Voices isn't... I mean, can you even call him human anymore?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"Everything I am has led me to this point. I joined the Chorus, fought to survive, grew stronger than I ever knew I could be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"I never needed to steal anything that made me me! I don't want to be better by being someone else! The Voices is stronger than anyone, and terrifying enough to lead the Chorus, but he's also an overgrown parasite, and some day he'll stuff himself so full of voices that he'll burst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"What's your real name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"That question isn't worthy of either of us, but I'll entertain it out of pity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"You already know me by my real name. It's Verse. Are you looking for whatever arbitrary collection of letters and sounds my mother thought was appropriate when she didn't even know me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Then you're out of luck. I buried that name a long ago. Long by my standards, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"On second thought, I've heard enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"If you aren't keen on dissecting my story, so much the better." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Forget I said anything. Back to my previous questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Feeling indecisive, are we? Go on, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"Are you trying to piss everyone off, or do you just do this for fun? I'm not judging either way, I'm just curious. Casting an [url=glossary:edict]Edict[/url] on [url=glossary:vendrien's well]Vendrien's Well[/url] is a good way to shine a beacon on yourself. Or paint a target." Verse crosses her arms and smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Fatebinder... I never thought that anyone could get the jump on [url=glossary:the voices of nerat]the Voices of Nerat[/url]. He outlasted most of his enemies and ate the others. He was this great, bottomless... thing. I just assumed that he would be around forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"I saved your skin, didn't I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>"I put us all in danger. I should never have done it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>"I have questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>[Leave] "Enough for now. Let's be off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"You're the boss, boss." Verse offers you a humored salute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"Sure did. For now. Like I said, I'm not trying to prod you or suggest you made the wrong call. As someone who likes to stay discreet until she has the opening to strike a killing blow, I find your little public gesture of dominance... well, quaint. Charming. In a dumb way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"See, going around questioning yourself - if you ask me, THAT puts us in more danger than flaunting the Overlord's magic. Grow a pair and stick to your convictions. In a world where a legal clerk can cast apocalyptic spells from the top of an unassailable tower, who's to say what's right or wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"You don't make it easy for those of us who follow you. To see one of us fed to that bottomless, green maw? Not even I would try that, and I've led Chorus gangs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>"And now he's dead. It's hard to believe, really. I'm happy, but he also gave me this life, this name. I hated him, but he was incredible. An artist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>"What I'm trying to say here is that I'm impressed. You've exceeded my low expectations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"Do you think the Voices is still in there somewhere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"Do you think the Voices is really dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"I have questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"And the fact that Barik ended up inside that... that green cadaver Nerat called a body? I would not have wished that for him. I hope he's happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"And Barik... I can't believe you let the Voices take him. You have no idea what the Voices does to people's minds, how they suffer in that screaming abyss. Even if it didn't last long, I know that Barik was in pain before the end. So much pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>"At least Barik's out of his armor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"It wasn't easy for either of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>"Yeah... no sooner does he leave one prison that he gets shoved into another. I see your point, but I don't share your optimism. I only hope he manages to stay... human, in there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>"Barik and I were siblings by blood, but damn it... it's not like we grew up together. He had no reason to take my place. That big, dumb, iron shit tower. What did he feel that I don't understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>"Just... stay out of my business, Fatebinder. He's gone, but so is the Voices. I'm sure Barik would be happy about that much. As if I knew him at all. As if we even had the time to get to know each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"I'm done talking about it. I don't even like thinking about it. Can we move on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>Rubbing her brow, she turns her gaze to the ground between her feet and sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"Why are you taking Barik's death so personally?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>"There was a time when this war was too small for us both, and we butted heads constantly. I wanted him out of my life. I wished that he didn't even exist. Now that he's gone, I just want him back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"I do. He's not at his former strength, but he's in there. I'm sure the others are keeping him subdued... somehow. In that chaotic, howling sea of memory, I hope he never reaches shore." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>"If we're being honest with each other, I have my doubts. The Voices could scheme a thousand steps ahead of anyone - I can only imagine that he had something planned for his death, some contingency."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>"It could be so complex that we might never recognize it if we saw it. It might not even happen in our lifetimes... if we're lucky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"Do you think the Voices is still in there somewhere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>"I do. He's not at his former strength, but he's in there. I'm sure the others are keeping him subdued... somehow. In that chaotic, howling sea of memory, I hope he never reaches shore." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

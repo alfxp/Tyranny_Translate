@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_dis_qst_thebronzethief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Bronze Thief</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Defeat the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Locate the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] commander.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Go to Deserter's March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retrieve the Keystone from Myrek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Search Flatfoot Ferris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Raetommon has taken both the Magebane Helm and Forge Master Zdenya - [url=glossary:graven ashe]Graven Ashe[/url] will not be happy that his prize [url=glossary:forge-bound]Forge-Bound[/url] and the artifact are gone. Pursue Raetommon and retrieve both Zedyna and the Helm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>You've learned that the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] has a campsite at Twin Rivers. Start your search for Raetommon there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] in Twin Rivers are currently in combat with Scourges. This is an excellent opportunity to kill them while they're distracted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>It's likely that the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] commander in Twin Rivers would know where to find Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] commander, Welby, told you Raetommon had gone inside the Oldwalls at Twin Rivers. She also said that a man named Myrek has the Keystone required to get inside the Oldwalls - Myrek was headed toward Deserter's March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Myrek has the Keystone for the Oldwalls entrance in Twin Rivers. He's somewhere in Deserter's March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>With the Keystone in hand, you should return to Twin Rivers and enter the Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Flatfoot Ferris probably has something that will help reach Raetommon deeper inside the Oldwalls. Search his body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Use the Keystone to enter the Oldwalls and confront the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You chased Raetommon, who took the [url=glossary:forge-bound]Forge-Bound[/url] Master, into the Oldwalls at Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

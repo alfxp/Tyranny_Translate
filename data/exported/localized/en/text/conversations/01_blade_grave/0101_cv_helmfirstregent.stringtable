@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0101_cv_helmfirstregent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You spend hours chipping away at the rock, liberating dozens of damaged and unremarkable specimens. Eventually, you crack open one of the spikes along the crest of the formation, revealing a helmet that is warm to the touch and appears - apart from the dust covering it - freshly forged.
+
+You have found the Helm of the First Regent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You scan the formation for breastplates bearing the mark of Epistratos. After a few minutes, you find one embedded in a spike that helps form the upper crest of the rocky protrusion. The Regent was pierced from underneath, and following the spike's curve, you spot a distinctive helm half-embedded near its tip. 
+
+You have found the Helm of the First Regent.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

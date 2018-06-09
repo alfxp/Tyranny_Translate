@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_hundredblood_ascensionhall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trigger Conv Node 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Spire-den reeks of mewling, yipping humans. Hundred-Blood does not like dealing with Alphas who refuse to listen to great [url=glossary:prima]Prima[/url] to [url=glossary:stonestalkers]Stonestalkers[/url]."
+
+She cracks her gnarled, hairy knuckles against the broad palm of one hand before flicking her claws in the air.
+
+"May have to discipline weak whelps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] are loyal to Fatebinder. Will fight for Fatebinder's pack like protecting kith. Will hunt and slaughter and die by human's side, if needed, so all Beastwomen can survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

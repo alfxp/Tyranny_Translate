@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_trappersjunction_sc_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>She wipes a small stream of drool from her face before speaking. "Fatebinder, see anything you like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Let me see your wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Fatebinder!" The words fall out of her misshapen mouth with bits of drool that involuntarily ooze and run down her chin. "You are most welcome here, I've got a special price for you!" Her enthusiasm causes a hail of saliva to land squarely on your chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You see a woman turned away from you, her head leaning into various barrels, tossing out bits of rotted food and the occasional pest. You can see that her back is adorned with scars from burns that stretch the length of her entire left side.
+
+She notices you approach and turns her head, revealing the left side of his face to be equally as scarred. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Fatebinder..." Spittles of saliva drip from her misshapen mouth involuntarily as her face contorts into a strange version of a scowl. "Are you going to buy something, or continue to stare?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What... happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She blinks. "Oh, these?" She points to her face and side. "Had a bad night with a Blood Hound. They tend to explode when overexcited, I'm sure you've noticed."
+
+She wipes her face as she continues to stare at you blankly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>She suddenly bursts into laughter, causing a fit of drool to spew in every direction. "I had you for a moment!" Her laughter subsides and she collects herself by giving a small shrug. "No-no, parents were not too keen about having a fifth child - tried tossing me on a funeral pyre for my uncle when I was young. Got a bit overcooked, but I managed to crawl away. Started a new life with the Chorus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Welcome, Fatebinder. Jagged Remedy will want to speak with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

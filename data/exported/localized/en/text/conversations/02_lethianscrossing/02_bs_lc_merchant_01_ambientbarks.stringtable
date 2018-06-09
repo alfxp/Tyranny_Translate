@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_bs_lc_merchant_01_ambientbarks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I've heard rumors that the plight in the [url=glossary:stone sea]Stone Sea[/url] has finally ended, perhaps the settlers can finally rebuild."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"First I heard there was a dying Archon in the [url=glossary:stone sea]Stone Sea[/url] to begin with - Now to here someone put him down as well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Almost an entire Mage Guild of the [url=glossary:disfavored]Disfavored[/url] army defecting to the side of a Fatebinder? You've got a way with people, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"There were some close calls there, but I wouldn't be the first to say that we all owe you our lives, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You single handedly took care of entire garrison? Remind me to not cross paths with a Fatebinder..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Finally our settlement returns into the hands of Tiersmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

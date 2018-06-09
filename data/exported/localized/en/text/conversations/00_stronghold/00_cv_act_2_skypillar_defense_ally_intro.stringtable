@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_cv_act_2_skypillar_defense_ally_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Death Knell rushes toward you. She wears the garb of a Crimson Spear, now splattered with blood. "Fatebinder, we've spotted the enemy army from atop the walls - numbers greater than what we brought to take this fortress, months ago."
+
+"Ceveus has already arrived, leading their vanguard. They are demanding a meeting with the Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ceveus rushes toward you. He wears the garb of an [url=glossary:iron guard]Iron Guard[/url], battered with dents and slashes from weapons. "Fatebinder, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] has been spotted in the distance... too many to count."
+
+"Death Knell has already arrived, leading their vanguard. They are demanding a meeting with the Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Arri rushes to your side, her arm pierced, and her eyes bloodshot. "We ran into advance forces south of fortress, but had to withdraw. The Chorus are too many, and their forces will be here soon."
+
+"Their vanguard has already arrived. They are demanding a meeting with the Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"This must be dealt with. Let's go speak with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Let them wait. I'm not ready yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

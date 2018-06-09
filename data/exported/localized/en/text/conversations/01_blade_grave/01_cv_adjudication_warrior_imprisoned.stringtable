@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_adjudication_warrior_imprisoned</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Thank the Archons you've come. I could use a hand getting out of these chains." He shifts his bearing to rattle his manacles with an apologetic smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Fatebinder! Have you come back to hear my plea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Let the man speak. What seems to be the problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I assume those chains are there for a reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"But you shouldn't fear. As you can see, I'm as docile as a fallen log. I was sentenced for an impulsive choice, but hardly a crime. Let me tell you my story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I was in Azure during the conquest. Back when [url=glossary:cairn]Cairn[/url] declared himself an enemy of [url=glossary:kyros]Kyros[/url], our forces panicked. We didn't know who we could trust. When an Archon goes rogue, you can depend on his supporters falling in line." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Be sure it doesn't. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"One of the Earthshakers was acting funny, like he had something on his mind. I followed him back to the commander's tent and caught him digging through supplies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Start at the beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Absolutely not. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Quiet, prisoner! The Fatebinder doesn't need to be bothered by the likes of you. My apologies, sir. Won't happen again."</DefaultText>
+      <FemaleText>"Quiet, prisoner! The Fatebinder doesn't need to be bothered by the likes of you. My apologies, ma'am. Won't happen again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"This one's a murderer. He broke [url=glossary:kyros]Kyros[/url]' Peace, and [url=glossary:graven ashe]Graven Ashe[/url] judged him accordingly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Oh, thank you! Thank you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I confronted him, we argued, we fought, and..." The soldier clears his throat. "I killed him. I won't mince words - I thought he was a traitor, and acted accordingly. Later, the Earthshakers proved loyal... more or less. Turned out the man I killed was only searching for his inkwell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"On second thought, I'm not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Is this account accurate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"So what do you want from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"To the best of my knowledge. There may have been some investigation about the Earthshakers' loyalties at the time, but it had no bearing on this conflict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I want to appeal my ruling. By the letter of the law, [url=glossary:graven ashe]Graven Ashe[/url] made the right decision. I don't dispute that. But the spirit of [url=glossary:kyros]Kyros[/url]' law is another matter. I was putting down a suspected traitor, not lashing out in anger. These things happen in war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Do you both consent to my involvement in this case?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The soldier appears to weigh his options. "I don't approve of second-guessing [url=glossary:graven ashe]Graven Ashe[/url]'s judgment... but as [url=glossary:tunon]Tunon[/url]'s Fatebinder, I trust you to make a worthy decision." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"As do I. Thank you for hearing me out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Was there any other reason to suspect the Earthshaker?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Did you have any history of erratic behavior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I'm ready to make my ruling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I kept an eye on him throughout the campaign, but no... nothing substantial that I could name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I can speak to that. The truth of the matter is we were leery of the mages since the conquest began. They seemed better at ease in a book than a battlefield, and I've never trusted anyone who could read."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"None at all. I spent most of my battles supporting the phalanx from the rear. It's important duty. Even if it isn't the front lines, a lot of good soldiers depend on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"If anyone in the rear shows signs of cracking - maybe from too many blows to the head - someone always notices." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Excellent. Thank you for taking the time to weigh my case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No more or less than I expected. I suppose I'll work off my sentence and earn my way back into the legion." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I uphold [url=glossary:graven ashe]Graven Ashe[/url]'s decision. You will remain a prisoner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ashe was wrong. These things happen in war. You may return to your duties."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"You can return to battle... at the head of the phalanx. Only your strength will redeem you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"On second thought, let me reconsider my prior questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Thank you, Fatebinder. I know that Ashe appreciates the extra set of eyes to confirm his judgment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I can return to the phalanx? Wondrous news! Another chance to redeem myself, and earn back the pride of the [url=glossary:disfavored]Disfavored[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] will not thank you for this... but I will abide by it." He releases the prisoner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I... I can't tell if that's a promotion or a death sentence, but I'll take it all the same! It's a better fate for me than these chains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I can only guess how [url=glossary:graven ashe]Graven Ashe[/url] will feel about you interpreting his rulings, but at least you put this wretch to work. I suppose that counts for something." He unties the prisoner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Of course. Take your time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"How much would you pay for your freedom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You're serious? I mean, I picked up my share of rings during the conquest, but I don't think [url=glossary:graven ashe]Graven Ashe[/url] would welcome me if I bought my way back into his service..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Accept rings.] "Let me worry about [url=glossary:graven ashe]Graven Ashe[/url]. You return to your unit at once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Fair point. Back to my questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Is this an obscene joke? This man is my prisoner and a murderer! The legion will know of your treachery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I appreciate your understanding, Fatebinder. I've spent too long away from the phalanx." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I'd rather stay on the right side of the law. Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Have you taken the time to consider my plea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I will need time to consider this. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Explain it to me again, from the beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I have some questions before I make my ruling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Of course. Go ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Think you could loosen these bonds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Script Node 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I guess I'll just stay here, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I like this not, but it seems I have no choice in the matter." He unties the prisoner and glares at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"These bonds are really chafing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I miss the vanguard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Bank Node 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I'd rather handle this at another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Well, I suppose there's no harm in it, then." The soldier nods to a belt of rings hanging from his waist, of which you relieve him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Let me return to this at a later time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The soldier stands taller in your presence. "You've been nothing if not a friend to our legion. [url=lore:conq_empty]We ate well during the Stalwart campaign[/url] after you punished those Chorus rats for thievery." 
+
+"Sorry about the disturbance. Didn't mean to bother you on assignment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Go on, then. Present your testimony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Not interested. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"True enough. In times of stress and relentless onslaught, we rely on our support infantry to help us hold the lines. Glory isn't always won in the front."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"This is a perversion of the General's justice... if Ashe had wanted this soldier disciplined, he would have ruled accordingly. He removed this man from service for a reason." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Upholding the Great General's justice is a worthy move. You show great honor to the Archon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"This is a perversion of the General's justice... if Ashe had wanted this soldier disciplined, he would have ruled accordingly. He removed this man from service for a reason." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Now that is a worthy solution to your problems. A pity you ended up a Fatebinder and not a Chorus gang boss. You have the instincts for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

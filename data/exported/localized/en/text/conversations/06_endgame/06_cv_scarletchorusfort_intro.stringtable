@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_scarletchorusfort_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Welcome to Cacophony, Fatebinder. Nerat said to be expecting you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Where can I find [url=glossary:the voices of nerat]the Voices of Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What can you tell me about Cacophony?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Northeast corner of the camp, near the only real buildings left. If he's not on his throne, he's wandering not too far from it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"It's the main stronghold of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in the Tiers. All Chorus groups have some of their people here - Horde, Scarlet Furies, Blood Chanters, Blood Hound, even the Beastmen. Everybody's got their own section of camp - better that way, keeps the brawling to a minimum." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"We got a merchant here if you need to buy anything. There's also the quartermaster, but Nerat's gotta give him the say-so before you're allowed to get your hands on Chorus goods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

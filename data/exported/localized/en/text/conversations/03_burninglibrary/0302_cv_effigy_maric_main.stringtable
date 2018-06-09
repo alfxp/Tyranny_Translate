@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0302_cv_effigy_maric_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What do you want? I've already faced enough torments at the hands of these... scholars."
+
+The bound prisoner squints up at you and licks his dry lips.
+
+"You're [url=glossary:tunon]Tunon[/url]'s Fatebinder, aren't you? I'd recognize you anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Kill Maric] "Forget Ashe's orders. You're a weakling and don't deserve to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"My scouts and I were infiltrating the [url=glossary:burning library]Burning Library[/url]. One of my best - Jelena - must have been working with the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. She disappeared, and shortly after we were hunted down."
+
+He sends a bloody glob of spit to the ground. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Set me free and we can talk more. That would be a real favor. And if you were worried about the muscle around camp, the rest of my scouts are nearby. They can help us fight off the [url=glossary:sage]Sage[/url] scum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You must be Maric. Ashe has tasked me with destroying the Library, so I need your help to get past the Chorus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Maric looks dismayed. "So [url=glossary:graven ashe]Graven Ashe[/url] sent someone to finish what I couldn't do. I knew I had failed my mission, but I didn't know I wasn't going to be given a chance to redeem myself."
+
+"So be it. There is no point in mourning what I cannot change. As for your problem - I wish I could help you, Fatebinder, but at present, I can't even help myself."
+
+Maric looks down at his restraints. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"The Sages are already dead. You're free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Thank you for your help, Fatebinder. I will forever be in debt to you for helping me to avoid the shame of a dishonorable death on top of my other failure. I am afraid I must ask more of you, even after you have already done more for me than I can repay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Some of my Oath Bound scouts are still missing. Two are in the [url=glossary:burning library]Burning Library[/url], and the third - Jelena - is in the [url=glossary:scarlet chorus]Scarlet Chorus[/url] camp. I want to see her properly punished for her betrayal - as much as I want to see the others saved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Thank you, Fatebinder. I am in your debt. I will not hide the fact that without your help, I would have failed in my mission. Your name will be praised as long as I can draw a breath."
+
+"I will await your return here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Fatebinder, I can't thank you enough for rescuing my Oath Bound scouts."
+
+"I also heard that you saved me the trouble of dispatching Jelena. Much as I would have preferred to carry out [url=glossary:disfavored]Disfavored[/url] justice myself, I suppose that's why you're here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Jelena, what am I to do with you?" 
+
+"Not only did you sell us out to the [url=glossary:scarlet chorus]Scarlet Chorus[/url], but you used our Oath Bound connection against us. In all the history of the [url=glossary:disfavored]Disfavored[/url], I never heard of a more despicable crime." 
+
+"Not even the Scarlet Furies would commit such an atrocity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Fatebinder, I'm grateful that you returned my unit, but I have another problem - Jelena. While I'm sympathetic to the fact that she suffered at the hands of the Chorus, I can't pretend that she didn't betray us. Neither can the rest of my scouts."
+
+"You have a way with justice and law. Would you mind adjudicating the matter? I'm too knotted up over it to make a clear-headed ruling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Jelena should be executed for her betrayal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Jelena only revealed what she had to, and deserves to rejoin the unit. Her misdirection allowed the rest of you to survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Jelena gambled with your lives, and that was not her choice to make. She should be banished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Anyone could break under torture. Jelena was as loyal as anyone could be. Pardon her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I agree. Though it gives me no pleasure to end the life of one of my own, I can see no other way to right this wrong."
+
+"Jelena, ready yourself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] are not 'anyone.' The Oath Bound ranks set the standard for loyalty, dependability, and steadfastness in the face of adversity."
+
+"I blame myself for whatever talent I recognized in Jelena, but the failing is still hers to bear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>He winces. 
+
+"Even now, I seek to believe in your fidelity, which makes this all the more difficult." 
+
+"Jelena, you are released from Ashe's protection, and I consign you to the void, that the [url=glossary:disfavored]Disfavored[/url] may be stronger for your absence." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I must admit that I had not considered this... interpretation of events." 
+
+He pauses. 
+
+"Jelena caused the deaths of some, but only for the sake of sparing others. When you frame it that way, she did indeed rely on the strength of her brethren, and there is no action more [url=glossary:disfavored]Disfavored[/url] than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Jelena, it pleases me to welcome you back into the unit. Pack your things and get ready to move out." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Thank you for your assistance. I can finish anything else in the Library that requires the [url=glossary:disfavored]Disfavored[/url]'s attention while you return to [url=glossary:graven ashe]Graven Ashe[/url]. I will send him my full report as soon as I'm able. Should you need any assistance in the future, you have but to ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"That sounds reasonable to me. Jelena made a calculating move with the right intentions in her heart, but it could just as easily have gotten us all killed." 
+
+He turns to her. "Jelena, this is why we have plans, orders, a chain of command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Time to go, Jelena." 
+
+"Your life is your own, but you are released from Ashe's protection. I consign you to the wilderness, that the [url=glossary:disfavored]Disfavored[/url] may be stronger for your absence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Fatebinder!" 
+
+Maric's expression twists into a grimace.
+
+"I felt the death of my Oath Bound as surely as if a blade had been slipped between my own ribs. I thank you for your help and will mourn those who fell when I am finished here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'll wait here for my unit and tend to my wounds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"She used her Oath Bound connection against us. That's how the Chorus was able to pin down our location. Damn clever. I don't know how many of us were taken, but these Sages caught me while I was resting. Suppose I should feel grateful?"
+
+"Now I just await my execution. Unless you're willing to help me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"At the very least, we wouldn't drag the matter out into the open like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Maric, they were torturing me! I had no choice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You could have endured by drawing strength from our bond! We would have found you eventually."
+
+Maric massages his brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>She squares her shoulders in a tight salute. 
+
+"I was dead the moment I turned my back on [url=glossary:graven ashe]Graven Ashe[/url]. This is a mere formality, so let's be done with it." 
+
+"May your swing be true, Maric. For our countrymens' sake, don't let me suffer." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You asked for my ruling, Maric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"And I thank you for it, but I am the master of my scouts. Their fate rests with me." 
+
+"Jelena, ready yourself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I would like to hear what Jelena has to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Thank you, Maric. And you too, Fatebinder. I vow to strengthen the [url=glossary:disfavored]Disfavored[/url] through loyalty and deed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Thank you for the opportunity, Fatebinder."
+
+"I knew that I couldn't endure the Chorus interrogation forever. No one short of Ashe has the fortitude for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You're hardly qualified to judge." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Let her talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I made as if to break under the pressure, and surrendered the location of two scouts. They were both cut-off from the rest, and their location wouldn't have given anyone away."
+
+"Even so, I was saving my strength to send a warning that would alert the rest of you about the Chorus movements... even to those I betrayed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"A shame. [url=glossary:graven ashe]Graven Ashe[/url] hates to lose a Northerner to an enemy, much less an ally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I don't say that to excuse my actions - just to offer some context. The fallen scouts may haunt me for the rest of my days, but Maric and the others may live richer, fuller lives on their behalf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Maric, does this change anything for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Your testimony changes nothing - you are guilty of collusion with the enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Fatebinder, I retract my request for a ruling. No judgment is necessary. Jelena is free and welcome to rejoin her unit."
+
+"Jelena, pack your things and get ready to move out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I never forgot, Maric."
+
+"Fatebinder, thank you for your help. The Tiers will be a friendless place without the [url=glossary:disfavored]Disfavored[/url], but it pleases me to know that you're here, dispensing judgment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What are you doing here, betrayer? I have nothing to say to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Leave] "I will leave you to your misery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Maric looks at you with an unwavering stare. "Do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I ask of you to find my missing men and return them to me. Jelena must be made to pay for her crimes and I will not have another of my men lost to her weak will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Kill Maric] "A captive [url=glossary:disfavored]Disfavored[/url] at my mercy. I can't pass up this opportunity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Maric looks at you with an unwavering stare. "Do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"First you will help me. I need to get to the Library."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"What is your request?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I will tell you everything I know, I only ask you do something for me once you make it to the Library. [url=glossary:graven ashe]Graven Ashe[/url] tasked me and my group with destroying it. Unfortunately, we were discovered and routed, but I know how to get you there safely. Here, let me mark on your map how to bypass all the Chorus patrols to get to the Library. Once there, you need only deal with the Censor to get inside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"You're lucky I have business there as well. I will look for your Oath Bound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I will find your men and return them to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Tell me about this betrayal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You mentioned an Oath Bound connection? What is that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"What do you want me to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"She used her Oath Bound connection against us. That's how the Chorus was able to pin down our location. Damn clever. I don't know how many of us were taken, but these Sages caught me while I was resting. She must be punished for her betrayal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Because you helped me, I will tell you, but normally this knowledge is not shared outside the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Before you are truly an Oath Bound, you must complete a ritual that connects you to each one of your brothers. Their feelings become yours, their pains are your pains, and their troubles are yours as well. Jelena used that connection to betray us. She must be made to pay for that act."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Maric's expression twists into a grimace. "Fatebinder! I felt the death of my Oath Bound as surely as if a blade had been slipped between my own ribs. Far be it from me to question your decisions in these matters, but could you not have rescued my men before destroying the Library?" He looks down, his face forlorn. "I will mourn those who fell when I am finished here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"When you have finished what you came here to do, come speak to me again. Do not fail Ashe as I have failed my men, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Script Node 101</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Script Node 102</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"You would slay a bound, unarmed man? I can't stomach your brutality, Fatebinder. Maric is [url=glossary:disfavored]Disfavored[/url], and deserves better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Stand down, Barik. This is none of your concern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You're wrong. I'm concerned for the very integrity of this war. Whatever confidence I once had in your leadership is challenged by the monster I see before me. Go on, then. Do what you do best." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Why so squeamish now? We've killed plenty of [url=glossary:disfavored]Disfavored[/url] before, and this won't be the last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Yes, and I count them all with sorrow as I twist in my bedroll at night. As much as their deaths bring me unease, I know that they served a purpose of bringing order to this campaign... obscure and bewildering as I might find it." Barik glares at you.
+
+"This serves nothing, helps no one, and brings needless agony to a good Northman. Call me squeamish if you must. I vehemently object." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You're the one responsible for [url=lore:bl_sirin_song]muzzling those troublesome Sages[/url]. That decision was a stroke of genius. Not only did you keep the Sages under control, you hampered the Censor's efforts to explore the Library. If they can't talk to the Sages, they're not going to get a lot of help out of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Without your help, my [url=glossary:disfavored]Disfavored[/url] brethren would have been [url=lore:bl_lost_to_mountains]lost forever in those mountains[/url]. I don't know what happened to trap them up there, but if you had not interceded on their behalf, I would never have seen them again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Although I will say this. It's because of you [url=lore:bl_lost_to_mountains]some of my Disfavored brethren were lost forever in the mountains[/url]. If you could have spared a [url=glossary:scarlet chorus]Scarlet Chorus[/url] group to find them, we wouldn't have had cause to mourn the deaths of many good men and fine soldiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"But I'm afraid you have me at a disadvantage right now... I am at your mercy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Although I will say this. It's because of you [url=lore:bl_lost_to_mountains]some of my Disfavored brethren were lost forever in the mountains[/url]. If you could have spared a [url=glossary:scarlet chorus]Scarlet Chorus[/url] group to find them, we wouldn't have had cause to mourn the deaths of many good men and fine soldiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Be aware, Fatebinder - one of my soldiers mentioned a large, magical barricade deep inside the Library. The Censor has her gangs searching the entire building for parts of some kind of passcode to get beyond it. If you are going to accomplish your goal, you will need to find the passcode before they do."
+
+"I wish I had more information for you, but I hope that will help you." He salutes you. "Now, I would make my request of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"You must be Maric. I am here to find information in the Library. Ashe told me to destroy the Library when I found what I was looking for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Can you tell me anything about the [url=glossary:edict]Edict[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Unfortunately not. All I know is that all the forbidden lore in the Library must be destroyed. [url=glossary:graven ashe]Graven Ashe[/url] believes that destroying the Silent Archive will achieve this, but with the barrier protecting it, no one can get to it. At least, it seems no one has gotten in yet. Otherwise, the [url=glossary:edict]Edict[/url] would have ended."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Thank you for your assistance. I can finish anything else in the Library that requires the [url=glossary:disfavored]Disfavored[/url]'s attention while you return to [url=glossary:graven ashe]Graven Ashe[/url]. I will send him my full report as soon as I'm able. Should you need any assistance in the future, you have but to ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Maric has been joined by members of his unit - two weary-looking Oath Bound with large patches of ash and blood blanketing their armor. They nod to their commander as they approach, a curiously nonchalant reaction to his rescue. Maric appears to regain some strength at the sight of his men. He beckons vigorously as you approach, a determined expression visible on his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I will return when they have been eliminated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"For the glory of [url=glossary:kyros]Kyros[/url], show the enemy no quarter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

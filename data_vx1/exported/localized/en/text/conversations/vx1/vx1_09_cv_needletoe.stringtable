@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_needletoe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A short, shifty-eyed man puffs up his chest as you approach. "Didn't expect to see many visitors out here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oh... hey, Fatebinder. You want to talk to me again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What do you need?" He scratches a hairy mole on his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Know anything about the captured Sages?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What's your role in the gang?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Bluff] "Your gang has been gambling. You know that's a punishable offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I only know we're under orders to nab them and interrogate them - Crass Callia is the only one who could tell you for sure why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Me? I'm the eyes and ears - been pulling scout duty since we lost Shrill Tantrum to the [url=glossary:disfavored]Disfavored[/url]. When I'm not watching over the gang, I'm watching over this one." He points to the woman standing near him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Contusion here is mine, so hands off. She's been a little odd since the injury, but she's still in there, mostly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I never wanted any part of it. Most of what you see is all fun and games, but if you've got an issue, talk to Skinner about it. He's the one watching over us 'worms' anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Leave] "I must be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You see Needle Toe standing amidst a mass of corpses, out of breath, deep bags set beneath his eyes. Phoibe and a couple wide-eyed Sages take in the scene while Contusion stands nearby, scratching her head in confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You've done your part. Best that you leave now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Kill] "No. You're the last loose end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You bastard." He shakes his head, tears beginning to form in the corners of his eyes. "I won't let you..."
+	
+He draws a confused Contusion in his arms, kissing her softly while stroking her cheek. Her blissful smile is interrupted by a short, pained gasp. Needle Toe withdraws a knife from her chest and lowers her to the ground, gently. "I'll be damned if I let you walk over us without a fight, Fatebinder." He twists around and releases the dagger in one smooth motion, sending it directly into Phoibe's chest. With a gasp, she collapses upon the ground, unmoving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Thank you, Fatebinder, truly. I don't know if you did this out of kindness or whatever, but I'll remember this day." He grabs Contusion's hand and points towards the dusty horizon. "This way, girl. I know the way."
+
+She nods, a trusting smile on her face, and sets off with her husband.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Nobody's waking up, Needle. Did I do something again? What's happening?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Hush, they're just sleeping... you didn't do anything wrong. It's time for us to go." He turns to you, pointing a shaky hand at the corpses around you. "It's done, like you asked. We're free to go, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Fuck you, fuck the Archons, and fuck [url=glossary:kyros]Kyros[/url]." Before you can reach him, Needle Toe grabs a nearby sword and falls upon it, slumping to the ground next to his dead wife with a groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Contusion said you wanted to escape..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Everyone in the Chorus imagines escaping, right? Don't mean nothing by it - we're safe where we are now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"If you were considering trying to escape, maybe I could help. But if not..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Intimidate] "You're lying. Treat me like an idiot and I'll make an example of you right here and now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Skinner mentioned that you've tried to desert before. That can't be a coincidence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Let's talk of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>He glances at his wife before eying you head to toe, taking in a deep breath in preparation of speaking his mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I'd be lying if I didn't tell you I've contemplated running every day. When Contusion got her injury, things got all the more terrifying. Crass Callia sees her as a simpleton best suited for arrow-bait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"The Chorus will be the death of us. We need to get out of here and away from the fighting... but I ought to stockpile some rings first. Otherwise, we won't last long on our own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"N-no, of course. Apologies, Fatebinder. I'll speak truly, as you ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"But you've seen Skinner... does he seem well-adjusted to you?" He pants nervously, unable to maintain the lie. "You're right - it's not a coincidence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You can kill your gang while they sleep, or I can kill you here and now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Draw weapon.] "I'll help you. Your gang dies today. Take Contusion and run, NOW. Do not look back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"You're honest... and a coward. Never attempt to flee in my presence, or I'll cut you down for desertion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"As I said, it was merely a daydream. The Chorus is all the family I have left - I couldn't turn on it if I wanted to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"What? What are you going to do?" He eyes the surrounding Hordesmen, who have taken note of your drawn weapon. "I, uh... thank you, Fatebinder. We won't forget this!" He grabs Contusion by the hand and sprints towards the edge of the village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What? That's mad... I can't do that. We aren't exactly chums, but we've fought and ranged for months. They don't deserve that." He gulps, eying you nervously. "But... if you'll swear Contusion are free to go afterward..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Kill them, or I'll ensure that Contusion suffers greatly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"This is one of the best opportunities you'll ever get. A small crew with you, and a Fatebinder's backing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I'm not here to trick you. I have need of the Sages, you need to be free of this gang. We can help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Do this, and my fortress at [url=glossary:vendrien's well]Vendrien's Well[/url] is open to you and Contusion, so long as you're willing to serve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Fine - it's your loss. Just keep this between us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"No, please, not her..." Contusion spots her husband and flashes a clueless smile. "Look, you've got me, Fatebinder. I'll do what you want, just please don't harm her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He glances around, breathing deeply to calm his nerves. "Wait at the edge of town come nightfall. I walk softly, but having you here will have everyone on alert. Come find me once things grow quiet... like really quiet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>He glances around, breathing deeply to calm his nerves. "It's dark - about as good a time as any. Wait at the edge of town. I walk softly, but having you here will have everyone on alert. Come find me once things grow quiet... like really quiet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Shit, you're right. It's a risk but one I know I won't find again. Alright, Fatebinder, I'm in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>He grimaces, agonizing over your words. "Why does this sound like you're doing me the favor? Ok, fine... I knew we'd have to make a run for it one of these days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Joining up with another army wasn't exactly my plan, but you could do worse than guaranteed hot meals behind solid stone walls. Alright, I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Yeah, yeah, sure. I'm not looking for any trouble." He sniffs and looks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I helped you win some rings. Now you owe me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"What do you mean?" His face twists into a concerned look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Your gang... dispose of them, quietly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Good day, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"We're done here."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

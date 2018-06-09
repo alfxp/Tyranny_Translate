@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\fq_sc_qst_01_bladegrave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Broken Chord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Go to Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Investigate Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Talk to Jagged Remedy at Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Talk to Mattias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Talk to Jagged Remedy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to Mattias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return to Mattias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to Mattias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Talk to Jagged Remedy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Talk to Jagged Remedy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Kill all of the [url=glossary:unbroken]Unbroken[/url] at Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Talk to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] leader at Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Kill all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Investigate Sentinel Stand Keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Speak with the [url=glossary:unbroken]Unbroken[/url] scout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] has asked you to go to the [url=glossary:blade grave]Blade Grave[/url] and bring back [url=glossary:graven ashe]Graven Ashe[/url]'s daughter, Amelia. She is being held captive at Sentinel Stand Keep, and the Voices needs her as a hostage to advance the Chorus agenda in the region.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Head to Trapper's Junction and find out what you can do to assist the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>You've arrived at Trapper's Junction. Take a look around to figure out what the current situation is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>You ran into a mortally wounded [url=glossary:unbroken]Unbroken[/url] soldier and found out that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] have chased the [url=glossary:unbroken]Unbroken[/url] here. Talk to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] gang leader, Jagged Remedy, in the southern part of Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Jagged Remedy wants to conscript Mattias and his [url=glossary:unbroken]Unbroken[/url] soldiers. Talk to them in Trapper's Junction to see if you can convince them to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] require some concessions before they'll join the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Speak to Jagged Remedy in Trapper's Junction to see if he's willing to compromise with the [url=glossary:unbroken]Unbroken[/url] so they'll join his ranks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>You convinced Jagged Remedy to release some captured [url=glossary:unbroken]Unbroken[/url] prisoners. Tell Mattias in Trapper's Junction so that he'll join the [url=glossary:scarlet chorus]Scarlet Chorus[/url]' ranks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>You convinced Jagged Remedy to hand over a [url=glossary:disfavored]Disfavored[/url] soldier to the [url=glossary:unbroken]Unbroken[/url] in Trapper's Junction so that they can exact retribution. Tell Mattias about the compromise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>You were unable to convince Jagged Remedy to offer a gift to the [url=glossary:unbroken]Unbroken[/url]. Return Mattias in Trapper's Junction and tell him that this is his last chance to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url]' ranks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Mattias agreed that he and his remaining men in Trapper's Junction would join the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Jagged Remedy will be pleased to hear this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] soldiers insisted on fighting for their freedom, and were cut down. After losing all of his men, Mattias had no choice but to agree to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Report this news to Jagged Remedy in Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>You've decided to provoke Mattias, and must now take out all of the [url=glossary:unbroken]Unbroken[/url] soldiers that were under his command.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>You've killed all of the [url=glossary:unbroken]Unbroken[/url] at Trapper's Junction. Time to talk to the leader of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] there and tell them all of the rebels are dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>You've now provoked Jagged Remedy, and must take out all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldiers that were under his command.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Mattias has promised to show you the magical storms barring entry into Sentinel Stand Keep. Travel there and see the problem for yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>An [url=glossary:unbroken]Unbroken[/url] scout observed your fight with the Bane. Speak with him to determine his intentions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You betrayed the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction and became their enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Mattias told you that the Sentinel Stand windwall is currently impossible to breach, but he also directed you to efforts to uncover artifacts at Rust Canyons that would allow you to bypass the windwall.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

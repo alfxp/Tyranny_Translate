@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_wme_banewell</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The [url=glossary:stonestalkers]Stonestalkers[/url] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You address your missive to Arri, doubting very much in Hundred-Blood's literacy. You write that she will need to convince the [url=glossary:stonestalker]Stonestalker[/url] to bring her tribe from the [url=glossary:stone sea]Stone Sea[/url] and into the Well to hunt the arcane monstrosities prowling there. 
+
+While you suspect the [url=glossary:stonestalkers]Stonestalkers[/url] will leap at the chance to hunt the Bane, you expect that the gratitude shown by the people of Apex for having the threat dealt with will be tempered by the increased Beastman presence in their lands.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_vendrienswell\08_qst_edgeringruins_starting_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Welcome to Ruin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Help the [url=glossary:disfavored]Disfavored[/url] battle the [url=glossary:vendrien guard]Vendrien Guard[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Defeat the remaining rebels in camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>You've arrived at the outskirts of [url=glossary:vendrien's well]Vendrien's Well[/url], at the old remains of the Edgering Fort. Just as one of the Crescent Runners was getting you up to speed on the situation, the [url=glossary:vendrien guard]Vendrien Guard[/url] attacked. Help [url=glossary:kyros]Kyros[/url]' forces fight back the rebel assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The [url=glossary:vendrien guard]Vendrien Guard[/url] broke through the fort's defenses, and now make their way toward the valley entrance. Head them off and dispatch as many as you can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>You fought your way through the [url=glossary:vendrien guard]Vendrien Guard[/url] attempting to flee the valley. Defeat the remaining enemy forces that continue to press their attack in camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You've helped [url=glossary:kyros]Kyros[/url]' forces defend the Edgering Ruins camp from a rebel attack, saving Commander Drastus in the process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You've helped [url=glossary:kyros]Kyros[/url]' forces defend the Edgering Ruins camp from a rebel attack, but you were unable to save Commander Drastus.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

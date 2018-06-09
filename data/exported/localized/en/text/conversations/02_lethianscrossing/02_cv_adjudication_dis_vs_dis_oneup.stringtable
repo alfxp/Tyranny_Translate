@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_adjudication_dis_vs_dis_oneup</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You know nothing, Livia. Instead of running, I hid behind Fausto as he was impaled, then let his body fall on top of me and used it as camouflage so the enemy would think I was dead. At least by fleeing you left yourself open for an honorable battlefield death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"No, Tarquin, my disgrace far exceeds yours. I ran from the battle and left everyone there to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"This is odd, but okay. If you bring me into this, you must both abide by my decision. Do you both agree?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I eagerly agree. We must atone for the wrongs we have done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"We will both abide by your decision, Fatebinder, else we would not have asked for your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[To Livia] "Why is your disgrace greater than Tarquin's?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[To Tarquin] "Why do you think you have more reason to atone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I am ready to make my decision. What are your final words?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Leave] "I don't have time for this right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Fatebinder, if you don't help us, we will never be able to atone for our wrongdoing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[To Livia] "Tarquin says he caused the deaths of fellow [url=glossary:disfavored]Disfavored[/url]. How are your actions worse than his?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[To Tarquin] "Livia says her cowardice is worse than your thoughtlessness. Why should you bear the guilt of both your actions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Between us, I have caused more disappointment with my behavior. Clearly my failures should result in a much harsher punishment. Not only did I fail to maintain order, I fled the battle when I realized the danger. I thought of myself before my brethren, and for that I should be censured."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Livia says she failed [url=glossary:lethian's crossing]Lethian's Crossing[/url], but it's clear my failures are worse than hers. My cowardice resulted in the deaths of my fellow soldiers and now I will live with that guilt. I must be made to pay for not living up to what is expected of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"In my desire to escape unharmed, I tripped another soldier so he would cause a distraction and ensure I could put enough distance between me and the Brotherhood while they finished him off. In my horrible state of self-preservation, I caused the death of a friend. This is on top of pushing Nona into another group of Brotherhood so she would delay them as I ran. My disgrace is clearly the worst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"She knows nothing about the depths of my shame! Arrows were flying about me and I hid behind an elderly townsperson, shielding myself with her frail body!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I should pay the price for the [url=glossary:disfavored]Disfavored[/url]'s failure. Punish me, not Livia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Please, Fatebinder. Tell us your decision!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Neither of you have done anything truly wrong. If you feel you need to atone, do so on your own terms. I will not mete out punishment for these 'crimes.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Livia has clearly brought more shame to the [url=glossary:disfavored]Disfavored[/url] than Tarquin. She will be disciplined appropriately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tarquin's crimes are far more serious than Livia's. He will be punished accordingly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Thank you, Fatebinder. We gave our word to accept your ruling and we shall. We are done here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Script Node 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I pushed Nona at two Brotherhood members hoping it would cause a distraction to help ensure my escape. She is dead because of my cowardice, Tarquin. My shame goes far deeper than yours ever could."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Fatebinder - your arrival is perfectly timed! We need you to adjudicate for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Yes! Settle this dispute for us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What is the matter at hand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Dispute? Adjudication? From what I heard, you sound like two children complaining to each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"During the recent Brotherhood raid on [url=glossary:lethian's crossing]Lethian's Crossing[/url], both Tarquin and I caused disgrace to come to the [url=glossary:disfavored]Disfavored[/url] and we do not know whose acts brought more shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"If we sound like children, Fatebinder, it is only because we acted like children and now stand before you humiliated and debased. We do not know how to proceed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Yes, Fatebinder. We must pay for our failures and we need you. Help us determine which one of us inflicted more pain on our brothers and sisters so that person can try to redeem himself or herself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You have both - together - brought true shame to the [url=glossary:disfavored]Disfavored[/url] with your pointless arguing. Both of you will pay the price for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I'm confused. One of you wants to be held responsible for what went wrong during the raid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"We failed the [url=glossary:disfavored]Disfavored[/url] and both of us must be held responsible for what we did, but one of us caused more disgrace to come to Ashe through our behavior and that one should suffer the full brunt of reprisal. You must help us decide who."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"That is no disgrace compared to my actions. I picked up a young child as I ran, holding him in front of me in the hopes that he would take the brunt of any blow that befell me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Only a child? I assaulted a woman and took her clothing, pretending to be a townsperson so I could escape town without having to fight!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I stole a baby from his wailing mother's arms and pretended he was my own, hoping it would get me out safely! When I was stopped and it seemed a fight was inevitable, I threw the baby at my foe and ran!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Clearly this is all about unresolved sexual tension. Have you thought that maybe all you need is a good fuck?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"If being the most shameful is so important, why not have a duel to determine it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Enough! Stop this ridiculous one-upping! No resolution will come from constant fighting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Absolutely not! I don't know what you think the [url=glossary:disfavored]Disfavored[/url] do, but I guarantee, Fatebinder - we are not like that! I have misbehaved and need to be punished. It's as simple as that!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You offend us, Fatebinder. There is nothing sexual about this dispute! It is a matter of honor, not lust!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I am truly sorry, Fatebinder. I hope my outburst didn't foul your opinion of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I will stop. Though clearly this proves I need to repent for far more than Tarquin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"We already considered and discarded this idea. Whoever lost the duel would clearly be the more shameful, adding that loss to the list. Neither of us trusts the other to fight to the full extent of their power so we abandoned that plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"No, Fatebinder! Do not listen to him - it should be me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"You keep saying that, but it is not the case! Do not decide in her favor, Fatebinder! My failings caused the most deaths, not hers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Stop the bickering or there will be no decision made."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Enough! Do you want to hear my ruling or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I feel so sorry for your commanding officer. Are you always this difficult?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"No, Fatebinder! I need this! I won't be able to sleep if you do not tell me what I can do to atone for my failures!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Yes, Fatebinder! This is very important to me. I promise to behave!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"If a desire to serve my troop and rectify a wrong is difficult, then I am proud to declare that I'm always difficult."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You both will fight a duel - the winner of the duel will determine who has the most shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank Node 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"You could have fooled me. These two are ready to tear into each other, and I'm all for letting them do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Well, if they're not going to do it with each other, they should at least grind their own axes. Being that tightly wound can't be healthy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"How can you imply such base motives are behind their actions? I think it's noble for a soldier to accept responsibility."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Not everyone's motivations are as base or crass as yours, Verse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Lantry! Gross! Remember, I am still a child!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Because sometimes people are motivated by simple, animal desires and those can be some of the best ones to give in to, Barik. You might try letting loose occasionally."
+
+"You know. With a tea kettle, or a trebuchet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Spoken from a man who hasn't been able to touch himself since the fall of Stalwart." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"My apologies, Mistress Sirin, I uh..." Lantry clears his throat, his face twisting into a nervous smile. "I sometimes uh... forget your age on account of your wit and maturity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Even though I know you're simply trying to placate me, I choose to take that as a true apology."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Or...as loose as you can in that coffin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"A joke at someone's expense other from mine? You're losing your edge, little girl." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Livia, we both agreed to abide by the decision. If you don't like the outcome, you should not have involved the Fatebinder." Livia opens her mouth to speak, then stops and quickly nods once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"No! This cannot be! Please Fatebinder, I must be made to suffer!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"What a wonderful compromise, Fatebinder! It will ensure both of us fight to our utmost and keep it fair. I applaud your brilliant thinking!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"As much as I disagree with this decision, I swore I would abide by it." He turns to Livia and salutes her. "It would appear you get to experience the glory of penitence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"While I would prefer to experience the full glory of penitence myself, at least I know it will be shared with a worthy ally. You do your position proud, Fatebinder." He salutes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I am an enforcer of the Archon of Justice. Once invoked, my ruling is final. Are you sure this what you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"If you're going to argue in front of a Fatebinder, I'm exercising my right to adjudicate this matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

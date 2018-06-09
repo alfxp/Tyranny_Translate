@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_horde_recruitment</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>O Caminho da Horda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para a liquidação remota.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Convença os colonos a se juntarem ao Coro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Defeat the [url=glossary:vendrien guard]Vendrien Guard[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to [url=glossary:death]Death[/url] Knell at the [url=glossary:scarlet chorus]Scarlet Chorus[/url] camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] Horde depend on recruitment to increase their numbers.No entanto, devido às baixas e à falta de prisioneiros em batalha, seus números começaram a diminuir. [url=glossary:death]Death[/url] Knell a Scarlet Fury has a new tactic she would like to test out if you are willing to participate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>[url=glossary:death]Death[/url] Knell said that a gang of Horde are raiding a remote settlement on the western side of the valley.Vá até lá e conecte-se com as forças do Coro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>[url=glossary:death]Death[/url] Knell told you that villagers in this remote settlement were willing to join the Chorus.Encontre os colonos e convença-os a se juntar ao Coro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The remote settlement is actually a [url=glossary:vendrien guard]Vendrien Guard[/url] hideout and your presence has lured them out.Derrote os emboscadores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>The Horde gang in the area knew all along you were walking into a [url=glossary:vendrien guard]Vendrien Guard[/url] trap - they just needed bait.Report back to [url=glossary:death]Death[/url] Knell and confront her about what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You confronted [url=glossary:death]Death[/url] Knell about her tactic to use you as bait to lure out the [url=glossary:vendrien guard]Vendrien Guard[/url] in the settlement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você não conseguiu realizar essa tarefa antes que o assalto à cidadela começasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

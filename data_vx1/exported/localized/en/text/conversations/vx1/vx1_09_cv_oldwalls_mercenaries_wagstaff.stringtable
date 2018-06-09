@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_mercenaries_wagstaff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"There's the bastard! Just as Wagstaff said." Scanning the area for Bane, the heavily-armed man signals his companions to draw their weapons. "Nothing personal... just a job that needs doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Reef-Talon is ours, and we can't have you hunting our prize." His allies bellow boisterously in support, banging their weapons against breastplates and shields. "Don't worry, we'll kill you quicker than the Bane would - such a courtesy is the least we can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Throw rubble at mercenary's head.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Step aside. Is this really how you want to die?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Attack] "Come and try to stop me."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You grab a heavy stone fragment from the damp floor and hurl it towards one of the soldiers, smashing him in the head with a resounding crack. His body goes limp and crashes to the floor, shaking momentarily before going still.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Weapons drawn, the remaining warriors charge forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Your confidence is great - nothing worse than killing someone who doesn't believe in their worth as a warrior. But our honor is on the line here." He looks back at his company with a grim nod. "Let's earn our pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Remember, kill the Fatebinder, but don't bloody the face - we'll need proof of the deed."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

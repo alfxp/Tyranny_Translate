@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\02_qst_lc_final_battle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Conflict at the Crossing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Take the Merchant's Bridge to the east.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rescue your allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Destroy the invaders to the west.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Rescue the settlers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Help fight the Scourges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Rescue Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Extinguish the fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Protect the settlers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Defeat the enemy Champion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Kill the enemy Commander.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Travel to [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Travel to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In the wake of your [url=glossary:edict]Edict[/url] and [url=glossary:kyros]Kyros[/url]' decree to the Archons, the [url=glossary:disfavored]Disfavored[/url] have become desperate and invaded [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You have to decide to convene a meeting of your coalition to figure out a battle plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Invaders have blocked off the eastern bridge at the entrance to [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You need to clear the path to the other side, but if you do this, you won't have time to kill your enemies to the west.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Your allies on the upper level to the west in [url=glossary:lethian's crossing]Lethian's Crossing[/url] are outnumbered and will die without your help. However, if you do this, you won't have time to reclaim the Merchant's Bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Invaders have blocked off the path on the upper level to the west in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You need to remove the obstruction, but if you do this, you won't have time to reclaim the Merchant's Bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>A small group of settlers are currently trapped by the invaders on the highest level of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. They need your help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Scourges have escaped from the Oldwalls and are threatening [url=glossary:lethian's crossing]Lethian's Crossing[/url]. The invaders have settlement defenders trapped with the Scourges by the Spire entrance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>The invaders are attempting to break into Eldian's house. If you don't intervene, he will be killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>The invaders have begun to light buildings on fire. Settlers and merchants may die if the fire isn't extinguished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>The invaders are breaking into homes to kill settlers. The settlers need you to protect them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>The enemy Champion is boosting morale amongst the invading troops. Kill the Champion to lower moral.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>The invading Commander has emerged from hiding. Kill the commander and end this battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>A meeting is set to begin at [url=glossary:ascension hall]Ascension Hall[/url] in [url=glossary:vendrien's well]Vendrien's Well[/url]. Travel there and speak to Arri determine what the best course of action is for your alliance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Meet your allies at [url=glossary:lethian's crossing]Lethian's Crossing[/url] and defend the settlement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>You cleared out your enemies to the west, but invaders have taken control of the bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>You cleared a path across the Merchant's Bridge, but your allies have been killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You have ended the battle for [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

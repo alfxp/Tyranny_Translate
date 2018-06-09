@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0115_bs_teodor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Have you spoken with [url=glossary:graven ashe]Graven Ashe[/url] about his daughter?Eu não te invejo a tarefa ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The last of the Regents will fall by our hand taking this [url=glossary:edict]Edict[/url] with them!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>O suporte do sentinela é nosso! The [url=glossary:disfavored]Disfavored[/url] wont forget this honor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Algo está errado. Eu posso sentir isso.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

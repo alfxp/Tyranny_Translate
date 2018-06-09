@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_cyril</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A man dressed in simple weathered cloth sifts through a crate of forging tools, ingots of iron and an assortment of other odds and ends. 
+
+His face lights up once he sees you approach. "Come closer friend, I have wonders to sell!" He gestures to the various other crates strewed about haphazardly. "Would you care to take a look at my wares?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Cyril bows deeply before you. "Welcome back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Let me see what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave] "I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Right this way, my good friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>He motions off towards the road leading out of town. "Left by way of Ironhaul Trail, they were in a bit of hurry for some reason." He looks back to you with a toothy smile. "I merely offered them my services in relieving their load. Give these fine samples of craftsmanship new homes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What happened to the [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I've studied the arts of forging myself, and I know no good forge-master would leave their best work behind - These are mere scraps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Beads of sweat begins to emerge across his forehead. His voices hushes "Listen, I'll give you a discount if you keep this between you and me. I just found this junk lying around - I don't have a clue how much half of this should sell for."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

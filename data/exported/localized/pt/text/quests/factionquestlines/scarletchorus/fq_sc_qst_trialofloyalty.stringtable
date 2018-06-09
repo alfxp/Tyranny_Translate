@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\factionquestlines\scarletchorus\fq_sc_qst_trialofloyalty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Julgamento de lealdade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Go to [url=glossary:lethians crossing]Lethians Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Conheça o contato da Harchiands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retornar para Harchiand Bronze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Relatório para sete dedos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Harchiand Bronze is Nerats eyes and ears in [url=glossary:lethians crossing]Lethians Crossing[/url].Os relatórios provenientes dessa área das camadas diminuíram a velocidade. Fale com Harchiand Bronze sobre suas lealdades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Travel to [url=glossary:lethians crossing]Lethians Crossing[/url] and speak to Harchiand Bronze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Harchiand says he has a contact who can clear up any misgivings regarding his loyalties to [url=glossary:the voices of nerat]the Voices of Nerat[/url].Conheça seu contato no Old Thicket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Confront Harchiand in [url=glossary:lethians crossing]Lethians Crossing[/url] about the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] that ambushed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Volte para Seven Toes em Cacophony e fale sobre o destino Harchiand Bronzes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You have determined that Harchiand Bronze remains loyal to [url=glossary:the voices of nerat]the Voices of Nerat[/url] and the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You killed Harchiand for being disloyal to [url=glossary:the voices of nerat]the Voices of Nerat[/url] and the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] no longer questions Harchiands loyalty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você traiu seus aliados e não consegue mais concluir essa tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

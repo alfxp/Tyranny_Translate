@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_grayson_intro_quest_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>118</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ahh, welcome traveler. I've seen so many new faces recently, it's getting hard to keep track of all of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Is there anything I can do to help you? Any information you need about the area?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Tell me more about Plainsgate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What are the [url=glossary:scarlet chorus]Scarlet Chorus[/url] doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Have you seen [url=glossary:disfavored]Disfavored[/url] in the area?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Grayson sighs. "Plainsgate used to be much bigger with a lot more people, but we've seen a loss in townsfolk recently because so many people have left to explore the [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Seems every other day we got new scavengers or artifact hunters or just completely odd folks coming through these parts. Almost unsettling if you ask me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"We are very lucky here, Fatebinder. We are one of the only settlements around here to survive [url=glossary:cairn]Cairn[/url]'s passing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"How has [url=glossary:cairn]Cairn[/url]'s passing affected the settlers of this town?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"All I know is they've come in promising to help us with the Beastmen and telling everyone they'll take care of the earthquakes. I don't know if they're telling the truth or not. But if they can take all those Beasts away, I'm willing to give them all the help they want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I've not seen any personally, but I've heard that they've set up around [url=glossary:cairn]Cairn[/url]'s body at [url=lore:Howling_Rock]Howling Rock[/url]. No one in town wants them around - everyone here blames them for the ongoing earthquakes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Townsfolk have taken to joining scavenging crews and heading into the [url=glossary:stone sea]Stone Sea[/url] to search for artifacts and other treasures. Problem is, the [url=glossary:stone sea]Stone Sea[/url] is full of dangers, and those scavengers put their lives in danger each time they leave this settlement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Is there anything I can do to help the scavengers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"There is indeed a way you can help, Fatebinder.  A scavenging mission went out a few days back, and we haven't seen them since. The longer they're gone, the more I'm sure they won't be coming back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I will look for the lost group of scavengers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"That's too bad. Good luck finding them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"This is wonderful news, Fatebinder! Thank you!" He smiles and grabs your hand, shaking it vigorously. "They were on their way to [url=lore:StoneDown]Stone Down[/url], but no one knows if they even arrived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Leave] "That is I need all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Fatebinder!" Grayson cries happily at your approach. "You have returned!"
+
+"I have heard the tales of your heroic deeds at Stone Down. Our scavenging crew is back safe and sound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Those Beastmen..." he says, shaking his head. "They're horrible monsters!" He spits and grinds it into the dirt with his shoe.
+
+"This world would be a much better place if they weren't around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"We won't forget your kindness anytime soon, Fatebinder. We are in your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Fatebinder, welcome back! How are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What can you tell me about the captured Beastman?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Grayson grimaces, shaking his head. "Ah, yes. The animal they caught outside the village. Can't wait for that unpleasantness to be dealt with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Covered in blood, lurking about no doubt to hunt more settlers. Mangled himself in a trap outside the gates. Don't know why the Chorus brought him in. Just wipe the Beasts out or drive them away. That's what I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Tell me more about Halfgate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Well, let's see... It used to be called Plainsgate until [url=glossary:cairn]Cairn[/url] came traipsing through and Fatebinder Calio cast the [url=glossary:edict]Edict[/url] of Stone on him, destroying thousands of lives in the process." He purses his lips. "But you can't win a war without casualties. At least, that's what we're told."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"No matter what happens, you have to keep a positive outlook because it could have been far worse. Things can always be worse, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Even after, we keep getting hit hard by the earthquakes. We've lost a lot of people and possessions. But other areas were hit even harder during the [url=glossary:edict]Edict[/url]. Guess you could say we were in the eye of the storm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Tell me what you know about [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What is there to say other than he has ruined our lives? We are beset with earthquakes and we've lost so many friends because of him."
+
+"After the destruction here, he headed out into the [url=glossary:stone sea]Stone Sea[/url] and that's where he still lies. His body turned to stone and the story is he's trapped. That's what is causing the earthquakes - his ongoing death throes are tearing our land apart. But those damned [url=glossary:disfavored]Disfavored[/url] won't let him die, so we're the ones stuck suffering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Do you know how I can find [url=glossary:cairn]Cairn[/url]'s body?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I hear it's a place called [url=lore:Howling_Rock]Howling Rock[/url], but I'm no adventurer - my entire life is here in town - so I wouldn't even know where to begin regarding how to get there. Best I can offer is to tell you to keep asking around town. Someone is bound to know more than I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Tell me more about Halfgate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Watch your tongue. That's my tribe you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You're absolutely right. That's why I killed them all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You may not like it, but they're here to stay. You'll have to learn to live with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Grayson's face pales and he steps back, putting his hands up. "I apologize, Fatebinder. I meant no disrespect. Our lives have been nothing but hardship. Your kindness amidst all the horrors we've endured has been a bright spot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Grayson's face lights up when he hears your words. "Are you serious? That's the best news I've heard in a long time! Thank you, Fatebinder! That's one less thing we will have to deal with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Grayson snorts derisively. "No. I will not be happy until we don't have to deal with that filth anymore. They have been nothing but trouble and conditions won't improve until we get rid of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Grayson's face pales, but he stands his ground, his lips pursing as his face tightens. "If you hadn't just helped us, Fatebinder, I would be less inclined to be civil. But you destroyed our town and then your 'tribe' kidnapped my men. While I appreciate your help, my opinion on those monsters remains unchanged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You are a fool. If you refuse to see all sides you might as well be blind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Leave] "We are done here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I will thank you for what you've done, Fatebinder. But that is all you'll get from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Spoken just like a monster. Convince me to trust you, then stab me when I turn my back. You are all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"What do you want, you dirty Beastfucker?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Leave] "Better a Beastfucker than close-minded limpdick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"What can you tell me about the captive Beastman?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Leave] "Nothing. We are done here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Destroyed your town? What happened to the 'live and let live' attitude you had before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"That was before I found out you were a dirty Beastfucker. Destroy our town and then get your monsters to kill our people. You make me sick." He spits again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Grayson looks at you like you're crazy "You have to be kidding me. What the fuck could I possibly want to tell you about that piece of shit? He should be drawn and quartered and skinned. And even that is too good for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Skulking around town, covered in human blood. It's barbaric. They're animals - every one of them. Wipe them out, that's the only way for us to be safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Beastwoman loves rutting - in dirt or water. Sun or shadow. Fast-fast-hard. Or slow. Loves killing same way."
+
+She flexes and curves her dark claws, eyes gleaming dangerously.
+
+"Maybe will kill human right here. Rut corpse. Then human will be dead and also beast-rutter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>His eyes linger on Kills-in-Shadow for a moment and he sniffs, his face taking a sour look. "And if it isn't one type, it's another..." He looks back at you, and smiles again, although it doesn't quite reach his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"If you want me to wipe them out, I can start with the one you've got shackled on the ground."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Even though you know he didn't kill anyone because I found missing settlers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"He wasn't covered in human blood. He'd recently hunted a boar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"You didn't actually see him kill anyone. Why are you so quick to assume he's guilty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"By all means, make it a public execution if you do. Make a show of it to please the masses - it's all the Beast is good for anymore." 
+
+He nods his head to you, pleased. "You won't hear any opposition from me, that's for sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"An animal does what an animal does. If there is something to kill, they will kill it. It's a simple matter of nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Just because he might have killed a boar doesn't mean he hasn't killed any humans." He rubs at his chin, begrudgingly contemplating your argument. "Hmph." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"As far as I'm concerned, all that does is prove my point. They wouldn't have had to be rescued if they hadn't captured them in the first place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Well, let's see... It used to be called Plainsgate until [url=glossary:cairn]Cairn[/url] came traipsing through and destroyed it. That would be your doing, wouldn't it, Fatebinder?" He purses his lips. "But you can't win a war without a few deaths. At least, that's what we're told."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"But we are strong people and we won't be brought down. You take the situation life hands you and make what you can of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"What is other type? Stronger than pathetic human type?"
+
+She scratches her scarred, hairy teat and grins to show Grayson her fangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Well aren't you just pleased with yourself, Beast, making a joke at a human's expense? You should stay on your toes, Grayson - you're letting a beast get the better of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Bank Node 105</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ever notice it's the little-masted men that bicker most about harpoon size? I often assume that boys most quick to put down Beasts are, more often than not, furtively obsessed with the primal and the hirsute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Kills-in-Shadow snarls and gnashes her fangs.
+
+"Left-Claw would not kill humans unless humans warranted killing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I have to agree. You murdering Beasts enjoy hunting humans. There's nothing deeper to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Know Stone Down. Is [url=glossary:stonestalkers]Stonestalkers[/url]' territory. Is dangerous for humans to venture into reclaimed tribe-lands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Human will fight Beastwomen, whole tribe, with what? Dulled sickle? Slings and stones? Humans are not iron-clads - cannot stand against Beastwomen's killing-claws and rending-teeth."
+
+She sniffs, voice gruff as she commands, "Come. Fight and die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"You were standing here, well - in the general vicinity of Plainsgate when you proclaimed the [url=glossary:edict]Edict[/url], correct? May haps [url=glossary:kyros]Kyros[/url] did not want to kill the messenger, and thus the [url=glossary:edict]Edict[/url] had a lessened effect on Plainsgate? Hmmm... [url=glossary:kyros]Kyros[/url] only knows..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"If you think too deeply about the number of people slain by [url=glossary:kyros]Kyros[/url]' Edicts, it'll sort of drive you mad. Those of us who survived need to have his attitude, that we're fortunate to still be alive. It's not about being clever or tough or smart, it's as simple as, we weren't in the wrong place at the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Earthquakes? Kids these days. Watch ten years of ornithological  sketches vanish in twenty seconds of smoke, then tell me all about your slow, leisurely tremors. Oh no, the roads are all shifting and my map's obsolete! Actually, that does sound quite odious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"The whole of Azure suffers so that [url=glossary:cairn]Cairn[/url] may be slapped down for disloyalty. Ever wonder if, right now, far away, [url=glossary:kyros]Kyros[/url] is getting off to the thought of all this indiscriminate killing? Seems like the Overlord must have a thing for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Bank Node 115</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Shrug] "You heard the lady."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Don't fret. I won't let her hurt you. Despite what you believe, I do have my ethics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Not really much of a defense there..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"What warrants killing humans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The Beastwoman pauses to think. She scratches her claws through the top of her thick, matted mane.
+
+"If bad humans. If first attacked Beastman. If smell strange or smell good. If loud and annoying. If look meaty enough, lost, or won't be missed."
+
+She grins, mauve tongue peaking between her front teeth. 
+
+"[url=glossary:stonestalkers]Stonestalkers[/url] don't eat humans, but Kills-in-Shadow makes no similar promises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"You're not helping our cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Remain silent.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"You see! These murdering Beasts enjoy hunting humans. There's nothing deeper to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"An animal does what an animal does. If there is something to kill, they will kill it. It's a simple matter of nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"By all means, make it a public execution if you do. Make a show of it to please the masses - it's all the Beast is good for anymore." 
+
+He nods his head to you, pleased. "You won't hear any opposition from me, that's for sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I hear rumors you're judging the matter. If you're of a mind to set the Beast free, best do it far from here. If we see him outside the town, we won't hesitate to kill him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I hear rumors you're judging the matter. If you're of a mind to set the Beast free, best do it far from here. If we see him outside the town, we won't hesitate to kill him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Make it quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"And I could throw a bucket of water on you and blame the river nearby. Your words mean nothing. Even if he didn't kill a human then, it's only a matter of time. They're monsters and should be treated as such."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Why not just give him to the [url=glossary:scarlet chorus]Scarlet Chorus[/url]? They coordinated his capture, didn't they? Let them decide what to do with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I'm not opposed to it. If it weren't for them having sighted the Beast days before and laying out the traps, we'd have never caught him anyway." 
+
+He nods his head to you, satisfied. "They can do what they want with him, but I hope it involves skinning him for boots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I'm not opposed to it. If it weren't for them having sighted the Beast days before and laying out the traps, we'd have never caught him anyway." 
+
+He nods his head to you, satisfied. "They can do what they want with him with, but I hope it involves skinning him for boots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"We'd have better luck if you helped. All I ask is you think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"What do you know about the Spires in the [url=glossary:stone sea]Stone Sea[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Deep in the heart of Beastmen territory there's one. Those're dangerous parts. You best be watching your back out there." 
+
+He nods solemnly before continuing. "The other is surrounded by those rock worshippers where that colossus of stone finally collapsed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"A stone colossus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Yeah, that giant of an Archon. He kept moaning and groaning as he made his way across the land. Left destruction in his wake and riled up the Beastmen something fierce. Believe he fell near the Dawning Spire?" He gives his head a scratch, pondering the situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Thanks, that's all I needed to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Fine then." He scratches the side of his nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>His eyes glance over you. "Speaking of unsettling, are you not the Fatebinder that sent [url=glossary:disfavored]Disfavored[/url] forces to their deaths against the Archon of Stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>His eyes glance over you. "Speaking of unsettling, are you not the Fatebinder that sent those [url=glossary:scarlet chorus]Scarlet Chorus[/url] forces to their deaths against the Archon of Stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Not that I feel any pity for those dogs of Ashe. I just thought you may like to know that there are quite a lot of intact goodies ripe for the pickings where those fools died. Of course, only if you don't mind scavenging around the Bane that follow death like flies on shit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Not that I feel any pity for those bloodthirsty barbarians. I just thought you may like to know that there are plentiful wares ripe for the pickings where those fools died. Of course, only if you don't mind scavenging around the Bane that follow death like flies on shit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Some strong feelings you have there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Grayson snorts derisively. "Are they not justified?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I thank you for what you've done, Fatebinder. But you best leave me before I turn angry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Some of the vendors here in town could tell you more, I know they've had some dealings with the scavengers from those areas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"In [Plainsgate]? Not much, now that you've slain them. But for the rest of the [url=glossary:stone sea]Stone Sea[/url]? All I can tell you is they came in promising to help us with the Beastmen and telling everyone they'd take care of the earthquakes. I don't know if they were telling the truth or not. But I do know they've damn near swarmed this realm, claiming it for their Archon of Secrets. And if they can take those wild Beasts out, I'm willing to give them all the help they want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Grayson waves to you as you pass. "Fatebinder, it's good that you've returned. We could use your expertise. [Plainsgate] has been unstable of late." The ground rumbles strongly as he speaks, prompting a pained smile."
+
+"More unstable of late, I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"With [url=glossary:kyros]Kyros[/url]' armies on the move, fewer travelers have been willing to venture far beyond these walls. Normally, there's a few hardy ones willing to take on tough jobs, but none lately. If you've got the time to hear folks out, I'm sure you'll get a request or two."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Too many soldiers around with blood on their mind, I suppose." He shrugs. "I can't blame people for being more cautious. It's unsettling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Is there anything you need help with?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Fatebinder, slayer of choirmen, keeper of the peace!" He rushes towards you with his arms outstretched and grips you tightly around your waist before realizing his intrusion. He quickly backs away and pats away some of the dust he left behind. "So many different faces come through this town, but how could I miss the one who single-handedly slayed those gangsters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

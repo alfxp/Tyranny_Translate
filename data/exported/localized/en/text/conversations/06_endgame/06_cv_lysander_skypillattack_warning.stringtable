@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_lysander_skypillattack_warning</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fatebinder!" Breathless, the officer snaps to attention. "No time for pleasantries or ceremony. Your Spire is under attack. The [url=glossary:scarlet chorus]Scarlet Chorus[/url] have ramped up their offensive, and they mean to topple your stronghold - with you atop it, if need be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'll be off at once." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Are you lying to me, soldier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You've carried out your task with distinction. Well done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>He blinks. "What? No! The Chorus gangs are assembling outside of your Spire. You need to take action at once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Fine. I'll check on my Spire... but don't try anything while I'm gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What would I even..." Bewildered, the officer waves the matter aside and regards you with impatience. "Good luck at your Spire, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"My thanks, Fatebinder. Best of luck at your Spire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I feared something like this might happen - an act of desperation from [url=glossary:the voices of nerat]the Voices of Nerat[/url]. He's either too much of a coward to attack Iron Hearth or his forces are too weak. Either way, you'll need to answer this threat with blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Fatebinder... this accusation is beneath you, and embarrasses us all! You should know better than to distrust my soldiers."  </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

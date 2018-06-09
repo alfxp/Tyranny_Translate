@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_ashesurrender_cutscene</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>I don't want war with [url=glossary:kyros]Kyros[/url]. How do I end this peacefully?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You would sue for peace? Then there remains only one path before you - to bend the knee, as I did so long ago. You must offer it... immediately, without hesitation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Perhaps the Overlord will accept and grant you authority over the Tiers. But given your power, and my history, I find it difficult to imagine [url=glossary:kyros]Kyros[/url] suffering our united existence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"With your surrender, the whole of Terratus will be unified under the Overlord's will. What will warlords like us offer a world at peace?" He releases a quiet sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"If it will put an end to this war, I will leave the Overlord with no doubt as to my loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Then do as you must, Archon, but do it in haste. Return to your Mountain Spire, before the moment to act passes you by." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

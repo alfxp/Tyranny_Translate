@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_disfavoredfort_store</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You're not authorized to purchase from our supplies. Now get on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Even though you're not a fully-fledged [url=glossary:disfavored]Disfavored[/url] recruit, I've been authorized to grant you purchasing rights from our store. Within certain limits, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Would like to see what we have to offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Show me your wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Not right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What limits are those?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"It's nothing personal, I assure you. [url=glossary:graven ashe]Graven Ashe[/url] wants us to control our supplies without restricting access to his army's supporters like yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"The finest arms and freshest provisions are reserved for the soldiers under his direct command. I'm sure you understand. The Archon takes our protection very seriously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Is an agent of the court not deserving enough?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Understood. Let's see what you can offer me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The soldier hesitates. "As [url=glossary:tunon]Tunon[/url]'s vassal, I'm sure that you're afforded certain... luxuries that don't extend to us. The same goes for the [url=glossary:disfavored]Disfavored[/url]. Archon Ashe recruited us from the Northern Empire, so we're subject to his favor. Such is his right..." The quartermaster scratches the back of his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"This is a slight, a disgrace. I demand compensation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He sighs. "You're demanding trouble is what you're doing, but I don't have any cause to run afoul of Archon Ashe's supporters. How's about a one-time recompense to the tune of fifty rings. Payment for any theoretical losses you've suffered." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"That wouldn't pay to polish my boots. Try harder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm just kidding you, soldier. Let me see your wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I didn't have you pegged as one to push generosity to its limits, but it wouldn't be the first time I was proven wrong. Seventy-five. Take it or leave it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"We have a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"No deal. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"On second thought, I'll just take a look at your wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Here you go. Now that that's aside, maybe you want to discuss some real business?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Glad we could finally see eye to eye. I have a hard enough time turning a profit without doling out these expensive apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You play some strange head games, don't you? Go ahead and take a look, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"After all of that?" He scratches his head in confusion. "Okay. Always happy to retain a customer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Pleasure to see you again, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Never thought I'd see the day that our General bent the knee to a new master... but then, I never thought a Fatebinder could achieve half as much as you have!" The quartermaster beams with pride. "What can I do for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The quartermaster rubs his arm with an anxious look on his face. "Haven't felt right since the General fell... I don't know how you could have done such a thing, Fatebinder. The North won't forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Trigger Conv Node 37</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_historyoftheoldwallsparti</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>History of the Oldwalls: Part I</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Retrieve the Keystone from Insipid Moniker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Use the eastern teleporter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Open the path to Reef-Talon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kill Wagstaff's mercenaries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kill Jaspos' mercenaries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to The Abyss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Continue searching for the remaining torchkeys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Resume your search</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Find Reef-Talon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Return to Mell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Find the Keystone on Insipid Moniker's corpse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mell has asked you to enter the Oldwalls to find and bring back [url=glossary:sage]Sage[/url] Lexeme and Reef-Talon. He thinks Lexeme can help fix whatever is wrong with Reef-Talon and bring peace back to the Wound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Insipid Moniker currently possesses the Keystone that will allow you to venture deeper into the Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Use the teleporter located on the eastern side of Bastard's Wound to enter the Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>You found Reef-Talon but currently have no way to reach her. Find the missing torchkeys to reach Reef-Talon's location, she may know where Lexeme is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Wagstaff sent his loyal mercenaries after you to keep you from finding Reef-Talon. Kill them so you can continue searching for the torchkeys needed to reach Reef-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Jaspos also sent his loyal mercenaries after you to keep you from finding Reef-Talon. Kill them so you can continue searching for the torchkeys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>With all of the torchkeys in hand, return to The Abyss to open the path to Reef-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>With the mercenaries out of the way, continue your search for the other torchkeys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Resume the search for the torchkeys needed to open the path to Reef-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>You have accessed the location where you last saw Reef-Talon. Find out where she went.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Return to Mell and tell him about Lexeme and Reef-Talon's fate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>You killed Insipid Moniker for farming Woundkin blood. The keystone is likely still on her corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>You killed Lexeme, but Reef-Talon is still hiding within the Oldwalls somewhere. Lexeme's corpse may hold the key to finding Reef-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>You killed Insipid Moniker for farming Woundkin blood. The keystone is likely still on her corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Gather the Sleepless together and kill them to alleviate Reef-Talon of her guilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You found Lexeme deep within the Oldwalls and agreed to help her with Reef-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You decided to kill both Lexeme and Reef-Talon, ending Mells hopes of bringing peace back to Bastard's Wound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You convinced Reef-Talon to travel deeper into the Oldwalls to learn more about herself. This ended Mells hopes of bringing peace back to Bastard's Wound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You convinced Reef-Talon to return to Bastard's Wound, much to the chagrin of Wagstaff and Jaspos.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

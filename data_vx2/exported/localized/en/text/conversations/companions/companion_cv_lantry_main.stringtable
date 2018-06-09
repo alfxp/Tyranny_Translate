@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_lantry_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>"My newfound powers don't change the fact that I am loyal to [url=glossary:kyros]Kyros[/url] - but I am likely to be perceived as a threat all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>"If that's true, then the Overlord would be wise to treat you well, for your powers would make you an enforcer second to none. But... I imagine [url=glossary:kyros]Kyros[/url] became [url=glossary:kyros]Kyros[/url] by taking few chances with the competition. I could see the Overlord playing it safe and disposing of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

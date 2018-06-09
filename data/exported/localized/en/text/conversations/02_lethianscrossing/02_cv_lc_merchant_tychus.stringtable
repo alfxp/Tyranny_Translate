@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_tychus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Welcome, welcome!" The merchant motions you over. "What can I get for you today? Be sure to stock up before you leave - there's plenty of wilds between here and the [url=glossary:bastard city]Bastard City[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave] "I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"We will find something you like..." He turns to his goods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"That's a mistake, friend! You won't find lower prices anywhere!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Could you tell me anything about this seal? I found it in [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Tychus turns it over in his hands and shakes his head. "Doesn't look like any seal I've encountered. Sorry... Someone else might know, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What can you tell me about Gino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"He was accused of killing off the competition - but nothing ever came of it. He's still being allowed to sell his wares, so there must not have been definitive proof of any misdeeds. Although, with the rumors, I'd imagine right now is a very tough time for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He stops, his lip turning up in a sneer. "Hmmmm... Here to witness your handiwork, Fatebinder? It wasn't enough to enact the [url=glossary:edict]Edict[/url], you had to see what it's doing to the Crossing?" He folds his arms. "I suppose there are worse places I could be, so I really shouldn't complain..." He sighs. "While you're here, can I do anything for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Well, if it isn't the Fatebinder." The man's face goes slack and all sign of joy leaves his eyes. "What brings you to [url=glossary:lethian's crossing]Lethian's Crossing[/url]? Don't you have war to wage with [url=glossary:kyros]Kyros[/url]? You already condemned the people of [url=glossary:vendrien's well]Vendrien's Well[/url] to live with one of your Edicts - we don't need any more death in the Tiers." He shakes his head. "But I'm talking to myself here, aren't I? Can I do anything for you today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ah, Fatebinder, you've come back." Tychus' voice is flat and emotionless. "Can I get you anything today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Greetings traveler, you look like you could use what I have to offer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

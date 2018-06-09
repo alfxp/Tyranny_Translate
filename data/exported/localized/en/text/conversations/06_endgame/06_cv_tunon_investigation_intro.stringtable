@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_tunon_investigation_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>174</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You call yourselves officers of [url=glossary:kyros]Kyros[/url]' army, but your conduct falls short of my expectations. The Court finds your accounts of [url=glossary:vendrien's well]Vendrien's Well[/url] lacking - rife with misdirection and fallacy, fouled with baseless accusation."
+
+The shadows beneath [url=glossary:tunon]Tunon[/url]'s cloak darken and flare around him. Murmurs of unease erupt in the court.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Silence! The contradictions in your statements will be examined, and falsities threshed from truths. If we find you have perjured yourselves, [url=glossary:bleden mark]Bleden Mark[/url] will see to your fate." The Archon turns, and you feel his gaze upon you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Let us speak of [url=glossary:ascension hall]Ascension Hall[/url]. From all accounts, it would seem you were instrumental in its capture - or so the petitioner of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] testifies. The [url=glossary:disfavored]Disfavored[/url] commander has a dimmer view of the matter. Lend me your perspective." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Let us speak of [url=glossary:ascension hall]Ascension Hall[/url]. The [url=glossary:disfavored]Disfavored[/url] sing your praises across the realm, though the [url=glossary:scarlet chorus]Scarlet Chorus[/url] appeal for charges of treason. Perhaps you can offer a more enlightened account." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Let us speak of [url=glossary:ascension hall]Ascension Hall[/url]. We have heard troubling accounts of your actions - including claims that you worked with the oathbreakers known as the [url=glossary:vendrien guard]Vendrien Guard[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I joined with the [url=glossary:scarlet chorus]Scarlet Chorus[/url], we took the Citadel with an unstoppable advance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Lie] "I had no choice but to align with the [url=glossary:vendrien guard]Vendrien Guard[/url] to acquire the Citadel and resolve the [url=glossary:edict]Edict[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I claimed the Citadel with a small unit of [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] meant certain doom if the siege failed. So why, when your survival depended on it, did you join your strength to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and not the elite [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"An efficient solution - the type I would expect from a capable agent. Tell me though, with the [url=glossary:edict]Edict[/url] looming overhead and death the price of failure, why not employ the numerical advantage of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Oh, but there is always a choice! In what realm of reason would this not be the actions of a traitor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Petty squabbles clouded [url=glossary:graven ashe]Graven Ashe[/url]'s judgment. He was too mired in assaulting the Voices to conquer the Citadel properly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] provoked Ashe at every turn. I suspected treachery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"The Archons warred with each other - all would have perished if I did not take matters in my own hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I will consider this testimony at length. The Court thanks you for it. Is there anything you wish to add at this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Troubling. Cowardice is not normally a word we associate with the [url=glossary:disfavored]Disfavored[/url]. We know the legion has suffered intolerable loses, though it is not for the Court to judge how [url=glossary:graven ashe]Graven Ashe[/url] risks his troops."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"A captured iron sword is of no concern, but how did a trove of weapons go missing? This could be the sign of corruption within the supply lines. The matter should be investigated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I confiscated a supply of iron weaponry from a trader that was traveling with the [url=glossary:vendrien guard]Vendrien Guard[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"During my time in Tripnettle, I learned the [url=glossary:disfavored]Disfavored[/url] were loath to engage the enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Have you further evidence to submit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I have told you all that I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Your testimony is accepted by the Court. The statements of our guests raise questions in my mind. There is much about this campaign that has caused me to wonder..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Petitioners, leave us. I would have a private audience with the Fatebinder."
+
+"Ascend and join me. You will find the way opened." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"This civil war, this feud, is an insult to [url=glossary:kyros]Kyros[/url]' Peace. It should not have taken the better part of a year to silence the last vestiges of the oathbreakers." [url=glossary:tunon]Tunon[/url] regards you in thoughtful silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"A shipment of iron weapons was short on arrival. Where coveted iron is concerned, I don't believe it to be a clerical error."
+
+"One of my agents recovered this seal in Echocall. It belongs to a merchant collective. [url=glossary:lethian's crossing]Lethian's Crossing[/url] is teeming with their kind. If you would root out treachery, I would advise starting there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] seem the logical first step in your inquiry. The legion holds you in some esteem, and [url=glossary:graven ashe]Graven Ashe[/url] has shown deference to the Court in times past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You should, of course, speak with the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and gather their testimony, but it stands to reason that most in the Chorus would sooner brag about a pauldron fashioned from your skull than entertain your questions. Do not regret killing the rabble that impede your investigation - they will be easily replaced."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"They say [url=glossary:the voices of nerat]the Voices of Nerat[/url] holds you in higher regard than most. Use this alliance to enter his confidence. It seems unlikely the Archon of Secrets is more honest with friends than with rivals - but to his friends, he has been known to divulge much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] will likely be less cooperative with your investigation. They will no doubt assume [url=glossary:graven ashe]Graven Ashe[/url]'s honor is beyond reproach - which is all the more reason to scrutinize the Archon of War closely."
+
+"And if the ironclad forces discourage your inquiry, I charge you to make them talk - speak their language of battle if you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Your fellow Fatebinders have been busy acting as my eyes and ears. I have a few leads for you to follow. You should of course speak with your brothers and sisters of the Court if you need further counsel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"The oathbreakers were reported to be using iron armaments - more than they might acquire from looting what few [url=glossary:disfavored]Disfavored[/url] they killed."
+
+"Any iron in the Tiers not rusted through was made by [url=glossary:forge-bound]Forge-Bound[/url] hands in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Between craftsman and quartermaster, someone let iron fall into enemy hands. Investigate this matter, and bring the thieves to justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Though the [url=glossary:disfavored]Disfavored[/url] were triumphant in the [url=glossary:blade grave]Blade Grave[/url], I understand that their troubles within the region are unfinished. Talk to the [url=glossary:disfavored]Disfavored[/url] commanders serving in the [url=glossary:blade grave]Blade Grave[/url] - perhaps they can shine some light on the origins of this feud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] have made use of the Sages' network of dovecotes and messenger birds as they come under capture. I've heard multiple claims of strategic communications gone missing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"The [url=glossary:scarlet chorus]Scarlet Chorus[/url] leader in [Plainsgate] is set on taking the [url=glossary:disfavored]Disfavored[/url]'s holdings with lethal force. Rumors of aggressive Chorus posturing are commonplace, but if you are in the [url=glossary:stone sea]Stone Sea[/url], it would be wise to investigate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Bank Node 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You are dismissed. Should the Court have need of your presence, you will receive word. Go forth and do my bidding - and bring glory and honor to the Tiers in [url=glossary:kyros]Kyros[/url]' name." 
+
+[url=glossary:tunon]Tunon[/url] raps his gavel against the floor, the singular note resounding throughout the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Let us speak of [url=glossary:ascension hall]Ascension Hall[/url]. We have all manner of discordant and conflicting stories to piece together. In your own words, tell the Court what transpired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I took the Citadel and satisfied [url=glossary:kyros]Kyros[/url]' command. To this end, are my means not justified?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What is best is always justified, but what is justified is not always best. We expect results - and in that regard, you have not entirely failed us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"The Court will ponder the testimonies we've received, and judge the matter in its proper course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>For a long while, the Adjudicator hovers in silence, shadows trailing from below his robes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Neither the [url=glossary:disfavored]Disfavored[/url] nor the [url=glossary:scarlet chorus]Scarlet Chorus[/url] seem to hold you in high regard - as it should be. You are their keeper and warden - they must respect and fear you, but all other sentiments are distractions, unworthy of your station."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"As always, you will be held accountable for what you do in the Court's name, but you are free to conduct your investigation in the manner of your choosing."
+
+"You must expect lies, misdirection, and manipulation. Suffer not such obstructions of justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"At first, we were not amused by your alliance with the Tiersmen... but there is a logic, a pragmatism to the situation that we are willing to entertain. You deputized our enemies to bring order out of chaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"But if these oathbreakers trust you, then take advantage of the connection. If indeed [url=glossary:graven ashe]Graven Ashe[/url] or [url=glossary:the voices of nerat]the Voices of Nerat[/url] conspire with our enemies, this would explain much of the events in [url=glossary:vendrien's well]Vendrien's Well[/url] and the feud ignited therein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"If [url=glossary:graven ashe]Graven Ashe[/url] were guilty, I'd imagine all his soldiers would lie for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I'll speak with the Archon of War."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"The Chorus seems like a source of lies - why bother?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I shall speak with the Archon of Secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"The oathbreakers were merely pawns to resolve the [url=glossary:edict]Edict[/url], not allies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I will speak with them and learn what they know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Do not toy with the locals. Subjugate them if they will serve, destroy them if they have exhausted their usefulness. I will not permit them to vanish into the Tiers, there to gather strength with renewed defiance for the Overlord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Your intuition may well be correct, but you must give the [url=glossary:scarlet chorus]Scarlet Chorus[/url] a chance to give an accounting - even a false one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I concur. [url=glossary:graven ashe]Graven Ashe[/url] has a reputation for honor and nobility, but nobody is above reproach. If he is guilty of treachery in some fashion, his loyal soldiers will not be the ones to betray him."
+
+"But if anyone is conducting a symphony of lies, common sense would point to [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Lie] "I am a loyal agent to [url=glossary:kyros]Kyros[/url]. Those who slander me seek only to sow discord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"The Archons are at war with each other, they have much to gain from slandering others to obfuscate their deeds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Noted, though I would caution you against overconfidence. Your standing in this Court will not protect you if you are found in contempt of [url=glossary:kyros]Kyros[/url]' law."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"So says every petitioner brought under charges of disloyalty. Your words ring of misdirection - we cannot judge them as truth. Is that all you have to say in your defense?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I have only my word and my history with the Court to account for my recent actions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I took the citadel for [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Lie] "I took the Citadel with my own cunning, employing a small group of [url=glossary:disfavored]Disfavored[/url] as a distraction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Lie] "I took the Citadel with my own strength, employing the [url=glossary:scarlet chorus]Scarlet Chorus[/url] as a distraction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Your own strength? I trust you mean strength of arms, not strength of credibility. Tell me - with the [url=glossary:edict]Edict[/url] looming and failure a matter of death, why trust the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and not the elite [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Curious. So you needed a distraction and employed [url=glossary:kyros]Kyros[/url]' elite - not the useless rabble of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"As you say. And yet that was not evident from your actions. All accounts claim that you sided with the oathbreakers. This would be the very definition of working against the Overlord's wishes. Enlighten the Court - how is this not treason?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] was willing to win the Citadel at any cost. Ashe values his army more than his duty to [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"The siege called for tactics and planning, not raw numbers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Your Honor, I have relayed the events as I experienced them. You can well imagine why my version conflicts with his." She makes a dismissive gesture to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] representative.
+
+"On my honor, and on that of the Great General, I would sooner snap my sword than perjure myself before you, Archon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Oh, so you imply that falsehood comes easier to my lips than yours? You're a fool if you believe the Archon of Justice won't see through your lies because the [url=glossary:disfavored]Disfavored[/url] think themselves better than an honest gang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Fatebinder, we will start with the matter of the Archons. [url=glossary:graven ashe]Graven Ashe[/url] and [url=glossary:the voices of nerat]the Voices of Nerat[/url] have declared war upon each other. In addition to violating [url=glossary:kyros]Kyros[/url]' Peace, they have thrown the conquest of the Tiers into disarray. By all accounts, these hostilities began shortly after your arrival. Tell us what transpired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] may have killed [url=glossary:graven ashe]Graven Ashe[/url]'s son, [url=lore:voices_power]or worse..."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Lie] "You must be mistaken, I wasn't present."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"The Fatebinder presents testimony. I warn you both against speaking out of turn." 
+
+"Something more than a mere disagreement unraveled this campaign, but I will return to that in time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Curious. Your statement contradicts all other testimonies on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"The Archons could not agree on who should lead the siege and descended into accusations of treachery - it seemed a mutual spat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"But... but I know you were there!" She shakes her head in frustration and turns to the Archon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Fatebinder, you know full well the penalty for perjury. If we cannot trust the words upon your breath, then you cannot be trusted with lungs."
+
+"Do you wish to rectify your statement?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I did not take sides, I took control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"If my actions were not true to [url=glossary:kyros]Kyros[/url]' will, they would not have satisfied the Overlord's [url=glossary:edict]Edict[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Continue." The Archon hovers in thoughtful silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] stated that [url=glossary:kyros]Kyros[/url]' servant must claim [url=glossary:ascension hall]Ascension Hall[/url]. The resolution of the [url=glossary:edict]Edict[/url] proves my loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] would not have been resolved if my motivations were untrue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] demanded that a minion of [url=glossary:kyros]Kyros[/url] take [url=glossary:ascension hall]Ascension Hall[/url] and I did just that. I do not need to defend my success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You made it known that an amulet incited the conflict. The Court believes the [url=glossary:vendrien guard]Vendrien Guard[/url] used you for their own purposes. What do you say to that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Conflict between the Archons was a long time building - you mistake the tipping point for the root cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"The Archons have been of different minds since the start of this war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Your perspective is appreciated, but the dispositions of the two Archons are already a matter of record." 
+
+"Loyal subjects of [url=glossary:kyros]Kyros[/url] have drawn blood from each other - a cardinal crime. Something happened at [url=glossary:vendrien's well]Vendrien's Well[/url] to trigger this feud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] and [url=glossary:the voices of nerat]the Voices of Nerat[/url] must be examined in close detail. You are charged with observing the Archons and presenting your case that one of them has wrought chaos and disorder upon the Tiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Whomever you choose to take into confidence is up to you. Only return to me with the evidence to make your accusations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Extracting information from the [url=glossary:disfavored]Disfavored[/url] sounds like a worthy challenge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Interrogating the [url=glossary:scarlet chorus]Scarlet Chorus[/url] seems an expedient move."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Remember, your blood lust must always be tempered by [url=glossary:kyros]Kyros[/url]' laws. You may defend yourself against the [url=glossary:disfavored]Disfavored[/url]. Because they are warring with the [url=glossary:scarlet chorus]Scarlet Chorus[/url], you may claim the defense of the Chorus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"The conscription methods of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] open the doors to the loyal and the wretched alike - no doubt those who are aligned to the Chorus out of survival will be the most forthcoming... the genuinely loyal members of the Chorus will likely lie with abandon to protect [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I serve the will of the Court."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I agree, Your Honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Our allies squabble while our enemies regroup. It falls upon the Court to measure the extent of the damage, and to execute the agents of disorder."
+
+"I suspect that treachery, negligence, disunity and greed have infected one or both of our esteemed allies. Until you are instructed otherwise, this matter is the Court's primary focus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I will make this my mission, Your Honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Remain silent]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Be careful that you don't invite them too closely into your confidence. I would not empower the rabble by sending a servant of the Court to do their bidding. Ensure that your objectives come first in all things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I understand that you made a troubling discovery about a missing shipment of weapons. Pursue any leads that you can - I suspect that the matter goes deeper than your initial findings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>He scrutinizes you, hovering in thoughtful silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Reports came to me that you discovered a unique seal. The most likely bearer of such an item are merchants, most of which cluster in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Let that knowledge guide your path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"What if I find them both blameless?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Could they both be guilty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"It's possible, but the momentum of the conquest up to this point suggests otherwise. The failure at [url=glossary:vendrien's well]Vendrien's Well[/url] implies a coordinated will behind the chaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Then you will have fallen grievously short in your duties. The conquest of the Tiers frays around us. There is a root cause. If you cannot get to its source, then I shall find another who can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"There is a final matter to discuss... a sensitive topic." Though it's impossible to gauge from his expression, [url=glossary:tunon]Tunon[/url] seems more wary than usual. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"What concerns the Court, Your Honor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"In spite of the many shortcomings at [url=glossary:vendrien's well]Vendrien's Well[/url], you managed to make a name for yourself. You proclaimed an [url=glossary:edict]Edict[/url] of [url=glossary:kyros]Kyros[/url], resolved its demanding conditions, and ascended the Mountain Spire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Any one of these feats would be worthy of recognition by the highest authority. You managed to accomplish three." [url=glossary:tunon]Tunon[/url] hovers in observance, awaiting a response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I was only doing my job, Your Honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"I am in a privileged position to accomplish incredible deeds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Just another day in the life of a Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Your sense of obligation to your role is admirable, but modesty will not recommend you to the task ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"It pleases me that you grasp your role, as long as you temper it with a sense of duty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I would caution you against such flippancy to your role. Others would look to you for confidence in the Court - in [url=glossary:kyros]Kyros[/url]' very laws. I would not have them see this disappointment on display."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Whether by design or by accident, you have captured the attention of [url=glossary:kyros]Kyros[/url]' army and the local Tiersmen alike. This is no small opportunity, and the Court charges you with exploiting your new standing to its fullest potential."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"You have a title in our hierarchy. However, it's a little known secret that one's standing in the world is determined by their infamy, their deeds, and how they come to be known."
+
+"Mind this notion as you bring justice to this lawless frontier. There may come a time when your deeds speak for you louder than any title." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Whatever you did to capture the attention of the masses at [url=glossary:vendrien's well]Vendrien's Well[/url], I would encourage you to do so again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Understood. I will be known as a champion of justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I look forward to chaining chaos to my will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Great deeds will define me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Good. It falls to us to set a new standard for these southern barbarians."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"So long as order and [url=glossary:kyros]Kyros[/url]' law follow in your wake, you may dispatch chaos however you see fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"You begin to understand. Whether your acts are favorable or heinous, it falls to you to bring greatness to this campaign." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Fatebinder, your return to court is later than I expected. Were it not for [url=glossary:bleden mark]Bleden Mark[/url] offering to vouch for your actions, I would have stripped you of title and the protections of [url=glossary:kyros]Kyros[/url]."
+
+[url=glossary:tunon]Tunon[/url], Archon of Justice, regards you from over his podium. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"You are dismissed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Script Node 174</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"You see the nobles milling about this court. You hear the anxiety and uncertainty of a conquered people. Day and night I audience declarations of fealty to curry favor."
+
+"What you don't see are the dungeons beneath the court, and the hundreds of Tiersmen who strained against [url=glossary:kyros]Kyros[/url]' rule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I warrant that your oathbreaker allies know a few of them, whether by blood or by allegiance. Let it be known that their lives are forfeit to the Court's mercy, and any action meant to shatter what order we have established will be met with the swiftest reprisal. Blood will flow through these halls. Is that clear?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Abundantly clear, Your Honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"You wouldn't dare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[Say nothing,]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"I'm glad we understand each other. Be sure your new friends understand as well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Wouldn't I? On what basis do you make this assessment, Fatebinder? The Court judges with an objective eye, and those who think themselves above the law have forfeit the privilege of living under [url=glossary:kyros]Kyros[/url]' rule." 
+
+"If it brought a modicum of peace to the Tiers, I would not hesitate to kill them all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"However you choose to engage with these Tiersmen, tread carefully. Your next steps could bring this realm into the Empire's fold, but there is perhaps a greater threat of unraveling everything we've built in [url=glossary:kyros]Kyros[/url]' name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Could this be true? The senseless killing of a good Northman - especially the Archon's blood kin - is no small act of war. [url=glossary:the voices of nerat]The Voices of Nerat[/url] would answer for this crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Clearly the Fatebinder has spent too much time resolving the problems of others! He sees only controversy and intrigue. It's no wonder that we're worse off now than before he arrived!"</DefaultText>
+      <FemaleText>"Clearly the Fatebinder has spent too much time resolving the problems of others! She sees only controversy and intrigue. It's no wonder that we're worse off now than before she arrived!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"It seems that [url=glossary:graven ashe]Graven Ashe[/url] wanted prisoners returned in exchange for prolonging the siege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Would the Archon of War be so bold as that? If he put his soldiers before the success of the campaign, that would be a crime worthy of the harshest sentence. You, a servant of Court, must recognize the conflict of interest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Your Honor - if you look deeper into this claim, I'm sure you'll find that it carries no weight. It probably stems from a vengeful Chorus recruit who felt wronged during the conquest. Nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] were more deserving of the honor. Our tactics and training outmatched the [url=glossary:vendrien guard]Vendrien Guard[/url] at every turn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"What balderdash. The [url=glossary:disfavored]Disfavored[/url] couldn't tip over a straw hut if they had a week to strategize."
+
+"Our howling mob was better equipped to overwhelm the [url=glossary:vendrien guard]Vendrien Guard[/url]. Our recruits were ready to throw themselves at the enemy, if only Ashe and his legion would agree to a plan." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"The conduct of the [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] displeased me greatly. I ended the siege as I saw fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Even if that meant alienating your former allies, driving a rift between the Court and the military, and potentially upending what we've spent three years building together? I wish I shared your confidence, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I apologize for the delay, Your Honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I'm here now. Let's get this over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I will take your silence as contrition, but do not grow accustomed to a stilled tongue in my Court."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"If your conduct is as impetuous as your tongue, then the failure of [url=glossary:vendrien's well]Vendrien's Well[/url] is no mystery to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Accepted. Don't make a habit of truancy in the future. It's unbecoming for an officer of the Court."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[Listen]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Fatebinder, you arrive just in time. The representatives of the [url=glossary:vendrien's well]Vendrien's Well[/url] siege have finished their testimony, and I cross-examine." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"You cannot presume to know the minds of the Archons, and yet you speak with the wisdom of experience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"In this, if nothing else, the ironclad lady and I agree."
+
+Blood Mulch smiles at you, showing the ragged gaps between his teeth. "What are you afraid of, huh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Sounds like the armies have been tripping over their feet to pass the blame to someone else. Careful that it doesn't end up in your lap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Script Node 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Script Node 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Trigger Conv Node 209</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Trigger Conv Node 210</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"If your killing spree in the [url=glossary:bastard city]Bastard City[/url] is any indication, you are no stranger to spreading infamy already." [url=glossary:tunon]Tunon[/url] nods in approval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Any closing statements, lieutenant?" [url=glossary:tunon]Tunon[/url] peers over the edge of his podium to regard the officers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"So long as you keep them on a tight leash, we will permit this union to continue under your auspices. The opportunity to bring peace through collaboration, rather than warfare, is one we shouldn't ignore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"The Sages are broken, their citadel in flames, but they were not slaughtered to the last. Some of their number still congregate around the smoking husk of their [url=glossary:burning library]Burning Library[/url]. If they have been reading [url=glossary:disfavored]Disfavored[/url] communications, learn what they learned, then execute them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"No doubt the [url=glossary:disfavored]Disfavored[/url] will be rife with accusations and 'evidence' against [url=glossary:the voices of nerat]the Voices of Nerat[/url]. [url=glossary:graven ashe]Graven Ashe[/url] is a noble man, but never underestimate his capacity for deception. A wise general succeeds by knowing when to be unreadable to the enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Use this to your advantage. If the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and [url=glossary:disfavored]Disfavored[/url] resist your questions, subdue their defiance - if they lie between their teeth, break those teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Getting the oathbreakers on my side was simply a means of mitigating the losses to [url=glossary:kyros]Kyros[/url]' forces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"For the time being, you will continue to travel on your own accord and dispense justice to both sides of this civil war. If your presence is required here in Court, we will find you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"The [url=glossary:scarlet chorus]Scarlet Chorus[/url] leader in [Plainsgate] is set on taking the [url=glossary:disfavored]Disfavored[/url]'s holdings with lethal force. Rumors of aggressive Chorus posturing are commonplace, but if you are in the [url=glossary:stone sea]Stone Sea[/url], it would be wise to investigate."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

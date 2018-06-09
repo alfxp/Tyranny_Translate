@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_naruk_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>147</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you approach, you take a good look at the area where the townspeople have chained a Beastman, brutally and on display like some kind of public attraction. 
+
+He watches his tormentors, visibly exhausted and wary, battered and bloodied and stinking of urine and old meat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The Beastman snarls and snaps at you, drooling tiredly as he strains against his bonds. His eyes are wide with fear, but his limbs droop tiredly and his whole body trembles. 
+
+"Back away or lose both life and limb. Left-Claw still has killing-teeth. Can still maim, human!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Calm down and tell me what's happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Back away from the Beastman.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Help Left-Claw!" He whines, all the bravado draining from him. "Why have humans hunted Beastman? Beastman has never bothered humans - knows to leave alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Humans claim Beastman killed settlers, but Beastman has only hunted brown boar. [url=glossary:stonestalkers]Stonestalkers[/url] don't eat meat from humans. Tell settlers."
+
+He growls, angry and afraid.
+
+"Left-Claw is good hunter. Tracked boar for tribe, but got bit by iron maw near ridge to human-den. Bled and bled - thought would have to rip through leg. Then sun woke and humans came, howling threats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You shouldn't have hunted so close to town, but I don't believe you killed the missing settlers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Covered in blood, accused before the masses... You look like a killer to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The Beastman nods and licks at a dark patch of dried blood on his upper lip. "Then human will free Beastman?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sounds no different than other humans." He snarls and snaps at you once more. "Are all same. Tormentors of Beastmen then and still now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Human has Left-Claw's gratitude. Many more-than-five thanks for rescuing Beastman." He drops to his hands and knees, whining and groveling at your feet. "Thanks-thanks-thanks. Beastman gives thanks to human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Stop. No, no. Don't touch Beastman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What fate has human decided?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Beastman, your time has come.  For your crimes, your head shall be mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I've decided to free you and decree your innocence. Leave here, quickly. The settlers will kill you if you linger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You are to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url], Beastman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Humans are only cruel predators. Are only hunters that like hurting prey again and again before killing strike." He bares his teeth at you, but helpless to defend himself, it's an empty threat. "All animals die. Left-Claw is not afraid to join ancestors' earth-blood. But Beastman hopes human's own death will come from [url=glossary:stonestalker]Stonestalker[/url] ripping head from neck and heart from chest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Really? Is true?" He whimpers and quivers with gratitude, eyes darting in search of the easiest escape route. "Left-Claw won't forget help from human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Yes, yes. Left-Claw will join Chorus pack to live." He whimpers and quivers at the prospect of his coming freedom, and for a moment he turns a violent, bloodthirsty gaze toward the townsfolk of [Plainsgate]. But then it's gone, and he's once more panting, harmless, eyes darting in search of his new allies - the gang that will protect him and in turn he will win wars for. "Left-Claw won't forget help from human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] do not eat humans. Please. Free Beastman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I've been asked to recruit Beastmen for the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Perhaps we can help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I must be on my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Tired, brown eyes close and a soft whine slowly breaks from the Beastman's chest. "How can Beastman risk own tribe? Even for freedom... even to live..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"No, no. Left-Claw will not talk." He howls, sounding utterly anguished, sagging in his chains, and for a moment you wonder if Beastmen can cry. "Will protect tribe, even with final breaths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"If you prefer to die, I can leave you to your fate. Simply speak the word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He shakes his head, near frantic, tossing strands of his bloodstained mane into his eyes. "No, don't." He pants, chest heaving. "Wait. If human gives words - promises not hunt or harm [url=glossary:stonestalkers]Stonestalkers[/url]..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"On my honor as a Fatebinder, you have my word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The air is heavy, silent, as the creature waits without moving, watching you for signs of hidden treachery. Reluctantly, he speaks. "Search for tribe-den in Stone Down." He swallows hard. "Free Left-Claw now. Will show human right path, will speak for human to Hundred-Blood. But if-if cannot, tell Hundred-Blood how Beastman has been hunted. Then [url=glossary:stonestalkers]Stonestalkers[/url] will help..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Thank you. As promised, in exchange, I'll ensure that you're either freed to your tribe or released into the custody of the Chorus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Fool-mongrel. Like I'd ever help a Beast like you. I'll give your final regards to your tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Call me curious, but why are you named Left-Claw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Left claw is best claw. Brood-sisters and brood-brothers use right claw most when hunting, but Beastman learned left claw is faster. Left claw is stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The Beastman shudders and shakes, weak but driven to lash out, to snap in fear and anger. "Why does human leave Left-Claw to suffer? Please. please. If won't free, give mercy, please. Kill quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Script Node 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Come to tribe's den in Stone Down. Left-Claw will tell Hundred-Blood how human saved Beastman. [url=glossary:stonestalkers]Stonestalkers[/url] will know of human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The Beastman perks up, hope flooding him at your words. He struggles and whines anew, near frantic despite his exhaustion.
+
+"Help, help! Please, help Beastman!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Kills-in-Shadow sent me. Are you okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I haven't yet made my decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Random Node 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Hurts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Don't hurt Left-Claw. Help, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Mercy. Mercy, please, mercy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Lie] "I give you my word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"It's okay, I'm a friend. Are you badly hurt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I'm not going to hurt the [url=glossary:stonestalkers]Stonestalkers[/url]. In fact, I'll send you back to them, so you can see that they're safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What a disgrace. You call yourself a [url=glossary:stonestalker]Stonestalker[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Promise. Give words. Will not hunt or harm tribemates." He shakes his head, near frantic, tossing strands of his bloodstained mane into his eyes. "Will help [url=glossary:stonestalkers]Stonestalkers[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Yes! Beastman is [url=glossary:stonestalker]Stonestalker[/url] even when made weak, even when hunted and hurting. Will die first. Will protect tribe even if tribe cannot protect Left-Claw." He growls, eyes flashing violence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Hush and lie still. Do not snap-snarl at Alpha. Kills-in-Shadow has come to help Beastman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The Beastman cries and jerks, relief flooding him at the sight of his pack leader.
+
+"Kills-in-Shadow!" he yelps. "Left-Claw hoped pack Alpha would come. Please, help Beastman!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Calm down and tell us what's happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Whelp! Speak now, quick-quick." She rakes her claws under the Beastman's chin, drawing a thin trail of blood. "Want to die? Human is not teasing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>He bobs his head, near frantic, tossing strands of his bloodstained mane into his eyes. "Okay, yes. Wait." He pants, chest heaving. "If human gives words - promises not hunt or harm [url=glossary:stonestalkers]Stonestalkers[/url] - Left-Claw will talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Okay, just wait a moment. I'll free you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"This is how I would see the miserable creatures - humbled and instructed in their place. To offer them anything more invites anarchy." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The Beastman shudders and shakes, weak but driven to lash out, to snap in fear and anger. "Why does human leave Left-Claw to suffer? Please. please. If won't free, give mercy, please. Kill quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Really? Is true?" He whimpers and quivers with gratitude, eyes darting in search of the easiest escape route. "Left-Claw won't forget help from human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Bank Node 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Iron-clad whines too often about Beastwomen. Hush, prey. Now is not time to provoke Kills-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Hush and lie still. Do not snap-snarl at Alpha if Beastman wants to be freed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The Beastman cries and jerks, relief flooding him at the sight of his kith.
+
+"Kills-in-Shadow!" he yelps. "Left-Claw hoped pack Alpha would come. Please, help Beastman!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The Beastwoman growls a deep, rumbled warning. "Has Beastman forgotten how to listen? When to obey? Said be quiet. Stop useless whimpering. Kills-in-Shadow is no longer Alpha of pack." 
+
+She glances to you, obviously worried about the captive Beastman despite her ruthless show of bravado.
+
+"Beastwoman follows Fatebinder now. But Fatebinder will help Left-Claw. Has promised for Kills-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The Beastwoman growls a deep, rumbled warning. "Has Beastman forgotten how to listen? When to obey? Said be quiet. Stop useless whimpering. Kills-in-Shadow is no longer Alpha of pack." 
+
+She glances to you, obviously worried about the captive Beastman despite her ruthless show of bravado.
+
+"Beastwoman follows Fatebinder now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"One bloodthirsty animal joins a horde of bloodthirsty animals. It feels right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The Beastwoman gnashes her teeth, furious. She snarls and rises up, muscles quivering from the effort to hold back her attack.
+
+"Nope! Wrong! Will not leave pack-whelp to suffer. Will free Left-Claw!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Punch Kills-in-Shadow on the nose.] "Try to force me, and I'll skin you for boots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Fine, calm down. I'll help him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The Beastwoman shirks back. She snarls, hackles raised, but her red eyes are wide with surging fear and surprise. She glances once, reluctantly, to the chained and bleeding Beastman - her former pack-follower - before she turns away, abandoning him to his fate.
+
+"Alpha should guard self in times of sleep," she warns darkly, her back to the both of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The Beastwoman settles down with a relieved huff. "Fatebinder is good Alpha to help Beastman. Kills-in-Shadow will not forget. Will fight to death for human pack Alpha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Fatebinder is teasing, yep? Does not mean to really hurt Left-Claw in front of Beastwoman, yep-yep?" She glowers, wary and ready to strike in order to protect her precious kith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Stand in my way, mongrel, and I'll slaughter you next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Fine, I take it back. I'll free him instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Howling with rage, Kills-in-Shadow lashes for you. Her claws rake your hip and carve deep gashes into your armor.
+
+"Nope! Forbidden!"
+
+She hunkers between you and the Beastman, protecting him with her scarred, hulking body.
+
+"Alpha or not, Fatebinder will not hurt Left-Claw before Kills-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Good, good. Will not need to slaughter Fatebinder." She slumps in relief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"You two know each other?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Left-Claw was pack-whelp of Kills-in-Shadow. Before Beastwoman left pack for Fatebinder."
+
+She watches the Beastman, and he squirms under her gaze. 
+
+"Whelps are always falling into trouble without protection from Kills-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>The Beastman whines, unable to keep quiet, despite his dominant's orders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>He regards you warily. "What does human want? For Beastman to join Chorus pack?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Obviously. And you'll tell me where I can find the rest of your tribe so I can recruit them, as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"All right. Never mind if you're going to get so upset about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Left-Claw is good Beastman to guard tribe. But Kills-in-Shadow cares for pack-whelp, not [url=glossary:stonestalkers]Stonestalkers[/url]. Will tell Fatebinder where to find tribe's den. So help Left-Claw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Barik, subdue Kills-in-Shadow until I've dealt with the Beastman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Gladly. Now, creature - are you going to make this easy and heel for your master, or are you going to make this fun and put up a fight? Don't let me sway your decision - I'll enjoy myself either way." 
+
+Barik braces himself for a worthy struggle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Think iron-clad can stop Beastwoman? Nope! Wrong! Won't sit aside! Won't watch pack slaughter Left-Claw!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Bank Node 93</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Kills-in-Shadow will not back down. If you insist on this death sentence, it may be wisest to order her to be elsewhere - then you can deal with Left-Claw in her absence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I don't think you're winning over Kills-in-Shadow with your sense of justice here. Perhaps it's best to order her away, I don't think she's going to relent on this matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Not a fan of authority, are you? For a stinking, flea-ridden savage, you may be the closest thing we have to pure anarchy. I mean that as a compliment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Typical beast - all emotion and no subtlety. Send her back to the Spire so we can deal with the problem and move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Fine, I take it back. I'll free him instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The Beastman bares his teeth at you, but helpless to defend himself, it's an empty threat. "Humans are only cruel predators. Are only hunters that like hurting prey again and again before killing strike. All animals die. Left-Claw is not afraid to join ancestors' earth-blood."
+
+He spits in your face. 
+
+"But Beastman hopes to first watch Kills-in-Shadow rip human's head from neck and heart from chest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The mob is angry. I should speak with the less agitated settlers in town before making a decision.” </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Help Left-Claw!" He whines, all the bravado draining from him. "Why have humans hunted Beastman? Beastman has never bothered humans - knows to leave alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>The Beastman perks up, hope flooding him at your words. He struggles and whines anew, near frantic despite his exhaustion.
+
+"Help, help! Please, help Beastman!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The Beastman cries and jerks, relief flooding him at the sight of his kith.
+
+"Kills-in-Shadow!" he yelps. "Left-Claw hoped pack Alpha would come. Please, help Beastman!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Barik has a point. The Beastmen need to be controlled, if only for their own safety."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"She has a point. Shut it, Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Good. Am pleased Alpha to Kills-in-Shadow has chosen side of Beastwomen. Will not stop hunt when time has come."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Of course. Beasts cannot deny human rule any more than they can deny [url=glossary:kyros]Kyros[/url]. Better that they submit and accept their position in the greater hierarchy than waste their lives in savagery and rebellion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The Beastman lies bound and unable to move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Really? Is true?" He whimpers and quivers with gratitude, and for a moment he turns a violent, bloodthirsty gaze on the crowd before him. But then it's gone, and he's once more panting, harmless, eyes darting in search of the easiest escape route. "Left-Claw won't forget help from human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Yes, yes. Left-Claw will join Chorus pack to live." He whimpers and quivers at the prospect of his coming freedom, and for a moment he turns a violent, bloodthirsty gaze on the crowd before him. But then it's gone, and he's once more panting, harmless, eyes darting in search of his new allies - the gang that will protect him and in turn he will win wars for. "Left-Claw won't forget help from human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Really? Is true?" He whimpers and quivers with gratitude, and for a moment he turns a violent, bloodthirsty gaze on the crowd before him. But then it's gone, and he's once more panting, harmless, eyes darting in search of the easiest escape route. "Left-Claw won't forget help from human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I go free now? Beast-friend good." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Yes. You and your tribe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"How did you end up like this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Script Node 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Before I make my decision, I'd like to hear more evidence on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Proof? Proof of Beastman's mistake? Of Beastman's shame - of being caught like prey? Left-Claw cannot show boar's carcass to human. Rot-smelling Chorus pack burned carcass to earth-blood and ash. But human can see where trap gnawed into Left-Claw's ankle. Yes? Can see how Beastman was tricked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Never mind. I've decided to speak more with the crowd before I decree a verdict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I've decided to free you and decree your innocence. Leave here, quickly. The settlers will kill you if you linger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"You are to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url], Beastman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Beastman, your time has come.  For your crimes, your head shall be mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"He's a Beast, and he was caught coated in blood. What more evidence of guilt could you need?! And besides, it was the Chorus that dragged him in. They saw his guilt first hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Interrupt again and you'll be the one coated in blood next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Leave] "Perhaps I should speak with the villagers further regarding my decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>She pales and stumbles a step backwards, but a body in the raucous crowd behind her jostles her forward. 
+
+"If you won't hear my voice, surely others in the crowd...?"
+
+But she trips and falls, knocked aside by a shouting, red-faced man. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>The Beastman's broad chest heaves as his fear ratchets up, and he pants rapidly, struggling to breathe. 
+
+"What will humans do with Left-Claw? Either free Beastman or end Beastman's suffering!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"All any of you have is hearsay - on either side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"The evidence is circumstantial, but it builds a compelling case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"How many villagers have disappeared within the last span? Were any bones found from their bodies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I have no sympathy for bigots. You are free to go, and if the crowd bothers you - they can deal with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Hurry-hurry. Help Left-Claw, please." Exhausted, he flops his head to the ground and moans quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I have no sympathy for bigots. You are free to go, and if the crowd bothers you - they can deal with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>She pales and stumbles a step backwards, but a body in the raucous crowd behind her jostles her forward. 
+
+"W-what do you mean to say, Fatebinder? Of course, you're the authority on the matter. With lord [url=glossary:tunon]Tunon[/url]'s power, you can see to the truth of things. Even hidden ones. I know - I've heard the northern stories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Right, yes, circular but compelling! Everyone, listen to the Fatebinder! With lord [url=glossary:tunon]Tunon[/url]'s power, the Fatebinder can see to the truth of things. Even hidden ones. It's true! I've heard of it in the northern stories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Who doesn't disappear these days? We've lost so many I can't scarcely keep count. Scavengers set for the valley but never return... Even the skilled ones like Dracod have surely been eaten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"The Chorus? You mean the ones you watched me kill while you cowered from the shadows? No, I don't think they'll be offering testimony on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Tch. Was it now?" He juts his chin up in thought. "You know, I think, yeah, I think I recall that it was a few of mine who first found the Beast. Saw him gorging on a villager. Course they had to burn the body - to pay their respects, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Then if it was the Chorus that caught the Beast to protect [Plainsgate] - are they not entitled to him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Sure. That sounds truthful and completely legitimate..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Who doesn't disappear these days? We've lost so many I can't scarcely keep count. Scavengers set for the valley but never return..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Actually, Dracod and his crew have returned on account of the Fatebinder. It's true they'd run into trouble with the Beasts though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"What trouble? They'd been hunted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>He shrugs. "You know what I'd guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"They were trespassing in [url=glossary:stonestalker]Stonestalker[/url] territory. It was a simple misunderstanding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Does it matter? I rescued them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"So, what? We're just to free the Beast? Is that what you'd tell us is fair, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"You trying to get us killed?! You want to get a new [url=glossary:edict]Edict[/url] cast upon us? Or worse?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Alpha will support [url=glossary:bolverk]Bolverk[/url]'s wishes." She growls menacingly at the crowd. "Will help Beastwomen - and Beastmen - to survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>She pales and stumbles a step backwards, but a body in the raucous crowd behind her jostles her forward. 
+
+"W-what do you mean to say, Fatebinder? Of course, you're the authority on the matter. With lord [url=glossary:tunon]Tunon[/url]'s power, you can see to the truth of things. Even hidden ones. I know - I've heard the northern stories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"You saying our word's not good enough, Fatebinder?! You'd rather take the word of a mongrel?!"
+
+Fueled by her indignation, she tries to step forward through the raucous crowd, but trips and falls, knocked aside by a shouting, red-faced man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"What fate has human decided?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"The settlers are convinced, but I'm willing to consider all sides in this matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>The Beastman's eyes dart between you and the crowd. "Yes, Left-Claw speaks true. Perhaps human will free Beastman?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"You trying to get us killed?! You want to get a new [url=glossary:edict]Edict[/url] cast upon us? Or worse?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>The Beastwoman growls a deep, rumbled warning. "Has Beastman forgotten how to listen? When to obey? Said be quiet. Stop useless whimpering. Kills-in-Shadow is no longer Alpha of pack." 
+
+She glances to you, obviously worried about the captive Beastman despite her ruthless show of bravado.
+
+"Beastwoman follows Fatebinder now."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

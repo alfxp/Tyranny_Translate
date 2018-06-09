@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1_11_barik\vx1_11_qst_barik_act3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Never Free</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak with Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kill [url=glossary:graven ashe]Graven Ashe[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Speak with [url=glossary:graven ashe]Graven Ashe[/url] about Barik's condition</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to the smith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to Edgering Ruins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Collect blood from the statue of Queen Lycaerus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return the blood to the smith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Check on Barik at the Mountain Spire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Barik has learned how to remove his armor, but he's unwilling to make the sacrifice required. If he is to escape his prison, the burden rests on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>With the recent revelation that you are now considered an Archon, more options are available to you and Barik for removing Barik from his armor. Discuss these new possibilities with him and determine how to proceed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ashe's Aegis keeps Barik fused into his armor. With the Overlord's decree demanding you face [url=glossary:graven ashe]Graven Ashe[/url] anyway, killing him seems the most efficient way to free Barik of his armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] may be willing to help free Barik from his prison of bronze and iron. Speak with him at Iron Hearth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Barik is no longer blessed by [url=glossary:graven ashe]Graven Ashe[/url]'s protection, so your smith ally may now be able to remove his armor. Bring Barik to her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Freeing Barik from his armor without killing him will require an excessive amount of royal blood. Fortunately, the tears of the colossal stone queen at Edgering Ruins may suffice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>You've arrived at Edgering Ruins, but retrieving the blood may prove no simple task. Figure out a way to collect a sufficient amount for Barik's procedure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>You've collected the tears of royal blood from the statue at Edgering Ruins. Return them to the smith so that she may free Barik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>You have finally separated Barik from his armor. Speak with him at the Mountain Spire to find out how he is adjusting to his life as a free man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Barik implores you to find an alternative to killing [url=glossary:graven ashe]Graven Ashe[/url], which may be possible given your alliance to the Archon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] refuses to release Barik from his Aegis. However, he may respect your demands as an equal if you take out [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] has sworn his loyalty to you. Bring Barik to him and demand the Aegis be removed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Barik has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Barik has left the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>After you extricated Barik from [url=glossary:graven ashe]Graven Ashe[/url]'s Aegis, your smith ally released him from his armored shell. His response to this hard-won freedom remains complicated.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_mattias_duskwatch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Thanks for your aid at Trapper's Junction, Fatebinder. Any luck finding the Steadfast Insignia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Either the storm has ruined my eyesight or you have the Steadfast Insignia!" Mattias claps your shoulder. "Since the [url=glossary:unbroken]Unbroken[/url] came together, we've never been this close to true victory and the end of the [url=glossary:edict]Edict[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Our forces have waited for this opportunity from their positions by Sentinel Stand's outer wall." He turns to Mattias. "I'll send word to make sure they're prepared for your arrival, sir." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What can I do to help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Meet our forces at Sentinel Stand. It's time that we took back the realm's seat of power, dispatched Straydus Herodin, and dug in for the long fight against [url=glossary:kyros]Kyros[/url]. No doubt we'll need your skills on the battlefield, because every competent fighter in the [url=glossary:blade grave]Blade Grave[/url] is about to converge on Sentinel Stand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"As if you haven't done enough already?" He claps your shoulder again and lets out a raucous cheer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"The Insignia is ours! Finally, Sentinel Stand is within reach."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

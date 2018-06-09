@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_scarletchorusfort_forgebound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Her head down and looking about nervously, she perks up and smiles at you as you approach. "Well met Fatebinder, what can I do for you today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Come to browse my goods?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You don't seem all that happy to be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"To be honest I'm not sure that I am. I've never been hammer deep in Chorus soldiers before, not like this at any rate. Forge Master Ulantis sent me here as a sign of good faith to [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Per [url=glossary:kyros]Kyros[/url]' law I don't officially have to sell anything to the Chorus, but they don't lightly take no for an answer..." She trails off as if afraid to finish her thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I am more than happy to sell to you though, Fatebinder. Seeing you here has calmed my nerves a bit so for that I thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

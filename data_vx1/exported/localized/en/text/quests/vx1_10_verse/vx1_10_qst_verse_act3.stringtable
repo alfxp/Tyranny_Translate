@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1_10_verse\vx1_10_qst_verse_act3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Third Degree</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to River's Break</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Investigate the ruined home</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Travel to Fort Squander</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Escape Fort Squander</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Confront [url=glossary:the voices of nerat]the Voices of Nerat[/url] alongside Verse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Talk to Verse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Talk to Verse at the Mountain Spire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Talk to Verse at the Mountain Spire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Talk to Verse at the Mountain Spire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In her quest for vengeance, Verse has uncovered further information regarding her sisters' killers. Investigate the leads to help Verse get the closure she desires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Verse's contact observed a suspicious individual visiting Essa's homestead at River's Break. Return there with Verse to investigate the report.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Verse suspects that the arsonist left behind evidence that will help you track their path from River's Break. Search the rubble for clues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>You have deduced that a [url=glossary:sage]Sage[/url] working with the [url=glossary:scarlet chorus]Scarlet Chorus[/url] was responsible for burning Essa's home. Travel to Fort Squander with Verse to locate them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Newly arrived [url=glossary:scarlet chorus]Scarlet Chorus[/url] forces block your exit from the fort. Take them out and escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] orchestrated the deaths of Verse's sisters in service to his own twisted ends. Travel to Cacophony with Verse at your side to confront the Archon of Secrets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Verse would like to discuss something with you. Speak with her to find out what she wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>You and Verse confronted the soldiers present at the death of her sisters, but the monster who manipulated everyone involved into that slaughter, [url=glossary:the voices of nerat]the Voices of Nerat[/url], remains. Speak with Verse at the Mountain Spire in [url=glossary:vendrien's well]Vendrien's Well[/url] to reflect on these events before confronting the Archon of Secrets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>You and Verse confronted the soldiers present at the death of her sisters and brought low the monster who manipulated everyone involved into that slaughter: [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Speak with Verse at the Mountain Spire in [url=glossary:vendrien's well]Vendrien's Well[/url] to reflect on these events.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>You and Verse confronted the soldiers present at the death of her sisters and brought low the monster who manipulated everyone involved into that slaughter: [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Speak with Verse at the Mountain Spire in [url=glossary:vendrien's well]Vendrien's Well[/url] to reflect on these events.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>You've uncovered evidence of who burned Essa's home. Continue searching the area for more useful clues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] refuses to discuss the matter of Verse's sisters with you peacefully until [url=glossary:graven ashe]Graven Ashe[/url] has been dealt with.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Verse has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Verse has left the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>After dealing with [url=glossary:the voices of nerat]the Voices of Nerat[/url] - and unburdening herself to you - Verse found some closure for the deaths of her sisters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Verse overcame [url=glossary:the voices of nerat]the Voices of Nerat[/url] in a battle of wills and has claimed leadership over the [url=glossary:scarlet chorus]Scarlet Chorus[/url] as the Voices of Verse. With her sisters avenged, an army at her command, and her past behind her, Verse's future is hers to forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

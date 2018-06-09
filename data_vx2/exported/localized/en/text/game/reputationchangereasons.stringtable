@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\reputationchangereasons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>Your [url=glossary:vendrien guard]Vendrien Guard[/url] allies are pleased to see you belittle Barik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>Eb finds your devotion to [url=glossary:kyros]Kyros[/url] unsettling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>You demonstrated loyalty to [url=glossary:kyros]Kyros[/url] in the face of the Overlord's second invasion of the Tiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText>You responded to the Overlord's second invasion of the Tiers with unbridled arrogance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>You expressed worrisome naiveté in the face of [url=glossary:kyros]Kyros[/url]' second invasion of the Tiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1017</ID>
+      <DefaultText>You responded to the Overlord's second invasion of the Tiers by turning on [url=glossary:kyros]Kyros[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

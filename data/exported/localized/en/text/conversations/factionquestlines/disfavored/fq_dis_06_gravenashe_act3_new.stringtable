@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\disfavored\fq_dis_06_gravenashe_act3_new</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>272</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"We find ourselves at an impasse. You are no Fatebinder to be shrugged off, dispatched, or underestimated. No, that time is over. You are an Archon." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I will return when the Archon of Secrets is no more." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'd rather deal with you first, General." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Yes... I thought we would come to this. I had hoped to avoid the confrontation. Your service to my army has been exemplary, and I hate to lose a friend on the eve of victory." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"A wise choice. The [url=glossary:disfavored]Disfavored[/url] will see their honor restored under my rule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I will march your soldiers into the furnace of my war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I always wanted an army to call my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Attack] "Your term of duty is over. Time to die, old man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I see no fresh blood on your armor, but I sense that something has happened. Where once many congregated, there is now an absence. That can only mean one thing..."
+
+"[url=glossary:the voices of nerat]The Voices of Nerat[/url] is no more. Can this be true?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I destroyed the Archon of Secrets." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"At last, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] are undone! We can properly conduct this war and subjugate the Tiers as [url=glossary:kyros]Kyros[/url] intended. That I can see this day while [url=glossary:the voices of nerat]the Voices of Nerat[/url] grows cold... he would never forget this indignity." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"How do you plan to do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"What am I to call you - Fatebinder, Archon? It matters not. You are a mere interruption to greater powers, and you stand in the path of my victory. I will prove myself to [url=glossary:kyros]Kyros[/url], and the legion will march home to reclaim our honor." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"The Voices was a rabid animal, and I put him down like one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Nod solemnly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Truer words have never been spoken. He was a monster, and the world will not weep for his passing. Another Archon of Secrets may take his place in time, but for now his ragged throne is vacant." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Will someone claim the Archon's vacant title?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"We still have to settle the matter of [url=glossary:kyros]Kyros[/url]' decree. Only one Archon may rule the Tiers." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Considering how much you've managed to subdue the disorder of the Tiers, finalizing our conquest in [url=glossary:kyros]Kyros[/url]' name should be little more than tidying up pockets of discontent."
+
+"We could have the entire realm subdued under the laws and customs we hold dear within the next span." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"In time, yes. No doubt they will have to be as treacherous as he was, though I cannot imagine their power will resemble his. For all his multitudes, [url=glossary:the voices of nerat]the Voices of Nerat[/url] was a singular being. Nothing like him has ever existed, or likely will again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Yes... I thought we would come to this. I had hoped to avoid the confrontation. Your service to my army has been exemplary, and I hate to lose a friend on the eve of victory." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Bow in allegiance to me, and [url=glossary:kyros]Kyros[/url] will be appeased. We can govern this lawless land together, and invite the savages into civilized custom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I haven't come this far to bend the knee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Can we not simply part ways?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"The Tiers aren't as savage as you think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Attack] "Your term of duty is over. Time to die, old man." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Precocious upstart! You would draw weapons on me here, at the seat of my power? I have an army - a family - at my disposal. You have nothing but arrogance and your inflated delusions of power." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I have been an authority on Terratus for centuries. You have no hope of besting me here. But I see that you're resolved. If death is what you seek, then I will deliver you to the void." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Take this moment to remember your beloved North. Goodbye, Ashe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"It's time you joined Amelia and your grandchild."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Save your breath for the fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I was afraid this would be your temperament, and it saddens me. Power should have humbled you, but it has made you vain. What do you propose, then? Will we fight to the death needlessly, or will you reconsider my offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"There is another way. You can bow to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Attack] "To the death? Yes. Needless? Hardly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"A proposal as insulting as it is laughable. You are an Archon in your infancy - unproven, untested, and unprepared for the trials of leadership." Ashe squeezes his fists together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Submit. I have proven myself the true General, and your army is mine to command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Attack] "Then prepare for a trial by combat. Unless you don't like your chances?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I... I am not ignorant to the wisdom of your words. They pierce me like a lance through my heart, but there is truth. This conquest has opened old wounds. At times, I have not acted the leader that my army deserved." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Do you think me a fool that I would entertain such outrageousness? You have neither the honor nor the distinction to lead my [url=glossary:disfavored]Disfavored[/url] legion to glory." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I was an accomplished warlord in the earliest days of the Empire. There was no fortress I couldn't breach, no distance I couldn't march... but the years have reduced me."
+
+"I cared too deeply for my legion to see them suffer." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I lost nearly everyone for whom I cared, and suffered for those I sought to protect. I would not wish this for anyone. I submit to your authority as Archon and master of the [url=glossary:disfavored]Disfavored[/url]. Where you lead, I go. Where you command, I follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Attack] "Pitiful old graybeard. Let your misery come to an end." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"After everything I disclosed, you would strike me down? Treacherous fiend. Your depravity knows no bounds, and for that alone I would see you destroyed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"If you will not see the way to reason, then there is but one path available to us. Our alliance is dissolved, and I expel you from my protection. There is only one higher disgrace I can visit upon you: a swift execution. Prepare yourself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Clearly the rigors of war have made you simple. The people of this realm can barely feed themselves, much less grow their culture in any meaningful way. We are their only salvation. They deserve nothing more than to be brought under our control." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"You're wrong. Where you see conflict and contradiction, I see progress and growth. The Tiers are becoming something unto themselves, and we can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I still won't bow to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"There is no point to this line of speculation. The Tiers will be consumed by the vaunted North, and the dominion of [url=glossary:kyros]Kyros[/url] will be complete."
+
+"And yet... your claim rings of thoughtfulness. Wisdom has tempered your perspective. This much I recognize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Then join me. I can lead the Tiers to a better fate than [url=glossary:kyros]Kyros[/url]' Peace." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Attack] "Recognize this, old man." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"What you propose is incredible... impossible. I am the General of the [url=glossary:disfavored]Disfavored[/url] legion. I bent the knee once before, humbled myself to [url=glossary:kyros]Kyros[/url]... I cannot do so again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Attack] "If you will not bow, then you will die." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Attack] "I came here to spill blood, not to debate." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I'm afraid that is impossible. You have grown magnificent in power, and the Overlord demands that we consolidate the authority of the conquest under one rule." 
+
+"Dividing the army only led to mayhem, and the Tiers need a single governance if there's to be hope of guiding them from savagery." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"More than that. I am becoming as powerful as the Overlord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I'm something, all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Lie] "There must be some mistake." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You speak of powers you barely understand. I would have you flogged and pilloried for making such a claim... but circumstances are far from normal. Before we can even begin to explore this new... potential of yours, one final matter needs to be resolved." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] must be executed. With his destruction, his leaderless mob will disperse throughout the Tiers from which they came, and we will be free to subjugate this lawless realm." 
+
+"I expect nothing less than your report that the Archon of Secrets has been dealt with. Dismissed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Your silence only incriminates you further... but never mind. We yet have a problem that is degrees of importance over you and your wayward authority." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Do not insult me with your flagrant lies. It is known far and wide that you proclaimed an [url=glossary:edict]Edict[/url]. There is no obscuring what you've done. Whatever you are, it will have to wait. We will discuss the matter when you return from your final assignment." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Do not make light of what you've done. Between claiming powers beyond your ken and proclaiming an [url=glossary:edict]Edict[/url], I no longer know what to think of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Bow in allegiance to me, and [url=glossary:kyros]Kyros[/url] will be appeased. We can govern this lawless land together, and invite the savages into civilized custom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I haven't come this far to bend the knee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Can we not simply part ways?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I was afraid this would be your temperament, and it saddens me. Power should have humbled you, but it has made you vain. What do you propose, then? Will we fight to the death needlessly, or will you reconsider my offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"There is another way. You can bow to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Attack] "To the death? Yes. Needless? Hardly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"A proposal as insulting as it is laughable. You are an Archon in your infancy - unproven, untested, and unprepared for the trials of leadership." Ashe squeezes his fists together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Submit. I have proven myself the true General, and your army is mine to command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Attack] "Then prepare for a trial by combat. Unless you don't like your chances?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I... I am not ignorant to the wisdom of your words. They pierce me like a lance through my heart, but there is truth. This conquest has opened old wounds. At times, I have not acted the leader that my army deserved." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "Do you think me a fool that I would entertain such outrageousness? You have neither the honor nor the distinction to lead my [url=glossary:disfavored]Disfavored[/url] legion to glory." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"If you will not see the way to reason, then there is but one path available to us. Our alliance is dissolved, and I expel you from my protection. There is only one higher disgrace I can visit upon you: a swift execution. Prepare yourself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Take this moment to remember your beloved North. Goodbye, Ashe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"It's time you joined Amelia and your grandchild."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Save your breath for the fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I was an accomplished warlord in the earliest days of the Empire. There was no fortress I couldn't breach, no distance I couldn't march... but the years have reduced me."
+
+"I cared too deeply for my legion to see them suffer." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I lost nearly everyone for whom I cared, and suffered for those I sought to protect. I would not wish this for anyone. I submit to your authority as Archon and master of the [url=glossary:disfavored]Disfavored[/url]. Where you lead, I go. Where you command, I follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I have been an authority on Terratus for centuries. You have no hope of besting me here. But I see that you're resolved. If death is what you seek, then I will deliver you to the void." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Take this moment to remember your beloved North. Goodbye, Ashe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"It's time you joined Amelia and your grandchild."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Save your breath for the fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I'm afraid that is impossible. You have grown magnificent in power, and the Overlord demands that we consolidate the authority of the conquest under one rule." 
+
+"Dividing the army only led to mayhem, and the Tiers need a single governance if there's to be hope of guiding them from savagery." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"The Tiers aren't as savage as you think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Clearly the rigors of war have made you simple. The people of this realm can barely feed themselves, much less grow their culture in any meaningful way. We are their only salvation. They deserve nothing more than to be brought under our control." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You're wrong. Where you see conflict and contradiction, I see progress and growth. The Tiers are becoming something unto themselves, and we can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I still won't bow to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Attack] "I came here to spill blood, not to debate." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"There is no point to this line of speculation. The Tiers will be consumed by the vaunted North, and the dominion of [url=glossary:kyros]Kyros[/url] will be complete."
+
+"And yet... your claim rings of thoughtfulness. Wisdom has tempered your perspective. This much I recognize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Then join me. I can lead the Tiers to a better fate than [url=glossary:kyros]Kyros[/url]' Peace." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[Attack] "Recognize this, old man." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I have been an authority on Terratus for centuries. You have no hope of besting me here. But I see that you're resolved. If death is what you seek, then I will deliver you to the void." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"What you propose is incredible... impossible. I am the General of the [url=glossary:disfavored]Disfavored[/url] legion. I bent the knee once before, humbled myself to [url=glossary:kyros]Kyros[/url]... I cannot do so again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Attack] "If you will not bow, then you will die." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Before either of you can make the first strike, Barik steps forward and bellows in protest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Before either of you can make the first strike, Barik steps forward and bellows in protest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"No... this can't happen. Archon... General! The Fatebinder has my sword, but my heart is for the North! You must know that before..." Barik clenches his fists, suddenly powerless in spite of his enormous size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"So, you see fit to grace my halls with your presence. This will be the last time. I have no wish to consort with traitors. You have held back this campaign against the Tiers long enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Gather, my legion! We will see this pestilence dispatched for the betterment of the war. Fatebinder, prepare yourself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Attack] "The homeland is behind you, Ashe. Only death lies ahead." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Attack] "Remember your precious North when I run you through, old man." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Attack in total silence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"If you are set on a course of your own destruction, spare the North your polluted speech." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Would that I had killed you back in [url=glossary:vendrien's well]Vendrien's Well[/url]. Had I a moment of foresight, I would not have hesitated to twist your head from your neck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Bank Node 161</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Next wave! Lay down your lives to take down this traitor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Teach this one a lesson. We will not suffer insubordination." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"This is not a fight you can win. Attack, my soldiers!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Don't throw your lives away, my Northerners. I will handle this upstart myself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Deliver Writ of Execution] "[url=glossary:tunon]Tunon[/url] has declared you a traitor against [url=glossary:kyros]Kyros[/url] and sentences you to execution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Deliver Writ of Execution] "According to [url=glossary:kyros]Kyros[/url]' Law, you are the only traitor here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"'Unreasonable conduct'? 'Sowing discord'? 'Disrupting the campaign...' Bah! Had I known that [url=glossary:tunon]Tunon[/url]'s high Court was capable of such deception, I would have swatted the Adjudicator out of the air!" 
+
+He crumples the order and casts it down, turning to you with a grimace. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Before Ashe can say anything else, the shadows of his keep lengthen to form menacing angles, pulsing and thickening as they draw closer to the Archon of War.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Deliver Writ of Execution] "[url=glossary:tunon]Tunon[/url] has declared you a traitor against [url=glossary:kyros]Kyros[/url], and sentences you to execution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"So. You feigned loyalty while secretly plotting my execution with [url=glossary:tunon]Tunon[/url]. I might have expected as much, but I lack [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s deception. Or yours, for that matter." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Deliver Writ of Execution] "It's not exactly an impasse. I'm here to deliver your death." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[Deliver Writ of Execution] "I wouldn't call this fight 'needless.' "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>[Deliver Writ of Execution] "I'm afraid the only execution here will be yours." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Deliver Writ of Execution] "You're a traitor to [url=glossary:kyros]Kyros[/url], then. As I suspected." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] accepts the parchment with a shaking hand. He pores over the document, his lips moving as he reads, his brow slowly rising in dawning disbelief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] accepts the parchment with a shaking hand. He pores over the document, his lips moving as he reads, his brow slowly rising in dawning disbelief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"'Unreasonable conduct'? 'Sowing discord'? 'Disrupting the campaign...' Bah! Had I known that [url=glossary:tunon]Tunon[/url]'s high Court was capable of such deception, I would have swatted the Adjudicator out of the air!" 
+
+He crumples the order and casts it down, turning to you with a grimace. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Before he can go on, Ashe's shoulders tremble and he clutches one arm to repress the shaking. He squeezes his eyes shut, only opening them again once his composure is restored.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Are you well, Archon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Suffice it to say this war has taken a toll on me, as have all the battles of centuries past. I have lost more friends and countrymen than any sane General could be expected to endure." His grimace falls as he lacks the strength to maintain it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I take each death personally, you understand. Down to the rank and file of my Stone Shields, the harm inflicted upon my Northern sons and daughters... at times it seems visited upon me as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"But never mind an old man's ruminations. You have a report to make, and I am anxious to hear it." 
+
+He makes an effort to stand tall, but you know it's a facade that cloaks his waning strength. His eyes twitch as he recognizes your scrutiny. As well as you know anything, one fact is clear: Ashe is in pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "I dare say I'm well enough to hear good news. Delivering some would raise my spirits considerably. I await your word, Fatebinder." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Well enough, damn you! I... oh, forgive me, Fatebinder..." His eyes widen as he realizes the magnitude of his outburst. He drags his hand across his mouth to clean away a line of spittle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"The Tiers are no different from the North, they just lack our unity and culture." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Unity and culture they will have in abundance, once we are finished breaking the last of their strength. If you think you know this better than [url=glossary:kyros]Kyros[/url], you are mistaken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Barik, can you help explain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"General... Archon, I have seen more of the Tiers in the Fatebinder's company than I ever wanted. There are... subtleties and strengths that I had not thought possible. I assumed them qualities only we could teach. I was wrong." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "I think not, Fatebinder. You should listen to the Great General. Follow his lead. There is no hope for the Tiers but under [url=glossary:kyros]Kyros[/url], as I think you know." He looks to you with concern and an unspoken question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"The very notion strikes me as preposterous, and yet one of my own has accepted it... I cannot begin to imagine how it could be possible that our campaign was at fault. Could the Overlord have misled us? Could we have failed to recognize some great flaw..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Barik, can you help explain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"General... Archon, I have seen more of the Tiers in the Fatebinder's company than I ever wanted. There are... subtleties and strengths that I had not thought possible. I assumed them qualities only we could teach. I was wrong." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"The very notion strikes me as preposterous, and yet one of my own has accepted it... I cannot begin to imagine how it could be possible that our campaign was at fault. Could the Overlord have misled us? Could we have failed to recognize some great flaw..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "I think not, Fatebinder. You should listen to the Great General. Follow his lead. There is no hope for the Tiers but under [url=glossary:kyros]Kyros[/url], as I think you know." He looks to you with concern and an unspoken question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Fatebinder! This doesn't need to happen. Please! It is shortsighted for Archon to stand against Archon. The two of you would be more powerful as equals and collaborators. I beg that you consider another option." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"The Archon of War would not have this any other way. Would you, Ashe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I brought you here to choose between us, Barik. Where does your allegiance lie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Fall in line, Barik. You fight for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"If... if that is how you would have it, Archon, then I have no choice." His posture stiffens, and you hear a sob break under his helmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "You cannot ask me to strike down my General. I'm sorry. If you had allowed me to come to terms with this injustice in my own terms, I might have forgiven you, but now..." Barik shakes his head in sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"You have my sword, Fatebinder, but [url=glossary:graven ashe]Graven Ashe[/url] is my Archon. He is my family, my heart... the embodiment of all that is good in the North. I cannot allow you to strike him down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Ashe, I'm so sorry. I never meant for our covenant to end like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"And yet you stand with the Fatebinder all the same! You have been away from the legion for too long, son of Barikonen. You staked your honor on this one, and lost. I will teach you the meaning of loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"I would welcome you back into the fold, Barik of the Stone Shields, but you have served this Fatebinder as an agent of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. I cannot begin to wonder what atrocities you committed, or how the Archon of Secrets has perverted you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"My Lord... I am your loyal servant. If you would only hear reason, I..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"You take every opportunity to betray your friends, do you Barik? You are not the Northern paragon I recruited from Battle's Rest. You are nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"You will be silent, insolent one. Archons are speaking, and I would hear no more from that putrid, iron suit you wear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"My Lord, I have learned much in this one's company. If you would but set aside your dignity and consider the war..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"I AM the war. The last time I bent the knee to anyone, it was to [url=glossary:kyros]Kyros[/url]. It was the last time I would declare my allegiance. Neither you nor anyone could compel me to heed the counsel of this upstart of an Archon." He turns from Barik in disgust and regards you with the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Do not force me into mediating your squabble. The protests of your companions are nothing to me. As far as I'm concerned, they are all as corrupted as you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Archon, no! I am still your good Northern soldier, through and through! My loyalty, my place in the phalanx..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Gone. All of it. We are finished, and I remove you from my legion and my protection. No sooner will I return to the North than your family will be disgraced, your celebrated name made to rot in the public square." Ashe turns to you with hatred.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"You would dare put me in this position knowingly? I hate you for this, and will do so for all time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"My Lord! If you will allow me to return to the legion, I will gladly take up arms against our corrupted foe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"You should have considered that before coming to Iron Hearth under this one's standard of war. You had ample opportunities to slay them before we reached this point, but you didn't even try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Fatebinder! This doesn't need to happen. Please! It is shortsighted for Archon to stand against Archon. The two of you would be more powerful as equals and collaborators. I beg that you consider another option." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"The Archon of War would not have this any other way. Would you, Ashe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Do not force me into mediating your squabble. The protests of your companions are nothing to me. As far as I'm concerned, they are all as corrupted as you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Archon, no! I am still your good Northern soldier, through and through! My loyalty, my place in the phalanx..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Gone. All of it. We are finished, and I remove you from my legion and my protection. No sooner will I return to the North than your family will be disgraced, your celebrated name made to rot in the public square." Ashe turns to you with hatred.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I brought you here to choose between us, Barik. Where does your allegiance lie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"You would dare put me in this position knowingly? I hate you for this, and will do so for all time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"My Lord! If you will allow me to return to the legion, I will gladly take up arms against our corrupted foe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"You should have considered that before coming to Iron Hearth under this one's standard of war. You had ample opportunities to slay them before we reached this point, but you didn't even try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Fall in line, Barik. You fight for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"If... if that is how you would have it, Archon, then I have no choice." His posture stiffens, and you hear a sob break under his helmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Ashe, I'm so sorry. I never meant for our covenant to end like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"And yet you stand with the Fatebinder all the same! You have been away from the legion for too long, son of Barikonen. You staked your honor on this one, and lost. I will teach you the meaning of loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"My Lord, I have learned much in this one's company. If you would but set aside your dignity and consider the war..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I AM the war. The last time I bent the knee to anyone, it was to [url=glossary:kyros]Kyros[/url]. It was the last time I would declare my allegiance. Neither you nor anyone could compel me to heed the counsel of this upstart of an Archon." He turns from Barik in disgust and regards you with the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"You have my sword, Fatebinder, but [url=glossary:graven ashe]Graven Ashe[/url] is my Archon. He is my family, my heart... the embodiment of all that is good in the North. I cannot allow you to strike him down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"I would welcome you back into the fold, Barik of the Stone Shields, but you have served this Fatebinder as an agent of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. I cannot begin to wonder what atrocities you committed, or how the Archon of Secrets has perverted you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"My Lord... I am your loyal servant. If you would only hear reason, I..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"You will be silent, insolent one. Archons are speaking, and I would hear no more from that putrid, iron suit you wear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "You cannot ask me to strike down my General. I'm sorry. If you had allowed me to come to terms with this injustice in my own terms, I might have forgiven you, but now..." Barik shakes his head in sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"You take every opportunity to betray your friends, do you Barik? You are not the Northern paragon I recruited from Battle's Rest. You are nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Heavy footsteps interrupt the Archon of War as Barik steps between the two of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Fatebinder! This doesn't need to happen. Please! It is shortsighted for Archon to stand against Archon. The two of you would be more powerful as equals and collaborators. I beg that you consider another option." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"The Archon of War would not have this any other way. Would you, Ashe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Do not force me into mediating your squabble. The protests of your companions are nothing to me. As far as I'm concerned, they are all as corrupted as you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Archon, no! I am still your good Northern soldier, through and through! My loyalty, my place in the phalanx..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Gone. All of it. We are finished, and I remove you from my legion and my protection. No sooner will I return to the North than your family will be disgraced, your celebrated name made to rot in the public square." Ashe turns to you with hatred.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"I brought you here to choose between us, Barik. Where does your allegiance lie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"You would dare put me in this position knowingly? I hate you for this, and will do so for all time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"My Lord! If you will allow me to return to the legion, I will gladly take up arms against our corrupted foe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"You should have considered that before coming to Iron Hearth under this one's standard of war. You had ample opportunities to slay them before we reached this point, but you didn't even try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Fall in line, Barik. You fight for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"If... if that is how you would have it, Archon, then I have no choice." His posture stiffens, and you hear a sob break under his helmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Ashe, I'm so sorry. I never meant for our covenant to end like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"And yet you stand with the Fatebinder all the same! You have been away from the legion for too long, son of Barikonen. You staked your honor on this one, and lost. I will teach you the meaning of loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"My Lord, I have learned much in this one's company. If you would but set aside your dignity and consider the war..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"I AM the war. The last time I bent the knee to anyone, it was to [url=glossary:kyros]Kyros[/url]. It was the last time I would declare my allegiance. Neither you nor anyone could compel me to heed the counsel of this upstart of an Archon." He turns from Barik in disgust and regards you with the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"You have my sword, Fatebinder, but [url=glossary:graven ashe]Graven Ashe[/url] is my Archon. He is my family, my heart... the embodiment of all that is good in the North. I cannot allow you to strike him down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"I would welcome you back into the fold, Barik of the Stone Shields, but you have served this Fatebinder as an agent of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. I cannot begin to wonder what atrocities you committed, or how the Archon of Secrets has perverted you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"My Lord... I am your loyal servant. If you would only hear reason, I..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"You will be silent, insolent one. Archons are speaking, and I would hear no more from that putrid, iron suit you wear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url]] "You cannot ask me to strike down my General. I'm sorry. If you had allowed me to come to terms with this injustice in my own terms, I might have forgiven you, but now..." Barik shakes his head in sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"You take every opportunity to betray your friends, do you Barik? You are not the Northern paragon I recruited from Battle's Rest. You are nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"I knew you as [url=glossary:tunon]Tunon[/url]'s pupil, but now you are an Archon, and so much more. I would see you continue in your service to [url=glossary:kyros]Kyros[/url], but as my ally rather than my enemy." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Time will tell if I am willing to tolerate your presence in this realm. Time... and a final deed to prove your fealty." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"After I grind your bones into the dry earth, my [url=glossary:disfavored]Disfavored[/url] will take back this realm for the vaunted North, and you will be forgotten." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Beastwoman and Alpha to Kills-in-Shadow have come to hunt [url=glossary:disfavored]Disfavored[/url] extinct! After many more-than-five seasons of hunting, finally, now-now, last Shadowhunter will slice-slaughter - will devour - Alpha to iron-clads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Will be Archon to iron-clads' bones that are being ground - between Beastwoman's killing-teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Yeah. What she said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Human trapped in iron-shadow joins Alpha's pack over [url=glossary:disfavored]Disfavored[/url] at last. Now Beastwoman won't also kill packmate when slaughtering [url=glossary:disfavored]Disfavored[/url] extinct - maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Human trapped in iron-shadow joins Alpha's pack over [url=glossary:disfavored]Disfavored[/url] at last. Now Beastwoman won't also kill packmate when slaughtering [url=glossary:disfavored]Disfavored[/url] extinct - maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Human trapped in iron-shadow joins Alpha's pack over [url=glossary:disfavored]Disfavored[/url] at last. Now Beastwoman won't also kill packmate when slaughtering [url=glossary:disfavored]Disfavored[/url] extinct - maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Am going to slaughter more-than-five iron-clads for every Shadowhunter slain in Haven-lands. For Creeping-Death. For Fell-Jaw and whole tribe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Will mangle to shreds! Will savor screams and drink dry last splurts of iron-clads' death-blood!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"More killing! More-more! Bleed for Beastwoman!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Gather, my legion! We will see this pestilence dispatched for the betterment of the war. Fatebinder, prepare yourself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Bank Node 291</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"I ought to have seen this coming. In four centuries, [url=glossary:tunon]Tunon[/url]'s Court has bred nothing but over-ambitious schemers and bootlickers. I should have known that your posturing for command over my legion was nothing more than a ruse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"You were about to bend the knee to me. What does that make you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"You have to admit it was an effective ruse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"I changed my mind again. I accept your surrender." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>[Attack] "Let's get this over with already." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Do not presume to think that your petty insults can shatter my resolve or impel me to fight you unprepared. You are a thug - no better than a Chorus rat challenging their betters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Ashe simply glares at you in silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Your willingness to surrender only demonstrates your weakness before the legion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>He shifts to look at the faces of the assembled [url=glossary:disfavored]Disfavored[/url] soldiers, who meet his gaze with pride. On both sides of the exchange there is no shame, only adoration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"My legion knows the value of forgiveness. I forgive their missteps, and each of them knows me well enough to forgive mine. None of us are perfect - a fact of which you are a glaring example."
+
+"If you think this petty demonstration reduces me in their eyes, then you have never understood us at all." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Bank Node 304</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Incredible. Is this how you treat those who submit to you, Fatebinder? Can I expect the same treatment since I follow you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Finally!" She howls. "Now! Moment for Beastwoman's vengeance is here! Was worried Alpha would never strike at iron-clads, that always Alpha would play part of simpering, obedient cur to [url=glossary:disfavored]Disfavored[/url]." 
+
+Muscles trembling, fangs gnashing and frothed with red-tinged spittle, she rises to her full, towering height and brays wildly. She is a feral, mad thing, overwhelmed by her desire to kill. 
+
+"But look how Alpha tears at elder [url=glossary:disfavored]Disfavored[/url]'s throat now. Watch as Beastwoman bathes [url=glossary:disfavored]Disfavored[/url]'s den in pack's own blood. Yep-yep, Shadowhunters will be avenged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Caught off guard as he dictates your threat, Lantry looks up, mortified. "Wait? We're going to fight him? But I was planning on living maybe a few more decades..." He drops his quill and parchment, and reaches for his weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Wait? We're double-crossing the old general? I've never loved you more than in this moment."
+
+A wicked smile comes across Eb's face as she readies her staff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"What madness is this - you take our peaceful alliance with Ashe and cast it aside?" Barik breathes heavily and narrows his attention onto you. "Do you have ANY IDEA how long it's been since Ashe humbled himself before a greater power? And yet to discard it like an empty gesture..." He trails off in rage and confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Wow. I've just got to say... thank you for letting me be here to witness this, because that was art. Getting the old man all teary-eyed before you kicked his legs out from under him? My only regret is that I didn't see it coming." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Script Node 322</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Script Node 323</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"They say that mighty [url=glossary:tunon]Tunon[/url] bowed to his wayward legal clerk. I ought to be surprised, but that knot of contradictions has been ready to unravel for a long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"I have a hard enough time believing that mighty [url=glossary:tunon]Tunon[/url] is dead, much less that you were responsible, traitor. No doubt you are ignorant of what chaos you have wrought on this once-orderly campaign."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"I hear no word from Cacophony, save that [url=glossary:the voices of nerat]the Voices of Nerat[/url] acts in a queer manner and that you are a soldier short. I don't know what you did, but I won't pretend it was in the name of anything other than self-interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"The silence in Cacophony tells me that [url=glossary:the voices of nerat]the Voices of Nerat[/url] is dead and I have every reason to celebrate. But I don't imagine for a moment that you came seeking my gratitude for a job well done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"If indeed [url=glossary:tunon]Tunon[/url]'s headsman has been dispatched, then I am spared a nightmare plagued by shadows. No one will mourn his passing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"If what I hear is true, and mighty [url=glossary:tunon]Tunon[/url] has bowed to your authority, then we are very well positioned indeed. Your laws and policies can restore order in ways that bloodshed cannot." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"They say the Adjudicator has fallen. Brother [url=glossary:tunon]Tunon[/url] and I were not what you'd call fast friends, but I respected his adherence to order. Someone will have to fill the considerable void left in his wake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"YOURS? By what possible right, by what mad ambition do you challenge my... my..." The strength behind his words falters, and Ashe goes silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>His brow creases, and the severity of his expression diminishes as he looks to the soldiers around you - the countrymen he proudly marched into war. He studies them each in turn, nodding as some unspoken truth is confirmed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"I fought at their side while you barked orders from afar. They're mine in all but name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Look at your troops, Ashe. You are their father, but I am their commander."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>[Attack while he's distracted.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>He flinches at the hardheartedness of your gaze. Ashe folds his arms and turns away, disarmed by the silent and judgmental dissection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>His brow creases, and the severity of his expression diminishes as he looks to the soldiers around you - the countrymen he proudly marched into war. He studies them each in turn, nodding as some unspoken truth is confirmed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"I fought at their side while you barked orders from afar. They're mine in all but name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Look at your troops, Ashe. You are their father, but I am their commander."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>He flinches at the hardheartedness of your gaze. Ashe folds his arms and turns away, disarmed by the silent and judgmental dissection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>[Attack while he's distracted.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] accepts the parchment with a shaking hand. He pores over the document, his lips moving as he reads, his brow slowly rising in dawning disbelief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>[Deliver Writ of Execution] "I'm here to deliver your death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] accepts the parchment with a shaking hand. He pores over the document, his lips moving as he reads, his brow slowly rising in dawning disbelief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Wait, what? I took care of Nerat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Is this how you reward your allies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Can we not simply part ways?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

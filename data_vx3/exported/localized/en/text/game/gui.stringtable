@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4559</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4579</ID>
+      <DefaultText>The Bastard Tier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4581</ID>
+      <DefaultText>Tales from the Tiers is currently installed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4582</ID>
+      <DefaultText>Tales from the Tiers is not currently installed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4583</ID>
+      <DefaultText>Bastard's Wound is currently installed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4584</ID>
+      <DefaultText>Bastard's Wound is not currently installed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4596</ID>
+      <DefaultText>Please click for more info.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4597</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

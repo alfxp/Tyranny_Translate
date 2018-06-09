@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_lethianscrossing\fq_rb_qst_act3_finalbattle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Defense of Haven</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Travel to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rescue Eldian or Matani Sybil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Repulse the Bane or aid the settlers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Help your ally or put out the building's fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Stop Kallista and her soldiers or save Pelox Florian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return to the settlement entrance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Defeat [url=glossary:iron guard]Iron Guard[/url] Anthimon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Talk to Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Talk to Matani Sybil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Secure the Moonrise District.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Secure the Sunrise District.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In the wake of your [url=glossary:edict]Edict[/url] and [url=glossary:kyros]Kyros[/url]' decree to the Archons, the [url=glossary:disfavored]Disfavored[/url] have become desperate and invaded [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You have decided to convene a meeting of your coalition to figure out a battle plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>A meeting is set to begin at [url=glossary:ascension hall]Ascension Hall[/url] in [url=glossary:vendrien's well]Vendrien's Well[/url]. Travel there and speak to Arri to determine what the best course of action is for your alliance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Meet your allies at [url=glossary:lethian's crossing]Lethian's Crossing[/url] and defend the settlement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Eldian is trapped by [url=glossary:disfavored]Disfavored[/url] near his home while Matani, not far away, is surrounded by enemies. You have limited time before the [url=glossary:disfavored]Disfavored[/url] gain the advantage and will only be able to help one of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Bane have escaped the Oldwalls. If they aren't stopped, they will spread throughout [url=glossary:lethian's crossing]Lethian's Crossing[/url]. The [url=glossary:disfavored]Disfavored[/url] are also looking to kill settlers, leaving you with only enough time to deal with one of these threats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>One of your allies is being attacked by [url=glossary:disfavored]Disfavored[/url] troops, and a building has set fire with settlers trapped inside. You only have time to help one of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>An Oath Bound named Kallista is mobilizing [url=glossary:disfavored]Disfavored[/url] troops while another group of soldiers are chasing down your [url=glossary:vendrien guard]Vendrien Guard[/url] allies. You only have time to help one of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>A warning whistle has been sounded from the market where the remaining settlers have gathered. Return to investigate the reason for the call.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>[url=glossary:iron guard]Iron Guard[/url] Anthimon has arrived in [url=glossary:lethian's crossing]Lethian's Crossing[/url] and is threatening to kill everyone still alive. Stop him before he has a chance to harm anyone else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Eldian is with the other survivors at the north end of the market. Find him and let him know that the [url=glossary:disfavored]Disfavored[/url] assault has ended.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Matani is with the other survivors at the north end of the market. Find her and let her know that the [url=glossary:disfavored]Disfavored[/url] assault has ended.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] have a strong hold on the Moonrise District. Help your allies clear them out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Allied soldiers are quickly losing ground within the Sunrise District. Help your allies take it back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>You decided to help Eldian. Kill the [url=glossary:disfavored]Disfavored[/url] surrounding him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>You decided to help Matani. Kill the [url=glossary:disfavored]Disfavored[/url] surrounding her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>You decided to kill the Bane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>You decided to help the settlers. Kill the [url=glossary:disfavored]Disfavored[/url] keeping them captive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>You decided to defend your ally and kill the attacking [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>You decided to help the settlers. Put out the fire before it consumes the house and then check on the settlers inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>You decided to engage Kallista and her soldiers. Kill them all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>You decided to help your [url=glossary:vendrien guard]Vendrien Guard[/url] allies. Kill the [url=glossary:disfavored]Disfavored[/url] that are threatening them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Intercept the [url=glossary:disfavored]Disfavored[/url] arriving from the south.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You have destroyed the [url=glossary:disfavored]Disfavored[/url] forces attempting to take back [url=glossary:lethian's crossing]Lethian's Crossing[/url]. The settlement is safe again.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

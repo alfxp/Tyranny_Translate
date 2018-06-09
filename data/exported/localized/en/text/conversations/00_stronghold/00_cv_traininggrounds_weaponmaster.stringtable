@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_cv_traininggrounds_weaponmaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The man before you offers a nod at your approach. He meets your eyes hesitatingly and pauses before speaking. "Thank you for having me, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"We won't be able to train without the proper funds. If you can spare some rings for us, I'll make sure this place is running efficiently."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"My training will only get you so far, [Player Title]. You may want to hire additional experts to add variety to your training regimen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"How might I help you, [Player Title]? Itching to hone your skills?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'd like to train."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The name's Rhys. I'm here because I'm good at just two things - killing my foes, and seeing where the currents flow. I'd rather not get caught on the wrong side of history, so I'm here to humbly offer my sword."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"How might I help you, [Player Title]? Itching to hone your skills?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What can I do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"If you want to hone your fighting skills or perhaps learn some new ones, this is the place. But really, this Spire is your domain. What you do and who you invite to aid you is your choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'm well-versed in many forms of combat and can help you stay versatile during a fight, should you wish it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Why did you choose to follow me now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"These Spires have towered over us for generations. Whoever made them was far beyond us, mere peasants on the ground. They were objects of wonder and legend in Tiersman stories... and now you've claimed them." He looks directly at you, conviction in his eyes. "That's reason enough for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

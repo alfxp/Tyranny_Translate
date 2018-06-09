@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_praxus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Good day, my fine friend! Could I interest you in all manner of provisions? There's no telling what may befall you on your travels!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave] "I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I know we'll find something you need..." he says, gesturing to the goods piled on his stand. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You will return, I'm sure. You won't find a better deal in all the Tiers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Could you tell me anything about this seal? I found it in [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I don't recognize it, but one of the other merchants here might. Between us all, there has to be someone who has seen it in their travels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What can you tell me about Gino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Praxus shrugs. "Not much, sorry. I don't usually deal directly with him. Most folk say he killed a fellow fisherman a while back so you may want to keep an eye on him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He stares at your for a moment and then smiles. "Well, if it isn't the Fatebinder!" He leans in closer and lowers his voice a little. "All everyone here seems to do is complain about your [url=glossary:edict]Edict[/url] making their lives harder. Personally, I like the challenge. If I can make a sale in this, I consider it a major victory! Now, can I get anything for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Fatebinder! Welcome, welcome! I can't believe you're here in my shop! After what you did in [url=glossary:vendrien's well]Vendrien's Well[/url], I figured you'd already be going after [url=glossary:kyros]Kyros[/url]' throne! Everyone knows you've got the power to do it!" He bows. "Can I get you anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Hello Fatebinder, I have wares to sell if you have a mind for trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_bs_forge_reactive_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"From the sounds of it, the [url=glossary:forge-bound]Forge-Bound[/url] in [url=glossary:lethian's crossing]Lethian's Crossing[/url] have vanished. I can't imagine the settlement will be the same without them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"We've had reports that the Bane attacks have stopped. Whatever you've done, you have our thanks. It'll be much safer traveling from the Spire to the settlement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Great, I can finally concentrate on my work now that the Spire isn't trembling every other moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"We saw a great flash of light come from the cracks in the [url=glossary:stone sea]Stone Sea[/url]... Some great disturbance no doubt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"With the [url=glossary:edict]Edict[/url] ended, I can only imagine the countless scavangers that will descend on the [url=glossary:blade grave]Blade Grave[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Even through the Storm we could hear the cries of battle, then the stirring silence... Sentinel Stand must have finally slipped through the Regent's grasp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Welcome to your Forge, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

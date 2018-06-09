@@ -1,0 +1,168 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>game\loadingtips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>[url=glossary:armor]Armor[/url] can never reduce damage below 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Feitiços são criados a partir de sigilos principais e de expressão. Os sigilos principais determinam o tipo de magia (cura de fogo, etc.) enquanto sigilos de expressão determinam a forma (toque de aura, etc.).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>(String não encontrada)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mantenha pressionada a tecla TAB para destacar personagens e objetos importantes com os quais você pode interagir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Passe o mouse sobre o círculo de seleção de um inimigo para ver suas defesas. Clique com o botão direito para bloquear a janela de informações no lugar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Os personagens podem ser direcionados ou selecionados clicando com o botão esquerdo no círculo de seleção a seus pés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Clique com o botão esquerdo e arraste o mouse para selecionar vários membros do grupo na área de seleção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Usar um consumível em combate acontece instantaneamente e não envia seu personagem para a recuperação. Uma vez que o consumível é usado, todos os consumíveis estão em cooldown por um curto período.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Todos os membros da party começam com quatro slots Quick Item para consumíveis. Estes podem ser aumentados com o talento Bandolier na Árvore de Liderança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>As habilidades ganham experiência à medida que são usadas e aumentam sua classificação com experiência suficiente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The [url=glossary:athletics]Athletics[/url] skill can be used to intimidate characters in conversations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The [url=glossary:subterfuge]Subterfuge[/url] skill can be used to bluff or deceive characters in conversations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The [url=glossary:lore]Lore[/url] skill can be used to impress characters in conversations with your knowledge or insight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Enable [url=glossary:scouting]Scouting[/url] Mode to gain a bonus to detect hidden containers or traps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Use a Barra de Espaço para pausar e despausar o jogo durante o combate para emitir ordens para os membros do seu grupo e avaliar sua estratégia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Passe o mouse sobre o círculo de seleção de um inimigo para ver sua chance de acertar seu próximo ataque ou habilidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Manoplas mudam quanto dano de ataque desarmado seus personagens farão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Os personagens ficam feridos quando a sua saúde é reduzida significativamente ou eles são nocauteados. [url=glossary:wounds]Wounds[/url] are cleared when a character gains a new level or the party rests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Segure SHIFT para emitir vários comandos para um membro do grupo. Eles executarão seus comandos na ordem em que você os emitiu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Algumas habilidades permitem que os membros do grupo ataquem várias vezes com ataques básicos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Com cada nível que seu personagem ganha, você pode aumentar um atributo e comprar um novo talento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Mantenha pressionada a tecla M para maximizar a janela Mini-map / Combat Log.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>O Combat Log fornece informações detalhadas sobre o seu ataque, jogando defesas inimigas e Aflições aplicadas por habilidades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>As habilidades de Companion Combo permitem que seu personagem e um Companion trabalhem em conjunto para causar um efeito devastador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Afastando-se de um inimigo que esteja envolvido, você ativará um Ataque de Desengajamento livre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>A high [url=glossary:lore]Lore[/url] skill is required to create the most powerful spell combinations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Sigilos de feitiços podem ser encontrados em todo o mundo de Terratus. Colete esses sigilos para construir poderosos ataques mágicos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ao usar uma área de efeito, a habilidade ou a magia direciona um inimigo diretamente para que a habilidade rastreie sua posição. Isso torna mais fácil atingir alvos em movimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ao contrário da maioria dos inimigos, o Bane causa grandes quantidades de dano Arcano. Suas defesas normais não funcionam tão bem contra elas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Diferentes inimigos são suscetíveis a diferentes tipos de dano. Identificar suas fraquezas lhe dará uma vantagem na batalha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Use as teclas + e - no teclado numérico para alternar os modos Rápido e Lento ao jogar o jogo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Personagens ficam feridos quando são nocauteados. Em Path of the Damned, os personagens de dificuldade também se tornam Feridos quando sua saúde é significativamente reduzida. [url=glossary:wounds]Wounds[/url] are cleared when a character gains a new level or the party rests.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

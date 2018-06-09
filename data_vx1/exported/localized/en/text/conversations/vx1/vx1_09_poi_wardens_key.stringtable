@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_poi_wardens_key</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I think that [url=glossary:warden's key]Warden's Key[/url] should work from here. Give it a try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"That [url=glossary:warden's key]Warden's Key[/url] should work from a distance. Try it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I do not think the keystones function from this range, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bauble called [url=glossary:warden's key]Warden's Key[/url] should work here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Time to see if this [url=glossary:warden's key]Warden's Key[/url] does what it advertises. Want to take bets?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"If this so-called [url=glossary:warden's key]Warden's Key[/url] actually works from a distance... I wonder what else it could unlock..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The beacon is too far away to use the torchkey. You will need something else to activate the beacon from a distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>As you consider the distance between you and the Oldwalls mechanism, you feel a slight warmth emanate from the [url=glossary:warden's key]Warden's Key[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>As you consider the distance between you and the Oldwalls mechanism, you feel a slight warmth emanate from the [url=glossary:warden's key]Warden's Key[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

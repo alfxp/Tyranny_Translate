@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0301_cv_censor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>122</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ah, if it isn't the Fatebinder of [url=glossary:tunon]Tunon[/url]. What an unexpected surprise! I am the Censor and welcome to my camp. It's good to see a familiar face." The woman's voice carries a genial tone that doesn't quite carry all the way through her words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Stay your weapons. This is [url=glossary:tunon]Tunon[/url]'s Fatebinder." 
+
+The Censor makes a swift motion to her soldiers, then pauses to look you up and down. 
+
+"And what a complicated pleasure it is to find you in my camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Why don't you tell me what you're doing here, and we'll see how this goes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm here for the Silent Archive, not for any of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Attack] "I have no need for you or your little game. I will take the Silent Archive for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"We are under attack! Kill the Fatebinder - throw yourselves at him if you must!"</DefaultText>
+      <FemaleText>"We are under attack! Kill the Fatebinder - throw yourselves at her if you must!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Now, as much as I enjoy entertaining your company, I need every man and woman here to continue scouring the Library. If you would do me the honor of making yourself scarce, I can refocus on more important matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You are welcome to enter the library - provided you agree to play by the rules of the competition." 
+
+She titters with excitement.
+
+"If you want to find the Silent Archive, you must take part in my game, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What is the Silent Archive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me about this game of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"The Archive is the Sages' most guarded treasure, held in a grand chamber thought to contain more knowledge than all the Tiers combined."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Our scouts have reason to believe it survived. Some magic keeps the library from being swallowed by fire, so perhaps it, too, protects the Silent Archive."
+
+"We've come to destroy the Archive in [url=glossary:kyros]Kyros[/url]' name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Several [url=glossary:scarlet chorus]Scarlet Chorus[/url] teams were dispatched down into the ruins of the Library, each with some Sages to serve as guides. The team who completes the passcode, gets through the barrier, and gains access to the Silent Archive will face glory and reward. The others?" 
+
+She draws a finger across her throat. 
+
+"Only one is allowed to succeed. If you wish to join the merry hunt, you will be yet another team racing against the others. Though you won't be getting any Sages, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I agree to the rules of the competition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I need time to consider before I join the competition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Do what you like. Until you agree to the rules of the competition, you will have only limited access to the camp. Don't test my hospitality, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"You have Sages working with you. How did you manage that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"The Chorus can be most persuasive at times, and you know how we like to employ... unconventional incentives." 
+
+Her thin-lipped smile broadens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I'm here to search the Library. Let me pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Attack] "Sorry to decline your hospitable offer, but I got all the information from you I need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Absolutely not. The Library is too important to let the likes of you inside." 
+
+"I don't have time to discuss the matter further. You are free to leave. If you step further into my camp, then I will find a more expedient way to deal with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Leave] "Very well, I'll leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>She knots her brow and considers your words. 
+
+"How did you know about... oh, never mind. The Silent Archive is a Chorus matter to be dealt with on our terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Leave] "I'm just passing through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Not even these scholars have been able to find the pieces for us. Not yet, anyway."
+
+She motions to a nearby [url=glossary:sage]Sage[/url], who stands with his head bowed in shame.
+
+"So, I gave everyone some incentive and made a game out of it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Sadly, I must say I can't entertain you properly at the moment. You've come at a very busy time for me! We're making a bold push to explore the Library's depths." 
+
+"However, before we finish our pleasantries, you could satisfy my curiosity. Why are you here?" With her question, her voice goes flat and takes on an accusatory tone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Take all the time you need, though the Silent Archive won't wait forever." 
+
+"You are free to occupy yourself in camp. The ruins are off-limits until you agree to the terms of the competition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Welcome back, Fatebinder. Are you willing to abide by the rules of the competition?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Fatebinder. Do you remain in camp just to taunt me, or do you actually want something?"
+
+The soldiers flanking the Censor shift their weight and keep their eyes on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Greetings, Fatebinder. I take it you're still here because you haven't discovered the Silent Archive yet. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Tell me about the [url=glossary:disfavored]Disfavored[/url] in the region."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Tell me about the Sages in the region."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Tell me about the captured [url=glossary:disfavored]Disfavored[/url] soldier, Jelena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Tell me about the captured [url=glossary:sage]Sage[/url], Folant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Tell me about your goals in the region."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] wants the Silent Archive destroyed. It likely contains a wealth of knowledge, but I am not the sort to place value on such trifles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"The Sages went to great lengths to prevent the Library from being swallowed by the fiery deluge, and it wasn't just for a few dusty tomes. Whatever the Archive houses must be valuable. If [url=glossary:kyros]Kyros[/url] can't have it, we'll make sure that the Sages can't reclaim it either." 
+
+"Right?" She aims a hard look at the Sages standing bowed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"So far, they have yet to make a notable dent in our efforts. They don't particularly concern me."
+
+Her expression darkens. 
+
+"A meddlesome scout leader - Maric - did cause my forces some trouble when he tried to infiltrate the Library. He was very nearly killed in the effort, so I doubt that I'll be hearing from him anytime soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Maric and his Oath Bound troops raided the ruins together, but we managed to capture one of them - a woman named Jelena."
+
+"Foul Murmur spent some time 'talking' the facts out of her, and she was obliging enough to give up the locations of her allies. Sadly, Maric slipped our grasp, if only by the skin of his teeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"We're keeping her alive at present - not a standard practice of the Chorus, I know, but there's a good reason for it. Since she can detect her compatriots using her Oath Bound affinity, she's supposed to alert us if they get anywhere near camp."
+
+She shrugs. "And if she doesn't, we'll kill her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>She presses her eyes shut for a moment. 
+
+"Their loyalty to this inferno is commendable, if misguided. No lack of effort on my part has been spent catching Sages by the scruff of their necks as they try to return to their precious Library."
+
+"Their leader, Renata, is particularly bothersome, and seems to have a vendetta against me. I look forward to the day when she ceases to be a variable of concern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Their continued threat also doesn't make it any easier for us to maintain control over the Sages we've enslaved to our cause."
+
+She glares at one of the nearby scholars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"We even caught a [url=glossary:sage]Sage[/url] masquerading as a Choirman. He was trying to free his brethren, but did a piss poor job of selling the performance. Folant was his name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I'd be surprised if he's still alive at this point, given the enthusiasm with which Foul Murmur has taken to his interrogation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I'm convinced that Folant knows where the Sages are holed up, though. It's only a matter of time before we break him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Excellent! Normally, I would ask you to prove your honesty and loyalty to the Chorus, but your actions elsewhere have already shown that. You are free to enter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"But, I would still ask a favor of you. My assistant, Foul Murmur has something he needs done. If you would be so kind... He is somewhere nearby. I believe he was recently occupied 'talking' to one of the prisoners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I'm here for the Silent Archive, not for any of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Tell me what you know about the [url=glossary:edict]Edict[/url] of Fire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>The Censor laughs, the sound hollow and absent of any mirth. "Why? It's not as though you're going to be able to do anything with the information." She moves closer to you. Her rank breath caresses your cheek as she speaks to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I believe the Silent Archive, at the heart of the [url=glossary:vellum citadel]Vellum Citadel[/url], was never destroyed." She says this almost conspiratorially. "If that's true, it would explain why the [url=glossary:edict]edict[/url] is ongoing." She points toward the entrance in the mountain wall.
+
+"If someone were to get down there and remove the Silent Archive from the library, I'm willing to wager it could be used to fulfill [url=glossary:kyros]Kyros[/url]' will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>[Attack] "Unfortunately for you, it's time for you to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Nerat tasked me with retrieving the knowledge from the ruins here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ah, you must mean the Silent Archive. I had hoped to have retrieved it already to avoid just such a problem. Unfortunately, we haven't finished our search yet."
+
+"If your goal is to find it, you should know that it's not as easy as just walking in there and taking it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Then pass on through and begone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Why would you want to do that? It is my task to take care of things here and I won't have you disrupting my operation. Nerat wouldn't be too pleased if you got to the Silent Archive before we did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You won't be getting inside the [url=glossary:burning library]Burning Library[/url] while I'm here. This is your chance to leave with your life intact. I suggest you take it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>[Attack] "You leave me no choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"I have nothing to say to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"You have proven yourself to be the true winner of this game, Fatebinder. Without your 'help' in the Library, my men would surely have ended up killing themselves in one way or another."
+
+"I am not such a fool as to ask you to turn over the Silent Archive. If the Voices asked you to retrieve it personally, I will leave it to you to give it to him. I am more than happy to remain here, out of his gaze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"He probably won't appreciate hearing the Library is in complete ruins now. I'm afraid I might be taking the brunt of that one, so if you keep your mouth shut about it, so will I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"You even managed to keep the Library intact...for the most part. Nerat will be pleased with our success. I would appreciate it if you could let him know of my role in this success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Actually, Nerat wants us to report to him now that we've collected the Silent Archive. Both of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>The Censor's entire countenance falls and she rocks back onto her heels, looking as if she's trying to shy away from your words. "He...what?" She is silent for a moment then continues, a false happy tone to her voice.
+
+"Well, then. I could use a change of scenery. My eyes have practically melted from watching lava flow." She looks down. "Farewell, Fatebinder." There is now a finality to her tone. "I hope to see you back at Cacophony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"I don't appreciate being questioned, Censor. I am [url=glossary:tunon]Tunon[/url]'s Fatebinder. I need no excuses - or invitations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>The Censor stands quietly, unmoving. After a few moments, her body relaxes and the friendly tone returns to her words. "Of course, Fatebinder. My apologies. It would seem my proclivity for bluntness got the better of me. Again, welcome!" She bows stiffly.
+
+"What brings you to my camp?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Now, what would [url=lore:fq_path_decision]Ashe's plaything[/url] thing want with my library? It wasn't enough to betray Nerat and side with that rule-bound control-freak? Are you here to try and take this away, too?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Now, what would the [url=lore:fq_path_decision]betrayer of Kyros[/url] want with my library? It wasn't enough to turn your back on your master and side with those disobedient miscreants? Are you here to try and take this away, too?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Now, what would [url=lore:fq_path_decision]the wild dog[/url] want with my library? It wasn't enough to turn your back on your master and piss on everyone who put you where you were? Are you here to try and take this away, too?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"The only reason I've instructed my soldiers to show restraint is because of the sensitive operation ongoing in the ruins - one that I don't intend to disturb. The players in that little game have enough to keep themselves occupied."
+
+"With that said, I wouldn't hesitate to kill you if it proved necessary. So..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"I am well aware of the role you played in [url=lore:bl_chain_of_command]convincing the Disfavored to hold their positions as we retreated[/url] during the conquest of the [url=glossary:vellum citadel]Vellum Citadel[/url]. Many of us survived that day because of your actions." Her head tilts sideways as she considers you.
+
+"Normally, I would keep this for myself, but you deserve some token of thanks, no matter how small.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Sirin snorts derisively. "Typical Chorus. Not a shred of subtlety. You always come in and run roughshod all over things. Pain and torture being used as a game? Atrocious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Don't act like you're above it all, girl. Given the chance, you wouldn't hesitate to sing us off a cliff." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"I save my voice for those who truly deserve it...girl. And don't worry, I'm composing a special song just for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"It's interesting that people don't understand how to properly motivate their underlings. If you don't keep them busy, they have time to plan. And that is never good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>The Censor laughs in appreciation, clapping with glee. "This is exactly the kind of motivation I was hoping for. Don't you see? Competition makes people stronger!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Script Node 219</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Fatebinder, why are you even considering playing this insane game? You only further the cause of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]! Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I agree to the rules of the competition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"This is what makes strong fighters! Can you not see that the adversity helps you grow? Everything is playing out exactly as it is supposed to!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Your choice [url=lore:bl_lost_to_mountains]not to send our troops to clean up the mistakes of the Disfavored[/url] resulted in my crew having a few extra bodies to it. I suppose I owe you my thanks for that." She makes a small bow to you.
+
+"You might fight it interesting to know that the bodies of that troop were recently found but my men haven't had time to fully scavenge the area. You might find something interesting out there, if you're so inclined to take first pick of the spoils." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I would have a larger crew to 'greet' you with, but [url=lore:bl_lost_to_mountains]your decision to send our troops out to find the Disfavored group who couldn't find their way safely down a mountainside[/url] resulted in more deaths on both sides. So, thanks for that." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I would have a larger crew to 'greet' you with, but [url=lore:bl_lost_to_mountains]your decision to send our troops out to find the Disfavored group who couldn't find their way safely down a mountainside[/url] resulted in more deaths on both sides. So, thanks for that." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Oh, and I would watch yourself inside, Fatebinder. Your timing on the enacting the [url=glossary:edict]Edict[/url] could not have been more perfectly timed." She titters happily.
+
+"Because the Sages had practically no time to prepare for the destruction, there are quite a few areas that were completely covered in lava. It's a shame we had to lose all those precious treasures, but every war has its casualties, doesn't it?" She laughs again and waves you away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Oh, and I would watch yourself inside, Fatebinder. While I, personally, wouldn't have given the Sages any warning, they still were unable to prepare completely for the destruction." She titters happily.
+
+"There are a few areas that were completely covered in lava before they stopped the building's collapse. It's a shame we had to lose all those precious treasures, but every war has its casualties, doesn't it?" She laughs again and waves you away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"You're going to destroy the Silent Archive? An artifact with 'more knowledge than all the Tiers combined?'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Of course, Fatebinder! It is forbidden knowledge, after all! And it's not like Nerat doesn't have a plan." She stops herself and stands straight. "Never fear. We will deal with the Silent Archive appropriately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Nerat has taken a particular interest in me and my... talents and is working with me to refine them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Did you just imply - to a Fatebinder - that you intend to retain all the knowledge in the Silent Archive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>While she is speaking to you, one of the Horde approaches her with a parchment held out before him. She takes it from him, her head never turning to look away from you. There is a brief flare of bluish light from her hand and she hands the parchment back to the Horde.
+
+"Stop bringing me words I've already taken or I will have your head." She speaks slowly, still looking at you, but with every word, the Horde pulls back as if he is about to be struck. "Put them in a separate pile so you know I've had them or ask someone to read them to you. If I have to take in the same inane missive one more time, you will regret it." The Horde backs away, murmuring apologies profusely as he does.
+
+She addresses you again. "I'm sorry you had to witness that. Now, where was I? Oh, yes - the Silent Archive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"What happened with that missive? What was that flash of light?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I don't see how that's pertinent. But, if you must know, you're not the only one with unique talents in the Tiers, Fatebinder. Not everyone needs to use their eyes to read. Sending me to a Library seemed obvious." She giggles. "What a perfect way to collect knowledge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>The Censor shakes her head vigorously. "Certainly not! I have no idea how you got that idea, so put it out of your head! Nerat knows [url=glossary:kyros]Kyros[/url]' laws and would never do anything to openly break them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"I do ask one thing of you, though." She steps closer and you can hear that her breathing has quickened. "Can I hold the Silent Archive? Just once? All that fuss spent retrieving it. I want to be able to say I had it in my hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] might not be too happy about that, though. And I don't know what the reaction will be to ending the [url=glossary:edict]Edict[/url], but that's a matter for you to deal with, isn't it?" She laughs like she just told a joke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"I don't know what [url=glossary:kyros]Kyros[/url] will do after finding out you ended the [url=glossary:edict]Edict[/url], but that's a matter for you to deal with, isn't it?" She laughs like she just told a joke. "I suppose destroying the Library is a point in your favor in that court. Look on the bright side!" She laughs again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[Hand her the Silent Archive.] "Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>The Censor's giggling takes on a manic tone and her breathing borders on hyperventilating as you place the scroll in her hands. As the vellum touches her hands, there is a flash - brighter than the one you saw before - and she makes an orgasmic noise, almost dropping the Silent Archive.
+
+"Such power..." She whispers the words with awe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Now give it back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"You know what? Keep it. Take it to Nerat yourself - and give him my regards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"And now that you have the information in the Silent Archive, take it to Nerat yourself - with my regards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Of course!" She hands you the Silent Archive. "That was all I wanted. Tell Nerat I said the mission was a success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Now that you have the information from the Silent Archive, you can tell him yourself. He wants both of us to report to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>The Censor looks down at the Silent Archive and back at you. Under her breath, you hear her whisper, "You fool! You had to know this was coming." Then she shakes her head and holds the Silent Archive out to you.
+
+"Fatebinder, I wouldn't dream of taking that honor from you! By all means, you are more than welcome to deliver this to Nerat yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>The Censor shakes her head. "Oh, no, Fatebinder, I wouldn't dream of taking that honor from you. By all means, you are more than welcome to deliver this to Nerat yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"I insist. Nerat asked for you personally. He wants both of us to report to him now that we have the Silent Archive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"I insist. This is what you wanted, isn't it? Nerat gets to destroy the Archive and keep all its information. And he asked for you personally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>The Censor looks around as if she's trying to find someone to save her. Under her breath, you hear her whisper, "You fool! You had to know this was coming." Then she shakes her head.
+
+"Fatebinder, I wouldn't dream of taking that honor from you! By all means, you're more than welcome to tell him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I insist. This is what you wanted, isn't it? Nerat gets to keep all the information from the Silent Archive. And he asked for you personally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"It seems that the tricky Sages were afraid someone might want to take their precious Archive and hid it behind a barrier. Arcane. Impenetrable. Really a shame how many men we lost to rebounding spells..." She waves a hand dismissively.
+
+"So, my men are looking for the passcode to get beyond it. We don't know how many parts there are, just that they're somewhere inside the Library."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Tell me about the [url=glossary:disfavored]Disfavored[/url] in the region."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"So far, they have yet to make a notable dent in our efforts. They don't particularly concern me."
+
+Her expression darkens. 
+
+"A meddlesome scout leader - Maric - did cause my forces some trouble when he tried to infiltrate the Library. He was very nearly killed in the effort, so I doubt that I'll be hearing from him anytime soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Script Node 258</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Script Node 259</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>She knots her brow and considers your words. 
+
+"How did you know about... oh, never mind. The Silent Archive is a Chorus matter to be dealt with on our terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"If you don't want to see your blood decorating this camp, I suggest you let me into the ruins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>A Blood Chanter glances nervously around at his comrades, wiping his sweat-filled brow. He backs away slowly before breaking into a run, careful not to alert his allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"You're quite the aggressor, aren't you? That might intimidate one of these weak-kneed shits, but I've been in the game far too long to be impressed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Let me give you another option. You can lay down your arms and surrender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>[Attack] "Perhaps this will leave an impression."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>She rolls her eyes, unperturbed by your aggression. "I don't have time for this nonsense. There's a time and place for bloodlust and, sadly, I've got an operation to oversee."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

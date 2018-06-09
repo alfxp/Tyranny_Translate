@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_sleepless_08</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A gaunt, bewildered-looking woman stands precariously against the edge of the cracked platform. She rubs her bleary eyes impatiently and glances in varied directions with a befuddled expression. "Where was I supposed to go?"
+
+She turns rapidly in your direction. "Hello? Do you know the way through here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Careful, that's a long drop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Are you lost?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Yes, yes, of course it is. I'm not some child, about to tumble over with the breeze." She shuffles slightly as she speaks, brushing loose stone into the chasm below. "I just need to find the way through, obviously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Clearly... I think. I came in from a teleporter nearby, but can't remember the way forward." She points into the yawning chasm at her feet. "I feel like I need to head downward. It somehow feels right. I just…" Her eyes shut tightly as she's engulfed by a massive yawn. "…need to find my way down, and then I'm sure I'll be able to rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Push woman over ledge.] "Let me show you a shortcut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>It doesn't take much force to send her over the edge. She plummets into the chasm in eerie silence and is soon engulfed by its dark expanse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Leave] "I must be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

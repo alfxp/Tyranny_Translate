@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_cv_skypillar_defense_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As the enemies approach the walls of the citadel, you sense a power emanating from each and every one of them. A hot flash of fire, then a sudden cold chill - a forged blade plunged into a bath of ice cold water. The fear and anger in their hearts reaches towards you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Your senses return to the here and now. The ground beneath you trembles as the Spire yet again shudders with energy, and a flash of pale white light emanates from atop the massive stone tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Outside, the armies clash and clang their weapons, shouting war chants in a confident swell of voices. The army is too vast to fight alone, and yet, you somehow know that a greater power resides above you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Above, the resonator glows with an energy that pierces the clouds. It is waiting for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

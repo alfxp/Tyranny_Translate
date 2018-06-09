@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_rescue_radix</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Reforços Earthshaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vá para a clareira do norte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Procure por sinais dos Earthshakers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to Ceveus at the [url=glossary:disfavored]Disfavored[/url] camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Radix leader of the Earthshakers has been summoned from the [url=glossary:stone sea]Stone Sea[/url] to reinforce the Earthshakers already in the valley.No entanto, não houve nenhum sinal deles desde que o vale foi selado. Você concordou em investigar a última localização conhecida desses reforços e descobrir seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje até a Clearing do Norte para procurar os reforços do Earthshaker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você chegou a uma clareira perto da passagem do nordeste. Explore a área para os Earthshakers ausentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>You rescued the Earthshakers from the [url=glossary:vendrien guard]Vendrien Guard[/url].No entanto Radix não estava entre eles. It appears he found his research in the [url=glossary:stone sea]Stone Sea[/url] too compelling to abandon and only sent a handful of Earthshakers to assist.Ceveus vai querer saber essa informação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você resgatou os Earthshakers dos rebeldes, mas seu líder Radix não estava entre eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You failed to locate the missing Earthshakers before the assault on [url=glossary:vendriens well]Vendriens Well[/url] Citadel began.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

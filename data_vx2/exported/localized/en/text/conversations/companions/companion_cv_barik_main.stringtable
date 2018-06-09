@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_barik_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>"I am the Overlord's faithful servant, no doubt this power has been bestowed upon me for my loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>"You have devoted your life to studying the laws of [url=glossary:kyros]Kyros[/url] and upholding them... I should hope this is a gift from [url=glossary:kyros]Kyros[/url]. For if the Overlord did not choose for you to have this power, it may be your undoing."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_rebel01_releaseleftclaw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Retornar ao Selvagem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to [Plainsgate] and locate Left-Claw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale com a garra esquerda e solte-o</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com cem-sangue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fale com Kills-in-Shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Kills-in-Shadow has asked you to rescue Left-Claw a former follower of her pack and a Beastman who has been captured by the settlers of [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Travel to [Plainsgate] and assess the situation surrounding the captured Beastman Left-Claw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Solte a Garra Esquerda para que ele possa retornar aos seus irmãos Homens-Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Speak with Hundred-Blood leader of the Beastman tribe in Stone Down Gorge and inform her that you helped one of her [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Fale com Kills-In-Shadow sobre a liberação da Garra Esquerda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>O jogador falou com o Hundred-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você matou o Left-Claw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você liberou o Left-Claw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Left-Claw a captured Beastman in [Plainsgate] has asked you to save him from a crowd of humans who would have him killed for a crime he claims he did not commit.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

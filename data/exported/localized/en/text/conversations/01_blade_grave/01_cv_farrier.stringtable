@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_farrier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"At attention!" A band of [url=glossary:unbroken]Unbroken[/url] warriors rouse into position as their leader stands alert to your presence. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The Stalwart captain whistles a shrill note as you approach, and his comrades lurch to attention. He turns to regard you with open distaste. "Tuck your tail and scamper back the way you came. The [url=glossary:unbroken]Unbroken[/url] won't tolerate Northern scum getting in our way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Belay weapons, the Fatebinder approaches!" You hear your title repeated in hushed tones by a gathering of [url=glossary:unbroken]Unbroken[/url] soldiers. Their leader steps forward with a bow. "I received word of an ally in [url=glossary:tunon]Tunon[/url]'s court, though I doubted my ears at first. I'm Gregos, and this," he points back to his men "is what remains of the fourth citizen cohort of the [url=glossary:unbroken]Unbroken[/url]. We are honored to meet you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I understand you are looking for the remains of the First Regent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Attack] "[url=glossary:unbroken]Unbroken[/url]? The name just begs for me to break you..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Yes... a special assignment." Gregos coughs nervously. "It feels a bit of fool's work, but I don't make a habit of questioning our captain." He points at the ruins rising up behind him. "We believe the First Regent's remains rest within this expanse of the Oldwalls - a rumor we cannot afford to ignore, as he carried the Steadfast Insignia - our most prized artifact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"The First Regent was lost in [url=glossary:kyros]Kyros[/url]' storm - we've found nothing of his remains or regalia. Old writings at Rust Canyons showed that he meant to come to these Oldwalls, but there's no trace of him outside."
+
+"The esteemed [url=glossary:sage]Sage[/url]," he points to a tall, older gentleman standing at the edge of the camp, "says he found evidence all but confirming that the First Regent wandered into this nearby breach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Fatebinder. You return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Why are you here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Elia sent us here to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I'm here for the Steadfast Insignia. Stand aside or perish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What is it you require?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"But those creatures of mist attacked us when we tried to enter the Oldwalls." he shakes his head, as his voice becomes quiet and his eyes cast downward, "Killed a couple of my newer recruits and one of the Sages that offered to search with us."
+
+"Now we sit... wait... nurse our wounds. I can see panic in their eyes, but I'll soon have to order another foray into the Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Tell me of the creatures you encountered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"The Sages are assisting you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Why is the Steadfast Insignia so important?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"That's all I need to know. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'd ask if you are friend or foe to the [url=glossary:unbroken]Unbroken[/url], but we have no friends in these parts. State your business or begone. I have no time to suffer the whims of wandering fools. I want to finish this expedition and get out before we all end up as fodder for the Bane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"We've all heard tales of the fiends that sometimes lurk near the Oldwalls. The honorable [url=glossary:sage]Sage[/url] assures me that literate men know them as 'Scourges'."
+
+"Whatever you call them, they are abominations - not flesh and blood, but able to claw through the living all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Between you and me," Gregos' voice grows quiet as he steps close to you, "I think these Scourges are servants of [url=glossary:kyros]Kyros[/url] - guarding the Oldwalls, spying on us, reporting to their master." He shrugs. "I'm just speculating. Maybe ask the [url=glossary:sage]Sage[/url], Hieronymus, what he knows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"In a manner of speaking." Gregos glances at the man in camp festooned with ink vials, quill pens, and scroll cases. "The Sages were independently researching the fate of the First Regent. Once they learned of our common interest, they insisted on sending representatives to assist our efforts. They have been with us since our time at Rust Canyons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"We started with Hieronymus and his scribe, Javala." His voice cracks on the last word.
+
+"The late... scribe Javala. She did not survive our foray into the Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>His back stiffens. "We're not talking about any old bit of bronze scrap. The Steadfast Insignia has..." he searches for the right word until it comes to him with a nostalgic tone, "meaning. Real meaning to the people of Stalwart."
+
+"The [url=glossary:unbroken]Unbroken[/url] have never lost to a foreign invader," he taps the back of his gauntlets three times, "and through the ages, the Steadfast Insignia has been worn by every First Regent to lead our army."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Something about the Insignia rallies our countrymen. It's a symbol of the First Regent, but over the years it's come to represent something more." Gregos looks to his feet with a sigh. "We have always bent in the wind, never broken. If we could recover the Steadfast Insignia... I wager we could even march through [url=glossary:kyros]Kyros[/url]' storm without taking a scratch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Gregos bows to you and taps his gauntlet against his helmet's brim in salute. "Good travels, Fatebinder. Always stand your ground."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I will look for the First Regent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Gregos looks at you for several long seconds before smiling and nodding. "If you would be willing to explore the Oldwalls on our behalf, we would be in your debt. The breach is nearby - overrun with those terrors. We didn't venture all that far before we had to retreat, so there's no telling what lies in wait further in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Speak with [url=glossary:sage]Sage[/url] Hieronymus before you enter the Oldwalls - no doubt he'll have better knowledge of what to expect." He looks you up and down, his countenance growing anxious. "And... show at least a little caution. I could not handle the shame if our cowardice lead to your demise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Gregos bows to you and taps his gauntlet against his helmet's brim in salute. "Watch yourself in the Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"She's still alive! It's about time the currents shifted in our favor."
+
+He looks back to the men and women in position behind him. "Hear that! Elia is still kicking. Let's hope they're giving the [url=glossary:disfavored]Disfavored[/url] no lack of trouble." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He points to the stone horizon behind him. "My crew and I've been stuck risking our necks over some antique hunt. I've already lost two soldiers to those Oldwalls terrors and I've got more missing in action... We were hoping to die fighting the [url=glossary:disfavored]Disfavored[/url] - not adding our bones to the Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Mattias didn't entrust us with this mission so that we could hand over Stalwart's mightiest artifact to [url=glossary:kyros]Kyros[/url]' henchman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'm just here to collect some artifacts. I'm not trying to get in your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Attack positions! Stand your ground!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You mentioned that you lost some soldiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"These places were never meant for the sane to trespass. Something about them encourages confusion and frustration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I'm not one to doubt that a symbol can make a difference on a battlefield, but I'll be damned if I invest as much hope in one as these fools."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"It's no simple thing to win over the trust of the Sages. Perhaps there is something to these idealists." He mutters as he dips his quill and scratches a line out from his palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>He motions to Hieronymous and the old man walks slowly over to you. "You'll need to get the details of what's going on inside from him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I'm sure we can work something out to our mutual benefit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I know better than to trust one of [url=glossary:kyros]Kyros[/url]' lapdogs. Your breed aren't known for compromising."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Humans called [url=glossary:unbroken]Unbroken[/url] stink of fear-sweat and bloodied iron yet stand strong. Are not easy to kill, even for Bane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Oh him?" Lantry looks toward the [url=glossary:sage]Sage[/url], nodding with a look of familiarity. "Then these Oldwalls must be crawling with Bane. If I had a hot tip on the whereabouts of the First Regent's remains, I wouldn't share those details if I could make the find on my own. Let me guess, he mentioned this wonderful promise of treasure and said he'd need 'just a few volunteers' for bodyguards..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"As if your cowardice wasn't shameful enough?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>He turns to Verse with a mixed expression. "Don't presume to judge me, Scarlet Fury. I'm sure your atrocities are without count."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"And every single one makes me proud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"To recover the Steadfast Insignia, of course. And you did a splendid job of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Can I help you with something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"The Insignia has meaning both symbolic and cultural. It represents the unshakable defenses of old Stalwart - our ability to band together in hard times for the greater good. It rallies us and binds us together. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Symbols have power, which is something you would do well to remember. Especially now that you carry the Insignia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Script Node 106</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] would have killed us, or worse... I suggest you report to Mattias. I've seen enough of the Oldwalls, myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"As if we haven't heard that before every battle! If you're intent on throwing your life away, at least aim for a mote of originality." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The Stalwart captain whistles a shrill note as you approach, and his comrades lurch to attention. He turns to regard you with open distaste. "A Chorus rat? You won't be conscripting this group into the Voices' gang." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"We seek the Steadfast Insignia, an artifact of Stalwart's decorated history that may just give us a leg up on withstanding the storms of [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"You're a bigger fool than I could have credited if you think I'd allow you to plumb the Oldwalls to rob us of Stalwart's heritage." He sneers and shakes his head at you. "As much as I like the idea of your ravaged corpse decorating those halls, I'm not in the habit of taking chances." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"So let's not pretend we're going to do anything other than what we're going to do." He signals to his men and draws his weapon. "For Stalwart!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Your leader, Mattias, has already joined the Chorus. We could be allies against the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>His mouth drops open a little. "Mattias... I can't decide if that's a lie to rattle my confidence or not. The Mattias who fought for his country's liberation would never cooperate with its occupiers..." He trails off, uncertain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>He lets out a heavy sigh and regards you with open hatred. "Either way, it doesn't change how this is going to end between us, does it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Strictly speaking, I'm not here to conscript you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"As if I'd believe honeyed words from [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s twisted agent. For all I know, you're one of his Eyes - or an even less pleasing disembodied organ crafted for his delight." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"You know, I never once considered that." Verse squints at you and snaps her fingers. "Hey! You in there! Stop it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You return victorious, it seems!" Gregos beams with pride. "If the Oldwalls did not defeat you, I would say that no one is more deserving to carry the Steadfast Insignia into battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>He delivers a short bow. "May you walk from battle unscathed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I'm the one who saved Elia from Ashe's brood in Rust Canyons. That has to count for something." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"This is my thanks for getting Mattias out of a bad situation in Trapper's Junction?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>He opens his mouth to retort and closes it again, frowning. "I heard that Mattias' unit was conscripted, but I never guessed he would allow himself to be taken. I doubt Irentis went quietly..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>He grimaces and shakes himself out of reverie. "Just because you posture to seem like an ally doesn't mean we share a common cause! I already know the Chorus ways - you're softening us up for conscription, and as soon as we drop our guard you'll hold a blade to our necks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"If I helped the [url=glossary:unbroken]Unbroken[/url] already, what makes you think I won't help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Lie] "What if I told you that I want to end the [url=glossary:edict]Edict[/url] of Storms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"How about we just part ways and pretend that we never crossed paths?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Attack] "You found me out. Too bad you wouldn't cooperate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"She did tell me that one of [url=glossary:kyros]Kyros[/url]' minions interceded on her behalf... that was you?" Gregos frowns and looks away, indecisive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Just because you're an opportunist doesn't also mean you're a savior. I know what you're trying to accomplish here. No doubt [url=glossary:the voices of nerat]the Voices of Nerat[/url] whispers his manipulations to you daily." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>He gestures to his soldiers and the accompanying Sages. "As you can see, our fighting force is holding together just fine. We're gathering our strength for another foray into the Oldwalls, and we don't need help from a Chorus rat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I wouldn't believe you for a moment. The [url=glossary:edict]Edict[/url] is an enormous tactical disadvantage for the [url=glossary:disfavored]Disfavored[/url], and [url=glossary:the voices of nerat]the Voices of Nerat[/url] isn't such a fool that he'd give Ashe a moment of respite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Even if you don't intend to conscript us now, I don't buy for a secod that Nerat would leave us alone for long. Which is why I take it upon myself to kill every Chorus agent I meet." His expression turns grim as his hand slowly moves toward his weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I'm sure we can work something out to our mutual benefit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I know better than to trust one of [url=glossary:kyros]Kyros[/url]' lapdogs. Your breed aren't known for compromising."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Either you made him an offer too good to pass up, or he allowed his troops to fall to despair. If he still lives, at least that gives me hope for the cause." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>His thin smile widens. "Counter offer - how about I send you back to Cacophony in pieces? Does that work for you?" Gregos signals his troops.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Attack] "If you didn't want to join my gang you could have just said so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>He reaches for his weapon. "You toy with me like a Chorus rat - but can you fight like one?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"What are you really trying to accomplish here that I couldn't help in some way?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Are..." He opens his palms in incomprehension. "Are you that dense? Where do I even begin?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"In no particular order..." He ticks each point off his fingers. "Liberate the country from [url=glossary:kyros]Kyros[/url], dispel the [url=glossary:edict]Edict[/url] of Storms, kill the last Regent, force the last of Ashe AND Nerat's forces as far from our borders as possible, and then put the rest to the sword. And while we're playing this little game, I'll add killing [url=glossary:kyros]Kyros[/url] to the list. How's that sound?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I've heard worse. Let me try a different approach." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Attack] "Not good. A pity you'll never see [url=glossary:kyros]Kyros[/url]' Peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"By all means, humor me! That cold breeze gusting from the Oldwalls is getting into my bones, and I could use the warmth of a good laugh." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Death is the only true peace. Come closer and allow me to demonstrate." He draws his weapon. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>He glares back at you and crosses his arms, quiet and impassive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I'm trying to end the [url=glossary:edict]Edict[/url] of Storms. We have similar goals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Is that right? Well, unless your goals also involve putting [url=glossary:kyros]Kyros[/url]' minions to the sword and setting fire to the Northern Empire, then we're not similar enough." He draws his weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

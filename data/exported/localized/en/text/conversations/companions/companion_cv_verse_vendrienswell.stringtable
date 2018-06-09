@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_verse_vendrienswell</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>115</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Try and catch me, worm!" A young [url=lore:scarlet_fury]Scarlet Fury[/url] weaves around the [url=glossary:vendrien guard]Vendrien Guard[/url] attackers, avoiding their weapons with fluid grace. She nods to acknowledge you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A breathless enemy soldier passes a glance to her countryman. "This one's crazy! Too much lead in her water. We should cut our losses and turn back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"That depends. Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Are you serious? I came to escort you to camp when- damn it! Kill first, questions later?" She narrowly ducks a swipe from a Vendrien blade. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"For the Realm of Apex, charge!" The [url=glossary:vendrien guard]Vendrien Guard[/url] level their weapons and advance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Whew! I can tell you didn't spend the conquest in a diplomat's tent." The fighter surveys the fresh corpses and nods with satisfaction. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Not so fast. First explain what you're doing here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Join the battle] "I'm ready if you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You're dismissed, soldier. If I need you, I'll find you at the [url=glossary:scarlet chorus]Scarlet Chorus[/url] camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Is that a jest? If you want to wander off on your own and die, so be it... but I was ordered to protect you." She regards you with a puzzled expression. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Have it your way! If you'd rather face the [url=glossary:vendrien guard]Vendrien Guard[/url] with your rear exposed, it's none of my affair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] told me to intercept you at Edgering Ruins before you busied yourself solving all of the camp's problems. Guess I was too late." She smirks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You're due for a meeting with the Archons, but we should handle the small matter of this ambush first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Why are the [url=glossary:vendrien guard]Vendrien Guard[/url] attacking now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"My guess? The [url=glossary:vendrien guard]Vendrien Guard[/url] are testing our strength in battle - learning how we perform before they organize a real offensive. That or they're really, really desperate to get beyond the mountains and couldn't wait until nightfall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Join the battle.] "Save something for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sounds like you could use my help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You look like you're handling yourself well enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I'm no water lily, but I'd welcome an extra blade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"That I am, but I could use someone watching my back." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ah, Fatebinder! You're here at last. Care to join me in putting these cowards out of their misery?" She nods to the armed soldiers bearing down on her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"For [url=glossary:the voices of nerat]the Voices of Nerat[/url]!" Verse furrows her brow and focuses down on the battle to come. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Slow down a moment. I know we're both eager to watch the Archons bicker over tactics like a pair of magpies, but I need to ask you something first." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] told me that you've come as a mediator. Considering the source... well, I can't help but feel I'm only hearing half the story. So let's have it out. What's so special about you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What's that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Why so suspicious?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What else has [url=glossary:the voices of nerat]the Voices of Nerat[/url] told you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Enough of this. I must meet with the Archons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I don't have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"It's just a feeling I got. When the Archons are together, the air gets as taut as a bowstring. I can't help but think that no amount of compromise will get them seeing eye to eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I'm here to deliver an [url=glossary:edict]Edict[/url] from [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"That makes a crazy kind of sense. Considering how long the siege has taxed the armies, I can understand why [url=glossary:kyros]Kyros[/url] would send you with an [url=glossary:edict]Edict[/url] to speed things along. Have you... read it? Do you know what it says?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"The Archons must claim [url=lore:ascension_hall]Ascension Hall[/url] by [url=glossary:kyros]Kyros[/url]' [url=lore:kyros_day_swords]Day of Swords[/url], or all will perish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"That is not for you to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"One more thing for the Archons to fight over. Well, thanks for clueing me in. If [url=glossary:kyros]Kyros[/url] sends any lightning our way, just tell me when to duck." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"If you're telling the truth, I suppose I'll hear about it soon enough anyway." She nods to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Only that I could find you in Edgering Ruins. Truthfully, I could have picked you out of a crowd - you're the only one of us who hasn't spent the last few months bathing in the stink of the Matani River." She laughs, but there's a forced nature to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Did [url=glossary:the voices of nerat]the Voices of Nerat[/url] ask you to spy on me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>At a loss for words, Verse regards you with momentary unease. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Well, are you even surprised? He's the Archon of Secrets. Knowing in advance is his business. So is snatching up any advantage over [url=glossary:graven ashe]Graven Ashe[/url]. Those two compete like a couple of new recruits for a spot around the fire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"It's nothing nefarious. The Voices is just curious why you're here. If he wanted to know more, you wouldn't be able to suss it out that easily. He would have sent one of his scarier peons in my stead." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Hey, don't let me hold you back. I'm sure whatever you're here to do is important enough that you don't need me stepping in your path. The war tent is just past the center of camp." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"The war tent is just past the center of camp." She nods toward the northeast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I have nothing to tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"All right, if you say so. You're walking with this weight pressing your shoulders, and I thought you could use a reprieve." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"One last thing... be careful around these [url=glossary:disfavored]Disfavored[/url] types. They take their work seriously, and most have suffered too many blows to the head." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Admiring the [url=glossary:disfavored]Disfavored[/url] sigil? I know a thing or two about that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Couldn't help but notice how you were eyeballing the [url=glossary:disfavored]Disfavored[/url] symbol littered about camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"It's hardly a symbol, just a scrawl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Actually, I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"That's true, but it used to be the pride of [url=glossary:graven ashe]Graven Ashe[/url]'s legion before [url=glossary:kyros]Kyros[/url] made them deface it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Trigger Conv Node 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Go on, then." Verse nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I'm done discussing this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I don't blame you. Compared to the [url=glossary:scarlet chorus]Scarlet Chorus[/url], the [url=glossary:disfavored]Disfavored[/url] are about as interesting as hard labor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ashe's troops impressed the growing Empire, but [url=glossary:kyros]Kyros[/url] made them sacrifice everything they were up to the point Ashe surrendered. They've been [url=glossary:disfavored]Disfavored[/url] ever since, and fighting to earn back their honor." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"We're in a hurry now? That's a change of pace for the siege. Let's head inside, then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I guess that's why you don't cross the Overlord. [url=glossary:kyros]Kyros[/url] holds a grudge with a mean jealous streak." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Lie] "I'm actually tallying the expense of the siege." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Is that all? I can understand why [url=glossary:tunon]Tunon[/url] would worry himself over resources, but we have the riches of the Northern Empire backing this conquest. Not to mention the plunder of the Tiers. If you say that's the case, I'll go along with it." 
+
+Verse frowns to herself, but doesn't press the matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I've heard enough." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Word has it that Ashe has been under more scrutiny than the other Archons, seeing as he [url=lore:vw_ashe]took a stand against Kyros in the past.[/url] Even though he bent the knee in the end, that doesn't place him above suspicion. [url=glossary:kyros]Kyros[/url] and the other Archons keep him on a tight leash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I'm Verse, by the way. But there are more important things to take care of than introductions. Those [url=glossary:vendrien guard]Vendrien Guard[/url] we killed didn't come alone." She gestures to the skirmish unfolding in the pass below, shaking her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Script Node 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Fine. Stick with me, but follow my lead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"You heard me - I'll be fine on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Eager. I like that. Before we go, you might search among the remains of our fallen comrades. Wherever they're bound, I doubt they'll miss their boots, much less any [url=lore:rings]rings[/url] or any useful iron they might be clutching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You should honor your fallen, not pillage them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I see your point. Nice and practical." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"If they deserved my praise, they'd be standing here taking orders. As it is, they're dead and I'm alive. The beating of my heart is celebration enough. Apparently you haven't spent enough time in the front lines, or you'd know that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"No reason to pity the fallen. Before long, we might wish we had joined them here. But at least we'll enjoy heavy pockets and warm toes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I don't make it my business to question orders. I've done things that would make the hairs on your backside prickle." A smile, full of memory, spreads across her face like a stain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You fight like a storm. What's your role in the army?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"A Scarlet Fury - one of the elite killers of our ignoble gang. You'll see more than a few of us around camp, but don't let that fool you. We're a rare breed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] called his best fighters to this siege. There must be something important about [url=glossary:vendrien's well]Vendrien's Well[/url], though don't ask me what. The Archon isn't in the habit of spilling secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Why do you think the Archons are at odds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I've been with the [url=glossary:scarlet chorus]Scarlet Chorus[/url] since the early days of the conquest, so I can say it's been building for a few years now. There's an energy about those two - like a pair of storms moving to collide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"By my authority, the Archons will fall in line."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"That's absurd. If the Archons cannot put the past behind them, they are unfit to command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"That sounds like exactly the attitude to set this campaign in the right direction. I don't envy you the task of getting them to cooperate, which sounds about as easy as teaching a tornado to heel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Quick to anger, are we? I'm not disagreeing with you, but I would take care where you speak your mind. Someone is always eager to report slander to their favorite Archon." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I really ought to be meeting with the Archons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"So, you kicked me out of Edgering Ruins and decided to come crawling back." Verse crosses her arms and regards you with a self-satisfied smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I heard you couldn't save poor Drastus. Did it ever occur to you that I was there to help you along? No? Not even for a second?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"You managed to save that idiot Drastus without my help, so it seems you aren't totally defenseless." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You made it out of there alive, which is more than I can say for the [url=glossary:vendrien guard]Vendrien Guard[/url]. That's got to mean something, right? You can clearly hold your own. If you need my help, it's yours." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I'd like you to join me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Not right now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Have you reconsidered my offer? After too many months in camp, I'm itching for a different view of this valley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Trigger Conv Node 112</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"What could you offer me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I'm a blade that's been sharpened on many a whetstone. I've ran with a dozen gangs, and taken twice as many arrows. I'm something different than the straw soldiers you see knocking around camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I've killed the best and bedded the worst. This conquest is my playground, and I intend to enjoy myself. What do you say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Do you always talk with such bravado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Am I that transparent? In this army, you stay alive by proving your worth, even if every story you tell is a lie. Then you back up the rest in combat. Call it a survival instinct. And don't get me wrong - plenty of recruits strut their stuff and fall short on the battlefield." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"But in my case, I do more than talk a big game."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Sounds like a plan. I'll follow your lead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"So why invite a mediator from [url=glossary:tunon]Tunon[/url]'s court? It doesn't add up." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I heard tell that [url=glossary:graven ashe]Graven Ashe[/url] and [url=glossary:the voices of nerat]the Voices of Nerat[/url] shared some bad blood in the Northern Empire, but I don't know any of the particulars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"With all the power they wield, those types are not quick to forgive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"At least you sound like you know what you're doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Having trouble making up your mind? I know that [url=glossary:tunon]Tunon[/url] pampers his agents with the best training, but I'm around in case you need a guide. You wouldn't be here if the siege wasn't already a mess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Very well, I'll accept your company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I'll be fine on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"You won't regret it. I've spent more time taking orders than giving them, so point me in the direction of a fight and I won't second-guess you." She nods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"If you think you can handle this war without a trained killer, then suit yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"[url=lore:edgering_verse_react]Harbinger! Still standing after three years of war?[/url] Come join me in battle once again - we'll show these children how it's done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"No, I'll be fine on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Think so? Because these upstarts fight like they have something to prove, and I wouldn't want to see you lose an eye." She narrowly ducks a swipe from a Vendrien blade. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Though you did a fair amount of feasting in the second year of the conquest, as I recall. A few of my mates and I [url=lore:conq_armistice]caroused with this Apex scum[/url] thanks to your good-faith gesture. A pity this lot won't be around to remember the good old days." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"If you don't recognize me, it's probably because I'm not [url=lore:conq_cairnstribe]covered in Beastman blood.[/url] You did me a good turn back in Azure, and I never forget a friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I wouldn't expect you to recognize me... or maybe you're just ashamed of [url=lore:conq_cairnstribe]how you did me wrong[/url] back in Azure. Good thing. I'm not one for grudges." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Most of the 'soldiers' in the [url=glossary:scarlet chorus]Scarlet Chorus[/url] are little more than farmers and children armed with rusted forks. Makes them easier to control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Have it your way! If you'd rather face the [url=glossary:vendrien guard]Vendrien Guard[/url] with your rear exposed, it's none of my affair."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

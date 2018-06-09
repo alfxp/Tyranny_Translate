@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_cv_act_3_start</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Loyal subjects of [url=glossary:kyros]Kyros[/url] don't turn on each other... this is how this madness started, with the Archons falling into disorder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Then consider this [url=glossary:kyros]Kyros[/url]' sense of humor? I can't speak as to why it's got to be this way, but I would wager the Overlord figures maybe it's easier to let you all choke on your own infighting than to try to get you all to obey."
+
+"And of course, if you consider yourself a loyal subject of [url=glossary:kyros]Kyros[/url], you're going to have to throw your weight around. Because I have more news."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Please, it seems a bit presumptuous to claim the Overlord's power. I still don't fully understand this power just yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

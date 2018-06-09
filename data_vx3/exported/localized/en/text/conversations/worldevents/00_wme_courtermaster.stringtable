@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\worldevents\00_wme_courtermaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You make out a few figures on the road well ahead of you. The glint of iron and bronze marks them as well-armed and armored. Two feature the broad shoulders of Beastmen haulers and lead a heavily-laden cart. As they near, you realize that the standard flown from their cart boasts the heraldry of [url=glossary:tunon]Tunon[/url] the Adjudicator, Archon of Justice. They hail you as you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You recognize the woman who leads the procession as a minor functionary in [url=glossary:tunon]Tunon[/url]'s service by the name of Alma. Her clothes bear the red, black, and gold of the Court, and she keeps her light brown hair in a carefully braided bun atop her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Speak with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Continue on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You pass the retinue by and continue towards your destination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fatebinder [Player Name]," she greets you with a bow. "I travel in the Archon's service. The cart behind me is laden with supplies, all at a reasonable price. Is there anything I can provide you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Shop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Alma grins. "Of course! Let me show you what I have." She pulls the cover off of her cart with a flourish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Alma bows. "Then safe travels, Fatebinder. Hail [url=glossary:kyros]Kyros[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ahead of you on the road you make out the cart of Alma, a provisioner of [url=glossary:tunon]Tunon[/url]'s court, accompanied by her guards and two Beastmen haulers leading a cart. She hails you as you approach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Fatebinder [Player Name]! It's always a pleasure to see you." Alma bows deeply. "My cart is heavy with supplies from the court. Care to peruse them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Continue...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Continue...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

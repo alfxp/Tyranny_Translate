@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_bs_ssik_companion_barkstring_on_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Curious how that artifact left the path open behind us. Others are likely to follow in our footprints." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The path remains open behind us, making way for friend or foe alike. Sentinel Stand has never been more exposed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The path remains open. We should expect others to follow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I can't believe those winds just let us through. The path is still open, so I'd venture that anyone can follow us the way we came."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pack used artifact to cut through storm. Carved open path like furrow in dry ground. Means others can track and follow. Should keep to shadows going forward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"We do all the work to open a passageway through the storm and it just stays open? Typical. You know everyone is going to follow us, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The Steadfast Insignia opened the way for you to cross [url=glossary:kyros]Kyros[/url]' storm, but it would appear the entry remains open. Given Sentinel Stand's popularity of late, there is a good chance that others may follow in your path.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank Node 8</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

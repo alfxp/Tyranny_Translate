@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_arris_rebelpathintro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"If you think you could convince the [url=glossary:forge-bound]Forge-Bound[/url] of [url=glossary:lethian's crossing]Lethian's Crossing[/url] to back your 'neutral' side of the war, we could redirect their iron away from the enemy, and to our allies instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

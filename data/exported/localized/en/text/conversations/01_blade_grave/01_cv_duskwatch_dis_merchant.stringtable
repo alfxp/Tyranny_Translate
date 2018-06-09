@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_duskwatch_dis_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"The fort is secured, and supply shipments from Iron Hearth are keeping us supplied. That doesn't mean we'll turn down a few rings from [url=glossary:tunon]Tunon[/url]'s war chest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'd like to see your wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Fatebinder, you honor us with your presence. What will it be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Anything for a servant of the Court. Wouldn't want you punishing injustice without serviceable iron to back up your judgment." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I have been told of your deeds at Sentinel Stand. You have done the [url=glossary:disfavored]Disfavored[/url] a great service. With the [url=glossary:unbroken]Unbroken[/url] defeated, no such enemy shall stand in our path."
+
+The soldier gives you a salute. "I have been given express orders to offer my wares at a special price, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

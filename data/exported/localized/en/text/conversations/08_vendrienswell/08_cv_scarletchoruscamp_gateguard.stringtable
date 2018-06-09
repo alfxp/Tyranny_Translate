@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_vendrienswell\08_cv_scarletchoruscamp_gateguard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The guard places her hands by her belt as you approach, gripping the hilt of a blade.
+
+"Past this point is Chorus territory, and you don't look like someone's conscript.... You sure you're in the right place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I am [Player Name], Fatebinder of [url=glossary:tunon]Tunon[/url]. I am here to help vanquish the oathbreakers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You know... I think I was told to expect somebody but... you seem too ugly to be him." Her lips crumple into a smirk. "Why exactly should I let you in?"</DefaultText>
+      <FemaleText>"You know... I think I was told to expect somebody but... you seem too ugly to be her." Her lips crumple into a smirk. "Why exactly should I let you in?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The guard watches you coldly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Fatebinder! The Fifth Eye has already left for the [url=glossary:disfavored]Disfavored[/url] Camp. He will meet you there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fatebinder! The Fifth Eye has already left for the [url=glossary:disfavored]Disfavored[/url] Camp. He will meet you there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Fatebinder! The Fifth Eye has requested you, it is urgent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm always in the right place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She smiles and nods quietly for several seconds.
+
+"Fair enough," she gestures over her shoulder, "Come on in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I'm here to help prevent us all from dying. Move aside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Step in close, push her down.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"And I was expecting a [url=glossary:scarlet chorus]Scarlet Chorus[/url] warrior, not a child asking for a beating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Before she can draw her blade, you advance, place your foot behind hers, and give her a stiff shove on the shoulder. Caught off-balance, she tumbles backwards, triggering an outburst of laughter in the other guard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I can't believe you sassed the Fatebinder - you're such a stupid ponce. Didn't I tell you we had a special guest coming?!"
+
+The guard waves you in with a smile. "Come on in. And don't let the ninny-shitters in camp give you any guff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Yes yes, sounds all very important." The guard lazily waves you in. "Come on in, just watch your step around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The guard stares at you for a long moment, clearing her throat as she tenses up her posture.
+
+At long last, she nods her head sideways, gesturing for you to enter. "Go on in, just watch your step around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You're the Fatebinder, right?" The guard examines you with a thoughtful grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Thought he'd be taller, but that's him."</DefaultText>
+      <FemaleText>"Thought she'd be taller, but that's her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"These are Chorus grounds, state your business, or get lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The guard tenses up, locking eyes with you. "That walking hunk of rust... what's he, she, maybe it doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Fine, just come on in. I'm sure the Fury will gut you if you're really a problem." The guard half-heartedly waves you in as she nods to Verse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You dolt! This is the Fatebinder! [url=lore:conq_gatecrasher]He's been with us since the damn start - even shed blood at the Gates of Judgment![/url] Fucking new fish! Start learning the names and faces or find work as someone's moving target."</DefaultText>
+      <FemaleText>"You dolt! This is the Fatebinder! [url=lore:conq_gatecrasher]She's been with us since the Gates of Judgment![/url] Fucking new fish! Start learning the names and faces or find work as someone's moving target."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"And more importantly, what's this hulking tonne of iron doing here?" The guard gestures at Barik with a sneer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The guard shakes her head, blushing with embarrassment. "I'm terribly sorry. Now please, come right in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"He's an allied warrior and my guard. You don't want to make an issue of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] thought I needed a minder and I didn't want to hurt his feelings.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Berate me if you must earn the favor of the reeking mob, but we would be better served not wasting our time appealing to every lackey in camp." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Really now? Let me guess - you're one of them Fatebinders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Didn't I tell you we had a special guest coming? This isn't just any Fatebinder, [url=lore:conq_gatecrasher][Player Name] here goes way back. Been fighting with us since the Gates of Judgment[/url] - show some fucking respect."
+
+The guard gestures you into the camp. "Come on in, a veteran such as yourself is always welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Try taking off your helmet if you want to pout. Go on. We'll wait." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

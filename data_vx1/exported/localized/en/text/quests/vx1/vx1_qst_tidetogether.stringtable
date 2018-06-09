@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\vx1\vx1_qst_tidetogether</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tide Together</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Talk to Melitta in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find Phoibe in the village of Phlogiston.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kill the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Speak with Crass Callia about Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Speak with Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return to Wagstaff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Speak with Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Return to Wagstaff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Confront the Chorus about gambling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Return to Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Confront Crass Callia about the gambling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Find the Tome of Aqueous Metallurgy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Search the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Return to Wagstaff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tidecasters and Sages have been fighting each other for longer than either side can remember. True to form Wagstaff has at least one such rivalry. He has asked you to kill a [url=glossary:sage]Sage[/url] named Phoibe and bring back all of her possessions as proof of the deed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Wagstaff mentioned a woman named Melitta, an associate that may know where Phoibe currently resides since the [url=glossary:vellum citadel]Vellum Citadel[/url] was destroyed by the [url=glossary:edict]Edict[/url] of Fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Phoibe's last known location was in what remains of a village currently known as Phlogiston. The village can be found in the Contested Lands not far from the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] stand between you and the [url=glossary:sage]Sage[/url], kill them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] have detained the [url=glossary:sage]Sage[/url] you were looking for. You may be able to convince their leader to let you speak to her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] have given you access to talk to Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Take Phoibe's possessions back to Wagstaff as proof of her death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>You removed the [url=glossary:scarlet chorus]Scarlet Chorus[/url] standing between you and Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>You decided not to kill Phoibe or take any of her possessions. Return to Wagstaff and inform him of your decision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Phoibe informed you that several of the gang members have been betting with each other on who would find the Silent Archive. Use this information to convince them to release the sages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Let Phoibe know how the confrontation with the [url=glossary:scarlet chorus]Scarlet Chorus[/url] went.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>You resolved an issue with Chorus gang members and their gambling earlier. Use this as leverage to convince Crass Callia to let the Sages go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Phoibe hid the Tome of Aqueous Metallurgy nearby, search for it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Kills-in-Shadow has located something belonging to Phoibe nearby, search for it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Take Phoibe's possessions back to Wagstaff as proof of her death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Confronting Crass Callia about the gambling problem has not yielded any results regarding releasing the sages. Speak to the Horde who are gambling about it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>You punished the Horde by sending them to Bastard's Wound. Without their support you can likely convince Crass Callia to release the sages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Needle Toe suggested talking to Skinner about the punishment for gambling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ragwort suggested talking to Skinner about the punishment for gambling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Confronting Crass Callia about the gambling problem has not yielded any results regarding releasing the sages. Speaking to Skinner may yield different results.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You killed Phoibe and brought back the Tome of Aqueous Metallurgy for Wagstaff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You gave the Tome of Aqueous Metallurgy to Wagstaff but left [url=glossary:sage]Sage[/url] Phoibe alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You brought back Phoibes things for Wagstaff as he asked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You gave the Tome of Aqueous Metallurgy to Jaspos. Wagstaff was not pleased with your decision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>You killed Wagstaff and are unable to complete this quest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>You left Phoibe alive and didn't bring her belongings back to Wagstaff as he asked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

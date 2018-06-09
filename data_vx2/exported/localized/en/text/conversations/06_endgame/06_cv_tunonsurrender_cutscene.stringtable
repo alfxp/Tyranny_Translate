@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_tunonsurrender_cutscene</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"But I have unified the Tiers in [url=glossary:kyros]Kyros[/url]' name, I do not wish war with the Overlord. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Do you think [url=glossary:kyros]Kyros[/url] cares about your fealty? You are a threat, a challenge to the Overlord's unique capacity. Co-existence will require supplication to the Overlord. If you can convince [url=glossary:kyros]Kyros[/url] that your loyalty outweighs your arcane gifts, then perhaps further bloodshed could be avoided."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I think the Overlord will entertain peace only to lull you into a sense of security so that you may be destroyed at a later time, in a more amusing way. But recent events have shown me that I... know less of the Overlord's will than I once thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Then perhaps striking first is the best option. An [url=glossary:edict]Edict[/url] proclaimed on the Northern Empire should send the needed message."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"If we're going to have peace, I think I'll have to make the first move. I will send an oath of fealty to [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"May [url=glossary:kyros]Kyros[/url] deem your actions loyal... for both our sakes."
+
+"If you want to make your intentions clear, shout your loyalty to [url=glossary:kyros]Kyros[/url] from atop the Mountain Spire, for all the Tiers to hear. The gesture will mean more if the supplication is public."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

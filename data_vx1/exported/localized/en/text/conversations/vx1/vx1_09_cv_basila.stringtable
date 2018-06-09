@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_basila</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh, you mean before the Forge was shut down? It's certainly possible. I remember a number of stoneworkers arrived in the early years of the Conquest. Lohara needed a proper working workshop, and they were supposedly experts sent directly by [url=glossary:kyros]Kyros[/url] for just that purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Her eyes dart upward, moving energetically as she thinks. "I think I may be able to help you, Fatebinder." She smiles, reaching down to unlock a small chest full of parchment, flipping through the documents rapidly. She scans one in particular, mouthing its contents softly to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Cassandra. That's right, I remember! She passed by my stall over a year ago and purchased some supplies for the road. She led a group of stone smiths. They were quite overjoyed about the prospect of returning to the North."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who is Cassandra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm looking for a special set of knapping tools. Did she carry anything like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Do you know where they were going?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"She's the expert in stoneworking, but I didn't know her much beyond her reputation. We spoke a few times, but she didn't care much for pleasantries or what have you. I don't think knappers have much need to buy tools. I mean, they make their own, right? But she did buy parchment and ink from time to time. I think she tended to keep meticulous notes about her work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I apologize, Fatebinder. My expertise in such specialized tools is sadly lacking. She had plenty of tools with her, beyond that, I can't speak to their specifics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I do! My ledger helped me remember. Cassandra mentioned that they were bound for home but leaving by a southern road. If that's the case, I'd wager that she meant to pass through South Haven to reach the closest port. The fastest way north is by water, after all. Perhaps someone in that village might recall where she intended to go after that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"This would have been before your time as Governor." She offers a short bow at the utterance of your old title.
+
+"A moment, please. I'll confer with my records." The merchant scans rapidly through her sheets of parchment, mouthing the words as she reads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Safe travels, Governor."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

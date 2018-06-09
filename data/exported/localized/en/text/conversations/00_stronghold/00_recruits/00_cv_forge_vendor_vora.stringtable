@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_stronghold\00_recruits\00_cv_forge_vendor_vora</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The young [url=glossary:forge-bound]Forge-Bound[/url] kneels down, her eyes fixed on the molten metal cascading down into the forge. "I've never seen anything like this in all my years." She stands up and dusts off her knees. "I appreciate the opportunity you've given me. Please, take a look at my wares!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>She smiles ear to ear as she observes the cascading molten metal flow into the forge. However, the warmth of her smile quickly vanishes as you approach. "Fatebinder, care to buy something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Fatebinder." She nods at you. "Can I show you anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"My apologies Fatebinder, but the forge is under maintenance. I cannot sell you any wares until it is finished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The young [url=glossary:forge-bound]Forge-Bound[/url] kneels down, quietly observing the molten metal flowing into the forge, taking in every detail with awe. She almost doesn't notice your approach. "Ah, Fatebinder. My apologies for being so distracted, I've just never seen a forge as impressive as this." She stands up and dusts off her knees. "Care to buy something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

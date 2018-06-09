@@ -1,0 +1,209 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\02_lethianscrossing\02_qst_wanted_criminal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Uma pessoa de interesse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Encontre Gino em Deserters March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Procure pelos corpos enterrados em Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Fale com Vintara sobre os corpos em Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Claim your reward from Vintara in [url=glossary:lethians crossing]Lethians Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Fale com o Gino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Descubra quem está espalhando os rumores sobre Gino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Fale com o Gino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Encontre os corpos em Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Confront Alagan at [url=glossary:lethians crossing]Lethians Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Fale com o Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Adquira prova da morte de Ginos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Vintara the [url=glossary:disfavored]Disfavored[/url] peace-keeper in [url=glossary:lethians crossing]Lethians Crossing[/url] told you about a criminal named Gino who has been stealing food and supplies from families in theárea. The [url=glossary:disfavored]Disfavored[/url] have put a hefty bounty on the thiefs head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Vintara disse que Gino foi visto pela última vez nos arredores de Deserters March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Gino insists he is not a thief and the bounty was placed on his head to stop him from telling anyone about a group of [url=glossary:disfavored]Disfavored[/url] soldiers burying bodies near Twin Rivers nearly a year ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>You discovered that the [url=glossary:disfavored]Disfavored[/url] squad was burying a group of Chorus Blood Chanters who were butchered years before the war between the two armies broke out.Parece que Ashe estava tentando encobrir por ter a única testemunha morta.
+
+Now that you have this information you should speak with Vintara in [url=glossary:lethians crossing]Lethians Crossing[/url] and clear his name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você encontrou Gino, o criminoso procurado, e administrou a justiça como preferir. Take a sign of his demise back to Vintara in [url=glossary:lethians crossing]Lethians Crossing[/url] to claim your reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você falou com Vintara e a convenceu a deixar Gino voltar ao local com todas as acusações. Volte a Gino em Deserters March e conte as boas novas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Gino acredita que alguém na cidade está espalhando boatos sobre seus negócios como pescadores, de forma a expulsá-lo da cidade. Ele tem certeza de que não fez nada de errado, mas não lhe dirá por que alguém iria buscá-lo. Ele gostaria que você encontrasse essa pessoa e os convencesse a parar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Depois de sondar a cidade, a trilha de rumores parece levar ao irmão mais novo de Alagan Ginos como fonte desses rumores. Alagan afirma ter visto os corpos dessas pessoas.
+
+Gino vai querer saber e talvez ele lhe dê o seu lado da história.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Os corpos estão enterrados na região sudoeste de Twin Rivers, atrás de alguns arbustos enormes. A única maneira de saber quem está dizendo a verdade é encontrar os corpos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>You found the bodies of a gang of [url=glossary:scarlet chorus]Scarlet Chorus[/url].Gino certamente não parece com alguém que é capaz de aniquilar uma gangue inteira de Blood Chanters. Judging by the remains this must have occurred long before the [url=glossary:vendriens well]Vendriens Well[/url] conflict.
+
+Alagan deve ter segundas intenções se ele está tentando enquadrar seu irmão por esses assassinatos que ele claramente não cometeu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Agora que você sabe a verdade sobre Gino, você deveria falar com Eldian sobre limpar seu nome na cidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Sua palavra sozinha não será suficiente para convencer Vintara da morte de Ginos. Pegue algo dele para provar que ele não vai voltar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>You managed to convince Gino into telling you that he saw the [url=glossary:disfavored]Disfavored[/url] doing something suspicious a few years ago.Ele não elaboraria a menos que você parasse de espalhar os rumores sobre ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Eldian, o ancião da cidade, não parece convencido do que os outros colonos têm dito sobre Gino. Eles acreditam que ele estava envolvido no desaparecimento de outros pescadores há alguns meses. Mas Eldian sabe em primeira mão que isso tem a ver com o Bane dos Oldwalls. Ele não tem nenhuma evidência para absolvê-lo completamente ainda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Um comerciante chamado Helina disse-lhe que Gino matou outros pescadores na cidade para obter uma vantagem sobre o seu próprio negócio de pesca. Ela foi informada por alguém que viu os próprios corpos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Você trouxe Alagans para Gino e ele não ficou satisfeito. He then told you that the reason he was out there was because he wanted to see what the [url=glossary:disfavored]Disfavored[/url] were burying out there.He didnt recognize who they were but who ever they were the [url=glossary:disfavored]Disfavored[/url] were not pleased someone managed to see them do it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>As you were attempting to leave twin rivers you were waylaid by a squad of [url=glossary:disfavored]Disfavored[/url] soldiers.[url=glossary:graven ashe]Graven Ashe[/url] is certainly trying to cover this up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Um comerciante chamado Basila foi informado por outro colono Helina que Gino poderia ter estado envolvido no desaparecimento de um pescador na cidade que estava em competição direta com Gino. Falando com Helina você pode se aproximar da fonte desses rumores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Alagan afirma que ele viu os corpos ele mesmo uma noite quando ele foi atrás desse irmão quando ele começou a agir de forma estranha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você executou Gino e recebeu sua recompensa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você ajudou a limpar o nome Ginos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você correu Gino fora da cidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você traiu seus aliados e não consegue mais concluir essa tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>You spoke with Gino a fisherman in [url=glossary:lethians crossing]Lethians Crossing[/url] who has seen his fishing business suffer due to lies about him being spread to the settlers in town.Ele insiste que não fez nada de errado, mas continua de boca fechada sobre o porquê de alguém espalhar os rumores.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

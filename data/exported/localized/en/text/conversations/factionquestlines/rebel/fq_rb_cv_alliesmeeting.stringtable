@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_alliesmeeting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Thank you all for coming. We have faced grave challenges together, but I am happy to at last present a beacon to light the way - [Player Name], the Champion of the Tiers, our leader and Archon!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"This does beg the question, Archon. What of those who chose to not join our alliance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"This is comforting to hear. Already you show more compassion and mortal understanding than [url=glossary:kyros]Kyros[/url] ever did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"That is an... intriguing position, Archon. We may discuss later on whether you are willing to rethink... oh, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Your ambition is lofty as ever, Archon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Now, there is still the matter of the Edicts that plague our land. Many of your closest allies have been impacted."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

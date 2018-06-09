@@ -1,0 +1,3437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_lantry_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>671</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"At your service."
+
+Lantry bows deeply, his eyes never quite meeting your gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"So what's on your mind? Did you want to discuss matters of the present, or would you prefer a more scholarly rant?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'd like to know more about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What can you tell me of the School of Ink and Quill?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I have questions about our allies and enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'd like to discuss arcane matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What are your thoughts on our traveling associates?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"So they say Sages know all sorts of things..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Me? Well... fine, but I'm not a very fascinating subject. I study interesting people - enough to know I'm not one of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You mean what's left of them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What would you like to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Well... you might want to ask a more soldierly type about the armies but... did you want to talk about the Archons or other mages?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"And I'd be happy to oblige - ever since the fall of the [url=glossary:vellum citadel]Vellum Citadel[/url], it is hard to find someone with whom I can discuss such things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Are you asking for an objective assessment or is this your way of saying you want to gossip?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I know everything except for who's been saying that. What's on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What's your story? Tell me the origins of Lantry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"How do you feel about [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You're taking lots of notes... what about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I wanted to ask about the Archons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What do you know of the mage guilds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What do you know of [url=glossary:kyros]Kyros[/url]' Edicts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What do you know of the magic of the Archons?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What do you know of spellcraft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Are you familiar with the Oldwalls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What do you know of the Spires?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Barik... what do you make of him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Thoughts on Verse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"What do you make of Eb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"What's your read on Kills-in-Shadow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Know anything about the region we're in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Know anything about the Beastmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Could you teach me something about history?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Know anything about the Bane?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I know much of such luminaries, so I am careful with my words... but ask, if you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"More than I will readily admit. Which guild?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tell me about [url=glossary:graven ashe]Graven Ashe[/url], Archon of War."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Tell me about [url=glossary:the voices of nerat]the Voices of Nerat[/url], Archon of Secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What do you know of [url=glossary:tunon]Tunon[/url], Archon of Justice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Know anything about [url=glossary:bleden mark]Bleden Mark[/url], Archon of Shadows?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What of Sirin, Archon of Song?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Did you know [url=glossary:cairn]Cairn[/url], Archon of Stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Of him, I know very little. I believe he was the 'Wild Man of the Hills' that [url=glossary:graven ashe]Graven Ashe[/url] subdued in 402 - but only one source suggests that link. He was famous for being... well, a big sour jerk. Seems he let his mouth run off about [url=glossary:kyros]Kyros[/url] and that was the end of his story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Not the youngest Archon in history, but certainly one of the younger, and history has yet to write much about her. And if I happen to be the first to write about her... well, that will look nice for my legacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Very little - his name is not printed in many texts. I know that he is sworn to [url=glossary:tunon]Tunon[/url] and acts as his assassin. I know he goes back a LONG ways though... I've long assumed he's served [url=glossary:kyros]Kyros[/url] about as long as [url=glossary:tunon]Tunon[/url], give or take."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"First, I suppose I should ask what you know of him..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] is one of [url=glossary:kyros]Kyros[/url]' most dangerous and unpredictable servants. He can pull memories - whole personalities, if you believe some reports - from his victims and over time, this has created a single Archon with the knowledge of countless lifetimes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ashe has served with [url=glossary:kyros]Kyros[/url] for a mere century, but he has been a reliable general and level-headed warlord... certainly when compared to some of the more bloodthirsty Archons to serve under [url=glossary:kyros]Kyros[/url]. I'm not saying the [url=glossary:disfavored]Disfavored[/url] are merciful, I'm just saying I've read the stories of the Archon of Blood and know it could be worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Someday, someone half your age will ask you to sum up your life and you'll realize what an odious request that is! Hmph... well, where to start?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"What do you mean by that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I fear him. I have learned to keep further exposition on the matter to myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"How can I not help but find him to be the most captivating person alive? The man has bent empires, claimed continents... where he goes, history follows. I won't deny he has killed... millions, at least - but I contend more would have died in petty wars across Terratus in the void of [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"All kinds of things. My mind is old - memory's a sieve. Keeping track of you, noting what I hear of the war, scribbling down reminders to myself - that sort of thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Are you spying on me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I don't like the idea of you recording me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Is it safe to be writing on your arms that much?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Oh certainly not, but it depends on the ink I'm using. Too much cerulean and I can't sleep... but just the right amount and I can write all night. The red ink will give you swamp bottom if you drink it, but absorbed through the skin, it'll make you taste colors and smell music... speaking of which, I should change out my tip."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Hmm... do you have something to hide? Do you want your actions forgotten? Either way, if I actually survive following you and make a cogent text out of this ramble of notes... well if that happens and you hate it, you can torch the pages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Well yes... if I'm worth my weight in tin as a craftsman of record, future generations will know of you. So yes, the Archon of Posterity sent me. You seem troubled by something that ought to be an honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] has cast many over the ages - and to my knowledge has never worded two Edicts exactly the same. Edicts defy our understanding of magic... [url=glossary:kyros]Kyros[/url]' magic works over vast distances, over indefinite durations, and no Archon or mere mage can counter the force of an [url=glossary:edict]Edict[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"The Archons all have magical powers that are intuitive - when [url=glossary:the voices of nerat]the Voices of Nerat[/url] pulls out someone's mind or [url=glossary:graven ashe]Graven Ashe[/url] protects his soldiers, that 'magic' isn't a signed spell or ritual - to them it's closer to flexing one's hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I've forgotten more than most Blood Chanters have ever learned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Is that so? Then let's talk about it, Lantry. What do you know? The knowledge isn't doing any good locked up in that impressive brain of yours. Tell me what you know, Lantry. What secrets do you know?"
+
+Sirin rocks her head side to side like a snake in front of its prey and as she speaks, her voice takes on a strange melodic quality.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Sirin, not now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Familiar is a relative term. I think I know more than most, but it's a subject of mystery even to the scholars. Though I must admit, in addition to my reading, I've ventured into the Oldwalls on occasion... and soiled many undergarments in the process."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"History used say that the Older Realms built the Spires. These days, you'll hear children repeating that [url=glossary:kyros]Kyros[/url] built them - guess that's the new history?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"At this point, I'd say you know more about them than I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"You must have some leverage over him, as I would have thought he'd lead us into a [url=glossary:disfavored]Disfavored[/url] trap long ago. Or maybe the legion is just that polite?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"He is a proper Northman, with duty in his blood, which makes me suspect his loyalty to Ashe is stronger than his loyalty to you. So long as your interests remain aligned to [url=glossary:graven ashe]Graven Ashe[/url], this shouldn't be an issue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I know little of swordplay and couldn't work a curve-and-arrow to save my life, I can't really comment on the lady."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"A most fascinating specimen... I think she has great potential - a dangerous amount of potential, to be blunt. The Scarlet Furies are the fighting elite of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and that means floating to the top of a sea of blood and chum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Lady? You're just afraid to talk in front of me - clear as day. Your sweat is easier to read than your ink scribbles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Good Tidecasters stay underwater. [url=glossary:kyros]Kyros[/url] did the Tiers a favor by erasing those moon-howlers from history, a shame one of them escaped justice!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What do you think of traveling with Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"But there's a blunt honesty to her that I rather enjoy. She wants to bask in your power and makes no excuses for the self-interested nature of her loyalty to you. Such refreshing transparency is rare in humans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Aggressive, homicidal, and best kept on a long leash with a longer whip? I'm a poor judge of beasts, I've known so few, and none resemble the scribes and scholars to which I'm accustomed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"As a chronicler of history, I am most honored to have the chance to travel alongside a luminary. I can write down her speech word for word, letter for letter, and proclaim it back but yet, the words lack her charm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"So, if I'm hearing you right, you're saying my words have no weight or significance and it's simply my magic that makes me powerful. I've got a song for you, Lantry. Do you want to hear it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"What? It's high praise!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"What? No, not at all. I just don't know how to comment on a warrior's worth, that's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Huh... think that, do you? Didn't know you had such swollen hope for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I must admit... I am completely fascinated by his predicament. Ever tried diagramming the articulations of his armor? Don't - it'll only lead to madness and ruination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Verse, explain yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"No need to keep secrets, Lantry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] has dubbed this land the [url=glossary:blade grave]Blade Grave[/url] - the term 'Realm of Stalwart' is no longer to be used in official record."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"My knowledge is largely academic, not to be mistaken for practical."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I'm flattered you think me that wise but... unless you are enthralled by migration observations and titillated by triangle ratios... I think I'd bore you silly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"A shame [url=glossary:sage]Sage[/url] Cloven Clause was reduced to a pile of ash... man knew all that's been written on the subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Most of what we know is summed up in the name - the full term for them is Mage Bane and there's a good reason for it. They'll prey on anything that moves but they'll show favoritism toward magically active humans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"What do you know of the Scourges?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Know anything about the Malices?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"What can you tell me of the Havocs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Writhing masses of sharpened limbs - and quiet as a shadow! Scourges are the most frequently observed type of Bane - not sure if they're the most numerous or just the most likely to attack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Havocs are notable for being territorial - by all accounts they stick to a chosen location and lurk... and lurk. If you see one, common wisdom is to run - it'll give up chase... eventually... when you find the edge of its... home?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Most troublesome of the Mage Bane are the Malices. Though I've never experienced it, I'm told a Malice can take hold of your waking self - leave you trapped in a dream while it puppets you. If evidence of these creatures didn't predate [url=glossary:kyros]Kyros[/url], I'd think the Overlord the only creature powerful and cruel enough to breed the Malice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Know their origins?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"What of the tribes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"What do you know of their minds and mannerisms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Where do their loyalties rest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Do you know where these creatures come from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Let's speak of other matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"This place was home... for a very, very long time... lots of memories. Not sure what you want me to discuss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Lethian was a merchant - fearless one at that. Takes a rare breed of profiteer to risk settling a corner of the Oldwalls. These days, the settlement is bustling... though really, displaced war refugees are the reason for the Crossing's recent growth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"When I was a kid, this was all rolling seas of ridgewheat and sugarcane. [url=glossary:kyros]Kyros[/url] outlives the landscape - not the other way around. What used to be the Realm of Azure is now the [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"The Spires predate us all. As far as I know, we're the only ones who've been up here since... ever? I think this might be a first? Perhaps the real trailblazer had trouble getting down and was lost to history."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"[url=glossary:vendrien's well]Vendrien's Well[/url] is the southern end of the Realm of Apex. Used to be the remote vineyard and elk hunting grounds of Apex's richest. They use the term Well since the all the rivers roll down from the ring of mountains and leave the soils sprouting year round. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Well temp me in my temphole, you've found a bug! We're hanging out in a region flagged as 'prototype.' Tell the area designer to fix it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"The earliest settlers made note of the Beastmen - so they were before us... but not before the Older Realms. By all accounts, the tribes do not have record of a time before the Oldwalls - so the logical conclusion is that they arrived after the Old Realms but before Five Wives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"There have been thousands of tribes throughout history. Most dissolve within a Choirman's lifespan - the stronger females branch off and make their own tribes with tougher names - then the King of Azure rounds you up and puts you to work..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"The [url=glossary:stonestalkers]Stonestalkers[/url] are the most powerful of remaining tribes - thriving now that Azure has fallen. As for the rest... The Old Talons of Frozen Cloud, the Trawlhooks, the Kolekar, Katvanas, the Jawsnap... all gone, I think. And then there's the Shadowhunters... they're all but extinct."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] are largest but are not strongest of tribes." She snorts, amused. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"My mistake, noted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You'd want to ask the authority - [url=glossary:sage]Sage[/url] Quillborne, she lived with the Kolekar for a few span, back in 404. Some truly fascinating findings. She noted that every successful tribe has a singular, female leader, its [url=glossary:prima]Prima[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Few Beastmen have accepted fealty to [url=glossary:kyros]Kyros[/url] - it would seem the notion of bowing to a person you have not seen in the flesh is insanity. This inability to bow to the Overlord will no doubt doom the species, for [url=glossary:kyros]Kyros[/url] does not suffer such token insults."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"They are true to their names and live like beasts - clothing and artifice seem to have little value to them, whereas rutting and killing are the reason to wake in the morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Just calling it as I see it. And I see he's holding back. Nothing serious, just a bit insulting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I dislike you noting my every move. It ends now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Keep writing - history will want to know me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Carry on for now, I may change my mind later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Still bothered by this? You worry too much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Oh, you're being quite serious. I feel I must argue for the sake of history, but if this is your command...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Yes, don't mention me in your accounts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"But that's... that is fine. I will make sure your name is omitted from it all. It's fine, I didn't really want to be a credible source of history anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"On that we agree. Don't worry, history needn't know the exact body count of your saga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Understood. Know that I observe to immortalize, not to slander."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"What's the core philosophy of the School of Ink and Quill?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Tell me a bit about the School's history."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"What sort of sigils do the Sages practice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Why did the Sages resist [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Why indeed! As historians, it is our place to document, not direct... let others rage and resist, ours is the duty to record. The decision to defy [url=glossary:kyros]Kyros[/url] was not unanimous... nor one decided upon lightly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"The laws of [url=glossary:kyros]Kyros[/url] would forbid much of the knowledge contained in the [url=glossary:vellum citadel]Vellum Citadel[/url]. The Elder Sages feared, rightly perhaps, that the Overlord would put an end to our tradition of stockpiling knowledge."
+
+"The battle of the [url=glossary:vellum citadel]Vellum Citadel[/url] was a battle to preserve knowledge, but our actions will be remembered as treason against the will of [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"The Sages are archivists, academicians, and arcansists. Our mission is to preserve the knowledge of today for the good of tomorrow."
+
+"Though we are known for our magic, few realize that most Sages concern themselves with scribal work - only a select few have the talent or focus to work the sigils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Each [url=glossary:sage]Sage[/url] benefited from the scrolls of learning that came before him - and so each [url=glossary:sage]Sage[/url] must repay this boon by gathering, authoring, or translating new texts to the stacks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"The Sages trace their days to a generation after [url=lore:lantry_fivewives]Five Wives, when the first settlers moved west.[/url] The [url=glossary:vellum citadel]Vellum Citadel[/url] began as a scholastic retreat, slowly blossoming into the finest library in the continent across the generations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Traditionally, we use magic only so that we may observe and archive, so that means magic of concealment and protection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"What do you know of the Earthshakers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Tell me about the [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"What of the Blood Chanters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Are there other Guilds in the Tiers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"The big three - Ink, Tide, and Wrath pushed out most of the other schools ages ago. History makes note of the Cutters, the School of Flowering Winter, and a few others that did not survive the little wars our Schools would wage. But I know little of these footnote Schools."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"It takes a strange bird to wish to emulate [url=glossary:cairn]Cairn[/url], Archon of Stone, but what do I know... a whole cult sprung up to worship the man!"
+
+"This cult became known as the Earthshakers Guild, and even their weak imitations of his magic can fill the land with tremors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] answered to [url=glossary:graven ashe]Graven Ashe[/url], meaning the Earthshakers are military allies of the [url=glossary:disfavored]Disfavored[/url] - at least that is how it was."
+
+"[url=glossary:cairn]Cairn[/url]'s treachery demanded retribution from [url=glossary:kyros]Kyros[/url], and this has destroyed the reputation of the Earthshaker Guild - many assume a traitorous teacher would breed traitorous disciples."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"The [url=glossary:forge-bound]Forge-Bound[/url] are a Guild from the Northern Empire. Their magic is a bit different from the sigils you or I know - they study a slower, more rigid style of magic that they use to become one with their forging tools."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"The [url=glossary:forge-bound]Forge-Bound[/url] know the secret of turning gray rock into fine iron, and none have yet replicated this feat of craftsmanship. What they do is truly unique, and they teach their craft by practice and lecture, little of it is written down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"The Blood Chanters are a motley... to call them a proper guild insults all other traditions. Most of their number [url=lore:lantry_chanterhistory]were members of the School of Wild Wrath, but they sold their loyalty to The Voices of Nerat."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"They brought with them their fire magic, adopted from the long dead [url=lore:lantry_thousandembers]Thousand Embers, Archon of Fire.[/url] Guess it's of little surprise that fire mages would find a welcome home in the Chorus."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Fatebinders do not discuss matters to outsiders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"He is true to his core mission - he is fair and just."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] is a puppet with masks - his time will come."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Curious..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Fair and just by your measure, that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Of course you don't, apologies for implying otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url], Archon of Justice exists in texts spanning back hundreds of years. I can't say I know how he came to be the Overlord's Adjudicator - maybe you know that one - but he oversaw the conquest of the Tundra Sovereigns... and they bowed to [url=glossary:kyros]Kyros[/url] in the year 83."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Can you tell me of the [url=glossary:edict]Edict[/url] of Storms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"What do you know of the [url=glossary:edict]Edict[/url] of Fire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"What do you know of the [url=glossary:edict]Edict[/url] of Stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Any thoughts on the [url=glossary:edict]Edict[/url] of Execution cast on the Vendrien's Valley?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[Explain the [url=glossary:edict]Edict[/url] of Malediction.] "Any record of [url=glossary:kyros]Kyros[/url] using this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Have you heard of an [url=glossary:edict]Edict[/url] of Shadow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"I would think you know more than most on the subject! I watched with great interest when it happened, but fleeing the [url=glossary:edict]Edict[/url] of Fire was a more pressing concern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] of Storms turned the once-forested lands of Stalwart into a wind-swept wasteland. They call it the [url=glossary:blade grave]Blade Grave[/url] now, since only the iron and bronze armaments remain. Hurricane breezes, rust winds, and relentless lightning have destroyed the housing and farmlands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I was there when the ground erupted with fire, and I don't think I remember ever being as terrified as I was that day. If I hadn't woken early, I'd have likely perished in my sleep or awoken to the experience of being immolated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I know it was [url=glossary:kyros]Kyros[/url] that cast the [url=glossary:edict]Edict[/url] - not you. It's like being mad at the carrying pigeon instead of the author. It's just... odd to be so close to your voice all day knowing THAT'S the voice that brought the [url=glossary:vellum citadel]Vellum Citadel[/url] to ruin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Given the destruction involved, a warning seemed the humane thing to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"I had a sacred duty from [url=glossary:kyros]Kyros[/url], I can't be sorry for doing my job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"The School of Ink and Quill had more than its share of mercy and patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Nor should you be - and it seems like you have a sense for just how complex your role is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Stroking his beard to a point, Lantry returns your stare in silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"I do not disagree. I just wish there had been time to preserve some of the [url=glossary:vellum citadel]Vellum Citadel[/url]'s more important works... no bother."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"A most noble sentiment. The [url=glossary:edict]Edict[/url] had its intended effect - it crushed the will of the School and scattered the Sages to the wind. I'm glad it brought an end to the conflict and, thanks to your warning, without further loss of life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"I think you would be the one to ask! Though I realize you were but the messenger..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] of Stone ravaged the Realm of Azure - the upheaval of earth and rock turned the rolling plains into a craggy steppe known as the [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"As you said earlier - it seems unlike the Overlord to traffic in coincidence. It would have been more efficient to use an [url=glossary:edict]Edict[/url] of Fire and have the generals claim the charred ground. [url=glossary:kyros]Kyros[/url] wanted someone to claim [url=glossary:ascension hall]Ascension Hall[/url], I'm sure of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"It seems like the Archons were about to kill each other and the threat of mutual destruction was about all [url=glossary:kyros]Kyros[/url] had left. I imagine fear is the only way to get someone like [url=glossary:the voices of nerat]the Voices of Nerat[/url] to follow orders, and the [url=glossary:edict]Edict[/url] certainly DID whip them into action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"No... but now I'm fascinated. This was in the Silent Archive, right? It's possible [url=glossary:kyros]Kyros[/url] used an [url=glossary:edict]Edict[/url] like this before and history recalled it by a different name. It sounds, in principle, akin to the [url=glossary:edict]Edict[/url] of Sorrows - a sort of wide-spread curse of generalized misfortune. A bit more subtle than endless storms or fire from the soil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"I've read of an [url=glossary:edict]Edict[/url] cast on Ikenar Pass in 282. [url=glossary:kyros]Kyros[/url]' magic ushered in endless night, well endless until the inhabitants slew their own rulers, or so the [url=glossary:edict]Edict[/url] was worded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Well, where to start? There's the secret as to how to perfectly roast pheasant..."
+
+Lantry's jabs a finger in the air in excitement as Sirin rolls her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Can you teach me anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"What sort of magic did the Sages teach you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"What can you tell me about signing magic?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"I think you know all I can teach you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Most certainly. I probably should have shown you how to mend wounds sooner. If you have a moment, I can show you the healing sigil I was trained to use."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"[url=glossary:sage]Sage[/url] Sinden tutored me in the traditional sigils, those of Preservation, Concealment, and Healing - as derived from the bygone Archons of Tharavis, Fading Wrath, and the Orphan Midwife."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"It's debated whether Archons create new magic or just discover magic that was waiting for us - but such questions seem impossible to answer while sober."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Whatever. I could have made him tell you anything you wanted to know, but that's fine. You go ahead and ask your probing and insightful questions. I'll wait over here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"They seem to breed in the Oldwalls... or at least, that is where they exist in the highest concentration... but there seems to be no social interaction amongst the Bane and no logical mechanism of... uh... grinding their privates to make little Banes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Greetings, Archon. How may I assist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"One moment my friend, just let me finish this thought."
+
+Ending his note with a flourish, Lantry licks the tip of the quill - pausing to taste it a second and third time - before tucking the pen in a holster on his sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Finishing the last pen strokes of a note running about his left arm, Lantry looks up at you with a nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"So your latest acquisition has me thinking about the Spires some more. By all accounts they go as far back as the Oldwalls. Over the centuries, the nobles of the Tiers have 'claimed' the Spires but they've only ever battled over the land at the ground level of the monuments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"That's twice now... by [url=glossary:kyros]Kyros[/url]' icy nethers... TWICE! Edicts have been broken before, but  never in all my many years have I heard of one person doing it twice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"At least in theory... I'm supposed to be observing history, and not getting myself wrapped into it. All the same... this is the thrill of a lifetime - rarely does one stand so close to monumental moments in the making."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Let us discuss current matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"I have some questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Of course. How can I help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"I am nothing if not a semi-reliable font of knowledge. What did you want to discuss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] has unleashed a feud amongst us Archons... thoughts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"So really... what's your story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"I grew up in Sunder - I was [url=lore:lantry_sunder]born right after independence from the Realm of Stalwart... so yeah, do the math and you'll realize I'm old.[/url] My parents were harbor hands - my mother never returned from a voyage and my father lost his hand to infection and decided to sell me to the School of Ink and Quills."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"As a novice, I was assigned to the dovecotes, where I learned how to raise and groom birds to carry missives - and most of my early tomes are on that subject. Ten years and several tomes later, someone decided I was ready to be welcome into the inner circle and shown the ways of magic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Is this your true skein? Did you always want to be a [url=glossary:sage]Sage[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"I cannot imagine doing anything different. I suppose in my youngest days, I yearned for battle and glory like most boys I knew. Having now seen how short a soldier's life can be, I look back on that old calling, that old mindset, and laugh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"For the moment, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] could be considered an ally... let us hope the Archon of Secrets continues to find you entertaining enough to remain friends. The [url=glossary:disfavored]Disfavored[/url], on the other hand, will be a certain threat - the civil war has removed Ashe's pretense to play well with others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"If given the choice between a multi-faceted hive mind of treachery and a surly old soldier, General Grumps is the wiser choice. It's patently obvious which Archon is truly loyal to [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"You're playing a very dangerous game, or maybe toying with your food. By adopting the [url=glossary:vendrien guard]Vendrien Guard[/url], you've bloodied the waters with the chum of hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"You made a lot of enemies during the battle of [url=glossary:vendrien's well]Vendrien's Well[/url]... if the [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] stop fighting each other, one or both might get the notion to crush you underfoot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"The [url=glossary:vendrien guard]Vendrien Guard[/url] are a resource to be used at my discretion, nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"I am still debating the fate of the Tiersmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"They didn't ask for this war, and nobody else is going to fight for them if I don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"There is hardly any opposition to [url=glossary:kyros]Kyros[/url] left in the Tiers, yet this civil war forestalls any formal close to this conquest. I can't imagine the Overlord is amused by these recent events."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"I think the Overlord is waiting for someone strong to take charge - that will be me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"No doubt this is all part of [url=glossary:kyros]Kyros[/url]' plan - a test to decide whether [url=glossary:graven ashe]Graven Ashe[/url] or [url=glossary:the voices of nerat]the Voices of Nerat[/url] should rule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"A very bold sentiment! But you are correct, the Overlord puts great stock in those with initiative and strength. Why else would [url=glossary:kyros]Kyros[/url] keep around a henchman like [url=glossary:the voices of nerat]the Voices of Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"During my time as a Chorus prisoner, I heard many warriors speak of '[url=glossary:tunon]Tunon[/url]'s Dilemma' - most conscripts believe the Archon of Justice must and will nominate the greater general to rule at the end of the war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Sorry, I wasn't trying to darken the mood. It just seemed that [url=glossary:kyros]Kyros[/url] responded to one delay of victory with that [url=glossary:edict]Edict[/url] of Execution. What then, will be the response to civil war?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"So I must ask... are you planning on taking sides in the civil war, or do you have other plans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"I will stand with [url=glossary:graven ashe]Graven Ashe[/url] and the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"I'll hunt with the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"I have my own little corner of the Tiers now. My plans are entirely my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"I am a servant of the Archon of Justice - that much has not changed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"The Archon of War is about as noble as a professional killer can be - and unlike [url=glossary:the voices of nerat]the Voices of Nerat[/url], he doesn't bring with him a gaggle of rapists and pillagers in his wake. The [url=glossary:disfavored]Disfavored[/url] could use your help - they are outnumbered and, I'd say, outwitted by the opposition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"While [url=glossary:graven ashe]Graven Ashe[/url] knows more about war, I contend [url=glossary:the voices of nerat]the Voices of Nerat[/url] knows more about victory. The [url=glossary:scarlet chorus]Scarlet Chorus[/url] has grown with each passing year."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Dutifully spoken. It is [url=glossary:tunon]Tunon[/url]'s duty to arbitrate matters between the Archons, so this rift between Ashe and Nerat certainly falls under his jurisdiction. And here you are, thrust in the middle of the dispute - no doubt the mighty Adjudicator will be relying heavily on you to get to the truth of the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Your plans are your own until they plunge the rest of us into misfortune... but I shall not pry - not now, at least. Know that your actions at [url=glossary:vendrien's well]Vendrien's Well[/url] have earned you the attention of the Tiers - your reputation will attract opportunity and disaster - likely in uneven measures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"As I suspected. Even if your actions were kindled by pragmatism, the end results are mercy and nobility. They are certainly thankful for your actions, even if you are largely indifferent to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"And what of their past actions against [url=glossary:kyros]Kyros[/url], aren't you worried of guilt by association? We saw what became of [url=glossary:cairn]Cairn[/url] for merely suggesting treachery..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"I don't care one bit whether or not they love or hate [url=glossary:kyros]Kyros[/url], only that they obey me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Their service to me is atonement for past transgressions, I will waste no time on talk of bygones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"I see... and with the fates of thousands in the balance, it is most wise to weigh carefully your choices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Hmmm... well, I suppose your future actions will tell us the real answer. So be it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Whatever you do next, consider that many eyes will be upon you - for you have both delivered and taken away the Overlord's Edicts, and few will know how to make sense of the latter. You are an exception the Archons cannot afford to ignore - they will likely aim to control or destroy you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Have you heard of Edicts being broken before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Noted. Now let's get going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Have a moment? Let's talk further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"If I were sympathetic to the oathbreakers, I wouldn't say it to someone in the habit of recording me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Point taken. I will make no note on the subject for the time being."
+
+Lantry clears his throat nervously, idly twirling his quill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"You rescued the [url=glossary:vendrien guard]Vendrien Guard[/url] from the brink of doom, as you did with me. I speak from experience when I say this, that buys you a lot of loyalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Most of [url=glossary:kyros]Kyros[/url]' Edicts were either worded to end in a manner of the Overlord's choosing, or the Edicts have simply continued in perpetuity. That's not to say there haven't been stories of broken Edicts - they're just uncommon." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"In all of these stories, [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] very clearly gives its victims a single way of escape, and someone manages it. What's never happened is the pure abatement of an [url=glossary:edict]Edict[/url] - like using a spell of warding or cancellation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"You were the governor of this place for a time, right? That must have been an interesting experience. Care to discuss it?"
+
+Lantry slides a quill out from his sleeve and readies a sheaf of parchment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>[Tell him an anecdote.] "So this [url=glossary:disfavored]Disfavored[/url] soldier falls in love with Sirin..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Not now. Ask the locals in your own time if you really care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"I was sent to ensure the [url=glossary:forge-bound]Forge-Bound[/url] met their quotas. Under my oversight, the settlement flourished. The rest is irrelevant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>[Tell him an anecdote.] "All right. So the generals demand a bunch of iron swords and then march off and leave the forges undefended..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Lantry nods enthusiastically as he makes note of your tale. His writing moves from off the small bit of parchment and onto his left hand - the saga finally ending on his forearm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Fair enough. I won't press the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Short and to the point - just as I'd expect. At least you didn't glare at me and wait for me to mutter something uncomfortably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Every bronze worker in the Tiers would sell out her children to know the lessons of the [url=glossary:forge-bound]Forge-Bound[/url]. [url=glossary:tunon]Tunon[/url] would not have elected a fool to shepherd [url=glossary:kyros]Kyros[/url]' most valuable mages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"I appreciate the exposition. Future generations will enjoy the nuances of your life - it will matter far more to them than it ever will to you. Such is the madness of fame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Proper thinking for an Archon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"I know you're smarter than you act - extend me the same courtesy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Do you really want to disobey me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"You lie about the wrong details."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"I assure you, Fatebinder, my life is very long but very boring. I'm flattered you suspect me of being more interesting than I am... but alas, I've nothing fascinating to hide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"I was on the take from [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Or at least, an agent of his sent me to the School of Ink and Quill thirty years back - it'd be years later until I made the connection to the Archon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"The [url=glossary:vellum citadel]Vellum Citadel[/url] was supposed to flip to [url=glossary:kyros]Kyros[/url] without a drop of blood. For a bunch of well-read scholars, you'd think they'd have learned the only true lesson of history - [url=glossary:kyros]Kyros[/url] is inevitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Most people think the war began three years ago, but [url=glossary:the voices of nerat]the Voices of Nerat[/url] had his hands in things sooner than that. I was part of that early invasion - an eager kid happy to accept a thirty year assignment that comes with an education."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"What else aren't you telling me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"So you advocating surrender to [url=glossary:kyros]Kyros[/url] was the end of your long plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"I am dreadfully unamused by this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Well... when you proclaimed the [url=glossary:edict]Edict[/url] of Stone, I took a bit of an interest in you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Yes and no? When I first left, I was just happy to be getting educated by the Sages on someone else's rings and my orders were simply to listen and report. As the time drew near, my commands were to win them over, a little at a time, to the notion of surrender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"You read the [url=glossary:edict]Edict[/url] of Fire - you were the messenger of [url=glossary:kyros]Kyros[/url]' judgment on my work. It was about then that I decided I'd need to take an interest in your skein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Well I should admit I might have been taking an interest in your history since I learned about your proclamation of the [url=glossary:edict]Edict[/url] of Storms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"But I failed. The elders of the School grew defiant and the militant minds won out - these are Tiersmen after all. I didn't deliver the surrender and it took the Overlord's [url=glossary:edict]Edict[/url] to end what I was sent to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"In truth, I am deeply curious about any who have lived as vessels to [url=glossary:kyros]Kyros[/url]' most supreme magic. When I heard you were proclaiming a second [url=glossary:edict]Edict[/url], I had to find a way for us to meet. Being tied up in a prisoner camp was not the intended plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Did Nerat have you captured for failing to convince the sages to surrender?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"The Archon of Secrets didn't even remember me! I guess I looked at some thug the wrong way and got jumped - my imprisonment isn't anything more interesting than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"I think one can safely conclude that you have the Overlord's attention - and that of the Tiers... soon all of Terratus. You realize... I trust, I hope... that nobody other than [url=glossary:kyros]Kyros[/url] has ever cast an [url=glossary:edict]Edict[/url]. Until you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Not to steal your glorious day in the sun but... I must say, now all my notes on you are suddenly worth ten times their weight in iron. My journals will melt the linens off the ladies, I tell you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"I've never seen the glyphs of a Spire light up in all my years - not until you show up. If this were an isolated incident, I'd be confused... but it seems the Spires - plural! - are somehow... connected to you? What's your secret?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Happen to know when [url=glossary:kyros]Kyros[/url] first cast an [url=glossary:edict]Edict[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Are you sure history hasn't just edited or forgotten those who could rival the Overlord?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"I'm sure right now, [url=glossary:tunon]Tunon[/url] is hating himself for not executing me years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Also safe to assume [url=glossary:kyros]Kyros[/url] will try to 'solve' me in some fashion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"But here, the answer is given to us by the Overlord's own sense of posterity. Year 0 of [url=glossary:kyros]Kyros[/url]' calendar is said to correspond to the day [url=glossary:kyros]Kyros[/url] went from warlord to wearer-of-many-crowns - a victory won when the first [url=glossary:edict]Edict[/url] of Storms shocked both the Cloud Barons and the Realm of Medrev to capitulate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"His decree forcing the Archons to fight each other seems like his opening thrust. Calio mentioned the Archon of Ruin was dispatched with his army of Plagueborn - if that's true, the Overlord is certainly not amused."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Good question. In parts north, it's commonly held that [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Dust was the first, but it was cast in the Year 11 - it was just the first [url=glossary:edict]Edict[/url] to ripple across the whole of Terratus. If you lived somewhere that used to have antelope, you probably think that's the first [url=glossary:edict]Edict[/url] of the Overlord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"'Antelope?' Is that an animal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Yes, or it was, at least, until they were all wiped out by the [url=glossary:edict]Edict[/url] of Dust - or that's as best we've pieced it together from records. From what we've gathered from their skeletons, they were some sort of mute Beastman that ran on four legs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Antelope are not like Beastwomen," she counters, flexing her claws once, twice, three times in annoyance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"The Adjudicator will have to... readjust his thinking, no doubt. His executioner has become far more dangerous than he could have foreseen. Can't wait to see the look on his... mask?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Well... I have a hard time believing that someone would cast an [url=glossary:edict]Edict[/url] and not have it noticed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Yes, but maybe a rival casts an [url=glossary:edict]Edict[/url], [url=glossary:kyros]Kyros[/url] kills the rival, takes credit for the events..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Are you that naive? Or just blinded by [url=glossary:kyros]Kyros[/url]-worship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Know anything of the Archon of Ruin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Well... as of now, I've seen with my own eyes that the Overlord is NOT unique in this regard... and I suppose you're all the evidence I need to throw suspicion on the record."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Only by reputation. Pox helped bring the Northern Empire to its knees a century past, but when that conquest was over, her army was disbanded - the disease-carrying army of the Plagueborn make poor peace keepers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"At the same time... if you really were a meaningful threat, you'd have already been the victim of an [url=glossary:edict]Edict[/url], or [url=glossary:bleden mark]Bleden Mark[/url]'s daggers. So this has me rather curious - just what does the Overlord wish to do with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"We'll find out soon enough. We should get going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"I'd guess that if you and the Archons don't settle this contest quickly, the Archon of Ruin will be just the first headsman of many."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Indeed. Once again I find myself wishing the days and nights would slow down just a hair - never enough hours to journal these dense days! Let us be on our way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"I uh... I suppose I'm more an expert in living things like birds and can't quite confirm or deny what you're saying but... just forget I said anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Anybody can do it - just think about the wording of the [url=glossary:edict]Edict[/url] and you'll find [url=glossary:kyros]Kyros[/url] has left options."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Maybe later I'll slay an Archon...still planning my day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"That's like saying winning a war is as simple as raising a giant army and making all the right maneuvers... knowing what must be done and actually doing it... well that's the dividing line between being a legend and being forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"So quit being awestruck and write this down for future generations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"I think that's a jest, but others will see your actions and assume you're capable of just about anything - especially slaying an Archon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Of course, I was merely making an observation."
+
+Lantry lowers his head, turning his focus to furiously scribbling along a curling sheet of parchment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"But perhaps it's just another day for you? Remember, others will see this, and the wonder of the event is likely to incur the envy of the Archons... or worse, the wrath of [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"It is a surprise to me as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"I've studied at [url=glossary:tunon]Tunon[/url]'s feet, proclaimed Edicts, broken them too. I'm sure I've been exposed to all sorts of arcane powers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Perhaps [url=glossary:tunon]Tunon[/url] or one of the Archons did something to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"When I was young, my parents' trade route would take us through the shadow of the Spires. Maybe that's it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Huh... didn't know you walked the trader's route as a kid. I've been meaning to add to the section in the Chronicle on your life before the Court."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>A long sigh escapes Lantry and he sticks his quill in his mouth, chewing on the tip. His head tilts from one side to the other, muttering inchoate half-words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"A disturbing thought, but I had it as well. If the Archon of Secrets tampered with your mind, I figure it'd be obvious - in the same way that Nerat's stooge Fifth Eye is noticeably strange. Maybe [url=glossary:tunon]Tunon[/url] has more subtle ways of altering his subjects?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"I always want to know what you're thinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Let's get going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Out with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"If I had the words for it, I'd share. I'm just... not sure what to make of it. I'm realizing how much more there is to learn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"My mind is going back to [url=glossary:ascension hall]Ascension Hall[/url]. I wonder, if [url=glossary:graven ashe]Graven Ashe[/url] or Nerat had claimed it as their own... would the Spire come alive for either of them the way it did with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Probably - so I'll count my good fortune it was me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] of Execution was pushing for someone to claim [url=glossary:ascension hall]Ascension Hall[/url]... can't be coincidence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"The monument was meant for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Ah, such a clever child. I can't imagine the Overlord would ever carelessly word an [url=glossary:edict]Edict[/url]. You are right... I don't imagine [url=glossary:kyros]Kyros[/url] leaves anything to mere coincidence..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Have a moment? Let's talk further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Exactly. I mean... imagine if [url=glossary:the voices of nerat]the Voices of Nerat[/url] had control of the Spires... on second thought, don't imagine that too much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Spoken like a born conqueror. If you don't view Terratus as yours for the taking, someone else will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"I've studied many of the Archons for many years. Compared to the other Sages, I'm an expert on the subject - which is sad, because I feel like I've still so much to learn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"How does the magic of Archons work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Are all Archons loyal to [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"How is an Archon born? Or bred?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"I've seen what tiny despots, merchant cabals, and mage guilds can inflict in the names of all sorts of righteous causes - I will take the rule of [url=glossary:kyros]Kyros[/url] over the tyranny of every idiot on Terratus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Were you born Lantry or did you take that name on joining the School of Ink and Quill?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"Most Sages take a new name when they join the School. But for me, the transition was difficult at first - I stuck to my old commoner name and then just... never got around to picking some highfalutin name like [url=glossary:sage]Sage[/url] Apophasis or [url=glossary:sage]Sage[/url] Dangling Participle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Are you asking to salt an old wound? I remember the terror of waking to screams. I remember leaving behind my tractatus and tomes - leaving my birds to cook, my students to choke on smoke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"I have very conflicted feelings about this matter. The School of Ink and Quill had every opportunity to surrender - the leadership chose to stand against the most powerful force on Terratus... while this is all very terrible, it was entirely preventable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"I know that you warned us. I'm alive today because of you - as are so many of my brothers and sisters. And I'm most certain you were not ordered to warn us - so all the more reason to honor your decision."
+
+Lantry bows deeply, his face blushing when he returns to standing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"You'll think me crazy but... there is a part of me saddened I lived through AN [url=glossary:edict]Edict[/url] of Fire - [url=glossary:kyros]Kyros[/url] has used this before. I figure if I'm going to have years taken off my life fleeing an [url=glossary:edict]Edict[/url]... would've been nice if it was a historical first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"I was not instructed to warn you, and did so at my own peril - never forget that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Since you had warning... what did you steal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Raising an eyebrow, Lantry's face turns to one of blank confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"A library fortress is about to be destroyed and you steal... nothing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"The silence thing only works when I do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Ah yes... well... You must know it was simply for posterity's sake - shame to waste good parchment and all. All of it was too much to carry far so I stashed it in the mountains. I have directions to it somewhere... ah, here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>He hands you a crumpled wad of parchment. Smoothing it out reveals a hastily drawn map of the [url=glossary:vellum citadel]Vellum Citadel[/url] and some surrounding parts of the Contested Lands. A simple line from the Citadel to an 'X' shows Lantry's stash should be easy enough to locate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Thank you, I am in your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"What can you tell of Edicts in general?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"I explain it to my students like this: a spell is to an [url=glossary:edict]Edict[/url] as a drop of rain is to a hurricane. Edicts and spells are both magical cantrips, but differ in intensity by orders of magnitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Edicts are almost commands to Terratus that must be carried out until the instructions allow for the magic to end. If [url=glossary:kyros]Kyros[/url] wants a plague until next Judges Day, expect copious buboes until next Judges Day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Nothing has ever dispelled an [url=glossary:edict]Edict[/url] - nothing outside of the [url=glossary:edict]Edict[/url]'s own 'sunset clause' - as I like to think of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Do Edicts work on the same arcane principles as spellcraft and other magic?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"I'm curious about a specific [url=glossary:edict]Edict[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Of course. Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Edicts are the strongest manifestation of magic we know and they seem to violate all other lesser phenomena. No dispel cantrip has ever dented or abated an [url=glossary:edict]Edict[/url]. Even Archons with powers of great durability cannot shrug off their effects - just look at [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Now what I find curious - Edicts can 'flex' a little. Or so my studies suggest this is the case. Take the [url=glossary:edict]Edict[/url] of Storms - while the day it was proclaimed was the most violent, the actual radius of the Storm has changed over time. But most will have none of my hypotheses on this matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Fine, I'll take the bait... what's your conjecture about Edicts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"So in my studies, some Edicts resolve some problem of the Overlord's and then vanish into history. But the Edicts that linger around - almost all of them begin to widen, their effects become more intense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Here's the intriguing part - the older the [url=glossary:edict]Edict[/url], and the more that's written about it, the more the reports of that [url=glossary:edict]Edict[/url] get more dire over time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"That's how legends work - each generation tells them bigger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Perhaps Edicts have a life of their own once set in motion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"And Edicts never seem to vanish over time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Never. The only time history knows of Edicts ending is when someone answers the commandments put forth in the original proclamation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"Something to that effect, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"True, I could just be overreacting to sloppy record-keeping, but my hunch is that there's some correlation going on here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"I contend that Edicts are powered by fear. Fear of [url=glossary:kyros]Kyros[/url] helps fuel the casting, and fear of the [url=glossary:edict]Edict[/url] feeds the magic - sustaining it and, if enough people fear it, even growing it a bit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>"Intellectual honesty demands that I study the matter more. If I'm correct, the more people fear and obsess over an [url=glossary:edict]Edict[/url], the stronger it becomes. Anyway... another study for another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Rule by fear is certainly [url=glossary:kyros]Kyros[/url]' way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"What have others said of this theory of yours?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Or Edicts just feeds off the landscape once set in motion. Look at what has become of Azure and Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"I thought just that! But wherever an [url=glossary:edict]Edict[/url] is cast or has been cast, the land will always hum with a little background noise, if your ear's trained to listen. If anything, it seems Edicts add more magic into the world, not the other way around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"The other Sages have had little to comment on the subject. Most found the study of [url=glossary:kyros]Kyros[/url] to be 'bad luck' for whatever reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Officially? Yes. In actuality, no. Those with the true gift for magic always come to the attention of [url=glossary:kyros]Kyros[/url] - a few manage to evade attention for a bit. The School of Tides was founded by one such 'uncontrollable' but these are history's exceptions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"I think we all dream of one day waking up and being an Archon. Given some of the madmen and loons that have exhibited mystical greatness, it can seem unfair that the rest of us can't do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"I can say with confidence Archons aren't born, they 'become.' [url=glossary:graven ashe]Graven Ashe[/url] is a good study of this. Before he was the Archon of War, he was a successful commander, each victory more daring and glorious than the next. Somewhere along the way, his leadership took on mystical qualities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"The [url=glossary:graven ashe]Graven Ashe[/url] we know today can reach out and protect his soldiers from harm - but maybe at first he could just protect those near him... I wouldn't know for certain, but all will attest that he didn't have this power his whole life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"To confuse things a bit, some Archons learn to cast other spells in the same fashion as us 'lesser' mages. If you are as important as an Archon, you learn quick that all knowledge is power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Archons are the... what's the word for it... [url=lore:lantry_firstaxiom]axiom of magic? The root of magic? Spell pioneers?[/url] I'm sure this analogy is off in many ways, but I see Archons as the mothers of original magic and everyone else is just imitating them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"The Preservation magic is largely functional - sealing parchment, binding books, that sort of thing. All of us Chroniclers learn Concealment magic, as our ideal method would be to study events without contaminating the decisions being made."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"I know [url=glossary:graven ashe]Graven Ashe[/url] can defend his soldiers from far away - Ashe's Aegis is the term us archonophiles have taken to calling it. Not surprisingly, [url=glossary:graven ashe]Graven Ashe[/url] is beloved by his troops. I mean, if [url=glossary:tunon]Tunon[/url] could mystically protect you from cudgels and sharp sticks from leagues away, you'd like him more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"He and I were in written contact as part of the taking of the [url=glossary:vellum citadel]Vellum Citadel[/url]. Though I exchanged very few words with him, it was readily apparent that [url=glossary:the voices of nerat]the Voices of Nerat[/url] doesn't see people, he sees uses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"Beyond that, I know he's served [url=glossary:kyros]Kyros[/url] for close to two hundred years. He was one of the generals of [url=lore:lantry_northernwar]the War of Northern Unification[/url] - and small world, [url=glossary:graven ashe]Graven Ashe[/url] was his enemy at the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"So you're admitting you had at least one agent of yours studying the magic of the Tidecasters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"The centuries fly by and suddenly the [url=glossary:vellum citadel]Vellum Citadel[/url] is the definitive archive in the Tiers. The Sages branched out into carrying missives for wealthy clients, training noble children to read - the peasants may have feared us, but we remained useful enough to the Kings and Queens of the Tiers to avoid war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"When [url=glossary:kyros]Kyros[/url] came for the Tiers, that's when our hubris came back to haunt us. The elder Sages - the OTHER elder Sages, not I - believed our spellcraft was enough to ward off any siege. Well... we know how that turned out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Consider it a command. Teach me something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"But what better tangent than triangles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Fine, fine. If you have truly nothing better to do than talk trivia with old Lantry... so be it."
+
+Lantry pops open a scroll case by his hip, producing a long, handwritten manuscript.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"I grew up with books. Try me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"A brief history of the Tiers, by [url=glossary:sage]Sage[/url] Lantry. Volume one: Settlers from the East."
+
+"'Dry land!' came the cry from the prow of the ship. After months in the deep ocean, the pioneers of the Tiers saw their promised land at long last..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>The minutes roll on and Lantry's cheerfully reads through his painstaking treatise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>[Listen politely.] "Fascinating..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"Volume Three: Years 90 to 94. If you thought 88 was a crazy time when everything changed, wait until 91!"
+
+Haunting memories of [url=glossary:tunon]Tunon[/url]'s lectures creep into your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>[Listen politely.] "Really? Do go on..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Well if you enjoyed that, you're going to love... Ratios of the Sun! So, by using the shadow of a staff at noon as a starting point, I used triangles to show a relation..."
+
+Unlike [url=glossary:tunon]Tunon[/url], Lantry cannot kill you for walking out of a lecture. And unlike [url=glossary:tunon]Tunon[/url], Lantry has to eventually sleep. You've experienced worse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"But were your two measurements far enough to derive a parallax?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"I knew someone would ask that! And yes! So here's my proof. [url=glossary:sage]Sage[/url] Winding Script shows a relationship between all half-square triangles... I have a diagram somewhere..."
+
+From time to time the wind picks up, the howling, biting breeze offers a momentary respite from the deluge of blather.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"So if that's correct - you could estimate almost any length from a known angle..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Ask me again when we're somewhere quiet - maybe back at the Spire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"Um... yes... way to uh, steal the concluding reveal from me but yeah, that's about the gist of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"Now if you'll excuse me... I think my voice needs a rest. Thank you for the rousing conversation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"This feels like a logical continuation of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution. The Archons are still not playing nicely and so [url=glossary:kyros]Kyros[/url] would let his children fight it out for the title of Lord of the Tiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Count your blessings - because this bodes well for you. If you come up on top, your actions at [url=glossary:vendrien's well]Vendrien's Well[/url] are merely the definitive history of the victor - the ends will justify all means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"You are close enough to [url=glossary:graven ashe]Graven Ashe[/url] that you might be able to convince him that fighting is not in his best interest... you just need to somehow pierce his pride and show him you're as worthy of his fealty as [url=glossary:kyros]Kyros[/url] is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"All the other Archons are in the same boat - so I suspect even your ally [url=glossary:the voices of nerat]the Voices of Nerat[/url] is maneuverering against you as we speak. I hope you have something up your sleeve to deal with this strange bedfellow of ours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"All you have to do is... kill or subdue all the other Archons. But I mean... we've come this far..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"Your inks sound like fun. Can I try them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"I use three kinds - sepia, cerulean, and a red that's never the same shade... my recipe needs work. I like having three colors but they also provide different uh... states of mind for writing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Oh fine... the things I do to educate the youth... Here's how it works. The reds give a brief bout of synesthesia - great for writing music. Cerulean can unhinge me a bit but it blocks out the cramps and anxiety. My sepia ink is perfect for quiet contemplation, also, insomnia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"I can't in good conscience poison you..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Then hand it over, I'll poison myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>Plucking several ink vials from his bandolier, Lantry looks at you expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"Let me try the red ink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"What's the cerulean ink like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>"I'll try the sepia ink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>He holds out a pungent vile before you. Dipping your finger in the ink and rubbing the red pigment against your thumb, the sensation of flavor normally felt on your tongue surges through your hands - first of cherry and alcohol, but moments later, the taste is quiet and warm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>He holds out a small vial, you put a small dab on your finger in and taste the blue, viscous fluid. Aside from a chalky sensation on your lips, it seems to do nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"Made from only the finest cuttlefish."
+
+Lantry hands you a tiny ceramic vial. Dipping a finger into the ink and tasting it, your tongue is assaulted by the sour taste of improperly cleaned squid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"What do you think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>[Look off into the distance.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>[Drool quietly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>[Ponder your place in the world.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Hmmm... maybe it has no effect on you. Who would have guessed?"
+
+Lantry replaces his vials in his bandoliers and turns his attention to writing notes on his sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"I'd say it's working. Sit and enjoy that for a bit. It'll wear off soon."
+
+Lantry replaces his vials in his bandoliers and turns his attention to writing notes on his sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"And now you know why I have this awful habit of chewing on the business end of my remex."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>"Feel anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>"Did you know that, legally speaking, my word is the same as [url=glossary:tunon]Tunon[/url]'s word unless the Archon contradicts my word as a Fatebinder? Rhogalus says the legal term for that is Proxy Decisis. Calio says the legal term is 'fuck you, I'm the law.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>"What is [url=glossary:kyros]Kyros[/url]' problem? Can't get off your damn throne and actually visit your subjects? How do we know [url=glossary:kyros]Kyros[/url] isn't already dead? Or it's like a title that gets handed off to mother-to-son. I spend three years slogging through the Tiers for this ass and you know what - I don't REALLY know if [url=glossary:kyros]Kyros[/url] exists!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>"You've never known death until you stare the Bane in their empty holes for eyes. You think you've known hunger until it's torn at your flesh, begging to be sated on your blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"On second thought, I shouldn't be poisoning your young mind. That should wear off in just a moment."
+
+Lantry replaces his vials in his bandoliers and turns his attention to writing notes on his sleeve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Bowing his head in shame, Lantry falls silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"That's enough, let's be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"You mentioned raising birds earlier, think you'll go back to doing that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"At some point yes - good birds are needed to keep the missives moving through the Tiers. I set all my best birds to flight before the [url=glossary:edict]Edict[/url] - Tern of Phrase, Constant Caw, and the rest - they're out there somewhere and maybe when this is over I'll summon them back and start a new dovecote."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>"Outwitted, you say? I'll have you know the [url=glossary:disfavored]Disfavored[/url] boast the most capable strategists of [url=glossary:kyros]Kyros[/url]' armies!"
+
+"If we're outwitted, it's because the motives and tactics of our enemies are too brainless for any rational soldier to grasp!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"It's easy for Lantry to criticize a General for being outwitted. How many battles has he led?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"Ashe lent me his best Stone Shield in a time of war. His loss - am I right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"If he's such a great General, how'd he get in a pissing match with a mob of miscreants?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Truer words have never been spoken. It's impossible to judge [url=glossary:graven ashe]Graven Ashe[/url] until you've stood in his boots and endured the burden of leadership. Even we, his followers, fall short of comprehending his magnificence." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"A kind sentiment, but hardly one that proves my point. If you're trying to shield the scholar with empty compliments, you're wasting everyone's time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] pisses with no one. While others expose their flaccid manhood, [url=glossary:graven ashe]Graven Ashe[/url] rears back his hammer to strike them down. You had best remember that before you underestimate him again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"Your fatalism does you credit, scholar. Doesn't it feel good to be on the winning side for a change?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>"We long held to the fantasy that someone would rally to our cause, but we assumed it would be our neighbors and cousins that rescued us from extinction - I'd never have guessed salvation would come from the enemy's court."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>"Then he's truly lucky. I can't remember a moment when I wasn't plagued by this power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>"My life isn't a performance for your amusement, [url=glossary:sage]Sage[/url]. If you want to write about something, make your own miracles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"You should be flattered that Lantry finds you so unique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>"Don't badger the young lady with too many questions. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"Your power will attract interest - get used to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>"Flattered at the attentions of an old man who seems to fancy a little girl? If I wanted that kind of attention, I would have stayed with Nerat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>"Oh well... I wouldn't, I mean. Perhaps we'll talk in detail when things are less hectic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>"If I see you anywhere near me, [url=glossary:sage]Sage[/url] - if I so much as hear a single scratch of your quill on paper - I will give you something quite vivid to write about. If your hands survive it, that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"I may have to accept it, but that doesn't mean I have to like it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>"Worthless peasants who use borrowed power to expand the realm of an undeserving monster. I won't be happy until the whole group is obliterated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"Ancestors of Beastwomen roamed lands many seasons before Oldwalls grew tall. Stories passed through mystic blood tell of time with no walls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>"I trust the scholar with the written records."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>"I think such questions will remain unanswerable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>"So quick to dismiss the Beastmen histories? Not very academic of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>"Well how can we take these claims seriously when there's no written testimony or archival evidence! Anyone can CLAIM to have built the Oldwalls and yell 'prove me wrong' with all their might. Bah, I don't have time to explain scholastic inquiry to you all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>"Human words cannot be lies if carved in rotted-tree books? Tribes cannot remember birth of Tiers-lands? Why? Alpha should listen to pack [url=glossary:bolverk]Bolverk[/url], not lying ink-mystic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"Humans will think what humans want. Are worse than first-season cubs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"Are not so different from humans called soldiers. Do such humans also not wake to thoughts of killing and rutting with each newborn sun?"
+
+She grunts and bristles, rising higher on her haunches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"Oh, not saying all Beastmen are stupid, I'm just saying I've encountered numerous Beasts that seem wanting for smarts and initiative. Maybe it's how they're raised or the brood that raises them..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>"You should stop talking before she guts you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>[Raise your voice to Lantry.] "Are you daft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>"Fatebinder is tough Alpha. Keeps pack males properly obedient, yep-yep."
+
+She chuffs, pleased and amused with your show of discipline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>"Before she-? Oh yes, um... forget what I said, too much ink the blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>"Prey is often surprised by cunning of hunter. Can see in eyes, in moment of death. But Beastwoman is not hunting humans in pack... Or maybe Beastwoman is."
+
+She flicks her claws, settling Lantry with a dark, desirous stare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>"Why yes... point taken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"We should consider ourselves lucky to have her on our side, with her weapons usually pointed away from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"She has her uses, as does any thug or brigand, I just hope you have some means of keeping her in control the day she thinks herself strong enough to take us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"This supports my hypothesis that her power manifests by the actual sound of her voice and less the particulars the words chosen. Fascinating..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"Like a double-edged sword?! Why is that used as a simile for something that can hurt you when you use it? You don't actually hit your enemy, then yourself, then hit your enemy, then yourself... unless you're an idiot. Sure hope that saying doesn't catch on for the ages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"I must ask... did you help the oathbreakers to suit your own plans and whims, or do you genuinely wish to protect them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"This civil war is an opportunity to bury both of the Archons - they've signed their own death warrants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"By striking at each other, the Archons have broken [url=glossary:kyros]Kyros[/url]' Peace - guess that means you can legally do whatever's needed to bring them to justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"The Archons can have their little squabble. With any luck, they'll destroy each other and do us all a favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"Think of it this way, you took control of [url=glossary:vendrien's well]Vendrien's Well[/url], angered the Archons, and [url=glossary:kyros]Kyros[/url] hasn't killed you yet. Given how the Overlord works, I'd say your continued existence is an argument that you have [url=glossary:kyros]Kyros[/url]' tacit approval."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>"Perhaps, for the good of the Tiers and the whole of Terratus, someone should help make sure neither Archon survives? While they're focused on each other, you could instigate all manner of chaos and bloodshed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"The oldest is, I think, Golbraith and the [url=glossary:edict]Edict[/url] of Sorrows, and that tale dates back to around the year 110. Aside from you, the most recent was the [url=glossary:edict]Edict[/url] of Twisting Grasses, back in 380."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>"Why would you liken my actions to those of [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"The Archon of Stone was said to be cavorting with the locals and suggesting that [url=glossary:kyros]Kyros[/url]' claim to the Tiers is invalid. Of course, the 'locals' in question were the Beastman tribes, not regular folk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Not saying you're doing exactly what [url=glossary:cairn]Cairn[/url] did, just worried someone will infer that you're up to something treasonous and need some preemptive justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>"Their past crimes against [url=glossary:kyros]Kyros[/url] are a slight concern, but it's the Overlord they hate, not me... not yet, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>"Then for the record, your Overlord can go felate a whale for all I care, but you, Fatebinder, will have my service. We're alive because of you, and I take such debts seriously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>"For so long as it suits my purposes, I will ally with the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"For so long as it suits my purposes, I will work with the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>"There are other Spires, and I've heard of notable figures trying to build monuments atop or astride the Spires, but nothing I've read matches the mystical connection you've made with the Spire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"Do you think the Spires are connected to [url=glossary:kyros]Kyros[/url] in some fashion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>"Are there stories of 'awakened' Spires elsewhere in Terratus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>"If you're asking if [url=glossary:kyros]Kyros[/url] built them or controls them... no, they predate all mention of [url=glossary:kyros]Kyros[/url] and I'm sure if [url=glossary:kyros]Kyros[/url] COULD control the other Spires, that fact would be shamelessly flaunted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"But it occurs to me that... perhaps [url=glossary:kyros]Kyros[/url] didn't have a connection but does now, thanks to your actions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"I am of noble birth, perhaps the Spire simply yields to those meant to rule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"Well if I had to guess, it seems more likely the Spire was responding to your noble virtues - your wisdom, your conviction, your courage - and not just the mere accident of your birth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>"What's that you say, buxom nubile lasses with an interest in old men who know history? You need a definitive tractatus on the trials and tribulations of the Archon of the Tiers? Well you're in luck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"Now if you are right, that implies the Overlord has no qualms silencing and murdering those who pose a threat... in your case, at least my written record of you might survive - see, I'm being optimistic!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>"As you could likely guess, Pox holds mastery over illness, infection, and disease. If [url=glossary:kyros]Kyros[/url] is sending her, it means the Overlord's mercy is exhausted, for such magic won't spare those trying to surrender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>"Right... fine... point taken."
+
+Lantry holds his pen in his mouth as he tucks the sheaf of parchment back into his panoply of pouches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>"One time, in the pit, my jaw was busted, so I couldn't close it properly. Then I had to bash a man's brains in, his skull and brains got in my mouth. So always close your mouth when you crush someone's head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>"Beastmen can smell water - plain old clean water - from leagues away. Did you know that? Course you didn't. Cultured folk never talk to the help, now do you? Die in a fire. Oh wait, you survived one already..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>"Just random thoughts..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>"Sounds about right. I had whole tomes of random thoughts written on cerulean. Perhaps it's for the best such writings were lost to the [url=glossary:edict]Edict[/url] of Fire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>[Remain silent.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>"So when they sold you, how much were you worth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>"On second thought, I don't much care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>"That's a relief, as I hate talking about myself. Moving on..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>"Any other family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"Irrelevant. If they exist, they are as strangers. Family ties are severed when joining with the Sages... at least in principle, the School has had its share of favoritism for blood relatives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>"And since then, I've spent a great deal of time in field study... which I suppose readied me for life after the fall of the [url=glossary:vellum citadel]Vellum Citadel[/url]. Well... as much as anything could ready one for the strangeness of these days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>"Three bronze rings. Or so I remember it... not that the sum is burned into my mind or anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>"I think you're talking about things you don't understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>"Well I'm... just speaking from a place of conjecture is all."
+
+He clears his throat and lowers his gaze, nervously thumbing at his scroll cases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>"Occulted Jade, Archon of Tides never bowed to [url=glossary:kyros]Kyros[/url], and it's said she survived the assassins sent to silence her. It makes her flight from [url=glossary:kyros]Kyros[/url] before the war all the more troubling... we knew her as this symbol of strength, but when threatened, her weaker nature won."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>"When we write biographies of the Archons, we often refer to them as 'exarchs' in their formative years before stepping into their prime. But officially, [url=glossary:kyros]Kyros[/url] is supposed to grant all titles of Archon, it's quite the faux pas to self-appellate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>"Exactly why Jade insisted on calling herself ARCHON of Tides. She didn't need [url=glossary:kyros]Kyros[/url]' approval to wear the title she deserves, and I know she loved the fact that doing so must have annoyed [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>"Really? Fascinating... so in some, it really is a lifelong quality. Well... if it were easy to make sense of these things, it wouldn't be academic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>"Scholars don't have a good word for what Archons DO when they cast magic. Couldn't tell you how [url=glossary:graven ashe]Graven Ashe[/url] 'casts' his protection over his soldiers, nor would I know how [url=glossary:bleden mark]Bleden Mark[/url] consciously decides to move through a shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>"But when us mere mages want to cast a spell, we do so by signing the Sigil of an Archon that previously discovered the magical phenomenon in question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>"As for the Healing magic, many of us modern Sages study this a great deal. The School has a shoddy reputation among the common folk, I figure if they knew us as healers and caregivers, maybe we start to change opinions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>"Healing, now that's a noble craft to study."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>"So... you study magic to spy on people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>"They didn't teach you to conjure lightning or something fun? Sounds boring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>"True, but given how accident-prone I can be, I think the person that benefits most from my magic is me. But certainly, the most gratifying spells I know are the ones that ease pain and suffering - they make me feel slightly useful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>"You call it spying, I call it studying a subject without inducing causative elements. But I suppose yes, my magic is useful for... doing the stealthy sorts of things one expects a spy to do. Way to make me sound so tawdry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>"Yes... well... I suppose boring attracts fewer enemies than dangerous. The way I see it, we've already invented enough ways to kill each other without magic, why bother?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>"As for the Healing magic, many of us modern Sages study this a great deal. The School has a shoddy reputation among the common folk, I figure if they knew us as healers and caregivers, maybe we start to change opinions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>"There are Spires all over Terratus, though I don't know the count, maybe forty or so? Five of them are in the Tiers, and generally, the Spires follow the Oldwalls - often occurring at junctions in the old masonry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>"The Mountain Spire is a notable exception - the other Spires in the Tiers connect to the Oldwalls, but the Mountain Spire is just free standing - a sore thumb in the middle of the Tiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>"Do you know who built them, or why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>"What sorts of things have you seen in the Oldwalls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] forbids exploration of the Oldwalls. Did the Tiersmen have similar laws?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>"In typical [url=glossary:younger realms]Younger Realms[/url] fashion, entering the Oldwalls was never illegal, but plundering them was - the logic being, that which rests in the Oldwalls belongs to your local ruler, not you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>"We can only seem to agree THAT they were built, there's no consensus as to the who of it. We generally use 'the Old Realms' or 'Older Realms' when describing the folk that must have done all this construction ages ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>"Aside from the terrifying Bane? Well, every section of the Oldwalls has its own jaw-dropping architecture. I've seen bridges that move when someone is near, mystical barriers that must have been standing for eons..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>"And I've seen remains... so many remains... a lot of them Sages from centuries past, or hapless drifters that must have been desperate for shelter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>"What fascinates me most are the symbols found on the interior architecture. I can't help but think if we shared notes with other Oldwalls explorers, we might someday decipher the meanings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>"That's also where the Young Realms got their name, indirectly. Azure, Stalwart, and all them are older than you and I, but compared to the Oldwalls, they're babies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>"As for the why... that's anybody's guess. I've always assumed it's an ancient road and aqueduct network. If you just needed to fence off your neighbors, you wouldn't have such elaborate, expansive masonry on the inside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>"The noble houses made a point of buying up anything that came out of the Oldwalls. Plenty of ancient stuff in there, but sometimes, you find stuff that's just a generation old - left by the last fool trying to search for treasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>"Any idea as to their purpose?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>"Any idea why magic works better near the Spires?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>"Any idea who built that structure on top of the Mountain Spire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>"Lightning rod? Perch from which to survey the lands below? Signposts for a society of folks that flew like birds? On this matter, I have only conjecture and flights of fancy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>"The best hypothesis I've heard is that they were all built at the sites of major settlements now long-gone. So maybe their haphazard placement is a hint about how the maps of old might have looked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>"The Sages liken the phenomenon to heat radiating from a candle - the air is just 'thicker' with magic the closer you get to the Spire. It can be deadly, trying to work spells close to a Spire if you aren't wise to the effect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>"I'd be famous if I could tell you WHY this happened. I've always assumed they are the magical equivalent of river sources. Just as water endlessly flows from certain special sites, so too are there places where magic 'pours' endlessly from a natural source."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>"Know any sculptors with superhuman strength and the power to fly? If not... I'm out of ideas. Structurally speaking, it looks vaguely, and I do mean vaguely, similar to the sculptures in the old Academy of Tides... but if that were the case, I think we'd know more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>"I also noticed the resemblance, but I can assure you, if it WAS built by an old Tidecaster, it was the best kept secret in a School that prided itself on showmanship and boasting about your exploits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>"Oh, so you studied the art of being insufferable, and here I thought it was a natural gift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>"The symbols on the structure certainly look like they could be related to the symbols found in the Oldwalls, so I'm all but certain that structure was built by the same craftsman that built the Spire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>"If you've been through the Oldwalls, you must be familiar with the Bane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>"More so than is healthy! I've seen one rip a young scribe in half with its nebulous talons, and I've run away from more than my fair share of angry Bane. That sounds redundant - they all seem angry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>"Heard all sorts of theories on the Bane. Heard they were dead mages, the nightmares of Archons come to life - one [url=glossary:sage]Sage[/url] believes they're [url=glossary:kyros]Kyros[/url]' children. Guess if you have enough ink and parchment, you can crap out any dumb idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>"I profess to know very little and stick to what can be observed. They appear cunning, but lacking language, and they have animal-like qualities, but they seem drawn only to magic and commotion, food and water seem irrelevant to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>"Yes mistress Sirin, understood."
+
+His right hand, once moving in a flurry of dictation, comes to sudden halt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>[Insufficient [url=glossary:reputation]Reputation[/url].] "Oh... oh no, no no no - I'm trying to observe you, corroding your mind is NOT part of the plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>"Consider it a lesson. Cautionary tale about wishing for things. Fatherly moment. Any of those work for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>"If it's really going to bother you, forget it - I won't bring it up again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>The Proclamation of Fire still lingers. No matter where you wake up, it still smells like a campfire, only Kills-in-Shadows seems to notice, and even then, it's always as a passing trace. The cups you hold stay warm, which would be nice if you were back home where it was cold but in this miserable heat, a chilled beverage is rare enough. You were used - a living conduit for magic that lingers for a somewhat conditional forever - and the tissues of your body still crisp at the edges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>The Proclamation of Fire still lingers. No matter where you wake up, it still smells like a campfire, nobody seems to notice. The cups you hold stay warm, which would be nice if you were back home where it was cold but in this miserable heat, a chilled beverage is rare enough. You were used - a living conduit for magic that lingers for a somewhat conditional forever - and the tissues of your body still crisp at the edges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>It's not your hygiene, there is sand sweat, flecks of clay in every blood stain and clot, and there's still the sandy aftertaste of proclaiming [url=glossary:edict]Edict[/url] of Stone in your mouth, you feel when your tongue hits you back molar, you're pretty sure it's turned into some sort of rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>There's the slightest shock at the touch of every metal, a tiny crackle and the smell of the storms. The nice part is the breeze you feel every now and then, the bad part is hearing thunder when you're trying to sleep. You were used, an instrument of the Overlord, the final gesture of a powerful spell that lingers in your hair, sleep, and quiet moments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>[Think back.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>The first time you signed after proclaiming the [url=glossary:edict]Edict[/url] of Stone, the magic fled back into your fingers, thank [url=glossary:kyros]Kyros[/url] no one was watching... except for probably [url=glossary:bleden mark]Bleden Mark[/url], the one who should have slain [url=glossary:cairn]Cairn[/url], but instead, they used you, and you're slowly becoming mineral along the margins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>"Houses Vendrien, Pelox, and Tarkis all had reclusive estates out here back before the war. I think that's why the [url=glossary:scarlet chorus]Scarlet Chorus[/url] had good recruiting success first time through - one thing to die for your village, another to die for your master's favorite elk-ridden forest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>"I like that I make you this agitated. Considering all the things that don't seem to bother you in the slightest, I'm not going to lie, I'm kind of getting off on how much power you're giving me here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>"Ugh, and then there's your coquettish act whenever someone calls you on your teeth. I'll be the one ready to tangle when, not if, you decide to pounce!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>[Add Lantry to the party.] "Gather your things, you're coming with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>"I've uh... I'll uh... I can sober up on the road. Ready to go."
+
+Lantry scratches his eyebrow, leaving streaks of sepia ink in his white hairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>"As you command."
+
+Lantry bows swiftly, and quickly assembles his belongings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>"But it would be a mistake to think them stupid. Ask any tamer and they'll tell you some stories of their cunning. The Beasts are wanting in patience and diplomacy, but they are a clever bunch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>"The crops all withered, the cities emptied... when the Princes of Ikenar lost their heads, the sun finally returned. I've heard it known as both the [url=glossary:edict]Edict[/url] of Night and of Shadow, not like [url=glossary:kyros]Kyros[/url] writes to us Chroniclers to set the record straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>"In many ways, the end of the conquest is largely an abstraction - eventually the Tiers will be those who have joined the Chorus and the corpses of those who refused... best to be on the living side of that future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Stone has crumpled the landscape - the once endless and fertile plains are now jagged karst. Want to wager it'll have another name in our lifetimes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>"She noted that Beastmen show fluid loyalty to new matrons - they adapt well to changing leaders, but they never change the relatively simple but strict hierarchical model."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>"But all that's a bit... generous. It's no secret that the Sages were far more happy to add knowledge than to share it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>"Since the [url=glossary:edict]Edict[/url] was directed at the traitorous Archon of Stone - it would seem the upheaval of Azure was a secondary consequence... though I imagine little of what [url=glossary:kyros]Kyros[/url] does is unintentional."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>"To proclaim an [url=glossary:edict]Edict[/url] is to be the tangible face of massive ruination. We all know the name [url=glossary:kyros]Kyros[/url] but who even knows his eye color? You on the other hand... you we can all remember in our minds with relative clarity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>"Antelope have hooves for fleeing. Beastwomen have claws for killing. Antelope don't eat meat. Are spooked easily. Are large but helpless. Lumber but lack reason. Are prey. Silverback tribe hunted antelope extinct."
+
+She sniffs and flicks the [url=glossary:sage]Sage[/url] a pointed stare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>"Old ink mystic tells many strange, stupid tales. Thinks to know everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>"Mantaborn of Stalwart-seas are much tougher and more ruthless than mewling stone whelps. Shadowhunters from darkness, too, were better, smarter killers. Are dead but can be birthed anew. Once [url=glossary:disfavored]Disfavored[/url] have been hunted extinct, Kills-in-Shadow needs only rut good mates for best tribe to thrive again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>"Human who is elder, bitter-smelling like coal-ink has many opinions of Beastwomen. But does not want to know Beastwoman's opinion of humans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>[Conquest] "We both know you were part of the Chorus spies in the Citadel... what's your real story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>Lantry strokes his beard, leaving flecks of sepia among his white whiskers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>"Thank you for telling me. Now, no more secrets, understood?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>"I will endeavor to earn your trust as best I can. Sorry to have given you reason for doubt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>"Sirin, don't get him started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>[Listen patiently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>"Cooking, you see, is like magic. Instead of sigil and shapes, think of them as your basic food solids and more ethereal spices..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>"...and so I told him 'no you fool, you can't try to form two shapes into one spell, round and straight don't make a corkscrew,' what a novice mistake..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>"... and so I argued it seemed more likely the Scourges are trying to eat us, not mate with us. Wait, how'd I get on this topic?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>"Yeah... serves me right for asking..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>"No time like the present."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>"Perhaps another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>Rummaging through his satchels, the [url=glossary:sage]Sage[/url] produces a long quill and a crumpled piece of parchment. With seven quick strokes of the quill, he inks a pattern on the page.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>"We'll start with first principles. When mending wounds and easing pain, we invoke the magic of the Orphan Midwife, Archon of Rebirth. By invoking her sigil, we channel her mastery, however briefly, through our hands. Now, trace the sigil, following the lines in the order I sketched them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>[Follow his instructions.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>"Since this isn't your first cantrip, I'll move a little quickly, but I think you can keep up."
+
+Lantry walks you through countless repetitions of the signing the mystic sigil. For hours, you wave your hand in the air to no effect, until at last, you sign the pattern in the air and feel a rush of power through your veins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>"... and so if you need to heal pain as opposed to purge an infection, you'd move your hand like so. But you know... that's enough for now and I think the rest you can figure out on your own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>[Follow along.] "Trust me, I'm a natural with this sort of thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>"Youth and confidence - where you find one, you often find the other... and let me tell you one thing I know for sure - hubris and magic don't mix. Still, if you're eager to learn, that's music to my ears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>"What can you tell me about this Archon of Rebirth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>"Didn't realize you gave a care about your history. Well, the Orphan Midwife was born in 160, bowed to [url=glossary:kyros]Kyros[/url] in 201. They say where she walked, plants would sprout, the sick would grow vigorous... she'd also send most folks into fits of rage and animals into heat - she sounds like quite a riot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>"We know her magic by way of one of her first disciples, who migrated to the Tiers in 222 to spread her wisdom - an act that happened to be illegal under [url=glossary:kyros]Kyros[/url]' law. For that and a host of other transgressions, the Orphan Midwife has been imprisoned for over a century, or so the story goes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>"On second thought, can we do this later?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>"Well... I mean... if such information had fallen into our hands generations ago, we'd be fools not to-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>"Not to suckle off that ill-gotten tit of knowledge? Filthy word whores of the worst degree, the [url=glossary:edict]Edict[/url] of Fire wasn't half of what you deserved!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>"Your capacity to hold a grudge is not endearing. Stow your complaints."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>"I can see this conversation going to very constructive places. Both of you, drop it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>"Guess the centuries of theft are coming back to bite you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>"But in truth, we have amassed a great wealth of knowledge. Before the [url=glossary:vellum citadel]Vellum Citadel[/url] fell, any given subject of magic had at least one [url=glossary:sage]Sage[/url] practicing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>"I see, better that we forgive the thieves... that certainly won't set a bad example."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>"Well... it's not like I personally stole from your School! And nor did I get to study the Tidecaster scrolls... not for lack of trying, I'll admit..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>"Just stop. The less you talk, the less you'll suffer when I finally kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>[url=lore:lantry_red1]The wind blows blue[/url], across your body as [url=lore:lantry_red2]your skin tingles with triangular, pointed sensation.[/url]
+
+Lantry chuckles, the [url=lore:lantry_red3]hearty guffaw sounding green, leathery, and mildewy to yours ears[/url].
+
+Your fingers [url=lore:lantry_red4]itch with a salty, rusty flavors - tasting at the air, feeling like ten tongues.[/url] Cupping your hand to your forehead, [url=lore:lantry_red5]your fingers are deafened by the smell of your voice, boring through the muscles of your hand, deep into the bone.[/url]
+
+Seconds later, the sensation passes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>"Oh I think after that last bout, you've probably had more than enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>"How kind of you to understand. If I were to melt your brain with amateur alchemy, I'd be doing history a disservice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>"But fire is now but one of their tricks. Their real trick is their magic of passion, frenzy, and fear. Such magic is based on the sigil of Sirin, Archon of Song."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>"Oh I think I've managed to bore even me. I'm all out of lectures for the time being."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>"Spare me your blather."
+
+Verse pauses to read Lantry's body language.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>"Tell me about Wisps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>"Wisps are largely inconsequential by themselves - hardly the menace most associate with the Bane. But these glowing little creatures often follow in the wake of Scourges or other, larger Bane - and that can make them a real danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>"Where were we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>"Where were we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>"Where were we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>[Conquest] "I thought I had you all turned over to the [url=glossary:disfavored]Disfavored[/url] - how did you wind up with the Chorus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>"Oh I spent a few weeks with the [url=glossary:disfavored]Disfavored[/url], but I used a concealment spell and slunk away in short order. I might have been better off in that cage, as I wound up in the Chorus camp, thinking I'd be eaten by the Archon of Secrets!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>"Well it was by your order that we were taken to the [url=glossary:disfavored]Disfavored[/url] camp... and yeah, not denying it, I was with that group of spies. I wouldn't say we were loyal to Nerat, just paid by him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>"And I might have lingered in a [url=glossary:disfavored]Disfavored[/url] cell had you not had us all released to Nerat! I know you didn't intend to help me directly, but I'm grateful all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>Stroking his beard to a point, Lantry returns your stare in silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

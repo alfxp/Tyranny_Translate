@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critpathspine\cps_qst_act2_archonvision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Stirring Visions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Interact with the Spire device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find a way to the [url=glossary:stone sea]Stone Sea[/url] Spires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find a way to the [url=glossary:blade grave]Blade Grave[/url] Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Find a way to the [url=glossary:lethian's crossing]Lethian's Crossing[/url] Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Enter the Spire at Howling Rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Enter the Spire near the Oldwalls Breach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Enter the Spire at Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Find a way to ascend to the top of the Dawning Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Find a way to ascend to the top of the Ocean Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Find a way to ascend to the top of the Sunset Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Investigate the Spires</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Enter the Spire at Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Find a way to ascend to the top of the Aurora Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Examine the mysterious rubbing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Determine the significance of the rubbing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Whatever you did in [url=glossary:ascension hall]Ascension Hall[/url] in [url=glossary:vendrien's well]Vendrien's Well[/url] has given you the power to interact with the Spire. Before you ascended the Spire, you had a vision when the [url=glossary:edict]Edict[/url] broke. Understanding this vision might help you better grasp this new power you have acquired.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The teleporter that brought you to the top of the Mountain Spire at [url=glossary:vendrien's well]Vendrien's Well[/url] has shut off and left you stranded atop the pillar. Perhaps the strange device at its center might hold the key to activating it once again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>You have gained access to the [url=glossary:stone sea]Stone Sea[/url]. The region is home to two of the Tiers' mysterious Spires, though difficult terrain makes navigation difficult. Find a way to reach either of these Spires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>You have gained access to the [url=glossary:blade grave]Blade Grave[/url]. The Spire looms in the distance, but rises out from the impenetrable Oldwalls to the north. Search for a way to reach the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>You have gained access to Haven. The region's Spire is attached to the Oldwalls at the [url=glossary:lethian's crossing]Lethian's Crossing[/url] settlement. Travel there and find a way to gain access to the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>You have arrived at Howling Rock and have located the Dawning Spire, which is surrounded by a [url=glossary:disfavored]Disfavored[/url] fort. Find a way to enter the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>You have arrived at the Oldwalls Breach, which appears to offer you an opportunity to access the [url=glossary:blade grave]Blade Grave[/url] Spire. Enter the Oldwalls and find a way to reach the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>You have arrived at Twin Rivers, which has an entrance into the Oldwalls that connect with [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Enter the Oldwalls to find a way to reach the Spire at [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>When you arrived in the base of the Spire, you were met with the same runes and teleportation device you saw at the bottom of the Mountain Spire in [url=glossary:ascension hall]Ascension Hall[/url]. However, everything seems inert. 
+
+You will need to figure out how to activate the teleportation device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>When you arrived in the base of the Spire, you were met with the same runes and teleportation device you saw at the bottom of the Mountain Spire in [url=glossary:ascension hall]Ascension Hall[/url]. However, everything seems inert. 
+
+You will need to figure out how to activate the teleportation device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>When you arrived in the base of the Spire, you were met with the same runes and teleportation device you saw at the bottom of the Mountain Spire in [url=glossary:ascension hall]Ascension Hall[/url]. However, everything seems inert. 
+
+You will need to figure out how to activate the teleportation device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>You had a vision of the Spires scattered across the Tiers and could feel the connection between them and the Spire you claimed at [url=glossary:vendrien's well]Vendrien's Well[/url]. Gather more information about these mysterious structures and seek them out wherever possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>You have arrived at the Oldwalls at Gulfglow, home to one of the [url=glossary:stone sea]Stone Sea[/url] Spires. Find a way to enter the Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>When you arrived in the base of the Spire, you were met with the same runes and teleportation device you saw at the bottom of the Mountain Spire in [url=glossary:ascension hall]Ascension Hall[/url]. However, everything seems inert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>While exploring you acquired a charcol rubbing. Perhaps examining the rubbing further might help you determine its importance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>After examining the rubbing you found that it was only a partial image of a symbol that is reminiscent of the one you saw in [url=glossary:ascension hall]Ascension Hall[/url] at [url=glossary:vendrien's well]Vendrien's Well[/url]. Continue your search to determine what its signficance might be, or search for more of the image.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>You have learned that the Spire in the [url=glossary:blade grave]Blade Grave[/url] is located inside the Oldwalls Breach. Now it is just a question of how to navigate through the storm to get there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The passageway leading to the Sunset Spire has been temporarily sealed due to recent Bane sightings in the Oldwalls. You cannot reach the Spire at this time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>You have learned that Dawning Spire is located in Howling Rock where [url=glossary:cairn]Cairn[/url] fell.
+
+You will need to find a way to Howling Rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>You have learned that one of the Spires is located down in Gulfglow. Ask around for clues as to how to get there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>You appear to have uncovered enough of the symbol to see the completed image. Examine it to see what it looks like.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Eldian has re-opened the passageway leading to the Sunet Spire, which may be accessed by entering the Oldwalls at [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You claimed the Ocean Spire in the [url=glossary:blade grave]Blade Grave[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You claimed the Dawning Spire at Howling Rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You claimed the Aurora Spire in Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You claimed the Sunset Spire in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_burninglibrary\03_qst_language_of_the_ancients</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Language of the Ancients</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find and Record Sigils Located in the Twin Rivers Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Acalia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Speak to Hieronymus near the Breach in the [url=glossary:blade grave]Blade Grave[/url] Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Acalia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Acalia has been studying the research of Hieronymus, a fellow [url=glossary:sage]Sage[/url], hoping to understand more about the magic of the Oldwalls. She needs you to retrieve information from the Oldwalls to further her research.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Acalia asked you to record specific writings found in the Twin Rivers Oldwalls near [url=glossary:lethian's crossing]Lethian's Crossing[/url]. She needs copies of sigils that may be found decorating "altars" scattered throughout the interior to advance her research.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>You've recovered a sufficient amount of the writing found within the Oldwalls. Acalia is waiting to research these new findings - return to her in Effigy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Acalia needs information that only Hieronymus would know. He was last seen at the Oldwalls in the [url=glossary:blade grave]Blade Grave[/url] region. Once you retrieve the information from Hieronymus, return it to Acalia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>You've retrieved the stones for Hieronymus and got a copy of his notes for Acalia. Travel back to Effigy in the [url=glossary:burning library]Burning Library[/url] and give her the data.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Now that you're inside the Oldwalls, find the sigils Acalia sent you to find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Hieronymus isn't finished with his research yet and has asked for your help finding the Stones of Elucidation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Acalia has received Hieronymus' data and can now complete her research.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Acalia has died, so her research will forever go unfinished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You gave Acalia all the information she needed to continue her research.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Acalia and the Sages fled following the destruction of the [url=glossary:burning library]Burning Library[/url], making it impossible to assist her with her research.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

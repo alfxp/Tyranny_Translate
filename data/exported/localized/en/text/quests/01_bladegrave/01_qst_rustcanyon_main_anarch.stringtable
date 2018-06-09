@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_main_anarch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Relic Hunter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Locate the [url=glossary:unbroken]Unbroken[/url] Commander at Rust Canyons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Raze the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Defend the [url=glossary:unbroken]Unbroken[/url] Camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Clear a path for the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Pursue Elia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Defeat Teodor and his soldiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Your hunt for Mattias, and his knowledge of the artifact Dauntless, continues at Rust Canyons. You have heard that the rebel leader dispatched [url=glossary:unbroken]Unbroken[/url] soldiers, under the command of Elia, to the area. Find Elia and see if she knows Mattias' whereabouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In order to locate the Dauntless, you will need to find a leader who is familiar with the artifact. Rust Canyons is where many [url=glossary:unbroken]Unbroken[/url] soldier's have been dispatched, one of their Commanders should know more about the blade. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>You have declared hostilities with the [url=glossary:unbroken]Unbroken[/url], leaving no option other than a direct assault upon their camp. Breach the camp in Rust Canyon and defeat Elia and all rebel soldiers inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Elia needs your help repulsing an attack from [url=glossary:disfavored]Disfavored[/url] forces. Help her defend the [url=glossary:unbroken]Unbroken[/url] camp. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] attack has been repulsed, but more are on their way. Defeat the remaining soldiers in Rust Canyons to clear a path out for the rebels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Elia and some of her men escaped the camp as it fell, and are attempting to flee Rust Canyons. Follow their path north and prevent them from escaping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Elia has asked you to drive Teodor and his men out of Rust Canyons, whether by force or intimidation, and to rescue her captive men.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>You have killed Teodor's men and freed the [url=glossary:unbroken]Unbroken[/url] captives. Elia will want to hear the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>You managed to enter the camp undetected. Use this to your advantage during the attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Shoot out the winch holding up the ramp to reach the [url=glossary:unbroken]Unbroken[/url] on the overlook.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You helped Elia escape Rust Canyons and learned about Mattias' last known location: Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>You defeated Elia and learned of Mattias' last known location: Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>The Dauntless is the prized heirloom of the Regents of Stalwart, claiming it should aid in your rise to power and notoriety. [url=glossary:bleden mark]Bleden Mark[/url] suggested you start your search in Rust Canyons where [url=glossary:unbroken]Unbroken[/url] soldiers have begun to amass.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

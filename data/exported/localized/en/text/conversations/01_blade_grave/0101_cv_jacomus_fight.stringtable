@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0101_cv_jacomus_fight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Fatebinder!" Jacomus advances with murderous intensity in his gaze. "I lost soldiers in that attack - good Northerners who won't see their homes again!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] will never forget this... his anger is something only an Archon could comprehend. I hope, for your sake, that you have the decency to die here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He delivers a signal to the rest of his cohort. "Attack the Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"So send their eyes to the North. What do I care?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Is it too late to apologize?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He grimaces. "You have no respect for our values, our mission, or our lives. [url=glossary:tunon]Tunon[/url] was wrong to give you even a scrap of power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"We are the blood of the North, and we never forget a slight against our people! You have transgressed everything we hold dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

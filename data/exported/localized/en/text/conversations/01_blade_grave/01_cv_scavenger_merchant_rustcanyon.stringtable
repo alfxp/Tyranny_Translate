@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_scavenger_merchant_rustcanyon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I thought the [url=glossary:disfavored]Disfavored[/url] would have us in chains by now! It's a good thing you were passing through the area."
+
+She winks and jingles a heavy ring belt. "Of course, nobody just passes through the [url=glossary:blade grave]Blade Grave[/url]. Wherever it is you're headed, you'll need provisions to get where you're going. I've scrounged a few things worth trading..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The trader flashes you a welcome smile. "Hello again. I have wares to sell if you have a mind for trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What are you offering?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Have a look for yourself. No doubt something will spark your interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Is it dangerous working with the [url=glossary:unbroken]Unbroken[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Only if they aren't well-equipped." She smirks. "I have plenty of reasons for making sure they have access to only the finest weapons and supplies - and that extends to their allies as well." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

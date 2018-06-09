@@ -1,0 +1,648 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>game\factions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>128</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Desconhecido</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The [url=glossary:disfavored]Disfavored[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Neutro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Respeitado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Temido</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Misturado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Lantry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Versículo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Eb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Kills-in-Shadow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sirin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Guilda dos Sábios</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[url=glossary:bronze brotherhood]Bronze Brotherhood[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[url=glossary:bleden mark]Bleden Mark[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Príncipes no exílio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Guilda de Cutters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Favor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ira</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Previsão</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Impulsividade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Lei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Caos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Destemido</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[url=glossary:stonestalker]Stonestalker[/url] Tribe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[url=glossary:lethians crossing]Lethians Crossing[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[url=glossary:stone sea]Stone Sea[/url] Villagers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The [url=glossary:bastard city]Bastard City[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Insígnias constantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Crista das ondas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Elmo do Primeiro Regente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Magebane Helm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>O escudo azul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Staff of Hours</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>O rosto do julgamento</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>O pacificador</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>O grito final</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>A ligação das sombras</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>O Gravebow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>O Sunlance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Respeito</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Tempestade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Arauto da Morte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Snowfang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The Staff of [url=glossary:cairn]Cairn[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Sangue de Corações</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Botas do Nightwalker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>O Baneward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>A placa dos comandantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Vestes dos Hierarcas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Luvas dos Alquimistas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Escalas da Misericórdia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Banner de Ardente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Martelo de Sunder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Bane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Beastmen selvagens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[url=glossary:cairn]Cairn[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Sábios</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Escola de Tinta e Pena</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[url=glossary:sage]Sage[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[url=glossary:bleden mark]Bleden Mark[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Domínio do Apex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Fidelidade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Medo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[url=glossary:crimson spears]Crimson Spears[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[url=glossary:iron guard]Iron Guard[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Renome</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Led by [url=glossary:the voices of nerat]the Voices of Nerat[/url].The largest of [url=glossary:kyros]Kyros[/url] armies in the Tiers.Crescendo em tamanho a cada batalha, eles abraçam as vozes ensinando que todos merecem apenas o que eles podem lutar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url] ironclad elite the [url=glossary:disfavored]Disfavored[/url] follow [url=glossary:graven ashe]Graven Ashe[/url] with unyielding loyalty.Orgulhosos de sua herança, eles só permitem que aqueles com sangue puro do norte se unam a suas legiões.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Before [url=glossary:kyros]Kyros[/url] invasion the [url=glossary:unbroken]Unbroken[/url] Blades were the finest soldiers in the Tiers.[url=glossary:weakened]Weakened[/url] and scattered by [url=glossary:kyros]Kyros[/url] [url=glossary:edict]Edict[/url] they cling to existence in the storm-wracked lands ofthe [url=glossary:blade grave]Blade Grave[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>O sobrevivente e cronista Scholar Lantry é um homem instruído de idade avançada, mas com temperamento jovem. As a [url=glossary:sage]Sage[/url] of the School of Ink and Quill Lantry is broadly educated in arcane and academic matters knowing a wide variety of spells and secrets lost to the common Tiersman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Permanently fused into a suit of armor during [url=glossary:kyros]Kyros[/url] [url=glossary:edict]Edict[/url] of Storms Barik is a lumbering paragon of war.He clings fiercely to his loyalty to [url=glossary:graven ashe]Graven Ashe[/url] and the noblest values of his Northern homeland.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>A Tiersman hardened by conflict Verse elevated in the ranks of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] by killing her superiors sleeping with one eye open and never drinking from the same canteen twice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Alegadamente o último membro da Escola das Marés uma guilda mago especializada em magia da lua e dos mares. A seasoned traveler and arcane scholar prior to the war Eb has devoted her days to fighting [url=glossary:kyros]Kyros[/url] occupation of the Tiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Última dos Caçadores de Sombras, uma tribo de mulher-besta nascida das trevas. Casca implacável e feroz faz qualquer coisa para sobreviver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Archon of Song com o poder de controlar as mentes e emoções de milhares com a sua voz. Sirin was captured by [url=glossary:kyros]Kyros[/url] army as a young girl and forced to serve [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Keepers of arcane knowledge the mages of the [url=glossary:vellum citadel]Vellum Citadel[/url] are all but destroyed after [url=glossary:kyros]Kyros[/url] [url=glossary:edict]Edict[/url] transformed their home into the [url=glossary:burning library]Burning Library[/url].Os poucos que permanecem livres, carecem de propósito e liderança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Archon of Justice and loyal servant of [url=glossary:kyros]Kyros[/url] the Overlord.Leader of the Fatebinders [url=glossary:tunon]Tunon[/url]s powers are feared by other Archons though none will provide details.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Archon of War and leader of [url=glossary:kyros]Kyros[/url] ironbound legions of the [url=glossary:disfavored]Disfavored[/url].Rumor speaks of a magical link between Ashe and his soldiers and that only a mortal blow will keep a [url=glossary:disfavored]Disfavored[/url] from rising to fight again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Archon of Secrets [url=glossary:kyros]Kyros[/url] spymaster and leader of the [url=glossary:scarlet chorus]Scarlet Chorus[/url].Até mesmo seu exército teme o poder das Vozes - e as muitas mentes presas dentro dele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Uma empresa mercenária encontrada predominantemente na região de Haven. Esses ferozes guerreiros idolatram o Maldito como a fonte última de morte e destruição.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Arconte das Sombras. Rumor makes him [url=glossary:kyros]Kyros[/url] deadly assassin though few will willingly speak of him for fear of drawing his gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Ceremonial honor guard of House Vendrien rulers of Apex before [url=glossary:kyros]Kyros[/url] invasion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>The mage-smiths of [url=glossary:kyros]Kyros[/url] Empire they are the only ones who know the secrets of smelting iron from rock or how to imbue magic into weapons and armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Espada lendária empunhada pelo campeão de Stalwart. This relic of a proud kingdom was thought lost when [url=glossary:kyros]Kyros[/url] [url=glossary:edict]Edict[/url] of Storms vanquished the [url=glossary:unbroken]Unbroken[/url]Lâminas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>A única sobrevivente da tribo Beastwoman do Azure. After regaining their freedom during [url=glossary:kyros]Kyros[/url] invasion the [url=glossary:stonestalkers]Stonestalkers[/url] retreated from contact with mankind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>A small trading settlement before [url=glossary:kyros]Kyros[/url] invasion the discovery of iron in the nearby mountains turned [url=glossary:lethians crossing]Lethians Crossing[/url] into a center of commerce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The survivors of [url=glossary:kyros]Kyros[/url] [url=glossary:edict]Edict[/url] cling to life in the [url=glossary:stone sea]Stone Sea[/url] struggling to eke outuma existência sob o peso da magia dos Senhores Supremos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Formado à semelhança do padrão de batalha de Stalwarts, o Steadfast Insignia foi usado por todos os primeiros regentes desde que o reino foi esculpido na pedra das camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Waves Crest is an artifact of the School of Tides a mage guild that was strong in Haven and Apex before being destroyed by [url=glossary:kyros]Kyros[/url] conquest of the Tiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>O elmo cerimonial dos primeiros regentes de Stalwart. Legends say that the [url=glossary:unbroken]Unbroken[/url] Blades could never be defeated while their leader wore this helm into battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Crafted by Zdenya Master of the [url=glossary:forge-bound]Forge-Bound[/url] this iron helm is imbued with magic created to ward against the Bane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Once wielded by the Champion of Azure the shield was captured by Beastmen of the [url=glossary:stonestalker]Stonestalker[/url] tribe during [url=glossary:kyros]Kyros[/url] conquest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>The Staff of Hours was traditionally wielded by the Archivist of the [url=glossary:vellum citadel]Vellum Citadel[/url] keeper of the Silent Archive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>An iron mask worn by [url=glossary:tunon]Tunon[/url] the Adjudicator until his death at your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>The battle mace wielded by [url=glossary:graven ashe]Graven Ashe[/url] as he conquered the Tiers in [url=glossary:kyros]Kyros[/url] name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The two-faced bronze mace wielded by [url=glossary:the voices of nerat]the Voices of Nerat[/url] until his defeat.Os olhos abertos e as bocas gritadas brilham com as brasas das chamas verdes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Worn for centuries by [url=glossary:bleden mark]Bleden Mark[/url] Archon of Shadows the Binding of Shadows have absorbed some of the deadly assassins ability to manipulate darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Perdido nas lendas Oldwalls por Séculos do Gravebow são esparsas. Eles falam de um antigo Arconte que liderou a luta contra o Maldito, levando-os para longe dos assentamentos humanos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Perdida há muito tempo nos Oldwalls, a Sunlance é uma relíquia da Casa Vendrien. Quando o Maldito se libertou e aterrorizou o reino de Haven, uma célebre Rainha do Ápice levou as criaturas caídas de volta a sacrificar sua vida pela causa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Forjado a partir de um ferro atingido por um raio, encontrado no coração de uma tempestade desmoronada, seguimos os Tempestades para onde quer que ele vá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Imbued with [url=glossary:forge-bound]Forge-Bound[/url] magic and obsidian shards taken from the [url=glossary:burning library]Burning Library[/url] legends will speak of Deathbringers power for centuries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Snowfang is imbued by [url=glossary:forge-bound]Forge-Bound[/url] artisans with the intense frost of the Northern winter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Created by the [url=glossary:forge-bound]Forge-Bound[/url] using a piece of Azurelith imbued with the essence of [url=glossary:cairn]Cairn[/url] Archon of Stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] smith who created Hearts Blood understands the lust for pain and death.Empunhar essa lâmina mágica provoca uma sede quase opressiva pela morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Crafted from the hide of Rending-Hound lieutenant of the [url=glossary:scarlet chorus]Scarlet Chorus[/url].Enchanted by [url=glossary:forge-bound]Forge-Bound[/url] magic these boots grants incredible stealth to their wearer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Created by [url=glossary:forge-bound]Forge-Bound[/url] artisans who imbued the shield with the essence of fallen Bane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Created by [url=glossary:forge-bound]Forge-Bound[/url] artisans the design of the bronze plate is inspired by Northern warlords who resisted [url=glossary:kyros]Kyros[/url] dominion for decades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>A departure from the normal craft of the [url=glossary:forge-bound]Forge-Bound[/url] these cloth robes signify the unification of magical knowledge and traditions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Imbued with [url=glossary:forge-bound]Forge-Bound[/url] magic the Alchemists gloves harness the healing energies of the Orphan Midwife Archon of Rebirth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Representing the Fatebinders role in [url=glossary:kyros]Kyros[/url] empire the scales balance twin pans inscribed with JUSTICE and CONFLICT.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Este fragmento da Bandeira da Paz foi usado pelo Primeiro Orador de Ardente. Representa a paz e a unidade das tribos que formaram a grande cidade de Ardente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>The city of Sunder was taken in the year 430 during the [url=glossary:disfavored]Disfavored[/url]s conquest of Stalwart.A maioria acredita que a cidade nunca teria caído se o Martelo de Sunder não tivesse sido perdido há muito tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Regentes de Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

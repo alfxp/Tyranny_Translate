@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\factionquestlines\tunon\fq_tn_cv_heraldnunoval_confrontation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"[Player Name]." His expression is grim. "On [url=glossary:tunon]Tunon[/url]'s orders, I've been spreading word of your treachery throughout the Tiers - you won't have any place left to hide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Not you'll get a chance to hide - [url=glossary:tunon]Tunon[/url] also gave us permission to kill you should we find you. You're not leaving here alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

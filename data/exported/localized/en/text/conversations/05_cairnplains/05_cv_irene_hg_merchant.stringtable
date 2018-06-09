@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_cairnplains\05_cv_irene_hg_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Greetings, kind mister. How can I be of service?"</DefaultText>
+      <FemaleText>"Greetings, fine madame. How can I be of service?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I don't need anything right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Welcome back. Can I interest you in my wares?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What can you tell me about the Spires in the region? I imagine you have dealings with travelers from those areas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Can't say I know much about the Spires themselves. They've always been there, towering - never doing much of anything aside from casting shadows. I do, however, come across some interesting items from round about those parts, time and again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Just last Judges Day, a fellow sold me a charcoal rubbing that was taken from inside one of the Spires. Or so he claimed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Haven't seen him since. He said he was heading to Stone Down. So I can't really ask him questions about it, unfortunately. But it may be worth having a look at."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Greetings, Fatebinder!" She takes a deep bow. "You've done us all a great service by getting the [url=glossary:scarlet chorus]Scarlet Chorus[/url] off our backs. In exchange I've got a special price for you on all my wares!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\tunon\fq_tn_cv_heraldrhogalus_confrontation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>I wont waste too many words on you [Player Name].Youve betrayed [url=glossary:tunon]Tunon[/url] youve betrayed [url=glossary:kyros]Kyros[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Nós dois sabemos como isso tem que acabar. Uma pena - sempre admirei você.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

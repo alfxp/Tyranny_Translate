@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_cyril</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>His eyes squeeze shut as he labors to remember. "Hmm... I'm pretty sure I haven't seen anything like that. Everything they left behind was meant for metalworking, as best as I can tell." He scratches his head and gives you a forced, apologetic smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Truth be told, I haven't lived here for very long, There weren't any knappers in town when I arrived, so they must have left years ago. Maybe the tools you're looking for departed with them? You should speak with Basila - she's been in the Crossing a long time and often had dealings with the [url=glossary:forge-bound]Forge-Bound[/url]. She'd probably remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

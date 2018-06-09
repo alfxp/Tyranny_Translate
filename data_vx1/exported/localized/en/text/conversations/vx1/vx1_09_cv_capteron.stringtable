@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_capteron</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A middle-aged man nods to you, clutching a small apple crate in one arm. A well-worn scrap of parchment pokes out of his balled fist, charcoal tally marks visible on its exposed surface. "Well met, traveler. Sorry, I was counting these out for Hermod and didn't see you coming. Welcome to South Haven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Good day, sir." Capteron offers a short bow as you near him.</DefaultText>
+      <FemaleText>"Good day, my lady." Capteron offers a short bow as you near him.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Is there something I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'm not familiar with South Haven. Tell me about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"How did this village end up staffed by [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leave] "That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'm not sure what's really all that worthy of note." He scratches his chin, inadvertently smudging it with charcoal. "We've got the river and the sea nearby and live by what they bring us on the good seasons, trade for what we don't have when our luck dries up. If you're bored already, good - I think [url=glossary:kyros]Kyros[/url]' forces were bored too and seemed to ignore us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Oh, their arrival was the biggest change we've experienced in a long time! It's been... maybe two years? This guarded entourage came to town and we all thought we were being invaded but nope - just a bunch of craftsmen booking passage out of the port south of here. When they arrived, they were all ill with fever and needed to rest. Since Old Lyones knocked off, we let the [url=glossary:forge-bound]Forge-Bound[/url] use her house."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Cassandra's almost always at work, just on the roof of the building behind me. She's a busy woman, but I'm sure she has time for you, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"She's incredible. She's no spring chick, but she can split a boulder better than any man in the village. You can tell her apprentices respect her just by the way they look at her. Everyone in the village feels the same way. If she speaks up, we take notice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What do you know about Cassandra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I could use your help with a matter regarding Cassandra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He points to himself, blinking in confusion. "Me? I mean, I don't know anything about what the [url=glossary:forge-bound]Forge-Bound[/url] do. What could you possible need from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Bribe] "Cassandra doesn't need to know about anything, including this stack of rings I have for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Cassandra's anger will be the least of your problems if you refuse my order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Fatebinder, please... I can't do that to Cassandra. She's been so good to us!" His hands shake as he fumbles with the crumpled parchment. "That's a lot of rings to be sure, but I have all I need. Besides, I'm no good at trickery. People can see the lies right on my face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"She keeps the tools on the table closest to her. I help her apprentices with little things all the time, so they might not take notice of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Her knapping tools are valuable and I have need of them. Would you be able to get them for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"How active are the [url=glossary:forge-bound]Forge-Bound[/url] at night?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Her tools?" His eyes widen. "I don't understand, Fatebinder. I'm sure you could speak with Cassandra yourself about that. I'm not from the North... I don't know her ways. She would be furious, too, if I just took them from her!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"They don't take kindly to any sort of trespassing at night. They're especially protective of Cassandra... as they should be! She's a rare master of her craft and they're lucky to have her."
+	
+He stops, furrowing his brow. "Why do you ask, Fatebinder?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Nevermind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Lie] "I'm here to evaluate their work, so my questions must be exhaustive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I have a feeling those tools may mysteriously vanish during the night."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Oh, I see. Well, Cassandra and her apprentices toil all day and only stop when they run out of daylight. But I'm no artisan and can't speak to the quality of their craft - you should see their operation yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Wait until nightfall]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You can find the [url=glossary:forge-bound]Forge-Bound[/url] just on the roof of the building behind me. Cassandra keeps her apprentices working late, but rarely stays up with them at this hour. She's up before first light, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Wait until morning.] "I need a place to stay until morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I have other questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nothing you need to concern yourself with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You mean by magic... oh, you mean to stea-" His eyes widen and he looks towards the forge in a panic. "No, that's not right. I'm going to go and tell Cassandra about this!" He begins to walk away...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Oh... as you wish, Fatebinder." He looks at the ground, softly kicking the rocks at his feet.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Kill him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Punch him.] "Keep quiet, or this will continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Before he can slip away, you grab him from behind and, with your arm around his throat, squeeze until his windpipe is crushed, and he ceases to flail in protest. You drag him behind the nearby containers, hiding him from view.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>As he turns his back, you halt his escape with a quick jab to his kidney. He collapses upon the ground, clutching his side in agony. He pleads between pained gasps for air. "Mercy! I'll comply. I won't say anything. I promise!"
+
+He crawls away from you, slowly staggering to his feet before finally breaking into a sprint towards the edge of the village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Calm yourself. I have a better idea - you'll get the tools for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Lie] "Taking the tools is a harmless matter. At worst, Cassandra would work a little slower and extend her stay in town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Oh, she might leave? I... I didn't realize that." His shoulders sag and he grows quiet.
+			
+"Well, maybe it wouldn't be so bad if I took the tools. Cassandra always says that knappers can make whatever they need. And I think she's taken to South Haven, so I'm sure staying in town would be good for her. Maybe she'll finally have time to speak with me, too. Alright, I'll help you. I'm sure you need them for a good reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"That makes sense. Go at night, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"No more excuses. Go now while I'm still feeling charitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Bribe] "You're right, I offered too little. Please take them... it would be rude to refuse a Fatebinder's request."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"She keeps the tools on the table closest to her. I help her apprentices with little things all the time, so they might not take notice of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Yes... of course, Fatebinder." He looks to the nearby rooftop and squeezes his eyes shut. Upon opening them, he appears quite distraught. "Oh, this IS really happening." He stumbles off towards his task, whimpering softly to himself with each step.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Yes... of course, Fatebinder." He looks to the nearby rooftop and squeezes his eyes shut. Upon opening them, he appears quite distraught. "Oh, this IS really happening." He stumbles off towards his task, whimpering softly to himself with each step.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Lie] "I know Cassandra means a great deal to you. She's too busy to take notice of anyone, but I could put in a good word about you to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You hear the rustling of leaves and brush in the distance, followed by a the snap of a breaking branch and a dull thud on the ground. Capteron runs around the corner of the nearby building, wincing and rubbing his backside. He's a mess, his body covered with mud and leaves. He's out of breath, seemingly more from nerves than exhaustion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"She keeps the tools on the table closest to her. I help her apprentices with little things all the time, so they might not take notice of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You... you could?" His eyes light up. "But taking the tools would still be wrong. Though you are a Fatebinder, so maybe it's not. The Court's business has always been confusing." He frowns, shaking his head slowly in frustration. "Ok, I'll do it. Please let Cassandra know that she has someone that would do anything for her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I did it, Fatebinder. The [url=glossary:forge-bound]Forge-Bound[/url] didn't take any notice of me at all. I gave them fresh water as usual, and then slipped the tools over the side of the building. Some of them got caught in the tree and lost in the brush... I guess I should have thought that one through first." He scratches his head. "But I got the tools for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"If there's nothing else, I'll go now, before I'm missed." He bows nervously and saunters off towards the center of the village, clumsily brushing leaves and dirt off his body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"So... now that I've done what you've asked, will you speak with Cassandra about me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Leave] "I'm afraid that's not going to happen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Leave] "When I find a moment, I'll speak with her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What? But you promised..." He looks at you, dumbfounded, and continues to stare at you as you walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Just walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>He chuckles. "Seems they never seem to stop, right? Cassandra usually retires for the evening, but her apprentices will continue to work and keep watch over the shop during the late hours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"What do you do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Me? Oh, I'm not anyone important, Fatebinder. I never took to a particular trade and I'm not a man of letters, I just help out where I can." He gestures towards the crates behind him. "I count the produce for Hermod - he lets me take a few fruits when I'm done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>His words are interrupted by a rhythmic clanging of hammers against metal. He turns to look at its source atop a nearby roof, exposing a gap-toothed grin as he speaks. "And of course, the [url=glossary:forge-bound]Forge-Bound[/url] always need fresh water, so I'll pump it for them from time to time... I'm sure Cassandra appreciates that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Some recruiters from the Chorus came in years past and rounded up some folks who were out in the fields. I think they took Ptoled's boy, and also the Korba twins, but that was the worst of it. I've heard plenty of stories from elsewhere in the Tiers, three folks gone - while a tragedy - is nothing compared to the suffering seen elsewhere. We are fortunate, no denying that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"They've been awful helpful. Spears and arrowheads for our hunters, plows for the fields, fishhooks for the rivers... even a hearth or two for those cold nights. They also help keep us safe and stand watch over the town. If I were younger, I'd ask them to train me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"She, uh, she is intimidating, though. I wanted to give her a suggestion about some stone arrowheads she fashioned, but she looked really angry when I approached her. She was yelling at one of her students and another was on fire or something, so my timing was poor. There's lots I'd love to learn from her, but I'm too old to be taken seriously as a candidate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>His eyes dart to the rings and then to the weapons at your side. "Of course, Fatebinder, if that is your command." A deep sigh escapes his lips as he takes hold of the rings. "Cassandra, please forgive me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>As you take a single step toward him, Capteron backpedals, his posture shrinking in supplication. "I'm sorry, Fatebinder! Please, I don't wish to offend the Court! I will... I will do as you command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What do you mean? I've never heard of tools vanishing on their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I mean they'll disappear into my pockets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>With the man silenced, you ready yourself for a less conspicuous approach under cover of darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Thank you! It would mean so much to me, Fatebinder." He clasps his hands together and smiles. "I just hope she can see how much I care..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Oh, the Fatebinder! Hello, welcome to South Haven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Oh, of course, Fatebinder. Philia lets me stay in her son's old room. There's a cot there you can use..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Sirin, I think he needs some convincing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The Archon of Song glares at you, clearly unamused by your command.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"We all assumed it'd be temporary, but either the ship they meant to board sank or they had a change of plans. A span later, the [url=glossary:forge-bound]Forge-Bound[/url] were still here and making themselves at home. Didn't hurt that the villagers here were fascinated by their crafting magics... the youngsters in the village all lined up for lessons and - [url=glossary:kyros]Kyros[/url] be praised - they saw fit to tutor some of them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You look just like the portrait! I mean... it's a flattering likeness, though you look more regal in person. I mean, uh, Governor [Player Name], it is an honor to meet a Fatebinder of your stature." As he awkwardly bows, several apples falls out of the crate and bounce out of his hands, rolling past your feet. "Sorry." He sets the container down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You're the Fatebinder, aren't you? The one that claimed the Mountain Spire! It's not every day we have such an esteemed visitor." As he awkwardly bows, several apples falls out of the crate and bounce out of his hands, rolling past your feet. "Sorry." He sets the container down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I'll go now, while it's dark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Of course, it'd make more sense to go after sunset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Of course, it'd make more sense to go after sunset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"She keeps the tools on the table closest to her. I help her apprentices with little things all the time, so they might not take notice of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I'll go now, while it's dark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"That wasn't a suggestion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"It's your song or my fist. Your song seems the gentler option."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Forget it, I'll convince him the hard way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The old man looks at you expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"So be it." Sirin turns toward Capteron and hums a soft, sustained note. "The tools. Bring them to us." Her voice pitches down an octave. "Cassandra's tools... find them... now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"But I would never..." Capteron shakes his head, fighting the muttering the suggestion until it is his own. "I would never... I would never let you down. As you command."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

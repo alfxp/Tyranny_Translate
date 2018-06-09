@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_lohara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>133</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A muscular woman stands upright from her forge and turns to look at you, the light of the fire playing across her face, making her eyes dance dangerously.  A toothy smile breaks across her mouth, the only bright spot on her soot-stained face.
+
+"Do you kill with your left hand or your right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Thank you for finding our missing weapons, [Player Name]." A sigh of relief escapes her. "We almost had to leave the forge idle for the day on account of material shortages, and we've no desire to find out what will happen if we don't meet our quota."
+
+"Add losing those weapons on top of it all and who knows what we'd be subjected to! We have to get everything repaired and back in the right hands!"
+
+She attempts a good-natured laugh, but it falls flat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I've a few orders I can't delay, but once I strike those out, I can start tinkering on something for you."
+
+Lohara scratches her matted hair, leaving soot stains in her brown tufts. "I don't suppose I can ask another favor of you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Is that how they say hello in your hometown?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Why would you like to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Glare at her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Do you also answer questions with questions?" She flashes more pearly teeth and chuckles softly to herself. "It's a simple question, child. When you swing a tool to end another life, which hand do you use?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"The gauntlet is the hardest piece of the panoply - and the most rewarding to work. So many scales of so many different sizes... then there's the rivets."
+
+She slides her thumb and fingers together, shedding flecks of soot and iron dust. "I imagine you see a lot of battle in your... line of work. One gauntlet is invariably going to wear out before the other. My mind is always thinking on what will need repairs first. It's as simple as that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Draped in loose-fitting linens, a heavy canvas smock, and a layer of sweaty film, the middle-aged woman is a living display of soot stains, burns, and scar tissue. Beneath the soot on her head is skin that rarely sees the touch of the sun.
+
+Her white teeth vanish behind a scowl. "Right. Or. Left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Noted." She clears her throat and wipes her blackened hands on the canvas of her smock.
+
+"I am Lohara, Master of Tempering, and Forgemaster of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. My tasks exceed the hours left in the day, but there is no harm in pausing my work if it means speaking with the Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Noted." She grips her belt and cinches it, rattling the picks, awls, and pliers that dangle from its various hooks.
+
+"I am Lohara, Master of Tempering, and Forgemaster of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. My tasks exceed the hours left in the day, but there is no harm in pausing my work if it means speaking with the honorable Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"How may I be of assistance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Tell me about [url=glossary:lethian's crossing]Lethian's Crossing[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Tell me about the [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Tell me about the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tell me about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Can you make something for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Leave] "I must be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You have returned!" Lohara turns to face you, her body covered head to toe in charred hues, chest rising and falling under the strain of labored breathing.
+
+"There is always more demand for iron than there is time in the day." She removes a set of heavy canvas gloves and balls her fists - the joints of her fingers crackling in unison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Are you well? You look weary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ecstatic." Her voice is matter-of-fact, and a smile creeps in.
+
+"The ritual of the forge links heart to hammer. My blood beats only when I strike my ingot, my forge runs too hot if my breath becomes too hurried - the bond is both fatiguing and exhilarating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Couldn't that kill you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Is that how you excel at your craft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I should hope so!" She laughs, her face blushing the color of molten metal.
+
+"Better than being defiled and killed by brigands, poisoned by grain rot, or slain by childbirth. Would not a soldier wish to die in battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Well, that and practice." She scowls.
+
+"But yes, the rituals link the senses to the materials, and the body to the tools. My hand becomes a joint, the hammer the true end of my arm. I feel the heat of the forge as if it were the weather of the room. Under such circumstances, true focus can emerge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Fascinating. Let's speak of other matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Can?" She lifts an eyebrow. "Most certainly. Will? Well, [url=glossary:kyros]Kyros[/url] invented queues for a reason."
+
+She lets slip a sigh. "I have every Iron Walker and every [url=glossary:scarlet chorus]Scarlet Chorus[/url] ringleader sending me bribes and flattery in hopes that I'll work off-schedule and make them some special this or one-of-a-kind that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Her mouth moves as if to speak, but she falls silent, folding her arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"But are any of them deserving of your talents?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Forget I asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I did not realize the request was so thoughtless, my apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Are any of them deserving..." She listlessly repeats your question, scowling to the side.
+
+"My iron will outlive me, and probably outlive everyone alive today." Her voice becomes a hissed whisper. "But if my weaponry isn't used by famous hands, my name will be forgotten! So many of my works already litter the [url=glossary:blade grave]Blade Grave[/url]... ignored, abandoned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I get unreasonable demands every day, but it's not the volume, it's the purpose."
+
+She lowers her voice to a near whisper and steps closer to you. "I do resent that [url=glossary:kyros]Kyros[/url]' demands reduce our work to mere quotas! I should be allowed to customize my work for every soldier. Only apprentices have anything to learn from making the same size helmet again and again!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I will pay you very, very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wealth?!" Her voice becomes a roar. "You think I want rings? Sodding rings?!"
+
+Her hands dart to her tool belt, both fists scooping clanking metal pieces. Flinging her hands open, she hurls two fistfuls of rings at you, copper and bronze loops clatter about your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"This is what I think of your offer." She slides her hand in a diagonal motion before her, emulating arousal of the male member. "Find some whore of an artisan willing to trade you the child of his art for chits of base metal!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"But I speak out of turn." She clears her throat as she returns to her normal volume. "I suppose I'm just hungry for some variation in my work."
+
+"How about this. If [url=glossary:kyros]Kyros[/url]' forces and the folk at [url=glossary:lethian's crossing]Lethian's Crossing[/url] have good things to say about you and your star is on the ascent, I'll make you something befitting your potential."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"But first I need to know you're going somewhere. If I wanted my iron used by someone who will be forgotten to history... well, I could just let the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] loot my forge if I wanted to do that!"
+
+"When I've determined you are ready, we'll speak further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"My thanks. There was something else I wanted to ask you about..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Leave] "Until then, I will leave you be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I don't see much of it - only this," she points to the roof and walls of the forge. 
+
+"Lethian and her merchant crew settled this area a while back. The brave fools built bridges over the Oldwalls and made themselves a crossroads trading post. Real pioneer spirit stuff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"The whole place might have been ignored by [url=glossary:kyros]Kyros[/url]' forces, except somebody discovered there's iron everywhere - can't wash your clothes in the river without them coming out rust-tinged."
+
+"So the iron made [url=glossary:lethian's crossing]Lethian's Crossing[/url] important enough for [url=glossary:kyros]Kyros[/url] to want it for himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"It made good sense to move some of us [url=glossary:forge-bound]Forge-Bound[/url] here to [url=glossary:lethian's crossing]Lethian's Crossing[/url] - easier to put us near the iron instead of shipping it over mountains. That, and this is a crossroads - we can resupply our allies faster than ever from our new workshop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"For centuries, my guild has sought the union of magical and manual perfection. While others concern themselves with the arcane for the sake of inordinate power, we study it to overcome the traditional limits of our arts and crafts."
+
+"The forge is our dominant concentration of study, but not all [url=glossary:forge-bound]Forge-Bound[/url] work metal - some are weavers, carpenters, and one of our...odder members fancies himself a chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"The wise and mighty [url=glossary:kyros]Kyros[/url] has been kind to our guild. He offered to put our weapons and armor in the hands of those who would change the world."
+
+A broad smile overcomes her face. "And he has been true to his word! [url=glossary:forge-bound]Forge-Bound[/url] iron has trampled the Tiers, and all that oppose [url=glossary:kyros]Kyros[/url]' forces rest their heads on [url=glossary:forge-bound]Forge-Bound[/url] spears!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Can you make me something magical?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Why make weapons if you could kill your foes with magic?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"How exactly does your magic help you make things?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"No." She smiles and shakes her head. "But almost everyone asks. Relics of arcane power must grow into themselves - they are never made from nothing."
+
+She points her finger in the air and smiles. "But what I CAN do is use my magic to swing my hammer with perfect precision, or work a cantrip to handle molten metal with my bare hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"We can build artifacts of exceeding quality and refinement, but they must be used in great deeds to grow into relics of power."
+
+"And that is why we seek to put the works of our forges into the hands of the greats - true legends require the alliance of sword maker and sword master."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Why walk if you could pay porters to carry you?" She shakes her head with a huff. "We have ways to protect ourselves from those who would abuse us, but we study the arcane for purposes of building, not destroying - we leave that to others. They can take our implements and use them to sow chaos if they choose. I would rather take chaos and force order on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Our most important rituals bind the crafter, tools, and materials into... one entity?" She cracks a nervous smile. "Close enough."
+
+"In my own work, the forge-bind draws the whole of my senses to the edge of the blade I'm tempering. I can see the tiniest notch, or touch my finger to the blade and feel the razor sharpness without breaking my skin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Such perfect execution of art has its costs, of course. Once heart and lungs become linked to flame and hammer - a dropped hammer could lead to a stopped heart.
+
+"Most of our members die in the throes of their work, killed by a distraction or simple error." She blushes. "We lose a lot of apprentices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] have treated us as honored guests. We are given privacy, autonomy, food, and protection. In return, we give them the best iron in the Tiers and they put it to use." She shrugs. "A favorable arrangement."
+
+"But I'm no fool that I read too much into the kindness. We are a war resource, and exist only because we feed their insatiable need for quality iron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"My master had a saying that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] always brings to mind: Good iron is for swords, not nails; good minds are for thinkers, not warriors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Lohara shakes her head, scowling. "[url=glossary:kyros]Kyros[/url] is wise, and must see something in [url=glossary:the voices of nerat]the Voices of Nerat[/url] that I do not. We are sworn to [url=glossary:kyros]Kyros[/url] and thus allies of the Chorus - I should not speak out of turn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Let's speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Eldian mentioned you might need some help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She raises an eyebrow. "Our last iron delivery was light. The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] has been attacking [url=glossary:forge-bound]Forge-Bound[/url] caravans for years and even though the ore is useless to them, they attack our porters just to spite us." Her face takes on a sour expression.
+
+"I probably shouldn't mention this, but if you're going to be helping me, you deserve to know everything. There were some very important weapons being sent back to us hidden in that shipment. We need to repair them and get them back in the hands of the soldiers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"The attack took place at Deserter's March - not far from here. My hunch is that killing our porters and taking their rations was enough... they'd have no cause to lug a bunch of rocks back to their camp and I don't think they knew the weapons were there - at least I hope they didn't. Otherwise you'll need to figure out where they've camped... and I hear those fools are squatting in the Oldwalls!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"You may..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I've much to do at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"One of my younger charges, Garrick, strayed too far from the forge. I know a man of his age is beset with wanderlust, but he should have realized we have to stay close to the forge for good reason!"
+
+"Garrick was out during a [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] raid and he has not returned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I fear he may be dead, but I would welcome someone spying on the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] to see if they're holding him - and, naturally, rescue him if he is still alive."
+
+"And if he's dead," her gaze falls to the ground. "If he's dead, bring me his tools so that they be returned to his master."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Then I will be brief. Apprentice Garrick has gone missing - I fear that he has ventured into [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] territory and found himself on the wrong end of hammer."
+
+"If you should find him, I'd be indebted to you for his return. If, as I fear, the Brotherhood killed him, please recover his tools and avenge his death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You found the shipment! I take it Dyro did not make it? Well, thank you anyway... this shipment will help us here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I found the missing weapon shipment for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I found Apprentice Garrick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I found Apprentice Garrick's tools."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I've already spoken to him. The young weasel thought he could find rare metals in the Oldwalls, did he? I'm more impressed that he returned with his life than anything he might have found."
+
+"Thanks for your hard work, Fatebinder. You deserve a reward at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>She raises her hammer to fling it away, then freezes and lowers it with a prolonged sigh. 
+
+"Damn it... but Garrick had such potential. Maybe too much to be shackled to the forge all day, but I know he adored his work."
+
+"Thank you for returning his tools, Fatebinder. He would want them here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I'd like to discuss how I can help you and your [url=glossary:forge-bound]Forge-Bound[/url]'s smithing efforts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Very well. What would you like to discuss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I'm currently in the middle of working on this, I shall return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I have brought you a few Azurelith Crystals. Perhaps you can use them in your work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>She takes them from you with care, marveling at the uncut edges.
+
+"These crystals... Fatebinder, my [url=glossary:forge-bound]Forge-Bound[/url] and I can surely create something of power from it, thank you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I have safely returned Garrick to [url=glossary:lethian's crossing]Lethian's Crossing[/url]. I'm sure after this last adventure he'll be ready to settle down and get some work done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I have safely returned Garrick's tools. Perhaps they will come in handy and provide some much needed assistance to your Forge Bound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"This is great news, Fatebinder. If he's ready to finally get some work done around here, it'll be a welcome change! Thank you for bringing him back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Attack] "It's time for a new Forge Master. Your service is lacking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"You dare attack me in my forge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I have collected a large quantity of old [url=glossary:disfavored]Disfavored[/url] gear for your use in creating new weaponry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"This is excellent Fatebinder. It shouldn't be too much of a challenge to melt down this scrap and refine it into something of tenfold value and craftsmanship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I have secured some of these special Distillates. They will surely speed up the work done here by your Forge Bound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Excellent, thank you Fatebinder. This is just what my [url=glossary:forge-bound]Forge-Bound[/url] need during the late hours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I'm returning the Litany of Incandescence to you and your [url=glossary:forge-bound]Forge-Bound[/url]. I know this is important to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Fatebinder! This... this is too good to be true. Thank you for returning this to us. With this we should be able to forge you something very... very good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>She raises her hammer to fling it away, then freezes and lowers it with a prolonged sigh. 
+
+"Damn it... but Garrick had such potential. Maybe too much to be shackled to the forge all day, but I know he adored his work."
+
+"Thank you for returning his tools, Fatebinder. He would want them here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>She rubs blackened palms together, eying you expectantly. "Normally, I can tell at a glance, but you are little harder to read."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"That I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"What can you tell me about the [url=glossary:forge-bound]Forge-Bound[/url] Master?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Zdenya is the best leader I have had the pleasure of working under. She guides the [url=glossary:forge-bound]Forge-Bound[/url] with a steady yet stern hand, guaranteeing all of our work is of the utmost quality and peerless in every regard. I am Zdenya's second, which is why I am the Forge-Master for [url=glossary:lethian's crossing]Lethian's Crossing[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>She points at Ulantis. "He is my second, should anything happen to me. I haven't worked with him long so I don't know much about him or the true long-lasting quality of his work, but he was appointed by Zdenya so he must be good at what he does."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Conquest] "How have the [url=glossary:disfavored]Disfavored[/url] fared with the weapons we sent them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Conquest] "How have the [url=glossary:scarlet chorus]Scarlet Chorus[/url] fared with the weapons we sent them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Lohara shrugs. "[url=lore:lc_pick_of_the_armory]Very well, I would assume.[/url] The [url=glossary:disfavored]Disfavored[/url] know how to handle their weapons and they were made by the [url=glossary:forge-bound]Forge-Bound[/url], so they are high-quality and will never fail them as long as they take care of them."
+
+"I don't normally track where my weapons go or what is done with them. I finish one job and start the next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Lohara shrugs. "Considering how the Chorus handles itself, [url=lore:lc_pick_of_the_armory]I'd say they probably tripped and impaled themselves or used them to kill each other.[/url] The [url=glossary:disfavored]Disfavored[/url] know how to handle their weapons, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] know how to sow chaos within their own ranks. So, regardless of how well we made those weapons, everyone who held one is probably dead by now."
+
+"I did not appreciate them being given to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and I don't like being reminded of it now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I see you got a promotion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Yes, I suppose I did. Though I'm not exactly happy about it. Zdenya was a good leader and a level-headed woman and gave the [url=glossary:forge-bound]Forge-Bound[/url] the guidance they needed. I'm not entirely sure how it happened." She looks at you and raises an eyebrow. "But I will carry on the [url=glossary:forge-bound]Forge-Bound[/url] traditions like Zdenya would have wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"What are your thoughts on helping out the [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Those worthless degenerates? Absolutely not. I do not labor in front of this forge to have my work fall into the hands of chaotic, unappreciative fools. I may have to create arms for the [url=glossary:disfavored]Disfavored[/url], but at least I know the items will be treated with the honor and respect they deserve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"It is done Fatebinder. As promised, I have forged you an item of great power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Script Node 157</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Script Node 158</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I want to thank you personally for the help you gave to the [url=glossary:forge-bound]Forge-Bound[/url] when you visited the Crossing before. [url=lore:lc_iron_must_flow]The workers you provided us[/url] were a great boon. We are grateful to you for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I must say, [url=lore:lc_pick_of_the_armory]denying both the Disfavored and the Scarlet Chorus of extra weapons[/url] was pretty brave of you. I expect the Chorus to offer a bribe, but the [url=glossary:disfavored]Disfavored[/url]? If they would stoop to those tactics, who knows what else they're capable of?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"And thank you for [url=lore:lc_guardians_due]separating the Brotherhood from Kyros' armies[/url]. We all know the Brotherhood would have been a negative influence on the citizens of this settlement. The less trouble we have to deal with, the more work we can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"My hunch is that killing our porters and taking their rations was enough... they'd have no cause to lug a bunch of rocks back to their camp and I don't think they knew the weapons were there - at least I hope they didn't." She scratches her jaw, thinking.
+
+"Our man meant to travel through the dense forests of Deserter's March. We don't know his precise route, as our porters often improvise on the road to avoid encounters with bandits. I know that isn't much to go on. I'm sorry." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I am going to take the Magebane Helm with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"You most certainly will not. That helmet is a [url=glossary:forge-bound]Forge-Bound[/url] creation and belongs to us. Without it, we will have to deal with the Bane constantly interrupting our work. No, it stays right where it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Why did you want to know if I kill with my right hand or left hand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"And with Zdenya's disappearance, I have even more to do. I was already behind on our shipments, but now there's even more work to do!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"You did well, Fatebinder. Zdenya's capture put us in a difficult position. We're duty-bound to continue our work at all times, but there were plenty in the Forge that wanted to use their hammers to pound Brotherhood skulls, not iron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Zdenya is as capable a warrior as she is a smith. I can only imagine her restraint with Raetommon is for the sake of the Magebane, and the people of [url=glossary:lethian's crossing]Lethian's Crossing[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"How will you supply the armies with fewer [url=glossary:forge-bound]Forge-Bound[/url] present?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Not easily, I can assure you. Were you to double our ranks, the task would still be monumental. We cannot easily expand guild membership - our art is a painstaking craft, and few have the aptitude for it. We are, sadly, chronically short on apprentices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Those that do join still face many risks. Our process is demanding, to say the least. To achieve perfection, we bind our physical selves to hammer and flame, but doing so invites harm to the undisciplined. Many an overzealous apprentice has attempted to impress me, striking the hot metal until their very heart burst." 
+
+Lohara is unmoved by the recollection, her mouth a taut line. "In truth, the reckless ones will never make it. Better to find out sooner rather than later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"But... their scarcity does make them important. Even the apprentices that shame you with their foolishness."
+
+She sighs, reluctant to continue. "Fatebinder, I've a favor to ask you, if I may."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>She gestures in a wide arc with her hammer, sweeping over all the workers in the Forge. "We may not show it easily, but I can assure you that every person in this room is grateful for your help. Zdenya is a great leader, and we would suffered in her absence. [url=glossary:graven ashe]Graven Ashe[/url] can rest assured that we will supply his men, and then some."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>She gestures in a wide arc with her hammer, sweeping over all the workers in the Forge. "We may not show it easily, but I can assure you that every person in this room is grateful for your help. Zdenya is a great leader, and we would have suffered in her absence. With the two of you working together, this alliance just might work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Yes, actually. That goat fucker Raetommon really made a mess of this settlement. Not only did he capture the head of our order, but he also killed several of my Forge hands." She smashes her fist into a nearby table, launching several metalworking tools into the air.
+
+"As much as I'd love to personally track down the bastard, I'm duty-bound to stay and fulfill our commitments to the armies. I was going to send some of my own to tackle a few problems, but now we've barely enough hands to keep these fires stoked. If you've got the time, I could really use your help with a missing shipment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Tell me about the missing shipment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Garrick mentioned that he heard of rare and exotic Oldwalls materials falling into Brotherhood hands. I fear he may have been inspired to seek out a rumored entrance to the Oldwalls along Haven's northeast border, in the Twin Rivers area. The Brotherhood supposedly operate there. If you hear of any such camps in that location, then you'd do well to start your search there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"I know of a Brotherhood camp at Twin Rivers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"I'll keep an eye out for such a location."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Thank you, Fatebinder. This is, quite frankly, beneath you, but I assure you that every apprentice will help us meet the Overlord's exacting demands of the Forge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Very good. He certainly must have gone there." She shakes her head. "The recklessness of youth... did he expect to ask the Bane to help him in his search?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"I know a spot in Deserter's March with known Brotherhood activity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I'll keep such locations in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"That's as good a start as any. It's certainly plausible that the porter moved through there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"You have my thanks, Fatebinder. Good iron is crucial, and losing a shipment of weapons would be tragic."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

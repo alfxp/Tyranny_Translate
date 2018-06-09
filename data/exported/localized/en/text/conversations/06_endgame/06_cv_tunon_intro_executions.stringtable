@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_cv_tunon_intro_executions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Absurd! I will not stand by and simply accept a judgment of treason!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I find myself in the extraordinary position of agreeing with the Crimson Spear, [url=glossary:tunon]Tunon[/url]. What are your claims?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You have been instrumental in causing [url=glossary:kyros]Kyros[/url]' wrath to fall upon us all. You were unable to find a compromise between your positions and for this the Court holds you both in contempt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Everyone is fleeing the [url=glossary:bastard city]Bastard City[/url], I see no authority in this Court."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I am the authority of this court and custodian of justice. My sentence for you is death. I trust you will accept it in stride."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Approach, Fatebinder. You and I have business to conduct."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

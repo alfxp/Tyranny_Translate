@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_endgame\06_adjudication_stolen_artifact</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"My lord [url=glossary:tunon]Tunon[/url]... I must plead for my innocence in this matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"That will be for the court to decide. The [url=glossary:forge-bound]Forge-Bound[/url] are my subjects, and I hold them to a higher standard. You are the keepers of the iron secret. That cannot be forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Fatebinder, so kind of you to join us. I wonder if you might assist in adjudicating this case. As always, I'm curious to witness your execution of [url=glossary:kyros]Kyros[/url]' law."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It would be my pleasure, Your Honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I am busy at present. Perhaps later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fatebinder, are you ready to hear my case?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Excellent. Smith, offer up your testimony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] artisan clears his throat. "I bought a shiny bauble from a merchant passing through [url=glossary:lethian's crossing]Lethian's Crossing[/url] - a stone of great beauty and strength. Over time, I shaped it into a mallet for pounding iron. The properties of the stone were incredible. I could swing harder, faster, and without strain. It increased my production of iron weapons tenfold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Until your master grew suspicious, and turned you over to me. The 'bauble' you speak of was a touchstone - an artifact known to originate from the Oldwalls, to which all are forbidden to go." 
+
+"The charge is trespass and theft of forbidden artifacts. You may proceed, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Did you know where the touchstone came from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"When you realized the object's source, did you stop using it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Did you ever lie about using the mallet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I am ready to give my ruling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Not at first. The merchant wouldn't reveal his sources. But it didn't take long to put the pieces together. You just don't encounter objects of such power anywhere else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"No... Once I had it figured out, every swing of the mallet shamed me something awful. But I knew that I was doing right by [url=glossary:kyros]Kyros[/url]. I was sending his army the best weapons I'd ever crafted. I thought that might absolve me. Guess I thought wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"No! That is, the other smiths were curious about my work, but no one thought to inspect my tools. Since no one asked, I never told them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"A lie of omission, then. Just as nefarious in the eyes of [url=glossary:kyros]Kyros[/url]. What if your arcane tool had harmed someone, or yourself? What then would have become of iron production?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I... I don't know, Your Honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I trust in your instincts, Fatebinder. Make sure that my confidence is not misplaced." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"The smith never betrayed [url=glossary:kyros]Kyros[/url]. He should go free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"The artifact - and its use - were forbidden. The smith is guilty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Forbidden knowledge is taboo under [url=glossary:kyros]Kyros[/url]' law, but the smith was ignorant. He should go free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Let me return to my previous questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You... you really mean it?" He gathers himself with renewed confidence and beams at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Your words reek of subjectivity, a lack of discipline, and yet they are your ruling. So let it come to pass that the [url=glossary:forge-bound]Forge-Bound[/url] is innocent, and will return to his labors. Smith, take care with your future infractions. The court remembers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Oh... oh, no." He winces in anticipation of a coming blow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Such is the will of [url=glossary:kyros]Kyros[/url]. Though I am loath to see iron production fall, I cannot abide improvisation in the ranks of my [url=glossary:forge-bound]Forge-Bound[/url]. What of the punishment, Fatebinder? I can rely on you to determine a proportional response." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"So... I can go?" He looks from you to [url=glossary:tunon]Tunon[/url] and back again with panic and uncertainty. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"A shrewd interpretation of [url=glossary:kyros]Kyros[/url]' law, but I cannot deny its validity. Very well. The [url=glossary:forge-bound]Forge-Bound[/url] may return to his duties, using only the tools of his trade. Is that understood?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Yes, Your Honor! I'll return to my labors right away!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Further cross-examination? I will allow it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Go ahead. Start from the beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Not just yet. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Mercy, my Lord [url=glossary:tunon]Tunon[/url]. Mercy!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Script Node 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"It will be my honor to return to the forge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I never set out to break [url=glossary:kyros]Kyros[/url]' law, yet here I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Do not keep me waiting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I would like time to consider the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Are you ready to rule in my... my transgression?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Remind me of the particulars of the case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"The smith will lose a hand of his choosing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Three days in the stocks should do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Brand his face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Death, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Appropriate in its own fashion. Iron production may suffer, but the cost of justice is paid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Your measure of justice is severe, but fair." [url=glossary:tunon]Tunon[/url] nods to you in approval. "[url=glossary:kyros]Kyros[/url]' will be done." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"To be the mockery of his peers and countrymen. Yes, I think that will do nicely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Yes, a mark of punishment. A sigil of shame to wear across the remainder of his years. A burden in youth, but a lesson with age." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You are as uncompromising as I ever taught you to be in your execution of [url=glossary:kyros]Kyros[/url]' law. Well done, Fatebinder. The Court is adjourned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Cascade Node 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"A tough sentence, but it sets the precedent appropriately enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"There's no educating some people, but you can at least set an example for the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

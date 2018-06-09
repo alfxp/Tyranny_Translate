@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\01_cv_hidden_scavengers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hold!" The soldiers, weary from lack of nourishment, scramble to draw weapons and snap to attention as the apparent leader steps forward to address you. "I don't recognize you... are you with the [url=glossary:unbroken]Unbroken[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Lie] "Yes, the path is clear of hostiles. You can leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"The path is clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I will scout the area and let you know if [url=glossary:kyros]Kyros[/url]' patrols are still lurking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"My thanks," the leader says, "we are eager to reunite with the rest of our group."
+
+The men gather their gear and depart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Attack] "I don't know who you are, but I've come to water the parched soil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"That doesn't matter. You're free to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Without a word, the soldiers leap to attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"That's a relief," he says, dropping his guard. "We thought you were here to kill us. Our hope is to escape the canyon, but until [url=glossary:kyros]Kyros[/url]' forces leave we're stuck here. Is the area clear of hostiles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Attack] "I am the storm come to claim you at last." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"My thanks!" He breathes a heavy sigh. "We've been eager to reunite with the rest of the group. I hope you make it out of Rust Canyons, brother." </DefaultText>
+      <FemaleText>"My thanks!" He breathes a heavy sigh. "We've been eager to reunite with the rest of the group. I hope you make it out of Rust Canyons, sister." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Lie] "Yes, I'm here to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Not long after the scavengers clear out, you hear the sounds of battle, followed by muffled screams, and then silence. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Is the way clear for my crew to escape?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"A wise captain does not engage an enemy flotilla - rather, she steers her enemy into the reefs and spares her crew the risk." Eb chuckles quietly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Yes, we helped Elia defend the camp. There's still time to escape."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

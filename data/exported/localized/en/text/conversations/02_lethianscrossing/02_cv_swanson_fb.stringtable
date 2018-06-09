@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_lethianscrossing\02_cv_swanson_fb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Svansen unenthusiastically strikes an anvil. He notices your approach and stops in the middle of what he's doing, staring at you with cold dead resentment. "If it isn't the Fatebinder, just adjudicator, and [url=lore:lc_redanvil]harbinger of my slow and undesirable death."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"...Yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The Forge-Master gets back to his work and Svansen begins to shamble back to the anvil before noticing you haven't left yet. "Surely, there can't be more you want from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Are you a [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Where are your tattoos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Why did you want to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in the first place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Not by choice. I don't understand how you can spend all day talking about ore deposits. ORE deposits?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm told you earn them based off your time spent in the forge, but since I'm considered a traitor, I forfeit my chances of being a master." He kicks a piece of scrap metal. "Not that I had any ambitions of making weapons I'm not allowed to use."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He grins with a smile that oozes annoyance. "Your sudden curiosity in my life is charming. I joined for the same reason anyone does. Your options quickly vanish once [url=glossary:kyros]Kyros[/url] conquers the land." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] Merchant overhears Svansen and turns towards you. "Ah, Fatebinder." He moves Svansen aside, only managing a dissatisfied groan. "I cannot thank you enough for assisting our production of weapons and armor by supplying us with such reliable labor." 
+
+He turns back to Svansen and gives him a hardy slap on the back that is received with a strained grin. "Without Svansen here, we would have stayed behind schedule."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

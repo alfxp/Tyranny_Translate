@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_burninglibrary\0302_cv_effigy_renata_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What business do you have with the Sages?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What can you tell me about Sages in this area?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I would like to talk to your prisoner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attack] "Enough of this - your life is forfeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Absolutely not. The last thing I need is you two colluding against me. Now, I'm incredibly busy and have work to do. So leave me be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Renata folds her arms and looks at you incredulously. "Well, considering he was probably sent to finish the job the [url=glossary:edict]Edict[/url] started, which would mean you're probably here to check up on him, why ever would I let you do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I just want to see him briefly. He might be more inclined to talk to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"We are very busy." She looks at you pointedly. "Not only are we trying to take back the [url=glossary:burning library]Burning Library[/url], there are [url=glossary:disfavored]Disfavored[/url] skulking around, sticking their noses where they don't belong. We even caught one of them and have been holding him here, trying to get some information from him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"[url=glossary:scarlet chorus]Scarlet Chorus[/url] in the library... [url=glossary:disfavored]Disfavored[/url] hiding around... The Sages in chaos. Sometimes I wonder why I want to lead this group..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Tell me about the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Tell me about the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Leave] "I'll talk to you later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"They're all over the Library. We've been unable to get to the Silent Archive. It's bad enough that our knowledge is permanently ablaze, but to have those monsters prying through it..." She shakes her head.
+
+"I shudder to think of what they're doing to it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I had no idea they were here, and who knows how many more are out there. It's just another problem to add to the list."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ever since the destruction of the [url=glossary:vellum citadel]Vellum Citadel[/url], there has been nothing but chaos. I know I could fix the problem if only I had the means to do so! That's why I'm... we're here. We need to regroup and I need to come up with a way to recover the Citadel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I have the Scrivener's Eye for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Tell me about the prisoner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"He's an Oath Bound named Maric. We've tried to get information out of him, but he's not talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Thank you! Now my authority over the Sages is assured. You have given me hope that the Sages will regain the power they once had!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I cannot thank you enough for finding the Scrivener's Eye. The Library may be in ruins, but with this tool, we can rebuild it again in another generation. You have done the Sages a great service!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I'm gathering a force to stand against [url=glossary:kyros]Kyros[/url]' armies. We want the Sages to join us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I've come in search of someone named Maric. I have learned that he may be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Renata smiles and points south toward a house with a [url=glossary:sage]Sage[/url] and Beastman standing in front of it. "He's here all right. He's our captive and he isn't going anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Can you tell me anything about the [url=glossary:edict]Edict[/url] of Fire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I don't know a lot about the specifics of the [url=glossary:edict]Edict[/url], but I have been studying it. The [url=glossary:edict]Edict[/url]'s wording was specific about removing all the forbidden knowledge from the library. I know what [url=glossary:kyros]Kyros[/url] meant when the [url=glossary:edict]Edict[/url] was issued, but I think I know a way of fulfilling it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] considers all knowledge forbidden, so the [url=glossary:edict]Edict[/url] was intended to punish anyone who seeks knowledge. The Sages, however, supported the free exchange of information, so nothing was forbidden, except for one thing - the Silent Archive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"The problem is, the only one recognized with authority over the Sages is the one who wields the Scrivener's Eye, and it is lost somewhere in the Library."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Why not just physically remove the archive from the library?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Where is the Eye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>A look of terror flashes over Renata's face. "No! You must not do that!"
+
+"If the Archive were physically removed, the entire library would collapse around you. The only thing keeping the structure standing is the spell currently using that scroll as its focus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I will look for the Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"What is the Scrivener's Eye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"A very important item to the Sages. With our group in chaos, there is no one in charge and we are floundering. The person in possession of the Eye is considered the one in charge. If I can get my hands on that, I could fill the vacuum and bring the Sages back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Give Renata the Eye] "Is this what you're looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"It's in the Library somewhere. Unfortunately, I have no idea where. One of our Sages went to find it and never returned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I'll think about retrieving it for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"I will get the Scrivener's Eye for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Thank you so much, Fatebinder! With the necessary leadership, the Sages will be far more powerful. If we can properly organize, I daresay that - with me in charge - we could surpass the power of the previous group."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Ah, Fatebinder, how good of you to return. Folant just arrived and told me of your hand in his rescue. I cannot thank you enough for your hand in this matter." She holds out a stack of papers, shaking them at a nearby [url=glossary:sage]Sage[/url]. He jumps, running over to take the stack from Renata, then backs away, disappearing around the corner of a nearby building.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>As you approach, you see a stern-faced woman having a heated discussion with a frightened young man. She holds a piece of paper in her hand and punctuates every few words with a pointed tap on the sheet. The young man turns bright red and takes two shuffling steps backward, his eyes casting about for help from the group but no one gathered will meet his gaze.
+
+Finally, the woman throws the paper at him and says dismissively, "We are done here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Renata looks up from a handful of papers as you approach. "Fatebinder, you have returned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>The young man makes a couple of frantic grabs at the paper before finally securing it, then turns and runs away, tripping as he goes. The woman squeezes her eyes closed, sighs, and puts the palm of her hand against her forehead, working it around in small circles. She takes another deep breath and then turns to face you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"What was that argument all about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Renata looks to where the young [url=glossary:sage]Sage[/url] disappeared behind a building. "We are..." She pauses and looks up thoughtfully. "How do I say this diplomatically? We are rather short-staffed at the moment and certain...aspects of my day-to-day life are more difficult than I would hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>She glances at you, a look of distaste clouding her face. "Because [url=lore:bl_lava_level]we didn't have quite enough time to evacuate before our...home was destroyed,[/url] we lost many good men." She smiles stiffly. "But that's all in the past, isn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>She considers you, her lips pursed. You can see she is choosing her next words carefully. "[url=lore:bl_lava_level]Because you gave us warning,[/url] we were able to get a lot of important books and people out before our home was destroyed. For that, I thank you." She sniffs, her eyes briefly looking down. When she looks up again she is composed, all sense of sentiment gone from her demeanor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Because [url=glossary:kyros]Kyros[/url] saw it fit to have our home destroyed, it is taking some people longer to adjust to their new surroundings than others. But that is not the point of your visit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"What can you tell me about the Silent Archive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"The Archive is the sum total of [url=glossary:sage]Sage[/url] knowledge. It is our greatest creation, a scroll of limitless information that can rewrite its contents. You need but ask it the right questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"The loss of anything else in the Library is tragic, but the Silent Archive is irreplaceable. The [url=glossary:edict]Edict[/url] of Fire would have flooded the Archive with lava but some of the Sages were able to stave it off with a powerful spell. The spell is sustained by the Archive itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Why is the Silent Archive valuable?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Even though the Archive is remarkable in its own right, I can't even properly convey to you its significance. It is more valuable than a library the size of a city. I'm sorry I cannot divulge any more details, but that should be sufficient to emphasize its importance to our cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"We recently captured an Oath Bound and are holding him here, hoping we can get some information about the [url=glossary:disfavored]Disfavored[/url] in the area." She grimaces and wrinkles her nose. "He hasn't been cooperative and I don't have the stomach for violence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Thank you! Now my authority over the Sages is assured. You have given me hope that the Sages will regain the power they once had!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"On top of that, a lot of the Sages have scattered across the region. We could use more of them here, but we don't have the bodies to spare to gather them up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>She gives you a half-bow. Her face is stoic and no longer shows any signs of frustration, "Fatebinder. You honor us with your presence. My name is Renata." She makes a small gesture of salute. "I am sorry we are not better prepared to receive you, but we have had our hands quite full recently." She waves a hand dismissively, shooing away the old subject before starting on a new one. "However, you are not here to talk of such matters, and I am certain we can come to a mutually beneficial arrangement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Please do, Fatebinder. The Sages need a leader and there is no one currently more qualified than I am. We could be a great power again!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Blunt, direct, and to the point. I like that. And I would love to help you, but my attention needs to stay a little closer to home for the time being. The [url=glossary:scarlet chorus]Scarlet Chorus[/url] are swarming all over my former home. Right now I have nowhere to go and practically no one to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"It was kept in the deepest part of the [url=glossary:vellum citadel]Vellum Citadel[/url], protected by dangerous spells so that no one could get to it unless they were a [url=glossary:sage]Sage[/url]. When the [url=glossary:edict]Edict[/url] was declared, many of my brothers and sisters gave their lives to keep the Archive from being destroyed entirely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>She gives you a half-bow, her face stoic and her voice flat. "Fatebinder. The last thing I expected here was a representative of the [url=glossary:disfavored]Disfavored[/url]. My name is Renata. We are not properly prepared to receive you as we have recently taken a prisoner and he has proven to be quite the handful." She puts a hand to her head again, as if to emphasize her consternation. "And I have the feeling you're probably here to speak of just such matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>She gives you a half-bow, her face stoic and her voice flat. "Fatebinder. The last thing I expected here was a representative of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. My name is Renata. We are not properly prepared to receive you as we have recently taken a prisoner and he has proven to be quite the handful." She waves a hand dismissively, shooing away the old subject before starting on a new one. "However, you are not here to talk of such matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"I will admit I had my doubts, Fatebinder. Tales of people's deeds and accomplishments are always exaggerated and legends never live up to the stories told of them. So when you said you would help us, I assumed I'd never see you again. And yet here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"When we arrived, we found the Censor gone and the remaining [url=glossary:scarlet chorus]Scarlet Chorus[/url] easily fell. We've already started setting up a permanent camp and will soon be able to explore the Library and retrieve anything else that was lost to us."
+
+"The Sages will join you in defiance of [url=glossary:kyros]Kyros[/url]' rule. I will go to [url=glossary:ascension hall]Ascension Hall[/url] and lend my voice to those of dissent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"As you are obviously capable of protecting the Silent Archive, I will leave it in your care until we can rebuild the Library and make a new home for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"Fatebinder! What are you doing here? What can I help you with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"You want to lead the Sages?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Yes. Sages tend toward the lifestyle of a...hermit if left on their own - studying, reading, copying manuscripts. With proper leadership, motivation, and organization, they are an unwavering force!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"Guards! We are under attack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Renata looks at you quizzically. "I'm not sure if you're trying to bait me here, Fatebinder, but it's common knowledge where your loyalties currently lie. I am loath to give my true opinion. Suffice it to say, I'll be happy when I am free to study in peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Renata looks at you quizzically. "I'm not sure if you're trying to bait me here, Fatebinder, but it's common knowledge where your loyalties currently lie. I am loath to give my true opinion. Suffice it to say, I'll be happy when I am free to study in peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Ashe has commanded me to speak with Maric, you are standing in the way of [url=glossary:kyros]Kyros[/url]' forces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"I won't ask you again, Renata. Let me talk to Maric or pay the price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"And I have a scattered group to collect and lead - everyone has hardships and I really don't care to hear about yours. [url=glossary:kyros]Kyros[/url] has done enough damage, I will not allow it to continue while I am here. You can bluster all you want - you will not be speaking to the prisoner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Renata's eyes narrow. "It appears you wish this to end in blood. So be it. You will find the Sages aren't so easily silenced."
+
+"Guards! We are under attack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Could I speak to the prisoner?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"I'm afraid I can't allow that, Fatebinder. He has information we need and I don't want my men interrupted while they're working."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"They're desecrating the Library and I'm afraid they will find the Silent Archive. If we lose that, my whole life's work goes up in flames along with the building. And on top of it all we have to deal with the smoke and embers from the [url=glossary:edict]Edict[/url] of Fire."
+
+"So you'll forgive me if I don't take you up on the offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"If I eliminate the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and retrieve the Silent Archive, will you join me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Renata gives you a confused look. "Seriously? That's no small task, Fatebinder. They have taken control of the grounds and I don't even know if you can get to the Silent Archive." She chews the side of her mouth, thinking.
+
+"Okay. If you are serious about doing this for us, the Sages will join you to stand against [url=glossary:kyros]Kyros[/url]. We have had nothing but pain and destruction at the hands of the [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] and I would be happy to return their kindness tenfold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"Cute, Fatebinder. But badgering me with the question isn't going to get me to change my answer. As long as the [url=glossary:scarlet chorus]Scarlet Chorus[/url] control the Library and the Silent Archive is in danger, I am staying here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"And I can help you get to the Library unscathed. One of my Sages escaped captivity and was able to return here with information on where all their patrols are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"Oh, and one more thing. The Silent Archive is the focus for the spell that is keeping the Library from collapsing. You can't simply take it from its home. A suitable substitute must be put in its place. The chamber where it is housed was used as a storage place for powerful artifacts. If you search in there you might find something that could be used to take the place of the scroll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"Do this for me and the Sages are in your debt, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"If you had an artifact of similar power, it could be switched with the Silent Archive and the power of the spell would be sustained. But simply removing the Archive would be disastrous!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"That's not all. I have the Scrivener's Eye for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"Fatebinder! How could I have doubted you? Thank you! Now my authority over the Sages is assured. You have given me hope that the Sages will regain the power they once had!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"We are truly in your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>[Attack] "Enough of this - your life is forfeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"We are not criminals, [url=glossary:sage]Sage[/url]. Whatever else you might think, we are the ones in the right here, and you are simply an obstruction to be moved aside... by force, if need be." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>She scrutinizes Barik with a mixed expression. "Easy for you to say when you stand as tall as the library stacks. Come down to my level if you want to pick a fight, you great iron Spire." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>[Attack] "Enough of this - your life is forfeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>Renata looks to where the young [url=glossary:sage]Sage[/url] disappeared behind a building. "We are..." She pauses and looks up thoughtfully. "How do I say this diplomatically? We are rather short-staffed at the moment and certain...aspects of my day-to-day life are more difficult than I would hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Renata pauses for a moment. "Although I have a matter I would like to address. When the [url=glossary:vellum citadel]Vellum Citadel[/url] was under siege, why did you feel it necessary to [url=lore:bl_sirin_song]muzzle my fellow Sages[/url]? If they escaped, what was so wrong with that? [url=glossary:kyros]Kyros[/url] had issue with the knowledge we had stored, why punish its caretakers? Especially since they were already in fear for their lives!" She puts up her hand and shakes her head.
+
+"Never mind. Don't. I am not sure I want to hear the answer. I have enough problems on my hands right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>"The Sages in charge of the [url=glossary:vellum citadel]Vellum Citadel[/url] changed the runes needed to deactivate the barrier every week. Only a specific few were told the actual sequence. They said it was to 'prevent unwanted eyes in the vault.' I say it's because they were control freaks and liked to make people jump through hoops."
+
+"The passcode was broken into four parts and placed in shelves around the Citadel. Anyone with sufficient skill could find the runes and decipher the passcode, telling them how to deactivate the barrier. That's what you will need to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"Unfortunately, actually getting the Silent Archive isn't going to be as easy as walking in and picking it up. It is protected by an arcane barrier that prevents passage into the chamber that holds it. Once you get inside the Citadel, you'll need to find parts of the passcode." She sighs and shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"Passcode?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"Why do I get the feeling I'm going to be searching a lot of books?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"It would appear that the [url=glossary:edict]Edict[/url] of Fire has been broken. At least I don't have to deal with the wracking coughs caused by smoke and cinders from the [url=glossary:edict]Edict[/url] of Fire - and that oppressive heat! If you had a hand in that, you have my thanks. Though, why a Fatebinder would undo [url=glossary:kyros]Kyros[/url]' Edicts is beyond me. However, I will not refuse such a wonderful gift when presented!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"Guards! We are under attack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"We are very busy." She looks at you pointedly. "Not only are we trying to take back the [url=glossary:burning library]Burning Library[/url], there are [url=glossary:disfavored]Disfavored[/url] skulking around, sticking their noses where they don't belong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"First [url=glossary:sage]Sage[/url] Arwel was the last one to hold the Eye. He didn't make it out of the Citadel's lower levels when [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] ripped it apart. If it hasn't been devoured by the lava, it'll almost certianly be on his remains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"First [url=glossary:sage]Sage[/url] Arwel was the last one to hold the Eye. He didn't make it out of the Citadel's lower levels when [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] ripped it apart. If it hasn't been devoured by the lava, it'll almost certianly be on his remains."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\vx1\vx1_09_cv_ulantis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"He's still alive? Nobody's heard from him in years! I was half-convinced he fell prey to brigands. Or worse, was locked up in some Tiersman shop, toiling away for the enemy." He points towards the roaring flames of the stone hearth. "Lohara barely recognized him, but he did good work here. The stonework is as good as I've ever seen, and the fires always run hot."
+
+"So what happened to him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He smirks at you and nods dutifully. "Yes, of course. Perilous roads along the way north, right Fatebinder? Savaged by mountain lions, no doubt. I hear such wounds take years of recovery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"He's in a remote settlement in the mountains bordering the North. Claims to be one of its founders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Lie] "He's nursing a leg injury in a village south of the Gates of Judgment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'd prefer not to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"That sounds like something he'd do. He always had... what is the term? Healthy self-regard. Knappers don't get as much recognition as those of studying iron, so he made damn sure the whole lot of us knew about his prowess."
+
+He brushes a hand across his forehead, replacing the sweat with soot-filled streaks. "Sure, he was good. And no fan of Lohara, either. That shows some character, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>His eyebrow arches upward. "Really, Fatebinder? Jaspos must have overstepped his bounds. Interesting that he should have an ally in you. Whatever he's doing is none of my concern. Quite frankly, I doubt the Overlord has noted his absence. We've conquered most of the known world... there are few forges left to be built."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Anyway, the tools you're looking for aren't here. I received a missive intended for Lohara just recently. Apparently, [url=glossary:forge-bound]Forge-Bound[/url] Cassandra took the remaining knappers to South Haven. They planned on returning to the North by river, but have been delayed for some reason. If you want to find those tools, you should head there and speak with her."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

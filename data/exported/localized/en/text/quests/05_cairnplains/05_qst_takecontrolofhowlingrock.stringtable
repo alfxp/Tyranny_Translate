@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_cairnplains\05_qst_takecontrolofhowlingrock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Conquest of Howling Rock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Scout the Earthshaker compound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retrieve the shard of Azurelith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Howling Rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Assault the Earthshakers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kill [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>You have been denied access into the Earthshaker fort at Howling Rock. You'll need to find another means by which to enter the fort and take it from the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>[url=glossary:cairn]Cairn[/url] is surrounded by an Earthshaker camp. Scout out the camp in Howling Rock to find a way in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>At Gulfglow is a [url=glossary:disfavored]Disfavored[/url] commander who holds the shard of Azurelith needed to enter the Earthshaker camp at Howling Rock. Acquire the shard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>With the shard of Azurelith in hand and the [url=glossary:disfavored]Disfavored[/url] at Jagged Maw dead, you can begin the assault on the Earthshakers at Howling Rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Using the shard of pure Azurelith as a focal stone to manipulate the terrain, bridge the gap to access and then assault the Earthshakers' compound in Howling Rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>With the Earthshakers in Howling Rock dead, the only thing left is to kill [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>During your assault on the fort, you caught the Earthshakers in the midst of performing a ritual. Either disrupt the guild's ritual by shattering the Azurelith Lodes throughout their camp, or leave the channeling in place so as not to disturb [url=glossary:cairn]Cairn[/url]'s precarious state.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Harvest a piece of [url=glossary:cairn]Cairn[/url] to become more powerful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You've taken over Howling Rock and destroyed both the Earthshakers and [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You've taken over Holwing Rock and destroyed both the [url=glossary:disfavored]Disfavored[/url] and Earthshakers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

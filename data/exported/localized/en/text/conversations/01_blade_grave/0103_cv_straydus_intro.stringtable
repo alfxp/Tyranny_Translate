@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0103_cv_straydus_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>77</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Stalwart's ruler looks at you with a mixture of caution and amazement. His gaze lingers on the Steadfast Insignia. "That explains how you were able to pierce the winds... but why have you come? Not to liberate an enemy, I think."
+
+He squints. "The long isolation has taken its toll, but we aren't deaf to news of the outside world. I think I recognize a Fatebinder when I see one, so logic follows that you are the keeper of [url=glossary:vendrien's well]Vendrien's Well[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"We've survived in the Overlord's prison for over a year. I live on, and so the Regent bloodline endures. Even the [url=glossary:disfavored]Disfavored[/url] couldn't breach [url=glossary:kyros]Kyros[/url]' windwall when the [url=glossary:edict]Edict[/url] crashed upon our heads... though I'm less certain how you managed." 
+
+He regards you with a hint of resignation. "You didn't travel this far to deliver terms of surrender, did you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"This storm is destroying your people. Surely you must see the madness in prolonging the inevitable?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I am here to restore sanity back to the people of Stalwart, to give rule to the [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I am here to liberate Stalwart from all tyrants." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I'm not ignorant of my part in this equation. The [url=glossary:edict]Edict[/url] can only be ended with the [url=lore:edict_storms_resolution]blood of the last Regent,[/url] just as [url=glossary:kyros]Kyros[/url] decreed." He nods. 
+
+"I must warn you - I haven't survived this long only to be cut down by [url=glossary:kyros]Kyros[/url]' lapdog. I endured the war, the [url=glossary:disfavored]Disfavored[/url] suicide march, and the long isolation of this storm. I won't make it easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>His brow rises. "I'm impressed that the [url=glossary:unbroken]Unbroken[/url] have held together this long without my leadership. Once I'm free of the keep, I'll be only too happy to whip them back into order."
+
+"Stalwart belongs to the Regents, the last of whom stands before you. This nation will remain under my rule, even as a blasted wasteland."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Big words from one of [url=glossary:kyros]Kyros[/url]' decorated lackeys. There is only one authority in Stalwart, and he stands before you." Straydus draws himself up with pride.
+
+"The people of Stalwart have always followed the Regents, and any attempt to do otherwise is high treason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You could have ended this [url=glossary:edict]Edict[/url] long ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"A true leader would have fought to the very end rather than hide here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'm going to end the [url=glossary:edict]Edict[/url] one way or another. Will you help me or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You mean by suicide or execution at the hands of my countrymen?" His expression withers. 
+
+"That would betray the dignity of my station and the honor of my soldiers alike. In caving to the Overlord's will, we would lose the very thing which makes Stalwart great - our perseverance." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Your doubt is understandable, but why should I have fought a losing battle? Stalwart's Regents have always endured where others fell. In Sentinel Stand, I could outlast any enemy." 
+
+"And how could I have known that [url=glossary:kyros]Kyros[/url] would be so... exacting in punishment?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I will not, and you are a fool to think that I would accept such an outrageous proposal, given everything that it represents. The very pride of my station hinges on rejecting your impossible solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I'm here to end the [url=glossary:edict]Edict[/url] of Storms... by delivering your head to [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"No small task for one of [url=glossary:kyros]Kyros[/url]' pet swine. Do you imagine it'll be as easy as running me through? I think not." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Attack] "You have delayed your death long enough, Regent. No more hiding." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Brilliant. Figured that one out all by yourself? You realize my voice might never recover from all that dust, right? How about a little sympathy for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Your burden is nothing to mine, or that of your people. To consign your country to this is unforgivable." 
+
+"When [url=glossary:kyros]Kyros[/url] called on Ashe to submit, he chose his soldiers' lives over his pride. You are a coward, and I'll see it you die like one, too." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Because in the past, restraint is what [url=glossary:kyros]Kyros[/url] has been known for? The Tiers are in shambles and you thought you would escape retribution? Your naivety is impressive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I've come to take Sentinel Stand. You will submit or die." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"If you think that's possible, then you know nothing about the Realm of Stalwart. This is my rightful seat, and I will reside here until my dying day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"While the initial deaths caused by the [url=glossary:edict]Edict[/url] of Storms are ultimately on [url=glossary:kyros]Kyros[/url]' hands, the continued devastation could've been, and now could be prevented by Herodin, so now it's his crime."
+
+"Your Overlord certainly works in amusing ways - the storms are the obvious attack, the more subtle strike is how this [url=glossary:edict]Edict[/url] brings out the cowardice and pride endemic to Stalwart. I always did wonder how the [url=glossary:unbroken]Unbroken[/url] would finally lose their winning streak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What was that about a [url=glossary:disfavored]Disfavored[/url] suicide march?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"In the second year of the war, my personal forces captured one of [url=glossary:graven ashe]Graven Ashe[/url]'s elite legions. We divided their numbers for our own protection - some here, others at Duskwatch - with plans of bargaining with Ashe for their lives." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I remember that day too well... if you had but surrendered, then hundreds of Northerners and Southerners alike would have been spared!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"You are blind to reason. There is no recourse but to end your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You are every bit the Northern emissary - unwilling to resolve anything through compromise, resorting to bloodshed in short order." 
+
+"At least my expectations were calibrated properly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Our definitions of 'reason' come from very different places, Fatebinder. As the Overlord's vassal, you are accustomed to one-sided negotiations and ultimatums that preclude any open dialogue." He nods. "By your standpoint, I must seem unreasonable indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Typical that the attendants of [url=glossary:kyros]Kyros[/url] present no agreeable terms. You may distort the histories to reflect that I forced this confrontation, but everyone here will remember that when your Overlord locked me in an impossible choice, I chose Stalwart." 
+
+Herodin turns away and heads through the portcullis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"He has no idea what has become of Stalwart outside of these walls... I almost pity him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"The war came to a, shall I say, climactic stalemate when a [url=glossary:disfavored]Disfavored[/url] force amassed around Sentinel Stand to drive us out and liberate our... our prisoner."
+
+A thoughtful expression overcomes him, but he dispels it with a shake of his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"The rest, as you know, is history. Before the [url=glossary:disfavored]Disfavored[/url] could finish their desperate attack, the [url=glossary:edict]Edict[/url] swept up my people and Ashe's legion like they were made of straw, battering bones and iron into so much dust that now swirls about our heads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Stalwart bows to no one, you armadillo of rust and entropy!" Herodin grimaces at Barik and shakes his head. "Your presence alone dirties these noble defenses." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I took no pleasure in watching storms ravage my country, here from the safety of the eye. I have suffered the weight of that decision every day, but I would never second-guess it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I'm here for the daughter of [url=glossary:graven ashe]Graven Ashe[/url]." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>His eyes narrow. "While I live, this is the safest fortress in all the Tiers. Amelia is in better hands than anywhere else on Terratus." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"If you've come to liberate her, I assure you the effort has been wasted. She isn't going anywhere." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"As your prisoner? Depraved monster, release her now or perish by my hand!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Lie] "The Archon of War might show you mercy if you hand her over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] has offered to keep her safe at Cacophony." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"We will see about that, Regent. The choice is yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Spare me your empty promises. [url=glossary:graven ashe]Graven Ashe[/url] cares for conquest more than family. He could live for centuries more, and no doubt sire a hundred daughters."
+
+"He wants to see this [url=glossary:edict]Edict[/url] come to an end along with my bloodline, and I venture he would make any sacrifice to that end." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I can think of no more dangerous place in all the Tiers than the company of that gangrenous villain. Even if I had [url=glossary:graven ashe]Graven Ashe[/url] himself in my custody, I would not hand over him to the Archon of Secrets for fear of [url=lore:voices_power]growing his madness."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I came for the clear skies, but it seems I was misinformed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I was hoping to talk some sense into you first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I am willing to treat with you under peaceable terms, but I will not give up this fortress or those who reside here. Nor will I waste my life on any fool's ambition to see [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] resolved." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Is it? You've come to take my fortress, my people and my life. As my nation's sovereign, I merely stand in defense of Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] has no desire to end the [url=glossary:edict]Edict[/url]. Surrender and live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"As if I would put my safety, or my people, into the hands of that creature?" Herodin shakes his head. "I know enough of his atrocities without subjecting myself to them. He would no doubt torture me into a mindless stupor, an echo of life for his enjoyment." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"We have outlasted too much for empty promises to sway us now. Stalwart's finest will hold this fortress until [url=glossary:kyros]Kyros[/url] withdraws. Conscription into the red-clad mob is not an option." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Clear skies? But we're..." Herodin stops himself and frowns at you.
+
+"I'm afraid your humor is wasted on us, Fatebinder. We've seen too much death since the forces of [url=glossary:kyros]Kyros[/url] marched south, and these winds are a constant reminder of all we've lost."
+
+"There will be no clear skies over Stalwart while my heart yet beats." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Herodin!" Barik pounds his fist together hard enough to shake the earth. "Come out and face us, coward! You've dodged this reckoning long enough." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>The Regent blinks. "Do I know you? Your face - what little I can make of it - eludes me." 
+
+He sniffs and returns his attention to you. "Your friend here seems a mite unstable for emissary work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"You're not wrong. I'd say he's unstable for any kind of work." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Sorry to contradict you in front of the others but," Eb casts a side eye glance at Herodin, "they're not HIS people any longer, the [url=glossary:unbroken]Unbroken[/url] outside this keep curse his name. But if this aged fish-diddler had any grasp on reality, he'd have offed himself already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"You will return her to us, fiend! Alive and unharmed, or so help me the people of Stalwart won't even recognize your remains." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Sense? He's been holed up behind these walls while his realm slowly perishes. Not sure if sensibility or reason are within his grasp... but it is wise that we try to talk things through, and not leap to bloodshed - no matter how inevitable it may seem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"The Great General isn't much for decoration, but I warrant the rest of the legion will find some use for it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"It's important to set the right expectations in moments like these. You're quite the orator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You preyed on the Archon's love for his troops, monster!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I mean, that's just one option. Have you thought about any of the others?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Would anyone else like to make an empty gesture? Seems there are plenty to go around." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>He raises his voice for all to hear. "As Regent of the great realm of Stalwart, I eject you from any courtesy or invitation that holds you to these walls, and banish you from my lands!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Be reasonable, Herodin. This doesn't need to end in violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[Attack] "Enough talk. I will not deny the Voices his prize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Then it's to be conscription and interrogation?" Straydus nods and sighs. "I suspected the Archon of Secrets would come for me eventually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"What have you gained from this long stalemate, beyond the hatred of your people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>He hesitates to answer at first, then screws his face into a grimace. "The people do not know what is best for Stalwart. We need a strong leader who understands the traditions of the realm - whose blood is a part of that storied heritage."
+
+"If they spite me for preserving our strength here and outlasting the war... so be it. I did not accept this mantle for adoration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"What have I gained? I have kept Stalwart alive in this self-imposed prison, whatever else you may think. The desperation to reach this place and end my life only confirms the righteousness of that decision, as hard as it has been!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I've come on behalf of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to deliver the terms of surrender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I'm sure we can come to a mutually-beneficial arrangement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"We have outlasted too much for empty promises to sway us now. Stalwart's finest will hold this fortress until [url=glossary:kyros]Kyros[/url] withdraws. Conscription into the red-clad mob is not an option." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Do you expect me to believe that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I implore you to surrender and live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"If I didn't surrender to [url=glossary:kyros]Kyros[/url] all this time, did you think I would give in to the likes of you?" He spits. "I am the blood of old Stalwart, the persistence that kept us standing, the strength that kept us together! I surrender to no one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Do you expect me to believe that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

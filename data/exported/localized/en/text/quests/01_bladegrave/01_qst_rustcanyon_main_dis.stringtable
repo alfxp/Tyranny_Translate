@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_main_dis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>That Which Remains</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Meet with Teodor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Pursue Elia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Take control of the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Secure the eastern gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] believes that the artifacts the [url=glossary:unbroken]Unbroken[/url] are looking for may help you enter Sentinel Stand Keep. He has dispatched soldiers to Rust Canyons, where the rebels have been hunting for the heirlooms of fallen Regents. Help the [url=glossary:disfavored]Disfavored[/url] take control of the [url=glossary:unbroken]Unbroken[/url] camp and learn more about the artifact hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Travel to the Rust Canyons and meet with Teodor, commander of the [url=glossary:disfavored]Disfavored[/url] forces in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Elia and some of her men escaped the camp as it fell, and are attempting to flee Rust Canyons. Follow their path north and prevent them from escaping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Assault the [url=glossary:unbroken]Unbroken[/url] camp in Rust Canyons. Secure the area and kill all [url=glossary:unbroken]Unbroken[/url] soldiers inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] have men stationed outside the eastern camp gates in Rust Canyons. Kill the soldiers and free the [url=glossary:disfavored]Disfavored[/url] captives there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>You met Elia, leader of the [url=glossary:unbroken]Unbroken[/url] forces. You should speak with Teodor first before attacking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>You attacked the [url=glossary:unbroken]Unbroken[/url] camp before coordinating with Teodor and must now take the camp alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>You've taken the area outside the eastern gate. Now help the [url=glossary:disfavored]Disfavored[/url] prisoners out of the pit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Teodor's men will attack the eastern gate to provide assistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>You've managed to get inside the camp undetected. Use this advantage to defeat the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Shoot out the winch holding up the ramp to reach the [url=glossary:unbroken]Unbroken[/url] on the overlook.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You defeated Elia and learned about efforts to recover the Steadfast Insignia at the Oldwalls Breach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>You turned on Teodor and decided to take the camp for yourself, becoming an enemy of the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

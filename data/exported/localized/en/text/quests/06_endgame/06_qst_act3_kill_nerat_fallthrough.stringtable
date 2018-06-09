@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_endgame\06_qst_act3_kill_nerat_fallthrough</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Assault on Cacophony</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to Cacophony.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Defeat Nerat's forces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Defeat [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Archon of Secrets is holed up in his fortress of Cacophony. If you wish to survive [url=glossary:kyros]Kyros[/url]' decree, you will need to silence [url=glossary:the voices of nerat]the Voices of Nerat[/url] once and for all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Take the fight to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and travel to Cacophony.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Numerous soldiers of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] stand between you and [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Cut your way through them and find Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>You left many dead [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldiers in your wake and reached [url=glossary:the voices of nerat]the Voices of Nerat[/url]. End him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>With [url=glossary:the voices of nerat]The Voices of Nerat[/url] dead, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] will fall into complete disarray.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_blade_grave\0105_cv_defense_phase_feedback</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You hear shouts coming from the north side of the fort. The [url=glossary:disfavored]Disfavored[/url] are attempting to breach one of the damaged palisade walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Horn blasts erupt from the east. You can see [url=glossary:disfavored]Disfavored[/url] soldiers ramming the eastern wall. The fortifications don't look like they'll hold much longer.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
