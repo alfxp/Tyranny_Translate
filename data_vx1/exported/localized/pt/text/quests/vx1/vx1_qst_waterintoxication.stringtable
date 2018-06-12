@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\vx1\vx1_qst_waterintoxication</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Intoxicação por Água</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reunir evidências de adulteração de água</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Comunicar para Tycho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tycho está encarregado da Fazenda na Ferida do Bastardo. Ela percebeu que ultimamente as plantações não estavam crescendo corretamente devido à adulteração de água. Ela pediu-lhe para analisar o assunto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Alguém na Fazenda de Feridas do Bastardo deve ter visto ou ouvido algo sobre o que está acontecendo com as plantações. Investigue falando com as pessoas ao redor da fazenda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você coletou informações sobre quem é responsável por adulterar a água da fazenda. Você pode dizer ao Tycho o que descobriu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Kleitos admitiu ajudar Jaspos regando os cogumelos com a água do [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Lunet admitiu ajudar Wagstaff ao regar as colheitas normais com água de Tidecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Oceans-Fury disse que viu onde Kleitos e Lunet escondem suas substâncias que mudam a água.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você descobriu o musgo desidratado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Você descobriu Ash Descolorado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Você descobriu provas suficientes para dizer a Tycho exatamente quem está mexendo na água da fazenda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você ajudou Tycho a descobrir o que estava acontecendo com as plantações agrícolas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você decidiu deixar Tycho com o problema de resolver o problema com as plantações agrícolas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

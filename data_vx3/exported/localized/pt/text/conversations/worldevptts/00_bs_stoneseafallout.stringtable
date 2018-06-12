@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_bs_stoneseafallout</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Esteja pronto, homens! Não subestime o Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Para [url=glossary:graven ashe]Graven Ashe[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[url=glossary:stonestalker]Stonestalker[/url] pack will vingar [url=glossary:prima]Prima[/url] - mostre que tribo tem força!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Rasgue-rasgue-rasgue! Derrame a força vital de Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

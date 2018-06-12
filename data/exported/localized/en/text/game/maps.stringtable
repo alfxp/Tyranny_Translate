@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\maps</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>209</EntryCount>
+  <EntryCount>208</EntryCount>
   <Entries>
     <Entry>
       <ID>8</ID>
@@ -1058,11 +1058,6 @@ At present, the area is loosely controlled by the [url=glossary:bronze brotherho
     <Entry>
       <ID>262</ID>
       <DefaultText>You are currently unable to access the base of the spire.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>306</ID>
-      <DefaultText>{0} has left the party.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

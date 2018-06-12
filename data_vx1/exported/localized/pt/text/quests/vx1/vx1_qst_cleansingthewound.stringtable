@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\vx1\vx1_qst_cleansingthewound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Limpando a ferida</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mate todos na ferida do bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Os habitantes da ferida do bastardo se tornaram hostis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Limpe a ferida do bastardo de todos os seres vivos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você eliminou os habitantes da ferida do bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>[url=glossary:armor]Armor[/url] can never reduce damage below 1.</DefaultText>
+      <DefaultText>[url=glossary:armor]Armor[/url] nunca pode reduzir o dano abaixo de 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Feitiços são criados a partir de sigilos principais e de expressão. Os sigilos principais determinam o tipo de magia (cura de fogo, etc.) enquanto sigilos de expressão determinam a forma (toque de aura, etc.).</DefaultText>
+      <DefaultText>Feitiços são criados a partir de sigilos principais e de expressão. Os sigilos principais determinam o tipo de magia (fogo, cura, etc.) enquanto sigilos de expressão determinam a forma (toque, aura, parafuso, etc.).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Usar um consumível em combate acontece instantaneamente e não envia seu personagem para a recuperação. Uma vez que o consumível é usado, todos os consumíveis estão em cooldown por um curto período.</DefaultText>
+      <DefaultText>Usar um consumível em combate acontece instantaneamente e não envia seu personagem para a recuperação. Uma vez que um consumível é usado, todos os consumíveis estão em cooldown por um curto período.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,22 +56,22 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>The [url=glossary:athletics]Athletics[/url] skill can be used to intimidate characters in conversations.</DefaultText>
+      <DefaultText>A habilidade [url=glossary:athletics]Athletics[/url] pode ser usada para intimidar personagens em conversas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>The [url=glossary:subterfuge]Subterfuge[/url] skill can be used to bluff or deceive characters in conversations.</DefaultText>
+      <DefaultText>A habilidade [url=glossary:subterfuge]Subterfuge[/url] pode ser usada para blefar ou enganar personagens em conversas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>The [url=glossary:lore]Lore[/url] skill can be used to impress characters in conversations with your knowledge or insight.</DefaultText>
+      <DefaultText>A habilidade [url=glossary:lore]Lore[/url] pode ser usada para impressionar personagens em conversas com seu conhecimento ou insight.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Enable [url=glossary:scouting]Scouting[/url] Mode to gain a bonus to detect hidden containers or traps.</DefaultText>
+      <DefaultText>Ative o modo [url=glossary:scouting]Scouting[/url] para ganhar um bônus para detectar contêineres ou armadilhas ocultas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Os personagens ficam feridos quando a sua saúde é reduzida significativamente ou eles são nocauteados. [url=glossary:wounds]Wounds[/url] are cleared when a character gains a new level or the party rests.</DefaultText>
+      <DefaultText>Os personagens ficam feridos quando a sua saúde é reduzida significativamente ou eles são nocauteados. [url=glossary:wounds]Wounds[/url] são limpos quando um personagem ganha um novo nível ou a parte descansa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Mantenha pressionada a tecla M para maximizar a janela Mini-map / Combat Log.</DefaultText>
+      <DefaultText>Mantenha pressionada a tecla 'M' para maximizar a janela Mini-map / Combat Log.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>O Combat Log fornece informações detalhadas sobre o seu ataque, jogando defesas inimigas e Aflições aplicadas por habilidades.</DefaultText>
+      <DefaultText>O Combat Log fornece informações detalhadas sobre suas jogadas de ataque, defesas inimigas e Aflições aplicadas por habilidades.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>A high [url=glossary:lore]Lore[/url] skill is required to create the most powerful spell combinations.</DefaultText>
+      <DefaultText>Uma alta habilidade [url=glossary:lore]Lore[/url] é necessária para criar as combinações de magia mais poderosas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,12 +141,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Ao usar uma área de efeito, a habilidade ou a magia direciona um inimigo diretamente para que a habilidade rastreie sua posição. Isso torna mais fácil atingir alvos em movimento.</DefaultText>
+      <DefaultText>Ao usar uma área de habilidade de efeito ou feitiço, direcione um inimigo diretamente para que a habilidade rastreie sua posição. Isso torna mais fácil atingir alvos em movimento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Ao contrário da maioria dos inimigos, o Bane causa grandes quantidades de dano Arcano. Suas defesas normais não funcionam tão bem contra elas.</DefaultText>
+      <DefaultText>Ao contrário da maioria dos inimigos, Bane causa grandes quantidades de dano Arcano. Suas defesas normais não funcionam tão bem contra elas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Personagens ficam feridos quando são nocauteados. Em Path of the Damned, os personagens de dificuldade também se tornam Feridos quando sua saúde é significativamente reduzida. [url=glossary:wounds]Wounds[/url] are cleared when a character gains a new level or the party rests.</DefaultText>
+      <DefaultText>Personagens ficam feridos quando são nocauteados. Na dificuldade Caminho do Condenado, os personagens também se tornam Feridos quando sua saúde é significativamente reduzida. [url=glossary:wounds]Wounds[/url] são limpos quando um personagem ganha um novo nível ou a parte descansa.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,193 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\vx1\vx1_qst_knappingonthejob</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Knapping no trabalho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com o [url=glossary:forge-bound]Forge-Bound[/url] em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale ao comerciante que vende [url=glossary:forge-bound]Forge-Bound[/url] artigos em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com o comerciante Basila.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Viajar para a aldeia de South Haven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fale com Cassandra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Mate Cassandra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Fale com os residentes de South Haven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Roube as ferramentas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Volte para Jaspos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Volte para Jaspos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Pegue as ferramentas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Confira o centro da vila.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Roube as ferramentas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Jaspos não estava carregando todas as suas ferramentas com ele quando ele tropeçou na ferida do bastardo, e, como tal, sua coleção de ferramentas infundidas misticamente foram deixadas para trás em [url=glossary:lethian's crossing]Lethian's Crossing[/url].Ele pediu para você encontrar o [url=glossary:forge-bound]Forge-Bound[/url] atualmente em posse de seu equipamento antigo e recuperar suas ferramentas valorizadas, infundidas misticamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Jaspos deixou suas ferramentas em [url=glossary:lethian's crossing]Lethian's Crossing[/url] quando ele completou seu trabalho na forja lá. Fale com o [url=glossary:forge-bound]Forge-Bound[/url] sobre onde eles podem estar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Jaspos deixou suas ferramentas em [url=glossary:lethian's crossing]Lethian's Crossing[/url] quando ele completou seu trabalho na forja lá. Fale com o comerciante que vende as mercadorias que o [url=glossary:forge-bound]Forge-Bound[/url] deixou para inquirir sobre o paradeiro deles / delas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Merchant Cyril não sabe onde as ferramentas de Jaspos podem ter ido, mas ele acha que Merchant Basila pode saber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Cassandra, a [url=glossary:forge-bound]Forge-Bound[/url] que tem ferramentas de Jaspos, é relatada para estar atualmente na aldeia de South Haven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>O líder do [url=glossary:forge-bound]Forge-Bound[/url] em South Haven é um mestre chamado Cassandra. Fale com ela sobre as ferramentas de Jaspos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Cassandra se recusa a desistir de suas ferramentas, tirá-las à força.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Cassandra não está disposta a desistir de suas ferramentas sabendo que iriam para Jaspos. Se você não quiser levá-los à força, falar com os moradores de South Haven pode revelar outras opções.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Sob a tampa da noite, esgueirar-se para a área da aldeia e roubar as ferramentas da oficina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Com as ferramentas na mão, volte para Jaspos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Você decidiu não levar as ferramentas de Cassandra. Informe Jaspos da sua decisão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Você viu as ferramentas na mesa atrás da fogueira. Com Cassandra ido você está livre para levá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Capteron não retornou depois de concordar em pegar as ferramentas de Cassandra e você ouve aldeões furiosos ao longe. Veja o que a comoção é tudo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Cassandra está ocupada com uma execução pública por tentativa de roubo da propriedade [url=glossary:forge-bound]Forge-Bound[/url]. Suas ferramentas estão atualmente desprotegidas e maduras para a tomada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Cassandra não está disponível durante a noite, fale com alguém sobre um lugar para ficar até de manhã.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Nikodemus não vai mover-se do seu lugar vigiando as escadas para a área [url=glossary:forge-bound]Forge-Bound[/url]. Encontre uma maneira de distraí-lo para que ele vá embora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Os [url=glossary:forge-bound]Forge-Bound[/url] ficaram preocupados com suas ações recentes. Eles não te recebem mais em South Haven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você deu a Jaspos as ferramentas restantes como ele pediu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você deu as ferramentas para Wagstaff em vez de Jaspos. Jaspos não ficou satisfeito com sua decisão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você decidiu não levar as ferramentas de Cassandra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você matou Jaspos e não consegue completar essa missão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você não conseguiu pegar as ferramentas de Gravelight da aldeia antes que ela queimou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

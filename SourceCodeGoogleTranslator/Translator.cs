@@ -6,9 +6,11 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.IO;
 using System.Linq;
 using System.Net;
+using System.Text.RegularExpressions;
 using System.Web;
 
 namespace Tyranny.GoogleTranslator
@@ -33,7 +35,7 @@ namespace Tyranny.GoogleTranslator
             /// <summary>
             /// Gets the time taken to perform the translation.
             /// </summary>
-            public TimeSpan TranslationTime {
+            public Guid TranslationGuid {
                 get;
                 private set;
             }
@@ -74,7 +76,7 @@ namespace Tyranny.GoogleTranslator
                 // Initialize
                 this.Error = null;
                 this.TranslationSpeechUrl = null;
-                this.TranslationTime = TimeSpan.Zero;
+                this.TranslationGuid = Guid.NewGuid();
                 DateTime tmStart = DateTime.Now;
                 string translation = string.Empty;
 
@@ -84,7 +86,9 @@ namespace Tyranny.GoogleTranslator
                                                 Translator.LanguageEnumToIdentifier (sourceLanguage),
                                                 Translator.LanguageEnumToIdentifier (targetLanguage),
                                                 HttpUtility.UrlEncode (sourceText));
-                    string outputFile = Path.GetTempFileName();
+
+                //Do not use System.IO.Path.GetTempFileName()!!! Limit 65536 files
+                string outputFile = Path.Combine(Path.GetTempPath(), TranslationGuid.ToString());
                     using (WebClient wc = new WebClient ()) {
                         wc.Headers.Add ("user-agent", "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36");
                         wc.DownloadFile(url, outputFile);
@@ -98,102 +102,22 @@ namespace Tyranny.GoogleTranslator
 
                     //Read Translate result                    
                     var jsonObject = JsonConvert.DeserializeObject<JArray>(text);
-
-
-                    //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-                    //Leia caso deseje me ajudar.
-                    //Parei aqui. é necessario melhorar...
-                    //traduzir texto aleatorios é complicado.
-                    //Quando o arquivo de resource tem a palavra '[url'  ou '['                      
-
-                    //Verifica se a frase é estatica.
-                    if(((string)((JValue)jsonObject[0][0][1]).Value).Contains("["))
+                    
+                    foreach (var item in jsonObject[0])
                     {
-                        translation += (string)((JValue)jsonObject[0][0][1]).Value;
-                    }
-                    else
-                    {
-                        translation += (string)((JValue)jsonObject[0][0][0]).Value;
-                    }
-                    //Verifica se a frase é estatica.
-                    if (((string)((JValue)jsonObject[0][1][1]).Value).Contains("["))
-                    {
-                        translation += (string)((JValue)jsonObject[0][1][1]).Value;
-                    }
-                    else
-                    {
-                        translation += (string)((JValue)jsonObject[0][1][0]).Value;
-                    }
-                    //Verifica se a frase é estatica.
-                    if (((string)((JValue)jsonObject[0][2][1]).Value).Contains("["))
-                    {
-                        translation += (string)((JValue)jsonObject[0][2][1]).Value;
-                    }
-                    else
-                    {
-                        translation += (string)((JValue)jsonObject[0][2][0]).Value;
-                    }
-                    //Verifica se a frase é estatica.
-                    if (((string)((JValue)jsonObject[0][3][1]).Value).Contains("["))
-                    {
-                        translation += (string)((JValue)jsonObject[0][3][1]).Value;
-                    }
-                    else
-                    {
-                        translation += (string)((JValue)jsonObject[0][3][0]).Value;
+                        translation += item[0];
                     }
 
-                    //Verifica se a frase é estatica.
-                    if (((string)((JValue)jsonObject[0][4][1]).Value).Contains("["))
-                    {
-                        translation += (string)((JValue)jsonObject[0][4][1]).Value;
-                    }
-                    else
-                    {
-                        translation += (string)((JValue)jsonObject[0][4][0]).Value;
-                    }
-
-                    //Verifica se a frase é estatica.
-                    if (((string)((JValue)jsonObject[0][5][1]).Value).Contains("["))
-                    {
-                        translation += (string)((JValue)jsonObject[0][5][1]).Value;
-                    }
-                    else
-                    {
-                        translation += (string)((JValue)jsonObject[0][5][0]).Value;
-                    }
-
-                    //Verifica se a frase é estatica.
-                    if (((string)((JValue)jsonObject[0][6][1]).Value).Contains("["))
-                    {
-                        translation += (string)((JValue)jsonObject[0][6][1]).Value;
-                    }
-                    else
-                    {
-                        translation += (string)((JValue)jsonObject[0][6][0]).Value;
-                    }
-
-                    //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-                    //Trim
-                    translation = translation.Trim();
-                    translation = translation.Replace(" ?", "?");
-                    translation = translation.Replace(" !", "!");
-                    translation = translation.Replace(" ,", ",");
-                    translation = translation.Replace(" .", ".");
-                    translation = translation.Replace(" ;", ";");
-
-                        // And translation speech URL
-                        //this.TranslationSpeechUrl = string.Format ("https://translate.googleapis.com/translate_tts?ie=UTF-8&q={0}&tl={1}&total=1&idx=0&textlen={2}&client=gtx",
-                        //                                          HttpUtility.UrlEncode (translation), Translator.LanguageEnumToIdentifier (targetLanguage), translation.Length);
-                    }
+                    // And translation speech URL
+                    //this.TranslationSpeechUrl = string.Format ("https://translate.googleapis.com/translate_tts?ie=UTF-8&q={0}&tl={1}&total=1&idx=0&textlen={2}&client=gtx",
+                    //                                          HttpUtility.UrlEncode (translation), Translator.LanguageEnumToIdentifier (targetLanguage), translation.Length);
                 }
+            }
                 catch (Exception ex) {
                     this.Error = ex;
                 }
 
-                // Return result
-                this.TranslationTime = DateTime.Now - tmStart;
+                // Return result                
                 return translation;
             }
 

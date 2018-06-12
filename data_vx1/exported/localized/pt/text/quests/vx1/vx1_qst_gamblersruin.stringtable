@@ -1,0 +1,163 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\vx1\vx1_qst_gamblersruin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ruína do Jogador</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Pergunta Mell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retornar para Rostrom Lenk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Obtenha informações da Telesophia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Encontre o Woundkin morto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retornar para Mell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Confrontar Tonves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Confrontar Mell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Conheça Tonves no Oldwalls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Confrontar Mell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Fale com o Argaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Conheça Argaen no Bastião Despedaçado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Retornar para Telesophia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rostrom Lenk acredita que Mell, o bookie da Wound, está trapaceando. Ele pediu para você investigar o assunto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Rostrom acha que o melhor lugar para começar é questionar Mell diretamente. Como Escriba, ele deve reconhecer a autoridade de um Fatebinder e responder com verdade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Com a situação de trapaça resolvida, volte para Rostrom Lenk e deixe-o saber o que aconteceu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Mell mencionou que a Telesophia é responsável por determinar as chances de sobrevivência de Woundkin em uma caçada. Ela pode expandir seu envolvimento nessas apostas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Mell diz que a melhor maneira de descobrir o que Tonves está fazendo é inspecionar o corpo do falecido Beastman. Ele disse que o teleportador do sul te levaria ao corpo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Com as informações que você obteve da Telesophia, fale novamente com Mell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você descobriu evidências de que um ferreiro é responsável pelo Beastman morto. Mell implicou Tonves quando você falou com ele antes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Tonves admitiu ter matado Beastmen, mas disse que Mell o chantageou para matar os mais fortes e saudáveis. Isso é razão suficiente para confrontar Mell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Tonfins fugiram para os Oldwalls, temendo a reação do seu confronto com Mell. Informe-o da sua decisão sobre o jogo e Beastmen matando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Com Tonves, confronte Mell sobre seu envolvimento nos assassinatos de Woundkin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Telesophia pediu-lhe para matar Argaen, falar com ele primeiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Argaen disse que ele iria encontrá-lo em um penhasco no lado oeste do Shattered Bastion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Com o Argaen fora do caminho, a Telesophia deve oferecer as informações de que você precisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Afirmando que contradizia as leis de [url=glossary:kyros]Kyros[/url], você encerra a operação de jogo dentro da Ferida de Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você removeu Tonfins do Wound de Bastard e retornou as taxas de morte de Woundkin ao normal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você desligou a operação de jogo de Mell e forçou Tonves a parar de matar Woundkin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você forçou Mell a parar de chantagear Tonves para matar Woundkin específico.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Não vendo a necessidade de intervir, você decidiu deixar as coisas como estavam.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

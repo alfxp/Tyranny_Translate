@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_dead_woundkin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O cadáver de uma Woundkin está em uma pilha a seus pés. Enquanto o cadáver está frio, a falta de decadência sugere que a Besta recentemente encontrou seu fim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examine injuries to the corpse.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Look for signs of struggle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ossos quebrados distendem a carne machucada do Woundkin. As lesões parecem ter sido causadas por um objeto grande e contundente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Há sangue acumulado pelo cadáver, mas pouco em termos de respingos ou pêlos rasgados que você esperaria ver depois de uma briga. A fera provavelmente foi pego de surpresa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

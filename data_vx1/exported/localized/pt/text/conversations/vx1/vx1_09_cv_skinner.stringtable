@@ -1,0 +1,779 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_skinner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>153</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Aproxime-se, amigo!" O soldado gira seu machado enquanto ele chama por você. "Vamos dar uma boa olhada em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Aproxime-se, amigo!" O soldado gira seu machado enquanto ele chama por você. "Vamos dar uma boa olhada em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ainda aqui? Essa aldeia é tão excitante?" Ele gira um pesado machado de batalha pela cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Então, o que te leva a essa mancha de merda de uma aldeia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Quem está no comando aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Estou aqui para um [url=glossary:sage]Sage[/url] chamado Phoibe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Isso seria 'Crass' Callia - ela é a única sempre parecendo que ela está tendo um momento pior do que todos os outros. Procure o Blood Chanter no telhado ao norte daqui. Sem dúvida, ela está pensando se nossos problemas podem ou não ser resolvidos, oh eu não sei, fogo? "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Você poderia ter sorte. Nós capturamos alguns que estavam à espreita na área, mas eu não prestei atenção aos nomes deles. Quando você está tentando interrogá-los, detalhes como esse parecem tão ... secundários. Você deve conversar com o chefe sobre eles. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Leave] "I'll be going now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Aprenda alguma coisa com os Sábios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Algum plano para libertar os Sábios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Oh, muito. Mas nada no menor sentido crível. Pressione uma lâmina para um pescoço e ele vai olhar para você como ele foi deixado cair como um bebê. Faça o mesmo com um [url=glossary:sage]Sage[/url] e ela vai falar por alguns minutos antes você percebe que é tudo buraco de lastro vomitado ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Quatro soldados do Coro se envolvem em debates animados, vociferantes em suas reivindicações. "Guarde, Skinner. O fato de você fantasiar sobre o que Gaptooth pode fazer com sua boca não significa que ela vai ganhar o jogo, apenas que você quer desesperadamente que ela o faça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Então, o que te leva a essa mancha de merda de uma aldeia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"O que você está discutindo?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Então os chefes de gangues agora estão bem com apostas no Arquivo Silencioso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"A palavra é que o Arquivo Silencioso não está mais enterrado dentro do [url=glossary:burning library]Burning Library[/url]. Sem dúvida o Censor está satisfeito ... mas isso não é importante. O importante é descobrir quais gangues do Censor chegaram primeiro! Todos nós temos anéis em diferentes - meu dinheiro está em Gaptooth, mas ainda não recebemos nenhuma atualização. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Bluff] "[url=glossary:kyros]Kyros[/url]' law expressly forbids gambling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Eu disse isso? Eu definitivamente não disse isso. Um desses idiotas vai perder, mas ninguém é obrigado a pagar. Nós somos a horda! Orgulho vale mais que anéis." Ele abaixa a voz para um quase sussurro. "Às vezes, apenas medimos esse orgulho nos anéis".
+
+"Então ... você sabe quem tem o arquivo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Lie] "Bone Whittler won."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Lie] "It was Fat Ulsten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Lie] "Gaptooth was the victor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Lie] "Numbly made it to the end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Na verdade, eu peguei o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Oh, nós não estamos fazendo nada do tipo. Esta é apenas a nossa maneira divertida de dividir os anéis que encontramos enquanto estivermos em patrulha. Não é como se estivéssemos usando o nome do Overlord em nada disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Pela autoridade do Tribunal, eu sentencio todos vocês à morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Por seus crimes, todos vocês serão transferidos para um novo líder de gangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Eu tenho a informação que você precisa para resolver sua aposta. O que vale a pena?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Eu vou ignorar essa transgressão, mas vai ser a sua cabeça em um pico se eu te pegar de novo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Estou aqui para um [url=glossary:sage]Sage[/url] chamado Phoibe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Você poderia ter sorte. Nós capturamos alguns que estavam à espreita na área, mas eu não prestei atenção aos nomes deles. Quando você está tentando interrogá-los, detalhes como esse parecem tão ... secundários. Você deve conversar com o chefe sobre eles. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Eu não posso dizer que eu saiba muito sobre isso. Muitos Sábios vêm e vão, do outro lado do meu machado. Você terá que perguntar ao chefe sobre isso." Ele inclina a cabeça e continua a observá-lo com um sorriso de satisfação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Filho da puta sem mãe!" Ele faz uma pausa para se recompor antes de retomar seu sorriso desconcertante. "Não é claro, Fatebinder. Ouça, eu tenho um pequeno pedido, se você for um jogo. E se você dissesse a todos que Gaptooth ganhou? Isso não seria divertido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Pedir a um Fatebinder para mentir não é um pedido inteligente para fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ele te olha por um momento antes de rir para si mesmo. "Sim, sim, eu suponho que não. Tato não é uma palavra que eu entendo, mas vou fingir. O que eu quero dizer é que eu vou dizer a todos que realmente encontraram o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vou precisar de uma razão melhor do que isso para fazer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Para você, Fatebinder, eu estou feliz em doar vinte por cento dos ganhos para o seu uso. Nós temos um acordo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Intimidate] "Fifty percent, or I'll collect in other ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Combinado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Você perdeu o meu tempo. Como punição, eu espero que você informe à sua gangue que você tentou subornar um Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ei, é o que eu teria exigido, também. Qualquer coisa menos e eu teria ficado desapontado, Fatebinder". Ele joga uma bolsa pesada de anéis estridentes. "Agora, que tal oficializar esses resultados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Nada como um salário honesto. Obrigado, Fatebinder - feliz em ver que somos tão afins." Ele lhe joga uma bolsa de anéis estridentes. "Agora, que tal oficializar esses resultados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ele inala, pronto para falar, mas não consegue encontrar as palavras. Os cantos arrebentados de sua boca ainda se assemelham a um sorriso, mas seus olhos transmitem algo completamente diferente. "Você é o chefe, Fatebinder. Não é uma luta que eu vou tentar ganhar. Um desses alimentadores inferiores provavelmente me levará em meu sono depois de descobrir. Isso vai ser interessante." Seus olhos se arregalam de empolgação com a perspectiva.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ha-ha!" Ele gira para provocar seus companheiros. "Ouça isso? A palavra do Fatebinder é tão oficial quanto possível. Gaptooth é o vencedor, então pague!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Merda. Não há como você saber disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Estou cheio de merda de porco, mas esse veio diretamente do Fatebinder, não de mim."
+
+Skinner triunfantemente arredonda seus ganhos dos outros membros da gangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Bem, merda, isso não é uma resposta de fabricação de anéis. Aqui, camaradas? Hoje, somos todos perdedores - o Fatebinder pegou o Arquivo!" Ele esfrega o queixo, os lábios juntos. "Eu acho que isso significa que Gaptooth está morto. Porra, eu vou sentir falta daquela garota."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ele gagueja nervosamente. "É apenas apropriado. [url=glossary:kyros]Kyros[/url] 'a lei é clara. Nós nunca deveríamos ter feito nenhuma aposta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Espero que você diga isso." Ele pega o machado de batalha e gira em um arco amplo. "Hora de brincar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Não é um problema. O coro me dá muitos outros hobbies, de qualquer maneira." Ele dá um tapinha nas facas ao redor do cinto. "Obrigado, Fatebinder. Fico feliz em ver que o alcance do [url=glossary:tunon]Tunon[/url] não se estende até você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Isso é uma coisa que você pode fazer?" Ele levanta uma sobrancelha. "Dependendo de quem você nos designar, isso pode não ser uma punição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Show map.] "Report to Insipid Moniker at the Shattered Bastion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Vá para o Shattered Bastion. Vou mandar uma missiva para informar a gangue que você está vindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Ele olha para a área indicada no seu mapa. "Bem, ei agora ... se o tribunal está me ordenando a sair, quem sou eu para discutir?" Ele assobia, estalando os dedos para os outros soldados. "Fatebinder falou! Pegue sua merda e mexa-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Bem, visto que o Censor provavelmente não desperdiçará corvos para resolver nossas apostas, parece uma ótima idéia. O vencedor pode compartilhar alguns dos ganhos - er, doações, que são coletados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Lie] "Bone Whittler won."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Lie] "It was Fat Ulsten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Lie] "Gaptooth was the victor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Lie] "Numbly made it to the end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Na verdade, eu peguei o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Aquela aberração? Quero dizer, ambos somos estranhamente adequados para o nosso trabalho, mas pelo menos eu finjo ser normal. Seja o que for, está feito." Ele bate o machado contra o chão. "Ouça, twits. Fatebinder diz que o Bone Whittler venceu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Aquele bastardo magro? Bom para ele, eu acho." Ele bate o machado contra o chão. "Ouça, twits. Fatebinder diz que Fat Ulsten venceu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Numbly ... bem ... realmente? Eu acho que ele não é o mais idiota do Coro." Skinner bate seu machado contra o chão. "Ouça, twits. Fatebinder diz que Numbly ganhou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Bem, merda, isso não é uma resposta de fabricação de anéis. Aqui, camaradas? Hoje, somos todos perdedores. Fatebinder pegou o Arquivo para si mesmo." Ele ri, balançando a cabeça. "Cifre alguns toques, todo mundo. Essa informação não era de graça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Ela levanta os anéis da panela e gargalha animadamente. "Aqui, Fatebinder." Ela pega um único toque e entrega a pilha restante. "Eu venci!" Agulha Toe relógios, boca ágape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Hey, pequeno preço por estar certo." Ela pega um punhado de anéis do pote e dá para você, olhando para Skinner com um sorriso o tempo todo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Ele se arrasta, com um sorriso incrédulo no rosto. "Acabou no Coro depois de perder uma aposta. Este é o primeiro que eu ganhei." Ele te entrega uma pilha de anéis. "Sua parte, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"E a minha parte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Intimidate] "That looks like a lot of rings. I think you can afford to give more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Ele lhe entrega uma bolsa pesada de anéis. "Para o seu problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"O que o Fatebinder quer, o Fatebinder fica." Ele lhe entrega duas bolsas pesadas de anéis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Skinner, você é péssimo em fechar negócios. Continue com as pessoas da próxima vez." Ela reúne anéis dos soldados descontentes e os entrega. "Seus ganhos, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Leave] "I'll be going now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Attack] "This was only ever going to end one way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Qual é o seu papel na gangue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Eu? Eu sou a pessoa divertida - Callia toma as decisões, mas eu consigo reforçá-las. Quando as coisas estão quietas, eu sou o mestre de caça, já que nenhum desses idiotas pode discernir o rastro de cervos da merda de cachorro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Conte-me sobre sua gangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Qual é o seu papel na gangue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Conte-me sobre sua gangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Callia é a chefe e somos sua gangue." Ele gesticula para uma mulher de ombros largos e cabelos despenteados. "Esta donzela bonita aqui é Ragwort. Costura carne dividida como um curandeiro adequado e consegue transformar a minha captura em refeições decentes. Basta manter a distância, a menos que você queira amordaçar seu fedor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Contusion, bem, ela pegou um martelo no crânio e sobreviveu. Duro como eles vêm ... não como mais sanguinário, mas aponte e grite com alguém e ela seguirá o exemplo. Grande garota." Ele inclina a cabeça para o homem magro ao seu lado. "Essa pústula covarde é sua companheira, Needle Toe, mestre da arte da deserção fracassada. Ele corre muito rápido, eu dou a ele isso. Mas todo mundo tem o seu lugar - ele vê as necessidades da Contusion para que a Contusion possa atender às nossas necessidades "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Bem, foda-me de lado - é o Fatebinder! Nós ouvimos tudo sobre como você ajudou o Coro no [url=glossary:vendrien's well]Vendrien's Well[/url] - Nerat vai lembrar de seus aliados quando tudo isso acabar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>O guerreiro Chorus faz uma varredura da cabeça aos pés, girando o machado e estufando o peito enquanto ele olha para você. "O chefe disse que só estamos livres para matar [url=glossary:disfavored]Disfavored[/url] ... mas se você veio aqui para uma luta, tenho certeza que podemos atender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Um pouco irritável agora, Ragwort? Pelo menos Gaptooth é uma vadia inteligente. Por que alguém colocaria anéis em Fat Ulsten? A vitória está além de mim. Todos nós sabemos que a única ternura que você já conheceu foi quando você ficou desmaiada e aquele bêbado se contorceu. em cima de você. Não precisa tirar sua frustração de nós. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Foda-se, coxe mole. Eu não deixo ninguém na minha tenda a menos que eu os queira lá. Tente algum dia e eu-" Ela faz uma pausa, notando sua presença com um movimento de sua cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Approach the group.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Glare silently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Um guerreiro de juba branca gira, gesticulando para os outros para ficarem parados. "Aproxime-se, amigo!" O soldado grita para você em um tom ansioso, girando seu machado energeticamente enquanto ele te avalia. "Bem, foda-me ... é o Fatebinder!" Ele coloca o pomo de sua arma no chão e dá um beijo no final da lâmina. "Hoje não, amor. Talvez mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Um guerreiro de juba branca gira, gesticulando para os outros para ficarem parados. "Aproxime-se, amigo!" O soldado grita para você em um tom ansioso, girando seu machado energeticamente enquanto ele te avalia. "Bem, foda-me ... é o Fatebinder!" Ele coloca o pomo de sua arma no chão e dá um beijo no final da lâmina. "Hoje não, amor. Talvez mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Bem-vindo à nossa pequena aldeia, amigo." Os cantos de sua boca estão fixos, dando-lhe a aparência de divertimento perpétuo. "Desculpe ter que ouvir esse absurdo. Deixei esses vermes falarem mais do que merecem." Ragwort dá ao homem um olhar azedo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>O guerreiro Chorus faz uma varredura da cabeça aos pés, girando o machado e estufando o peito enquanto ele olha para você. "O chefe disse que só estamos livres para matar [url=glossary:disfavored]Disfavored[/url] ... mas se você veio aqui para uma luta, tenho certeza que podemos atender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Aqueles bookworms lutam melhor do que você esperaria." Ele esfrega costela pesadamente ferida, estremecendo de dor. "Ainda assim, toque uma lâmina na pele deles e seus olhos se arregalam. É meio precioso de se ver. Estamos mantendo o resto vivo até descobrirmos o que estão fazendo aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Baby caiu?" Ela parece preocupada e dá um passo à frente, examinando o chão ... alguma coisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Contusão, não agora!" Needle-Nose gentilmente, mas com firmeza, a puxa de volta. "Nada para se preocupar, garota." Skinner espanta a mulher confusa com um aceno de mão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"De qualquer forma, o chefe está sendo cuidadoso com isso. Ela tem seus métodos." Ele afaga uma fileira de facas curtas e afiadas ao longo do cinto. "E eu tenho o meu. Ela vai precisar deles eventualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Claro, quando eles decidirem se juntar ao Coro, nós vamos desatá-los de uma vez! Mas até que eles aceitem [url=glossary:kyros]Kyros[/url], que outra opção nós temos do que continuar com as surras?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Pela primeira vez nós concordamos." Ela afasta um besouro voador com o punhal, cortando suas asas e enviando-o em queda livre. "Nada faz uma [url=glossary:sage]Sage[/url] mais úmida do que a ideia de recuperar conhecimento nas ruínas da Biblioteca. Ela pode saber como navegar ou ter segredos sobre o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Eu sou a pessoa divertida. Há alegria para ser encontrada no serviço de Nerat, afinal de contas!" Ele joga um pedaço ensangüentado na ponta do machado. "Eu também sou o mestre de caça da gangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Com isso ele quer dizer que caça pessoas. Animais também, se ele está entediado ou nós reclamamos de nossas barrigas vazias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Tudo muito verdadeiro. Eu também sou o segundo de Callia, com exceção do nome, o que significa que eu tenho o prazer de manter esses twits na linha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Callia é a chefe e somos sua gangue." Ele gesticula para uma mulher de ombros largos e cabelos despenteados. "Esta donzela bonita aqui é Ragwort. Costura carne dividida como um curandeiro adequado e consegue transformar a minha captura em refeições decentes. Basta manter a distância, a menos que você queira amordaçar seu fedor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Guarde, Skinner. Você estaria todo sobre isso se pudesse." Ela aponta para alguns frascos pendurados no cinto. "Bálsamos não cheiram bem, eu não vou mentir, mas eles mantêm feridas de purulenta".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Contusion, bem, ela pegou um martelo no crânio e sobreviveu. Duro como eles vêm ... não como mais sanguinário, mas aponte e grite com alguém e ela seguirá o exemplo. Grande garota." Ele inclina a cabeça para o homem magro ao seu lado. "Essa pústula covarde é sua companheira, Needle Toe, mestre da arte da deserção fracassada. Ele corre muito rápido, eu dou a ele isso. Mas todo mundo tem o seu lugar - ele vê as necessidades da Contusion para que a Contusion possa atender às nossas necessidades "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>A expressão sombria de Needle Toe confirma a descrição de Skinner. "Você realmente precisa dizer isso para todos que você conhece?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Não, mas eu gosto disso e isso me faz sentir bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Um último pedido: não diga a Callia para onde fomos. Vai ser ... mais engraçado assim." Com um aceno de cabeça, ele agarra seu machado e faz um gesto para o resto segui-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ha-ha!" Ele gira para provocar seus companheiros. "Ouça isso? A palavra do Fatebinder é tão oficial quanto possível. Gaptooth é o vencedor, então pague!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Merda. Não há como você saber disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Estou cheio de merda de porco, mas esse veio diretamente do Fatebinder, não de mim."
+
+Skinner triunfantemente arredonda seus ganhos dos outros membros da gangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Quem está no comando aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Conte-me sobre esses Sábios capturados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Aprenda alguma coisa com os Sábios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Algum plano para libertar os Sábios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Isso seria 'Crass' Callia - ela é a única sempre parecendo que ela está tendo um momento pior do que todos os outros. Procure o Blood Chanter no telhado ao norte daqui. Sem dúvida, ela está pensando se nossos problemas podem ou não ser resolvidos, oh eu não sei, fogo? "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Ele esfrega uma cicatriz de queimadura no pescoço. "Só estou gracejando - eu respeito seus métodos. Quero dizer, você não dá lâminas a um lunático como eu e espera soluções diplomáticas, então o mesmo vale para ela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Este buraco de cinzas não é mais da aldeia, mas 'ol Crassy nos faz pegar o desvio por ele toda vez que saímos do [url=glossary:burning library]Burning Library[/url]. Pensei que era uma diversão chata até nos depararmos com esses Sábios." Seus lábios se separam um pouco para revelar um sorriso. "Alguns resistiram, felizmente, e eu pude jogar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Oh, muito. Mas nada no menor sentido crível. Pressione uma lâmina para um pescoço e ele vai olhar para você como ele foi deixado cair como um bebê. Faça o mesmo com um [url=glossary:sage]Sage[/url] e ela vai falar por alguns minutos antes você percebe que é tudo buraco de lastro vomitado ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"De qualquer forma, o chefe está sendo cuidadoso com isso. Ela tem seus métodos." Ele afaga uma fileira de facas curtas e afiadas ao longo do cinto. "E eu tenho o meu. Ela vai precisar deles eventualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Fatebinder, por que nós faríamos isso? Você obviamente não é íntima com aqueles ironclads farejadores de bunda. Você deixaria um deles entrar no [url=glossary:vendrien's well]Vendrien's Well[/url] e depois deixá-la ir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Claro, quando eles decidirem se juntar ao Coro, nós vamos desatá-los de uma vez! Mas até que eles aceitem [url=glossary:kyros]Kyros[/url], que outra opção nós temos do que continuar com as surras?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Bluff] "Gambling has been forbidden by [url=glossary:kyros]Kyros[/url], and yet you've ignored this law."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Oh, nós não estamos fazendo nada do tipo. Esta é apenas a nossa maneira divertida de dividir os anéis que encontramos enquanto estivermos em patrulha. Não é como se estivéssemos usando o nome do Overlord em nada disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Por seus crimes, todos vocês serão transferidos para um novo líder de gangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Isso é uma coisa que você pode fazer?" Ele levanta uma sobrancelha. "Dependendo de quem você nos designar, isso pode não ser uma punição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Show map.] "Report to Insipid Moniker at the Shattered Bastion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Vá para o Shattered Bastion. Vou mandar uma missiva para informar a gangue que você está vindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Eu vou ignorar essa transgressão, mas vai ser a sua cabeça em um pico se eu te pegar de novo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Não é um problema. O coro me dá muitos outros hobbies, de qualquer maneira." Ele dá um tapinha nas facas ao redor do cinto. "Obrigado, Fatebinder. Fico feliz em ver que o alcance do [url=glossary:tunon]Tunon[/url] não se estende até você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Mostrei-lhe clemência apesar de seus crimes. O Tribunal precisa dos Sábios - espero que você convença seu chefe a eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Sim, eu entendo, Fatebinder. Não que eu esteja reclamando ... é mais do que um acordo justo. Tão triste quanto eu seria perder nossos brinquedos ... Eu vou falar com Callia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Agora que ajudei a 'esclarecer' qualquer confusão com as apostas, preciso que você me ajude a liberar os Sábios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Sim, eu entendo, Fatebinder. Não que eu esteja reclamando ... é mais do que um acordo justo. Tão triste quanto eu seria perder nossos brinquedos ... Eu vou falar com Callia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Este não é o tipo de coisa que eu deveria estar compartilhando com pessoas de fora. Fale com Crass Callia se você se importa tanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Existe uma maneira de compensar isso. Fale com Callia e convença-a a libertar os Sábios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Eu vou fazer isso, mas só se você convencer seu chefe a liberar os Sábios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Liberte-os? Por que diabos nós faríamos isso?" Ele olha o pote de anéis, a sobrancelha arqueada. "Bem ... tanto quanto eu gosto de brincar com nossos prisioneiros, eu gosto de anéis ainda mais. Espere aqui por um momento enquanto eu trabalho em 'Ol Crassy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Ele se inclina para sussurrar. "Tudo bem, eu vou trabalhar meu charme considerável em 'Ol Crassy. Pode ter que prometer um favor ou dois, mas esses anéis mais do que compensam isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Lie] "Gaptooth absolutely, unquestionably, retrieved the Silent Archive. Truly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Ninguém fez. Eu destruí."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>O Hordesman olha para você por um momento. "Foda-me, Fatebinder. O que nós sentimos falta durante a patrulha? Não tem como o Censor sancionar isso ... o que significa que não há como o Censor viver." Ele cospe a seus pés. "Escute, amigos, esse idiota acabou de esculpir nossos amigos. Vamos deixar isso escorregar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Eu? Eu sou a pessoa divertida - Callia toma as decisões, mas eu consigo reforçá-las. Quando as coisas estão quietas, eu sou o mestre de caça, já que nenhum desses idiotas pode discernir o rastro de cervos da merda de cachorro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Sim, eu entendo, Fatebinder. Não que eu esteja reclamando ... é mais do que um acordo justo. Tão triste quanto eu seria perder nossos brinquedos ... Eu vou falar com Callia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Fatebinder".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Espere o quê? Desde quando? Merda ... Eu me pergunto se eu posso pegar meus anéis de volta de Dagos ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Sabe? Eu não estava ciente de tal proibição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Apenas porque é ilegal culpar a sua sorte ou a falta dela no Overlord. Alguns Fatebinders são conhecidos por afirmar que o último implica o primeiro, reprimindo o jogo quando se deparam com ele ... e embolsando as apostas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Mal. A lei proíbe abusar do nome [url=glossary:kyros]Kyros[/url] '. Como o Overlord controla todo o comércio, alguns Fatebinders igualam qualquer jogo com a responsabilidade de você ganhar ou perder em [url=glossary:kyros]Kyros[/url]. O que eu tenho certeza não constitui um ataque judicial selvagem para reivindicar os anéis jogando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Apenas porque é ilegal culpar a sua sorte ou a falta dela no Overlord. Alguns Fatebinders são conhecidos por afirmar que o último implica o primeiro, reprimindo o jogo quando se deparam com ele ... e embolsando as apostas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Mal. A lei proíbe abusar do nome [url=glossary:kyros]Kyros[/url] '. Como o Overlord controla todo o comércio, alguns Fatebinders igualam qualquer jogo com a responsabilidade de você ganhar ou perder em [url=glossary:kyros]Kyros[/url]. O que eu tenho certeza não constitui um ataque judicial selvagem para reivindicar os anéis jogando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Espere o quê? Desde quando? Merda ... Eu me pergunto se eu posso pegar meus anéis de volta de Dagos ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Sabe? Eu não estava ciente de tal proibição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"É verdade? Deveríamos ter usado isso como nosso grito de guerra contra o Overlord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"É verdade? Deveríamos ter usado isso como nosso grito de guerra contra o Overlord."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

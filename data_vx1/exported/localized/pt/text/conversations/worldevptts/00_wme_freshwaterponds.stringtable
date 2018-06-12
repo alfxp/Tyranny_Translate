@@ -1,0 +1,660 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_freshwaterponds</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>124</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fora da estrada à sua frente, vemos um lago amplo e plácido alimentado por um rio que flui do norte. Um punhado de barcos de pesca salpica a superfície e as canções dos anfíbios perduram na brisa fresca. Um pequeno grupo de pássaros zarpa no raso, arrancando lagostim da lama.
+
+Parece um lugar perfeito para encher seus odres de água e descansar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Enquanto se abaixa ao longo de uma corda aparentemente infinita perigosamente ancorada em uma pedra que se projeta sobre um plano de pedra muito mais baixo, você percebe o borbulhar de água em movimento lento. Enquanto sua descida continua, a parede de pedra cai para longe de você em uma enorme caverna contendo uma fina faixa de fluxo que se afasta de uma cachoeira tímida. Ela se reúne em uma grande bacia cheia de lama espessa aquecida pela luz do sol de cima. Um musgo úmido se agarra às rochas, e as trepadeiras rastejam pelas pedras internas da saliência antes de ficarem penduradas acima de você como constelações verdejantes.
+
+Você alcança um terreno sólido e determina que este é um local razoável para descansar os músculos doloridos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Aninhado entre as trincheiras cavadas através do [url=glossary:edict]Edict[/url] de Tempestades você encontra uma verdadeira raridade: uma piscina protegida de água. Aparentemente alimentada por uma nascente, a piscina dá lugar a um par de riachos finos que ficam sufocados com ferrugem e ferrugem quase imediatamente depois de serem arrancados de sob o abrigo de uma enorme folha enrolada de armaduras de bronze retorcido.
+
+Braços esqueléticos, unidos por ramos de tendões secos, pendem do teto da caverna não natural, e uma estátua meio quebrada, uma imagem esculpida de uma antiga rainha Stalwart, sobressai da umidade, sugerindo que isso pode ter sido uma vez o centro de um assentamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Em meio a um bosque de troncos enegrecidos, você encontra um trecho de água turva. Pequenos fios de vapor sobem da superfície em cachos finos. A fina grama marrom cresce quase até a beira da água antes de dar lugar a uma pedra cinza nua polvilhada com uma fina camada de fuligem. Um cheiro de enxofre está suspenso no ar quente e estagnado, unido a alguma outra coisa - a mais fraca vibração de um poder além da sua percepção humana.
+
+A água parece sair de uma pequena caverna colocada em uma colina a cem metros ao norte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.] Set camp and rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Assediar os pescadores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Caça [url=glossary:flightless]flightless[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ir em frente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Relaxe no banho de lama.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Acampe e durma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Caçar veados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Examine a estátua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Coletar água.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Acampe e durma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Examine a caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Banhe-se na água.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Decidindo não gastar muito tempo aqui, você continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Você abaixa seu equipamento e espalha o seu saco de dormir em um trecho confortável de grama espessa com vista para o litoral. Você lava a sujeira do seu rosto e bebe a água fresca e crocante de suas mãos em concha antes de mergulhar suas peles de água esgotadas sob a superfície.
+
+Depois, você se deita no seu saco de dormir, ouvindo os sons da natureza enquanto mergulha na inconsciência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Você acena para os pescadores, e um dos esquifes começa a girar em sua direção em toda a superfície ainda de outro modo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Um terço da altura de um homem e totalmente ligado à terra, a ave faz a caça fácil e sua carne é um grampo em todo o Tiers. Durante seu treinamento no fosso, você costumava perseguir [url=glossary:flightless]flightless[/url]; Se você não conseguiu pegar um [url=glossary:flightless]flightless[/url], você não seria capaz de pegar um adversário desprevenido.
+
+Você carrega de cabeça no grupo de pesca nas águas rasas, as mãos estalando para fora com velocidade ofuscante para agarrar o pescoço de dois dos pássaros. Um movimento rápido de cada pulso torce os pescoços dos animais até o ponto de estalar, e você retorna para a praia com o seu transporte. Você pega uma das criaturas e a assa em uma chama aberta, proporcionando um jantar saudável, ainda que sem graça. O outro você economiza para a estrada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Você coloca seu equipamento em uma rocha larga e plana perto da piscina, quebra o pão e reabastece a água das cataratas. É legal e crocante, uma mudança bem-vinda do aftertaste de couro do seu odre de água. Depois, você se desnuda e se abaixa na lama quente. Ele puxa a dor de suas costas e ombros e massagens sua pele desgastada pelo sol. No momento em que você sai, você se sente como uma nova pessoa, quase como se a lama do [url=glossary:stone sea]Stone Sea[/url] formava uma nova camada de carne acima do seu tendão.
+
+Você se veste e carrega seu equipamento, pronto para avançar para o próximo local.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Você segura o seu equipamento entre as pedras rasgadas pelo vento e espalha o seu saco de dormir no terreno mais confortável que você pode encontrar. Ajoelhando-se pela água, você reabastece suas peles antes de espirrar seu rosto com a umidade fresca. Você tenta limpar o máximo possível da sujeira e da sujeira de si mesmo, quase impressionado com a quantidade que se esconde nas dobras do seu rosto e nas rachaduras em suas mãos.
+
+Depois, você se deita no seu saco de dormir, aproveitando o abrigo que a gruta oferece contra os elementos à medida que você mergulha na inconsciência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Com um conhecimento especializado, você derruba um cervo, esfola e limpa, e corta os pedaços mais deliciosos de carne de veado para assar sobre o fogo. O restante das carnes que você prepara para viajar e a pele que você come, lava e seca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Você reconhece a estátua como Regent Ateria, uma mulher famosa no velho Stalwart por sua astúcia e sua força nos braços. O primeiro tornou-se um traço consideravelmente menos valorizado do que o último nos últimos séculos, e no seu treinamento diplomático você aprendeu a se referir apenas à proeza de batalha Ateriana enquanto deixa outras associações não ditas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Você retira um pouco de água para colocar em uma panela de barro para esfriar. Mesmo depois de o calor ter fugido do líquido, ele cheira levemente a enxofre e mantém sua opacidade turva.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Você abaixa seus fardos e descansa na lagoa, a quietude da água fazendo com que você entre num breve e repousante sono.
+
+Depois de algumas horas de descanso, você se levanta e carrega seus equipamentos, pronto para avançar para o próximo local em sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>A água escorre de uma lacuna nas pedras. Parece pequeno à primeira vista, mas você logo percebe que a água é mais profunda aqui, e que - embora certamente seja um trabalho úmido - você pode facilmente entrar na caverna, se quiser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Você tira suas roupas manchadas de fuligem antes de pisar na água morna. Você sai na piscina, depois se abaixa em seu calor. Parece se acomodar em seus poros e serpentear ao longo de seus tendões, acomodando-se em suas articulações. Enquanto o suor escorre pela sua testa, seus músculos relaxam sensivelmente, a rigidez desaparece no molhado.
+
+Pegando um pedaço de pano, limpe a poeira e a sujeira da estrada, começando com o óleo do rosto e terminando com a sujeira que se instalou entre os dedos dos pés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Siga a água.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>O riacho da piscina serpenteia entre pedras marrons antes de passar pela borda e entrar na escuridão de uma fenda sem profundidade.
+
+Na borda do penhasco você encontra alguns pictogramas esculpidos na pedra: um homem e uma mulher, de mãos dadas, com um filhote de animais entre eles. Um sol brilha sobre eles, e eles se aquecem na beira da água, representados por um trio de longos rabiscos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Beba.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Deite fora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ao decidir não beber a água, você a coloca de volta na lagoa. Foi provavelmente o melhor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Forçando uma mordaça violenta, você puxa para trás vários rascunhos da água morna. Suas entranhas roncam perigosamente algumas horas depois, mas você não experimenta nenhum efeito negativo. A água parece segura o suficiente para beber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Forçando uma mordaça violenta, você puxa para trás vários rascunhos da água morna. Suas entranhas roncam perigosamente algumas horas depois, e você entra no mato para encontrar um lugar para anulá-las. Você retorna ao caminho horas depois com um elenco notavelmente verde em seus recursos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Armazene como reagente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Reconhecendo que a água sulfurosa é provavelmente imprópria para beber em sua forma atual, mas um excelente componente para uma poção, você a transfere cuidadosamente para seus odres de água. Você marca claramente a pele para garantir que você não beba acidentalmente dela depois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Quando você terminar, talvez devido a alguma qualidade da água, você se sentirá mais limpo e calmo do que desfrutava desde os banhos de mármore aquecidos de forma alquímica na propriedade de sua família.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Explore a caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ignore a caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Decidindo deixar a fonte da água ácida, você volta ao corpo principal da piscina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Seus anos de experiência com os elementos mais sombrios da sociedade reconhecem isso como um lugar ideal para esconder bens ilícitos. Você verifica as pedras por um tesouro escondido e localiza uma pequena coleção de gemas e anéis. Depois de garantir o tesouro para si mesmo, você faz o seu caminho de volta à superfície.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Você não encontra mais nada na caverna e volta para a superfície.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Você consegue derrubar um dos cervos, enviando os outros fugindo para o deserto. Você desajeitadamente mata a fera, assando pedaços de carne sobre uma fogueira para uma refeição saudável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Você reconhece a estátua como Regent Ateria, uma mulher famosa no velho Stalwart por sua astúcia e sua força nos braços. O primeiro tornou-se um traço consideravelmente menos valorizado do que o segundo nos últimos séculos, e histórias recentes mal mencionam suas realizações mais sórdidas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Um terço da altura de um homem e totalmente ligado à terra, a ave faz a caça fácil e sua carne é um grampo em todo o Tiers. Você mata um com pouca dificuldade, arranca-o e assa em fogo aberto, proporcionando um caloroso, embora sem graça, jantar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Pegue o peixe deles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Examine suas licenças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Empurre-os para a água.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Deixe-os em paz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Afundar o barco deles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Reivindicando a autoridade legal do Overlord, você confisca as cestas de peixe dos camponeses. Quando eles se opõem, você os lembra que você serve diretamente ao Arconte da Justiça, e que eles seriam sábios para guardar suas línguas. Eles permanecem em silêncio depois disso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Apesar de saber que o Overlord não regulamenta a pesca, você exige que os camponeses forneçam documentação adequada mostrando seus direitos de pesca. Eles resmungam e se enganam, em última análise, incapazes de fornecer qualquer licença.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Você coloca uma bota na beira do esquife e empurra para baixo, jogando o par de camponeses fora de equilíbrio. Um empurrão envia-os para o raso. Eles vêm vomitando água do lago e invectivas, e você os avisa que, se eles não olharem suas bocas, você os terá amarrados para sujar o uniforme do Fatebinder. Eles imediatamente se calam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Você decide não incomodar mais os pescadores e afastá-los. Eles murmuram sob a respiração enquanto voltam para a água.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Você declara sua operação de pesca ilegal. Com um ataque repentino, você abre um buraco no lado do esquife. Os pescadores olham para você enquanto seu barco lentamente afunda, deixando-os de pé na água até os joelhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Explore a área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Arrumando seu equipamento mais pesado, você leva algum tempo para investigar a área. Você localiza um afloramento largo e seco sobre a água que formaria um acampamento ideal. De sua grande vantagem, você faz um enorme rebanho de [url=glossary:flightless]flightless[/url] colheita através das águas rasas. Finalmente, você nota o que parece um recesso escuro sob uma pilha de rochas inclinadas para o leste que sugere a presença de uma caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Você respira fundo e mergulha abaixo da superfície, abrindo caminho através da água até a escuridão do buraco. Enquanto você nada, percebe que as paredes estão se afastando de você enquanto a passagem se abre para uma verdadeira caverna. Você cuidadosamente quebra a superfície, apenas para se encontrar em uma caverna mal iluminada por milhares de estrelas verdes azuladas ... fungos bioluminescentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Entre na caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Peixe com o velho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Mate o homem e pegue a captura dele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Saia da caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Você sobe na pedra ao lado do velho. Enquanto a água se acalma, você a vê preenchida com ovóides brilhantes que se movem sob a água. Encontre um par que se mova junto, o velho treine você e mire no espaço entre eles. Seguindo seu conselho, você é capaz de lançar vários peixes semi-luminosos, criaturas longas e pálidas com placas de carapaça sobrepostas.
+
+Depois de pegar peixe suficiente para uma refeição ou duas, você se despede do velho e retorna à superfície.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Você sobe na pedra ao lado do velho, aceita uma de suas lanças e a dirige diretamente pela garganta. Quando ele engasga com a lança, você o empurra para a água, onde sua surra abala a superfície. Você pega sua cesta coberta, cheia de sua pegada e volta com ela para a superfície.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Você nada de volta através da boca da caverna e no lago maior, retornando à costa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Você respira fundo e mergulha abaixo da superfície, abrindo caminho através da água até a escuridão do buraco. Enquanto você nada, percebe que as paredes estão se afastando de você enquanto a passagem se abre para uma verdadeira caverna. Você cuidadosamente quebra a superfície, apenas para se encontrar em uma caverna mal iluminada por milhares de estrelas verdes azuladas ... fungos bioluminescentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Aproxime-se dos cães.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Hackles se erguem imediatamente, o pouco de pelos que os cães podem se gabar de ficarem de pé quando eles o encaram juntos, latindo e rosnando em coro. Embora atávicos, esses pobres cursores claramente carecem da experiência do deserto de seus primos mais lupinos mortais. Enquanto eles não se aproximam de você, nem eles dão lugar ao seu avanço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>De volta ao Império do Norte, os Campos de Provas não causaram escassez de cães, vira-latas e vira-latas contra você, a maioria com mais músculos e presas mais afiadas do que esses pobres filhotes podem usar. Você se move entre eles com facilidade, distraindo-os com uma mão e despachando-os com a outra. O massacre é rápido e pode ser uma misericórdia em comparação a uma vida conquistada entre os remanescentes de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Embora o desespero empreste aos cães uma força feroz, eles não são páreo para a panóplia e as habilidades que você acumulou em suas tarefas como um Fatebinder de [url=glossary:tunon]Tunon[/url]. A morte que você causa aos cães não é tão fácil quanto os veredictos que você pronuncie sobre criminosos, mas você termina a briga com apenas alguns arranhões e um leve brilho de suor na testa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Mate os cachorros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Acalme os cachorros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Deixe os cachorros ficarem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Você se afasta dos cães e seus latidos baixam levemente em vigor, se não em constância.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Você reconhece os caninos como primos extremamente fracos dos cães de caça comuns entre os canis da aristocracia no domínio. Sua família criou e treinou esses animais não apenas para ajudar a rastrear o jogo, mas também para caçar criminosos e agitadores que ousassem ostentar a autoridade do Overlord.
+
+Você se move calmamente em direção aos cachorros, de pé com confiança, com as mãos levantadas, e dirige-os em tom uniforme e firme, uma voz que não tolera desobediência, mas, em vez disso, inclina-se a seus nobres animais de vontade e plebeus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Você se move calmamente em direção aos cachorros, tentando mostrar mais confiança do que você sente, e fala com eles em um tom suave e uniforme. Deslize de sua bolsa uma tira de carne salgada e comece a rasgá-la em pequenos pedaços. Você joga uma das peças entre os cachorros, e eles caem em silêncio, cheirando o bocado antes de um abruptamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Seu desespero empresta aos cães uma força feroz, e mesmo quando você se move entre eles, eles o cercam, suas garras e dentes encontram as aberturas em seu aparelho e afundam em sua pele e músculos. Assim que o cheiro de sangue atinge o ar, os caninos enlouquecem, pulando para você com abandono, tentando derrubá-lo sob o peso deles. Usando toda a sua energia, você consegue forçá-los a recuar e obter alguma distância entre você e o bando.
+
+Respirando pesadamente, você deixa esta lagoa para trás. Nenhuma água vale a pena aqueles dentes ruminantes dos vira-latas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Você se move calmamente em direção aos cachorros, tentando mostrar mais confiança do que você sente, e fala com eles em um tom suave e uniforme. Quando o latido não desvanece ao mínimo, você escorrega de sua bolsa uma tira de salgado e começa a rasgá-lo em pequenos pedaços. Você só liberou o primeiro pedaço quando o cheiro de comida chicoteou os animais em um frenesi. Eles vão à loucura, pulando em você com abandono, tentando te derrubar sob o peso deles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Você não identifica nada particularmente interessante sobre a estátua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Esperando acampar, refrescar-se e talvez até tomar banho, você se dirige para uma pedra promissora e plana perto da água - apenas para encontrar os cães pulando e mordendo você. Você se afasta e os cachorros continuam a rosnar para você, olhando para cima de suas mandíbulas gotejantes de saliva e dentes bronzeados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Você consegue derrubar um dos cervos, enviando os outros que fogem para o deserto, mas a fera ensangüentada e esforçada atrai a atenção imediata da manada de cães, que caem vorazmente sobre ela. Tentativas de intervir no frenesi fazem com que você pegue presas e grunhidos baixos. Você acaba dispersando os vira-latas, mas a essa altura pouco resta dos veados, exceto ossos ensangüentados e intestinos esfarrapados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Com um conhecimento especializado, você derruba um cervo, esfola e limpa, e corta os pedaços mais deliciosos de carne de veado para assar sobre o fogo. O restante das carnes que você prepara para viajar e a pele que você come, lava e seca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Você consegue derrubar um dos cervos, enviando os outros fugindo para o deserto. Você desajeitadamente mata a fera, assando pedaços de carne sobre uma fogueira para uma refeição saudável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Armazene como reagente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Armazene como reagente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Armazene como reagente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>As criaturas da caverna do lago - peixe pálido com órgãos bioluminescentes acima dos olhos e placas de carapaça sobrepostas - cozinham com facilidade, embora sua textura emborrachada pareça um gosto adquirido. Você acha que suas lâmpadas luminosas podem ser salvas, no entanto, e podem ser úteis em compostos alquímicos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>As criaturas da caverna do lago - peixe pálido com órgãos bioluminescentes acima dos olhos e placas de carapaça sobrepostas - cozinham com facilidade, embora sua textura emborrachada pareça um gosto adquirido. Você acha que suas lâmpadas luminosas podem ser salvas, no entanto, e podem ser úteis em compostos alquímicos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Você não encontra mais nada digno de nota.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Você se vira ao som de panos que se deslocam contra a pedra e vê outro viajante corajoso nas profundezas, um pescador idoso em roupas esfarrapadas com uma cesta e lanças. Você faz o seu caminho até ele, e ele se oferece para lhe emprestar uma de suas lanças se você só parar de atrapalhar a água.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Você deixa o pequeno bebedouro com o estômago cheio e reabastece os suprimentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Você deixa o pequeno bebedouro com o estômago cheio e reabastece os suprimentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Os cães observam-te vorazmente da periferia da sua luz do fogo, e atiram-lhes os ossos e órgãos que não acham palatáveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Os cães observam-te vorazmente da periferia da sua luz do fogo, e atiram-lhes os ossos e órgãos que não acham palatáveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Você deixa o pequeno bebedouro com o estômago cheio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Você deixa o pequeno bebedouro com o estômago cheio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>O latido lentamente desaparece, e um dos cães principais dá um passo à frente, primeiro farejando, depois lambendo a mão apresentada. Você coça atrás da orelha e ela fica feliz. Esses cães não lhe oferecem nenhuma ameaça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>O latido lentamente desaparece, e um dos cães principais dá um passo à frente, primeiro farejando, depois lambendo a mão apresentada. Você coça atrás da orelha e ela fica feliz. Esses cães não lhe oferecem nenhuma ameaça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Seu desespero empresta aos cães uma força feroz, e mesmo quando você se move entre eles, eles o cercam, suas garras e dentes encontram as aberturas em seu aparelho e afundam em sua pele e músculos. Usando toda a sua energia, você consegue forçá-los a recuar e obter alguma distância entre você e o bando.
+
+Respirando pesadamente, você deixa esta lagoa para trás. Nenhuma água vale a pena aqueles dentes ruminantes dos vira-latas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Despindo-se em suas pequenas roupas, você escorrega na água morna e entra na escuridão da caverna. Uma vez lá dentro, seus olhos rapidamente se ajustam à escuridão, e você encontra uma pequena câmara de pedra antes que o túnel afunde mais fundo, dentro da água e inacessível.
+
+A própria câmara é confortável, a luz passa sem entrar pela superfície da água, deixando o telhado rachado com padrões cáusticos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Quando você termina, talvez devido a alguma qualidade da água, você se sente mais limpo e calmo do que em toda a sua vida. Mesmo os banhos no Tribunal de [url=glossary:tunon]Tunon[/url] não se comparam a esta maravilha natural.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>O cercado natural que varre alto acima da gruta protegeu a estátua de mármore pintada do pior da destruição do [url=glossary:kyros]Kyros[/url] de [url=glossary:edict]Edict[/url] de Tempestades. Drapeado em um vestido pintado de vermelho carmim, a pele da rainha é um profundo bronze, e o que sobrou de seu cabelo enrolado enrolado é feito em preto esmaltado, dando a impressão de que ele foi bem lubrificado. Sua mão direita levanta uma lança quebrada, e ela deixou uma adaga virada para baixo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>As histórias mais antigas fazem você se perguntar, e você investiga a estátua com cuidado, os dedos cutucando suas curvas e contornos antes de localizar um pequeno compartimento escondido no calcanhar da estátua. Dentro de você encontra uma pequena bugiganga brilhante. Você o embolsa e continua no seu caminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>As histórias mais antigas fazem você se perguntar, e você investiga a estátua com cuidado, os dedos cutucando suas curvas e contornos antes de localizar um pequeno compartimento escondido no calcanhar da estátua. Dentro de você encontra uma pequena bugiganga brilhante. Você o embolsa e continua no seu caminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Cães sarnentos com pêlo emaranhado e cervos finos se reuniram nas sombras, buscando abrigo das tempestades que devastaram esse reino. Embora os veados se pressionem mais fundo nas sombras, os caninos grunhem quando você se aproxima, com as presas à mostra por trás dos cabelos enrolados.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

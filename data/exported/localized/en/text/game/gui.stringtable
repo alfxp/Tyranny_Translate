@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3911</EntryCount>
+  <EntryCount>3908</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -20069,21 +20069,6 @@ This feature is only applicable when DLCs with random events are installed.</Def
     <Entry>
       <ID>4654</ID>
       <DefaultText>Increases amount of incoming damage for a medium duration</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4661</ID>
-      <DefaultText>{0} Bonus Damage on afflicted Enemies.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4662</ID>
-      <DefaultText>Cannot save while in this scene.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4663</ID>
-      <DefaultText>{0} points added to {1}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

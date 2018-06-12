@@ -1,0 +1,688 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>130</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4402</ID>
+      <DefaultText>Selecione</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4403</ID>
+      <DefaultText>Ferida do bastardo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4409</ID>
+      <DefaultText>Telesophia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4410</ID>
+      <DefaultText>A telesofia foi amarrada e desamparada pelos habitantes da ferida de bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4411</ID>
+      <DefaultText>Matar Telesophia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4412</ID>
+      <DefaultText>Telesophia Livre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4413</ID>
+      <DefaultText>Desate-a e ajude-a a descer do pilar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4414</ID>
+      <DefaultText>Ignore Telesophia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4415</ID>
+      <DefaultText>Deixe-a amarrada ao pilar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4419</ID>
+      <DefaultText>Crie uma distração</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4420</ID>
+      <DefaultText>O conteúdo dessas caixas comerciais é altamente inflamável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4421</ID>
+      <DefaultText>Comece um fogo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4422</ID>
+      <DefaultText>Defina essas caixas comerciais em chamas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4423</ID>
+      <DefaultText>Este aldeão está de pé perto do poço principal, ele parece estar preocupado com alguma coisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4424</ID>
+      <DefaultText>Empurrar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4425</ID>
+      <DefaultText>Empurre o aldeão para o poço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4448</ID>
+      <DefaultText>Hyrax</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4449</ID>
+      <DefaultText>Rholes o açougueiro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4450</ID>
+      <DefaultText>Gwyneth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4451</ID>
+      <DefaultText>Toutinegra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4455</ID>
+      <DefaultText>{0} / {1} [url=glossary:reputation]Reputation[/url] Desbloqueia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4459</ID>
+      <DefaultText>Cymo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4460</ID>
+      <DefaultText>Toque no farol com a tocha Cymo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4461</ID>
+      <DefaultText>Jadis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4462</ID>
+      <DefaultText>Toque no farol com a tocha Jadis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4463</ID>
+      <DefaultText>Lazu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4464</ID>
+      <DefaultText>Toque no farol com a tocha Lazu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4465</ID>
+      <DefaultText>Tanza</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4466</ID>
+      <DefaultText>Toque no farol com a tocha de Tanza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4467</ID>
+      <DefaultText>Essa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4468</ID>
+      <DefaultText>Esta rampa elevada pode criar um caminho fácil para o piso inferior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4469</ID>
+      <DefaultText>Abaixe a rampa para ter acesso ao primeiro andar da propriedade arruinada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4470</ID>
+      <DefaultText>Teleporter Oldwalls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4471</ID>
+      <DefaultText>Coloque o Keystone da Ferida do Bastardo no recuo para ativar o Teleportador Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4472</ID>
+      <DefaultText>Coloque o Keystone no recuo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4480</ID>
+      <DefaultText>Entrada da caverna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4481</ID>
+      <DefaultText>O Coro desmoronou a entrada para esta caverna, bloqueando-a com grandes placas de pedra pesada. Apagar a mão seria o trabalho de um período ou mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4482</ID>
+      <DefaultText>Use o fogo do oceano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4483</ID>
+      <DefaultText>Exponha o jarro do Ocean Fire ao ar, iniciando seu processo de ignição.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4484</ID>
+      <DefaultText>Impede uma aplicação de uma aflição hostil durante o combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4485</ID>
+      <DefaultText>Tentativa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4486</ID>
+      <DefaultText>Acertos críticos com ataques básicos causarão uma aflição hostil aleatória por um curto período de tempo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4488</ID>
+      <DefaultText>Dê uma olhada no mural.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4519</ID>
+      <DefaultText>Mural de Oldwalls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4520</ID>
+      <DefaultText>Um mural antigo é pintado na parede.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4521</ID>
+      <DefaultText>Barreira de Fogo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4522</ID>
+      <DefaultText>O caminho está bloqueado por uma barreira mágica de fogo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4523</ID>
+      <DefaultText>Examine a barreira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4524</ID>
+      <DefaultText>Use talismã</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4525</ID>
+      <DefaultText>Use o talismã para derrubar a barreira de fogo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4526</ID>
+      <DefaultText>Woundkin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4527</ID>
+      <DefaultText>Os Woundkin estão todos amarrados e incapazes de se mover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4528</ID>
+      <DefaultText>Woundkin Livre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4529</ID>
+      <DefaultText>Remova as amarras que seguram a Woundkin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4530</ID>
+      <DefaultText>Matar Woundkin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4531</ID>
+      <DefaultText>Mate todos os Woundkin encontrados na fazenda de sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4537</ID>
+      <DefaultText>Woundkin morto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4539</ID>
+      <DefaultText>Este Woundkin parece ter morrido recentemente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4541</ID>
+      <DefaultText>Examine o Woundkin morto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4542</ID>
+      <DefaultText>Coloque a Keystone de Mell no recuo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4543</ID>
+      <DefaultText>Coloque a Keystone do Moniker Insípido no recuo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4549</ID>
+      <DefaultText>Crônica dos Sábios</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4550</ID>
+      <DefaultText>Esta crônica foi escondida aqui por [url=glossary:sage]Sage[/url] Lexeme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4551</ID>
+      <DefaultText>Tome Crônica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4552</ID>
+      <DefaultText>Leve a crônica para que Lantry possa estudá-la ainda mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4556</ID>
+      <DefaultText>Invisível por 5 segundos após atingir menos de 25% [url=glossary:health]Health[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4561</ID>
+      <DefaultText>Remove o Interruptor de Arma [url=glossary:recovery]Recovery[/url] Penalidade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4562</ID>
+      <DefaultText>Lança três projéteis com maior alcance que não podem ser [url=glossary:crit]Crit[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4566</ID>
+      <DefaultText>Cada vez mais ganha uma penalidade para [url=glossary:lore]Lore[/url] e [url=glossary:athletics]Athletics[/url] ao longo do tempo durante o combate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4570</ID>
+      <DefaultText>Berry Bush</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4571</ID>
+      <DefaultText>Estes arbustos estão repletos de cachos de frutos maduros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4572</ID>
+      <DefaultText>Examine o Bush</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4573</ID>
+      <DefaultText>Dê uma olhada nas bagas deste arbusto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4574</ID>
+      <DefaultText>Coma mais Bagas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4575</ID>
+      <DefaultText>É hora da segunda rodada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4585</ID>
+      <DefaultText>Faísca descuidada</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4586</ID>
+      <DefaultText>Lycentia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4587</ID>
+      <DefaultText>Malphora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4588</ID>
+      <DefaultText>O vaso das lágrimas de Vendrien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4589</ID>
+      <DefaultText>Uma torrente de sangue vermelho grosso brota dos olhos ocos da semelhança da rainha Lycaerus. Embora fora do alcance imediato, você suspeita que pode encontrar uma maneira de acessá-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4590</ID>
+      <DefaultText>Salte a lacuna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4591</ID>
+      <DefaultText>Com um pulo correndo, você pode atravessar o abismo e alcançar a bacia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4592</ID>
+      <DefaultText>Barik Toss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4593</ID>
+      <DefaultText>Comande Barik para jogar você na tigela. O pouso pode ser um pouco difícil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4594</ID>
+      <DefaultText>Barik Bridge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4595</ID>
+      <DefaultText>Faça com que Barik faça a ponte com seu corpo. Você duvida que ele ficará entusiasmado com a sugestão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4596</ID>
+      <DefaultText>Por favor clique para mais informações.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4601</ID>
+      <DefaultText>3 pontos roubados de um atributo aleatório por um período curto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4611</ID>
+      <DefaultText>Você recebeu este artefato de Lohara depois que ela ajudou a libertar Barik de sua armadura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4612</ID>
+      <DefaultText>Você recebeu este artefato de Lycentia depois que ela ajudou a libertar Barik de sua armadura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4613</ID>
+      <DefaultText>Você recebeu este artefato de Diocles enquanto perseguia a vingança de Verse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4614</ID>
+      <DefaultText>Você recebeu este artefato do Lexeme no Oldwalls da Ferida do Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4615</ID>
+      <DefaultText>Você recebeu este artefato de Wagstaff como um presente para Eb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4616</ID>
+      <DefaultText>Você recebeu este artefato da compreensão que Kills-in-Shadow fez dos murais encontrados nos Wound Oldwalls do Bastard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4617</ID>
+      <DefaultText>Você recebeu esse artefato estudando o folclore descoberto em Oldwalls da Ferida do Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4618</ID>
+      <DefaultText>Você descobriu este artefato do Oldwalls Wound do Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4619</ID>
+      <DefaultText>Catorius</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4620</ID>
+      <DefaultText>Denizen Domicile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4621</ID>
+      <DefaultText>Empurre o sem dormir sobre a borda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4622</ID>
+      <DefaultText>Esta insônia está de pé perto da borda da passarela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4623</ID>
+      <DefaultText>+1 [url=glossary:armor]Armor[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4624</ID>
+      <DefaultText>Concede um pequeno% de dano de fogo ao acertar durante o combate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4625</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4626</ID>
+      <DefaultText>As marcas azuis e vaga palmas da besta a marcam como Mantaborn, tribo dominante da região de Stalwart. Foi aqui que Chorus Blood Chanters empregou uma estratégia de usar a magia do frenesi nas Feras - indo tão longe a ponto de reunir alguns Feras para observação, para que a habilidade em questão pudesse ser aperfeiçoada. Enquanto muitos argumentariam que as leis geralmente protegem os magos das conseqüências de suas próprias ações, o [url=glossary:disfavored]Disfavored[/url] insistiu que isso era falso recrutamento, já que os Chanters eram impotentes para obrigar um Beastman a proclamar lealdade ao [url=glossary:kyros]Kyros[/url].
+
+Tendo sido o Fatebinder para supervisionar a decisão, você sabe que as bestas que não foram mortas pela magia do frenesi dos Chanters foram mortas após o julgamento. Você também sabe que várias gangues de Coro foram perdidas tentando executar esses prisioneiros supostamente bem guardados, e várias das Bestas maiores e mais sortudas escaparam da morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4627</ID>
+      <DefaultText>As marcas azuis e vaga palmas da besta a marcam como Mantaborn, tribo dominante da região de Stalwart. Foi aqui que Chorus Blood Chanters empregou uma estratégia de usar a magia do frenesi nas Feras - indo tão longe a ponto de reunir alguns Feras para observação, para que a habilidade em questão pudesse ser aperfeiçoada. A prática foi vista pelos [url=glossary:disfavored]Disfavored[/url] como recrutamento ilegal, pois os Beastmen sendo pressionados em serviço não se curvaram para [url=glossary:kyros]Kyros[/url] e nenhuma quantidade de spellcraft poderia torná-los tanto quanto fingir obediência ao Overlord. Em última análise, você ficou do lado do coro, como a lei [url=glossary:kyros]Kyros[/url] geralmente perdoa um mago para todos os tipos de danos colaterais na guerra, e isso foi magia de guerra por qualquer medida.
+
+Pouquíssimas feras sobreviveram ao recrutamento forçado e subseqüentes escaramuças com os [url=glossary:unbroken]Unbroken[/url], mas isso não impediu que dezenas de Bestas escapassem para as florestas durante o caos e a confusão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4628</ID>
+      <DefaultText>Durante o primeiro ano da guerra, você resolveu o desacordo dos Arcontes em relação à melhor maneira de pilhar os Níveis e alimentar os exércitos, tomando o plano [url=glossary:disfavored]Disfavored[/url]. Em vez de massacre desmedido, os mercadores locais seriam obrigados a servir e alimentar os dois exércitos pelas estações vindouras, em vez de serem assassinados e saqueados em uma única colheita.
+
+Esta é sem dúvida uma das centenas de comerciantes processados ​​durante suas duas semanas passadas supervisionando as operações. Embora seja improvável que tal povo lhe agradeça pelo trabalho forçado, mesmo os mais ingratos sabem que poderiam tê-lo agravado se você tivesse decidido o contrário.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4629</ID>
+      <DefaultText>Tendo passado um ano com o [url=glossary:forge-bound]Forge-Bound[/url] como governador de [url=glossary:lethian's crossing]Lethian's Crossing[/url], você foi submetido a incontáveis ​​horas de brincadeira dos magis-artesãos e conhecer o enigma como uma espécie de provérbio o mais velho ensinar aos seus aprendizes.
+
+"Que derrete primeiro?" é o enigma dos anéis. Noviços geralmente assumem que o anel de cobre comum derrete em uma chama quente, o anel de bronze em uma chama mais quente, e o lucrativo anel de ferro derrete na chama mais quente de todas, mas um instrutor treinado sabe o contrário. O enigma é geralmente mencionado quando jovens aprendizes fazem muitas perguntas sobre por que outros fora do Grêmio parecem (ao menos) totalmente incapaz de avaliar e respeitar o bom artesanato.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4630</ID>
+      <DefaultText>Cada aldeia em cada reino tem seus próprios enigmas locais, mas você já ouviu falar do "Enigma dos Anéis" como uma espécie de provérbio que os magos mais velhos contam aos mais jovens, embora a maioria deles contenha detalhes intencionalmente conflitantes dele a estranhos. o que significa que é um pouco confuso. Você já ouviu falar de soldados que o Enigma dos Anéis é um ditado sobre o oft-falado, mas provavelmente apócrifo, preso ao dever de criar anéis o dia todo.
+
+Por brincadeira comum, o enigma é: "Quantos anéis ele faz em cada período e quantos deles ele consegue manter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4631</ID>
+      <DefaultText>O termo '[url=glossary:kyros]Kyros[/url] Harem' tem uma ampla variedade de usos, nenhum dos quais parece ser completamente ilegal a ser repetido. De acordo com [url=glossary:bleden mark]Bleden Mark[/url], 'o Harem' é um termo condescendente para os milhares de pessoas que se tornam apaixonadas pelo Overlord e oferecem suas vidas aos Arcontes estritamente por adoração e lealdade cega. Tais recrutas seriam "arrancados do Harém".
+
+Você também sabe que é um problema matemático usado em parte para ensinar balconistas, recenseadores e outros administradores em progressão geométrica. O funcionário deve planejar uma rotação de haréns de várias semanas envolvendo um número extraordinariamente grande de consortes, escravos e voluntários - cada grupo progressivamente maior que o anterior. A natureza lasciva do problema mundial é, presumivelmente, destinada a ajudar a lição.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4632</ID>
+      <DefaultText>O capitão Pelox se virou para suas tropas, falx erguido alto. "Vamos elogiar a rainha Alanta por essa recompensa em nossas vésperas de batalha, e apesar de matarmos duas cabras em seu nome, vamos abater três em reverência a Arcon of War. Vamos nos tornar aquilo que tememos - invencível, incansável, indivisível."
+
+Enquanto numerosos Tiersmen reivindicaram uma fixação ao longo da vida com [url=glossary:graven ashe]Graven Ashe[/url], você só ouviu um Tiersmen falar tais coisas quando eles estão curvados diante de você, desesperados para fugir da execução ou recrutamento. Embora seja possível que Tiersmen bem conectados soubessem do Arconte antes da guerra, um nobre invocando seu nome em um discurso pré-batalha é altamente improvável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4633</ID>
+      <DefaultText>Você ouve as vozes em sua cabeça:
+
+"Olá novamente, Arconte. Nós vivemos aqui agora, em sua mente. Enquanto você vive, você mantém um pequeno pedaço de nós vivos. A imortalidade não é grandiosa? [url=glossary:kyros]Kyros[/url] pode ser feita conosco, mas não com você ... e temos MUITO a realizar na sua e na nossa vida ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4634</ID>
+      <DefaultText>Você ouve as vozes em sua cabeça:
+
+"Como se nos matar não fosse o bastante, agora você nos traz de volta aos seus sonhos febris por mais amor e atenção? Venha agora, Arconte, nós pensamos que deveríamos estar fazendo o papel da torcida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4635</ID>
+      <DefaultText>Você ouve as vozes em sua cabeça:
+
+"De todas as pessoas em Terratus, você sonha conosco? Oh Archon, você nos lisonjeia. É quase uma vergonha que o Overlord insista que joguemos este jogo de assassinato e domínio entre nós, Archons ... mas tais coisas eram inevitáveis ​​desde muito antes esta guerra ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4636</ID>
+      <DefaultText>Você ouve as vozes em sua cabeça:
+
+"Falando em perdão, você ainda nos deve um Pelox Florian ... você acha que esquecemos? Bem, talvez nós tenhamos - é possível que você esteja se lembrando disso para nós. É tão confuso aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4637</ID>
+      <DefaultText>Você ouve as vozes em sua cabeça:
+
+"Falando em perdão, você acha estranho que [url=glossary:bleden mark]Bleden Mark[/url] leve tanto brilho para você? Nós o fazemos. Por séculos, ele foi encarregado de matar pessoas com poder crescente ... por que então, deixar alguém como VOCÊ vivo para prosperar? Você sendo engordado para o jantar ... marque minhas palavras ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4638</ID>
+      <DefaultText>Você ouve as vozes em sua cabeça:
+
+"Tudo vai ser perdoado ... essas foram as palavras [url=glossary:kyros]Kyros[/url] falou conosco oh há muito tempo ... quando eu era. Resistir ou servir - eles são dois lados para o mesmo papel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4639</ID>
+      <DefaultText>Você ouve as vozes em sua cabeça:
+
+"E qual foi a sua motivação para trabalhar conosco? No caso de Lantry, ele era apenas um ladrão estúpido roubando a marca errada. Nós tínhamos todo o direito de destruí-lo ... oh como ele implorou por sua vida ... como poderia nós dizemos não para usá-lo? "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4640</ID>
+      <DefaultText>Você ouve as vozes em sua cabeça:
+
+"Sim, exatamente o que nós perdoamos o velho Lantry? Seja o que for, pesado contra as décadas de prestação de serviços, conseguimos o melhor fim do negócio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4641</ID>
+      <DefaultText>Essas prateleiras contêm um número incontável de pergaminhos, organizados de uma maneira que só pode ser descrita como caos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4642</ID>
+      <DefaultText>Examine a estante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4643</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4644</ID>
+      <DefaultText>Embora você não fosse testemunha dos acontecimentos, ouviu rumores de Cantores de Sangue de Coro realizando todo tipo de experimentos arcanos no Mantaborn, os Beastmen indígenas de Stalwart. Embora você saiba pouco sobre o que o estudo envolveu, esta Besta é a prova de que pelo menos uma vítima sobreviveu à curiosidade dos Blood Chanters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4648</ID>
+      <DefaultText>Conquista oculta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>Melitta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4655</ID>
+      <DefaultText>Krokus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4656</ID>
+      <DefaultText>Diocles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4657</ID>
+      <DefaultText>Cassandra, mestre do Knapping</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4658</ID>
+      <DefaultText>Capteron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4659</ID>
+      <DefaultText>Phoibe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4660</ID>
+      <DefaultText>Tycho</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

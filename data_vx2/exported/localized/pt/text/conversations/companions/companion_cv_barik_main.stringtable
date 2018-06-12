@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_barik_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>"Eu sou o servo fiel do Overlord, sem dúvida este poder foi concedido a mim por minha lealdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>"Você dedicou sua vida a estudar as leis de [url=glossary:kyros]Kyros[/url] e mantê-las ... Espero que este seja um presente de [url=glossary:kyros]Kyros[/url]. Pois se o Overlord não escolheu para você ter esse poder, pode ser sua ruína."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
