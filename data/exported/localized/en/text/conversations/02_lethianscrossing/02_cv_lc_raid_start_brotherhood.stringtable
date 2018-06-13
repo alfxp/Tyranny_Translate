@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_lc_raid_start_brotherhood</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>32</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>A soldier cries out as you leave the Oldwalls. "To arms! The Fatebinder approaches and must not be allowed to live!"</DefaultText>
+      <DefaultText>Um soldado grita quando você sai da Oldwalls. "Para armas! O Fatebinder se aproxima e não deve ser permitido viver!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Fatebinder! We need your help!" The soldier runs up, his words punctuated by his labored breathing. "Raetommon took the Magebane Helmet while you were in the Oldwalls! When Ceratha tried to stop him and his guards, they started slaughtering everyone - it didn't matter if they were Brotherhood or a townsperson! It's like he's gone crazy!" He points east.
+      <DefaultText>"Fatebinder! Precisamos da sua ajuda!" O soldado corre para cima, suas palavras pontuadas por sua respiração ofegante. "Raetommon pegou o Magebane Helmet enquanto você estava no Oldwalls! Quando Ceratha tentou detê-lo e seus guardas, eles começaram a massacrar todos - não importava se eles eram da Brotherhood ou de uma cidade! É como se ele tivesse enlouquecido!" Ele aponta para o leste.
 
-"Please, speak to him. We're unable to stop him!"</DefaultText>
+"Por favor, fale com ele. Não conseguimos impedi-lo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>A soldier sees you emerging from the Oldwalls and approaches, calling out to you. "Thank you, Fatebinder! By eliminating all of [url=glossary:kyros]Kyros[/url]' forces, you've made it all the easier for us to take what we want!"</DefaultText>
+      <DefaultText>Um soldado vê você emergindo dos Oldwalls e se aproxima, chamando por você. "Obrigado, Fatebinder! Ao eliminar todas as forças do [url=glossary:kyros]Kyros[/url], você tornou tudo mais fácil para nós tirarmos o que queremos!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"What the Brotherhood does is no concern of mine. I am not interested in fighting you."</DefaultText>
+      <DefaultText>"O que a Irmandade faz não é da minha conta. Eu não estou interessado em lutar com você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"We have no clue! It makes no sense! That's why I've come to you. You have to help us talk some sense into him!"</DefaultText>
+      <DefaultText>"Não temos idéia! Não faz sentido! É por isso que eu vim até você. Você tem que nos ajudar a convencê-lo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"You're welcome to the Helm! Why would I want it?"</DefaultText>
+      <DefaultText>"Você é bem-vindo ao Leme! Por que eu iria querer isso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,12 +43,12 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>He laughs and points east. "Raetommon is with Ceratha in the center of town. You should probably to speak with him. He's bound to want to thank you for your help."</DefaultText>
+      <DefaultText>Ele ri e aponta para o leste. "Raetommon está com Ceratha no centro da cidade. Você provavelmente deveria falar com ele. Ele é obrigado a querer agradecer por sua ajuda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Why is Raetommon attacking his own people?"</DefaultText>
+      <DefaultText>"Por que Raetommon está atacando seu próprio povo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,52 +58,52 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"I'll talk to him and see what I can do."</DefaultText>
+      <DefaultText>"Eu falo com ele e vejo o que posso fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Thank you, Fatebinder!  He is with Ceratha in the center of town. He must be brought to his senses before more innocent people die!"</DefaultText>
+      <DefaultText>"Obrigado, Fatebinder! Ele está com Ceratha no centro da cidade. Ele deve ser trazido à razão antes que mais pessoas inocentes morram!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Not the smartest decision, Fatebinder," he says. "But I wouldn't worry. You won't live long enough to regret it..."</DefaultText>
+      <DefaultText>"Não é a decisão mais inteligente, Fatebinder", diz ele. "Mas eu não me preocuparia. Você não viverá o suficiente para se arrepender ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"If that is how you feel, then you stand against the true Brotherhood! You can die with the rest."</DefaultText>
+      <DefaultText>"Se é assim que você se sente, então você se posiciona contra a verdadeira Irmandade! Você pode morrer com o resto".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Are you responsible for taking the Helm?"</DefaultText>
+      <DefaultText>"Você é responsável por tomar o leme?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Raetommon was already planning on raiding [url=glossary:lethian's crossing]Lethian's Crossing[/url] to kill [url=glossary:kyros]Kyros[/url]' men. When he heard news of the Master's arrival, he took it as a sign to act. The helmet is an extra prize! While I'm sad I won't get the pleasure of seeing them suffer, you did us a service by eliminating them."</DefaultText>
+      <DefaultText>"Raetommon já estava planejando invadir [url=glossary:lethian's crossing]Lethian's Crossing[/url] para matar [url=glossary:kyros]Kyros[/url] 'homens. Quando ele ouviu notícias da chegada do Mestre, ele tomou isto como um sinal para agir. O capacete é um prêmio extra! Enquanto eu estou triste eu não adquirirei o prazer de vê-los sofrer, você nos fez um serviço, eliminando-os ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"To arms! The Fatebinder approaches and must not be allowed to live!"</DefaultText>
+      <DefaultText>"Para armas! O Fatebinder se aproxima e não deve ser permitido viver!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Script Node 61</DefaultText>
+      <DefaultText>Nó de Script 61</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Script Node 62</DefaultText>
+      <DefaultText>Nó de Script 62</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Script Node 63</DefaultText>
+      <DefaultText>Nó de script 63</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,9 +113,9 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>The soldier takes a step backward, obviously not expecting this response. "You would really do that? Raetommon said you wouldn't dare attack us!" He takes another step. "You'll probably win this fight. I'm out of here!"
+      <DefaultText>O soldado dá um passo para trás, obviamente, não esperando essa resposta. "Você realmente faria isso? Raetommon disse que você não ousaria nos atacar!" Ele dá outro passo. "Você provavelmente vai ganhar essa luta. Eu estou fora daqui!"
 
-He turns and runs from you.</DefaultText>
+Ele se vira e corre de você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,49 +125,49 @@ He turns and runs from you.</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>The soldier takes a step backward. "You would take advantage of this horrible situation?" He takes another step. "I've heard about you - and you'll probably win this fight. I'm out of here!"
+      <DefaultText>O soldado dá um passo para trás. "Você tiraria vantagem desta situação horrível?" Ele dá outro passo. "Eu ouvi sobre você - e você provavelmente vai ganhar essa luta. Eu estou fora daqui!"
 
-He turns and runs from you.</DefaultText>
+Ele se vira e corre de você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Script Node 75</DefaultText>
+      <DefaultText>Nó de script 75</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Script Node 76</DefaultText>
+      <DefaultText>Nó de script 76</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Script Node 77</DefaultText>
+      <DefaultText>Nó de script 77</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Script Node 78</DefaultText>
+      <DefaultText>Nó de script 78</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Script Node 79</DefaultText>
+      <DefaultText>Nó de script 79</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Script Node 80</DefaultText>
+      <DefaultText>Nó de script 80</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Script Node 81</DefaultText>
+      <DefaultText>Nó de Script 81</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Script Node 82</DefaultText>
+      <DefaultText>Nó de Script 82</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

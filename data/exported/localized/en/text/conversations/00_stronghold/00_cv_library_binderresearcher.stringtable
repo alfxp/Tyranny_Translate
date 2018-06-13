@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_cv_library_binderresearcher</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>27</EntryCount>
   <Entries>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Greetings, Fatebinder!" The [url=glossary:sage]Sage[/url] bows low before you, the quills in his hood brushing the ground. </DefaultText>
+      <DefaultText>"Saudações, Fatebinder!" O [url=glossary:sage]Sage[/url] se curva antes de você, as penas em seu capuz escovam o chão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Who are you, and how did you get into my Spire?"</DefaultText>
+      <DefaultText>"Quem é você e como você entrou na minha Spire?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Why are you here?"</DefaultText>
+      <DefaultText>"Por quê você está aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,117 +26,117 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>He takes a cautious step back. "G-Garus! I'm your scribe and researcher! I've heard great things about you, about this... this place. The library here is incredible, if you don't mind my saying so." He quails back with uncertainty and fear.</DefaultText>
+      <DefaultText>Ele dá um passo cauteloso para trás. "G-Garus! Eu sou seu escriba e pesquisador! Eu ouvi ótimas coisas sobre você, sobre isso ... este lugar. A biblioteca aqui é incrível, se você não se importa que eu diga isso." Ele recua com incerteza e medo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"I don't remember hiring you."</DefaultText>
+      <DefaultText>"Não me lembro de contratar você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"What can you research for me?"</DefaultText>
+      <DefaultText>"O que você pode pesquisar para mim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Well, if you want to hold strictly to the truth, you didn't... but I never let details like that stop me in the past! [url=glossary:sage]Sage[/url] Tacitus always encouraged me to show ambition ahead of restraint, and I am nothing if not a student of good advice." He straightens his posture and clears his throat. "With your permission, of course." </DefaultText>
+      <DefaultText>"Bem, se você quer manter estritamente a verdade, você não ... mas eu nunca deixei detalhes como esse me impedir no passado! [url=glossary:sage]Sage[/url] Tacitus sempre me encorajou a mostrar ambição antes da restrição, e eu não sou nada se não é um estudante de bons conselhos ". Ele endireita sua postura e limpa a garganta. "Com a sua permissão, é claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Bank Node 18</DefaultText>
+      <DefaultText>Nó do banco 18</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"So you just invited yourself into the mix!" Lantry wipes his brow, leaving a sepia streak. "Ah, such foolhardy initiative reminds me of a younger me. It's amazing I still have my teeth considering what a fucking twit I used to be. Oh who am I kidding - still am."</DefaultText>
+      <DefaultText>"Então você acabou de se convidar para o mix!" Lantry limpa a testa, deixando uma marca sépia. "Ah, uma iniciativa tão imprudente me lembra de um eu mais novo. É incrível que eu ainda tenho meus dentes considerando o que eu costumava ser. Oh, quem eu estou enganando - ainda estou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Sages seem to be the new crotch sore... they just keep appearing atop your big hard monument at inopportune moments." Eb gestures her staff toward the edge of the Spire platform. "Of course, I'm happy to show him the exit - we could take wagers on how long it takes for him to fall - closest over or under wins."</DefaultText>
+      <DefaultText>"Os sábios parecem ser a nova virilha dolorida ... eles continuam aparecendo em cima do seu grande monumento em momentos inoportunos." Eb gesticula sua equipe em direção à borda da plataforma Spire. "É claro que estou feliz em mostrar a ele a saída - podemos apostar em quanto tempo ele precisa para cair - mais perto ou abaixo das vitórias."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Someone certainly thinks highly of himself, doesn't he? You're in the presence of the Fatebinder and the Archon of Song. What gives you the impression we even want you here?"</DefaultText>
+      <DefaultText>"Alguém certamente pensa muito em si mesmo, não é? Você está na presença do Fatebinder e do Archon of Song. O que lhe dá a impressão de que até a queremos aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"When I heard about the library you were building, I just had to come! I watched the workers as they hauled the stone and scrolls up here. There was an awful lot and they were very tired, so I did what little I could to assist. Then on the last day, as everyone was leaving, I just... stayed behind."</DefaultText>
+      <DefaultText>"Quando eu ouvi sobre a biblioteca que você estava construindo, eu apenas tive que vir! Eu observei os trabalhadores enquanto eles puxavam a pedra e rolavam para cima. Havia muita coisa e eles estavam muito cansados, então eu fiz o pouco que podia para Então no último dia, quando todos estavam saindo, eu simplesmente ... fiquei para trás ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Oh, any number of topics! Magic, alchemy, the history of the world... You have an impressive collection. Not as large as the [url=glossary:vellum citadel]Vellum Citadel[/url], perhaps, but no sense in crying over burnt parchment. I've started compiling a list of possible research topics. Allow me to show you."</DefaultText>
+      <DefaultText>"Ah, qualquer número de tópicos! Magia, alquimia, a história do mundo ... Você tem uma coleção impressionante. Não tão grande quanto o [url=glossary:vellum citadel]Vellum Citadel[/url], talvez, mas não há sentido em chorar sobre pergaminho queimado. Eu comecei a compilar um lista de possíveis tópicos de pesquisa. Permita-me mostrar a você. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"How may I serve you today, Fatebinder?"</DefaultText>
+      <DefaultText>"Como posso atendê-lo hoje, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"I take it you'll need someone to organize this collection of scrolls, someone to catalog new texts as you discover them, and someone organize research efforts. As your scribe, I can do all three. In fact, I'm excited to get started. I've already started looking through your collection and-" He cuts himself off and sighs. </DefaultText>
+      <DefaultText>"Entendo que você vai precisar de alguém para organizar esta coleção de pergaminhos, alguém para catalogar novos textos à medida que os descobrir, e alguém organizar esforços de pesquisa. Como seu escriba, eu posso fazer todos os três. Na verdade, estou animado para Comecei. Já comecei a procurar em sua coleção e ... "Ele se interrompe e suspira.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Forgive me for broaching such an indelicate subject, Fatebinder, but... we are short of funds here. The research I offer is involved, comprehensive and... costly. I'm sure you understand." He manages a nervous smile. </DefaultText>
+      <DefaultText>"Perdoe-me por abordar um assunto tão indelicado, Fatebinder, mas ... estamos com falta de fundos aqui. A pesquisa que ofereço está envolvida, abrangente e ... cara. Tenho certeza que você entende." Ele consegue um sorriso nervoso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"What's the status of your research?"</DefaultText>
+      <DefaultText>"Qual é o status da sua pesquisa?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"I want you to research something."</DefaultText>
+      <DefaultText>"Eu quero que você pesquise algo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"I'm happy to say I've made great progress." He beams at you and exhales a welcome breath. "Allow me to show you my findings."</DefaultText>
+      <DefaultText>"Estou feliz em dizer que fiz um grande progresso." Ele sorri para você e exala uma respiração bem-vinda. "Permita-me mostrar-lhe minhas descobertas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"The work continues, of course." He wipes away at the deep circles under his eyes, leaving a smear of black ink. "I'll notify you as soon as we have results."</DefaultText>
+      <DefaultText>"O trabalho continua, é claro." Ele enxuga os círculos profundos sob os olhos, deixando uma mancha de tinta preta. "Vou notificá-lo assim que tivermos resultados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"We're not currently researching anything. I've just been sorting, organizing, trying to stay out from underfoot." </DefaultText>
+      <DefaultText>"Atualmente não estamos pesquisando nada. Acabei de escolher, organizar, tentando ficar de fora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"I don't believe we've met."</DefaultText>
+      <DefaultText>"Eu não acredito que nos conhecemos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Explain who you are and what you're doing here. Fast."</DefaultText>
+      <DefaultText>"Explique quem você é e o que você está fazendo aqui. Rápido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Script Node 38</DefaultText>
+      <DefaultText>Nó de Script 38</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Indeed, and I'm afraid I have you at a disadvantage." He nods. "[url=glossary:sage]Sage[/url] Garus, formerly of the [url=glossary:vellum citadel]Vellum Citadel[/url]. Scribe and researcher extraordinaire... not to bore you with honorifics." </DefaultText>
+      <DefaultText>"De fato, e tenho medo de ter você em desvantagem." Ele concorda. "[url=glossary:sage]Sage[/url] Garus, anteriormente do [url=glossary:vellum citadel]Vellum Citadel[/url]. Escriba e pesquisador extraordinário ... não te aborrecer com honoríficos".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"To be honest, I need the work. The [url=glossary:vellum citadel]Vellum Citadel[/url] isn't exactly up to its old standards, and I'm afraid there aren't many safe places where a [url=glossary:sage]Sage[/url] can find employ during the war."</DefaultText>
+      <DefaultText>"Para ser honesto, eu preciso do trabalho. O [url=glossary:vellum citadel]Vellum Citadel[/url] não é exatamente até os seus padrões antigos, e eu tenho medo não há muitos lugares seguros onde um [url=glossary:sage]Sage[/url] pode encontrar emprego durante a guerra".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

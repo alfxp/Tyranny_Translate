@@ -1,307 +1,307 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>game\stronghold</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>60</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>{0} expires.</DefaultText>
+      <DefaultText>{0} expira.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{0} added! The quest expires on turn {1}.</DefaultText>
+      <DefaultText>{0} adicionado! A missão expira no turno {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>{0} completed!</DefaultText>
+      <DefaultText>{0} concluído!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Crafting ingredients have been collected.</DefaultText>
+      <DefaultText>Os ingredientes de fabricação foram coletados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Hireling Payday!</DefaultText>
+      <DefaultText>Contratando o dia de pagamento!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>{0} is leaving.</DefaultText>
+      <DefaultText>{0} está saindo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>{0} was paid {1}.</DefaultText>
+      <DefaultText>{0} foi pago {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>{0} was paid {1} and returned to active duty.</DefaultText>
+      <DefaultText>{0} foi pago {1} e voltou à ativa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>{0} was not paid {1}.</DefaultText>
+      <DefaultText>{0} não foi pago {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>{0} was not paid {1} and is no longer on active duty.</DefaultText>
+      <DefaultText>{0} não foi pago {1} e não está mais na ativa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>{0} completed! {1} returns to the Spire with {2}.</DefaultText>
+      <DefaultText>{0} concluído! {1} retorna para o Spire com {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>{0} attacked the Spire!</DefaultText>
+      <DefaultText>{0} atacou o Spire!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>{0} was not paid {1} and left the Spire.</DefaultText>
+      <DefaultText>{0} não foi pago {1} e saiu da Spire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>{0} attacked the Spire, but no damage was done!</DefaultText>
+      <DefaultText>{0} atacou o Spire, mas nenhum dano foi feito!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>{0} was destroyed.</DefaultText>
+      <DefaultText>{0} foi destruído.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>{0} was killed.</DefaultText>
+      <DefaultText>{0} foi morto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>You accrue a debt of {0}.</DefaultText>
+      <DefaultText>Você acumula uma dívida de {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Taxes collected.</DefaultText>
+      <DefaultText>Impostos recolhidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Lost {0} to bandits.</DefaultText>
+      <DefaultText>Perdeu {0} para bandidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Earned {0}.</DefaultText>
+      <DefaultText>Ganhou {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Your debt was paid off!</DefaultText>
+      <DefaultText>Sua dívida foi paga!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Your debt was reduced to {0}.</DefaultText>
+      <DefaultText>Sua dívida foi reduzida para {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>All earnings were lost to banditry.</DefaultText>
+      <DefaultText>Todos os ganhos foram perdidos para o banditismo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Prison break! {0} has escaped the dungeons!</DefaultText>
+      <DefaultText>Fuga da prisão! {0} escapou das masmorras!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Kidnapping! {0} has been kidnapped from the stronghold!</DefaultText>
+      <DefaultText>Sequestro! {0} foi raptado da fortaleza!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>{0} was killed by the kidnappers!</DefaultText>
+      <DefaultText>{0} foi morto pelos sequestradores!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>{0} has been rescued by {1}.</DefaultText>
+      <DefaultText>{0} foi resgatado por {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>{0} arrives at the stronghold for a visit.</DefaultText>
+      <DefaultText>{0} chega à fortaleza para uma visita.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Security reports that {0} will attack the stronghold in {1} turns!</DefaultText>
+      <DefaultText>Relatórios de segurança que {0} atacarão a fortaleza em {1} turnos!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>{0} has arrived, seeking employment.</DefaultText>
+      <DefaultText>{0} chegou, procurando emprego.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>A group has arrived, offering to buy the freedom of {0}. In exchange for the prisoner, they are offering {1} or {2}.</DefaultText>
+      <DefaultText>Um grupo chegou, oferecendo-se para comprar a liberdade de {0}. Em troca do prisioneiro, eles estão oferecendo {1} ou {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>{0} finishes escorting {1} and returns to the stronghold.</DefaultText>
+      <DefaultText>{0} termina de escoltar {1} e retorna para a fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>{0} abandons escorting {1}. They return to the stronghold.</DefaultText>
+      <DefaultText>{0} abandona a escolta {1}. Eles voltam para a fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Supplicant {0} has arrived, seeking {1} or an escort.</DefaultText>
+      <DefaultText>O suplicante {0} chegou, procurando {1} ou uma escolta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>The effects of ignoring supplicant {0} have worn off.</DefaultText>
+      <DefaultText>Os efeitos de ignorar o suplicante {0} desapareceram.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>{0} has arrived, offering to sell you {1} for {2}.</DefaultText>
+      <DefaultText>{0} chegou, oferecendo-se para vender {1} para {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>You ignore supplicant {0}, and he leaves the stronghold.</DefaultText>
+      <DefaultText>Você ignora o suplicante {0} e ele deixa a fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>You ignore supplicant {0}, and she leaves the stronghold.</DefaultText>
+      <DefaultText>Você ignora o suplicante {0} e ela deixa a fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>{0} leaves the stronghold.</DefaultText>
+      <DefaultText>{0} deixa a fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>{0} experience</DefaultText>
+      <DefaultText>{0} experiência</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>money</DefaultText>
+      <DefaultText>dinheiro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>items</DefaultText>
+      <DefaultText>Unid</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>reputation with {0}</DefaultText>
+      <DefaultText>reputação com {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>{0} and {1}</DefaultText>
+      <DefaultText>{0} e {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>{0}, a cruel ruler from the north, has arrived at the stronghold.</DefaultText>
+      <DefaultText>{0}, um governante cruel do norte, chegou à fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>{0}, a local fool has wandered into the stronghold and intends to stay for a while.</DefaultText>
+      <DefaultText>{0}, um tolo local entrou na fortaleza e pretende ficar por um tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>A wanted criminal by the name of {0}, has arrived at the stronghold.</DefaultText>
+      <DefaultText>Um criminoso procurado pelo nome de {0} chegou à fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>{0}, an old hero of the Saint's War has arrived at the stronghold.</DefaultText>
+      <DefaultText>{0}, um antigo herói da guerra de Saint chegou à fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>A wealthy noble by the name of {0}, has arrived at the stronghold.</DefaultText>
+      <DefaultText>Um rico nobre com o nome de {0} chegou à fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>{0}, an Aedyran dignitary, has arrived at the stronghold.</DefaultText>
+      <DefaultText>{0}, um dignitário de Aedyran, chegou à fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>{0}, an exotic wares merchant has arrived at the stronghold bearing rare items for trade.</DefaultText>
+      <DefaultText>{0}, um comerciante de mercadorias exóticas chegou à fortaleza com itens raros para o comércio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>{0} has arrived demanding coin for their troubles, or safe escort through the wilds.</DefaultText>
+      <DefaultText>{0} chegou exigindo moedas por seus problemas, ou escolta segura através dos campos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>She was nearly set upon by brigands on the road, but your patrols intervened.</DefaultText>
+      <DefaultText>Ela quase foi atacada por bandidos na estrada, mas suas patrulhas interveio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>He was nearly set upon by brigands on the road, but your patrols intervened.</DefaultText>
+      <DefaultText>Ele quase foi atacado por bandidos na estrada, mas suas patrulhas interveio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{3} {6}, {4}: Hour {2}</DefaultText>
+      <DefaultText>{3} {6}, {4}: hora {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Finished in {0}.</DefaultText>
+      <DefaultText>Terminado em {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Leaving in {0}.</DefaultText>
+      <DefaultText>Deixando em {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Turn {0}</DefaultText>
+      <DefaultText>Ligue {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>{0} remaining</DefaultText>
+      <DefaultText>{0} restante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Nothing new to report.</DefaultText>
+      <DefaultText>Nada de novo para relatar.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_will</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>54</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"While I appreciate your help dealing with that merchant, I'm afraid I can't let you pass until you have spoken with our leader, Raetommon. Personally, I thought he was crazy saying you'd be visiting [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Looks like I owe him a few rings."</DefaultText>
+      <DefaultText>"Embora eu aprecie sua ajuda para lidar com o comerciante, receio não poder deixar você passar até que você tenha falado com nosso líder, Raetommon. Pessoalmente, eu pensei que ele estava louco dizendo que você estaria visitando [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Parece que eu devo-lhe alguns anéis ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"You are walking a dangerous line, Fatebinder. The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] never back down from threats." He pauses for a moment, sizing you up.
+      <DefaultText>"Você está andando em uma linha perigosa, Fatebinder. O [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] nunca recuou de ameaças." Ele faz uma pausa por um momento, avaliando você.
 
-"Normally I'd knock you down where you stand for threatening me, but Raetommon demanded to see you if you came through here. I thought he was crazy saying you'd be visiting [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Looks like I owe him a few rings."</DefaultText>
+"Normalmente eu te derrubaria onde você está me ameaçando, mas Raetommon exigia ver você se você viesse por aqui. Eu pensei que ele fosse louco dizendo que você estaria visitando [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Parece que eu devo a ele alguns anéis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Who is Raetommon?"</DefaultText>
+      <DefaultText>"Quem é Raetommon?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Where can I find Raetommon?"</DefaultText>
+      <DefaultText>"Onde posso encontrar Raetommon?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Raetommon sent a signal that I'm supposed to let you pass without paying the toll." He moves to the side to let you through.
+      <DefaultText>"Raetommon enviou um sinal de que eu deveria deixar você passar sem pagar o pedágio." Ele se move para o lado para deixar você passar.
 
-"Such a shame. I would love to see if your money spent differently than anyone else's..." He jerks his thumb over his shoulder, indicating you should go.</DefaultText>
+"Que vergonha. Eu adoraria ver se o seu dinheiro gasto de forma diferente do que qualquer outra pessoa ..." Ele sacode o polegar por cima do ombro, indicando que você deveria ir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,41 +40,41 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Will barks out a short laugh. "Now that's a question with a hundred answers! Simple one? He's the current leader of the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]. If you want to know anything more, I suggest you go find him and talk to him."</DefaultText>
+      <DefaultText>Will solta uma risada curta. "Agora, essa é uma pergunta com cem respostas! Simples? Ele é o atual líder do [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]. Se você quiser saber mais alguma coisa, sugiro que vá encontrá-lo e converse com ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>He points south. "He's right there, inspecting the corpses of some of [url=glossary:kyros]Kyros[/url]' solders. He's bound to be in a good mood right now."
+      <DefaultText>Ele aponta para o sul. "Ele está bem ali, inspecionando os cadáveres de algumas das soldas. Ele deve estar de bom humor agora."
 
-He winks at you. "All those dead bodies? Must be heaven for him!" The color drains from his face as soon as the words leave his lips. "Please don't tell him I said that."</DefaultText>
+Ele pisca para você. "Todos aqueles corpos mortos? Deve ser o paraíso para ele!" A cor escoa de seu rosto assim que as palavras saem de seus lábios. "Por favor, não diga a ele que eu disse isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Will returns to his position and looks you over, his former genial mood gone. "So, a Fatebinder in our little corner of the world. Who'd have ever thought this would happen." He spits between his feet then crushes it into the dirt with his boot.</DefaultText>
+      <DefaultText>Will retorna à sua posição e olha para você, seu antigo humor genial desapareceu. "Então, um Fatebinder em nosso cantinho do mundo. Quem teria pensado que isso aconteceria." Ele cospe entre os pés, em seguida, esmaga-o na terra com a bota.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"So my station means nothing?"</DefaultText>
+      <DefaultText>"Então minha estação não significa nada?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Out in the middle of nowhere? No. Your station means about as much as a whore to a eunuch."
+      <DefaultText>"No meio do nada? Não. Sua estação significa tanto quanto uma prostituta para um eunuco."
 
-He holds out his hand, palm up, and taps his finger in the middle of it. "Money is what matters to us."</DefaultText>
+Ele estende a mão, palma para cima e bate o dedo no meio dela. "O dinheiro é o que importa para nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"I will pay the toll."</DefaultText>
+      <DefaultText>"Eu vou pagar o pedágio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>He reaches for the rings and stops short of taking them and lets out a giant sigh. "No. You'd better see Raetommon. I'll catch the bad side of a Beastman's claws if I let a Fatebinder through without an audience."</DefaultText>
+      <DefaultText>Ele pega os anéis e pára antes de pegá-los e solta um suspiro gigante. "Não. É melhor você ver Raetommon. Eu vou pegar o lado ruim das garras de um Beastman se eu deixar um Fatebinder passar sem uma audiência."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,135 +84,135 @@ He holds out his hand, palm up, and taps his finger in the middle of it. "Money 
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Will smirks and shakes his head. "Nice try, Fatebinder, but if I don't see a sign from Raetommon, not even [url=glossary:kyros]Kyros[/url] himself would be getting through here."</DefaultText>
+      <DefaultText>Will sorri e balança a cabeça. "Boa tentativa, Fatebinder, mas se eu não vejo um sinal de Raetommon, nem mesmo o [url=glossary:kyros]Kyros[/url] estaria passando por aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"You got Raetommon's permission to go, Fatebinder. So, go!"</DefaultText>
+      <DefaultText>"Você tem permissão de Raetommon para ir, Fatebinder. Então, vá!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"What can this humble servant of the Brotherhood do for you, Fatebinder? And don't ask me to let you through, because that isn't happening."</DefaultText>
+      <DefaultText>"O que esse humilde servo da Irmandade pode fazer por você, Fatebinder? E não me peça para deixar você passar, porque isso não está acontecendo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Current leader?"</DefaultText>
+      <DefaultText>"Líder atual?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Well, it's not like leader of the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] is a lifelong calling." Will stops, his brow wrinkling.
+      <DefaultText>"Bem, não é como líder do [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] é uma chamada ao longo da vida." Will para, com as sobrancelhas franzidas.
 
-"Actually, that's exactly what it is... See, if someone wants to claim the current leader's authority for their own, they can do it at any time."</DefaultText>
+"Na verdade, é exatamente o que é ... Veja, se alguém quiser reivindicar a autoridade do líder atual, pode fazê-lo a qualquer momento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Of course that means a challenge of some sort. And that always ends with the death of one - or more - of the participants."
+      <DefaultText>"Claro que isso significa um desafio de algum tipo. E isso sempre termina com a morte de um - ou mais - dos participantes."
 
-"Raetommon survived a night in the Oldwalls. That was enough to prove to most of the Brotherhood that he was the right man for the job."</DefaultText>
+"Raetommon sobreviveu a uma noite nos Oldwalls. Isso foi o suficiente para provar para a maioria da Irmandade que ele era o homem certo para o trabalho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>He laughs. "I'll be counting the seconds until you return."</DefaultText>
+      <DefaultText>Ele ri. "Eu vou estar contando os segundos até você voltar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Bank Node 24</DefaultText>
+      <DefaultText>Nó do banco 24</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"This ridiculous piece of mercenary offal requires a lesson in pain and obedience. Allow me to teach him."</DefaultText>
+      <DefaultText>"Este ridículo pedaço de mercenários requer uma lição de dor e obediência. Permita-me ensiná-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Someone made the mistake of giving this little man too much power, and he's about to discover what happens when you stand in my way." </DefaultText>
+      <DefaultText>"Alguém cometeu o erro de dar a esse homenzinho muito poder, e ele está prestes a descobrir o que acontece quando você está no meu caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Sweating, weak human who guards bridge is bothering Alpha to Kills-in-Shadow? Let Beastwoman take lead. Let Beastwoman hunt human." </DefaultText>
+      <DefaultText>"Suor, humano fraco que protege a ponte está incomodando Alfa a Mata-na-Sombra? Deixe Besta levar a liderança. Deixe Beastwoman caçar humano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"If you think you can get him to move, do it."</DefaultText>
+      <DefaultText>"Se você acha que pode fazer ele se mexer, faça isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Thanks, but I can handle this myself."</DefaultText>
+      <DefaultText>"Obrigado, mas eu posso lidar com isso sozinho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Sellsword! Attend me. I take it your responsibilities have been explained to you? Keep the rabble on this side of the bridge, yes? That does not preclude taking orders from your betters." </DefaultText>
+      <DefaultText>"Sellsword! Atende-me. Suponho que suas responsabilidades foram explicadas a você? Mantenha a ralé deste lado da ponte, sim? Isso não impede receber ordens de seus superiores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Is your name Raetommon? Are you the leader of the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]?"
+      <DefaultText>"É o seu nome Raetommon? Você é o líder do [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]?"
 
-He cups his ear to listen. 
+Ele cobre seu ouvido para ouvir.
 
-"No? I didn't think so. Because he decides who crosses and who doesn't. If you have a problem with that, take it up with him."</DefaultText>
+"Não? Eu não penso assim. Porque ele decide quem atravessa e quem não. Se você tem um problema com isso, levá-la com ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ashe forgive me, but I can only endure so much of this fool's inane jabbering." 
+      <DefaultText>"Ashe me perdoe, mas eu só posso aguentar tanto dessa tagarelice idiota do idiota."
 
-A blur of rusted metal precedes a deafening crunch as Barik backhands the mercenary, leaving a significant mark behind.</DefaultText>
+Um borrão de metal enferrujado precede uma crise ensurdecedora como Barik backhands o mercenário, deixando uma marca significativa para trás.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"With pleasure." </DefaultText>
+      <DefaultText>"Com prazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>The mercenary's mouth hangs open in disbelief. He swallows and attempts to gather his pride. 
+      <DefaultText>A boca do mercenário fica aberta em descrença. Ele engole e tenta reunir seu orgulho.
 
-"I would help you, but my boss told me to guard this bridge. No one gets by without Raetommon's permission."</DefaultText>
+"Eu ajudaria você, mas meu chefe me disse para guardar essa ponte. Ninguém passa sem a permissão de Raetommon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url], give me strength - you deserve this far more than I'm going to enjoy it." 
+      <DefaultText>"[url=glossary:kyros]Kyros[/url], me dê força - você merece muito mais do que eu vou aproveitar."
 
-Verse swings her fist and lands a punch with a meaty whack, snapping back the mercenary's head.</DefaultText>
+Verso balança o punho e acerta um soco com uma pancada de carne, puxando para trás a cabeça do mercenário.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>The Beastwoman prowls forward, muscles quivering from her eagerness, saliva frothing on her tongue as she pants and snuffs her hot breath into the sellsword's face. 
+      <DefaultText>A Beastwoman se arremessa para frente, os músculos tremendo de sua ansiedade, a saliva espumando em sua língua enquanto ela arqueja e respira o hálito quente no rosto do mercenário.
 
-"Smells rank, but will devour for Alpha."</DefaultText>
+"Smells rank, mas vai devorar para Alpha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Will laughs and stares at Kills-in-Shadow for a few moments.
+      <DefaultText>Will ri e olha para Kills-in-Shadow por alguns momentos.
 
-"You're welcome to try, Fluffy, but I'm sure I'd give you indigestion. And even if I disappeared, Raetommon still wants to see you. You're not getting through."</DefaultText>
+"Você é bem-vindo para tentar, Fofo, mas tenho certeza que eu daria indigestão. E mesmo que eu desapareça, Raetommon ainda quer ver você. Você não está conseguindo passar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>She snarls in a rage and wrenches her massive, muscle-corded arm back, claws splayed to strike.</DefaultText>
+      <DefaultText>Ela rosna em fúria e puxa seu braço maciço e musculoso para trás, com as garras abertas para atacar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Will rubs his cheek. "Hold on! I'm just doing my job! I apologize if I offended. Raetommon will have my head if I let you through. There's nothing I can do about it!"</DefaultText>
+      <DefaultText>Vai esfregar sua bochecha. "Espere! Eu só estou fazendo meu trabalho! Peço desculpas se ofendi. Raetommon terá minha cabeça se eu deixar você passar. Não há nada que eu possa fazer sobre isso!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,52 +222,52 @@ Verse swings her fist and lands a punch with a meaty whack, snapping back the me
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Will's head is thrown to the side as your fist connects with his cheek. He looks at you, his eyes swimming momentarily before refocusing. "Woah! What was that for?"</DefaultText>
+      <DefaultText>A cabeça de Will é jogada para o lado enquanto seu punho se conecta com a bochecha dele. Ele olha para você, seus olhos nadando momentaneamente antes de refocar. "Woah! O que foi isso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"I don't like insubordination. Next time I tell you to act, do so immediately."</DefaultText>
+      <DefaultText>"Eu não gosto de insubordinação. Da próxima vez que eu lhe disser para agir, faça isso imediatamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"If you don't feel like paying the toll, I can point you back the way you came - if you need an idea of where to go. Because I can't let you through."</DefaultText>
+      <DefaultText>"Se você não sente vontade de pagar o pedágio, eu posso apontar você de volta do jeito que você veio - se você precisar de uma idéia de para onde ir. Porque eu não posso deixar você passar".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Hey, shitmeat! Do you plan on moving your ass this century, or do we have to stand here jawing like a bunch of graybeards?"</DefaultText>
+      <DefaultText>"Ei, merda! Você planeja mover sua bunda neste século, ou nós temos que ficar aqui de queixo caído como um bando de barba grisalha?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"We're on a mission, and staring at your ugly mug and catching up on the past won't get it done any faster. Are you going to move on, or do I need to start cutting? Because I'm partial to either option." </DefaultText>
+      <DefaultText>"Nós estamos em uma missão, e encarar sua caneca feia e recuperar o atraso no passado não vai fazer nada mais rápido. Você vai seguir em frente, ou eu preciso começar a cortar? Porque eu sou parcial para qualquer opção. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"One of two things will happen - either you will let us pass, or we will simply pass. There are no other options. Whatever role you have taken upon yourself to bar our way has already failed. You succeed only in delaying our task... and annoying me."</DefaultText>
+      <DefaultText>"Uma de duas coisas acontecerá - ou você nos deixará passar, ou nós simplesmente passaremos. Não há outras opções. Qualquer papel que você tenha assumido para barrar o nosso caminho já falhou. Você só consegue atrasar nossa tarefa. .. e me irritando. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>He shakes the pouch around his neck, making the rings inside jingle melodically. "Not that there's a shortage of those out here!"</DefaultText>
+      <DefaultText>Ele sacode a bolsa em volta do pescoço, fazendo os anéis tocarem melodicamente. "Não que haja uma falta deles aqui fora!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>He stops, paling slightly and touches the red spot on his cheek. "Again, no offense intended. Those are the rules Raetommon set."</DefaultText>
+      <DefaultText>Ele pára, empalidecendo um pouco e toca a mancha vermelha em sua bochecha. "Novamente, sem querer ofender. Essas são as regras que Raetommon estabeleceu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>He stops, paling slightly and touches the red spot on his cheek. "Again, no offense intended. Those are the rules Raetommon set."</DefaultText>
+      <DefaultText>Ele pára, empalidecendo um pouco e toca a mancha vermelha em sua bochecha. "Novamente, sem querer ofender. Essas são as regras que Raetommon estabeleceu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Hey! Cool it, Kills. You slaughter that guard, and I'm going to have a tough fight out of here."</DefaultText>
+      <DefaultText>"Ei! Refresque, Kills. Você abate aquele guarda, e eu vou ter uma briga dura daqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -277,31 +277,31 @@ Verse swings her fist and lands a punch with a meaty whack, snapping back the me
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>She glances back at you and sneers, hand lowering slightly in the air. But then she swipes hard for his face - claws raking the length of his cheek.
+      <DefaultText>Ela olha de volta para você e zomba, a mão abaixando levemente no ar. Mas então ela bate forte no rosto dele - garras raspando o comprimento de sua bochecha.
 
-"Beastwoman will not be insulted so easily. Whine human, whimper for Kills-in-Shadow if don't want to die."</DefaultText>
+"Beastwoman não será insultada tão facilmente. Lamento humana, choramingar por Kills-in-Shadow, se não quiser morrer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>At first it seems she will rip out his entrails, but at the last moment, she reigns in her bloodlust, deciding - likely for her pack's sake - to spare him. Instead, she swipes hard for his face, her claws raking the length of his cheek.
+      <DefaultText>A princípio, parece que ela vai arrancar suas entranhas, mas no último momento, ela reina em sua sede de sangue, decidindo - provavelmente por causa de sua matilha - poupá-lo. Em vez disso, ela bate forte no rosto dele, as garras raspando o comprimento da bochecha dele.
 
-"Beastwoman will not be insulted so easily. But also will not so easily risk Alpha's safety. Can smell many more-than-five with iron-claws hiding in Haven's shadows. Will hunt human again - when Beastwoman is alone."</DefaultText>
+"Beastwoman não será insultada tão facilmente. Mas também não arriscará facilmente a segurança de Alpha. Pode cheirar muito mais do que cinco com garras de ferro escondidas nas sombras de Haven. Will caçará humanos novamente - quando Beastwoman estiver sozinha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Script Node 67</DefaultText>
+      <DefaultText>Nó de Script 67</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"You got Raetommon's permission to go, Fatebinder. So, go!"</DefaultText>
+      <DefaultText>"Você tem permissão de Raetommon para ir, Fatebinder. Então, vá!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"You got Raetommon's permission to go, Fatebinder. So, go!"</DefaultText>
+      <DefaultText>"Você tem permissão de Raetommon para ir, Fatebinder. Então, vá!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_bs_oldwall_warning</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Sorry, Fatebinder. Bane have been spotted in growing numbers recently, so Eldian has asked us to seal the Oldwalls."</DefaultText>
+      <DefaultText>"Desculpe, Fatebinder. Bane foram vistos em números crescentes recentemente, então Eldian nos pediu para selar os Oldwalls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"I've received word I'm to let you into the Oldwalls. Take care in there, Fatebinder."</DefaultText>
+      <DefaultText>"Eu recebi a notícia de que eu vou deixar você entrar na Oldwalls. Tome cuidado lá, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"You can look, but don't touch."</DefaultText>
+      <DefaultText>"Você pode olhar, mas não toque."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

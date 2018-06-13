@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_cv_caedis_radix_jms_new</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>229</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Fatebinder." The soldier salutes you with the smack of a meaty fist on bronzed armor. "Lieutenant Caedis, at your service, sir."</DefaultText>
+      <DefaultText>"Fatebinder". O soldado te saúda com o beijo de um punho carnudo na armadura bronzeada. "Tenente Caedis, ao seu serviço, senhor."</DefaultText>
       <FemaleText>"Fatebinder." The soldier salutes you with the smack of a meaty fist on bronzed armor. "Lieutenant Caedis, at your service, ma'am."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"That's Commander Ironcore to you, baby brother. And you, as well, Fatebinder."
+      <DefaultText>"Isso é comandante Ironcore para você, irmãozinho. E você, também, Fatebinder."
 
-The elite [url=glossary:iron guard]Iron Guard[/url] casts a steely glance in your direction without offering you a salute. 
+A elite [url=glossary:iron guard]Iron Guard[/url] lança um olhar de aço em sua direção sem lhe oferecer uma saudação.
 
-"Forgive me if I do not have time to entertain idle pleasantries. We're on a campaign of the highest importance. I am sure you understand."</DefaultText>
+"Perdoe-me se eu não tiver tempo para receber cortesias despreocupadas. Estamos em uma campanha da mais alta importância. Tenho certeza que você entende."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ashe has sent me to assist with your efforts to solidify our hold in the [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
+      <DefaultText>"Ashe me enviou para ajudar com seus esforços para solidificar a nossa espera no [url=glossary:stone sea]Stone Sea[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -30,32 +30,32 @@ The elite [url=glossary:iron guard]Iron Guard[/url] casts a steely glance in you
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"So you do come with a purpose." 
+      <DefaultText>"Então você vem com um propósito."
 
-The [url=glossary:iron guard]Iron Guard[/url] turns the crushing weight of his attention on you, one strengthened by both magic and the austerity of his resolve. After a moment, the severity of his scrutiny slowly crumbles, and he nods as if to an unspoken decision.
+O [url=glossary:iron guard]Iron Guard[/url] transforma o peso esmagador de sua atenção em você, um fortalecido pela magia e pela austeridade de sua determinação. Depois de um momento, a severidade de seu escrutínio lentamente desmorona, e ele acena como se fosse uma decisão não dita.
 
-"I'd be a fool to turn down the aid of a Fatebinder, especially one so renowned. I will accept any assistance I can acquire in uniting with my Earthshakers at [url=lore:Howling_Rock]Howling Rock[/url] and defending the fort they have erected around [url=glossary:cairn]Cairn[/url]'s remains."</DefaultText>
+"Eu seria um tolo em recusar a ajuda de um Fatebinder, especialmente um tão renomado. Aceitarei qualquer ajuda que puder adquirir em unir-me aos meus Earthshakers em [url=lore:Howling_Rock]Howling Rock[/url] e defender o forte que eles ergueram em torno dos restos mortais de [url=glossary:cairn]Cairn[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"What the Commander is trying to say, is we're beholden to have you." Caedis grunts, shooting his brother a pointed look. 
+      <DefaultText>"O que o Comandante está tentando dizer, é que estamos obrigados a ter você." Caedis grunhe, atirando em seu irmão um olhar aguçado.
 
-"Getting to [url=lore:Howling_Rock]Howling Rock[/url]'s the easy part. Only it hasn't been that easy. We've been waylaid with Chorus forces and Beasts that'll rend you limb to limb sooner than you can blink. They're bloodthirsty sons of curs, mark my words."</DefaultText>
+"Chegar à [url=lore:Howling_Rock]Howling Rock[/url] é a parte fácil. Só que não tem sido tão fácil. Nós fomos cercados por forças do Coro e bestas que te deixam com um membro mais rápido do que você pode piscar. Eles são filhos sanguinários de maldição, marca minhas palavras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"I fear neither man nor Beast. I'll cut us a path to Howling Rock, regardless of who stands in our way."</DefaultText>
+      <DefaultText>"Eu não temo nem o homem nem a Besta. Vou cortar-nos um caminho para Howling Rock, independentemente de quem esteja no nosso caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"That's what I like to hear, sir." 
+      <DefaultText>"Isso é o que eu gosto de ouvir, senhor."
 
-Deftly, he draws his sword, and crouching, carves a basic map into the silt-covered ground. 
+Com destreza, ele desembainha a espada e, agachado, traça um mapa básico no solo coberto de lodo.
 
-"Fastest route's through [url=lore:StoneDown]Stone Down Gorge[/url] - course, the area's swarming with Chorus and Beasts, alike."</DefaultText>
+"A rota mais rápida é através de [url=lore:StoneDown]Stone Down Gorge[/url] - claro, a área está repleta de Coro e Feras, igualmente."</DefaultText>
       <FemaleText>"That's what I like to hear, ma'am." 
 
 Deftly, he draws his sword, and crouching, carves a basic map into the silt-covered ground. 
@@ -64,33 +64,33 @@ Deftly, he draws his sword, and crouching, carves a basic map into the silt-cove
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Carve us a path, and we'll follow close on your heels." He tips his head to you in good luck. "Get us there in one piece, and I'll name my broad sword in your honor."</DefaultText>
+      <DefaultText>"Nos esculpir um caminho, e vamos seguir de perto em seus calcanhares." Ele inclina a cabeça para você em boa sorte. "Traga-nos para lá em um pedaço, e eu vou nomear minha espada larga em sua honra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Understood. I'll be on my way."</DefaultText>
+      <DefaultText>"Entendido. Eu estarei a caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"What're you and your squad doing, stationed in the middle of the [url=glossary:stone sea]Stone Sea[/url]?"</DefaultText>
+      <DefaultText>"O que você e seu esquadrão estão fazendo, estacionados no meio do [url=glossary:stone sea]Stone Sea[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"As if that would happen." He waves a dismissive hand. "My brother is a dreamer, though his fantasies are often insipid and ill devised."
+      <DefaultText>"Como se isso acontecesse." Ele acena com a mão desconsiderada. "Meu irmão é um sonhador, embora suas fantasias sejam muitas vezes insípidas e mal concebidas."
 
-"We are en route to [url=lore:Howling_Rock]Howling Rock[/url] to bolster our fort and the Earthshakers protecting [url=glossary:cairn]Cairn[/url]'s remains."</DefaultText>
+"Estamos a caminho de [url=lore:Howling_Rock]Howling Rock[/url] para reforçar o nosso forte e os Earthshakers protegendo os restos mortais de [url=glossary:cairn]Cairn[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Caedis clears his throat with a sound that's half hacking, half deep guffaw. He slouches in lazy attention, a hand resting comfortably on the hilt of his broad sword.
+      <DefaultText>Caedis limpa a garganta com um som que é meio gargalhar, meio gargalhada profunda. Ele se distrai com preguiça, uma mão repousando confortavelmente no cabo de sua espada larga.
 
-"I humbly apologize for the both of us. But if you don't mind me asking, what's brought you to these parts, sir?" 
+"Peço humildemente desculpas por nós dois. Mas, se você não se incomodar de eu perguntar, o que te trouxe a essas partes, senhor?"
 
-He tips his head to indicate the stone expanse behind him. "Sure, she looks pretty, but don't let those big peaks fool you. The land's a tangle of danger."</DefaultText>
+Ele inclina a cabeça para indicar a extensão de pedra atrás dele. "Claro, ela parece bonita, mas não deixe esses grandes picos te enganarem. A terra é um emaranhado de perigo."</DefaultText>
       <FemaleText>Caedis clears his throat with a sound that's half hacking, half deep guffaw. He slouches in lazy attention, a hand resting comfortably on the hilt of his broad sword.
 
 "I humbly apologize for the both of us. But if you don't mind me asking, what's brought you to these parts, ma'am?" 
@@ -99,381 +99,381 @@ He tips his head to indicate the stone expanse behind him. "Sure, she looks pret
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>He jerks a thumb, his gauntlet caked with dust and blood, toward the mountain of a man behind him. "Won't get him to admit it, but Radix is, too."</DefaultText>
+      <DefaultText>Ele sacode o polegar, sua manopla coberta de poeira e sangue, na direção da montanha de um homem atrás dele. "Não vai conseguir que ele admita, mas Radix também é."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"What exactly are 'these parts'? And how're they dangerous?"</DefaultText>
+      <DefaultText>"O que exatamente são essas partes? E como elas são perigosas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"The [url=glossary:stonestalkers]Stonestalkers[/url] call this place [url=lore:JaggedMaw]Jagged Maw Shrine[/url] on account of the crystal formations. If the Beastmen don't kill you, the constant quakes and steep drop offs damn well will."</DefaultText>
+      <DefaultText>"O [url=glossary:stonestalkers]Stonestalkers[/url] chama este lugar [url=lore:JaggedMaw]Jagged Maw Shrine[/url] por causa das formações de cristal. Se os Beastmen não o matarem, os tremores constantes e as descidas íngremes farão muito bem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"We're weeks into the escort op of fire and damnation. I'd say I got the detail as punishment, but the General claims he chose me on account of this jerk being my kin. He thinks Radix'll listen to me when I tell him he's about to step off a cliff."</DefaultText>
+      <DefaultText>"Nós estamos semanas na escolta de fogo e danação. Eu diria que eu tenho o detalhe como punição, mas o General alega que ele me escolheu por causa desse idiota ser meu parente. Ele acha que Radix vai me ouvir quando Eu digo a ele que ele está prestes a sair de um penhasco ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Keep alert when dealing with the Beastmen, sir. They can be damned aggressive."</DefaultText>
+      <DefaultText>"Mantenha-se alerta ao lidar com os Beastmen, senhor. Eles podem ser muito agressivos."</DefaultText>
       <FemaleText>"Keep alert when dealing with the Beastmen, ma'am. They can be damned aggressive."</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Speak up, sir."</DefaultText>
+      <DefaultText>"Fala, senhor."</DefaultText>
       <FemaleText>"Speak up, ma'am."</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Can't thank you enough, sir. You don't know the world of difference this makes. We'll prep for heading out."
- 
-Caedis pounds a fist to his chest in farewell. "Holler if you need us, but don't count on us to save your ass. Our duty's to protect the 'shakers so we'll be trailing a ways behind."</DefaultText>
+      <DefaultText>"Não posso agradecer o suficiente, senhor. Você não conhece o mundo da diferença que isso faz. Vamos nos preparar para sair."
+ 
+Caedis bate um soco no peito em despedida. "Holler, se você precisar de nós, mas não conte conosco para salvar sua bunda. Nosso dever é proteger os 'shakers, então estaremos seguindo um caminho atrás."</DefaultText>
       <FemaleText>"Can't thank you enough, ma'am. You don't know the world of difference this makes. We'll prep for heading out."
  
 Caedis pounds a fist to his chest in farewell. "Holler if you need us, but don't count on us to save your ass. Our duty's to protect the 'shakers so we'll be trailing a ways behind."</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"What can you tell me about [url=glossary:cairn]Cairn[/url]'s demise?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre a morte de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Only that I've heard he's not dead yet. And I mean that. You can hear him at night, shuddering and moaning like the wind through the mountains." 
+      <DefaultText>"Só que eu ouvi que ele ainda não morreu. E eu quero dizer isso. Você pode ouvi-lo à noite, estremecendo e gemendo como o vento através das montanhas."
 
-He shifts and resettles the weight of his heavy suit. "The 'shakers could tell you best why they've been treating him - keeping him alive."</DefaultText>
+Ele muda e restabelece o peso de seu terno pesado. "Os agitadores poderiam dizer-lhe melhor por que eles estão tratando-o - mantendo-o vivo".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"I know we can't do anything to save him, but what you're doing is reprehensible. Put him out of his misery! Stop this meaningless torture!"</DefaultText>
+      <DefaultText>"Eu sei que não podemos fazer nada para salvá-lo, mas o que você está fazendo é condenável. Coloque-o fora de sua miséria! Pare com essa tortura sem sentido!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"The Beastmen consider this place to be a sort of Shrine?"</DefaultText>
+      <DefaultText>"Os Homens-Bestas consideram este lugar como uma espécie de Santuário?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Something about big Elder Teeth and dead ancestors have made it sacred ground to them. Shit if I know - or care. The 'shakers say it's a place with concentrated magic, and that's about as far as I understood it."</DefaultText>
+      <DefaultText>"Algo sobre os grandes Anciões Dentes e antepassados ​​mortos tornaram o solo sagrado para eles. Merda, se eu sei - ou me importo. Os agitadores dizem que é um lugar com magia concentrada, e isso é até onde eu entendi."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Cascade Node 119</DefaultText>
+      <DefaultText>Nó Cascata 119</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Humans know nothing of Beastwomen ways. Jagged Maw is hallowed land to [url=glossary:stonestalkers]Stonestalkers[/url] because land's rocks are ancient. Are jutting and mystic."
+      <DefaultText>"Os seres humanos não sabem nada sobre as maneiras das Fera. Jawged Maw é uma terra sagrada para [url=glossary:stonestalkers]Stonestalkers[/url] porque as rochas da terra são antigas. São proeminentes e místicas."
 
-The Beastwoman snorts, amused.</DefaultText>
+A Beastwoman bufa, divertida.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"The esteemed [url=glossary:sage]Sage[/url] Quillborne lived briefly in Jagged Maw, and wrote extensively of the magical stones that line the area. The way tribes describe it, those magic stones were here before landfall at the Five Wives. So for all we know, the Azureliths could be as old as whomever built the Oldwalls and the Spire."</DefaultText>
+      <DefaultText>"O estimado [url=glossary:sage]Sage[/url] Quillborne viveu brevemente em Jagged Maw, e escreveu extensivamente sobre as pedras mágicas que revestem a área. A maneira como as tribos descrevem, essas pedras mágicas estavam aqui antes das quintas esposas. Então, para todos nós sabemos, os Azureliths poderiam ser tão velho quanto quem construiu os Oldwalls e o Spire ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"I think 'elder teeth' is the tribal name for the magical stones most human scholars know as 'Azurelith.' Thus the etymology of Jagged Maw. There's an old Azure superstition that Beastmen of centuries past were as tall as the Oldwalls, and the Azurelith are their petrified teeth. If you believe that, I've got a Spire to sell you."</DefaultText>
+      <DefaultText>"Eu acho que 'dentes mais velhos' é o nome tribal para as pedras mágicas que a maioria dos estudiosos humanos conhece como 'Azurelith'. Assim, a etimologia do Jagged Maw. Há uma antiga superstição Azure que Beastmen de séculos passados ​​eram tão altos quanto os Oldwalls, e os Azurelith são seus dentes petrificados. Se você acredita nisso, eu tenho uma Spire para te vender.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Not getting along with the locals?"</DefaultText>
+      <DefaultText>"Não se dando bem com os moradores?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Let's speak of another matter."</DefaultText>
+      <DefaultText>"Vamos falar de outro assunto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Which ones? The starving simpletons of [Plainsgate] who mewl their grievances against us to the Chorus? Or the Beasts who nightly crawl the cliffsides, seeking to flay us alive?"</DefaultText>
+      <DefaultText>"Quais são? Os simplórios famintos de [Plainsgate] que miam suas queixas contra nós para o Coro? Ou as Bestas que rastejam noturno os penhascos, procurando nos esfolar vivos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>He nods, gruffly. "So be it."</DefaultText>
+      <DefaultText>Ele balança a cabeça, rispidamente. "Que assim seja."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Then maybe we can scratch each other's backs on this one, sir. According to the General, long as [url=glossary:cairn]Cairn[/url] lives, the [url=glossary:edict]Edict[/url]'ll keep tearing up the land. That's good for us, bad for the rebels and the Chorus."</DefaultText>
+      <DefaultText>"Então talvez nós possamos coçar as costas um do outro, senhor. De acordo com o General, enquanto [url=glossary:cairn]Cairn[/url] vive, o [url=glossary:edict]Edict[/url] vai continuar destruindo a terra. Isso é bom para nós, ruim para os rebeldes e o Coro."</DefaultText>
       <FemaleText>"Then maybe we can scratch each other's backs on this one, ma'am. According to the General, long as [url=glossary:cairn]Cairn[/url] lives, the [url=glossary:edict]Edict[/url]'ll keep tearing up the land. That's good for us, bad for the rebels and the Chorus."</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"How are the continued earthquakes good for the [url=glossary:disfavored]Disfavored[/url] but bad for the rebels and the Chorus?"</DefaultText>
+      <DefaultText>"Como os contínuos terremotos são bons para os [url=glossary:disfavored]Disfavored[/url] mas ruins para os rebeldes e o Coro?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"It's simple tactics, sir. Ruined farmland means less food to feed the masses. The [url=glossary:disfavored]Disfavored[/url] have more supplies stocked, and since there's fewer of us, we need less rations overall. Plus, we're made of tougher stock than the Chorus and the Tiersmen."</DefaultText>
+      <DefaultText>"São táticas simples, senhor. Terras agrícolas arruinadas significam menos comida para alimentar as massas. As [url=glossary:disfavored]Disfavored[/url] têm mais suprimentos estocados, e como há menos de nós, precisamos de menos rações em geral. Além disso, somos feitos de ações mais duras do que o Chorus e os Tiersmen ".</DefaultText>
       <FemaleText>"It's simple tactics, ma'am. Ruined farmland means less food to feed the masses. The [url=glossary:disfavored]Disfavored[/url] have more supplies stocked, and since there's fewer of us, we need less rations overall. Plus, we're made of tougher stock than the Chorus and the Tiersmen."</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"We'll be fine. Meanwhile, a starving army'll be easy prey for Ashe. We'll force the enemy to squabble over supply lines while we sack their forts."</DefaultText>
+      <DefaultText>"Vamos ficar bem. Enquanto isso, um exército faminto será uma presa fácil para Ashe. Vamos forçar o inimigo a brigar por linhas de suprimentos enquanto demitimos seus fortes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"So the [url=glossary:disfavored]Disfavored[/url] wish to keep [url=glossary:cairn]Cairn[/url] alive to ensure the continued turmoil of the [url=glossary:edict]Edict[/url]?"</DefaultText>
+      <DefaultText>"Então o [url=glossary:disfavored]Disfavored[/url] deseja manter [url=glossary:cairn]Cairn[/url] vivo para garantir a turbulência contínua do [url=glossary:edict]Edict[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"If it were that easy, sure. A group of our 'shakers have been guarding [url=glossary:cairn]Cairn[/url]'s body, keeping him breathing until they can figure how to steal his power. But we can't keep wasting our resources out here, and we can't defend the body forever. The 'shakers are taking too long as it is. Hence why I'm ten leagues left of dirt-shit nowhere."</DefaultText>
+      <DefaultText>"Se fosse assim tão fácil, com certeza. Um grupo de nossos agitadores tem guardado o corpo, mantendo-o respirando até que eles possam descobrir como roubar seu poder. Mas não podemos continuar desperdiçando nossos recursos aqui, e nós podemos." "Defenda o corpo para sempre. Os agitadores estão demorando demais. Por isso, estou a dez léguas de nada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Typical behavior for one of [url=glossary:kyros]Kyros[/url]' pets, though it's behavior I would expect more from the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. You make me sick! It's a theme for you people, isn't it? 'Something has outlived its use, let's dispose of it! Someone is showing more power than they should, let's bridle them...or kill them.'" </DefaultText>
+      <DefaultText>"Comportamento típico para um dos [url=glossary:kyros]Kyros[/url] animais de estimação, embora seja o comportamento que eu esperaria mais do [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Você me deixa doente! É um tema para vocês, não é?" Algo sobreviveu ao seu uso, vamos eliminá-lo! Alguém está mostrando mais poder do que deveria, vamos refreá-los ... ou matá-los. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"What exactly are you planning, soldier?"</DefaultText>
+      <DefaultText>"O que exatamente você está planejando, soldado?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Radix and his 'shakers have a way to steal [url=glossary:cairn]Cairn[/url]'s essence. They're going to warp the [url=glossary:edict]Edict[/url] with it and then expel both in one giant burst at his death. We're going to kill the land - for good."</DefaultText>
+      <DefaultText>"Radix e seus shakers têm uma maneira de roubar a essência do [url=glossary:cairn]Cairn[/url]. Eles vão deformar o [url=glossary:edict]Edict[/url] com ele e então expulsar ambos em uma explosão gigante em sua morte. Nós vamos matar a terra - para sempre".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Me and my Shields are going to help him see to it."</DefaultText>
+      <DefaultText>"Eu e meus Escudos vamos ajudá-lo a ver isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Cascade Node 46</DefaultText>
+      <DefaultText>Nó Cascata 46</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"You aren't honestly considering this, are you? They're torturing him! They are twisting his power to their own ends, and, when it's all over, they're going to discard him as easily as throwing away a stone!"</DefaultText>
+      <DefaultText>"Você não está honestamente considerando isso, vai? Eles estão torturando ele! Eles estão distorcendo seu poder para os seus próprios fins e, quando tudo estiver terminado, eles vão descartá-lo tão facilmente quanto jogar fora uma pedra!" "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"[url=glossary:cairn]Cairn[/url] betrayed the Northern Empire, [url=glossary:kyros]Kyros[/url], and the [url=glossary:disfavored]Disfavored[/url]. As far as I'm concerned, his remains and his power are forfeit to whoever reaches him. I'd sleep better if his essence fell into [url=glossary:disfavored]Disfavored[/url] hands."</DefaultText>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] traiu o Império do Norte, [url=glossary:kyros]Kyros[/url], e o [url=glossary:disfavored]Disfavored[/url]. Tanto quanto eu estou preocupado, seus restos mortais e seu poder são perdidos para quem chega a ele. Eu dormiria melhor se sua essência caísse em [url=glossary:disfavored]Disfavored[/url] mãos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Blighting the land for generations to come? I thought even [url=glossary:kyros]Kyros[/url] was opposed to total obliteration! A few earthquakes from the [url=glossary:edict]Edict[/url] hardly sounds unbearable if desolation is the alternative."</DefaultText>
+      <DefaultText>"Ferir a terra para as gerações vindouras? Achei que até [url=glossary:kyros]Kyros[/url] era contra a obliteração total! Alguns terremotos da [url=glossary:edict]Edict[/url] dificilmente parecem insuportáveis ​​se a desolação for a alternativa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"What they're discussing sounds like poppycock, if you'll pardon my vitriol, but I don't know their magic well enough to know for sure. This sounds... wantonly destructive, don't say I didn't warn you."</DefaultText>
+      <DefaultText>"O que eles estão discutindo soa como poppycock, se você perdoar meu vitríolo, mas eu não sei a magia deles o suficiente para ter certeza. Isso soa ... totalmente destrutivo, não diga que eu não avisei você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"It's experimental, not restorative. I assure you as I've already assured Ashe, it's for examination and learning purposes only. There is yet much knowledge and power to be gleaned from our forbearer."</DefaultText>
+      <DefaultText>"É experimental, não restaurador. Garanto-lhe que já assegurei a Ashe que é apenas para fins de exame e aprendizado. Ainda há muito conhecimento e poder a serem colhidos de nosso antepassado".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"The Earthshakers are the arcane arm of Ashe's military. Correct?"</DefaultText>
+      <DefaultText>"Os Earthshakers são o braço arcano das forças armadas de Ashe. Correto?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Come now, the quakes are of little consequence to an Earthshaker, baby brother. It's the foul Beasts we must contend most with. And why you are here."</DefaultText>
+      <DefaultText>"Venha agora, os terremotos são de pouca importância para um Earthshaker, irmãozinho. São as bestas que temos que enfrentar. E por que você está aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"An astute observation. Our guild has devoted ourselves to the study of earth arcanum, and as such were the disciples of [url=glossary:cairn]Cairn[/url], before his... unfortunate end."</DefaultText>
+      <DefaultText>"Uma observação astuta. Nossa guilda se dedicou ao estudo do Arcano terrestre e, como tal, foram os discípulos de [url=glossary:cairn]Cairn[/url], antes de seu ... fim infeliz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"As his prime and closet pupil, it has befallen to me to inherit [url=glossary:cairn]Cairn[/url]'s legacy." 
+      <DefaultText>"Como seu primo e pupilo, me aconteceu herdar o legado do [url=glossary:cairn]Cairn[/url]."
 
-He sweeps a brief, stiff salute.
+Ele faz uma breve e dura saudação.
 
-"I am Radix Ironcore, Mover of Mountains, [url=glossary:iron guard]Iron Guard[/url] to Ashe, and second Master of the Earthshakers."</DefaultText>
+"Eu sou Radix Ironcore, Mover of Mountains, [url=glossary:iron guard]Iron Guard[/url] para Ashe e segundo Master of the Earthshakers".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"We've assembled a base of operations surrounding [url=glossary:cairn]Cairn[/url]'s remains?"</DefaultText>
+      <DefaultText>"Nós montamos uma base de operações envolvendo os restos de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Obviously. Securing [url=glossary:cairn]Cairn[/url] was our first priority. You think we'd let these savages or, worse, the Chorus get their hands on him?"</DefaultText>
+      <DefaultText>"Obviamente. Proteger [url=glossary:cairn]Cairn[/url] era nossa primeira prioridade. Você pensa que nós deixaríamos estes selvagens ou, pior, o Coro colocar as mãos sobre ele?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Ask him about military stratagem and he'll light up like a spark of sulfur. But when it comes to alchemy and the arcane, his understanding is fundamental at best."</DefaultText>
+      <DefaultText>"Pergunte a ele sobre o estratagema militar e ele se acenderá como uma centelha de enxofre. Mas quando se trata de alquimia e do arcano, sua compreensão é fundamental na melhor das hipóteses."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"The site's sizable protrusions of Azurelith exude a temporal resonance on par with a geo-entropic elucidation of the purest regularity. So as one could imagine, the area is of particular value in the study of earth-arcanum and is likely, as well, appealing to those creatures who hold some attunement to the land."</DefaultText>
+      <DefaultText>"As saliências consideráveis ​​do local de Azurelith exalam uma ressonância temporal a par com uma elucidação geo-entrópica da mais pura regularidade. Assim, como se pode imaginar, a área é de valor particular no estudo do Arcano Terrestre e é provável, também, que apelando para aquelas criaturas que possuem alguma sintonia com a terra ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"What grievances do the people of [Plainsgate] have against the Earthshakers?"</DefaultText>
+      <DefaultText>"Que queixas as pessoas de [Plainsgate] têm contra os Earthshakers?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Why is the Beast tribe in the [url=glossary:stone sea]Stone Sea[/url] trying to kill you?"</DefaultText>
+      <DefaultText>"Por que a tribo da Besta no [url=glossary:stone sea]Stone Sea[/url] está tentando te matar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"At times, the earth remits me vibrations of their murmurings. The cretins unilaterally blame us for the region's continued seismic activity. Though they are not entirely wrong..."</DefaultText>
+      <DefaultText>"Às vezes, a terra me remete a vibrações de seus murmúrios. Os cretinos nos acusam unilateralmente de continuar a atividade sísmica da região. Embora eles não estejam totalmente errados ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Did you know they first welcomed my Earthshakers into these lands? They do tend to hate the [url=glossary:disfavored]Disfavored[/url], though. Don't they, baby brother?"</DefaultText>
+      <DefaultText>"Você sabia que eles primeiro receberam meus Earthshakers nessas terras? Eles tendem a odiar o [url=glossary:disfavored]Disfavored[/url], no entanto. Eles não, irmãozinho?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"And lose a lifespan of advancement? Don't be absurd."
+      <DefaultText>"E perder uma vida de avanço? Não seja um absurdo."
 
-Radix taps the heel of his boot against the ground, annoyed.
+Radix bate o calcanhar de sua bota contra o chão, irritado.
 
-"[url=glossary:cairn]Cairn[/url], himself, would have wished this for us - were he able."</DefaultText>
+"[url=glossary:cairn]Cairn[/url], ele teria desejado isso para nós - ele era capaz".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Right. Of course."</DefaultText>
+      <DefaultText>"Certo. Claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"...What?"</DefaultText>
+      <DefaultText>"...O que?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>The mountainous man rumbles a deep laugh and claps you hard on the back.
+      <DefaultText>O homem montanhoso ressoa profundamente e bate forte nas costas.
 
-"It's refreshing to speak with one of similar understanding, considering my company of the last several weeks."</DefaultText>
+"É refrescante falar com alguém de compreensão semelhante, considerando a minha companhia nas últimas semanas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"I can see my breath is wasted." Radix sighs, giving up.</DefaultText>
+      <DefaultText>"Eu posso ver minha respiração é desperdiçada." Radix suspira, desistindo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>The lieutenant laughs, loud and long, his sudden exuberance making him seem boyish for his years.
+      <DefaultText>O tenente ri, alto e longo, sua repentina exuberância fazendo-o parecer infantil por seus anos.
 
-"Don't worry, sir. You're not the only one."</DefaultText>
+"Não se preocupe, senhor. Você não é o único."</DefaultText>
       <FemaleText>The lieutenant laughs, loud and long, his sudden exuberance making him seem boyish for his years.
 
 "Don't worry, ma'am. You're not the only one."</FemaleText>
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Why do you think [url=glossary:cairn]Cairn[/url] betrayed his orders?"</DefaultText>
+      <DefaultText>"Por que você acha que [url=glossary:cairn]Cairn[/url] traiu suas ordens?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] officer scrubs a hand over the nape of his neck, hesitant to answer. 
+      <DefaultText>O oficial esfrega uma mão sobre a nuca, hesitante em responder.
 
-"Why would anyone?" He shrugs. "The world's full of vices to tempt a soldier. Booze, brothels, betting. I figure earth magic must be a damn mire of a drug to tempt an Archon from duty. Guess they aren't so inhuman, after all." </DefaultText>
+"Por que alguém?" Ele encolhe os ombros. "O mundo está cheio de vícios para tentar um soldado. Bebidas, bordéis, apostas. Eu acho que a magia da terra deve ser uma droga de droga para tentar um Arconte do dever. Acho que eles não são tão desumanos, afinal de contas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"I am fully capable of handling the Beastmen, lieutenant."</DefaultText>
+      <DefaultText>"Eu sou totalmente capaz de lidar com os Beastmen, tenente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Mhmm. Understood, sir."</DefaultText>
+      <DefaultText>"Mhmm. Entendido, senhor."</DefaultText>
       <FemaleText>"Mhmm. Understood, ma'am."</FemaleText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Well noted, but I cannot stay to speak further."</DefaultText>
+      <DefaultText>"Bem observado, mas não posso ficar para falar mais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"How can I be of service?"</DefaultText>
+      <DefaultText>"Como posso estar de serviço?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"I need to see to some preparations first."</DefaultText>
+      <DefaultText>"Eu preciso fazer alguns preparativos primeiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Understood, sir. We'll prep for heading out and await your readiness."
+      <DefaultText>"Entendido, senhor. Vamos nos preparar para sair e aguardar sua prontidão."
 
-Caedis pounds a fist to his chest in farewell. "Holler if you need us, but don't count on me and my Shields to save your ass. Our duty's to protect the 'shakers so we'll be trailing a ways behind."</DefaultText>
+Caedis bate um soco no peito em despedida. "Holler, se você precisar de nós, mas não conte comigo e com os meus Shields para salvar sua bunda. Nosso dever é proteger os agitadores, então estaremos seguindo um caminho atrás."</DefaultText>
       <FemaleText>"Understood, ma'am. We'll prep for heading out and await your readiness."
 
 Caedis pounds a fist to his chest in farewell. "Holler if you need us, but don't count on me and my Shields to save your ass. Our duty's to protect the 'shakers so we'll be trailing a ways behind."</FemaleText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Damn right, they do." But rather than agitated, his voice sounds mirthful from behind his mask, cocky yet easygoing. "We put the fear of Ashe in them."</DefaultText>
+      <DefaultText>"Droga, eles fazem." Mas, em vez de agitado, sua voz soa alegre por trás de sua máscara, arrogante mas despreocupada. "Nós colocamos o medo de Ashe neles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>The [url=glossary:iron guard]Iron Guard[/url] presses two fingers to his temple, suppressing a sigh.
+      <DefaultText>O [url=glossary:iron guard]Iron Guard[/url] pressiona dois dedos a sua têmpora, suprimindo um suspiro.
 
-"Regardless of the means, the Beasts have commenced attacking us - Earthshaker and soldier, akin. We had hoped to draw on our common ground as mages of the land, but after first accepting us, they savagely accused us as trespassers and stealers of some nonsensical substance they call Elder Teeth."</DefaultText>
+"Independentemente dos meios, as Bestas começaram a nos atacar - Earthshaker e soldado, afins. Nós esperávamos atrair nosso território comum como magos da terra, mas depois de nos aceitar, eles nos acusavam selvagemente de serem invasores e ladrões de alguns. substância sem sentido eles chamam Elder Teeth ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"And he's not at all full of himself." Caedis laughs, good-naturedly.</DefaultText>
+      <DefaultText>"E ele não é nada cheio de si mesmo." Caedis ri, bem-humorado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"You two, you're related?"</DefaultText>
+      <DefaultText>"Vocês dois, você é parente?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"That's right, sir. We're brothers born, if not bred." 
+      <DefaultText>"Isso mesmo, senhor. Somos irmãos nascidos, se não criados."
 
-He slaps Radix heartily on the back, the iron underside of his gauntlet resounding like the clang of a funeral bell. 
+Ele dá tapinhas calorosamente nas costas de Radix, a parte de baixo de ferro de sua luva ressoando como o tinido de um sino fúnebre.
 
-"We share a mother, much to Radix's regret."</DefaultText>
+"Compartilhamos uma mãe, para o arrependimento de Radix."</DefaultText>
       <FemaleText>"That's right, ma'am. We're brothers born, if not bred." 
 
 He slaps Radix heartily on the back, the iron underside of his gauntlet resounding like the clang of a funeral bell. 
@@ -482,92 +482,92 @@ He slaps Radix heartily on the back, the iron underside of his gauntlet resoundi
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"My brother, impetuous as he is, likes to rely on brawn and chance as he marches through life. I, however, being elder and of higher intellect am fortuitous enough to have inherited the call of the land."</DefaultText>
+      <DefaultText>"Meu irmão, impetuoso como ele é, gosta de confiar na força e no acaso enquanto marcha pela vida. Eu, no entanto, sendo mais velho e de maior intelecto, tenho sorte suficiente para ter herdado o chamado da terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"He says that, but I'll be the one keeping his head from getting lobbed off when we're attacked next."</DefaultText>
+      <DefaultText>"Ele diz isso, mas eu vou ser o único a manter a cabeça longe de ser arremessada quando formos atacados em seguida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"On account of you, I'm skinning Beastmen and digging rock-spurs from my boots instead of sacking Stalwart," Caedis levels at the [url=glossary:iron guard]Iron Guard[/url]. "If I was going to dream for anything, it would be about leaving this wretched shithole realm behind."</DefaultText>
+      <DefaultText>"Por sua causa, eu estou esfolando Beastmen e cavando rock-spurs de minhas botas em vez de saquear Stalwart," níveis de Caedis no [url=glossary:iron guard]Iron Guard[/url]. "Se eu fosse sonhar para qualquer coisa, seria sobre deixar este reino misithole miserável atrás."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"What exactly are Elder Teeth?"</DefaultText>
+      <DefaultText>"O que exatamente são os Elder Teeth?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"It's what the Beastmen call Azurelith. They call them such because of their teeth-like formations, and the elders in their tribe use them." He shrugs at their odd reasoning. 
+      <DefaultText>"É o que os Homens-Bestas chamam de Azurelith. Eles os chamam assim por causa de suas formações de dentes, e os anciões em sua tribo os usam." Ele dá de ombros com o raciocínio estranho.
 
-"We know that they have mystical properties such as amplification of magic and we are still studying their uses. [url=glossary:cairn]Cairn[/url] himself was fascinated by them."</DefaultText>
+"Sabemos que eles têm propriedades místicas, como a amplificação da magia, e ainda estamos estudando seus usos. O próprio [url=glossary:cairn]Cairn[/url] era fascinado por eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Tell me about the crystal Azurelith formations in this region."</DefaultText>
+      <DefaultText>"Conte-me sobre as formações cristalinas de Azurelith nesta região."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"The locals call them Elder-Teeth. We have been researching their properties, which seem to amplify magic somehow. [url=glossary:cairn]Cairn[/url] was very interested in them, and sought to better understand them before his untimely demise." He looks off in the distance, as though hoping to catch a glimpse of his master.</DefaultText>
+      <DefaultText>"Os locais os chamam de Elder-Teeth. Temos pesquisado suas propriedades, que parecem amplificar a magia de alguma forma. [url=glossary:cairn]Cairn[/url] estava muito interessado nelas, e procurou melhor entendê-las antes de sua morte prematura." Ele olha ao longe, como se esperasse ter um vislumbre de seu mestre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Brief me on the Chorus's troop movements throughout the region."</DefaultText>
+      <DefaultText>"Me fale sobre os movimentos de tropas do Coro por toda a região."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Crude as my brother is, I agree with his assessment. The Chorus are rather semblant to maggots. Singly inconsequential yet annoying numerous... Both squish beneath stones of adequate acceleration and mass."
+      <DefaultText>"Cru como meu irmão é, eu concordo com a avaliação dele. O coro é bastante semblante para vermes. Singular inconsequente, mas irritante numerosos ... Ambos esmagam debaixo de pedras de aceleração adequada e massa."
 
-He taps his foot in a slow but eager rhythm on the ground, but then stops, settling himself once more into stillness.
+Ele bate o pé em um ritmo lento, mas ávido no chão, mas depois pára, acomodando-se mais uma vez à quietude.
 
-"However, more pressing matters have need of my attention presently."</DefaultText>
+"No entanto, questões mais prementes precisam da minha atenção atualmente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Shit if there aren't more of them than maggots out here. Can't go two feet without needing to gouge someone's entrails out."
+      <DefaultText>"Merda, se não houver mais deles do que vermes aqui fora. Não pode ir dois pés sem precisar arrancar as entranhas de alguém."
 
-The soldier rubs at the pommel of his sword, edgy.
+O soldado esfrega no pomo de sua espada, nervoso.
 
-"But most of them have swarmed [Plainsgate], looking for warm bodies."</DefaultText>
+"Mas a maioria deles invadiu [Plainsgate], procurando por corpos quentes".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Send me to strike at the heart of their population, and I will make the [url=glossary:disfavored]Disfavored[/url] proud."</DefaultText>
+      <DefaultText>"Envie-me para atacar o coração de sua população, e farei o [url=glossary:disfavored]Disfavored[/url] orgulhoso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Your report has been sufficiently... informative. I'll be sure to avoid their forces going forward."</DefaultText>
+      <DefaultText>"O seu relatório foi suficientemente ... informativo. Eu vou evitar as forças deles daqui para frente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Going to massacre the whole damn slew?" The lieutenant rubs at the edge of his faceplate, head tipped with awe. "I think you just stole my heart, sir. Give them my iron-bladed regards."</DefaultText>
+      <DefaultText>"Indo massacrar o maldito todo?" O tenente esfrega na borda da placa, a cabeça inclinada com admiração. "Eu acho que você acabou de roubar meu coração, senhor. Dê a eles meus cumprimentos de ferro."</DefaultText>
       <FemaleText>"Going to massacre the whole damn slew?" The lieutenant rubs at the edge of his faceplate, head tipped with awe. "I think you just stole my heart, ma'am. Give them my iron-bladed regards."</FemaleText>
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"It's as good as done."</DefaultText>
+      <DefaultText>"É tão bom quanto feito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"I thought I might stir up some trouble. Starting here."</DefaultText>
+      <DefaultText>"Eu pensei que poderia provocar alguns problemas. Começando aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Glad I asked." The [url=glossary:disfavored]Disfavored[/url] officer tilts his head in annoyance, chin tipped upward as he speaks. "Do all Fatebinders go around spilling their secrets to anyone who listens? If you were one of mine and wagged your tongue like that, I'd make you clean the latrines with it - after I shit in them."</DefaultText>
+      <DefaultText>"Fico feliz que eu perguntei." O oficial de [url=glossary:disfavored]Disfavored[/url] inclina a cabeça em aborrecimento, queixo inclinado para cima enquanto ele fala. "Todos os Fatebinders saem por aí derramando seus segredos para qualquer um que escute? Se você fosse um dos meus e abanasse a língua desse jeito, eu faria você limpar as latrinas com isso - depois que eu cagasse nelas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -577,11 +577,11 @@ The soldier rubs at the pommel of his sword, edgy.
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"You're right, sir. Don't know what got into me." 
+      <DefaultText>"Você está certo, senhor. Não sei o que deu em mim."
 
-He rubs at the back of his iron helmet, chagrined.
+Ele esfrega a parte de trás do capacete de ferro, envergonhado.
 
-"Must be the damn heat."</DefaultText>
+"Deve ser o maldito calor."</DefaultText>
       <FemaleText>"You're right, ma'am. Don't know what got into me."
 
 He rubs at the back of his iron helmet, chagrined.
@@ -595,138 +595,138 @@ He rubs at the back of his iron helmet, chagrined.
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>The Beastwoman brays excitedly, bearing down on your new prey with surprising speed.
+      <DefaultText>O Beastwoman zurra animadamente, caindo sobre a sua nova presa com uma velocidade surpreendente.
 
-"Will hunt [url=glossary:disfavored]Disfavored[/url] now. Will savor kill. Will rend with ripping-teeth and cutting-claws. Will snap bones. Slice-crack. Rough-slow."
+"Vai caçar [url=glossary:disfavored]Disfavored[/url] agora. Vai saborear matar. Vai rasgar com dentes rasgados e garras de corte. Vai estalar os ossos. Fatia-crack. Rough-slow".
 
-She bares her fangs in a bloodthirsty grin.
+Ela mostra suas presas em um sorriso sanguinário.
 
-"Come, scream for Kills-in-Shadow."</DefaultText>
+"Venha, grite por Kills-in-Shadow".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Did you just say 'rough-slow'? As for what we're doing out here, I wonder if you're on the same page as the rest of us. Not that I'm complaining."</DefaultText>
+      <DefaultText>"Você acabou de dizer 'áspero-lento'? Quanto ao que estamos fazendo aqui, eu me pergunto se você está na mesma página que o resto de nós. Não que eu esteja reclamando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"You tell the best secrets. I have a few of my own." She smiles and readies her weapon.</DefaultText>
+      <DefaultText>"Você conta os melhores segredos. Eu tenho alguns dos meus próprios." Ela sorri e prepara sua arma.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Even Radix likes killing Chorus screamers. But he can't stray from the parameters of his post, and I can't stray from him."</DefaultText>
+      <DefaultText>"Até Radix gosta de matar gritadores Chorus. Mas ele não pode se desviar dos parâmetros de seu posto, e eu não posso me desviar dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"[url=glossary:cairn]Cairn[/url]? Isn't that the Archon who rebelled against [url=glossary:kyros]Kyros[/url]? Fatebinder Calio cast the [url=glossary:edict]Edict[/url] of Stone in 430 in order to kill him."</DefaultText>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url]? Não é que o Arconte que se rebelou contra [url=glossary:kyros]Kyros[/url]? Fatebinder Calio lançou o [url=glossary:edict]Edict[/url] de Pedra em 430, a fim de matá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"You're protecting [url=glossary:cairn]Cairn[/url] the Betrayer's remains? Why?"</DefaultText>
+      <DefaultText>"Você está protegendo [url=glossary:cairn]Cairn[/url] restos do traidor? Por quê?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Precisely, yes. During our primary campaign to conquer Azure, [url=glossary:cairn]Cairn[/url] broke completely from Ashe's command, and shortly thereafter, Fatebinder Calio cast the [url=glossary:edict]Edict[/url] of his execution."
+      <DefaultText>"Precisamente, sim. Durante nossa campanha primária para conquistar o Azure, [url=glossary:cairn]Cairn[/url] quebrou completamente o comando de Ashe, e logo em seguida, Fatebinder Calio lançou o [url=glossary:edict]Edict[/url] de sua execução."
 
-The [url=glossary:iron guard]Iron Guard[/url] widens and resettles his stance, arms clasped stiffly behind his back.
+O [url=glossary:iron guard]Iron Guard[/url] amplia e reassenta sua postura, braços apertados atrás das costas.
 
-"While, I devoted myself as [url=glossary:cairn]Cairn[/url]'s apprentice for many years, rest assured that as the inheritor of the Earthshakers' guild, I remain steadfast in my service to the [url=glossary:disfavored]Disfavored[/url]. [url=glossary:kyros]Kyros[/url]' demand for loyalty is absolute. This I understand well."</DefaultText>
+"Enquanto, eu me dediquei como aprendiz de 11111111111111111111111 por muitos anos, fique certo de que como herdeiro da guilda dos Earthshakers, permaneço firme em meu serviço à [url=glossary:disfavored]Disfavored[/url]. [url=glossary:kyros]Kyros[/url] 'a demanda por lealdade é absoluta. Isso eu entendo bem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Such an invaluable resource must be safeguarded. As [url=glossary:cairn]Cairn[/url] yet lives, we cannot allow him to take such a wealth of arcane knowledge with him to the grave. Plus, I can scarcely imagine what the Chorus would do if they got their hands on him."</DefaultText>
+      <DefaultText>"Tal recurso inestimável deve ser salvaguardado. Como [url=glossary:cairn]Cairn[/url] ainda vive, não podemos permitir que ele leve tal riqueza de conhecimento arcano com ele para o túmulo. Além disso, eu mal posso imaginar o que o Coro faria se colocassem suas mãos nele "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"It's a shame what happened to [url=glossary:cairn]Cairn[/url]. He was an Archon, after all."</DefaultText>
+      <DefaultText>"É uma pena o que aconteceu com [url=glossary:cairn]Cairn[/url]. Ele era um Arconte, afinal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"[url=glossary:cairn]Cairn[/url] the Betrayer directly defied [url=glossary:kyros]Kyros[/url]. It was inevitable that he would be destroyed."</DefaultText>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] o Traidor desafiou diretamente [url=glossary:kyros]Kyros[/url]. Era inevitável que ele fosse destruído".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Would that be commiseration from the Fatebinder who cast the [url=glossary:edict]Edict[/url] of [url=glossary:cairn]Cairn[/url]'s execution? How curious."
+      <DefaultText>"Isso seria a comiseração do Fatebinder que lançou a execução do [url=glossary:edict]Edict[/url] de [url=glossary:cairn]Cairn[/url]? Que curioso."
 
-The [url=glossary:iron guard]Iron Guard[/url] widens and resettles his stance, arms clasped stiffly behind his back.
+O [url=glossary:iron guard]Iron Guard[/url] amplia e reassenta sua postura, braços apertados atrás das costas.
 
-"Indeed, I do not disagree. I devoted myself as [url=glossary:cairn]Cairn[/url]'s apprentice for many years, and though I remain steadfast in my service to the [url=glossary:disfavored]Disfavored[/url], I also felt my Master's loss." </DefaultText>
+"De fato, eu não discordo. Eu me dediquei como aprendiz por muitos anos, e apesar de permanecer firme no meu serviço ao [url=glossary:disfavored]Disfavored[/url], eu também senti a perda do meu Mestre".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Yes, I suppose if it had not been you, then the [url=glossary:edict]Edict[/url] of [url=glossary:cairn]Cairn[/url]'s execution would have merely been cast by another Fatebinder."
+      <DefaultText>"Sim, suponho que se não tivesse sido você, então a execução do [url=glossary:edict]Edict[/url] de [url=glossary:cairn]Cairn[/url] seria meramente lançada por outro Fatebinder."
 
-The [url=glossary:iron guard]Iron Guard[/url] widens and resettles his stance, arms clasped stiffly behind his back.
+O [url=glossary:iron guard]Iron Guard[/url] amplia e reassenta sua postura, braços apertados atrás das costas.
 
-"While, I devoted myself as [url=glossary:cairn]Cairn[/url]'s apprentice for many years, rest assured that as the inheritor of the Earthshakers' guild, I remain steadfast in my service to the [url=glossary:disfavored]Disfavored[/url]. [url=glossary:kyros]Kyros[/url]' demand for loyalty is absolute. This I understand well."</DefaultText>
+"Enquanto, eu me dediquei como aprendiz por muitos anos, tenha certeza de que, como herdeiro da guilda dos terráqueos, continuo firme em meu serviço à [url=glossary:disfavored]Disfavored[/url]. [url=glossary:kyros]Kyros[/url] 'a demanda por lealdade é absoluta. Isso eu entendo bem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>The [url=glossary:iron guard]Iron Guard[/url] taps the heel of his boot against the ground, annoyed, causing pebbles to quake and jump in the near distance around him.
+      <DefaultText>O [url=glossary:iron guard]Iron Guard[/url] bate o calcanhar de sua bota contra o chão, irritado, causando pedras a tremer e pular na distância próxima em torno dele.
 
-"What I can neither understand nor forgive is why he would choose such filthy savages over his own disciples."</DefaultText>
+"O que eu não posso entender nem perdoar é por que ele escolheria esses selvagens imundos sobre seus próprios discípulos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"You're saying [url=glossary:cairn]Cairn[/url] survived the [url=glossary:edict]Edict[/url] of Stone? How?"</DefaultText>
+      <DefaultText>"Você está dizendo que [url=glossary:cairn]Cairn[/url] sobreviveu ao [url=glossary:edict]Edict[/url] de Stone? Como?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"To say he survived would be presumptive. Perhaps endures is a better description. Though his heart still beats, [url=glossary:cairn]Cairn[/url] has become trapped in a state of unconsciousness. He cannot and will not outlive the [url=glossary:edict]Edict[/url]. It will plague him until his final breath."</DefaultText>
+      <DefaultText>"Dizer que ele sobreviveu seria presumível. Talvez durar seja uma descrição melhor. Embora seu coração ainda esteja forte, ele não pode e não sobreviverá a [url=glossary:edict]Edict[/url]. Ele o atormentará até o seu último suspiro. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"I can make a guess."</DefaultText>
+      <DefaultText>"Eu posso fazer um palpite."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"No one survives the Overlord's wrath. Not even Archons."</DefaultText>
+      <DefaultText>"Ninguém sobrevive a ira do Overlord. Nem mesmo Archons."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"What can you tell me about the state that [url=glossary:cairn]Cairn[/url] is in?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre o estado em que [url=glossary:cairn]Cairn[/url] está?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"I have witnessed it. He sleeps, trapped, yet lives. For how much longer he may persist, I cannot tell you."</DefaultText>
+      <DefaultText>"Eu testemunhei isso. Ele dorme, preso, mas vive. Por quanto tempo ele pode persistir, eu não posso te dizer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"I've only heard that he's not dead. And I mean that. You can hear him at night, shuddering and moaning like the wind through the mountains." 
+      <DefaultText>"Eu só ouvi dizer que ele não está morto. E eu quero dizer isso. Você pode ouvi-lo à noite, estremecendo e gemendo como o vento através das montanhas."
 
-He shifts and resettles the weight of his heavy suit. "The 'shakers have been treating him - keeping him alive."</DefaultText>
+Ele muda e restabelece o peso de seu terno pesado. "Os agitadores estão tratando-o - mantendo-o vivo".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Unfortunately, that sounds like a problem for you more so than me."</DefaultText>
+      <DefaultText>"Infelizmente, isso parece mais um problema para você do que para mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Aw, come on, sir. Don't make me beg you."
+      <DefaultText>"Ah, vamos lá, senhor. Não me faça te implorar."
 
-He smacks a gritted gauntlet against the belly of his iron cuirass.
+Ele bate com a luva contra o ventre de sua couraça de ferro.
 
-"[url=glossary:kyros]Kyros[/url] would croak before my Shields'll let me live it down."</DefaultText>
+"[url=glossary:kyros]Kyros[/url] iria resmungar antes de meus Escudos me deixarem viver."</DefaultText>
       <FemaleText>"Aw, come on, ma'am. Don't make me beg you."
 
 He smacks a gritted gauntlet against the belly of his iron cuirass.
@@ -735,36 +735,36 @@ He smacks a gritted gauntlet against the belly of his iron cuirass.
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"If you're asking a Fatebinder's favor, you'd best be ready to swallow your pride. On your knees, soldier - and I'll consider it."</DefaultText>
+      <DefaultText>"Se você está pedindo um favor do Fatebinder, é melhor você estar pronto para engolir o seu orgulho. De joelhos, soldado - e eu vou considerar isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"I'll think about it."</DefaultText>
+      <DefaultText>"Vou pensar sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Can't wait for the death toll and destruction missive reports."</DefaultText>
+      <DefaultText>"Mal posso esperar pelos relatórios de missiva e destruição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Uh-huh. Glad I could be of service, sir."</DefaultText>
+      <DefaultText>"Uh-huh. Ainda bem que eu poderia estar de serviço, senhor."</DefaultText>
       <FemaleText>"Uh-huh. Glad I could be of service, ma'am."</FemaleText>
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Please, do. If you could think about it while you're slicing their guts out, that'd be even better. Sir."</DefaultText>
+      <DefaultText>"Por favor, faça. Se você pudesse pensar sobre isso enquanto corta suas entranhas, isso seria ainda melhor. Senhor."</DefaultText>
       <FemaleText>"Please, do. If you could think about it while you're slicing their guts out, that'd be even better. Ma'am."</FemaleText>
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Sometimes I can't tell when you're teasing, sir. You know, I wouldn't be doing this for anyone but you." 
+      <DefaultText>"Às vezes eu não posso dizer quando você está brincando, senhor. Você sabe, eu não estaria fazendo isso por ninguém além de você."
 
-He offers a brusque salute before clambering awkwardly to one knee in the silt. He looks up to you with a seriousness befitting his skeletal visor.
+Ele oferece uma brusca saudação antes de subir desajeitadamente a um joelho no lodo. Ele olha para você com uma seriedade digna de sua viseira esquelética.
 
-"Slay fifty screamers, and I'll put in a good word for you with every soldier I meet for the next six spans. I give you my word, on Ashe's honor."</DefaultText>
+"Mate cinquenta gritadores, e eu colocarei uma boa palavra para você com todos os soldados que encontrar nos próximos seis. Eu dou a minha palavra, em homenagem a Ashe."</DefaultText>
       <FemaleText>"Sometimes I can't tell when you're teasing, ma'am. You know, I wouldn't be doing this for anyone but you." 
 
 He offers a brusque salute before clambering awkwardly to one knee in the silt. He looks up to you with a seriousness befitting his skeletal visor.
@@ -773,44 +773,44 @@ He offers a brusque salute before clambering awkwardly to one knee in the silt. 
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"That'll suffice. Consider them slain."</DefaultText>
+      <DefaultText>"Isso é suficiente. Considere-os mortos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>He grunts as he shambles once more to his feet. He laughs at his own stupidity as he smacks the dirt from his knee.
+      <DefaultText>Ele grunhiu enquanto se arrastava mais uma vez a seus pés. Ele ri de sua própria estupidez quando ele bate na sujeira do joelho.
 
-"Please, do. If you could think about it while you're slicing their guts out, that'd be even better. Sir."</DefaultText>
+"Por favor, faça. Se você pudesse pensar sobre isso enquanto corta suas entranhas, isso seria ainda melhor. Senhor."</DefaultText>
       <FemaleText>He grunts as he shambles once more to his feet. He laughs at his own stupidity as he smacks the dirt from his knee.
 
 "Please, do. If you could think about it while you're slicing their guts out, that'd be even better. Ma'am."</FemaleText>
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Then as promised - I'll think about it."</DefaultText>
+      <DefaultText>"Então, como prometido - eu vou pensar sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>He grunts as he shambles once more to his feet. He nods in acceptance, but the seriousness of the moment is ruined by his good-natured laugh.
+      <DefaultText>Ele grunhiu enquanto se arrastava mais uma vez a seus pés. Ele acena em aceitação, mas a seriedade do momento é arruinada por sua risada de boa índole.
 
-"Can't wait for the death toll and destruction missive reports."</DefaultText>
+"Mal posso esperar pelos relatórios de missiva e destruição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"I don't need your good word. That broad sword, however, has caught my eye."</DefaultText>
+      <DefaultText>"Eu não preciso da sua boa palavra. Aquela espada larga, no entanto, chamou minha atenção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] officer falls deathly silent on his knees.
+      <DefaultText>O oficial [url=glossary:disfavored]Disfavored[/url] cai mortalmente em silêncio sobre os joelhos.
 
-"No. It's my word or nothing." 
+"Não. É minha palavra ou nada."
 
-Unconsciously, he grips the leather-bound hilt of his sword, caressing the worn pommel with his thumb.
+Inconscientemente, ele agarra o cabo de couro de sua espada, acariciando o pomo gasto com o polegar.
 
-"You've got to understand, sir - she's been with me from the start. Never chipped or shattered. Never let me down."</DefaultText>
+"Você tem que entender, senhor - ela está comigo desde o começo. Nunca lascada ou quebrada. Nunca me decepcione."</DefaultText>
       <FemaleText>The [url=glossary:disfavored]Disfavored[/url] officer falls deathly silent on his knees.
 
 "No. It's my word or nothing." 
@@ -821,109 +821,109 @@ Unconsciously, he grips the leather-bound hilt of his sword, caressing the worn 
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Then your word will suffice. Consider them slain for the honor of the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <DefaultText>"Então sua palavra será suficiente. Considere-os mortos pela honra do [url=glossary:disfavored]Disfavored[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"No deal. I have no reason to invest myself in this matter."</DefaultText>
+      <DefaultText>"Nenhum acordo. Eu não tenho razão para me investir neste assunto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>He sighs in acceptance of the impasse but otherwise remains silent, more subdued than usual as he slowly rises to his feet. He keeps a grip on his sword as he shrugs, good-naturedly.
+      <DefaultText>Ele suspira aceitando o impasse, mas, por outro lado, permanece em silêncio, mais subjugado do que o normal, enquanto se levanta lentamente. Ele segura a espada enquanto encolhe os ombros, bem-humorado.
 
-"If that's how you feel about it." </DefaultText>
+"Se é assim que você se sente sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Which is why I'm going to use her when I slaughter the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in your name."</DefaultText>
+      <DefaultText>"É por isso que vou usá-la quando abato o [url=glossary:scarlet chorus]Scarlet Chorus[/url] em seu nome."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>He drops his head between his shoulders in defeat, sighs, and then quietly rises to a stand.
+      <DefaultText>Ele deixa cair a cabeça entre os ombros em derrota, suspira e depois se levanta em silêncio.
 
-"With all due respect, sir - she's the best weapon I've got, so you damn well better take care of her."
+"Com todo o respeito, senhor - ela é a melhor arma que eu tenho, então é melhor você cuidar dela."
 
-He unsheathes the sword slowly, longingly, a fluid, practiced motion now tinged with dread. Finally, he offers the blade, cradled on the palms of his hands as if in tribute to [url=glossary:kyros]Kyros[/url], the very Overlord.
+Ele desembainha a espada devagar, com saudade, um movimento fluido e praticado, agora tingido de pavor. Finalmente, ele oferece a lâmina, embalada nas palmas de suas mãos como se fosse uma homenagem ao [url=glossary:kyros]Kyros[/url], o próprio Overlord.
 
-"I want her back by the next span of Rapax. I mean that."</DefaultText>
+"Eu a quero de volta no próximo período de Rapax. Eu quero dizer isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>The Commander shakes his head in disbelief. "Ridiculous. The both of you."</DefaultText>
+      <DefaultText>O comandante balança a cabeça em descrença. "Ridículo. Vocês dois."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"I did say I'd come to help you, but that doesn't mean I'm willing to battle both Chorus and Beasts in order to do so."</DefaultText>
+      <DefaultText>"Eu disse que vim para ajudá-lo, mas isso não significa que eu esteja disposta a lutar contra o Chorus e Beasts a fim de fazê-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] lieutenant scratches at the back of his helm, perplexed.
+      <DefaultText>O tenente arranha a parte de trás de seu elmo, perplexo.
 
-"Forgive me for saying, but I expected more zeal from you, sir. Anyone of my Shields would piss on their mother for the chance to fight in Ashe's honor."</DefaultText>
+"Perdoe-me por dizer, mas eu esperava mais zelo de você, senhor. Qualquer um dos meus Escudos iria mijar em sua mãe pela chance de lutar em honra de Ashe."</DefaultText>
       <FemaleText>The [url=glossary:disfavored]Disfavored[/url] lieutenant scratches at the back of his helm, perplexed.
 
 "Forgive me for saying, but I expected more zeal from you, ma'am. Anyone of my Shields would piss on their mother for the chance to fight in Ashe's honor."</FemaleText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"So send them to die for Ashe's honor. I have more critical issues to worry about as a Fatebinder."</DefaultText>
+      <DefaultText>"Então envie-os para morrer pela honra de Ashe. Eu tenho questões mais críticas para me preocupar como um Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"You're right. For the sake of the [url=glossary:disfavored]Disfavored[/url], I'll cut us a path to Howling Rock, regardless of who stands in our way."</DefaultText>
+      <DefaultText>"Você está certo. Por causa do [url=glossary:disfavored]Disfavored[/url], eu vou cortar-nos um caminho para Howling Rock, independentemente de quem está no nosso caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Sir, then what did you come here for? Can set you to digging the latrines, sir, should you find it more suitable to one of your invaluable rank. Sir."
+      <DefaultText>"Senhor, então o que você veio fazer aqui? Pode ajustá-lo a cavar a latrinas, senhor, você deve achar que é mais adequado para uma de sua classificação de valor inestimável. Sir".
 
-He bristles, armor clanking as he straightens his stance.</DefaultText>
+Ele eriça, a armadura batendo enquanto endireita sua postura.</DefaultText>
       <FemaleText>"Ma'am, then what did you come here for? Can set you to digging the latrines, ma'am, should you find it more suitable to one of your invaluable rank. Ma'am."
 
 He bristles, armor clanking as he straightens his stance.</FemaleText>
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Not sure I like your tone, soldier."</DefaultText>
+      <DefaultText>"Não tenho certeza se gosto do seu tom, soldado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Sir, with all due respect, sir, I'm not sure what you mean, sir."</DefaultText>
+      <DefaultText>"Senhor, com todo o respeito, senhor, não tenho certeza do que você quer dizer, senhor."</DefaultText>
       <FemaleText>"Ma'am, with all due respect, ma'am, I'm not sure what you mean, ma'am."</FemaleText>
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"He's incorrigible. Don't enable him."</DefaultText>
+      <DefaultText>"Ele é incorrigível. Não o habilite."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Oh, for the love of [url=glossary:kyros]Kyros[/url]. Fine. I'll cut you a path to Howling Rock. But I expect adequate remuneration for my effort."</DefaultText>
+      <DefaultText>"Oh, pelo amor de [url=glossary:kyros]Kyros[/url]. Tudo bem. Eu vou te cortar um caminho para Howling Rock. Mas eu espero uma remuneração adequada pelo meu esforço."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"If you think I'll be the one to cave, then you are sorely mistaken. If you want my help, then name your offer."</DefaultText>
+      <DefaultText>"Se você acha que eu vou ser o único a cavar, então você está muito enganado. Se você quer minha ajuda, então nomeie sua oferta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>At your agreement, Caedis relaxes comfortably, a short burst of relieved laughter escaping from behind his visor.
+      <DefaultText>Por sua concordância, Caedis relaxa confortavelmente, uma pequena explosão de riso aliviado escapando de trás de sua viseira.
 
-"I'll see what we can scrounge up, sir." 
+"Eu vou ver o que podemos levantar, senhor."
 
-Deftly, he draws his sword, and crouching, carves a basic map into the silt-covered ground. 
+Com destreza, ele desembainha a espada e, agachado, traça um mapa básico no solo coberto de lodo.
 
-"Fastest route's through [url=lore:StoneDown]Stone Down Gorge[/url] - course, the area's swarming with Chorus and Beasts, alike."</DefaultText>
+"A rota mais rápida é através de [url=lore:StoneDown]Stone Down Gorge[/url] - claro, a área está repleta de Coro e Feras, igualmente."</DefaultText>
       <FemaleText>At your agreement, Caedis relaxes comfortably, a short burst of relieved laughter escaping from behind his visor.
 
 "I'll see what we can scrounge up, ma'am." 
@@ -934,122 +934,122 @@ Deftly, he draws his sword, and crouching, carves a basic map into the silt-cove
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Some would find it dangerous to speak to a Fatebinder in such a way."</DefaultText>
+      <DefaultText>"Alguns acham perigoso falar com um Fatebinder de tal maneira."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Forgive me. I meant no offense to you or your Shields."</DefaultText>
+      <DefaultText>"Perdoe-me. Eu não quis ofender você ou seus Escudos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Carve us a path to Howling Rock, and I'll forgive you." 
+      <DefaultText>"Nos dê um caminho para Howling Rock, e eu vou te perdoar."
 
-He grunts and relaxes his stance, once more at ease in your presence. Scratching the back of his helm for the second time, he offers a short, relieved laugh. 
+Ele grunhe e relaxa sua postura, mais uma vez à vontade em sua presença. Arranhando a parte de trás de seu elmo pela segunda vez, ele oferece uma risada curta e aliviada.
 
-"Get us there in one piece, and I'll name my broad sword in your honor."</DefaultText>
+"Traga-nos para lá em um pedaço, e eu vou nomear minha espada larga em sua honra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Deftly, he draws his sword, and crouching, carves a basic map into the silt-covered ground. 
+      <DefaultText>Com destreza, ele desembainha a espada e, agachado, traça um mapa básico no solo coberto de lodo.
 
-"Fastest route's through [url=lore:StoneDown]Stone Down Gorge[/url] - but like I said, the area's swarming with Chorus and Beasts, alike."</DefaultText>
+"A rota mais rápida é através de [url=lore:StoneDown]Stone Down Gorge[/url] - mas como eu disse, a área está repleta de Coro e Feras, igualmente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"For now we will leave this discussion unfinished."</DefaultText>
+      <DefaultText>"Por enquanto vamos deixar esta discussão inacabada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"I sure as shit don't fight for the pay, so if it's rings you want, I can't help you. But if it'll sway you, I'll give you the last of my rations."</DefaultText>
+      <DefaultText>"Eu tenho certeza que como uma merda não lute pelo pagamento, então se você quiser, eu não posso te ajudar. Mas se isso influenciar você, eu vou te dar a última das minhas rações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Willing to starve for it? I see you are ever audacious, my baby brother." 
+      <DefaultText>"Disposto a morrer de fome? Vejo que você é sempre audacioso, meu irmãozinho."
 
-Radix gives you a curt nod.
+Radix dá um breve aceno de cabeça.
 
-"Have your rings and help us. But take his food, as well."</DefaultText>
+"Tenha seus anéis e nos ajude. Mas leve a comida dele também."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>The lieutenant grunts, annoyed enough for once to ignore his commander's bait. Deftly, he draws his sword, and crouching, carves a basic map into the silt-covered ground. 
+      <DefaultText>O tenente grunhe, irritado o suficiente para ignorar a isca de seu comandante. Com destreza, ele desembainha a espada e, agachado, traça um mapa básico no solo coberto de lodo.
 
-"Carve us a path to Howling Rock, and I won't need the rations. Fastest route's through [url=lore:StoneDown]Stone Down Gorge[/url] - but like I said, the area's swarming with Chorus and Beasts, alike. I'm counting on you to save the lives of my Shields, got it?"</DefaultText>
+"Espreite-nos um caminho para Howling Rock, e eu não precisarei das rações. A rota mais rápida é através de [url=lore:StoneDown]Stone Down Gorge[/url] - mas como eu disse, a área está repleta de Coro e Feras, eu conto com você para salvar as vidas dos meus Escudos, entendeu?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"It's a pleasure to be of service."</DefaultText>
+      <DefaultText>"É um prazer estar de serviço."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"We'll prep for heading out."
+      <DefaultText>"Vamos nos preparar para sair."
 
-Caedis pounds a fist to his chest in farewell. 
+Caedis bate um soco no peito em despedida.
 
-"As my squad'll be protecting the Commander and his 'shakers, we'll be trailing a ways behind. See you at Howling Rock."</DefaultText>
+"Como meu esquadrão estará protegendo o Comandante e seus shakers, nós estaremos seguindo um caminho atrás. Vejo você em Howling Rock."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Got it. I'll lead ahead in order to clear you a path."</DefaultText>
+      <DefaultText>"Entendi. Vou seguir em frente, a fim de limpar um caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"By savages, you mean the Beastmen?"</DefaultText>
+      <DefaultText>"Por selvagens, você quer dizer os Homens-Besta?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Let's speak of another matter."</DefaultText>
+      <DefaultText>"Vamos falar de outro assunto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Quite assuredly. For [url=glossary:cairn]Cairn[/url] to risk the entire guild on account of such primitive Beasts - it is wholly contemptible. Not only did he bring ruin on himself, but he very nearly rained the same on us."</DefaultText>
+      <DefaultText>"Com certeza. Para arriscar toda a guilda por causa de bestas tão primitivas - é totalmente desprezível. Não só ele trouxe a ruína para si mesmo, mas quase choveu o mesmo sobre nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"By all means."</DefaultText>
+      <DefaultText>"Por todos os meios."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"You were raised apart from one another?"</DefaultText>
+      <DefaultText>"Vocês foram criados separados um do outro?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"You have separate fathers? Who were they?"</DefaultText>
+      <DefaultText>"Você tem pais separados? Quem eram eles?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Tortalus, that's in the north, right?"</DefaultText>
+      <DefaultText>"Tortalus, que está no norte, certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"What was it like studying under [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <DefaultText>"Como foi estudar sob [url=glossary:cairn]Cairn[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"It's not like he was sent away. On account of him being twelve years older and annoyingly apt with magic, he left for Tortalus to study under [url=glossary:cairn]Cairn[/url]."
+      <DefaultText>"Não é como se ele fosse mandado embora. Devido a ele ser doze anos mais velho e irritantemente apto com magia, ele partiu para Tortalus para estudar sob [url=glossary:cairn]Cairn[/url]".
 
-Caedis smacks his brother heartily on the back.
+Caedis bate com força no irmão nas costas.
 
-"Can't say I missed him much. You ever been buried alive, sir?"</DefaultText>
+"Não posso dizer que senti muita falta dele. Você já foi enterrado vivo, senhor?"</DefaultText>
       <FemaleText>"It's not like he was sent away. On account of him being twelve years older and annoyingly apt with magic, he left for Tortalus  to study under [url=glossary:cairn]Cairn[/url]."
 
 Caedis smacks his brother heartily on the back.
@@ -1058,69 +1058,69 @@ Caedis smacks his brother heartily on the back.
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Ah, how long ago. I do remember, Mother was quite proud. Not of that incident. She was unreasonably furious even though I left you an air hole." 
+      <DefaultText>"Ah, há quanto tempo. Eu me lembro, minha mãe estava muito orgulhosa. Não daquele incidente. Ela estava irracionalmente furiosa mesmo que eu te deixasse um buraco no ar."
 
-He taps the toe of his boot on the ground, thoughts likely as tremorous as the earth around him.
+Ele bate a ponta da bota no chão, pensamentos provavelmente tão tremendo quanto a terra ao redor dele.
 
-"It was a great honor to study under an Archon."</DefaultText>
+"Foi uma grande honra estudar sob um Arconte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Don't know." The lieutenant shrugs.
+      <DefaultText>"Não sei." O tenente dá de ombros.
 
-"But it doesn't rightly matter, does it? If it were just our father, this one could've been rid of me. But you can't deny the lineage of the womb, nor a woman's inheritance. Even if I did choose the frontlines over Radix's stodgy guild."</DefaultText>
+"Mas isso não importa direito, não é? Se fosse apenas nosso pai, este poderia ter se livrado de mim. Mas você não pode negar a linhagem do útero, nem a herança de uma mulher. Mesmo se eu fizesse isso, escolha as linhas de frente sobre a guilda indigena de Radix. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"That's right. For better or worse, we're indisputably bound by blood. Though you wouldn't know it as Caedis exhibits only the most miniscule of mother's traits."</DefaultText>
+      <DefaultText>"Isso mesmo. Para melhor ou pior, estamos indiscutivelmente ligados pelo sangue. Embora você não saiba como o Caedis exibe apenas o mais minúsculo dos traços da mãe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Obviously. Despite my Master's increasingly irrational inclinations in his age, [url=glossary:cairn]Cairn[/url] was a northerner, same as you and I."
+      <DefaultText>"Obviamente. Apesar das inclinações crescentemente irracionais do meu Mestre em sua idade, [url=glossary:cairn]Cairn[/url] era um nortista, igual a você e eu."
 
-The [url=glossary:iron guard]Iron Guard[/url] settles his stance, peering silently toward the horizon for a moment before he continues to speak.
+O [url=glossary:iron guard]Iron Guard[/url] estabelece sua postura, olhando silenciosamente para o horizonte por um momento antes de continuar a falar.
 
-"Tortalus is the longest continental mountain range in the Northern Empire. Naturally, it was upon its highest peak that [url=glossary:cairn]Cairn[/url] established the Earthshaker guild and where I painstakingly acuminated the potential of my abilities." </DefaultText>
+"Tortalus é a mais longa cordilheira continental do Império do Norte. Naturalmente, foi no seu pico mais alto que eu estabeleci a guilda Earthshaker e onde eu meticulosamente acuminou o potencial de minhas habilidades".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Excruciatingly arduous yet edifying. Do you want me to claim he was like a doting father? I cannot. He was ruthless when he needed to be, and above all brilliant."</DefaultText>
+      <DefaultText>"Extremamente árduo, mas edificante. Você quer que eu afirme que ele era como um pai amoroso? Eu não posso. Ele foi implacável quando precisava ser, e acima de tudo brilhante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"He was an Archon, and a powerful one at that. If you want access to those heights of power, you have to be dedicated. If you aren't willing to train, you aren't worthy to wield that power."</DefaultText>
+      <DefaultText>"Ele era um Arconte, e um poderoso nisso. Se você quer acesso a essas alturas de poder, você tem que ser dedicado. Se você não está disposto a treinar, você não é digno de exercer esse poder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"You're both an Earthshaker and an [url=glossary:iron guard]Iron Guard[/url]? How did that come to pass?"</DefaultText>
+      <DefaultText>"Você é tanto um Earthshaker quanto um [url=glossary:iron guard]Iron Guard[/url]? Como isso aconteceu?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"It was not by choice, I can assure you. I merely desired to study under [url=glossary:cairn]Cairn[/url]'s tutelage, but after we pledged our allegiance to Ashe, the position was more or less forced upon me." 
+      <DefaultText>"Não foi por escolha, posso assegurar-lhe. Simplesmente desejei estudar sob a tutela de [url=glossary:cairn]Cairn[/url]111111, mas depois que prometemos nossa lealdade a Ashe, a posição foi mais ou menos forçada sobre mim".
 
-He looks down for a moment before catching himself slumping. "Not that I could resent a position bestowed upon me by the General, himself. Though I am not one for rank and file, as [url=glossary:cairn]Cairn[/url]'s protégé, clearly I was the ideal selection." </DefaultText>
+Ele olha para baixo por um momento antes de se pegar caindo. "Não que eu pudesse me ressentir de uma posição concedida a mim pelo General, ele mesmo. Embora eu não seja um para o rank and file, como protegido do [url=glossary:cairn]Cairn[/url], claramente eu era a escolha ideal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Radix! Are my ears bleeding or did you just say you're defecting, you worthless shitstain?!"</DefaultText>
+      <DefaultText>"Radix! As minhas orelhas estão sangrando ou você acabou de dizer que está desertando, sua merda de merda ?!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Your ears do not deceive you. The Earthshakers have found a better ally, one who supports their ideals and aspirations."</DefaultText>
+      <DefaultText>"Suas orelhas não te enganam. Os Earthshakers encontraram um melhor aliado, aquele que apóia seus ideais e aspirações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"You fucking assholes! I'll kill you first!"</DefaultText>
+      <DefaultText>"Seus babacas! Eu te mato primeiro!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1130,26 +1130,26 @@ He looks down for a moment before catching himself slumping. "Not that I could r
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"What's with the constant quakes?"</DefaultText>
+      <DefaultText>"O que há com os terremotos constantes?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"[url=glossary:cairn]Cairn[/url] was defeated, but he's not entirely dead. So long as his essence remains within his body, the [url=glossary:edict]Edict[/url] of Stone will remain in place."</DefaultText>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] foi derrotado, mas ele não está inteiramente morto. Enquanto sua essência permanecer dentro de seu corpo, o [url=glossary:edict]Edict[/url] de Stone permanecerá no lugar".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Fatebinder, should you arrive before us, which I am almost assured that you will, you'll need this code, the Sigil of [url=glossary:cairn]Cairn[/url]'s Forgotten name, to gain entry into the compound. Pay attention, for it is quite an intricate sigil."
+      <DefaultText>"Fatebinder, você deve chegar antes de nós, o que eu estou quase certo de que você vai, você vai precisar deste código, o Sigil do nome esquecido, para ganhar a entrada no complexo. Preste atenção, pois é um sigilo bastante intrincado. "
 
-The Master of the Earthshaker guild calmly demonstrates the sigil by twisting and drawing his fingers through the air. Though it appears to any witness to be the motion of a spell, he lends no magic to the mark, deceptively using it as a coded communication instead.
+O mestre da associação Earthshaker demonstra calmamente o sigilo torcendo e puxando os dedos pelo ar. Embora pareça a qualquer testemunha o movimento de um feitiço, ele não empresta nenhuma magia à marca, enganosamente usando-a como uma comunicação codificada.
 
-"Show it to the guards and they will know that you are one of us." </DefaultText>
+"Mostre aos guardas e eles saberão que você é um de nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Understood. I'll use it if needed."</DefaultText>
+      <DefaultText>"Entendido. Vou usá-lo se necessário."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1159,81 +1159,81 @@ The Master of the Earthshaker guild calmly demonstrates the sigil by twisting an
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Not only is it intricate, but it's also quite unusual. What's the meaning behind this Sigil?"</DefaultText>
+      <DefaultText>"Não é apenas intrincado, mas também é bastante incomum. Qual é o significado por trás deste Sigil?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Do not forget it."</DefaultText>
+      <DefaultText>"Não Se Esqueça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>He tilts his head, impressed.
+      <DefaultText>Ele inclina a cabeça, impressionado.
 
-"That is good. Adjust this finger like so on the downcurve. Yes, precisely. You live up to your reputation, Fatebinder." </DefaultText>
+"Isso é bom. Ajuste esse dedo assim na curva para baixo. Sim, precisamente. Você faz jus à sua reputação, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"It is a name all but we have forgotten. It is the only remainder, a single identifier of [url=glossary:cairn]Cairn[/url]'s existence from when he lived wild and free in the mountains of Tortalus during the time of his youth, years before he pledged himself as an Archon to our Overlord."</DefaultText>
+      <DefaultText>"É um nome que todos, mas esquecemos. É o único remanescente, um identificador único da existência do [url=glossary:cairn]Cairn[/url] a partir de quando ele viveu selvagem e livre nas montanhas de Tortalus durante o tempo de sua juventude, anos antes de se comprometer como um Arconte. para o nosso Overlord ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Perhaps we would not be in this situation had the [url=glossary:disfavored]Disfavored[/url] been allowed to thin the Beastmen numbers during the conquest of Azure." He shrugs. "Not that I'm questioning your decision, Fatebinder."</DefaultText>
+      <DefaultText>"Talvez não estivéssemos nesta situação se tivéssemos permissão para afinar os números dos Homens-Bestas durante a conquista do Azure." Ele encolhe os ombros. "Não que eu esteja questionando sua decisão, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"If mages demonstrated more modesty and attention to their tasks, the army might be less severe in doubting their worth. Titles and honorifics are earned, not simply spun up out of a storm of bravado." </DefaultText>
+      <DefaultText>"Se os magos demonstrassem mais modéstia e atenção às suas tarefas, o exército poderia ser menos severo em duvidar do seu valor. Títulos e honrarias são ganhos, não simplesmente gerados por uma tempestade de bravatas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"To be an [url=glossary:iron guard]Iron Guard[/url] is to be recognized by Ashe personally. The Archon of War loves his soldiers to a woman, but he only grants his favor to those who distinguish themselves. There is no greater honor."</DefaultText>
+      <DefaultText>"Ser um [url=glossary:iron guard]Iron Guard[/url] é ser reconhecido pessoalmente por Ashe. O Arconte da Guerra ama seus soldados para uma mulher, mas ele só concede seu favor àqueles que se distinguem. Não há maior honra".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Humans have two eyes, yep? But always are having trouble looking past length of own snout."
+      <DefaultText>"Os humanos têm dois olhos, sim? Mas sempre estão tendo problemas em olhar o comprimento do próprio focinho."
 
-She grunts, clearly cross.</DefaultText>
+Ela resmunga, claramente cruzada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Don't be so quick to turn on your betters, soldier. That way is a swift trip to the pillory or the gallows, all depending on how well you swing a blade." </DefaultText>
+      <DefaultText>"Não seja tão rápido para ligar seus superiores, soldado. Dessa forma é uma rápida viagem para o pelourinho ou a forca, tudo dependendo de quão bem você balançar uma lâmina."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>Bank Node 203</DefaultText>
+      <DefaultText>Nó do Banco 203</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"If these two get any more sentimental, I'm just going to push their faces together as hard as I possibly can." </DefaultText>
+      <DefaultText>"Se esses dois ficarem mais sentimentais, eu vou apenas empurrar seus rostos o mais forte que eu puder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Well, I'd certainly feel safe if these two were in charge of my well-being." She turns away from them and rolls her eyes.</DefaultText>
+      <DefaultText>"Bem, eu certamente me sentiria seguro se esses dois estivessem no comando do meu bem-estar." Ela se afasta e revira os olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Really? They only share a mother? From the way they go about, you'd think they share a mother-aunt-sister, a father-uncle-brother or some sort of recursive pedigree."</DefaultText>
+      <DefaultText>"Sério? Elas só compartilham uma mãe? Pelo jeito que elas acontecem, você acha que elas compartilham uma mãe-tia-irmã, um pai-tio-irmão ou algum tipo de pedigree recursivo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"So human says, but maybe Kills-in-Shadow will be one attacking next." She grins, fangs parted wide. "Want to see if Shadowhunter can rip iron-clads heads off?" </DefaultText>
+      <DefaultText>"Então humano diz, mas talvez Kills-in-Shadow seja um atacando em seguida." Ela sorri e as presas se abrem. "Quer ver se o Caçador das Sombras pode arrancar as cabeças de ferro?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Happy to lend my iron to the cause! The Chorus dogs will grovel at our feet before long!" Barik pounds his fists together and grunts in anticipation.</DefaultText>
+      <DefaultText>"Feliz em emprestar meu ferro para a causa! Os cães do Coro rastejarão aos nossos pés em pouco tempo!" Barik bate os punhos juntos e grunhe em antecipação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1243,96 +1243,96 @@ She grunts, clearly cross.</DefaultText>
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"I assume that Caedis is never going to see that sword again? We have certain standards about how [url=glossary:disfavored]Disfavored[/url] gear is passed down... but I won't hold them to someone outside of the normal chain of command. You can thank me later." </DefaultText>
+      <DefaultText>"Eu suponho que o Caedis nunca mais vai ver essa espada? Nós temos certos padrões sobre como a engrenagem é passada para baixo ... mas eu não vou segurá-los para alguém fora da cadeia normal de comando. Você pode me agradecer mais tarde." "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Of course his big phallic weapon is a her. I'm half wondering if he wears this as his codpiece at night, it's like we're asking him to rip off his manhood in supplication." Eb smiles with a long, slow nod. "I'm so turned on right now."</DefaultText>
+      <DefaultText>"É claro que sua grande arma fálica é ela. Eu meio que me pergunto se ele usa isso como sua peça à noite, é como se estivéssemos pedindo a ele para arrancar sua masculinidade em súplica." Eb sorri com um longo e lento aceno de cabeça. "Eu estou tão ligado agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>Bank Node 212</DefaultText>
+      <DefaultText>Nó do banco 212</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Beastwoman likes thought of killing stone-mystic called [url=glossary:cairn]Cairn[/url]. Means Alpha's pack will be best hunters and most feared, yep? Will be slayers of Archons."
+      <DefaultText>"Beastwoman gosta de pensar em matar místico-de-pedra chamado [url=glossary:cairn]Cairn[/url]. Significa que o bando de Alfa será o melhor caçador e o mais temido, sim? Serão assassinos de Arcontes."
 
-She flexes her claws and sneers dangerously.</DefaultText>
+Ela flexiona suas garras e zomba perigosamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"We'll slay enough of them to have an armory named after us before long. I suppose I could stand for a few more swords named 'Barik' out in circulation." </DefaultText>
+      <DefaultText>"Nós vamos matar um número suficiente deles para ter um arsenal chamado depois de nós antes do tempo. Acho que eu poderia ficar por mais algumas espadas chamados 'Barik' em circulação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"How very clever - a name only the true disciples would understand and appreciate." Eb nods with a beaming smile.</DefaultText>
+      <DefaultText>"Como muito inteligente - um nome que só os verdadeiros discípulos entenderiam e apreciariam." Eb acena com um sorriso radiante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>Bank Node 216</DefaultText>
+      <DefaultText>Nó do banco 216</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Slow down!" The feather of his quill bobs and weaves as Lantry furiously attempts to sketch the pattern Radix is tracing. "If I write this down wrong, it'll haunt me for centuries."</DefaultText>
+      <DefaultText>"Desacelere!" A pena de sua pena balança e tece como Lantry furiosamente tenta esboçar o padrão que Radix está traçando. "Se eu escrever isso errado, vai me assombrar por séculos".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Fascinating, most of what we known of [url=glossary:cairn]Cairn[/url] down here relates to him as the Archon of Stone - his powers, his size - those sorts of things." Lantry lets out a long sigh, his quill continuing to record Radix's words and gestures. "But as for [url=glossary:cairn]Cairn[/url] the human being, we know so little, and I think the Earthshakers may have been the only ones to come close to knowing him."</DefaultText>
+      <DefaultText>"Fascinante, a maior parte do que conhecemos de [url=glossary:cairn]Cairn[/url] aqui se relaciona com ele como o Arconte da Pedra - seus poderes, seu tamanho - esse tipo de coisa." Lantry solta um longo suspiro, sua pena continua a registrar as palavras e gestos de Radix. "Mas quanto ao ser humano, sabemos tão pouco, e acho que os Earthshakers podem ter sido os únicos a chegar perto de conhecê-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Oh no, what a convenient shame that you're both stuck here, and need someone else to do your dirty work!" Verse shakes her head. "Pathetic." </DefaultText>
+      <DefaultText>"Oh, não, que pena que vocês dois estão presos aqui e precisem de alguém para fazer o seu trabalho sujo!" Verso sacode a cabeça. "Patético."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Alpha is right. Pack should be hunting iron-clads, not Beastwomen."
+      <DefaultText>"Alpha está certo. O bando deveria estar caçando vestidos de ferro, não feras".
 
-She licks the tips of her claws, staring longingly at the [url=glossary:disfavored]Disfavored[/url] soldiers before her.</DefaultText>
+Ela lambe as pontas de suas garras, olhando ansiosamente para os [url=glossary:disfavored]Disfavored[/url] soldados antes dela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>He gives her a sideways stare.</DefaultText>
+      <DefaultText>Ele lhe dá um olhar de lado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Barik, people have named weapons after you?"</DefaultText>
+      <DefaultText>"Barik, as pessoas nomearam armas depois de você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"They have indeed. The cohort that followed me across Apex and Stalwart took a liking to how I handled myself in battle. I'm big enough that I can heft broadswords others found unwieldy. They added weights to their training sticks to toughen up, and started naming their assigned blades after me."</DefaultText>
+      <DefaultText>"Eles têm de fato. A coorte que me seguiu através da Apex e Stalwart gostou de como eu me lidei em batalha. Eu sou grande o suficiente para poder roubar espadas largas que outras pessoas acham desajeitadas. Eles adicionaram pesos aos seus bastões de treinamento para endurecer, e comecei a nomear suas lâminas designadas depois de mim. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>He looks suddenly crestfallen. "Though I imagine most of those blades were lost or destroyed in the [url=glossary:edict]Edict[/url] of Storms. I left too many friends, and too much of myself, in the ruins of old Stalwart."</DefaultText>
+      <DefaultText>Ele parece de repente desanimado. "Embora eu imagine que a maioria dessas lâminas foram perdidas ou destruídas no [url=glossary:edict]Edict[/url] de Storms. Eu deixei muitos amigos, e muito de mim mesmo, nas ruínas do velho Stalwart."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"I'll be on my way."</DefaultText>
+      <DefaultText>"Estarei à caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Let me ask about something else."</DefaultText>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>He nods and clangs a meaty fist against his bronzed chest.</DefaultText>
+      <DefaultText>Ele balança a cabeça e aperta um punho carnudo contra o peito bronzeado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1347,24 +1347,24 @@ She licks the tips of her claws, staring longingly at the [url=glossary:disfavor
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Then it should please you to know I've exterminated the ones who were holed up in [Plainsgate]."</DefaultText>
+      <DefaultText>"Então deveria agradar você saber que eu exterminei aqueles que estavam escondidos em [Plainsgate]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"You up and massacred the whole damn slew?" The lieutenant rubs at the edge of his faceplate, head tipped with awe. "Damn. I think you just stole my heart, sir."</DefaultText>
+      <DefaultText>"Você acordou e massacrou todo o maldito assassinato?" O tenente esfrega na borda da placa, a cabeça inclinada com admiração. "Droga. Eu acho que você acabou de roubar meu coração, senhor."</DefaultText>
       <FemaleText>"You up and massacred the whole damn slew?" The lieutenant rubs at the edge of his faceplate, head tipped with awe. "Damn. I think you just stole my heart, ma'am."</FemaleText>
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>The mountainous man cants his head to you in the slightest gesture of approval. 
+      <DefaultText>O homem montanhoso canta sua cabeça para você no menor gesto de aprovação.
 
-"Impressive, indeed. I suppose you've garnered my interest in your capabilities, as well."</DefaultText>
+"Impressionante, de fato. Suponho que você tenha atraído meu interesse por suas capacidades também."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"You can certainly die trying." The [url=glossary:disfavored]Disfavored[/url] officer tilts his head in annoyance, chin tipped upward as he speaks. "Do all Fatebinders go around spilling their intents and secrets so openly? If you were one of mine and wagged your tongue like that, I'd make you clean the latrines with it - after I shit in them."</DefaultText>
+      <DefaultText>"Você pode certamente morrer tentando." O oficial de [url=glossary:disfavored]Disfavored[/url] inclina a cabeça em aborrecimento, queixo inclinado para cima enquanto ele fala. "Todos os Fatebinders saem por aí derramando suas intenções e segredos tão abertamente? Se você fosse um dos meus e abanasse a língua desse jeito, eu faria você limpar as latrinas com isso - depois que eu cagasse nelas."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

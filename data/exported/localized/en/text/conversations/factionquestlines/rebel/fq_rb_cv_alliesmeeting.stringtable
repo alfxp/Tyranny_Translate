@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\factionquestlines\rebel\fq_rb_cv_alliesmeeting</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>6</EntryCount>
   <Entries>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Thank you all for coming. We have faced grave challenges together, but I am happy to at last present a beacon to light the way - [Player Name], the Champion of the Tiers, our leader and Archon!"</DefaultText>
+      <DefaultText>"Obrigado a todos por terem vindo. Enfrentamos sérios desafios juntos, mas estou feliz em finalmente apresentar um farol para iluminar o caminho - [Player Name], o Campeão dos Níveis, nosso líder e Arconte!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"This does beg the question, Archon. What of those who chose to not join our alliance?"</DefaultText>
+      <DefaultText>"Isso faz a pergunta, Arconte. E aqueles que escolheram não se juntar à nossa aliança?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"This is comforting to hear. Already you show more compassion and mortal understanding than [url=glossary:kyros]Kyros[/url] ever did."</DefaultText>
+      <DefaultText>"Isso é reconfortante de ouvir. Já mostra mais compaixão e compreensão mortal do que [url=glossary:kyros]Kyros[/url] já fez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"That is an... intriguing position, Archon. We may discuss later on whether you are willing to rethink... oh, never mind."</DefaultText>
+      <DefaultText>"Essa é uma ... posição intrigante, Archon. Podemos discutir mais tarde se você está disposto a repensar ... oh, não importa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Your ambition is lofty as ever, Archon."</DefaultText>
+      <DefaultText>"Sua ambição é alta como sempre, Arconte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Now, there is still the matter of the Edicts that plague our land. Many of your closest allies have been impacted."</DefaultText>
+      <DefaultText>"Agora, ainda há a questão dos Éditos que assolam nossas terras. Muitos de seus aliados mais próximos foram afetados."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

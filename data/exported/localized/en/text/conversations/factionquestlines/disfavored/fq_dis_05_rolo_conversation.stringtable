@@ -1,57 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\factionquestlines\disfavored\fq_dis_05_rolo_conversation</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Greetings, Fatebinder. I don't know what brings you to Howling Rock, but if it's more interesting than these obsessive rock-worshippers, lucky you."</DefaultText>
+      <DefaultText>"Saudações, Fatebinder. Eu não sei o que te leva a Howling Rock, mas se é mais interessante do que esses adoradores de rock obsessivos, sorte você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"You need to withdraw from Howling Rock immediately."</DefaultText>
+      <DefaultText>"Você precisa se retirar do Howling Rock imediatamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"The Earthshakers are paying me a decent sum to make sure their business goes uninterrupted. Sorry, but I don't want to say farewell to those rings."</DefaultText>
+      <DefaultText>"Os Earthshakers estão me pagando uma quantia decente para garantir que o negócio deles continue ininterrupto. Desculpe, mas eu não quero dizer adeus àqueles anéis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"I can pay that, but you and your mercenaries have to leave right now."</DefaultText>
+      <DefaultText>"Eu posso pagar isso, mas você e seus mercenários têm que sair agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Pack it up, boys! We're leaving the rock magi to study their calcified friend in peace."</DefaultText>
+      <DefaultText>"Arrume-se, rapazes! Vamos deixar os magos do rock para estudar em paz o seu amigo calcificado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Can't talk right now, Fatebinder."</DefaultText>
+      <DefaultText>"Não posso falar agora, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"I'll return when I have the rings. Farewell."</DefaultText>
+      <DefaultText>"Eu voltarei quando eu tiver os anéis. Adeus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Tell you what, though - you fork over 1000 rings and we'll be on our way. How about that?"</DefaultText>
+      <DefaultText>"Digo a você o que, entretanto - você gasta mais de 1000 anéis e nós estaremos a caminho. Que tal isto?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"What brings you back, Fatebinder?"</DefaultText>
+      <DefaultText>"O que te traz de volta, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,12 +61,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>His eyes go wide. "Okay, okay! Can't blame a man for trying to make a living, right?"</DefaultText>
+      <DefaultText>Seus olhos se arregalam. "Ok, ok! Não posso culpar um homem por tentar ganhar a vida, certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"I have the rings you wanted. After I pay up, you leave."</DefaultText>
+      <DefaultText>"Eu tenho os anéis que você queria. Depois que eu pagar, você vai embora."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

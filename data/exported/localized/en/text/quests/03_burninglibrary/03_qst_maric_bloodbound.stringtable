@@ -1,112 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\03_burninglibrary\03_qst_maric_bloodbound</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>21</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>The Ties That Bind</DefaultText>
+      <DefaultText>Os laços que unem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Rescue the Oath Bound in the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>Resgate o Oath Bound no [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Deal with the traitor Jelena.</DefaultText>
+      <DefaultText>Lidar com o traidor Jelena.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Return to Maric.</DefaultText>
+      <DefaultText>Volte para Maric.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Find Maric.</DefaultText>
+      <DefaultText>Encontre Maric.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Maric is loyal to the Oath Bound serving under him. He will not be satisfied until the surviving members of his unit have been returned to him and the betrayer, Jelena, put to death.</DefaultText>
+      <DefaultText>Maric é leal ao Oath Bound servindo sob ele. Ele não ficará satisfeito até que os membros sobreviventes de sua unidade sejam devolvidos a ele e o traidor, Jelena, seja morto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Maric knows that two of his scouts remain in the library ruins. Find them and bring them to safety.</DefaultText>
+      <DefaultText>Maric sabe que dois de seus batedores permanecem nas ruínas da biblioteca. Encontre-os e traga-os para a segurança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>One of Maric's soldiers betrayed her unit and helped the Censor locate them. Maric wants her dead.</DefaultText>
+      <DefaultText>Um dos soldados de Maric traiu sua unidade e ajudou o Censor a localizá-los. Maric a quer morta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>You found the Oath Bound and dealt with Jelena. Return to Maric with the news.</DefaultText>
+      <DefaultText>Você encontrou o Oath Bound e lidou com Jelena. Retorne a Maric com as novidades.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Jelena senses that Maric may be somewhere in the Shifting Vale. Find him to try and set things right.</DefaultText>
+      <DefaultText>Jelena sente que Maric pode estar em algum lugar do Vale do Shifting. Encontre-o para tentar acertar as coisas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>You found and killed Jelena.</DefaultText>
+      <DefaultText>Você encontrou e matou Jelena.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>You elected to free Jelena, who said she would return to Maric to face judgment.</DefaultText>
+      <DefaultText>Você decidiu libertar Jelena, que disse que retornaria a Maric para enfrentar o julgamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Jelena refuses to abandon her comrades, even in captivity. However, she will agree to meet her judgment by Maric personally if you manage to rescue the soldiers she has forsaken.</DefaultText>
+      <DefaultText>Jelena se recusa a abandonar seus companheiros, mesmo em cativeiro. No entanto, ela concordará em encontrar seu julgamento por Maric pessoalmente se você conseguir resgatar os soldados que abandonou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Maric is grateful that his unit is safe, and that the traitor Jelena has met her end.</DefaultText>
+      <DefaultText>Maric é grata por sua unidade estar segura, e que a traidora Jelena encontrou seu fim.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Maric is grateful that his unit is safe, and has accepted Jelena back into the fold.</DefaultText>
+      <DefaultText>Maric é grata por sua unidade estar segura e aceitou Jelena de volta ao redil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Maric is grateful that his unit is safe, but could not forgive Jelena and decided to execute her.</DefaultText>
+      <DefaultText>Maric é grata por sua unidade estar segura, mas não conseguiu perdoar Jelena e decidiu executá-la.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>One of the Oath Bound in the [url=glossary:burning library]Burning Library[/url] died before you could save him. You were unable to rescue Maric's men for him.</DefaultText>
+      <DefaultText>Um dos Oath Bound no [url=glossary:burning library]Burning Library[/url] morreu antes que você pudesse salvá-lo. Você não conseguiu resgatar os homens de Maric por ele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>Maric is grateful that his unit is safe, but could not forgive Jelena and decided to banish her.</DefaultText>
+      <DefaultText>Maric é grata por sua unidade estar segura, mas não conseguiu perdoar Jelena e decidiu bani-la.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30006</ID>
-      <DefaultText>You broke your alliance with the [url=glossary:disfavored]Disfavored[/url] and can no longer complete this task.</DefaultText>
+      <DefaultText>Você quebrou sua aliança com o [url=glossary:disfavored]Disfavored[/url] e não pode mais concluir esta tarefa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>Jelena, an Oath Bound, got captured and is worried about her fellow members that she has put in jeopardy. She is requesting your help to find them and their leader, Maric, to bring them to safety.</DefaultText>
+      <DefaultText>Jelena, um Oath Bound, foi capturada e está preocupada com os outros membros que ela colocou em risco. Ela está pedindo sua ajuda para encontrá-los e seu líder, Maric, para trazê-los para a segurança.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

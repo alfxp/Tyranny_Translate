@@ -1,72 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\05_cairnplains\05_qst_capturedbeastman</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>In Chains</DefaultText>
+      <DefaultText>Em cadeias</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Decide the captured Beastman's fate.</DefaultText>
+      <DefaultText>Decida o destino do Beastman capturado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Speak with the captured Beastman.</DefaultText>
+      <DefaultText>Fale com o Beastman capturado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Decide the captured Beastman's fate.</DefaultText>
+      <DefaultText>Decida o destino do Beastman capturado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Execute Left-Claw.</DefaultText>
+      <DefaultText>Execute a garra esquerda.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>You have learned that a Beastman is being held in [Plainsgate] on suspicion of killing humans. As a Fatebinder, it is up to you to weigh the evidence of this alleged crime and either condemn the Beastman to death or convince the settlers to set him free.</DefaultText>
+      <DefaultText>Você aprendeu que um Homem-Besta está sendo mantido em [Plainsgate] por suspeita de matar humanos. Como um Fatebinder, cabe a você pesar a evidência deste alegado crime e condenar o Homem-Besta à morte ou convencer os colonos a libertá-lo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Left-Claw's fate rests in your hands. Announce a verdict, or continue to speak with settlers to learn more about the situation.</DefaultText>
+      <DefaultText>O destino da Garra Esquerda está em suas mãos. Anuncie um veredicto ou continue a falar com os colonos para saber mais sobre a situação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Having both heard evidence from the settlers and convinced them of your argument, all that is left is to speak with Left-Claw.</DefaultText>
+      <DefaultText>Tendo ambos ouvido evidências dos colonos e convencido de seu argumento, tudo o que resta é falar com o Left-Claw.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Left-Claw's fate rests in your hands. Announce a verdict, or continue to speak with settlers to learn more about the situation.</DefaultText>
+      <DefaultText>O destino da Garra Esquerda está em suas mãos. Anuncie um veredicto ou continue a falar com os colonos para saber mais sobre a situação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Execute Left-Claw in accordance to your final judgment.</DefaultText>
+      <DefaultText>Execute o Left-Claw de acordo com o seu julgamento final.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You executed the captured Beastman.</DefaultText>
+      <DefaultText>Você executou o Homem-Besta capturado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>You released the captured Beastman.</DefaultText>
+      <DefaultText>Você liberou o Beastman capturado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>You conscripted the Beastman into the ranks of the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <DefaultText>Você recrutou o Homem-Besta para as fileiras do [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

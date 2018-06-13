@@ -1,97 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\01_bladegrave\01_qst_rustcanyon_main_dis</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>18</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>That Which Remains</DefaultText>
+      <DefaultText>Aquilo que continua</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Meet with Teodor.</DefaultText>
+      <DefaultText>Reúna-se com o Teodor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Pursue Elia.</DefaultText>
+      <DefaultText>Prosseguir Elia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Take control of the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
+      <DefaultText>Assuma o controle do acampamento [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Secure the eastern gate.</DefaultText>
+      <DefaultText>Proteger o portão leste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] believes that the artifacts the [url=glossary:unbroken]Unbroken[/url] are looking for may help you enter Sentinel Stand Keep. He has dispatched soldiers to Rust Canyons, where the rebels have been hunting for the heirlooms of fallen Regents. Help the [url=glossary:disfavored]Disfavored[/url] take control of the [url=glossary:unbroken]Unbroken[/url] camp and learn more about the artifact hunt.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] acredita que os artefatos que o [url=glossary:unbroken]Unbroken[/url] está procurando podem ajudá-lo a inserir o Sentinel Stand Keep. Ele despachou soldados para Rust Canyons, onde os rebeldes estão caçando as heranças dos regentes mortos. Ajude o [url=glossary:disfavored]Disfavored[/url] a assumir o controle do campo [url=glossary:unbroken]Unbroken[/url] e saiba mais sobre a caça aos artefatos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Travel to the Rust Canyons and meet with Teodor, commander of the [url=glossary:disfavored]Disfavored[/url] forces in the area.</DefaultText>
+      <DefaultText>Viaje até os Canyons Rust e encontre-se com Teodor, comandante das [url=glossary:disfavored]Disfavored[/url] forças na área.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Elia and some of her men escaped the camp as it fell, and are attempting to flee Rust Canyons. Follow their path north and prevent them from escaping.</DefaultText>
+      <DefaultText>Elia e alguns de seus homens escaparam do acampamento quando ele caiu e estão tentando fugir de Rust Canyons. Siga seu caminho para o norte e evite que eles escapem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Assault the [url=glossary:unbroken]Unbroken[/url] camp in Rust Canyons. Secure the area and kill all [url=glossary:unbroken]Unbroken[/url] soldiers inside.</DefaultText>
+      <DefaultText>Assalta o acampamento [url=glossary:unbroken]Unbroken[/url] em Rust Canyons. Proteja a área e mate todos os [url=glossary:unbroken]Unbroken[/url] soldados dentro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] have men stationed outside the eastern camp gates in Rust Canyons. Kill the soldiers and free the [url=glossary:disfavored]Disfavored[/url] captives there.</DefaultText>
+      <DefaultText>Os [url=glossary:unbroken]Unbroken[/url] têm homens estacionados do lado de fora dos portões de acampamento orientais em Rust Canyons. Mate os soldados e liberte os cativos [url=glossary:disfavored]Disfavored[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>You met Elia, leader of the [url=glossary:unbroken]Unbroken[/url] forces. You should speak with Teodor first before attacking.</DefaultText>
+      <DefaultText>Você conheceu Elia, líder das forças [url=glossary:unbroken]Unbroken[/url]. Você deveria falar com Teodor antes de atacar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>You attacked the [url=glossary:unbroken]Unbroken[/url] camp before coordinating with Teodor and must now take the camp alone.</DefaultText>
+      <DefaultText>Você atacou o acampamento [url=glossary:unbroken]Unbroken[/url] antes de coordenar com Teodor e agora deve tomar o acampamento sozinho.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20006</ID>
-      <DefaultText>You've taken the area outside the eastern gate. Now help the [url=glossary:disfavored]Disfavored[/url] prisoners out of the pit.</DefaultText>
+      <DefaultText>Você tomou a área fora do portão leste. Agora ajude os [url=glossary:disfavored]Disfavored[/url] prisioneiros fora da cova.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20007</ID>
-      <DefaultText>Teodor's men will attack the eastern gate to provide assistance.</DefaultText>
+      <DefaultText>Os homens de Teodor atacarão o portão leste para prestar assistência.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20008</ID>
-      <DefaultText>You've managed to get inside the camp undetected. Use this advantage to defeat the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Você conseguiu entrar no acampamento sem ser detectado. Use essa vantagem para derrotar o [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20009</ID>
-      <DefaultText>Shoot out the winch holding up the ramp to reach the [url=glossary:unbroken]Unbroken[/url] on the overlook.</DefaultText>
+      <DefaultText>Atire o guincho segurando a rampa para alcançar o [url=glossary:unbroken]Unbroken[/url] no mirante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>You defeated Elia and learned about efforts to recover the Steadfast Insignia at the Oldwalls Breach.</DefaultText>
+      <DefaultText>Você derrotou Elia e aprendeu sobre os esforços para recuperar a Insígnia Contínua na Brecha de Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>You turned on Teodor and decided to take the camp for yourself, becoming an enemy of the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>Você ligou Teodor e decidiu tomar o acampamento para si mesmo, tornando-se um inimigo do [url=glossary:disfavored]Disfavored[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

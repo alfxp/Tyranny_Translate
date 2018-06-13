@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_cv_trapped_soldiers_rustcanyon</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>27</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"You there!" a voice cries out from within the pit. Dead soldiers, skewered on spears, litter the pit while a few survivors clamor for air. "The [url=glossary:unbroken]Unbroken[/url] dogs left us here to bleed and rot - help us, please!"</DefaultText>
+      <DefaultText>"Você aí!" uma voz grita de dentro do poço. Soldados mortos, espetados em lanças, enchem o buraco enquanto alguns sobreviventes clamam por ar. "Os [url=glossary:unbroken]Unbroken[/url] cães nos deixaram aqui para sangrar e apodrecer - ajude-nos, por favor!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Stay there for now."</DefaultText>
+      <DefaultText>"Fique aí por enquanto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Are you going to help us, or just watch us suffer?"</DefaultText>
+      <DefaultText>"Você vai nos ajudar, ou apenas nos assistir sofrer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"We have information - valuable information known only to the [url=glossary:disfavored]Disfavored[/url]. Give us our freedom and we'll tell you all we know!"</DefaultText>
+      <DefaultText>"Nós temos informações - informações valiosas conhecidas apenas para o [url=glossary:disfavored]Disfavored[/url]. Dê-nos a nossa liberdade e vamos dizer-lhe tudo o que sabemos!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>The soldiers fall to their knees when they are finally out of the pit and sigh with relief. "I thought we'd never see the outside of that pit. Here, take this key - we acquired it from a scavenger and there's some stash north of here... when we tortured him, he said something about a pile of rocks near a banner." The healthiest of the prisoners help the weaker men to their feet, and the group begins its march back to camp.</DefaultText>
+      <DefaultText>Os soldados caem de joelhos quando finalmente saem do poço e suspiram de alívio. "Eu pensei que nunca veríamos o lado de fora daquele buraco. Aqui, pegue esta chave - nós a adquirimos de um ladrão e há algum esconderijo aqui ... quando o torturamos, ele disse algo sobre uma pilha de pedras perto um banner ". Os mais saudáveis ​​dos prisioneiros ajudam os homens mais fracos a se levantarem, e o grupo começa sua marcha de volta ao acampamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>For a moment, the prisoners alight with hope and press toward the edge of the pit - their hands reaching out to grasp your own. You bring your weapon down, caving in skulls and knocking bodies onto the spikes below.</DefaultText>
+      <DefaultText>Por um momento, os prisioneiros acendem com esperança e pressionam em direção à borda do poço - as mãos estendendo a mão para agarrar a sua. Você traz sua arma para baixo, desmoronando em crânios e derrubando corpos nos espetos abaixo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,72 +51,72 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Cornered... frightened... no matter where [url=glossary:graven ashe]Graven Ashe[/url] is right now, I'm certain he can sense the terror these soldiers are experiencing."</DefaultText>
+      <DefaultText>"Encurralado ... assustado ... não importa onde [url=glossary:graven ashe]Graven Ashe[/url] está certo agora, estou certo que ele pode sentir o terror que esses soldados estão experimentando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"This may take a while, but I'll try to pull you out."</DefaultText>
+      <DefaultText>"Isso pode demorar um pouco, mas vou tentar puxar você para fora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>It isn't easy, but after a few minutes of struggle, you manage to pull the soldiers out of the pit.</DefaultText>
+      <DefaultText>Não é fácil, mas depois de alguns minutos de luta, você consegue tirar os soldados do fosso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Bank Node 24</DefaultText>
+      <DefaultText>Nó do banco 24</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Sons and daughters of the North deserve better. Your flagrant cruelty disgusts me, Fatebinder." </DefaultText>
+      <DefaultText>"Filhos e filhas do Norte merecem melhor. Sua flagrante crueldade me enoja, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"You'd kill a harmless warrior? Let me guess - there's tactical value? Saving yourself some future hassle or risk? There are countless ways to justify cowardice."</DefaultText>
+      <DefaultText>"Você mataria um guerreiro inofensivo? Deixe-me adivinhar - há valor tático? Salvando-se algum incômodo futuro ou risco? Existem inúmeras maneiras de justificar a covardia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Good. Have best Alpha." The Beastwoman pants happily, long strings of saliva dribbling from her tongue.</DefaultText>
+      <DefaultText>"Bom. Tenha o melhor Alpha." A Fera mima alegremente, longas filas de saliva pingando de sua língua.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Scribbling as you go about your grisly work, Lantry coughs nervously. You look back to see him flick bits of hair and skull that landed upon the parchment on which he's writing.</DefaultText>
+      <DefaultText>Rabiscando como você vai sobre o seu trabalho horrível, Lantry tosse nervosamente. Você olha para trás para vê-lo passar pedaços de cabelo e crânio que pousou no pergaminho em que ele está escrevendo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"And people call me a monster. At least I don't give people a false sense of hope."</DefaultText>
+      <DefaultText>"E as pessoas me chamam de monstro. Pelo menos eu não dou às pessoas uma falsa sensação de esperança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Gratitude quickly followed by disappointment. Way to manipulate your prey, Fatebinder." </DefaultText>
+      <DefaultText>"Gratidão rapidamente seguida de decepção. Maneira de manipular sua presa, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Script Node 31</DefaultText>
+      <DefaultText>Nó de Script 31</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Rot in your prison."</DefaultText>
+      <DefaultText>"Apodreça na sua prisão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Fucking coward! If we stood face-to-face, as true soldiers should, you wouldn't be so smug." He spits a bloody wad futily in your direction. "Damn it all..."</DefaultText>
+      <DefaultText>"Maldição covarde! Se fôssemos cara-a-cara, como os verdadeiros soldados deveriam, você não seria tão presunçoso." Ele cospe um maço de sangue em sua direção. "Droga tudo ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>You hear an exasperated cry to the west, turning to see the [url=glossary:unbroken]Unbroken[/url] soldiers glancing in your direction with alarm. The bridge sentry gives you a disapproving glare but signals his men to stand down, unwilling to confront you over the loss of two enemy captives.</DefaultText>
+      <DefaultText>Você ouve um grito exasperado para o oeste, virando-se para ver os soldados olhando em sua direção com alarme. A sentinela da ponte lhe dá um olhar de desaprovação, mas sinaliza aos seus homens que se levantem, não querendo confrontá-lo com a perda de dois prisioneiros inimigos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

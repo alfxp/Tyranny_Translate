@@ -1,92 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_cv_edict_device_activation</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>The orb in the center of the resonator spins with the push of some unseen force. Where the structure once exuded warmth, now it gives off a ferocious heat that singes your face the longer you stare into it. A sound like music swarms in the air around the structure, but it's painful and disharmonious to your ears. </DefaultText>
+      <DefaultText>O orbe no centro do ressonador gira com o impulso de alguma força invisível. Onde a estrutura uma vez exalava calor, agora libera um calor feroz que canta seu rosto quanto mais você olha para ele. Um som como a música enche o ar ao redor da estrutura, mas é doloroso e desarmonioso para os seus ouvidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>The umbilical between you and the resonator conducts the energy like a white-hot chain. It's feeding you something you hardly understand, and doubt you could contain. The pain is severe, like a ball of hot iron forming in your chest, and you know that it has to be released before it threatens to consume you.</DefaultText>
+      <DefaultText>O umbilical entre você e o ressonador conduz a energia como uma corrente incandescente. Está te alimentando com algo que você dificilmente entende, e duvido que você possa conter. A dor é severa, como uma bola de ferro quente se formando em seu peito, e você sabe que tem que ser liberada antes que ela consuma seu consumo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Shielding himself from the heat, Lantry has to shout above the discordant music. "The energies of this place are swirling about you alone. Can't you feel it? Can't you... can't you hear that damnable music!" He claws at the back of his head.
+      <DefaultText>Protegendo-se do calor, Lantry tem que gritar acima da música discordante. "As energias deste lugar estão girando em torno de você sozinho. Você não pode sentir isso? Você não pode ... você não pode ouvir essa música condenável!" Ele agarra a parte de trás da cabeça.
 
-"Do you feel anything different? The energy seems focused on you... does it hurt?"</DefaultText>
+"Você sente algo diferente? A energia parece focada em você ... doeu?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Well, this is shit!" Sirin has to shout over the disharmonious music. "You'd think a Spire would know some better songs, but I guess there's no accounting for taste." 
+      <DefaultText>"Bem, isso é uma merda!" Sirin tem que gritar sobre a música desarmoniosa. "Você pensaria que um Spire conheceria algumas músicas melhores, mas eu acho que não há explicação para o gosto."
 
-She refocuses on you with a mixed expression. "You do realize that the energies of this place are all centered on you? I don't know what makes you so special."</DefaultText>
+Ela se concentra em você com uma expressão mista. "Você percebe que as energias deste lugar estão todas centradas em você? Eu não sei o que te faz tão especial."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"You probably know more about what's going on than I do, but..." she plugs her ears to block the discordant music from the Spire, "I hate this! Isn't there anything you can do to stop it?" 
+      <DefaultText>"Você provavelmente sabe mais sobre o que está acontecendo do que eu, mas ..." ela liga os ouvidos para bloquear a música discordante do Pináculo, "Eu odeio isso! Não há nada que você possa fazer para pará-lo?"
 
-She pauses and cocks her head. "The Spire... it's stuffing you with power. Really force-feeding it in. Don't you feel that?"</DefaultText>
+Ela faz uma pausa e inclina a cabeça. "O Pináculo ... está enchendo você de poder. Realmente forçando isso. Você não sente isso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"By [url=glossary:kyros]Kyros[/url]' hairy backside!" Eb covers her ears and takes a step back from the structure at the center of the Spire. "That music! It's awful... feels like my teeth are ripping their way out of my mouth. Don't you hear it?" She attempts to sign a rune, only to see her pattern fizzle into steam. 
+      <DefaultText>"Por [url=glossary:kyros]Kyros[/url] 'parte traseira peluda!" Eb cobre as orelhas e dá um passo para trás da estrutura no centro do Pináculo. "Aquela música! É horrível ... parece que meus dentes estão saindo da minha boca. Você não ouviu?" Ela tenta assinar uma runa, apenas para ver seu padrão se transformar em vapor.
 
-"And it's your name! Listen real close and it's your name said over and over until it's just one mystic wail."</DefaultText>
+"E é o seu nome! Ouça bem de perto e seu nome é dito repetidamente até que seja apenas um lamento místico."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Kills-in-Shadow snaps and snarls at the air, momentarily pained by the pitch of the Spire's song. She cracks her spine and pops her shoulders, shifting uncomfortably on her bare, calloused feet.
+      <DefaultText>Kills-in-Shadow snaps e rosna no ar, momentaneamente aflito com o tom da canção do Spire. Ela quebra a espinha e estala os ombros, deslocando-se desconfortavelmente sobre os pés nus e calejados.
 
-"Do not like Spire's howling. Sounds of slithering Scourges, of many and more Bane - chasing and biting at Beastwoman's heels."
+"Não gosto de uivar de Spire. Sons de flagelos escorregadios, de muitos e mais Bane - perseguindo e mordendo os saltos de Beastwoman."
 
-She tilts her face toward the sky, dusky snout sniffing side to side, eyes squeezed shut, and her purpled lips peel back in a satisfied smirk. 
+Ela inclina o rosto para o céu, o focinho escuro farejando de um lado para o outro, os olhos bem fechados, e os lábios purpúreos se retraem num sorriso satisfeito.
 
-"But can smell - song is making Alpha stronger, yep?" </DefaultText>
+"Mas pode cheirar - a música está tornando o Alpha mais forte, sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Argh!" Barik tries to block his ears from the discordant music of the Spire, but only succeeds in rattling his head under his helmet. "It feels like Stalwart all over again! That sound... the [url=glossary:edict]Edict[/url] of Storms..." He turns to you wearing a look of bewilderment. "Don't you hear it?! The power, it's..." His hands drop to his sides. "It's all funneling into..." 
+      <DefaultText>"Argh!" Barik tenta bloquear seus ouvidos da música discordante do Pináculo, mas só consegue sacudir a cabeça sob o capacete. "Parece Stalwart mais uma vez! Aquele som ... o [url=glossary:edict]Edict[/url] de Tempestades ..." Ele vira para você com um olhar de perplexidade. "Você não ouviu ?! O poder, é ..." Suas mãos caem para os lados. "Está tudo afunilando em ..."
 
-"Fatebinder, the Spire is acting like you're the eye of a great cyclone."</DefaultText>
+"Fatebinder, o Spire está agindo como se você fosse o olho de um grande ciclone."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Bank Node 9</DefaultText>
+      <DefaultText>Nó do banco 9</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>The Spire is now fully awake, its long-dormant currents of energy dance to your presence.</DefaultText>
+      <DefaultText>O Spire está agora totalmente desperto, suas correntes de energia há muito adormecidas dançam à sua presença.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>The Edicts you've encountered crowd into your immediate memory like an invasion force, suppressing all thought or reason. They come unbidden - yet they're insistent on making themselves known to you. 
+      <DefaultText>Os Editos que você encontrou se aglomeram em sua memória imediata como uma força de invasão, suprimindo todo pensamento ou razão. Eles vêm espontaneamente - mas insistem em se fazer conhecidos para você.
 
-As incredible and unbelievable as the idea may seem, you know that you could cast an [url=glossary:edict]Edict[/url] if you tried.</DefaultText>
+Por incrível e inacreditável que a idéia possa parecer, você sabe que você poderia lançar um [url=glossary:edict]Edict[/url] se você tentasse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>The [url=glossary:edict]Edict[/url] you've encountered crowds into your immediate memory like an invasion force, suppressing all thought or reason. It comes unbidden - yet it's insistent on making itself known to you. 
+      <DefaultText>O [url=glossary:edict]Edict[/url] você encontrou multidões em sua memória imediata como uma força de invasão, suprimindo todo pensamento ou razão. Ele vem espontaneamente - mas é insistente em se fazer conhecido para você.
 
-As incredible and unbelievable as the idea may seem, you know that you could cast an [url=glossary:edict]Edict[/url] if you tried.</DefaultText>
+Por incrível e inacreditável que a idéia possa parecer, você sabe que você poderia lançar um [url=glossary:edict]Edict[/url] se você tentasse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Trigger Conv Node 13</DefaultText>
+      <DefaultText>Nó Trigger Conv 13</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

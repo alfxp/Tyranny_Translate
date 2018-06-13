@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_cyril</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>A man dressed in simple weathered cloth sifts through a crate of forging tools, ingots of iron and an assortment of other odds and ends. 
+      <DefaultText>Um homem vestido com tecido simples e desgastado peneira através de uma caixa de ferramentas de forjamento, lingotes de ferro e uma variedade de outras probabilidades e fins.
 
-His face lights up once he sees you approach. "Come closer friend, I have wonders to sell!" He gestures to the various other crates strewed about haphazardly. "Would you care to take a look at my wares?"</DefaultText>
+Seu rosto se ilumina quando ele vê você se aproximando. "Venha mais perto amigo, eu tenho maravilhas para vender!" Ele gesticula para os vários outros caixotes espalhados ao acaso. "Você se importaria de dar uma olhada nos meus produtos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Cyril bows deeply before you. "Welcome back."</DefaultText>
+      <DefaultText>Cyril se curva profundamente diante de você. "Bem vindo de volta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Let me see what you have for sale."</DefaultText>
+      <DefaultText>"Deixe-me ver o que você tem à venda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,27 +28,27 @@ His face lights up once he sees you approach. "Come closer friend, I have wonder
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Right this way, my good friend."</DefaultText>
+      <DefaultText>"Assim, meu bom amigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>He motions off towards the road leading out of town. "Left by way of Ironhaul Trail, they were in a bit of hurry for some reason." He looks back to you with a toothy smile. "I merely offered them my services in relieving their load. Give these fine samples of craftsmanship new homes."</DefaultText>
+      <DefaultText>Ele se dirige para a estrada que sai da cidade. "À esquerda por Ironhaul Trail, eles estavam com um pouco de pressa por algum motivo." Ele olha de volta para você com um sorriso cheio de dentes. "Eu apenas ofereci meus serviços para aliviar sua carga. Dê a estas belas amostras de artesanato novos lares."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"What happened to the [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <DefaultText>"O que aconteceu com o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"I've studied the arts of forging myself, and I know no good forge-master would leave their best work behind - These are mere scraps."</DefaultText>
+      <DefaultText>"Eu estudei as artes de me forjar, e sei que nenhum bom mestre de forja deixaria seu melhor trabalho para trás - Estes são meros recortes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Beads of sweat begins to emerge across his forehead. His voices hushes "Listen, I'll give you a discount if you keep this between you and me. I just found this junk lying around - I don't have a clue how much half of this should sell for."</DefaultText>
+      <DefaultText>Grânulos de suor começam a surgir em sua testa. Suas vozes silenciam "Escute, eu lhe darei um desconto se você manter isso entre você e eu. Eu acabei de encontrar esse lixo por aí - eu não tenho idéia de quanto metade disso deve vender."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

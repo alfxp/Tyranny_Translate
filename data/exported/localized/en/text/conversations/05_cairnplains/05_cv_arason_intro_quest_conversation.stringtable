@@ -1,244 +1,244 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_cv_arason_intro_quest_conversation</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>45</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"How do you do, Fatebinder? It's a great day in [Plainsgate], isn't it?"</DefaultText>
+      <DefaultText>"Como vai você, Fatebinder? É um ótimo dia em [Plainsgate], não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"What can this rickety old man do for you?"</DefaultText>
+      <DefaultText>"O que esse velho frágil pode fazer por você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"What exactly do you do here in town?"</DefaultText>
+      <DefaultText>"O que exatamente você faz aqui na cidade?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Anything important going on in town?"</DefaultText>
+      <DefaultText>"Alguma coisa importante acontecendo na cidade?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Well, I'm your man for anything you need. Weapons? Got a few that work. [url=glossary:armor]Armor[/url]? Long as you like it nicked. Need a sheep? I got sheep."
+      <DefaultText>"Bem, eu sou seu homem para qualquer coisa que você precisa. Armas? Tem alguns que funcionam. [url=glossary:armor]Armor[/url]? Contanto que você goste roubado. Precisa de uma ovelha? Eu tenho ovelhas."
 
-"I also trade in relics, but haven't got my hands on a good one in a long while. Although... maybe you could change that."</DefaultText>
+"Eu também negocio em relíquias, mas não tenho as minhas mãos boas em um longo tempo. Embora ... talvez você possa mudar isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"When Azure split into the [url=glossary:stone sea]Stone Sea[/url], the plains surged about, instantly ravaged. A lot of people got swallowed. A lot of settlements got spit out. Now, it's a sad history, but the rest of us - we've got to live on. Draw our own destinies." 
+      <DefaultText>"Quando o Azure se dividiu no [url=glossary:stone sea]Stone Sea[/url], as planícies surgiram, imediatamente devastadas. Muitas pessoas foram engolidas. Muitos assentamentos foram cuspidos. Agora, é uma história triste, mas o resto de nós - temos que viver desenhe nossos próprios destinos ".
 
-Arason rubs his shaking and gnarled, liver-spotted hands together. He licks dry, chapped lips.
+Arason esfrega suas mãos trêmulas e retorcidas, manchadas de fígado. Ele lambe os lábios secos e rachados.
 
-"You've heard of the Everwell, haven't you? Well, it's rumored to have recently surfaced in the [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
+"Você já ouviu falar do Everwell, não é? Bem, há rumores de ter surgido recentemente no [url=glossary:stone sea]Stone Sea[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Not only is it bejeweled, but the Everwell's a relic of arcane origins. Every Azurian knows the tales of the blue inkwell that never ran dry, that disappeared in a splash of stone during the [url=glossary:edict]Edict[/url]. Should think the Sages would pay a pretty penny for such a fine tool. Find it, and we'll be swimming in ink and rings."</DefaultText>
+      <DefaultText>"Não só é bejeweled, mas o Everwell é uma relíquia de origens arcanas. Todo Azuriano conhece os contos do tinteiro azul que nunca secou, ​​que desapareceu em um esguicho de pedra durante o [url=glossary:edict]Edict[/url]. Deve pensar que os Sábios pagariam um lindo centavo para uma ferramenta tão boa, encontre-a e vamos nadar em tinta e anéis. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"And don't forget, Fatebinder - you find it. You bring it to me. Was my knowledge that set you on the search."</DefaultText>
+      <DefaultText>"E não esqueça, Fatebinder - você encontra. Você traz para mim. Foi o meu conhecimento que te colocou na busca."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"All right, I'm intrigued. Where do I search?"</DefaultText>
+      <DefaultText>"Tudo bem, estou intrigado. Onde eu procuro?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Some other time."</DefaultText>
+      <DefaultText>"Em alguma outra hora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"If these ears heard true, you ought to start in Stone Down. This'll be good, you'll see. I've never peddled an enchanted item of such power before. I heard once that the Everwell was spilled and damn near sprang a lake before it could be righted."</DefaultText>
+      <DefaultText>"Se esses ouvidos ouviram a verdade, você deveria começar em Stone Down. Isso vai ser bom, você vai ver. Eu nunca tropiquei um item encantado de tal poder antes. Eu ouvi uma vez que o Everwell foi derramado e maldito perto saltou um lago antes que pudesse ser corrigido ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"No, not really. The population's withered like a dry vine, but business keeps steady enough. There's plenty of travelers who pass by on their way to Azure's plains."</DefaultText>
+      <DefaultText>"Não, na verdade não. A população está definhada como uma videira seca, mas os negócios mantêm-se estáveis. Há muitos viajantes que passam a caminho das planícies de Azure."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Why has the population dwindled?"</DefaultText>
+      <DefaultText>"Por que a população diminuiu?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"You mean the Sea's floor? How many of these travelers do you ever see again?"</DefaultText>
+      <DefaultText>"Você quer dizer o chão do mar? Quantos desses viajantes você vê de novo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"I'd like to talk about something else."</DefaultText>
+      <DefaultText>"Eu gostaria de falar sobre outra coisa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Azure's not the safest place to live no more. Most folks in [Plainsgate] died or fled during the tumult, though admittedly we didn't get the brunt of it. Anyway, those that were left soon turned eye to the riches scattered on the [url=glossary:stone sea]Stone Sea[/url]'s floor." 
+      <DefaultText>"Azure não é o lugar mais seguro para viver. A maioria das pessoas em [Plainsgate] morreu ou fugiu durante o tumulto, apesar de admitir que não recebemos o peso disso. De qualquer forma, aqueles que foram deixados em breve olharam para as riquezas espalhadas em o piso [url=glossary:stone sea]Stone Sea[/url] ".
 
-The old man scratches a spindly shoulder.
+O velho coça um ombro magro.
 
-"Few keep around long enough to settle the city these days."</DefaultText>
+"Poucos ficam por perto tempo suficiente para colonizar a cidade hoje em dia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Not many. The [url=glossary:stone sea]Stone Sea[/url]'s floor is dangerous, and folks often perish while wading for lost treasures. Used to be farmland. A rolling, green bed as far as the eye could see. Fed the whole of the Realms."
+      <DefaultText>"Não muitos. O piso do [url=glossary:stone sea]Stone Sea[/url] é perigoso, e as pessoas muitas vezes perecem enquanto vagam por tesouros perdidos. Costumava ser terra de cultivo. Uma cama verde rolando até onde os olhos podiam ver. Alimentavam todos os Reinos."
 
-The old man shakes his head sadly. "Now look at her. Nothing but rock shards and ruin."</DefaultText>
+O velho balança a cabeça tristemente. "Agora olhe para ela. Nada além de estilhaços de pedra e ruína."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"How've you fared on your little relic hunt? Tell me straight now."</DefaultText>
+      <DefaultText>"Como você se saiu em sua pequena caça às relíquias? Me diga agora mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"I've found the Everwell. Here you go."</DefaultText>
+      <DefaultText>"Eu encontrei o Everwell. Aqui você vai."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"I'm still looking for it."</DefaultText>
+      <DefaultText>"Eu ainda estou procurando por isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Hmph, well, fine. But do get a leg on! An old geezer like me doesn't have so long to wait."</DefaultText>
+      <DefaultText>"Hmph, bem, tudo bem. Mas peguem uma perna! Um velho velhote como eu não tem tanto tempo para esperar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Oh, my stars... Fatebinder... look... look at it. It's... it's more beautiful than I could've imagined! Oh! Your reward! Yes, yes, of course."</DefaultText>
+      <DefaultText>"Oh, minhas estrelas ... Fatebinder ... olhe ... olhe para isso. É ... é mais bonito do que eu poderia ter imaginado! Oh! Sua recompensa! Sim, sim, é claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Take this, Fatebinder. Carefully, now. Mm, yes... Was a real boon doing business with you."</DefaultText>
+      <DefaultText>"Tome isso, Fatebinder. Cuidadosamente, agora. Mm, sim ... Foi uma verdadeira benção fazer negócios com você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Know anything about [url=glossary:cairn]Cairn[/url]'s defeat?"</DefaultText>
+      <DefaultText>"Sabe alguma coisa sobre a derrota do [url=glossary:cairn]Cairn[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"I heard the stories about [url=glossary:cairn]Cairn[/url]'s fall - heaving and hollering, doubled-over, and wracking the ground with every footstep. Eventually, he got down to crawling, moaning like a pregnant sow. Shuddered and fell flat at Howling Rock. That's when the ground tried to swallow him. City's been rumbling ever since."</DefaultText>
+      <DefaultText>"Eu ouvi as histórias sobre o outono - arfando e gritando, dobrando, e destruindo o chão a cada passo. Eventualmente, ele começou a rastejar, gemendo como uma porca prenhe. Estremeceu e caiu de joelhos em Howling Rock. Foi quando o O chão tentou engoli-lo. A cidade tem vindo a roncar desde então. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"How do I get to Howling Rock?"</DefaultText>
+      <DefaultText>"Como eu chego ao Howling Rock?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Don't know, Fatebinder! But I can direct you to Stone Down - the crossroads of the [url=glossary:stone sea]Stone Sea[/url]. It'll get you to just about anywhere else in the region... mostly."</DefaultText>
+      <DefaultText>"Não sei, Fatebinder! Mas eu posso direcioná-lo para Stone Down - a encruzilhada do [url=glossary:stone sea]Stone Sea[/url]. Ele vai levá-lo para praticamente qualquer outro lugar na região ... principalmente".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"The Everwell?! [url=glossary:kyros]Kyros[/url]' tit, what a treasure! You could pry the gems off for all I care, just imagine what I could do with an endless supply of ink!"</DefaultText>
+      <DefaultText>"O Everwell ?! [url=glossary:kyros]Kyros[/url] 'tit, que tesouro! Você poderia arrancar as gemas de tudo que eu me importo, imagine o que eu poderia fazer com um suprimento infinito de tinta!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"The way I heard the tale, the Everwell was originally made by the Sages, but in 238, [url=glossary:sage]Sage[/url] Parsing Lark offended the Queen of Azure on a visit and never came back alive. Since the Everwell happened to be close enough to Azure in color to amuse the Queen, she kept the relic for herself, then used it to write the Sages a thank you note for the gift. We stole it back in 246, then somehow lost it again in 350 in what I can assume is a manner so humiliating and dimwitted that my brethren couldn't bring themselves to note why in the histories..."</DefaultText>
+      <DefaultText>"A forma como eu ouvi o conto, o Everwell foi originalmente feito pelos Sábios, mas em 238, [url=glossary:sage]Sage[/url] Parsing Lark ofendeu a Rainha do Azure em uma visita e nunca mais voltou vivo. Desde que o Everwell por acaso estava perto o suficiente do Azure em cores para divertir a Rainha, ela guardou a relíquia para si mesma, depois a usou para escrever aos sábios uma nota de agradecimento pelo presente.Nós a roubamos em 246, e de alguma forma a perdemos de novo em 350, no que posso supor ser uma maneira humilhante e mal-humorado que meus irmãos não conseguiram notar por que nas histórias ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"I'll get the Everwell for you. Where do I search?"</DefaultText>
+      <DefaultText>"Eu vou pegar o Everwell para você. Onde eu procuro?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Welcome back, Fatebinder!"</DefaultText>
+      <DefaultText>"Bem-vindo de volta, Fatebinder!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"What can you tell me about the Spires in the region? I imagine you have dealings with travelers from those areas?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre os Spires na região? Eu imagino que você tenha relações com viajantes dessas áreas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Can't say I know much about them per se, I do however come across some... interesting... items from those parts now and again."</DefaultText>
+      <DefaultText>"Não posso dizer que eu saiba muito sobre eles em si, mas eu me deparo com alguns ... interessantes ... itens dessas partes de vez em quando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"That fella hasn't been back since. Said he was heading out to Stone Down. So, can't really ask him questions about it unfortunately. But may be worth having a look at."</DefaultText>
+      <DefaultText>"Esse cara não voltou desde então. Disse que estava indo para Stone Down. Então, não pode realmente fazer perguntas sobre isso, infelizmente. Mas pode valer a pena dar uma olhada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"For example just last week I had someone sell me a charcoal rubbing that was taken from inside one of the spires."</DefaultText>
+      <DefaultText>"Por exemplo, na semana passada eu tive alguém me vendendo um carvão esfregando que foi tirado de dentro de uma das torres."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"The [url=glossary:scarlet chorus]Scarlet Chorus[/url] nearly snuffed out the little spirit the people of [Plainsgate] had left since the blight began. I can see a glimmer of hope returning to them now. I'd like to show my gratitude by offering you a special price on all my wares, Fatebinder."</DefaultText>
+      <DefaultText>"O [url=glossary:scarlet chorus]Scarlet Chorus[/url] quase apagou o pequeno espírito que o povo de [Plainsgate] tinha deixado desde que a praga começou. Eu posso ver um vislumbre de esperança retornando a eles agora. Eu gostaria de mostrar minha gratidão oferecendo-lhe um preço especial em todos minhas mercadorias, Fatebinder ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>The old man turns to greet you before suddenly falling silent at the sight of the shield by your side. "I-I apologize Fatebinder, but words escape me... Is that what I think it is?"</DefaultText>
+      <DefaultText>O velho vira-se para cumprimentá-lo antes de se calar de repente ao ver o escudo ao seu lado. "Eu-eu peço desculpas ao Fatebinder, mas as palavras me escapam ... É isso que eu acho que é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Yes, I've taken it back from the beastmen."</DefaultText>
+      <DefaultText>"Sim, eu peguei de volta dos homens-fera."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Oh, this old thing?"</DefaultText>
+      <DefaultText>"Oh, essa coisa velha?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>A single tear drop forms in his eyes. "The stories never did it justice. The Kingdom of Azure had acquired many relics in their time, but none surpassed the beauty of that shield at your side. You would do well to keep it close - that shield has protected many a great warrior in its time."</DefaultText>
+      <DefaultText>Uma única lágrima se forma em seus olhos. "As histórias nunca fizeram justiça. O Reino de Azure tinha adquirido muitas relíquias em seu tempo, mas nenhuma superou a beleza daquele escudo ao seu lado. Você faria bem em mantê-lo perto - esse escudo protegeu muitos grandes guerreiros está na hora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Old what?!" The man struggles to collect his senses. "That old thing just so happens to be the Azure Shield, the fabled artifact of the Kingdom of Azure!" He shakes his head. "I don't know how you stumbled across it, but I'd take great care of it. You wield years of history at your side."</DefaultText>
+      <DefaultText>"Velho o que ?!" O homem se esforça para recolher seus sentidos. "Aquela coisa velha acontece de ser o Escudo Azul, o fabuloso artefato do Reino de Azure!" Ele sacode a cabeça. "Eu não sei como você tropeçou nisso, mas eu tomaria muito cuidado com isso. Você tem anos de história ao seu lado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"The people of [Plainsgate] aren't known for their welcome. Hard to blame someone whose been beat down their whole life. But since the quakes stopped, I've seen a warmth emerge in this town that I'd almost forgotten existed."</DefaultText>
+      <DefaultText>"As pessoas de [Plainsgate] não são conhecidas por suas boas-vindas. Difícil culpar alguém que foi derrotado a vida toda. Mas desde que os terremotos pararam, eu vi um calor surgir nesta cidade que eu quase esqueci que existia. "</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

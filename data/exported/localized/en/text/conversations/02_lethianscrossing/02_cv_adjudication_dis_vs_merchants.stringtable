@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_adjudication_dis_vs_merchants</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>45</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"... and you know the law. These products are contraband. You are not allowed to bring them into or sell them in [url=glossary:lethian's crossing]Lethian's Crossing[/url]."</DefaultText>
+      <DefaultText>"... e você conhece a lei. Esses produtos são contrabandeados. Você não pode trazê-los ou vendê-los em [url=glossary:lethian's crossing]Lethian's Crossing[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"You can't do this to me!"</DefaultText>
+      <DefaultText>"Você não pode fazer isso comigo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"If you bring me into this, you must abide by my decision. Do you both agree?"</DefaultText>
+      <DefaultText>"Se você me trouxer para isso, você deve seguir minha decisão. Vocês concordam?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Of course I do! I am in the right and I know you will see things my way."</DefaultText>
+      <DefaultText>"Claro que sim! Estou certo e sei que você verá as coisas do meu jeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"I will abide by your decision, Fatebinder."</DefaultText>
+      <DefaultText>"Eu vou respeitar a sua decisão, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"I am ready to make my decision. Do either of you have anything else to say?"</DefaultText>
+      <DefaultText>"Estou pronto para tomar minha decisão. Algum de vocês tem mais alguma coisa a dizer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Please, Fatebinder, I need you to make a ruling before they take my goods!"</DefaultText>
+      <DefaultText>"Por favor, Fatebinder, eu preciso que você tome uma decisão antes de pegar minhas mercadorias!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,32 +66,32 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"We merely wish to sell these items here in town. The goods themselves are not against the law and there is nothing wrong with them, but Aulus is trying to confiscate them."</DefaultText>
+      <DefaultText>"Nós apenas desejamos vender esses itens aqui na cidade. Os produtos em si não são contra a lei e não há nada de errado com eles, mas Aulo está tentando confiscá-los."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"He is attempting to bring goods in obtained from illegal sources. We do not allow Chorus-bought products to be sold in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. This policy is well-known. He should not be surprised that we are taking his goods."</DefaultText>
+      <DefaultText>"Ele está tentando trazer mercadorias obtidas de fontes ilegais. Nós não permitimos que os produtos comprados com coro sejam vendidos em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Esta política é bem conhecida. Ele não deve se surpreender que estamos levando seus produtos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Where we got them is of no consequence. The goods themselves are not illegal and are needed in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. The petty feud between the [url=glossary:disfavored]Disfavored[/url] and the [url=glossary:scarlet chorus]Scarlet Chorus[/url] has no bearing in this transaction."</DefaultText>
+      <DefaultText>"Onde nós os temos é de nenhuma conseqüência. Os bens não são ilegais e são precisados ​​em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. A contenda mesquinha entre o [url=glossary:disfavored]Disfavored[/url] e o [url=glossary:scarlet chorus]Scarlet Chorus[/url] não tem nenhum rolamento nesta transação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Purchase and sale of items from both the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] are illegal. The law is the law. Just because someone doesn't agree with the law doesn't mean they can ignore it."</DefaultText>
+      <DefaultText>"Compra e venda de itens de ambos os [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] e [url=glossary:scarlet chorus]Scarlet Chorus[/url] são ilegais. A lei é a lei. Só porque alguém não concorda com a lei não significa que eles podem ignorá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"These goods can benefit the people of [url=glossary:lethian's crossing]Lethian's Crossing[/url] and it will be a waste to destroy them. We should be allowed to sell them here."</DefaultText>
+      <DefaultText>"Estes bens podem beneficiar as pessoas de [url=glossary:lethian's crossing]Lethian's Crossing[/url] e será um desperdício para destruí-los. Devemos ser autorizados a vendê-los aqui".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"These goods were obtained through illegal means. They should be confiscated. They are breaking the law, everything else is irrelevant."</DefaultText>
+      <DefaultText>"Estes bens foram obtidos através de meios ilegais. Eles devem ser confiscados. Eles estão infringindo a lei, todo o resto é irrelevante".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,82 +106,82 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Lorent can keep his goods and sell them in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. While his sources may be suspect, the goods themselves are fine and will benefit the town."</DefaultText>
+      <DefaultText>"Lorent pode manter seus bens e vendê-los em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Enquanto suas fontes podem ser suspeitas, os próprios produtos são bons e irão beneficiar a cidade".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Aulus may take the goods. They were obtained illegally. Let this be a lesson to those who would distribute improperly-procured goods."</DefaultText>
+      <DefaultText>"Aulus pode levar os bens. Eles foram obtidos ilegalmente. Que isso seja uma lição para aqueles que distribuiriam bens adquiridos indevidamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"The goods will not be confiscated,  but will instead be distributed to the townsfolk for free."</DefaultText>
+      <DefaultText>"As mercadorias não serão confiscadas, mas serão distribuídas gratuitamente aos habitantes da cidade".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"What? I don't underst...Oh. You're working me. Really? Is that how this works? Somehow I thought the Fatebinder would be more honest. Well, if this is what I need to do - here you go."</DefaultText>
+      <DefaultText>"O que? Eu não entendo ... Oh. Você está trabalhando comigo. É mesmo? É assim que funciona? De alguma forma eu pensei que o Fatebinder seria mais honesto. Bem, se é isso que eu preciso fazer - aqui você ir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"You sully your title with such petty demands, Fatebinder. I will not pay you to choose the right path."</DefaultText>
+      <DefaultText>"Você mancha seu título com exigências tão mesquinhas, Fatebinder. Eu não vou te pagar para escolher o caminho certo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"But Fatebinder! You said you would rule in my favor!"</DefaultText>
+      <DefaultText>"Mas Fatebinder! Você disse que iria decidir a meu favor!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Thank you, Fatebinder. We are done here."</DefaultText>
+      <DefaultText>"Obrigado, Fatebinder. Nós terminamos aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Compounding questionable activity on top of questionable activity does not make it right. Next time you will think twice before you act."</DefaultText>
+      <DefaultText>"A combinação de atividades questionáveis ​​sobre atividades questionáveis ​​não acerta. Da próxima vez, você pensará duas vezes antes de agir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"But Fatebinder! How can this be?"</DefaultText>
+      <DefaultText>"Mas Fatebinder! Como isso pode ser?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Thank you, Fatebinder. It is good to see saner heads prevailed today."</DefaultText>
+      <DefaultText>"Obrigado, Fatebinder. É bom ver que cabeças mais sãs prevaleceram hoje."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Script Node 32</DefaultText>
+      <DefaultText>Nó de Script 32</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Thank you for your adjudication, Fatebinder. I think we have both learned a lesson today."</DefaultText>
+      <DefaultText>"Obrigado pela sua adjudicação, Fatebinder. Acho que nós dois aprendemos uma lição hoje."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"It's robbery! That's the issue here! This 'soldier' stopped me and is going to confiscate my goods. I need you to adjudicate."</DefaultText>
+      <DefaultText>"É assalto! Essa é a questão aqui! Esse 'soldado' me parou e vai confiscar meus bens. Preciso que você decida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Fatebinder, your assistance, please! I need your help before this brute takes my belongings!"</DefaultText>
+      <DefaultText>"Fatebinder, sua ajuda, por favor! Eu preciso da sua ajuda antes que este bruto leve meus pertences!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"What is the issue here?"</DefaultText>
+      <DefaultText>"Qual é o problema aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"You know this situation is not that simple, Lorent, but if you wish to petition for adjudication, I will present my case to the Fatebinder."</DefaultText>
+      <DefaultText>"Você sabe que esta situação não é tão simples assim, Lorent, mas se você quiser pedir uma sentença, apresentarei meu caso ao Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,32 +196,32 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Fine. If this is way we must handle business to keep order, I will relent. Here is my 'addition.'"</DefaultText>
+      <DefaultText>"Tudo bem. Se é assim que devemos lidar com os negócios para manter a ordem, vou me arrepender. Aqui está minha 'adição'".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"If I had known this is how adjudication works, I would have found another way to keep my goods. Fine. Maybe this will change your mind."</DefaultText>
+      <DefaultText>"Se eu soubesse que é assim que a adjudicação funciona, eu teria encontrado outra maneira de manter minhas mercadorias. Tudo bem. Talvez isso mude de idéia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"It is a shame that such blatant disregard of the law is allowed, but I swore to stand by your ruling. So be it, Fatebinder."</DefaultText>
+      <DefaultText>"É uma pena que tal desrespeito flagrante da lei seja permitido, mas eu jurei manter sua decisão. Assim seja, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"I suppose I shouldn't be surprised by this outcome. It serves me right for believing you had any honor after you asked for a bribe."</DefaultText>
+      <DefaultText>"Eu suponho que eu não deveria estar surpreso com este resultado. Isso me serve bem por acreditar que você teve alguma honra depois que você pediu por um suborno."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"We agreed to stand by the decision, Lorent, and so we shall. The Fatebinder has spoken. Move along."</DefaultText>
+      <DefaultText>"Nós concordamos em defender a decisão, Lorent, e assim faremos. O Fatebinder falou. Siga em frente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"I am an enforcer of the Archon of Justice. Once invoked, my ruling is final. Are you sure this what you want?"</DefaultText>
+      <DefaultText>"Eu sou um executor do Arconte da Justiça. Uma vez invocado, minha decisão é final. Tem certeza disso o que você quer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

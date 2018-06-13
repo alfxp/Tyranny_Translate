@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_oldwall_03_dropoff_vista</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"How many generations have passed since this place was built?"</DefaultText>
+      <DefaultText>"Quantas gerações se passaram desde que este lugar foi construído?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"I would give eight of my fingers to speak to someone alive when the Oldwalls were built."</DefaultText>
+      <DefaultText>"Eu daria oito dos meus dedos para falar com alguém vivo quando os Oldwalls foram construídos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Be mindful of your footing. One wrong step and..."</DefaultText>
+      <DefaultText>"Esteja atento ao seu pé. Um passo errado e ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"There's so much within these Oldwalls and we hardly understand a drop of it."</DefaultText>
+      <DefaultText>"Há tanto dentro destes Oldwalls e dificilmente entendemos uma gota disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Bank Node 11</DefaultText>
+      <DefaultText>Nó do banco 11</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Do not like slinking inside caves called Oldwalls. Can feel magic scratching in Beastwoman's skull. Makes Kills-in-Shadow grind own fangs."</DefaultText>
+      <DefaultText>"Não gosto de escorregar dentro de cavernas chamadas Oldwalls. Pode sentir a magia arranhando no crânio da Beastwoman. Faz com que o Kills-in-Shadow traga suas próprias presas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Look at the grandeur of this place. I can't even conceive of how it was all built!"</DefaultText>
+      <DefaultText>"Olhe para a grandeza deste lugar. Eu não posso nem imaginar como tudo foi construído!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,754 +1,754 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\0114_cv_janos</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>168</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>A soldier kneels behind the ruined parapets. You can tell by his raiment - old Stalwart gear - that he's an [url=glossary:unbroken]Unbroken[/url] soldier. He peers at you with a mixture of caution and curiosity.</DefaultText>
+      <DefaultText>Um soldado se ajoelha atrás dos parapeitos arruinados. Você pode dizer por sua vestimenta - velha roupa de Stalwart - que ele é um soldado [url=glossary:unbroken]Unbroken[/url]. Ele olha para você com uma mistura de cautela e curiosidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"You handle the Bane well enough, but what brings you to this forsaken place?" He pauses as recognition dawns in his eyes.</DefaultText>
+      <DefaultText>"Você lida com o Bane bem o suficiente, mas o que o traz a este lugar abandonado?" Ele faz uma pausa quando o reconhecimento aparece em seus olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"You're the Fatebinder of [url=glossary:tunon]Tunon[/url], are you not? Pretty far removed from your perch in [url=glossary:vendrien's well]Vendrien's Well[/url]. What brings you to Sentinel Stand?" He glances to the left and right. "Not the weather, I think."</DefaultText>
+      <DefaultText>"Você é o Fatebinder de [url=glossary:tunon]Tunon[/url], não é? Muito longe do seu poleiro em [url=glossary:vendrien's well]Vendrien's Well[/url]. O que o leva ao Stand da Sentinela?" Ele olha para a esquerda e para a direita. "Não o tempo, eu acho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Why are you here?"</DefaultText>
+      <DefaultText>"Por quê você está aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"You didn't help us with the Bane."</DefaultText>
+      <DefaultText>"Você não nos ajudou com o Bane."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Why I'm here is none of your concern."</DefaultText>
+      <DefaultText>"Por que eu estou aqui não é da sua conta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"I have come to end [url=glossary:kyros]Kyros[/url]' storms."</DefaultText>
+      <DefaultText>"Eu vim para acabar com [url=glossary:kyros]Kyros[/url] 'tempestades."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"I drew the short straw." He chuckles and shakes his head. "The [url=glossary:unbroken]Unbroken[/url] make a habit of patrolling the outer fortress in case the storm breaks or someone happens to emerge from the keep. If we could find a way to cross the windwall, we could take back Sentinel Stand and defend our country from a position of power."</DefaultText>
+      <DefaultText>"Eu desenhei a palha curta." Ele ri e balança a cabeça. "Os [url=glossary:unbroken]Unbroken[/url] têm o hábito de patrulhar a fortaleza exterior em caso de quebra da tempestade ou alguém que saia da torre. Se pudéssemos encontrar uma maneira de atravessar o paredão, poderíamos retirar o Sentinela e defender nosso país de uma posição de poder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"If you have business within Sentinel Stand Keep, I assure you that it won't be happening anytime soon." He nods in the general direction of the swirling winds. "[url=glossary:kyros]Kyros[/url]' anger has been raging without pause for the last year. It's bad enough that no one can enter or leave the inner keep." </DefaultText>
+      <DefaultText>"Se você tem negócios dentro do Sentinel Stand Keep, garanto que não vai acontecer tão cedo." Ele acena com a cabeça na direção geral dos ventos redemoinhos. "[url=glossary:kyros]Kyros[/url] 'a raiva tem estado em fúria sem pausa durante o ano passado. Já é ruim o suficiente que ninguém possa entrar ou sair da fortaleza interna."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Now that is a claim I don't often hear." He worries his jaw in appraisal. "You seem mad enough to try, though I wonder how anyone could defeat a storm..." </DefaultText>
+      <DefaultText>"Agora isso é uma afirmação que eu não ouço freqüentemente." Ele preocupa sua mandíbula em avaliação. "Você parece louco o suficiente para tentar, embora eu me pergunte como alguém poderia derrotar uma tempestade ..."</DefaultText>
       <FemaleText>"Now that is a claim I don't often hear." He worries his jaw in appraisal. "You seem mad enough to try, though I wonder how any single woman could defeat a storm." </FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Maybe not. But you seem intent on making your way to the inner keep, and that's just the sort of problem that grabs my attention." </DefaultText>
+      <DefaultText>"Talvez não. Mas você parece decidido a abrir caminho até a fortaleza interior, e esse é o tipo de problema que me chama a atenção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"True enough. You'd do well to remember that I'm a scout, and good scouts stay out of unnecessary fights." He sniffs. "Especially those with questionable allies. No offense intended." </DefaultText>
+      <DefaultText>"É verdade. Você faria bem em lembrar que eu sou um batedor, e bons batedores ficam de fora de brigas desnecessárias." Ele cheira. "Especialmente aqueles com aliados questionáveis. Nenhuma ofensa pretendida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"The keep had enough provisions to fatten a garrison for the next century, not to mention feed those [url=glossary:disfavored]Disfavored[/url] prisoners. It stands to reason that Stalwart's last Regent is still alive in there." Janos squints at the distant tornado and shakes his head. "He's not the source of our problem, but he's at the center of it." </DefaultText>
+      <DefaultText>"A fortaleza tinha provisões suficientes para engordar uma guarnição para o próximo século, sem mencionar alimentar os prisioneiros. É lógico que o último regente de Stalwart ainda esteja vivo lá dentro." Janos aperta os olhos no distante tornado e balança a cabeça. "Ele não é a fonte do nosso problema, mas ele está no centro disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Why is the last Regent important?"</DefaultText>
+      <DefaultText>"Por que o último regente é importante?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"How can I get inside Sentinel Stand?"</DefaultText>
+      <DefaultText>"Como posso entrar na Bancada Sentinela?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>He laughs to himself, and flurries of dust cascade from his shoulders. "If I had an answer for you, would I be standing here, choking on rust?"</DefaultText>
+      <DefaultText>Ele ri para si mesmo e uma onda de poeira cai de seus ombros. "Se eu tivesse uma resposta para você, estaria aqui parado, engasgado com ferrugem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Some of us think there's a way. If you truly call yourself a friend of the [url=glossary:unbroken]Unbroken[/url], then make your way to Duskwatch Keep and speak with Captain Agathon. I think you're just the man he's been looking for."</DefaultText>
+      <DefaultText>"Alguns de nós acham que tem um jeito. Se você realmente se considera um amigo do [url=glossary:unbroken]Unbroken[/url], vá até Duskwatch Keep e fale com o Capitão Agathon. Acho que você é o homem que ele está procurando."</DefaultText>
       <FemaleText>"Some of us think there's a way. If you truly call yourself a friend of the [url=glossary:unbroken]Unbroken[/url], then make your way to Duskwatch Keep and speak with Captain Agathon. I think you're just the woman he's been looking for."</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>His friendly expression sours. "The Regents carried the bloodline of old Stalwart's ruling family. That link - any connection to the past, really - carries a lot of weight." He sniffs. "Maybe even too much."</DefaultText>
+      <DefaultText>Sua expressão amigável azeda. "Os Regentes carregavam a linhagem da família dominante de Stalwart. Esse elo - qualquer conexão com o passado, na verdade - carrega muito peso". Ele cheira. "Talvez até demais".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"To make matters worse, the bloodline is tied to [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url]. As long as they live, the storms will continue to tear apart our country. And the last of the Regents..." he points off toward the obscurity of the stormwall, "is trapped in there." </DefaultText>
+      <DefaultText>"Para piorar, a linhagem está ligada a [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url]. Enquanto eles vivem, as tempestades continuarão a rasgar o nosso país. E o último dos Regentes ...", aponta para a obscuridade da parede de tempestade "está preso lá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"What do the [url=glossary:unbroken]Unbroken[/url] want?"</DefaultText>
+      <DefaultText>"O que o [url=glossary:unbroken]Unbroken[/url] quer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Sentinel Stand used to be a seat of pride for the Regents of Stalwart. These days it's a wind-blasted ruin, but it could be made an unassailable fortress for the [url=glossary:unbroken]Unbroken[/url]... if we could just dispel these storms." He fingers the edge of a blade with longing. </DefaultText>
+      <DefaultText>"Sentinela costumava ser um lugar de orgulho para os regentes de Stalwart. Hoje em dia é uma ruína devastada pelo vento, mas poderia ser uma fortaleza inexpugnável para o [url=glossary:unbroken]Unbroken[/url] ... se pudéssemos dissipar essas tempestades." Ele enfia a ponta de uma lâmina com saudade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] envisions us groveling in supplication, slowly eroding our culture like details carved in stone. We will not accept the meek vision of Stalwart. If I am to die, it will happen upon the battlefield - defending our nation's future."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] nos vê rastejando em súplicas, erodindo lentamente nossa cultura como detalhes esculpidos em pedra. Não aceitaremos a visão mansa de Stalwart. Se eu morrer, isso acontecerá no campo de batalha - defendendo o futuro de nossa nação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"The area around Duskwatch is crawling with [url=glossary:graven ashe]Graven Ashe[/url]'s ironclads, so tread lightly. If you can help Agathon dispatch them, all the better. Here's to hoping our paths cross again." Janos turns and drops over the battlement's edge, disappearing into the storm.</DefaultText>
+      <DefaultText>"A área em torno do Duskwatch está cheia de blindados de ferro, então, pise levemente. Se você puder ajudar a Agathon a despachá-los, melhor ainda. Espero que nossos caminhos se cruzem novamente." Janos se vira e cai sobre a borda da muralha, desaparecendo na tempestade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"In any case, nothing ever comes of our patrols. Something of a fool's errand if you ask me. I'd be surprised if the storms calmed in my lifetime. No one holds a grudge like [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <DefaultText>"De qualquer forma, nada vem de nossas patrulhas. Algo de bobo, se você me perguntar. Eu ficaria surpreso se as tempestades se acalmassem na minha vida. Ninguém tem rancor como [url=glossary:kyros]Kyros[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"None taken." Verse finishes picking her teeth with a dagger and wipes it clean. </DefaultText>
+      <DefaultText>"Nenhuma tirada." O verso termina de apertar os dentes com um punhal e o limpa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"What was that about [url=glossary:disfavored]Disfavored[/url] prisoners?"</DefaultText>
+      <DefaultText>"O que foi isso sobre [url=glossary:disfavored]Disfavored[/url] prisioneiros?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Before the [url=glossary:edict]Edict[/url] of Storms hit us last year, a Stalwart patrol captured a company of [url=glossary:disfavored]Disfavored[/url]. I know at least some of the prisoners made it to Sentinel Stand. No one's been in contact with the keep since the [url=glossary:edict]Edict[/url] hit, but I have it on good authority that one of the prisoners was the daughter of [url=glossary:graven ashe]Graven Ashe[/url]." </DefaultText>
+      <DefaultText>"Antes do [url=glossary:edict]Edict[/url] de tempestades nos atingiu no ano passado, uma patrulha Stalwart capturou uma empresa de [url=glossary:disfavored]Disfavored[/url]. Eu sei que pelo menos alguns dos prisioneiros chegaram ao Sentinela Stand. Ninguém está em contato com a fortaleza desde o [url=glossary:edict]Edict[/url] hit, mas eu tenho em boa autoridade que um dos prisioneiros era a filha de [url=glossary:graven ashe]Graven Ashe[/url]. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"I'm no military strategist, but it doesn't take one to know that the Archon of War holds his troops in high esteem. The Regent trapped in Sentinel Stand wouldn't execute one without trying to barter a deal. So there's at least a chance that the prisoners are still alive, don't you think?" </DefaultText>
+      <DefaultText>"Eu não sou um estrategista militar, mas não é preciso saber que o Arconte da Guerra mantém suas tropas em alta estima. O Regente preso no Estande da Sentinela não executaria um sem tentar barganhar um acordo. Então há menos uma chance de que os prisioneiros ainda estejam vivos, não acha?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Straydus Herodin, the last Regent, is hiding behind [url=glossary:kyros]Kyros[/url]' windwall, pretending he still rules Stalwart-that-was. First chance I get, I'm plunging my blade into his heart and ending this [url=glossary:edict]Edict[/url] for good. Stalwart has suffered enough."</DefaultText>
+      <DefaultText>"Straydus Herodin, o último regente, está se escondendo atrás do muro do vento, fingindo que ainda governa Stalwart-that-was. Primeira chance que eu recebo, estou mergulhando minha lâmina em seu coração e terminando este [url=glossary:edict]Edict[/url] para o bem. Stalwart sofreu o suficiente "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Barik goes rigid and pointedly avoids your gaze. His armor creaks with subtle tension. </DefaultText>
+      <DefaultText>Barik fica rígido e intencionalmente evita seu olhar. Sua armadura range com uma tensão sutil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Barik, are you all right?"</DefaultText>
+      <DefaultText>"Barik, você está bem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Nothing, I... We can discuss it later." </DefaultText>
+      <DefaultText>"Nada, eu ... Podemos discutir isso depois."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Say the [url=glossary:unbroken]Unbroken[/url] get through the storms. How do they expect to breach the keep walls?"</DefaultText>
+      <DefaultText>"Digamos que o [url=glossary:unbroken]Unbroken[/url] atravesse as tempestades. Como eles esperam quebrar as paredes?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"It's no small challenge, true, but we've had a year to make preparations." He chuckles. "Our alchemists cobbled together a nasty and unstable powder that explodes when thrown in quantity. 'Stalwart Justice' I call it, though the name hasn't stuck."
+      <DefaultText>"Não é um desafio pequeno, é verdade, mas tivemos um ano para fazer os preparativos". Ele ri. "Nossos alquimistas reuniram um pó desagradável e instável que explodiu quando jogado em quantidade. 'Justiça Stalwart' eu o chamo, embora o nome não tenha ficado preso."
 
-"We have enough stockpiled to blow a hole in the Oldwalls if we set our minds to it." </DefaultText>
+"Temos estoque suficiente para abrir um buraco nos Oldwalls se nos concentrarmos nisso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"I see your point."</DefaultText>
+      <DefaultText>"Eu vejo o seu ponto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"So what's the problem? Leave the fortress and its occupants to rot."</DefaultText>
+      <DefaultText>"Então, qual é o problema? Deixar a fortaleza e seus ocupantes apodrecerem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"And wait for the Regent to die of old age, perhaps?" Janos chuckles. "I'm afraid we don't have the luxury of time on our side. We're in the middle of a war, and the storm alone has reduced our strength to a tenth of its former power. If we let these winds persist, there won't be anything left of Stalwart for even [url=glossary:kyros]Kyros[/url] to rule." </DefaultText>
+      <DefaultText>"E espere o regente morrer de velhice, talvez?" Janos ri. "Receio que não tenhamos o luxo do tempo do nosso lado. Estamos no meio de uma guerra, e só a tempestade reduziu nossa força a um décimo de seu poder anterior. Se deixarmos que esses ventos persistam, , não haverá nada de Stalwart para sequer [url=glossary:kyros]Kyros[/url] para governar. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"The way I always learned it - you get nowhere arguing with a storm, you get home by taking control of the currents below the waves while bending with the gusts above. You can thank me later for the profound epiphany you'll no doubt experience days from now when you look back on this moment and think 'her unsolicited wisdom was rivaled only by her cleavage.'"</DefaultText>
+      <DefaultText>"Do jeito que eu sempre aprendi - você não chega a lugar algum discutindo com uma tempestade, você chega em casa tomando o controle das correntes abaixo das ondas enquanto se inclina com as rajadas. Você pode me agradecer mais tarde pela profunda epifania que você sem dúvida experimentará. dias a partir de agora, quando você olhar para trás neste momento e pensar "sua sabedoria não solicitada foi rivalizado apenas por seu decote".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Cannot cross storm to reach den. Even iron-clad humans would not survive wind's cutting-claws."</DefaultText>
+      <DefaultText>"Não é possível atravessar a tempestade para alcançar a toca. Mesmo os humanos vestidos de ferro não sobreviveriam às garras cortantes do vento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Is that a... you travel with a Beastman?" Janos shakes his head in bewilderment.</DefaultText>
+      <DefaultText>"Isso é um ... você viaja com um Beastman?" Janos balança a cabeça, perplexo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Am not Beastman! Am Beastwoman. Am [url=glossary:bolverk]Bolverk[/url] to strongest human in Tiers-lands." She grins, baring her blade-sharp fangs. "Grovel to Kills-in-Shadow, human, and Beastwoman will forget having been provoked." </DefaultText>
+      <DefaultText>"Não sou Beastman! Sou Beastwoman. Sou [url=glossary:bolverk]Bolverk[/url] para humano mais forte em Tiers-lands". Ela sorri, mostrando suas presas afiadas. "Rastejar para Kills-in-Shadow, humano, e Beastwoman esquecerá de ter sido provocada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Of all the [url=glossary:younger realms]Younger Realms[/url], Stalwart's ruling order has always been the most resistant to internal conflict. The flippant answer is to say they're all unthinking zealots, but put yourself in their footsteps. For all they've known, the Regents have staved off all foreign invasions for centuries while every other realm in the Tiers cannot boast the same. That's a damn respectable reputation, so it's hard to fault the common folk for being so devoted to their dynasties."</DefaultText>
+      <DefaultText>"De todos os [url=glossary:younger realms]Younger Realms[/url], a ordem dominante de Stalwart sempre foi a mais resistente ao conflito interno. A resposta irreverente é dizer que eles são todos fanáticos irrefletidos, mas se colocam em seus passos. Por tudo o que eles sabem, os Regentes têm staved Todas as invasões estrangeiras durante séculos, enquanto todos os outros reinos nos níveis não podem ostentar o mesmo. Essa é uma reputação muito respeitável, por isso é difícil culpar as pessoas comuns por serem tão devotadas às suas dinastias ”.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"I'm gathering a coalition to stand against [url=glossary:kyros]Kyros[/url], and I seek to recruit the [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
+      <DefaultText>"Estou reunindo uma coalizão para lutar contra o [url=glossary:kyros]Kyros[/url], e procuro recrutar o [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"You're in the right place, but the only [url=glossary:unbroken]Unbroken[/url] who gather here are the unlucky scouts like myself who look at the windwall and wait for something to change." He nods over to the tornado. </DefaultText>
+      <DefaultText>"Você está no lugar certo, mas os únicos [url=glossary:unbroken]Unbroken[/url] que se reúnem aqui são os batedores desafortunados como eu, que olham para o paredão e esperam que algo mude". Ele acena para o tornado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"I'd love to help, but I don't exactly have the authority to speak for our alliance. Not yet, anyway. Even if I did, we have our hands full trying to reclaim Stalwart from the forces of [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <DefaultText>"Eu adoraria ajudar, mas eu não tenho exatamente a autoridade para falar pela nossa aliança. Ainda não, de qualquer maneira. Mesmo se eu fizesse isso, nós temos nossas mãos ocupadas tentando recuperar Stalwart das forças de [url=glossary:kyros]Kyros[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Would you lend your strength to our cause?"</DefaultText>
+      <DefaultText>"Você daria sua força à nossa causa?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"I could help you end [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Storms."</DefaultText>
+      <DefaultText>"Eu poderia te ajudar a acabar com [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] de Tempestades."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"I also want to enter Sentinel Stand and halt the [url=glossary:edict]Edict[/url] of Storms."</DefaultText>
+      <DefaultText>"Eu também quero entrar no Stand do Sentinel e suspender o [url=glossary:edict]Edict[/url] de Storms."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"What can I do to help the [url=glossary:unbroken]Unbroken[/url]?"</DefaultText>
+      <DefaultText>"O que posso fazer para ajudar o [url=glossary:unbroken]Unbroken[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Need us on your side that badly, do you?" Janos chuckles. "We're trying to reclaim our nation from [url=glossary:kyros]Kyros[/url] and the old Regent. Getting the [url=glossary:unbroken]Unbroken[/url] inside Sentinel Stand would be a step in the right direction."</DefaultText>
+      <DefaultText>"Precisa de nós do seu lado tão mal, não é?" Janos ri. "Estamos tentando recuperar a nossa nação de [url=glossary:kyros]Kyros[/url] e do antigo Regente. Obter o [url=glossary:unbroken]Unbroken[/url] dentro do Sentinel Stand seria um passo na direção certa".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"But Sentinel Stand is in no position to be breached. The fortress is blocked by yonder windwall." He nods to the swirling devastation behind you. "These storms have cursed our realm, and the inner keep is their focal point. Nothing but debris and the occasional tossed up femur comes or goes by that path." </DefaultText>
+      <DefaultText>"Mas a Base da Sentinela não está em posição de ser violada. A fortaleza está bloqueada por uma outra muralha de vento." Ele acena para a devastação rodopiante atrás de você. "Essas tempestades amaldiçoaram nosso reino, e a fortaleza interna é o seu ponto focal. Nada além de destroços e ocasionalmente o fêmur lançado vai ou vem por esse caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"You're telling me I came all this way for nothing?"</DefaultText>
+      <DefaultText>"Você está me dizendo que eu vim até aqui por nada?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Don't lose hope, impatient one. I'm sure you could sway the [url=glossary:unbroken]Unbroken[/url] to your cause, but we'll need something from you first - access to Sentinel Stand keep, and the old Regent who squats behind the walls in terror."</DefaultText>
+      <DefaultText>"Não perca a esperança, um impaciente. Tenho certeza que você poderia influenciar a sua causa, mas vamos precisar de algo de você primeiro - acesso ao Sentinela Stand keep, e ao velho Regente que se agacha atrás das paredes em terror." "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>He glances to you several times as if unsure how to directly address the enraged Beastwoman. Finally, he offers a curt nod as he checks the hilt of his sword. "N-no offense meant. Obviously."</DefaultText>
+      <DefaultText>Ele olha para você várias vezes, como se não tivesse certeza de como abordar diretamente a enfurecida Beastwoman. Finalmente, ele oferece um breve aceno quando ele verifica o punho de sua espada. "N-não ofensa significava. Obviamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"I'm here to kill Straydus Herodin for [url=glossary:graven ashe]Graven Ashe[/url]." </DefaultText>
+      <DefaultText>"Estou aqui para matar Straydus Herodin por [url=glossary:graven ashe]Graven Ashe[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"I'm looking for [url=glossary:graven ashe]Graven Ashe[/url]'s daughter, Amelia. Rumor has it she's inside."</DefaultText>
+      <DefaultText>"Estou procurando a filha do [url=glossary:graven ashe]Graven Ashe[/url], Amelia. Há rumores de que ela está dentro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Outside of Sentinel Stand, you'll find no love lost for our old Regent. I'll be damned if I see a servant of [url=glossary:kyros]Kyros[/url] finish the job for us, though. We've spent the last year itching for the opportunity to put Straydus to the sword."</DefaultText>
+      <DefaultText>"Fora do Sentinel Stand, você não encontrará nenhum amor perdido para o nosso antigo regente. Eu serei amaldiçoado se eu ver um servo de [url=glossary:kyros]Kyros[/url] terminar o trabalho para nós, no entanto. Nós passamos o último ano ansioso pela oportunidade de coloque Straydus na espada ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Is that so? The [url=glossary:scarlet chorus]Scarlet Chorus[/url] have mostly left this territory alone. It comes as some surprise that they would send troops into [url=glossary:disfavored]Disfavored[/url]-occupied lands to fetch one prisoner of war."
+      <DefaultText>"É isso mesmo? Os [url=glossary:scarlet chorus]Scarlet Chorus[/url] deixaram este território em sua maior parte sozinho. Surpreende-se que eles enviariam tropas para [url=glossary:disfavored]Disfavored[/url]-terras ocupadas para buscar um prisioneiro de guerra".
 
-"I can't imagine what [url=glossary:the voices of nerat]the Voices of Nerat[/url] wants out of Ashe's daughter. If he dispatched you to the task, she must be something special.</DefaultText>
+"Eu não posso imaginar o que a [url=glossary:the voices of nerat]the Voices of Nerat[/url] quer da filha de Ashe. Se ele despachou você para a tarefa, ela deve ser algo especial.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Throwing yourself into the windwall comes to mind. Take a few steps inside and see how long it takes for the wind to strip you down to a skeleton." 
+      <DefaultText>"Atirar-se no paredão vem à mente. Dê alguns passos para dentro e veja quanto tempo leva para o vento levá-lo até um esqueleto."
 
-"I'd love to stay and chat, but it's high time that I reported on your presence to my superior officer. Be seeing you, Fatebinder! Though you might not see me." 
+"Eu adoraria ficar e conversar, mas já é hora de eu relatar a sua presença para o meu oficial superior. Estar vendo você, Fatebinder! Embora você possa não me ver."
 
-He ducks behind the parapet and vanishes into the obscurity of the storm.</DefaultText>
+Ele se esconde atrás do parapeito e desaparece na obscuridade da tempestade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Damn that vain, Southern wretch!" Rativek spits. "The [url=glossary:unbroken]Unbroken[/url] know the territory better than us, and take every opportunity to flaunt it."
+      <DefaultText>"Droga, vândalo do sul!" Rativek cospe. "O [url=glossary:unbroken]Unbroken[/url] conhece o território melhor que nós e aproveita todas as oportunidades para exibi-lo."
 
-"What was that scout even doing here? Look, there's a corpse on the wall. Might bear a closer look. I can't tell from here, but I think it's wearing [url=glossary:disfavored]Disfavored[/url] colors." </DefaultText>
+"O que era aquele batedor fazendo aqui mesmo? Olha, tem um cadáver na parede. Pode dar uma olhada mais de perto. Eu não sei dizer a partir daqui, mas acho que está usando as cores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"I'm not stupid enough to give up our plans to some Chorus rats, even if the lives of anyone in Sentinel Stand mean less to me than the piss I took this morning." </DefaultText>
+      <DefaultText>"Eu não sou estúpida o suficiente para desistir de nossos planos para alguns ratos Chorus, mesmo que as vidas de qualquer um na Base da Sentinela signifiquem menos para mim do que a mijo que eu peguei esta manhã."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Mattias? I thought you were out in the field with..." He stops himself and frowns, regarding the former [url=glossary:unbroken]Unbroken[/url] captain with closer scrutiny. 
+      <DefaultText>"Mattias? Eu pensei que você estivesse no campo com ..." Ele se detém e franze as sobrancelhas, em relação ao ex-capitão do [url=glossary:unbroken]Unbroken[/url] com um exame mais minucioso.
 
-"I didn't expect to find you in the company of a Fatebinder."</DefaultText>
+"Eu não esperava encontrar você na companhia de um Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"I've joined the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. You may think me mad, but it's our only way to strike back at the [url=glossary:disfavored]Disfavored[/url] and liberate Stalwart from the old Regent."</DefaultText>
+      <DefaultText>"Eu me juntei ao [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Você pode me achar louco, mas é a única maneira de revidar o [url=glossary:disfavored]Disfavored[/url] e liberar o Stalwart do antigo Regent."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"I'm running with the [url=glossary:scarlet chorus]Scarlet Chorus[/url] now." He turns to you with fear in his eyes, then quickly refocuses back on the scout.
+      <DefaultText>"Estou correndo com o [url=glossary:scarlet chorus]Scarlet Chorus[/url] agora." Ele se vira para você com medo em seus olhos, depois se concentra rapidamente no batedor.
 
-"We were in an impossible situation. I had to choose between dying for my pride or looking after the lives of our people."</DefaultText>
+"Nós estávamos em uma situação impossível. Eu tive que escolher entre morrer pelo meu orgulho ou cuidar da vida de nosso povo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"I can't pretend to approve of your decision, Mattias. Had I served in your unit, we would have taken a... different direction." He frowns with pity. 
+      <DefaultText>"Eu não posso fingir que aprovo sua decisão, Mattias. Se eu tivesse servido em sua unidade, teríamos tomado uma ... direção diferente." Ele franze a testa com pena.
 
-"The [url=glossary:unbroken]Unbroken[/url] will endure with or without you. I only hope you find some measure of peace in the army of [url=glossary:kyros]Kyros[/url]... just try not to cross me on any battlefield." 
+"O [url=glossary:unbroken]Unbroken[/url] vai durar com ou sem você. Eu só espero que você encontre alguma medida de paz no exército de [url=glossary:kyros]Kyros[/url] ... apenas tente não me atravessar em qualquer campo de batalha."
 
-The scout turns to you. "Did you parade your new recruit all the way here to mock us, or do you have business in Sentinel Stand?"</DefaultText>
+O batedor se vira para você. "Você desfilou seu novo recruta todo o caminho até aqui para zombar de nós, ou você tem negócios em Sentinela Stand?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"I'm looking for the sword they call the Dauntless."</DefaultText>
+      <DefaultText>"Estou procurando a espada que eles chamam de Dauntless".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Aye, I've heard of it, but the task sounds like a fool's errand to me. One of Stalwart's Regents carried the Dauntless during the war, but either the winds or some battle swept the sword to places unknown. Hardly surprising. At their full strength, these winds can take skin from bone." 
+      <DefaultText>"Sim, eu ouvi falar disso, mas a tarefa parece uma tarefa tola para mim. Um dos Regentes de Stalwarts carregou os Dauntless durante a guerra, mas ou os ventos ou alguma batalha varreram a espada para lugares desconhecidos. Pouco surpreendente. sua força total, esses ventos podem tirar a pele dos ossos ".
 
-He gestures to a stripped body at his feet. "Come up here if you doubt it. Not a pretty sight."</DefaultText>
+Ele gesticula para um corpo despido a seus pés. "Suba aqui se você duvida. Não é uma visão bonita."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"I would have guessed you sought the entrance to Sentinel Stand and the imprisoned Northerners, like [url=glossary:graven ashe]Graven Ashe[/url] and his ironclads." He purses his lips in thought. "I guessed wrong." 
+      <DefaultText>"Eu teria imaginado que você procurou a entrada para o Stand da Sentinela e os nortistas presos, como [url=glossary:graven ashe]Graven Ashe[/url] e seus revestimentos de ferro." Ele franze os lábios em pensamento. "Eu imaginei errado."
 
-"Unless you've come to the [url=glossary:blade grave]Blade Grave[/url] to kill the last Regent and end the [url=glossary:edict]Edict[/url] of Storms, the [url=glossary:unbroken]Unbroken[/url] have no cause to help you." </DefaultText>
+"A menos que você tenha vindo para o [url=glossary:blade grave]Blade Grave[/url] para matar o último regente e terminar o [url=glossary:edict]Edict[/url] de Storms, o [url=glossary:unbroken]Unbroken[/url] não tem motivos para ajudá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"So how can I find the Dauntless?"</DefaultText>
+      <DefaultText>"Então, como posso encontrar o Dauntless?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"You likely won't, but you weren't the only one looking for the legendary blade, either. Our leader, Mattias, aimed to get his hands on Dauntless, too. We haven't seen him in some time."  </DefaultText>
+      <DefaultText>"Você provavelmente não vai, mas você não era o único procurando pela lâmina lendária também. Nosso líder, Mattias, tinha como objetivo colocar as mãos em Dauntless também. Nós não o vimos há algum tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"We have a good soldier out of Duskwatch Fort by the name of Agathon. He would likely know more about Mattias and the hunt for the Dauntless. The area around Duskwatch is crawling with [url=glossary:graven ashe]Graven Ashe[/url]'s ironclads, so tread lightly. If you can help Agathon dispatch them, all the better." The scout tips his head and steps back from the parapet, vanishing into the obscurity of the storm.</DefaultText>
+      <DefaultText>"Temos um bom soldado fora do Duskwatch Fort com o nome de Agathon. Ele provavelmente saberia mais sobre Mattias e a caçada ao Dauntless. A área ao redor do Duskwatch está cheia de acessórios de ferro. Então você pode ajudar Agathon a despachar." eles, melhor ainda. " O batedor inclina a cabeça e recua do parapeito, desaparecendo na obscuridade da tempestade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Damn him... I wish his words didn't sting, but he's a good patriot and I can't fault his bias." Mattias sighs. "In my heart I know I made this choice to get back at the [url=glossary:disfavored]Disfavored[/url] and the Regent, but it's not easy to face the censure of my countrymen."</DefaultText>
+      <DefaultText>"Maldito ... eu gostaria que suas palavras não doessem, mas ele é um bom patriota e não posso culpar sua parcialidade." Mattias suspira. "No meu coração eu sei que fiz esta escolha para voltar ao [url=glossary:disfavored]Disfavored[/url] e ao Regent, mas não é fácil enfrentar a censura dos meus compatriotas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Now you know what we're up against. Thankfully, I have a lead on getting us through the windwall to Sentinel Stand." 
+      <DefaultText>"Agora você sabe o que estamos enfrentando. Felizmente, eu tenho uma vantagem em nos levar através do paredão para o Posto Sentinela."
 
-"An [url=glossary:unbroken]Unbroken[/url] lieutenant by the name of Elia is stationed at Rust Canyons. Before Jagged Remedy got me in his clutches, I dispatched Elia along with my best soldiers to hunt for Regent heirlooms lost during the war." </DefaultText>
+"Um tenente com o nome de Elia está estacionado em Rust Canyons. Antes que Jagged Remedy me pegasse em suas garras, eu despachei Elia junto com meus melhores soldados para caçar heranças de regentes perdidas durante a guerra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Tell me about these Regent heirlooms."</DefaultText>
+      <DefaultText>"Conte-me sobre essas heranças do regente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"How can the Regent heirlooms help us?"</DefaultText>
+      <DefaultText>"Como as heranças do regente podem nos ajudar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"I'll head to Rust Canyons and contact Elia."</DefaultText>
+      <DefaultText>"Vou para Rust Canyons e contate Elia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"They're items of incredible power - rallying symbols and weapons that defined great deeds in the history of Stalwart. Members of the Regent families wore them or wielded them as symbolic badges of office, though in truth they're much more than that."</DefaultText>
+      <DefaultText>"Eles são itens de poder incrível - reunindo símbolos e armas que definiram grandes feitos na história de Stalwart. Membros das famílias Regent usaram-nos ou manejaram-nos como símbolos simbólicos de escritório, embora na verdade sejam muito mais que isso. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"They have enough history to convince even this old skeptic. The amulet Never-Drowned was said to have parted the waves during ancient conflicts with islander Beastmen." 
+      <DefaultText>"Eles têm história suficiente para convencer até mesmo esse velho cético. O amuleto Never-Drowned foi dito ter separado as ondas durante os conflitos antigos com os Beastmen da ilha."
 
-"There are items of equally impressive power outside of Stalwart of course, though only remarkable people carry them. I only heard this from Jagged Remedy's gang, but [url=glossary:the voices of nerat]the Voices of Nerat[/url] wields a scepter called Final Scream. It's said to cause confusion when you stand too close to the Archon." He shudders.</DefaultText>
+"Há itens de poder igualmente impressionante fora de Stalwart, é claro, embora apenas pessoas notáveis ​​os carreguem. Eu só ouvi isso da gangue do Jagged Remedy, mas é um confusor chamado Final Scream. É dito que causa confusão quando você está muito perto de você." o Arconte ". Ele estremece.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"I'll send word to Elia so she knows to expect you. Please give her my regards. Or don't..." he frowns. "I wouldn't want her to see me this way." </DefaultText>
+      <DefaultText>"Vou mandar uma mensagem para Elia para que ela saiba que você espera por você. Por favor, dê a ela meus cumprimentos. Ou não ..." ele franze a testa. "Eu não quero que ela me veja assim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"You don't look like the typical rank and file of [url=glossary:kyros]Kyros[/url]' army, but you're no son of Stalwart either." He squints at your raiment and takes your measure. "No... you're the Fatebinder who broke past the [url=glossary:vendrien guard]Vendrien Guard[/url]? I think you'll find yonder windwall a tougher nut to crack than the Apex citadel." He chuckles. </DefaultText>
+      <DefaultText>"Você não se parece com o típico posto e arquivo de [url=glossary:kyros]Kyros[/url] 'exército, mas você não é filho de Stalwart também." Ele aperta os olhos e toma sua medida. "Não ... você é o Fatebinder que ultrapassou o [url=glossary:vendrien guard]Vendrien Guard[/url]? Eu acho que você vai encontrar uma muralha mais dura do que a cidadela da Apex." Ele ri.</DefaultText>
       <FemaleText>"You don't look like the typical rank and file of [url=glossary:kyros]Kyros[/url]' army, but you're no daughter of Stalwart either." He squints at your raiment and takes your measure. "No... you're the Fatebinder who broke past the [url=glossary:vendrien guard]Vendrien Guard[/url]? I think you'll find yonder windwall a tougher nut to crack than the Apex citadel." He chuckles. </FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"My business is my own."</DefaultText>
+      <DefaultText>"Meu negócio é meu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"I'm here to end the [url=glossary:edict]Edict[/url] of Storms."</DefaultText>
+      <DefaultText>"Estou aqui para acabar com o [url=glossary:edict]Edict[/url] de Storms."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Good. I don't concern myself over the affairs of [url=glossary:kyros]Kyros[/url]' grunts, though I'd be surprised if you accomplished anything in the [url=glossary:blade grave]Blade Grave[/url]. These storms make it impossible to draw a clean breath, much less think straight." </DefaultText>
+      <DefaultText>"Bom. Eu não me preocupo com os assuntos de [url=glossary:kyros]Kyros[/url] 'grunhidos, entretanto eu ficaria surpreso se você conseguisse algo nas [url=glossary:blade grave]Blade Grave[/url]. Estas tempestades tornam impossível respirar limpo, muito menos pensar direito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Is that how it works - [url=glossary:kyros]Kyros[/url] casts an [url=glossary:edict]Edict[/url] and sends lackeys to the clean-up effort? In that case, I'm glad we're still independent of you imperial dogs." </DefaultText>
+      <DefaultText>"É assim que funciona - [url=glossary:kyros]Kyros[/url] manda um [url=glossary:edict]Edict[/url] e envia lacaios para o esforço de limpeza? Nesse caso, estou feliz por ainda sermos independentes dos seus cães imperiais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"I suggest you make like a storm and blow, because you're not getting inside this fortress. When you report back to your master, tell him that first scout Janos sent you off with your tail tucked between your cheeks."</DefaultText>
+      <DefaultText>"Eu sugiro que você faça uma tempestade e assopre, porque você não está entrando nesta fortaleza. Quando você reportar ao seu mestre, diga a ele que o primeiro escoteiro Janos te mandou embora com o rabo enfiado entre suas bochechas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Why do the [url=glossary:unbroken]Unbroken[/url] hate Straydus Herodin?"</DefaultText>
+      <DefaultText>"Por que o [url=glossary:unbroken]Unbroken[/url] odeia Straydus Herodin?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Do you know anything about [url=glossary:graven ashe]Graven Ashe[/url]'s daughter, Amelia?"</DefaultText>
+      <DefaultText>"Você sabe alguma coisa sobre a filha de [url=glossary:graven ashe]Graven Ashe[/url], Amelia?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"What do you know about the [url=glossary:edict]Edict[/url] of Storms?"</DefaultText>
+      <DefaultText>"O que você sabe sobre o [url=glossary:edict]Edict[/url] de tempestades?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"What are the Bane doing here?"</DefaultText>
+      <DefaultText>"O que o Bane está fazendo aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Sorry, I didn't catch that. I'm not too good with names, and your voice isn't carrying over the winds." He flashes you a wide, knowing grin.</DefaultText>
+      <DefaultText>"Desculpe, eu não entendi isso. Eu não sou muito bom com nomes, e sua voz não está carregando os ventos." Ele mostra um sorriso largo e sábio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"He's a spineless old man who hides behind his soldiers and doesn't possess any of the values he hammers into others."
+      <DefaultText>"Ele é um velhinho sem fôlego que se esconde atrás de seus soldados e não possui nenhum dos valores que ele impõe aos outros."
 
-"Oh, sorry - I was talking about [url=glossary:graven ashe]Graven Ashe[/url]!" Janos flashes you a crude sign with his fingers. </DefaultText>
+"Oh, desculpe - eu estava falando sobre [url=glossary:graven ashe]Graven Ashe[/url]!" Janos mostra-lhe um sinal grosseiro com os dedos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Herodin is a relic of the past, and we're looking to the future. We don't have any hope of squirming out from under [url=glossary:kyros]Kyros[/url]' thumb while the old Regent enjoys his twilight years sipping dusty wine and hiding from the war." </DefaultText>
+      <DefaultText>"Herodin é uma relíquia do passado, e nós estamos olhando para o futuro. Nós não temos nenhuma esperança de se contorcer debaixo do polegar enquanto o velho Regente aproveita seus anos de crepúsculo tomando vinho empoeirado e se escondendo da guerra." "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"I reckon not as much as you, Stormcaller. It's your fault that we're in this mess in the first place."</DefaultText>
+      <DefaultText>"Eu não conto tanto quanto você, Arauto da Tempestade. É sua culpa que nós estamos nesta bagunça em primeiro lugar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"The storm will continue for as long as Straydus Herodin lives. I wager that we're both keen on stopping the old coward's heart, though I'll do everything in my power to make sure that you never get any closer to Sentinel Stand than this."</DefaultText>
+      <DefaultText>"A tempestade continuará enquanto Straydus Herodin viver. Aposto que ambos estamos interessados ​​em parar o coração do velho covarde, embora eu faça tudo que estiver ao meu alcance para garantir que você nunca chegue mais perto do Sentinela esta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Don't you know anything? The Bane are drawn to [url=glossary:kyros]Kyros[/url]' magic like flies around a corpse. This whole region is polluted with the Overlord's reek - nowhere moreso than the windwall before us."
+      <DefaultText>"Você não sabe de nada? Os Malditos são atraídos pela magia como moscas ao redor de um cadáver. Toda esta região está poluída com o cheiro do Overlord - nada mais do que o paredão antes de nós."
 
-"Mind yourself around their claws, Fatebinder. It's said that once the Bane have you in their clutches, they never let go."</DefaultText>
+"Cuidado com suas garras, Fatebinder. Dizem que uma vez que o Bane tenha você em suas garras, eles nunca soltam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"What can you tell me of the Regents?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre os regentes?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"You weren't even paying attention to the folks you killed during the war, were you?" Janos shakes his head.</DefaultText>
+      <DefaultText>"Você nem estava prestando atenção no pessoal que você matou durante a guerra, estava?" Janos balança a cabeça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"The Regents were our royal family. They governed old Stalwart, protected our borders, and rallied our armies when in need. [url=glossary:kyros]Kyros[/url]' butchers left but one Regent standing, and he's as useless as a mustache on a mallet."</DefaultText>
+      <DefaultText>"Os Regentes eram nossa família real. Eles governaram o velho Stalwart, protegeram nossas fronteiras e reuniram nossos exércitos quando precisaram. [url=glossary:kyros]Kyros[/url] 'açougueiros deixaram apenas um regente de pé, e ele é tão inútil quanto um bigode em um martelo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Impertinent scum! Climb over that wall and let me beat the truth out of you!"</DefaultText>
+      <DefaultText>"Escória impertinente! Suba a parede e deixe-me bater a verdade fora de você!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Would that I had the strength to tear down this wall and kill him myself!"</DefaultText>
+      <DefaultText>"Eu teria forças para derrubar esse muro e matá-lo eu mesmo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Well, you won't be making it to Sentinel Stand any time soon. The only people to see the inside of the keep since 430 are the last Regent, his personal guard, and a few [url=glossary:disfavored]Disfavored[/url] prisoners." </DefaultText>
+      <DefaultText>"Bem, você não estará indo para o Posto Sentinela em breve. As únicas pessoas a verem o interior da fortaleza desde 430 são o último Regente, sua guarda pessoal e alguns prisioneiros [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Not that you should care about the last Regent overmuch... the [url=glossary:edict]Edict[/url] is making the war an impossible challenge for [url=glossary:graven ashe]Graven Ashe[/url] and his legion of ironclads. I'm sure that just thinking about it makes [url=glossary:the voices of nerat]the Voices of Nerat[/url] giddy."</DefaultText>
+      <DefaultText>"Não que você deva se preocupar com o último Regent em demasia ... o [url=glossary:edict]Edict[/url] está tornando a guerra um desafio impossível para a sua legião de ironclads. Tenho certeza que só de pensar nisso faz [url=glossary:the voices of nerat]the Voices of Nerat[/url] tonta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"You were the one who brought up Amelia. If you know that she ended up behind the windwall, then you have half the story already." </DefaultText>
+      <DefaultText>"Você foi quem trouxe Amelia. Se você sabe que ela acabou atrás do paredão, então você já tem metade da história."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"You conscripted our former leader into your howling army. This can't be a mystery to you, can it?" He looks to Mattias with disapproval. 
+      <DefaultText>"Você convocou nosso ex-líder para o seu exército uivante. Isso não pode ser um mistério para você, pode?" Ele olha para Mattias com desaprovação.
 
-"You're here for your own reasons, and I'm here for mine. Just because I'm not drawing bronze on you doesn't make us friends or, for that matter, countrymen." </DefaultText>
+"Você está aqui por suas próprias razões, e eu estou aqui para o meu. Só porque eu não estou usando bronze em você não nos faz amigos ou, para esse assunto, compatriotas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Why should Elia cooperate with me?"</DefaultText>
+      <DefaultText>"Por que Elia deveria cooperar comigo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"She'll probably curse up a storm if she recognizes you as [url=glossary:scarlet chorus]Scarlet Chorus[/url], but our real enemy has always been the [url=glossary:disfavored]Disfavored[/url]. If you can appeal to her thirst for Northerner blood, you might find her more agreeable than you think."</DefaultText>
+      <DefaultText>"Ela provavelmente vai amaldiçoar uma tempestade se ela reconhecer você como [url=glossary:scarlet chorus]Scarlet Chorus[/url], mas nosso inimigo real sempre foi o [url=glossary:disfavored]Disfavored[/url]. Se você pode apelar para sua sede de sangue dos nortistas, você pode encontrá-la mais agradável do que você pensa".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"We had a hunch that a piece of the Regent arsenal could send a military force through the tornado around Sentinel Stand unharmed. If that were true, we would have used it to cross the barrier, kill Straydus Herodin, and end the [url=glossary:edict]Edict[/url] of Storms."
+      <DefaultText>"Tivemos um palpite de que um pedaço do arsenal Regent poderia enviar uma força militar através do tornado ao redor Sentinel Stand ileso. Se isso fosse verdade, teríamos usado para atravessar a barreira, matar Straydus Herodin, e acabar com as tempestades "
 
-He frowns. "I don't imagine you'll be ending the [url=glossary:edict]Edict[/url] in the foreseeable future, though... not while [url=glossary:graven ashe]Graven Ashe[/url] occupies the region." </DefaultText>
+Ele franze a testa. "Eu não imagino que você estará terminando o [url=glossary:edict]Edict[/url] no futuro próximo, embora ... não enquanto [url=glossary:graven ashe]Graven Ashe[/url] ocupa a região."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Why don't you go?"</DefaultText>
+      <DefaultText>"Por que você não vai?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"I have... responsibilities." Mattias sighs. "Jagged Remedy wants me to report back as soon as we're done here. I'm afraid he's not done whittling down my self-worth to a nub just yet. I can't wait to learn what indescribable terrors he has in mind." 
+      <DefaultText>"Eu tenho ... responsabilidades." Mattias suspira. "Remedy Jagged quer que eu apresente um relatório assim que terminarmos aqui. Receio que ele não tenha acabado de reduzir minha autoestima a um problema ainda. Mal posso esperar para saber que terrores indescritíveis ele tem em mente "
 
-His shoulders slump with resignation.</DefaultText>
+Seus ombros caem com resignação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"I could probably describe a few, but I wouldn't want to ruin the surprise." She beams with pride. 
+      <DefaultText>"Eu provavelmente poderia descrever alguns, mas eu não gostaria de estragar a surpresa." Ela sorri com orgulho.
 
-"It will get awful before it gets better, but you'll toughen up for war, and soon all of the hate you feel now will turn to love, or something like it. Trust me."</DefaultText>
+"Vai ficar horrível antes que melhore, mas você vai se enrijecer para a guerra, e logo todo o ódio que você sente agora vai virar amor, ou algo assim. Confie em mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>The scout raises his brow. "That's not a claim I hear often from servants of the Overlord. Of course, if you think you can end the [url=glossary:edict]Edict[/url], you'll have to make your way inside Sentinel Stand to do it..." He nods in the general direction of the swirling winds. "[url=glossary:kyros]Kyros[/url]' anger has been raging without pause for the last year. It's bad enough that no one can enter or leave the inner keep." </DefaultText>
+      <DefaultText>O batedor levanta a sobrancelha. "Isso não é uma afirmação que eu ouço freqüentemente dos servos do Overlord. Claro, se você acha que pode acabar com o [url=glossary:edict]Edict[/url], você terá que fazer o seu caminho dentro do Sentinela Stand para fazê-lo ..." Ele balança a cabeça na direção geral. dos ventos rodopiantes. "[url=glossary:kyros]Kyros[/url] 'a raiva tem estado em fúria sem pausa durante o ano passado. É ruim o suficiente que ninguém possa entrar ou sair da fortaleza interna."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"I'm not above walking through the storm myself." Barik turns to the windwall and frowns. "On second thought, that might only twist my armor worse than it is." </DefaultText>
+      <DefaultText>"Eu não estou acima de andar através da tempestade eu mesmo." Barik vira-se para o paredão e franze a testa. "Pensando bem, isso pode apenas torcer minha armadura pior do que é."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Cascade Node 123</DefaultText>
+      <DefaultText>Nó Cascata 123</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"That's fine - we tend not to do battle with impotent cowards allergic to glory. Oh, but 'no offense' or anything... sniveling ass mite."</DefaultText>
+      <DefaultText>"Tudo bem - nós tendemos a não lutar contra covardes impotentes alérgicos à glória. Oh, mas 'sem ofensa' ou qualquer coisa ... choramingando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Her purpled lips peel back to bare glistening, discolored fangs, and a deep growl rips from her chest in warning.</DefaultText>
+      <DefaultText>Seus lábios purpúreos descascam para as presas brilhantes e descoloridas, e um grunhido profundo ressoa de seu peito em advertência.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Questionable seems about right. I would have accepted shifty or suspect as well."
+      <DefaultText>"Questionável parece certo. Eu teria aceitado shifty ou suspeito também."
 
-Lantry nods approvingly as he transcribes the discussion.</DefaultText>
+Lantry acena com aprovação enquanto transcreve a discussão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Offense definitely taken, worm! As if someone of my station would be seen cavorting with you..."</DefaultText>
+      <DefaultText>"Ofensa definitivamente tomada, verme! Como se alguém da minha estação fosse visto pulando com você ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"My honor is beyond question or reproach. To say otherwise would scorn [url=glossary:graven ashe]Graven Ashe[/url]'s careful recruitment."</DefaultText>
+      <DefaultText>"Minha honra é inquestionável ou reprovável. Dizer o contrário seria desdenhar o recrutamento cuidadoso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"You speak very plainly of our intentions, Fatebinder. Though if you intend on killing this man, I suppose it's acceptable." </DefaultText>
+      <DefaultText>"Você fala muito claramente de nossas intenções, Fatebinder. Embora se você pretende matar este homem, eu suponho que seja aceitável."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"I'd love to see you reach me without getting winded, metal man." He looks Barik up and down, sniffing. "Have the [url=glossary:disfavored]Disfavored[/url] abandoned the last of their decorated honor, or did you step out of a scrap tornado? You know what, don't answer that." </DefaultText>
+      <DefaultText>"Eu adoraria ver você me alcançar sem ficar sem fôlego, cara de metal." Ele olha Barik de cima a baixo, cheirando. "Será que o [url=glossary:disfavored]Disfavored[/url] abandonou o último de sua honra condecorada, ou você saiu de um tornado de sucata? Você sabe, não responda a isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Enjoy it while it lasts. When the region is under our control, you'll be breaking your back digging mass graves. I'll be watching." </DefaultText>
+      <DefaultText>"Aproveite enquanto durar. Quando a região estiver sob nosso controle, você estará quebrando suas costas cavando valas comuns. Eu estarei assistindo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"No sense in revealing our mission without cause, especially since we'll likely run this lout through and leave his corpse for the storm to pick apart."</DefaultText>
+      <DefaultText>"Não tem sentido em revelar nossa missão sem motivo, especialmente porque provavelmente vamos acabar com essa questão e deixar seu cadáver para a tempestade separar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Just throwing this out there, but it pays to keep some information close to the vest. [url=glossary:the voices of nerat]The Voices of Nerat[/url] prides himself on keeping secrets. You might learn from his example." </DefaultText>
+      <DefaultText>"Apenas jogando isso lá fora, mas vale a pena manter alguma informação perto do colete. [url=glossary:the voices of nerat]The Voices of Nerat[/url] se orgulha de manter segredos. Você pode aprender com o exemplo dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"What if I... oops! I'm a step closer! And another! Are you going to do something about it, or just stare at me from your little nest up there?" </DefaultText>
+      <DefaultText>"E se eu ... opa! Estou um passo mais perto! E outra! Você vai fazer alguma coisa sobre isso, ou apenas olhar para mim do seu pequeno ninho lá em cima?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Your antics don't amuse me in the slightest, Scarlet Fury. Dance away if you must - you won't make it through the windwall as I live and breathe."</DefaultText>
+      <DefaultText>"Suas palhaçadas não me divertem nem um pouco, Scarlet Fury. Dance se você precisar - você não vai conseguir atravessar o paredão enquanto eu vivo e respiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"For a second there I was worried that we would have to let you live, but you put that to rest."</DefaultText>
+      <DefaultText>"Por um segundo eu estava preocupada que nós teríamos que deixar você viver, mas você colocou isso para descansar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Verse, stop playing with your food."</DefaultText>
+      <DefaultText>"Verso, pare de brincar com sua comida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Cut it out this instant."</DefaultText>
+      <DefaultText>"Pare com isso neste instante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"If we're going to be stuck in this forsaken wasteland, I hope you don't mind that I occupy myself with a little recreation."</DefaultText>
+      <DefaultText>"Se vamos ficar presos nesta terra abandonada, espero que você não se importe que eu me ocupe com um pouco de recreação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"You don't want me to have any fun, do you?" She shakes her head. "Thanks for dragging me to the worst place on Terratus and somehow making it even less enjoyable." </DefaultText>
+      <DefaultText>"Você não quer que eu me divirta, não é?" Ela sacode a cabeça. "Obrigado por me arrastar para o pior lugar do Terratus e, de alguma forma, torná-lo ainda menos agradável."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Following some scent of magic - at least, that would be the safest assumption. I have a hypothesis that, when gathered in large enough numbers, they'll communicate through song, albeit one so shrill we can't hear it and... and I think I'm boring even me, so I'll shut up now."</DefaultText>
+      <DefaultText>"Seguindo algum cheiro de magia - pelo menos, essa seria a suposição mais segura. Eu tenho uma hipótese de que, quando reunidos em números suficientemente grandes, eles se comunicarão através da música, embora um tão estridente que não possamos ouvi-lo e ... e eu acho que sou chato até comigo, então vou calar a boca agora ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"For all the good it will do to even try..." Barik shakes his head and mutters in a dark tone.</DefaultText>
+      <DefaultText>"Por tudo de bom que vai fazer até tentar ..." Barik sacode a cabeça e murmura em um tom sombrio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"You'll get over it once you've hacked away at them in battle a few times. Their opinions won't matter as much as their corpses and anything useful they might drop." </DefaultText>
+      <DefaultText>"Você vai superar isso uma vez que você os derrotou em batalha algumas vezes. Suas opiniões não serão tão importantes quanto seus cadáveres e qualquer coisa útil que eles possam derrubar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"No? You think I've... overstepped my authority here? Let me show you what I make of that." He flashes a crude gesture with both hands and shakes his head at you.</DefaultText>
+      <DefaultText>"Não? Você acha que eu ... ultrapassei minha autoridade aqui? Deixe-me mostrar o que eu faço sobre isso." Ele pisca um gesto grosseiro com as duas mãos e balança a cabeça para você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"I'm here to recruit some new friends for [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
+      <DefaultText>"Estou aqui para recrutar novos amigos para [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>He grimaces. "And you thought that the ruins of Sentinel Stand's outer wall - or anywhere exposed, frankly - would be bustling with locals eager to pledge themselves to [url=glossary:kyros]Kyros[/url]' army? I know you Northern fucks tend to think of us as gullible, but we're not as bad as all that."
+      <DefaultText>Ele faz uma careta. "E você pensou que as ruínas da parede externa do Posto Sentinela - ou em qualquer lugar exposto, francamente - seriam movimentadas com os habitantes locais ansiosos para se comprometerem com o exército? Eu sei que vocês do Norte tendem a pensar em nós como crédulos, mas nós estamos não tão ruim quanto tudo isso ".
 
-"You wouldn't have come unless you had a design on entering Sentinel Stand." </DefaultText>
+"Você não teria vindo a menos que tivesse um projeto ao entrar no Stand da Sentinela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Just passing through."</DefaultText>
+      <DefaultText>"Apenas passando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Just passing through." He nods slowly. "You just happened by the outer walls of Sentinel Stand - the most contested fortress in Stalwart - and you're telling me you have no designs on getting inside?"</DefaultText>
+      <DefaultText>"Apenas passando." Ele balança a cabeça lentamente. "Você acabou de passar pelas paredes externas do Stand Sentinel - a fortaleza mais disputada em Stalwart - e você está me dizendo que não tem planos de entrar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"I make it my business to meet with overly-inquisitive travelers and give them the lay of the land." He offers you a blank stare.</DefaultText>
+      <DefaultText>"Eu faço o meu negócio para se encontrar com viajantes excessivamente curiosos e dar-lhes o leigo da terra." Ele te oferece um olhar vazio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>His deadpan cracks into a smile. "I just wanted to see how you would take that. You don't get to hear about my schedule, Chorus rat. Fuck off."</DefaultText>
+      <DefaultText>Seu inexpressivo racha em um sorriso. "Eu só queria ver como você aceitaria isso. Você não pode ouvir sobre a minha agenda, rato Chorus. Foda-se."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Why are you interested - want to stick a spear through some of Ashe's finest? Not that I blame you. I'm looking forward to the opportunity myself."</DefaultText>
+      <DefaultText>"Por que você está interessado - quer colocar uma lança em algumas das melhores de Ashe? Não que eu a culpe. Estou ansioso pela oportunidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -758,53 +758,53 @@ Lantry nods approvingly as he transcribes the discussion.</DefaultText>
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"I don't know, Chorus rat - why don't you tell me? Or better yet, ask your new recruit." He tips his head at Mattias.</DefaultText>
+      <DefaultText>"Eu não sei, rato Chorus - por que você não me conta? Ou melhor ainda, pergunte ao seu novo recruta." Ele inclina a cabeça para Mattias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Straydus Herodin is the last living Regent, and his bloodline is tied to the [url=glossary:edict]Edict[/url] of Storms." Mattias grimaces. "The only reason that these storms persist is because Herodin hides within Sentinel Stand - a prison that even we can't breach."</DefaultText>
+      <DefaultText>"Straydus Herodin é o último regente vivo, e sua linhagem está ligada ao [url=glossary:edict]Edict[/url] de tempestades." Mattias faz uma careta. "A única razão pela qual estas tempestades persistem é porque Herodin se esconde dentro do Sentinel Stand - uma prisão que nem sequer podemos violar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] decreed that the storms would persist until the last of Stalwart's rulers died. It was punishment for the Regent's arrogance during the last great battle of the war." 
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] decretou que as tempestades persistiriam até que o último dos governantes de Stalwart morresse. Foi punição pela arrogância do regente durante a última grande batalha da guerra."
 
-He looks up at Janos with longing. "I rounded up the last of the [url=glossary:unbroken]Unbroken[/url] with hopes of killing the Regent ourselves. I still cling to my hope, though I fight under a different banner now."</DefaultText>
+Ele olha para Janos com saudade. "Eu arredondei o último dos [url=glossary:unbroken]Unbroken[/url] com a esperança de matar o Regente. Eu ainda me agarro à minha esperança, embora eu lute sob uma faixa diferente agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>He looks to Mattias again, shaking his head slowly. "Farewell, old friend. Here's to hoping our next leader can remember where he came from when the road takes a sharp bend." 
+      <DefaultText>Ele olha para Mattias novamente, balançando a cabeça lentamente. "Adeus, velho amigo. Aqui está a esperança de que nosso próximo líder possa lembrar de onde ele veio quando a estrada tomar uma curva fechada."
 
-Tipping his head, the scout steps back and vanishes over the parapet, into the obscurity of the storm.</DefaultText>
+Derrubando a cabeça, o batedor recua e desaparece sobre o parapeito, na obscuridade da tempestade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Elia and her [url=glossary:unbroken]Unbroken[/url] scavengers should have yielded something of value by now - maybe even something we can use to push our way through the storm. We won't know for sure unless you check in on her progress."</DefaultText>
+      <DefaultText>"Elia e seus [url=glossary:unbroken]Unbroken[/url] catadores deveriam ter trazido algo de valor até agora - talvez até mesmo algo que possamos usar para abrir caminho através da tempestade. Nós não saberemos com certeza a menos que você verifique seu progresso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Just having one can inspire followers or make you swing a sword with more force. A lot of Stalwart's national pride was wrapped up in those Regent heirlooms, though of course they're scattered and all but lost..."</DefaultText>
+      <DefaultText>"Só de ter um pode inspirar seguidores ou fazer você balançar uma espada com mais força. Um monte de orgulho nacional Stalwart foi embrulhado naquelas herança regente, embora é claro que eles estão espalhados e todos, mas perdidos ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>He looks out onto a bleak horizon. "I suppose it's high time that I reported back to Jagged Remedy. The initiation rites are only half done, so he'll no doubt have some other degrading feat for me to accomplish..." 
+      <DefaultText>Ele olha para um horizonte sombrio. "Eu suponho que é hora de eu me reportar ao Remedy Jagged. Os ritos de iniciação estão apenas pela metade, então ele sem dúvida terá outro feito degradante para eu realizar ..."
 
-He shakes his head and sighs. "The things I do for Stalwart."</DefaultText>
+Ele sacode a cabeça e suspira. "As coisas que eu faço para o Stalwart."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>She snorts in disgust.</DefaultText>
+      <DefaultText>Ela bufa de desgosto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>She yawns, mauve tongue curling between her wide-gaping jaws.</DefaultText>
+      <DefaultText>Ela boceja, a língua malva se enrolando entre as mandíbulas escancaradas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -814,7 +814,7 @@ He shakes his head and sighs. "The things I do for Stalwart."</DefaultText>
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>He blinks at you. "Pardon the piss out of me, Fatebinder, but I'm just an uneducated Southerner, and even I know the Overlord's magic doesn't work like that." </DefaultText>
+      <DefaultText>Ele pisca para você. "Desculpe-me, Fatebinder, mas eu sou apenas um sulista sem instrução, e até eu sei que a magia do Overlord não funciona assim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -824,72 +824,72 @@ He shakes his head and sighs. "The things I do for Stalwart."</DefaultText>
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Maybe it does at that. You're not tied to [url=glossary:kyros]Kyros[/url]' apron strings as tightly as before, are you? Still, you strike me as one of those doing the right things for the wrong reasons types, right?" </DefaultText>
+      <DefaultText>"Talvez isso aconteça. Você não está preso às cordas do avental tão bem quanto antes, e você? Ainda assim, você me parece um daqueles que faz as coisas certas pelos tipos errados, certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>He takes note of the artifact in your possession, his eyes widening during the appraisal. "You got your hands on the Magebane, so you're clearly not above inconveniencing others to get what you want." </DefaultText>
+      <DefaultText>Ele toma nota do artefato em sua posse, seus olhos se arregalando durante a avaliação. "Você tem suas mãos no Magebane, então você claramente não está acima de incomodar os outros para conseguir o que você quer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>He takes note of the artifact in your possession, his eyes widening during the appraisal. "The Silent Archive... Even in a realm full of illiterates, that's a fine piece of parchment you've got gathering creases in your pack." </DefaultText>
+      <DefaultText>Ele toma nota do artefato em sua posse, seus olhos se arregalando durante a avaliação. "O Arquivo Silencioso ... Mesmo em um reino cheio de analfabetos, esse é um bom pedaço de pergaminho que você tem juntando vincos em sua mochila."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>He takes note of the artifact in your possession, his eyes widening during the appraisal. "That shield you picked up in Azure has seen better days, but I can tell from up here that has plenty of good days ahead of it."</DefaultText>
+      <DefaultText>Ele toma nota do artefato em sua posse, seus olhos se arregalando durante a avaliação. "Aquele escudo que você pegou no Azure já passou por dias melhores, mas eu posso dizer que aqui tem muitos bons dias pela frente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>He takes note of the artifacts in your possession, his eyes widening during the appraisal. "But... you're clearly no stranger to picking up trinkets of incredible value, so perhaps Dauntless will not evade you for long." </DefaultText>
+      <DefaultText>Ele toma nota dos artefatos em sua posse, seus olhos se arregalam durante a avaliação. "Mas ... você claramente não é estranho a pegar bugigangas de valor incrível, então talvez Dauntless não vai fugir de você por muito tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Then you're not here to end the [url=glossary:edict]Edict[/url] like you did in Azure? I knew that hope was a mistake." </DefaultText>
+      <DefaultText>"Então você não está aqui para terminar o [url=glossary:edict]Edict[/url] como você fez no Azure? Eu sabia que a esperança era um erro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Forgive me for expecting that you'd want to pull your 'ending an [url=glossary:edict]Edict[/url] before your very eyes' trick again. I guess the folks of Azure were just lucky to see it first." </DefaultText>
+      <DefaultText>"Perdoe-me por esperar que você gostaria de puxar o seu 'terminando um [url=glossary:edict]Edict[/url] antes do truque dos seus olhos novamente. Eu acho que o pessoal do Azure teve sorte de ver isso primeiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"It's more eye-catching than the [url=glossary:edict]Edict[/url] of Stone, I grant you, though I wasn't there to watch that one collapse around [url=glossary:cairn]Cairn[/url]'s remains. I guess you have that distinction." </DefaultText>
+      <DefaultText>"É mais atraente do que o [url=glossary:edict]Edict[/url] de Stone, eu concedo a você, embora eu não estivesse lá para assistir a um colapso em torno dos restos mortais de [url=glossary:cairn]Cairn[/url]. Eu acho que você tem essa distinção".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Perseverence opened the Sunset Spire. It'll crack Stalwart's little windwall."</DefaultText>
+      <DefaultText>"A perseverança abriu a Torre do Sol. Ela quebrará o pequeno paredão de Stalwarts."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>He straightens his posture and appraises you in silence. </DefaultText>
+      <DefaultText>Ele endireita sua postura e avalia você em silêncio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"I can say this much - you buy into what you're preaching, and I have to respect that. Plenty of folks have tried to get into Sentinel Stand and failed... but none of them had a Spire to call home."</DefaultText>
+      <DefaultText>"Eu posso dizer isso - você compra o que você está pregando, e eu tenho que respeitar isso. Muitas pessoas tentaram entrar no Stand Sentinela e falharam ... mas nenhum deles tinha uma Spire para chamar de lar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"I've always wondered if the air was cleaner atop the Spires. I take it you're getting awfully familiar with them, if the word I hear from [url=glossary:lethian's crossing]Lethian's Crossing[/url] is any indication."</DefaultText>
+      <DefaultText>"Eu sempre me perguntei se o ar estava mais limpo do que o Spires. Eu entendo que você está ficando muito familiarizado com eles, se a palavra que eu ouço de [url=glossary:lethian's crossing]Lethian's Crossing[/url] é alguma indicação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"The air is cleaner, but also thin - unsatisfying."</DefaultText>
+      <DefaultText>"O ar é mais limpo, mas também fino - insatisfatório."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Huh! Call that one curiosity scratched off the list. If you're ever in a position to offer tours, I'll be the first to sign up."</DefaultText>
+      <DefaultText>"Huh! Chame essa curiosidade da lista. Se você estiver em posição de oferecer passeios, eu serei o primeiro a me inscrever."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_oldwall_01_more_dead</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"More of them coming. Ready yourself, Binder!"</DefaultText>
+      <DefaultText>"Mais deles chegando. Pronto para você, Binder!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"There's more incoming!"</DefaultText>
+      <DefaultText>"Há mais entrada!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Had enough? If not, more are on the way."</DefaultText>
+      <DefaultText>"Já teve o suficiente? Se não, mais estão a caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"More on their way. I'm not afraid, are you?" </DefaultText>
+      <DefaultText>"Mais a caminho. Eu não tenho medo, você está?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Hear creatures approaching, slithering near! Crouch quickly to pounce."</DefaultText>
+      <DefaultText>"Ouça criaturas se aproximando, deslizando perto! Agache rapidamente para atacar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Looks like there are more of them! Get ready!"</DefaultText>
+      <DefaultText>"Parece que há mais deles! Prepare-se!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Random Node 7</DefaultText>
+      <DefaultText>Nó Aleatório 7</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

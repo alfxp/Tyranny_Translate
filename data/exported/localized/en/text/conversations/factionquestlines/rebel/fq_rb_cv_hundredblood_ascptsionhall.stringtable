@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_hundredblood_ascensionhall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trigger Conv Node 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Spire-den cheira a choramingar, gritando humanos. Hundred-Blood não gosta de lidar com Alphas que se recusam a ouvir grandes [url=glossary:prima]Prima[/url] para [url=glossary:stonestalkers]Stonestalkers[/url]."
+
+Ela quebra suas juntas nodosas e peludas contra a palma larga de uma mão antes de sacudir suas garras no ar.
+
+"Pode ter que disciplinar os filhotes fracos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] são leais a Fatebinder. Lutará pela matilha de Fatebinder como proteger kith. Caçarão e matarão e morrerão pelo lado humano, se necessário, para que todas as Feras possam sobreviver."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_bs_skypillarbase_beastman_02</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Stone-lands belong to [url=glossary:stonestalker]Stonestalker[/url] tribe. Has always been and will always be."</DefaultText>
+      <DefaultText>"As terras de pedra pertencem à tribo [url=glossary:stonestalker]Stonestalker[/url]. Sempre foi e sempre será."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>He sniffs at you and then snorts loudly.</DefaultText>
+      <DefaultText>Ele cheira a você e depois bufa alto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"If needed, [url=glossary:stonestalkers]Stonestalkers[/url] will protect tribe's territory with bloodshed - with thieving humans' choked-raw screams."</DefaultText>
+      <DefaultText>"Se necessário, [url=glossary:stonestalkers]Stonestalkers[/url] protegerá o território da tribo com derramamento de sangue - com gritos sufocantes de ladrões humanos".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,328 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_adjudication_assault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"As circunstâncias eram ... bem, era uma loucura, meritíssimo. Ninguém poderia agir de maneira racional."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você está pronto para ouvir o meu caso, então?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Se você permitir que eu me explique, meritíssimo ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eu sou. Comece do começo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ainda não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Não? Talvez eu espere muito dos meus servos. É isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"N-não, meritíssimo! Mas se você ouvir meu testemunho, acho que você vai entender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eu vejo uma alternativa melhor se apresentou. Fatebinder, você vai auditar este caso em meu lugar? Estou curioso para saber que tipo de conclusões você tira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Estou pronto para ouvir o caso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Agora não. Talvez mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Não me deixe esperando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Excelente. O testemunho começará."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Eu tenho medo, é uma questão sensível. Eu estava longe da cidade, vendo um acampamento militar, quando descobri dois soldados ..."
+
+Ela limpa a garganta e mantém a postura firme.
+
+"... profanando uma mulher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Um local das camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Sim. E eu entendo que é uma ocorrência bastante comum naquele exército, mas eu não aguentei. Eu fui educado para saber melhor."
+
+Ela olha para [url=glossary:tunon]Tunon[/url]. "Eu fui ensinado a ser melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Eu lutei contra os recrutas. Eles lutaram de volta, mas no final minhas habilidades venceram. Depois que ambos estavam mortos, deixei a pobre mulher ir".
+
+"Seu chefe de gangue testemunhou tudo, embora ele não tenha intervindo até que tudo estivesse terminado. Eu estava amarrado e levado de volta ao tribunal em uma carroça, onde você me encontra agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"O que aconteceu depois?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Horrível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Sim. Sim, eu também pensava assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"O réu é acusado do assassinato de súditos que eram devidos a proteção da 'lei'."
+
+"Fatebinder, eu suponho que você deseja interrogar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"O chefe da gangue não interferiu em nada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Você falou com a mulher Tiers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Você se arrepende de suas ações?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Estou pronto para dar minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Apenas brevemente. Ela me agradeceu antes de fugir. Eu não queria ficar com ela. Ela sofreu o suficiente nas mãos daqueles ... aqueles soldados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Você não acha que ela disse alguma coisa sobre querer se juntar ao exército?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Entendido. Voltando às minhas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ela olha para você com franca curiosidade. "O exército? Não que eu ..."
+
+Pensando, ela franze a testa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Guide the witness.] "And she definitely wasn't in the area for that very purpose?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Seus olhos se arregalam quando ela percebe sua intenção. O Fatebinder acena com a cabeça. "Isso é certo. Ela só mencionou isso de passagem, mas ela me disse que ela estava tentando fazer contato com o [url=glossary:scarlet chorus]Scarlet Chorus[/url]".
+
+"Você sabe, para se juntar a eles. Foi quando os soldados atacaram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vá em frente, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Não importa. Se pudéssemos voltar ao testemunho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Tudo o que ele fez foi piada sobre como o tribunal seria impiedoso. Riu todo o caminho para o [url=glossary:bastard city]Bastard City[/url].Não parecia particularmente dobrado fora de forma sobre seus homens perdidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ela franze a testa em pensamento. "Não. Se nossas posições fossem invertidas, eu teria desejado alguém para intervir em meu nome, [url=glossary:kyros]Kyros[/url] 'a lei seja condenada."
+
+Ela olha para [url=glossary:tunon]Tunon[/url] com desconforto momentâneo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Suponha que eu deveria manter minha distância do [url=glossary:scarlet chorus]Scarlet Chorus[/url] no futuro. Eu poderia não ser capaz de me conter se eu vi isso acontecer novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Muito bom. Apresente o veredicto, e deixe-nos ser feito com este assunto desagradável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Se a mulher pretendia se juntar ao [url=glossary:scarlet chorus]Scarlet Chorus[/url], ela estava protegida pela lei [url=glossary:kyros]Kyros[/url]. Suas ações foram justas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Este é um assassinato claro de sujeitos protegidos. Culpado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"As brigas ficam fora de controle o tempo todo. A intenção do Fatebinder era pura. Ela é inocente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ela entrega um arco de gratidão, mantendo o contato visual o tempo todo. "Obrigado por ouvir meu caso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[To [url=glossary:tunon]Tunon[/url].] "Why isn't the victim of assault a matter of concern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ela era uma cidadã dos Tiers. Ela não tem direitos sob a [url=glossary:kyros]Kyros[/url] 'lei. Este é um simples julgamento de assassinato, e o réu está diante de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Fatebinder Furia, você abaixou a [url=glossary:kyros]Kyros[/url] 'punição com um detalhe técnico. Esteja mais consciente de sua delicada posição no futuro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Eu ... eu entendo sua posição. Espero que você nunca seja colocada na minha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Uma execução exata e literal da lei, como eu jamais poderia dar. Obrigado por sua atenção ao caso. Dispensada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Obrigado, muito obrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Estou certo de que os servos do [url=glossary:kyros]Kyros[/url] interpretariam o assunto de maneira diferente, se eles estivessem vivos para falar em sua defesa. Como a sua é a única voz dominante, o tribunal se curva ao seu julgamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Obrigado por sua sabedoria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Eu morro na direita, não importa o que [url=glossary:kyros]Kyros[/url] tem a dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Nó de script 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Se meus recrutas não pudessem se defender contra um balconista glorificado, então suas vidas foram perdidas, tanto quanto eu estava preocupado. Boa viagem."
+
+"Ainda estou feliz em obter satisfação do assunto. A lei é a lei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Isso soa certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Venha comigo! É o machado do chefe para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Você foi brilhante. Obrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Eu espero que isso tenha um ponto, Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Você tomou o tempo para considerar sua decisão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Conte-me sua história novamente, desde o começo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Eu aconselharia não se sobrecarregar com variáveis ​​estranhas".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"E que boa companhia você fez na jornada."
+
+O chefe da gangue abre os lábios em um sorriso cheio de dentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sua compreensão da [url=glossary:kyros]Kyros[/url] 'lei me incomoda. Ele cheira a pensamentos independentes afiados além dos muros de princípios de minha corte. E, no entanto, é a sua decisão. Dispensada."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

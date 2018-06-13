@@ -1,114 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_alagan</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>21</EntryCount>
   <Entries>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Hello again."</DefaultText>
+      <DefaultText>"Olá de novo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Alagan appears visibly shaken by seeing you in the flesh. "F-Fatebinder," he stammers. "How good to see you."</DefaultText>
+      <DefaultText>Alagan parece visivelmente abalado ao vê-lo em carne e osso. "F-Fatebinder", ele gagueja. "Que bom te ver."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"I know you've been spreading false rumors about your brother."</DefaultText>
+      <DefaultText>"Eu sei que você está espalhando falsos rumores sobre o seu irmão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Alagan's face pales and he takes a small step back. "How do you know that they're false?"</DefaultText>
+      <DefaultText>O rosto de Alagan empalidece e ele dá um pequeno passo para trás. "Como você sabe que eles são falsos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Where is Gino?"</DefaultText>
+      <DefaultText>"Onde está Gino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"He is out fishing. He didn't want to speak to me, said he needed time to think." He scratches his arms. "You didn't say anything to him did you?"</DefaultText>
+      <DefaultText>"Ele está pescando. Ele não queria falar comigo, disse que precisava de tempo para pensar." Ele coça os braços. "Você não disse nada para ele, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"It was a simple mistake!" Alagan protests. "How could I know if they were Chorus members or not?"</DefaultText>
+      <DefaultText>"Foi um erro simples!" Alagan protesta. "Como eu poderia saber se eles eram membros do Coro ou não?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"[Lie] I believe Alagan tells the truth, you better leave town before I administer the justice myself." </DefaultText>
+      <DefaultText>"[Lie] Acredito Alagan diz a verdade, é melhor você sair da cidade antes de eu administrar a justiça sozinho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Gino's eyes narrow into tiny slits which still don't manage to mask the glowing rage within them. "I know what I saw, and so do you. I will not be bullied any longer by [url=glossary:kyros]Kyros[/url]' pawns." He hoists his sack of supplies over his shoulders and turns and walks away without acknowledging Alagan.</DefaultText>
+      <DefaultText>Os olhos de Gino se estreitam em fendas minúsculas que ainda não conseguem mascarar a raiva brilhante dentro deles. "Eu sei o que vi, e você também. Eu não vou ser mais intimidado por [url=glossary:kyros]Kyros[/url] 'peões." Ele ergue o saco de suprimentos sobre os ombros e se vira e vai embora sem reconhecer Alagan.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"I had no choice, Fatebinder." Alagan backs away. "Please, I have a family to take care of." He turns and starts to run away.</DefaultText>
+      <DefaultText>"Eu não tive escolha, Fatebinder." Alagan se afasta. "Por favor, eu tenho uma família para cuidar." Ele se vira e começa a fugir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"What is going on here?"</DefaultText>
+      <DefaultText>"O que está acontecendo aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Alagan is working with the [url=glossary:disfavored]Disfavored[/url] to smear your name."</DefaultText>
+      <DefaultText>"Alagan está trabalhando com o [url=glossary:disfavored]Disfavored[/url] para manchar seu nome."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Gino eyes glaze in a bitter rage, "Why Alagan, after all these years, why?!" His shout echoes throughout the settlement.</DefaultText>
+      <DefaultText>Os olhos de Gino brilham em uma raiva amarga, "Por que Alagan, depois de todos esses anos, por quê?" Seu grito ecoa ao longo do assentamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"I saw the bodies myself. They are [url=glossary:scarlet chorus]Scarlet Chorus[/url] Blood Chanters - killed by [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <DefaultText>"Eu vi os corpos eu mesmo. Eles são [url=glossary:scarlet chorus]Scarlet Chorus[/url] Blood Chanters - mortos por [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Gino's face grows still while his lips remain as the only thing in motion. "...And you never will. Begone from here, Alagan. Never show your face again."
+      <DefaultText>O rosto de Gino cresce ainda enquanto seus lábios permanecem como a única coisa em movimento. "... E você nunca irá. Comece daqui, Alagan. Nunca mostre seu rosto novamente."
 
-Alagan's lips tremble in a failed attempt to mutter a reply but eventually falls victim to the weight of his head as it droops down. He picks a small sack nearby and slowly scampers off.</DefaultText>
+Os lábios de Alagan tremem em uma tentativa fracassada de murmurar uma resposta, mas acabam sendo vítimas do peso de sua cabeça quando ela cai. Ele pega um pequeno saco nas proximidades e lentamente recua.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Thank you, Fatebinder. You made the right choice. From now on, you'll get a considerable discount at my store and I'll make sure the [url=glossary:disfavored]Disfavored[/url] gets word of your help."</DefaultText>
+      <DefaultText>"Obrigado, Fatebinder. Você fez a escolha certa. A partir de agora, você obterá um desconto considerável na minha loja e eu me certificarei de que o [url=glossary:disfavored]Disfavored[/url] receba sua ajuda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Let me see what you have."</DefaultText>
+      <DefaultText>"Deixe-me ver o que você tem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Alagan shrinks in place, his knees wobbling in an increasingly difficult effort to keep him from toppling over. "F-Father always favored you, always pushed me around. I just wanted a chance to run things for once!"</DefaultText>
+      <DefaultText>Alagan se contrai no lugar, seus joelhos oscilando em um esforço cada vez mais difícil para impedi-lo de tombar. "F-pai sempre favoreceu você, sempre me empurrou ao redor. Eu só queria uma chance de executar as coisas pela primeira vez!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Fate-I mean Archon [Player Name], is that what I am supposed to call you, now?"</DefaultText>
+      <DefaultText>"Destino - quero dizer Archon [Nome do Jogador], é isso que eu deveria te chamar, agora?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Would you like to see my wares? Only the very best for an Archon."</DefaultText>
+      <DefaultText>"Você gostaria de ver meus produtos? Apenas o melhor para um Arconte."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

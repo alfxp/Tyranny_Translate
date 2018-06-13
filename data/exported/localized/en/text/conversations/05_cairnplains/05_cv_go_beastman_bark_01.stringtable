@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_cv_go_beastman_bark_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>2</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Elder Teeth crystals grow from earth-blood of [url=glossary:stonestalker]Stonestalker[/url]'s ancestors. Humans will not take such from tribe."</DefaultText>
+      <DefaultText>"Os cristais Elder Teeth crescem a partir do sangue da terra dos ancestrais de [url=glossary:stonestalker]Stonestalker[/url]. Os seres humanos não vão tirar isso da tribo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>The Beastman growls at you.</DefaultText>
+      <DefaultText>O Homem-Besta rosna para você.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>604</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Player</DefaultText>
+      <DefaultText>Jogador</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Horde</DefaultText>
+      <DefaultText>Horda</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Verse</DefaultText>
+      <DefaultText>Versículo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,37 +36,37 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Traveler</DefaultText>
+      <DefaultText>Viajante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Camp Leader</DefaultText>
+      <DefaultText>Líder do acampamento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Soldier</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Lieutenant</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Tenente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Barricade</DefaultText>
+      <DefaultText>Barricada</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Blood Chanter</DefaultText>
+      <DefaultText>Canto de sangue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Stone Shield</DefaultText>
+      <DefaultText>Escudo de pedra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Bronze Armiger</DefaultText>
+      <DefaultText>Armiger de bronze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Resolute Blade</DefaultText>
+      <DefaultText>Lâmina Resoluta</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Iron Walker</DefaultText>
+      <DefaultText>Caminhante de ferro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,47 +111,47 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Winch</DefaultText>
+      <DefaultText>Guincho</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Sender Cade</DefaultText>
+      <DefaultText>Remetente Cade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Scout</DefaultText>
+      <DefaultText>Escoteiro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Chorus Guard</DefaultText>
+      <DefaultText>Guarda do Coro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Merchant</DefaultText>
+      <DefaultText>Comerciante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Trader</DefaultText>
+      <DefaultText>Comerciante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Prisoner</DefaultText>
+      <DefaultText>Prisioneiro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Captive [url=glossary:scarlet chorus]Scarlet Chorus[/url] Soldier</DefaultText>
+      <DefaultText>Captive [url=glossary:scarlet chorus]Scarlet Chorus[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Crescent Runner</DefaultText>
+      <DefaultText>Corredor Crescente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,12 +161,12 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Large Gate</DefaultText>
+      <DefaultText>Portão Grande</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Vendor</DefaultText>
+      <DefaultText>Fornecedor</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,37 +176,37 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Gate</DefaultText>
+      <DefaultText>Portão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Gate</DefaultText>
+      <DefaultText>Portão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Gate</DefaultText>
+      <DefaultText>Portão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Drawbridge</DefaultText>
+      <DefaultText>Ponte levadiça</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Winch</DefaultText>
+      <DefaultText>Guincho</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Trader</DefaultText>
+      <DefaultText>Comerciante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Winch</DefaultText>
+      <DefaultText>Guincho</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +241,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Sky Blade</DefaultText>
+      <DefaultText>Lâmina do Céu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Scourge</DefaultText>
+      <DefaultText>Flagelo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,12 +271,12 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Apprentice [url=glossary:sage]Sage[/url]</DefaultText>
+      <DefaultText>Aprendiz [url=glossary:sage]Sage[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Malice</DefaultText>
+      <DefaultText>Malícia</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,17 +286,17 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Oldwalls Trap</DefaultText>
+      <DefaultText>Armadilha de Oldwalls</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Blood Hound</DefaultText>
+      <DefaultText>Cão de sangue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Scarlet Fury</DefaultText>
+      <DefaultText>Fúria Escarlate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,22 +306,22 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Iron Marshal Erenyos</DefaultText>
+      <DefaultText>Marechal de Ferro Erenyos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Nalya of Sunder</DefaultText>
+      <DefaultText>Nalya de Sunder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Seeking-Sheath</DefaultText>
+      <DefaultText>Buscando-Bainha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Lohara Master of Tempering</DefaultText>
+      <DefaultText>Lohara Mestre de Temperamento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Eldian</DefaultText>
+      <DefaultText>Eldiano</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Seven Toes</DefaultText>
+      <DefaultText>Sete dedos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,37 +371,37 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Ring-Dropper Ceratha</DefaultText>
+      <DefaultText>Ceratha Conta-gotas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Commander</DefaultText>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Comandante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Captain</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Capitão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Dying Sky Blade</DefaultText>
+      <DefaultText>Lâmina do céu morrendo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Crimson Spear</DefaultText>
+      <DefaultText>Lança carmesim</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Sword-Breaker</DefaultText>
+      <DefaultText>Quebra-Espada</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Settler</DefaultText>
+      <DefaultText>Colono</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,12 +421,12 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Fatebinder Rhogalus</DefaultText>
+      <DefaultText>Rhogalus do Fatebinder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Brother Caelus</DefaultText>
+      <DefaultText>Irmão Caelus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Raider</DefaultText>
+      <DefaultText>Corsário</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Fatebinder Rhogalus</DefaultText>
+      <DefaultText>Rhogalus do Fatebinder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,27 +476,27 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Merchant</DefaultText>
+      <DefaultText>Comerciante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] Merchant</DefaultText>
+      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] Comerciante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Sentry</DefaultText>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Sentinela</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Sentry</DefaultText>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Sentinela</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Soldier</DefaultText>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Beastman Servant</DefaultText>
+      <DefaultText>Servo Beastman</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,12 +516,12 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Iron Marshal Erenyos</DefaultText>
+      <DefaultText>Marechal de Ferro Erenyos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Twelve Count</DefaultText>
+      <DefaultText>Doze Contagem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,12 +541,12 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] Trap</DefaultText>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] Armadilha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Captain</DefaultText>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Capitão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,7 +571,7 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Old Man Mua</DefaultText>
+      <DefaultText>Velho Mua</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Gram</DefaultText>
+      <DefaultText>Grama</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,7 +596,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Villager</DefaultText>
+      <DefaultText>Aldeão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -631,7 +631,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Bitter Quip</DefaultText>
+      <DefaultText>Quitter amargo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,12 +641,12 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Quartermaster</DefaultText>
+      <DefaultText>Intendente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Fifth Eye</DefaultText>
+      <DefaultText>Quinto olho</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Prisoner</DefaultText>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Prisioneiro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,12 +716,12 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Dead Body</DefaultText>
+      <DefaultText>Corpo morto</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Aurora</DefaultText>
+      <DefaultText>aurora</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,12 +746,12 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>Sun Soldier</DefaultText>
+      <DefaultText>Soldado Sol</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Honor Guard</DefaultText>
+      <DefaultText>Guarda de honra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,12 +761,12 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Archer</DefaultText>
+      <DefaultText>Arqueiro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Spy</DefaultText>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Espião</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,7 +781,7 @@
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Apprentice Garrick</DefaultText>
+      <DefaultText>Aprendiz Garrick</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,17 +806,17 @@
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Havoc</DefaultText>
+      <DefaultText>Estragos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>Sages</DefaultText>
+      <DefaultText>Sábios</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>School of Ink and Quill </DefaultText>
+      <DefaultText>Escola de Tinta e Pena</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -861,7 +861,7 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Will</DefaultText>
+      <DefaultText>Vai</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,22 +871,22 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>[url=glossary:sage]Sage[/url] Vendor</DefaultText>
+      <DefaultText>[url=glossary:sage]Sage[/url] Fornecedor</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Merchant Praxus</DefaultText>
+      <DefaultText>Praxus Mercante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Merchant Tychus</DefaultText>
+      <DefaultText>Tychus Mercante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Merchant Basila</DefaultText>
+      <DefaultText>Mercador Basila</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,12 +896,12 @@
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Stone Shield Trainer</DefaultText>
+      <DefaultText>Treinador de Escudo de Pedra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>[url=glossary:sage]Sage[/url] Ability Trainer</DefaultText>
+      <DefaultText>[url=glossary:sage]Sage[/url] Treinador de habilidades</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -911,17 +911,17 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>[url=glossary:sage]Sage[/url] Skill Trainer</DefaultText>
+      <DefaultText>[url=glossary:sage]Sage[/url] Treinador de habilidades</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Noble</DefaultText>
+      <DefaultText>Nobre</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>Blood Mulch</DefaultText>
+      <DefaultText>Sangue Palha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,7 +931,7 @@
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>Aster</DefaultText>
+      <DefaultText>Áster</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -956,52 +956,52 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>Misery</DefaultText>
+      <DefaultText>Miséria</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Iron Walker</DefaultText>
+      <DefaultText>Caminhante de ferro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>Captured [url=glossary:disfavored]Disfavored[/url] Soldier</DefaultText>
+      <DefaultText>Capturado [url=glossary:disfavored]Disfavored[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Captured [url=glossary:scarlet chorus]Scarlet Chorus[/url] Soldier</DefaultText>
+      <DefaultText>Capturado [url=glossary:scarlet chorus]Scarlet Chorus[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Captured [url=glossary:unbroken]Unbroken[/url] Soldier</DefaultText>
+      <DefaultText>Capturado [url=glossary:unbroken]Unbroken[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>Captured [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] Soldier</DefaultText>
+      <DefaultText>Capturado [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Captured [url=glossary:vendrien guard]Vendrien Guard[/url] Soldier</DefaultText>
+      <DefaultText>Capturado [url=glossary:vendrien guard]Vendrien Guard[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>Bone Whittler</DefaultText>
+      <DefaultText>Osso Whittler</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>The Censor</DefaultText>
+      <DefaultText>O Censor</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Fat Ulsten</DefaultText>
+      <DefaultText>Ulsten de gordura</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1011,7 +1011,7 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Numbly</DefaultText>
+      <DefaultText>Humildemente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1021,13 +1021,12 @@
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>Naruk
-</DefaultText>
+      <DefaultText>Naruk</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>Left-Claw</DefaultText>
+      <DefaultText>Garra Esquerda</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1042,7 +1041,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] Apprentice</DefaultText>
+      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] Aprendiz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1057,7 +1056,7 @@
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>Foul Murmur</DefaultText>
+      <DefaultText>Murmúra Suja</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1067,12 +1066,12 @@
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Tangled Limb</DefaultText>
+      <DefaultText>Membro Tangled</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Gore Swallow</DefaultText>
+      <DefaultText>Gore Andorinha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1092,7 +1091,7 @@
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Red-Fang</DefaultText>
+      <DefaultText>Vermelho-fang</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1107,7 +1106,7 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Hundred-Blood</DefaultText>
+      <DefaultText>Cem Sangue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1122,37 +1121,37 @@
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>Blood-Rain</DefaultText>
+      <DefaultText>Chuva de sangue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Crimson-Stone</DefaultText>
+      <DefaultText>Pedra Carmesim</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Dark-Foot</DefaultText>
+      <DefaultText>Pé escuro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Dead-Eater</DefaultText>
+      <DefaultText>Comedor De Morto</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Octave</DefaultText>
+      <DefaultText>Oitava</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>Shadow Trap</DefaultText>
+      <DefaultText>Armadilha das Sombras</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Jani the Reaver</DefaultText>
+      <DefaultText>Jani o Reaver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1172,7 +1171,7 @@
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Embodied Memory</DefaultText>
+      <DefaultText>Memória Incorporada</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1182,7 +1181,7 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Bone-Claw</DefaultText>
+      <DefaultText>Garra Óssea</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1202,12 +1201,12 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Iron-Claw</DefaultText>
+      <DefaultText>Garra de ferro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>Shadow</DefaultText>
+      <DefaultText>Sombra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1222,7 +1221,7 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>Folant</DefaultText>
+      <DefaultText>Folante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1232,27 +1231,27 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Corpse-Eater</DefaultText>
+      <DefaultText>Cadáver-Comedor</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Blood-Rock</DefaultText>
+      <DefaultText>Blood Rock</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Dead [url=glossary:sage]Sage[/url]</DefaultText>
+      <DefaultText>Morto [url=glossary:sage]Sage[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>Embodied Nightmare</DefaultText>
+      <DefaultText>Pesadelo Incorporado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>Stone-Warden</DefaultText>
+      <DefaultText>Guardião da Pedra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1267,52 +1266,52 @@
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>Guard</DefaultText>
+      <DefaultText>Guarda</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>Soldier</DefaultText>
+      <DefaultText>Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>Settler</DefaultText>
+      <DefaultText>Colono</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>Villager</DefaultText>
+      <DefaultText>Aldeão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>Prisoner</DefaultText>
+      <DefaultText>Prisioneiro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Mage</DefaultText>
+      <DefaultText>Mago</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Captain</DefaultText>
+      <DefaultText>Capitão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Merchant</DefaultText>
+      <DefaultText>Comerciante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Vendor</DefaultText>
+      <DefaultText>Fornecedor</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Scholar</DefaultText>
+      <DefaultText>Estudioso</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1337,27 +1336,27 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Chorus Soldier</DefaultText>
+      <DefaultText>Soldado do coro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Chorus Mage</DefaultText>
+      <DefaultText>Mago do Coro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Chorus Captain</DefaultText>
+      <DefaultText>Capitão do coro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Captain</DefaultText>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Capitão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Mage</DefaultText>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Mago</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1367,57 +1366,57 @@
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Soldier</DefaultText>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Soldier</DefaultText>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Captain</DefaultText>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Capitão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Brotherhood Soldier</DefaultText>
+      <DefaultText>Soldado da Irmandade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>Brotherhood Captain</DefaultText>
+      <DefaultText>Capitão da Irmandade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Soldier</DefaultText>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Captain</DefaultText>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Capitão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>[url=glossary:sage]Sage[/url] Mage</DefaultText>
+      <DefaultText>[url=glossary:sage]Sage[/url] Mago</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>Forgebound Mage</DefaultText>
+      <DefaultText>Mago Forgebound</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>Captive</DefaultText>
+      <DefaultText>Cativo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>Dead Looter</DefaultText>
+      <DefaultText>Lançador morto</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1447,12 +1446,12 @@
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>Ripfang</DefaultText>
+      <DefaultText>Ripado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Blood Drinker</DefaultText>
+      <DefaultText>Bebedor de sangue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1467,12 +1466,12 @@
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>Corpse Eye</DefaultText>
+      <DefaultText>Olho Cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>Tychon the Swindler</DefaultText>
+      <DefaultText>Tychon o vigarista</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1487,7 +1486,7 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Fatebinder Rhogalus</DefaultText>
+      <DefaultText>Rhogalus do Fatebinder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1527,7 +1526,7 @@
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>Flame-Caller</DefaultText>
+      <DefaultText>Chamador de chamas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1542,7 +1541,7 @@
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>Captain Galen</DefaultText>
+      <DefaultText>Capitão Galeno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1557,7 +1556,7 @@
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>Jagged-Claw</DefaultText>
+      <DefaultText>Garra Dentada</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1567,7 +1566,7 @@
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>Dream Slayer</DefaultText>
+      <DefaultText>Caçador de Sonhos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1577,7 +1576,7 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>Scar Fist</DefaultText>
+      <DefaultText>Punho da cicatriz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1587,7 +1586,7 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>Walks-in-Stone</DefaultText>
+      <DefaultText>Caminhada na Pedra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1607,7 +1606,7 @@
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>Mire</DefaultText>
+      <DefaultText>Lama</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1622,7 +1621,7 @@
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>Delia Master of Alloy</DefaultText>
+      <DefaultText>Delia Mestre da Liga</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1647,12 +1646,12 @@
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>Thantos Master of Brazing</DefaultText>
+      <DefaultText>Thantos Mestre De Brasagem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>Malphorem</DefaultText>
+      <DefaultText>Malforem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1672,7 +1671,7 @@
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>Puppet</DefaultText>
+      <DefaultText>Fantoche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1682,7 +1681,7 @@
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>Iron-dancer</DefaultText>
+      <DefaultText>Dançarino de ferro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1692,7 +1691,7 @@
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>Scourge-caller</DefaultText>
+      <DefaultText>Flagelo-chamador</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1712,12 +1711,12 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>Sender Cade</DefaultText>
+      <DefaultText>Remetente Cade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>Twelve Count</DefaultText>
+      <DefaultText>Doze Contagem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1742,12 +1741,12 @@
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>Lysandra</DefaultText>
+      <DefaultText>Lisandra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>Bleak Anthem</DefaultText>
+      <DefaultText>Hino Sombrio</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1777,7 +1776,7 @@
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>Blood Drinker</DefaultText>
+      <DefaultText>Bebedor de sangue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1802,7 +1801,7 @@
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>Methodius</DefaultText>
+      <DefaultText>Metódio</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1812,7 +1811,7 @@
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>Dire-Tooth</DefaultText>
+      <DefaultText>Dire-Dente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1822,17 +1821,17 @@
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>Jagged Remedy</DefaultText>
+      <DefaultText>Remédio irregular</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>390</ID>
-      <DefaultText>Captured [url=glossary:sage]Sage[/url] Soldier</DefaultText>
+      <DefaultText>Capturado [url=glossary:sage]Sage[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>Captured [url=glossary:forge-bound]Forge-Bound[/url] Soldier</DefaultText>
+      <DefaultText>Capturado [url=glossary:forge-bound]Forge-Bound[/url] Soldado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1847,17 +1846,17 @@
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>Zdenya, Master of the Forge</DefaultText>
+      <DefaultText>Zdenya, mestre da forja</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>Mercenary</DefaultText>
+      <DefaultText>Mercenário</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>Captive</DefaultText>
+      <DefaultText>Cativo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1867,27 +1866,27 @@
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>The Fragment of Amelia</DefaultText>
+      <DefaultText>O fragmento de Amelia</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>The Fragment of Hundred Blood</DefaultText>
+      <DefaultText>O fragmento de cem sangue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>The Fragment of Raetommon</DefaultText>
+      <DefaultText>O fragmento de Raetommon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>The Fragment of Red Geyser</DefaultText>
+      <DefaultText>O fragmento de gêiser vermelho</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>The Fragment of Renata</DefaultText>
+      <DefaultText>O fragmento de Renata</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1897,22 +1896,22 @@
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>The Fragment of Zdenya</DefaultText>
+      <DefaultText>O fragmento de Zdenya</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>The Fragment of Pelox Kreyton</DefaultText>
+      <DefaultText>O fragmento de Pelox Kreyton</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>The Fragment of Censor</DefaultText>
+      <DefaultText>O fragmento do censor</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>Orb of Life</DefaultText>
+      <DefaultText>Orbe da Vida</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1932,7 +1931,7 @@
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>Fake Limp</DefaultText>
+      <DefaultText>Falsificação Limpa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1947,7 +1946,7 @@
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>Winch</DefaultText>
+      <DefaultText>Guincho</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1977,12 +1976,12 @@
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>Tangled Limb</DefaultText>
+      <DefaultText>Membro Tangled</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>Methodius</DefaultText>
+      <DefaultText>Metódio</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1992,7 +1991,7 @@
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Merchant's Assistant</DefaultText>
+      <DefaultText>Assistente do comerciante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2002,12 +2001,12 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>Stone Shield Callias</DefaultText>
+      <DefaultText>Escudo de Pedra Callias</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>428</ID>
-      <DefaultText>Captain Agathon</DefaultText>
+      <DefaultText>Capitão Agathon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2047,7 +2046,7 @@
     </Entry>
     <Entry>
       <ID>436</ID>
-      <DefaultText>Mistress Sophia</DefaultText>
+      <DefaultText>Amante sophia</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2082,22 +2081,22 @@
     </Entry>
     <Entry>
       <ID>443</ID>
-      <DefaultText>Regent Bronze Armiger</DefaultText>
+      <DefaultText>Regente Bronze Armiger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>Regent Resolute Blade</DefaultText>
+      <DefaultText>Lâmina Resoluta Regente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>Regent Sky Blade</DefaultText>
+      <DefaultText>Lâmina do Céu Regente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Half-Mast</DefaultText>
+      <DefaultText>Meio mastro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2127,12 +2126,12 @@
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>Acalia</DefaultText>
+      <DefaultText>Acália</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>Mouth Breather Nefsio</DefaultText>
+      <DefaultText>Boca De Respiro Nefsio</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2142,7 +2141,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Mocking Blaze</DefaultText>
+      <DefaultText>Zombando de Blaze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2152,12 +2151,12 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>Dead Platus</DefaultText>
+      <DefaultText>Platus morto</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>Silent-Mane</DefaultText>
+      <DefaultText>Mane Silencioso</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2167,12 +2166,12 @@
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>Splinter</DefaultText>
+      <DefaultText>Lasca</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Speaks-for-Soil</DefaultText>
+      <DefaultText>Fala-por-solo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2182,12 +2181,12 @@
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>Severed Sophus</DefaultText>
+      <DefaultText>Severo Sophus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>Prattle</DefaultText>
+      <DefaultText>Praticar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2202,7 +2201,7 @@
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>Fatebinder Rhogalus</DefaultText>
+      <DefaultText>Rhogalus do Fatebinder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2242,37 +2241,37 @@
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>The Voices of Barik</DefaultText>
+      <DefaultText>As vozes de Barik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>477</ID>
-      <DefaultText>The Voices of Eb</DefaultText>
+      <DefaultText>As vozes do Eb</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>The Voices of Kills-in-Shadow</DefaultText>
+      <DefaultText>As vozes de mata-na-sombra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>The Voices of Lantry</DefaultText>
+      <DefaultText>As vozes de Lantry</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>The Voices of Sirin</DefaultText>
+      <DefaultText>As vozes de Sirin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>The Voices of Verse</DefaultText>
+      <DefaultText>As vozes do verso</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>482</ID>
-      <DefaultText>[url=glossary:sage]Sage[/url] Apprentice</DefaultText>
+      <DefaultText>[url=glossary:sage]Sage[/url] Aprendiz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2292,7 +2291,7 @@
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>Sickle Notch</DefaultText>
+      <DefaultText>Foice entalhe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2317,17 +2316,17 @@
     </Entry>
     <Entry>
       <ID>491</ID>
-      <DefaultText>Chaos</DefaultText>
+      <DefaultText>Caos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>Gnashing Nils</DefaultText>
+      <DefaultText>Ranger Nils</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>Requiem</DefaultText>
+      <DefaultText>Réquiem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2352,7 +2351,7 @@
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>Pliny</DefaultText>
+      <DefaultText>Plínio</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2367,12 +2366,12 @@
     </Entry>
     <Entry>
       <ID>501</ID>
-      <DefaultText>Ovinus</DefaultText>
+      <DefaultText>Ovino</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>502</ID>
-      <DefaultText>Fox Trick</DefaultText>
+      <DefaultText>Truque De Raposa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2387,12 +2386,12 @@
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>Chuckle Bones</DefaultText>
+      <DefaultText>Ossos da risada</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>506</ID>
-      <DefaultText>Blood Mulch</DefaultText>
+      <DefaultText>Sangue Palha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2402,7 +2401,7 @@
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>Rotted-Shank</DefaultText>
+      <DefaultText>Pata-apodrecida</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2412,7 +2411,7 @@
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Livia</DefaultText>
+      <DefaultText>Lívia</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2452,7 +2451,7 @@
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>Droop Eye</DefaultText>
+      <DefaultText>Olho Droop</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2462,7 +2461,7 @@
     </Entry>
     <Entry>
       <ID>520</ID>
-      <DefaultText>Claret the Flayer</DefaultText>
+      <DefaultText>Claret o Flayer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2487,17 +2486,17 @@
     </Entry>
     <Entry>
       <ID>527</ID>
-      <DefaultText>Red Geyser</DefaultText>
+      <DefaultText>Gêiser Vermelho</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Three Whispers</DefaultText>
+      <DefaultText>Três sussurros</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>529</ID>
-      <DefaultText>Vollus, Master of Smiths</DefaultText>
+      <DefaultText>Vollus, mestre dos Smiths</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2512,67 +2511,67 @@
     </Entry>
     <Entry>
       <ID>532</ID>
-      <DefaultText>Javala's Corpse</DefaultText>
+      <DefaultText>Cadáver de Javala</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>533</ID>
-      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>534</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>535</ID>
-      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>536</ID>
-      <DefaultText>Beastman Corpse</DefaultText>
+      <DefaultText>Cadáver Beastman</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>537</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Bronze Brotherhood[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:bronze brotherhood]Bronze Brotherhood[/url] Cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>538</ID>
-      <DefaultText>[url=glossary:sage]Sage[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:sage]Sage[/url] cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>539</ID>
-      <DefaultText>Beastman Corpse</DefaultText>
+      <DefaultText>Cadáver Beastman</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>540</ID>
-      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>541</ID>
-      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>542</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>543</ID>
-      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>544</ID>
-      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2592,7 +2591,7 @@
     </Entry>
     <Entry>
       <ID>548</ID>
-      <DefaultText>Honor Guard Corpse</DefaultText>
+      <DefaultText>Cadáver da Guarda de Honra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2607,12 +2606,12 @@
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>Lohara, Master of the Forge</DefaultText>
+      <DefaultText>Lohara, mestre da forja</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>Ulantis, Master of the Forge</DefaultText>
+      <DefaultText>Ulantis, mestre da forja</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2622,12 +2621,12 @@
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>Dog</DefaultText>
+      <DefaultText>Cachorro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>555</ID>
-      <DefaultText>Pig</DefaultText>
+      <DefaultText>Porco</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2637,27 +2636,27 @@
     </Entry>
     <Entry>
       <ID>557</ID>
-      <DefaultText>The Fragment of Pelox Florian</DefaultText>
+      <DefaultText>O fragmento de Pelox Florian</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>558</ID>
-      <DefaultText>The Fragment of Horatia</DefaultText>
+      <DefaultText>O fragmento de horatia</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>559</ID>
-      <DefaultText>The Fragment of Brennix</DefaultText>
+      <DefaultText>O fragmento de Brennix</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Boar</DefaultText>
+      <DefaultText>Javali</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Cat</DefaultText>
+      <DefaultText>Gato</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2667,7 +2666,7 @@
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>Stag</DefaultText>
+      <DefaultText>Veado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2677,12 +2676,12 @@
     </Entry>
     <Entry>
       <ID>565</ID>
-      <DefaultText>The Fragment of Kirem</DefaultText>
+      <DefaultText>O fragmento de kirem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>Undying Banner</DefaultText>
+      <DefaultText>Bandeira Imortal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2692,12 +2691,12 @@
     </Entry>
     <Entry>
       <ID>568</ID>
-      <DefaultText>Spike Trap</DefaultText>
+      <DefaultText>Armadilha de pico</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>569</ID>
-      <DefaultText>Quiet Shiv</DefaultText>
+      <DefaultText>Shiv Quieto</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2707,17 +2706,17 @@
     </Entry>
     <Entry>
       <ID>571</ID>
-      <DefaultText>Two Tooth</DefaultText>
+      <DefaultText>Dois dentes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>572</ID>
-      <DefaultText>Court Officer</DefaultText>
+      <DefaultText>Oficial de Justiça</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>573</ID>
-      <DefaultText>Iron Marshal Erenyos</DefaultText>
+      <DefaultText>Marechal de Ferro Erenyos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2727,7 +2726,7 @@
     </Entry>
     <Entry>
       <ID>575</ID>
-      <DefaultText>Spire Worker</DefaultText>
+      <DefaultText>Trabalhador de pináculo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2737,7 +2736,7 @@
     </Entry>
     <Entry>
       <ID>577</ID>
-      <DefaultText>Lone-Fang</DefaultText>
+      <DefaultText>Lone-fang</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2747,17 +2746,17 @@
     </Entry>
     <Entry>
       <ID>579</ID>
-      <DefaultText>Trainer Rhys</DefaultText>
+      <DefaultText>Treinador Rhys</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>580</ID>
-      <DefaultText>Training Dummy</DefaultText>
+      <DefaultText>Boneco de Treinamento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>581</ID>
-      <DefaultText>Alchemist Ambro</DefaultText>
+      <DefaultText>Alquimista Ambro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2767,7 +2766,7 @@
     </Entry>
     <Entry>
       <ID>583</ID>
-      <DefaultText>[url=glossary:sage]Sage[/url] Corpse</DefaultText>
+      <DefaultText>[url=glossary:sage]Sage[/url] cadáver</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2807,7 +2806,7 @@
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Jag</DefaultText>
+      <DefaultText>Entalhe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2817,12 +2816,12 @@
     </Entry>
     <Entry>
       <ID>593</ID>
-      <DefaultText>Flick</DefaultText>
+      <DefaultText>Estalido</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>594</ID>
-      <DefaultText>Half Scar</DefaultText>
+      <DefaultText>Meia cicatriz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2842,12 +2841,12 @@
     </Entry>
     <Entry>
       <ID>598</ID>
-      <DefaultText>Enemy Male</DefaultText>
+      <DefaultText>Macho Inimigo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>599</ID>
-      <DefaultText>Enemy Female</DefaultText>
+      <DefaultText>Mulher Inimiga</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2857,7 +2856,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Scavenger Corpse</DefaultText>
+      <DefaultText>Cadáver de Tesouro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2867,7 +2866,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Crooked Shin</DefaultText>
+      <DefaultText>Canela Torta</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2877,17 +2876,17 @@
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText>Claws-at-Throat</DefaultText>
+      <DefaultText>Garras na Garganta</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>606</ID>
-      <DefaultText>Night-Yowl</DefaultText>
+      <DefaultText>Noite-Yowl</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>607</ID>
-      <DefaultText>Saber</DefaultText>
+      <DefaultText>Sabre</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2907,22 +2906,22 @@
     </Entry>
     <Entry>
       <ID>611</ID>
-      <DefaultText>Lupin</DefaultText>
+      <DefaultText>Tremoço</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>612</ID>
-      <DefaultText>Claw Trap</DefaultText>
+      <DefaultText>Armadilha de garra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>613</ID>
-      <DefaultText>Fire Trap</DefaultText>
+      <DefaultText>Armadilha de fogo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>614</ID>
-      <DefaultText>Arcane Trap</DefaultText>
+      <DefaultText>Armadilha Arcana</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2962,7 +2961,7 @@
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>Kosma </DefaultText>
+      <DefaultText>Kosma</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2982,7 +2981,7 @@
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>The Silent Archive</DefaultText>
+      <DefaultText>O Arquivo Silencioso</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2992,17 +2991,17 @@
     </Entry>
     <Entry>
       <ID>675</ID>
-      <DefaultText>Deft Blade</DefaultText>
+      <DefaultText>Lâmina hábil</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>676</ID>
-      <DefaultText>Sentinel</DefaultText>
+      <DefaultText>Sentinela</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>677</ID>
-      <DefaultText>Snapshot</DefaultText>
+      <DefaultText>Instantâneo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3012,7 +3011,7 @@
     </Entry>
     <Entry>
       <ID>695</ID>
-      <DefaultText>Phaedrus</DefaultText>
+      <DefaultText>Fedro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3022,7 +3021,7 @@
     </Entry>
     <Entry>
       <ID>697</ID>
-      <DefaultText>Stratonid</DefaultText>
+      <DefaultText>Estratonídeo</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

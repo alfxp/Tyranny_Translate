@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_tychus</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Welcome, welcome!" The merchant motions you over. "What can I get for you today? Be sure to stock up before you leave - there's plenty of wilds between here and the [url=glossary:bastard city]Bastard City[/url]!"</DefaultText>
+      <DefaultText>"Bem-vindo bem vindo!" O comerciante faz um movimento para você. "O que eu posso conseguir para você hoje? Certifique-se de estocar antes de sair - há uma abundância de wilds entre aqui e o [url=glossary:bastard city]Bastard City[/url]!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,52 +21,52 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"We will find something you like..." He turns to his goods.</DefaultText>
+      <DefaultText>"Nós vamos encontrar algo que você gosta ..." Ele se vira para seus bens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"That's a mistake, friend! You won't find lower prices anywhere!"</DefaultText>
+      <DefaultText>"Isso é um erro, amigo! Você não encontrará preços mais baixos em nenhum lugar!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Could you tell me anything about this seal? I found it in [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
+      <DefaultText>"Você poderia me dizer alguma coisa sobre este selo? Eu encontrei em [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Tychus turns it over in his hands and shakes his head. "Doesn't look like any seal I've encountered. Sorry... Someone else might know, though."</DefaultText>
+      <DefaultText>Tychus vira-o nas mãos e balança a cabeça. "Não parece com qualquer selo que eu encontrei. Desculpe ... Alguém poderia saber, no entanto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"What can you tell me about Gino?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre o Gino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"He was accused of killing off the competition - but nothing ever came of it. He's still being allowed to sell his wares, so there must not have been definitive proof of any misdeeds. Although, with the rumors, I'd imagine right now is a very tough time for him."</DefaultText>
+      <DefaultText>"Ele foi acusado de matar a concorrência - mas nunca aconteceu nada disso. Ele ainda está autorizado a vender seus produtos, então não deve haver prova definitiva de quaisquer erros. Embora, com os rumores, eu imagino agora é um momento muito difícil para ele ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>He stops, his lip turning up in a sneer. "Hmmmm... Here to witness your handiwork, Fatebinder? It wasn't enough to enact the [url=glossary:edict]Edict[/url], you had to see what it's doing to the Crossing?" He folds his arms. "I suppose there are worse places I could be, so I really shouldn't complain..." He sighs. "While you're here, can I do anything for you?"</DefaultText>
+      <DefaultText>Ele para, com o lábio aparecendo em um sorriso de escárnio. "Hmmmm ... Aqui para testemunhar a sua obra, Fatebinder? Não foi o suficiente para aprovar o [url=glossary:edict]Edict[/url], você tinha que ver o que está fazendo para o cruzamento?" Ele cruza os braços. "Eu suponho que há lugares piores que eu poderia estar, então eu realmente não deveria reclamar ..." Ele suspira. "Enquanto você está aqui, posso fazer alguma coisa por você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Well, if it isn't the Fatebinder." The man's face goes slack and all sign of joy leaves his eyes. "What brings you to [url=glossary:lethian's crossing]Lethian's Crossing[/url]? Don't you have war to wage with [url=glossary:kyros]Kyros[/url]? You already condemned the people of [url=glossary:vendrien's well]Vendrien's Well[/url] to live with one of your Edicts - we don't need any more death in the Tiers." He shakes his head. "But I'm talking to myself here, aren't I? Can I do anything for you today?"</DefaultText>
+      <DefaultText>"Bem, se não é o Fatebinder." O rosto do homem se afrouxa e todos os sinais de alegria deixam seus olhos. "O que lhe traz para [url=glossary:lethian's crossing]Lethian's Crossing[/url]? Você não tem guerra para travar com [url=glossary:kyros]Kyros[/url]? Você já condenou o povo de [url=glossary:vendrien's well]Vendrien's Well[/url] a viver com um dos seus Edicts - não precisamos de mais nenhuma morte no Tiers." Ele sacode a cabeça. "Mas eu estou falando comigo mesmo, não estou? Posso fazer algo por você hoje?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ah, Fatebinder, you've come back." Tychus' voice is flat and emotionless. "Can I get you anything today?"</DefaultText>
+      <DefaultText>"Ah, Fatebinder, você voltou." A voz de Tychus é plana e sem emoção. "Posso pegar alguma coisa para você hoje?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Greetings traveler, you look like you could use what I have to offer!"</DefaultText>
+      <DefaultText>"Saudações viajante, parece que você poderia usar o que tenho para oferecer!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

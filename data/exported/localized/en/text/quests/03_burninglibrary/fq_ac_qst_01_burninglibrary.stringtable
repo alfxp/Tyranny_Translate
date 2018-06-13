@@ -1,151 +1,151 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\03_burninglibrary\fq_ac_qst_01_burninglibrary</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>28</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Path to Power</DefaultText>
+      <DefaultText>Caminho para o poder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Meet [url=glossary:bleden mark]Bleden Mark[/url] at Ashweald.</DefaultText>
+      <DefaultText>Conheça [url=glossary:bleden mark]Bleden Mark[/url] em Ashweald.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Travel to the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>Viaje para o [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Make it inside the [url=glossary:burning library]Burning Library[/url] ruins.</DefaultText>
+      <DefaultText>Faça-o dentro das [url=glossary:burning library]Burning Library[/url] ruínas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Find a way past the magic barrier.</DefaultText>
+      <DefaultText>Encontre um caminho além da barreira mágica.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Find more parchment pieces.</DefaultText>
+      <DefaultText>Encontre mais pedaços de pergaminho.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Find the remaining parchment pieces.</DefaultText>
+      <DefaultText>Encontre os pedaços de pergaminho restantes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Find the last parchment piece.</DefaultText>
+      <DefaultText>Encontre a última peça de pergaminho.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Use the parchment pieces to reach the Silent Archive.</DefaultText>
+      <DefaultText>Use as peças de pergaminho para alcançar o Arquivo silencioso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>End the [url=glossary:edict]Edict[/url] of Fire.</DefaultText>
+      <DefaultText>Termine o [url=glossary:edict]Edict[/url] de fogo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Report to [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
+      <DefaultText>Relatório para [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Read [url=glossary:bleden mark]Bleden Mark[/url]'s Missive</DefaultText>
+      <DefaultText>Leia [url=glossary:bleden mark]Bleden Mark[/url]'s Missive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>You've turned against everyone - the [url=glossary:disfavored]Disfavored[/url], the [url=glossary:scarlet chorus]Scarlet Chorus[/url], and the [url=glossary:vendrien guard]Vendrien Guard[/url] - and decided you'll forge your own path to power in the Tiers.</DefaultText>
+      <DefaultText>Você se voltou contra todos - o 1122112222222222222222222222222222222222222222222 e o [url=glossary:vendrien guard]Vendrien Guard[/url] - e decidiu que você forjaria seu próprio caminho para poder nos Tiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>The Archon of Shadows is apparently a fan of your work in [url=glossary:vendrien's well]Vendrien's Well[/url] and wishes to help further your ascension in the Tiers. He wants to speak with you at Ashweald.</DefaultText>
+      <DefaultText>O Arconte das Sombras é aparentemente um fã do seu trabalho em [url=glossary:vendrien's well]Vendrien's Well[/url] e deseja ajudar ainda mais a sua ascensão nas Camadas. Ele quer falar com você em Ashweald.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>The next step in your rise to power lies with the Silent Archive in the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>O próximo passo na sua ascensão ao poder reside no Arquivo silencioso no [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] forces have occupied the [url=glossary:burning library]Burning Library[/url] ruins. Kill them all and gain control of the area.</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] forças ocuparam o [url=glossary:burning library]Burning Library[/url] ruínas. Mate todos eles e ganhe o controle da área.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>A magic barrier prevents you from traveling any further into the ruins. Find a way to dispell it to continue exploring the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>Uma barreira mágica impede que você viaje mais nas ruínas. Encontre uma maneira de dispersá-lo para continuar explorando o [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>You found a fragment of parchment that looks important. Find more and piece them together.</DefaultText>
+      <DefaultText>Você encontrou um fragmento de pergaminho que parece importante. Encontre mais e junte-os.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>You found two parchment fragments. Find the rest of them and pieces them together.</DefaultText>
+      <DefaultText>Você encontrou dois fragmentos de pergaminho. Encontre o resto deles e junte-os.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>You found three parchment pieces. It looks like you just need one more to complete the page.</DefaultText>
+      <DefaultText>Você encontrou três pedaços de pergaminho. Parece que você só precisa de mais um para completar a página.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>You’ve found enough parchment pieces to decipher a magical phrase that will allow you to gain access to the Silent Archive.</DefaultText>
+      <DefaultText>Você encontrou pedaços de pergaminho suficientes para decifrar uma frase mágica que permitirá que você tenha acesso ao Arquivo silencioso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Now that you've found the Silent Archive, take the magic scroll to end the [url=glossary:edict]Edict[/url] of Fire. </DefaultText>
+      <DefaultText>Agora que você encontrou o Arquivo Silencioso, pegue o pergaminho mágico para encerrar o [url=glossary:edict]Edict[/url] de Fogo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>You have ended the [url=glossary:edict]Edict[/url] of Fire in the [url=glossary:burning library]Burning Library[/url]. Report your progress to [url=glossary:bleden mark]Bleden Mark[/url] at Ashweald.</DefaultText>
+      <DefaultText>Você terminou o [url=glossary:edict]Edict[/url] do fogo no [url=glossary:burning library]Burning Library[/url]. Relate seu progresso a [url=glossary:bleden mark]Bleden Mark[/url] em Ashweald.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>You receieved a mysterious missive from [url=glossary:tunon]Tunon[/url]'s headsman, [url=glossary:bleden mark]Bleden Mark[/url]. It may very well concern your actions against [url=glossary:kyros]Kyros[/url]' Forces in [url=glossary:ascension hall]Ascension Hall[/url]. </DefaultText>
+      <DefaultText>Você recebeu uma missiva misteriosa do chefe do [url=glossary:tunon]Tunon[/url], [url=glossary:bleden mark]Bleden Mark[/url]. Pode muito bem preocupar suas ações contra [url=glossary:kyros]Kyros[/url] 'Forças em [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Bring the scroll outside of the [url=glossary:burning library]Burning Library[/url] to end the [url=glossary:edict]Edict[/url] of Fire.</DefaultText>
+      <DefaultText>Leve o pergaminho para fora do [url=glossary:burning library]Burning Library[/url] para terminar o [url=glossary:edict]Edict[/url] de fogo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You ended the [url=glossary:edict]Edict[/url] of Fire and gained more power.</DefaultText>
+      <DefaultText>Você terminou o [url=glossary:edict]Edict[/url] de fogo e ganhou mais poder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>You decided to hold allegiance to no one but yourself. By doing so you have alienated both [url=glossary:kyros]Kyros[/url]' armies and the fledging rebellions going on in the Tiers.
+      <DefaultText>Você decidiu manter lealdade a ninguém além de si mesmo. Ao fazê-lo, você alienou os dois exércitos e as rebeliões em andamento nos Tiers.
 
-The path you have forged will be wrought with great challenges, and must be walked alone.</DefaultText>
+O caminho que você forjou será forjado com grandes desafios e deve ser percorrido sozinho.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40002</ID>
-      <DefaultText>You've turned on your Chorus allies, electing to follow your own path to power rather than the one Nerat defined for you. You have no allies, but are free to chart your own course.
+      <DefaultText>Você ligou seus aliados do Coro, optando por seguir seu próprio caminho para o poder ao invés do que Nerat definiu para você. Você não tem aliados, mas é livre para traçar seu próprio curso.
 
-As a first step, you've decided to find and take the artifact known as the Silent Archive for yourself. It's located deep within the bowels of the [url=glossary:burning library]Burning Library[/url].</DefaultText>
+Como primeiro passo, você decidiu encontrar e pegar o artefato conhecido como Arquivo Silencioso para você mesmo. Ele está localizado no fundo das entranhas do [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

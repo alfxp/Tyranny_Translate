@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\03_burninglibrary\0302_bs_firesage</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Talk to Renata if you have any questions."</DefaultText>
+      <DefaultText>"Fale com Renata se você tiver alguma dúvida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"I really don't have anything to offer to you."</DefaultText>
+      <DefaultText>"Eu realmente não tenho nada para oferecer a você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Don't go looking for trouble, Fatebinder."</DefaultText>
+      <DefaultText>"Não vá procurar problemas, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"You're awfully far from the court, Fatebinder."</DefaultText>
+      <DefaultText>"Você está muito longe da corte, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Watch yourself."</DefaultText>
+      <DefaultText>"Tenha cuidado."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

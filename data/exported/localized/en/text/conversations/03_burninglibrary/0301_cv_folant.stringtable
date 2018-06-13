@@ -1,60 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\03_burninglibrary\0301_cv_folant</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>73</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>The [url=glossary:sage]Sage[/url] has clearly suffered at the hands of his captors. Burn marks cover his legs and his shoulders slump unnaturally.</DefaultText>
+      <DefaultText>O [url=glossary:sage]Sage[/url] claramente sofreu nas mãos de seus captores. Marcas de queimadura cobrem suas pernas e seus ombros caem anormalmente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Do what you will, Fatebinder. It matters not if I die, so long as my school's work lives on."</DefaultText>
+      <DefaultText>"Faça o que quiser, Fatebinder. Não importa se eu morrer, desde que o trabalho da minha escola continue vivo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"What do the Sages want with the [url=glossary:burning library]Burning Library[/url]?"</DefaultText>
+      <DefaultText>"O que os Sábios querem com o [url=glossary:burning library]Burning Library[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>The [url=glossary:sage]Sage[/url] narrows his eyes at you. His mouth presses into a hard line, and he shakes his head.</DefaultText>
+      <DefaultText>O [url=glossary:sage]Sage[/url] estreita os olhos para você. Sua boca pressiona em uma linha dura e ele balança a cabeça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>After a pause, Folant shivers and speaks up. 
+      <DefaultText>Depois de uma pausa, Folant estremece e fala.
 
-"Renata wants to recover the Silent Archive. Obviously, we're having a hard time following through on that command." He laughs bitterly.</DefaultText>
+"Renata quer recuperar o Arquivo Silencioso. Obviamente, estamos tendo dificuldade em seguir esse comando." Ele ri amargamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"How can I find Renata?"</DefaultText>
+      <DefaultText>"Como posso encontrar Renata?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Renata is too smart to tarry in one location for long."
+      <DefaultText>"Renata é esperta demais para ficar em um local por muito tempo."
 
-"When last I saw her, she was in the remains of the Shifting Vale. Doubtless she's moved on since then."</DefaultText>
+"Quando a vi pela última vez, ela estava nos restos do Shifting Vale. Sem dúvida, ela se mudou desde então."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Where in the Shifting Vale is Renata?"</DefaultText>
+      <DefaultText>"Onde no Shifting Vale está Renata?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Well... there's a chance that she's in the abandoned village of Effigy."
+      <DefaultText>"Bem ... há uma chance de que ela esteja na vila abandonada de Effigy."
 
-He bites his lower lip and cowers. 
+Ele morde o lábio inferior e se encolhe.
 
-"She would kill me if she knew I told you that. Please... please don't make me regret it."</DefaultText>
+"Ela me mataria se soubesse que eu lhe disse isso. Por favor ... por favor, não me faça arrepender."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -64,42 +64,42 @@ He bites his lower lip and cowers.
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>The Blood Hound raises a glowing fist and punches the [url=glossary:sage]Sage[/url] below his chest. A whoosh of air escapes the prisoner, accompanied by the snapping of ribs.</DefaultText>
+      <DefaultText>O Blood Hound levanta um punho brilhante e fura o [url=glossary:sage]Sage[/url] abaixo do seu peito. Um whoosh de ar escapa do prisioneiro, acompanhado pelo encaixe de costelas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>The [url=glossary:sage]Sage[/url] cries out. "Please, please stop!"</DefaultText>
+      <DefaultText>O [url=glossary:sage]Sage[/url] grita. "Por favor, pare por favor!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>The [url=glossary:sage]Sage[/url] trembles and lets out a hopeless, agonized wail.</DefaultText>
+      <DefaultText>O [url=glossary:sage]Sage[/url] treme e solta um gemido desesperado e agonizante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>The [url=glossary:sage]Sage[/url] gasps for breath, barely able to elicit a cry of pain. He looks deathly pale.</DefaultText>
+      <DefaultText>O [url=glossary:sage]Sage[/url] suspiros, quase incapaz de provocar um grito de dor. Ele parece mortalmente pálido.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>The Blood Hound smashes his booted toe into the [url=glossary:sage]Sage[/url]'s side.</DefaultText>
+      <DefaultText>O Blood Hound esmaga o dedo do pé no [url=glossary:sage]Sage[/url] do lado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>A reddish light leaps from the Blood Hound's fist and strikes the [url=glossary:sage]Sage[/url], who crumples under the force of the blow. </DefaultText>
+      <DefaultText>Uma luz avermelhada salta do punho do Blood Hound e atinge o [url=glossary:sage]Sage[/url], que se amassa sob a força do golpe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>The Blood Hound delivers a savage kick to the [url=glossary:sage]Sage[/url]'s head, twisting his neck into a vicious L-shape.</DefaultText>
+      <DefaultText>O Blood Hound oferece um chute selvagem para a cabeça do [url=glossary:sage]Sage[/url], torcendo o pescoço em uma forma de L vicioso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Folant sinks to the ground, dead.</DefaultText>
+      <DefaultText>Folant afunda no chão, morto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,51 +114,51 @@ He bites his lower lip and cowers.
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"What is the Silent Archive?"</DefaultText>
+      <DefaultText>"O que é o Arquivo Silencioso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"A forbidden text, only to be read by the most senior Sages. There has to be something of value in there - for her, for all of us."
+      <DefaultText>"Um texto proibido, apenas para ser lido pelos sábios mais antigos. Tem que haver algo de valor aí - para ela, para todos nós."
 
-"Her thinking is that [url=glossary:kyros]Kyros[/url] wouldn't be dead set on destroying it unless the Archive contained some hidden advantage. Here's hoping she's right."</DefaultText>
+"O pensamento dela é que [url=glossary:kyros]Kyros[/url] não estaria decidido a destruí-la, a menos que o arquivo contivesse alguma vantagem oculta. Espero que ela esteja certa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"I'm not your enemy."</DefaultText>
+      <DefaultText>"Eu não sou seu inimigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Your words are empty - more torments from my captors to get me talking."
+      <DefaultText>"Suas palavras estão vazias - mais tormentos de meus captores para me fazer falar."
 
-He refocuses on you with a gleam of interest.
+Ele se concentra em você com um brilho de interesse.
 
-"Kill them all, and we can talk further."</DefaultText>
+"Mate todos eles, e podemos conversar mais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>He looks at you in stunned disbelief. 
+      <DefaultText>Ele olha para você com incredulidade.
 
-"Th- thank you! I can't believe those blackguards are finally dead."
+"Th- obrigado! Eu não posso acreditar que esses guarda-costas estão finalmente mortos."
 
-He spits.
+Ele cospe.
 
-"May they rot."</DefaultText>
+"Que eles apodreçam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"I would say more, but I have to make my escape before a patrol circles back - and you wouldn't want to be caught here either, for that matter."
+      <DefaultText>"Eu diria mais, mas tenho que fugir antes que uma patrulha volte - e você não gostaria de ser pego aqui também."
 
-He clasps both of your hands in his. "If you truly are committed to taking on the [url=glossary:scarlet chorus]Scarlet Chorus[/url], you should speak with Renata - our leader. She is nothing if not sympathetic to your interests."</DefaultText>
+Ele aperta as duas mãos dele. "Se você realmente está comprometido em assumir o [url=glossary:scarlet chorus]Scarlet Chorus[/url], você deve falar com Renata - o nosso líder. Ela não é nada se não simpatizante de seus interesses."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Seek her out in the ruins of Effigy. She has a camp there with other members of our order."</DefaultText>
+      <DefaultText>"Procure-a nas ruínas de Effigy. Ela tem um acampamento lá com outros membros da nossa ordem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,42 +168,42 @@ He clasps both of your hands in his. "If you truly are committed to taking on th
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Folant's expression changes from one of shock to resignation. "So be it."</DefaultText>
+      <DefaultText>A expressão de Folant muda de um choque para resignação. "Que assim seja."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Fatebinder... have you come to torture me, too?"</DefaultText>
+      <DefaultText>"Fatebinder ... você veio me torturar também?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Folant slowly moves his head to meet your gaze, but says nothing. He seems to be waiting for you.</DefaultText>
+      <DefaultText>Folant move lentamente a cabeça para encontrar o seu olhar, mas não diz nada. Ele parece estar esperando por você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Thank you again. I'll take my leave. But tread carefully! The Chorus are crazy and disorganized, but that is part of their strength. Don't let them get the drop on you!"</DefaultText>
+      <DefaultText>"Obrigado de novo. Vou me despedir. Mas pise com cuidado! Os Coro são loucos e desorganizados, mas isso faz parte da força deles. Não deixe que eles caiam em você!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Now...Let's try this again - What do the Sages want with the [url=glossary:burning library]Burning Library[/url]?"</DefaultText>
+      <DefaultText>"Agora ... Vamos tentar de novo - O que os Sábios querem com o [url=glossary:burning library]Burning Library[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Perhaps you weren't listening the first time I asked - What is the Silent Archive?"</DefaultText>
+      <DefaultText>"Talvez você não estivesse ouvindo a primeira vez que perguntei - O que é o Arquivo silencioso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Don't make me ask you a third time - How can I find Renata?"</DefaultText>
+      <DefaultText>"Não me faça perguntar uma terceira vez - Como posso encontrar a Renata?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,42 +213,42 @@ He clasps both of your hands in his. "If you truly are committed to taking on th
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Your actions speak louder than your words, Fatebinder. Empty promises mean nothing."</DefaultText>
+      <DefaultText>"Suas ações falam mais alto que suas palavras, Fatebinder. Promessas vazias não significam nada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>The Blood Hound next to you laughs. "That's not how to get information. You need to use your fists!"</DefaultText>
+      <DefaultText>O Blood Hound ao seu lado ri. "Isso não é como obter informações. Você precisa usar seus punhos!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>The Blood Hound laughs again, shaking his head. "Someone is a slow learner, isn't he?" He mimes a punch.</DefaultText>
+      <DefaultText>O Blood Hound ri de novo, balançando a cabeça. "Alguém é um aprendiz lento, não é?" Ele faz um soco.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>The Blood Hound snorts and rolls his eyes. "And they say I have problems listening..."</DefaultText>
+      <DefaultText>O Blood Hound bufa e revira os olhos. "E eles dizem que eu tenho problemas para ouvir ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Bank Node 52</DefaultText>
+      <DefaultText>Nó do banco 52</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"You would use fists when words could work much better? Let me try to convince him. He may simply be a [url=glossary:sage]Sage[/url], but he's still a mage. He deserves more than this."</DefaultText>
+      <DefaultText>"Você usaria punhos quando as palavras funcionassem muito melhor? Deixe-me tentar convencê-lo. Ele pode simplesmente ser um [url=glossary:sage]Sage[/url], mas ele ainda é um mago. Ele merece mais do que isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Not sure that's the uh... best way to get information out of a learned creature. Perhaps... I could have a word?"</DefaultText>
+      <DefaultText>"Não tenho certeza se é a melhor maneira de obter informações de uma criatura instruída. Talvez ... eu poderia ter uma palavra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Fine. But if you can't get it, we will use violence."</DefaultText>
+      <DefaultText>"Tudo bem. Mas se você não conseguir, vamos usar a violência".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,22 +258,22 @@ He clasps both of your hands in his. "If you truly are committed to taking on th
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"If you think you can get the information, you're welcome to try."</DefaultText>
+      <DefaultText>"Se você acha que pode obter as informações, não hesite em tentar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Back off, Lantry. We're doing this my way."</DefaultText>
+      <DefaultText>"Afaste-se, Lantry. Estamos fazendo isso do meu jeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Random Node 52</DefaultText>
+      <DefaultText>Nó Aleatório 52</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Fine. But if you can't get it, we will use violence."</DefaultText>
+      <DefaultText>"Tudo bem. Mas se você não conseguir, vamos usar a violência".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,69 +283,69 @@ He clasps both of your hands in his. "If you truly are committed to taking on th
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"If you think you can get the information, you're welcome to try."</DefaultText>
+      <DefaultText>"Se você acha que pode obter as informações, não hesite em tentar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Back off, Lantry. We're doing this my way."</DefaultText>
+      <DefaultText>"Afaste-se, Lantry. Estamos fazendo isso do meu jeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"You would use fists when words could work much better? Let me try to convince him. He may simply be a [url=glossary:sage]Sage[/url], but he's still a mage. He deserves more than this."</DefaultText>
+      <DefaultText>"Você usaria punhos quando as palavras funcionassem muito melhor? Deixe-me tentar convencê-lo. Ele pode simplesmente ser um [url=glossary:sage]Sage[/url], mas ele ainda é um mago. Ele merece mais do que isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Not sure that's the uh... best way to get information out of a learned creature. Perhaps... I could have a word?"</DefaultText>
+      <DefaultText>"Não tenho certeza se é a melhor maneira de obter informações de uma criatura instruída. Talvez ... eu poderia ter uma palavra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Sirin kneels before Folant, humming a bright tune. She caresses his cheek, wiping the dirt and sweat from his face. He looks at her, transfixed. She leans forward and whispers something in his ear.</DefaultText>
+      <DefaultText>Sirin se ajoelha diante de Folant, cantarolando uma melodia brilhante. Ela acaricia sua bochecha, limpando a sujeira e o suor do rosto dele. Ele olha para ela, paralisado. Ela se inclina para frente e sussurra algo no ouvido dele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Brother Folant, we have lost. LOST!" Lantry snaps a quill between his thumb and index finger for emphasis. "Look what has become of our archival fortress! There is no wisdom in clinging to what was."</DefaultText>
+      <DefaultText>"Irmão Folant, nós perdemos. PERDIDO!" Lantry agarra uma pena entre o polegar e o indicador para dar ênfase. "Veja o que aconteceu com a nossa fortaleza de arquivo! Não há sabedoria em apegar-se ao que era."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Renata...she's in Effigy." His voice is low and emotionless. "The Sages are hiding there, trying to regroup." Sirin turns to you and smiles.</DefaultText>
+      <DefaultText>"Renata ... ela está em Effigy." Sua voz é baixa e sem emoção. "Os Sábios estão escondidos lá, tentando se reagrupar." Sirin se vira para você e sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"A distraught, impressionable mind is so easy to manipulate. Almost beneath me."</DefaultText>
+      <DefaultText>"Uma mente perturbada e impressionável é tão fácil de manipular. Quase abaixo de mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"No more. Please, no more."</DefaultText>
+      <DefaultText>"Não mais. Por favor, não mais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"If our efforts are not to be wasted, you must help us meet with any and all the Sages still alive and kicking. I've found amnesty by working with the Fatebinder here, and if you help us, the others could stop living as prey. There's even uh," Lantry coughs nervously, "talk of us being allowed to keep some of our old writings if we play nice. But if you keep resisting, we can't help you... or the rest of our brothers and sisters."</DefaultText>
+      <DefaultText>"Se nossos esforços não forem desperdiçados, você deve nos ajudar a encontrar qualquer um e todos os Sábios ainda vivos e chutando. Eu encontrei anistia trabalhando com o Fatebinder aqui, e se você nos ajudar, os outros poderiam parar de viver como Há mesmo "Lantry tosse nervosamente", falar de nos poder manter alguns dos nossos velhos escritos, se jogarmos bem, mas se você continuar resistindo, não poderemos ajudá-lo ... ou o resto de nossos irmãos e irmãs ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"You are bowing to the Overlord's 'justice' bringers?" Folant's eyes fill with rage. "Naturally you would, you've been arguing for surrender since long before [url=glossary:kyros]Kyros[/url] forces marched south. It was a stupid plan then, it's a stupid plan now!"</DefaultText>
+      <DefaultText>"Você está se curvando aos porteiros de 'justiça' do Overlord?" Os olhos de Folant se enchem de raiva. "Naturalmente você faria, você está argumentando por rendição desde muito antes de as forças marcharem para o sul. Foi um plano estúpido, então, é um plano estúpido agora!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"This all sounds..." his hands ball into fists, only for the rage to leave his body with a long sigh. "Like it might be our only option. 
+      <DefaultText>"Isso tudo soa ..." suas mãos se fecham em punhos, apenas para a raiva deixar seu corpo com um longo suspiro. "Como pode ser a nossa única opção.
 
-"If our lore could be saved... go and talk to Renata - if you want the other survivors to go along with all this, you'll need to convince her first. Last we traded missives, she was laying low in Effigy. She's probably still there."</DefaultText>
+"Se nosso conhecimento puder ser salvo ... vá e fale com Renata - se você quiser que os outros sobreviventes concordem com tudo isso, você precisará convencê-la primeiro. Da última vez que trocamos as cartas, ela estava perdendo o controle em Effigy. Ela provavelmente ainda está lá.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"And how has stubborn defiance worked so far?"</DefaultText>
+      <DefaultText>"E como o desafio teimoso funcionou até agora?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -355,42 +355,42 @@ He clasps both of your hands in his. "If you truly are committed to taking on th
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"The Sages have been punished enough - there is mercy for those who might cooperate."</DefaultText>
+      <DefaultText>"Os Sábios foram punidos o suficiente - há misericórdia para aqueles que podem cooperar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>The [url=glossary:sage]Sage[/url] looks askance, unwilling to meet your gaze.</DefaultText>
+      <DefaultText>O [url=glossary:sage]Sage[/url] parece desconfiado, não querendo encontrar o seu olhar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"I'm standing here as living proof that we can live on - our knowledge can live on - but we need to be willing to swallow our pride a bit."</DefaultText>
+      <DefaultText>"Estou aqui como uma prova viva de que podemos viver - nosso conhecimento pode continuar vivo - mas precisamos estar dispostos a engolir um pouco nosso orgulho".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>The [url=glossary:sage]Sage[/url] gasps for breath, barely able to elicit a cry of pain. He looks deathly pale.</DefaultText>
+      <DefaultText>O [url=glossary:sage]Sage[/url] suspiros, quase incapaz de provocar um grito de dor. Ele parece mortalmente pálido.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>The [url=glossary:sage]Sage[/url] cries out. "Please, please stop!"</DefaultText>
+      <DefaultText>O [url=glossary:sage]Sage[/url] grita. "Por favor, pare por favor!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Folant slowly moves his head to meet your gaze, but says nothing. He seems to be waiting for you.</DefaultText>
+      <DefaultText>Folant move lentamente a cabeça para encontrar o seu olhar, mas não diz nada. Ele parece estar esperando por você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"I've already met with Renata. You should regroup with them."</DefaultText>
+      <DefaultText>"Eu já me encontrei com Renata. Você deveria se reagrupar com eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"I thought none would come to our aid, and Terratus would watch us burn! I'm glad to be mistaken."</DefaultText>
+      <DefaultText>"Eu pensei que ninguém viria em nosso auxílio, e Terratus nos observaria queimar! Estou feliz por estar enganado."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

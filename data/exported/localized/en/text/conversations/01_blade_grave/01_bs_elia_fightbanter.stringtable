@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_bs_elia_fightbanter</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Action at the front gate! Don't let anyone through!"</DefaultText>
+      <DefaultText>"Ação no portão da frente! Não deixe ninguém passar!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"All hands! The walls are under attack!"</DefaultText>
+      <DefaultText>"Todas as mãos! As paredes estão sob ataque!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Get to the front and stand your ground!"</DefaultText>
+      <DefaultText>"Chegue à frente e fique firme!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

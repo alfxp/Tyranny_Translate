@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_lc_raid_start_disfavored</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>11</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Fatebinder! We need your help!" The Stone Shield runs up, her words punctuated by her labored breathing. "The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] are attacking [url=glossary:lethian's crossing]Lethian's Crossing[/url], led by that bitch, Ring-Dropper Ceratha!"</DefaultText>
+      <DefaultText>"Fatebinder! Precisamos da sua ajuda!" O Escudo de Pedra sobe, suas palavras pontuadas pela respiração ofegante. "Os [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] estão atacando [url=glossary:lethian's crossing]Lethian's Crossing[/url], liderado por aquela vadia, conta-gotas Ceratha!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,32 +21,32 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Honestly, are you people incapable of doing anything without my help? What will you give me if I do?"</DefaultText>
+      <DefaultText>"Honestamente, vocês são incapazes de fazer qualquer coisa sem minha ajuda? O que você vai me dar se eu fizer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"I will die before I let that happen!"</DefaultText>
+      <DefaultText>"Eu vou morrer antes de deixar isso acontecer!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>She looks shocked and stammers her reply, "W... we will make sure you're properly compensated, Fatebinder! But if you don't help now, there won't be a town to save!"</DefaultText>
+      <DefaultText>Ela parece chocada e gagueja sua resposta, "W ... nós teremos certeza que você está devidamente compensado, Fatebinder! Mas se você não ajudar agora, não haverá uma cidade para salvar!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Vintara is trying to hold the line. They're in the center of town, near the river. Hurry before we're overwhelmed!"</DefaultText>
+      <DefaultText>"Vintara está tentando segurar a linha. Eles estão no centro da cidade, perto do rio. Depressa, antes que estejamos sobrecarregados!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"To raise a blade against my own countrymen... [url=glossary:kyros]Kyros[/url] forgive me." </DefaultText>
+      <DefaultText>"Para levantar uma lâmina contra meus próprios compatriotas ... [url=glossary:kyros]Kyros[/url] me perdoe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Let us be done with these countryless fools. We will lend our strength for the glory of the North!"</DefaultText>
+      <DefaultText>"Deixe-nos ser feito com estes tolos sem país. Nós emprestaremos nossa força para a glória do Norte!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,9 +56,9 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>The Stone Shield takes a step backward. "Take on both the [url=glossary:disfavored]Disfavored[/url] and the Brotherhood?" She takes another step. "I've heard about you - and you'll probably win this fight. I'm out of here!"
+      <DefaultText>O Escudo de Pedra dá um passo para trás. "Enfrenta o [url=glossary:disfavored]Disfavored[/url] e o Brotherhood?" Ela dá outro passo. "Eu ouvi sobre você - e você provavelmente vai ganhar essa luta. Eu estou fora daqui!"
 
-She turns and runs from you.</DefaultText>
+Ela se vira e corre de você.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,56 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\0101_cv_camp_secured_anarch</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>No [url=glossary:unbroken]Unbroken[/url] remain in the scavenger fort. Elia and her soldiers managed to flee north - likely in an attempt to escape the canyons.</DefaultText>
+      <DefaultText>Não [url=glossary:unbroken]Unbroken[/url] permanecem no forte scavenger. Elia e seus soldados conseguiram fugir para o norte - provavelmente em uma tentativa de escapar dos canyons.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>There is still time to chase her down before she leaves, taking all knowledge of Stalwart artifacts with her.</DefaultText>
+      <DefaultText>Ainda há tempo para persegui-la antes que ela saia, levando todo o conhecimento de artefatos de Stalwart com ela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Let's track these [url=glossary:unbroken]Unbroken[/url] rats to their next warren. I venture they went due north, the only escape route left open."</DefaultText>
+      <DefaultText>"Vamos rastrear esses ratos [url=glossary:unbroken]Unbroken[/url] para o seu próximo prédio. Eu me arrisco que eles foram para o norte, a única rota de fuga deixada aberta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"If the [url=glossary:unbroken]Unbroken[/url] are so keen on turning tail, it's no wonder where they get their reputation."
+      <DefaultText>"Se o [url=glossary:unbroken]Unbroken[/url] está tão interessado em virar a cauda, ​​não é de admirar que eles obtenham sua reputação."
 
-"Let's track them due north. I'll bet good rings they're trying to escape the canyon."</DefaultText>
+"Vamos segui-los para o norte. Aposto que eles estão tentando escapar do desfiladeiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"So much for having a friendly chat with the locals. There are tracks leading north - we should follow them before the trail is erased by the storm."</DefaultText>
+      <DefaultText>"Tanto por ter uma conversa amigável com os moradores locais. Há trilhas que levam ao norte - devemos segui-las antes que a trilha seja apagada pela tempestade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"I think that's the last of the garrison. The captain's not among the bodies - she probably fled north."</DefaultText>
+      <DefaultText>"Eu acho que é o último da guarnição. O capitão não está entre os corpos - ela provavelmente fugiu para o norte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"All the [url=glossary:unbroken]Unbroken[/url] here are dead. Everyone else probably fled north while we were fighting. Cowards."</DefaultText>
+      <DefaultText>"Todos os [url=glossary:unbroken]Unbroken[/url] aqui estão mortos. Todos os outros provavelmente fugiram para o norte enquanto nós estávamos lutando. Covardes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Have slaughtered all of [url=glossary:unbroken]Unbroken[/url] in den-fort. Except for pack's Alpha who fled north in fear. Is time to hunt, yep-yep? Is time to chase down, rend-rip, and mangle."
+      <DefaultText>"Ter abatido todos os [url=glossary:unbroken]Unbroken[/url] no den-fort. Exceto o Alpha do bando que fugiu para o norte com medo. É hora de caçar, sim-sim? É hora de perseguir, rasgar e rasgar."
 
-She flicks her claws and grins darkly in anticipation.</DefaultText>
+Ela sacode as garras e sorri sombriamente em antecipação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Random Node 10</DefaultText>
+      <DefaultText>Nó Aleatório 10</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

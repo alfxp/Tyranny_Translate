@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\companions\companion_bs_verse_threewhispers</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Bank Node 4</DefaultText>
+      <DefaultText>Nó do banco 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"They never had a chance."</DefaultText>
+      <DefaultText>"Eles nunca tiveram uma chance."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Let them think they can hit me." </DefaultText>
+      <DefaultText>"Deixe-os pensar que eles podem me bater."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"They won't even get close."</DefaultText>
+      <DefaultText>"Eles nem sequer chegam perto."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\03_burninglibrary\03_cv_int02_gaptooth_main</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>11</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Gaptooth smiles widely at you, her namesake on full display. "We won!" Her words hold a touch of disbelief. "It was hard going, but we did it."</DefaultText>
+      <DefaultText>Gaptooth sorri amplamente para você, seu homônimo em plena exibição. "Nós ganhamos!" Suas palavras seguram um toque de descrença. "Foi difícil, mas conseguimos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Honestly, I'm just as surprised as you are. Until we meet again."</DefaultText>
+      <DefaultText>"Honestamente, estou tão surpreso quanto você. Até nos encontrarmos novamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"And unless you want to die, I suggest you move on."</DefaultText>
+      <DefaultText>"E a menos que você queira morrer, eu sugiro que você siga em frente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,17 +26,17 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Gaptooth raises her hands and backs up a bit. "Okay! We'll go!" She turns tail and runs from your presence.</DefaultText>
+      <DefaultText>Gaptooth levanta as mãos e recua um pouco. "Ok! Nós vamos!" Ela vira a cauda e corre da sua presença.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Of course, Fatebinder! Go in good health." She smiles wickedly. "Until we meet again!"</DefaultText>
+      <DefaultText>"Claro, Fatebinder! Vá em boa saúde." Ela sorri maliciosamente. "Até nos encontrarmos de novo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"What do you want, Fatebinder?"</DefaultText>
+      <DefaultText>"O que você quer, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Script Node 10</DefaultText>
+      <DefaultText>Nó de Script 10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Script Node 11</DefaultText>
+      <DefaultText>Nó de Script 11</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{0} adicionado! A missão expira no turno {1}.</DefaultText>
+      <DefaultText>{0} adicionado! Uma missão expira no turno {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>{0} concluído!</DefaultText>
+      <DefaultText>{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Os ingredientes de fabricação foram coletados.</DefaultText>
+      <DefaultText>Os ingredientes de conversão foram coletados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>{0} foi pago {1} e voltou à ativa.</DefaultText>
+      <DefaultText>{0} foi pago {1} e voltou a ativa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>{0} concluído! {1} retorna para o Spire com {2}.</DefaultText>
+      <DefaultText>{0} {1} retorna para o Spire com {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>{0} atacou o Spire, mas nenhum dano foi feito!</DefaultText>
+      <DefaultText>{0} atacou Spire, mas nenhum dano foi feito!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Todos os ganhos foram perdidos para o banditismo.</DefaultText>
+      <DefaultText>Todos foram perdidos para o banditismo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,12 +171,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>O suplicante {0} chegou, procurando {1} ou uma escolta.</DefaultText>
+      <DefaultText>O suplicante chegou, procurando {1} ou uma escolta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Os efeitos de ignorar o suplicante {0} desapareceram.</DefaultText>
+      <DefaultText>Os resultados de ignorar o suplicante {0} desapareceram.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Você ignora o suplicante {0} e ele deixa a fortaleza.</DefaultText>
+      <DefaultText>Você ignora o suplicante {0} e ele deixa uma fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>{0} deixa a fortaleza.</DefaultText>
+      <DefaultText>{0} deixa um fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,12 +226,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>{0}, um governante cruel do norte, chegou à fortaleza.</DefaultText>
+      <DefaultText>{0}, um governo cruel do norte, chegou à fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>{0}, um tolo local entrou na fortaleza e pretende ficar por um tempo.</DefaultText>
+      <DefaultText>{0}, um ponto de encontro local na fortaleza e fez com que ficássemos por um tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>{0}, um antigo herói da guerra de Saint chegou à fortaleza.</DefaultText>
+      <DefaultText>{0}, um antigo herói da guerra de Saint chegou a fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,17 +261,17 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>{0} chegou exigindo moedas por seus problemas, ou escolta segura através dos campos.</DefaultText>
+      <DefaultText>{0} se exige moedas por seus problemas, ou escolta segura através dos campos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Ela quase foi atacada por bandidos na estrada, mas suas patrulhas interveio.</DefaultText>
+      <DefaultText>Ela quase foi atacada por bandidos na estrada, mas seu patrulhas interveio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Ele quase foi atacado por bandidos na estrada, mas suas patrulhas interveio.</DefaultText>
+      <DefaultText>Ele quase foi atacado por bandidos na estrada, mas seu patrulhas interveio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_cv_jms_disfavored_justdis_bark_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"We must preserve [url=glossary:cairn]Cairn[/url]'s essence, Fatebinder. Either aid us or leave us."</DefaultText>
+      <DefaultText>"Nós devemos preservar a essência do [url=glossary:cairn]Cairn[/url], Fatebinder. Ou nos ajude ou nos deixe."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

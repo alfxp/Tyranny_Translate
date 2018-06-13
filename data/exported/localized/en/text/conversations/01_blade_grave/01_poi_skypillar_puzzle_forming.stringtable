@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_skypillar_puzzle_forming</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"I hope whatever you're doing doesn't attract more Oldwalls locals."</DefaultText>
+      <DefaultText>"Espero que o que você esteja fazendo não atraia mais moradores de Oldwalls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Don't solve it too quickly, I'm trying to take notes!"</DefaultText>
+      <DefaultText>"Não resolva isso rápido demais, estou tentando fazer anotações!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Oh, it's glowing... and nothing that glows here in the Oldwalls has ever proven lethal."</DefaultText>
+      <DefaultText>"Oh, está brilhando ... e nada que brilha aqui nos Oldwalls já provou ser letal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Anyone recognize the pattern? I'm going to guess sand clock or nautilus spadix."</DefaultText>
+      <DefaultText>"Alguém reconhece o padrão? Vou adivinhar relógio de areia ou nautilus espádice."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Why do humans lay traps if not for hunting? Is strange, yep? Who is here, hunting pack?!" </DefaultText>
+      <DefaultText>"Por que os humanos colocam armadilhas se não para caçar? É estranho, sim? Quem está aqui, caçando matilhas ?!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"If something is hidden behind a puzzle this complex, you know it's going to be good."</DefaultText>
+      <DefaultText>"Se algo está escondido atrás de um quebra-cabeça neste complexo, você sabe que vai ser bom."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Bank Node 10</DefaultText>
+      <DefaultText>Nó do banco 10</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

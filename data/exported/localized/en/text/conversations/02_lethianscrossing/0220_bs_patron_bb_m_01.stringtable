@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\0220_bs_patron_bb_m_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"If I could get drunk, this place might be worth the time."</DefaultText>
+      <DefaultText>"Se eu pudesse ficar bêbado, esse lugar poderia valer a pena."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Look at everyone fawning over the performers like any of them are worth the rings."</DefaultText>
+      <DefaultText>"Olhe para todos bajulando os artistas como qualquer um deles vale os anéis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Unfortunately, this is the only place you can go to get away from all the shit happening out there."</DefaultText>
+      <DefaultText>"Infelizmente, este é o único lugar que você pode ir para ficar longe de toda a merda acontecendo lá fora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ha! You're just upset that Roxana turned down your marriage proposal!"</DefaultText>
+      <DefaultText>"Ha! Você está chateado que Roxana recusou sua proposta de casamento!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

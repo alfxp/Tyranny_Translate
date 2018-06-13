@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\03_burninglibrary\0302_bs_beastman_guard</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Human will not pass Beastman. Cannot see caught prey."</DefaultText>
+      <DefaultText>"Humano não passará Beastman. Não pode ver presa presa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Back off. Retreat with both feet."</DefaultText>
+      <DefaultText>"Afaste-se. Retire-se com os dois pés."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>The Beastman growls at you.</DefaultText>
+      <DefaultText>O Homem-Besta rosna para você.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

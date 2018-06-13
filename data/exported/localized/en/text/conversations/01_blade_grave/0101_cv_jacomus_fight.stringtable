@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\0101_cv_jacomus_fight</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>8</EntryCount>
   <Entries>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Fatebinder!" Jacomus advances with murderous intensity in his gaze. "I lost soldiers in that attack - good Northerners who won't see their homes again!"</DefaultText>
+      <DefaultText>"Fatebinder!" Jacomus avança com intensidade assassina em seu olhar. "Eu perdi soldados nesse ataque - bons nortistas que não verão suas casas de novo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] will never forget this... his anger is something only an Archon could comprehend. I hope, for your sake, that you have the decency to die here."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] nunca esquecerá isto ... a raiva dele é algo que só um Arconte poderia compreender. Espero que, por sua causa, você tenha a decência de morrer aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>He delivers a signal to the rest of his cohort. "Attack the Fatebinder!"</DefaultText>
+      <DefaultText>Ele entrega um sinal para o resto de sua coorte. "Ataque o Fatebinder!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"So send their eyes to the North. What do I care?"</DefaultText>
+      <DefaultText>"Então mande seus olhos para o norte. O que eu me importo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Is it too late to apologize?"</DefaultText>
+      <DefaultText>"É tarde demais para se desculpar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>He grimaces. "You have no respect for our values, our mission, or our lives. [url=glossary:tunon]Tunon[/url] was wrong to give you even a scrap of power."</DefaultText>
+      <DefaultText>Ele faz uma careta. "Você não tem nenhum respeito por nossos valores, nossa missão ou nossas vidas. [url=glossary:tunon]Tunon[/url] estava errado em dar-lhe um pedaço de poder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"We are the blood of the North, and we never forget a slight against our people! You have transgressed everything we hold dear."</DefaultText>
+      <DefaultText>"Nós somos o sangue do Norte, e nunca nos esquecemos de uma afronta contra nosso povo! Você transgrediu tudo o que nos é caro".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

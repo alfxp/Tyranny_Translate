@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_bs_ashur_warrior_imprisoned</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"I wish you wouldn't humor my prisoner."</DefaultText>
+      <DefaultText>"Eu gostaria que você não humor meu prisioneiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"How am I going to explain this to Ashe?"</DefaultText>
+      <DefaultText>"Como vou explicar isso para Ashe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Justice be done."</DefaultText>
+      <DefaultText>"Justiça seja feita."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"An abomination, that's what this is."</DefaultText>
+      <DefaultText>"Uma abominação, é isso que é isso."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,77 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\05_cairnplains\05_qst_rebel01_releaseleftclaw</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>14</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Return to the Wild</DefaultText>
+      <DefaultText>Retornar ao Selvagem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Travel to [Plainsgate] and locate Left-Claw</DefaultText>
+      <DefaultText>Viaje para [Plainsgate] e localize a Garra Esquerda</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Speak with Left-Claw and release him</DefaultText>
+      <DefaultText>Fale com a garra esquerda e solte-o</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Speak to Hundred-Blood</DefaultText>
+      <DefaultText>Fale com cem-sangue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Speak with Kills-In-Shadow.</DefaultText>
+      <DefaultText>Fale com Kills-in-Shadow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Kills-in-Shadow has asked you to rescue Left-Claw, a former follower of her pack and a Beastman, who has been captured by the settlers of [Plainsgate].</DefaultText>
+      <DefaultText>Kills-in-Shadow lhe pediu para resgatar Left-Claw, uma ex-seguidora de seu bando e um Beastman, que foi capturado pelos colonos de [Plainsgate].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Travel to [Plainsgate] and assess the situation surrounding the captured Beastman, Left-Claw.</DefaultText>
+      <DefaultText>Viaje para [Plainsgate] e avalie a situação em torno do Beastman capturado, Left-Claw.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Release Left-Claw so that he may return to his Beastmen brethren.</DefaultText>
+      <DefaultText>Solte a Garra Esquerda para que ele possa retornar aos seus irmãos Homens-Besta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Speak with Hundred-Blood, leader of the Beastman tribe in Stone Down Gorge, and inform her that you helped one of her [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
+      <DefaultText>Fale com Hundred-Blood, líder da tribo Beastman em Stone Down Gorge, e informe a ela que você ajudou um de seus [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Speak with Kills-In-Shadow about the freeing of Left-Claw.</DefaultText>
+      <DefaultText>Fale com Kills-In-Shadow sobre a liberação da Garra Esquerda.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Player has spoken with Hundred-Blood.</DefaultText>
+      <DefaultText>O jogador falou com o Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>You have killed Left-Claw.</DefaultText>
+      <DefaultText>Você matou o Left-Claw.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>You have freed Left-Claw.</DefaultText>
+      <DefaultText>Você liberou o Left-Claw.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>Left-Claw, a captured Beastman in [Plainsgate], has asked you to save him from a crowd of humans who would have him killed for a crime he claims he did not commit.</DefaultText>
+      <DefaultText>Left-Claw, um Beastman capturado em [Plainsgate], pediu para você salvá-lo de uma multidão de humanos que o mataria por um crime que ele alega não ter cometido.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

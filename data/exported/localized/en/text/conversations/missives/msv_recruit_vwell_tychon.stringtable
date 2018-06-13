@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\missives\msv_recruit_vwell_tychon</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Send it.</DefaultText>
+      <DefaultText>Envie isto.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

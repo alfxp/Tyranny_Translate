@@ -1,92 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\05_cairnplains\fq_rb_qst_fortifyingthesea</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>17</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Fortifying the Sea</DefaultText>
+      <DefaultText>Fortificando o Mar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Travel to Howling Rock.</DefaultText>
+      <DefaultText>Viajar para o Howling Rock.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Speak with Isadora.</DefaultText>
+      <DefaultText>Fale com Isadora.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Speak with Radix.</DefaultText>
+      <DefaultText>Fale com o Radix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Kill Radix.</DefaultText>
+      <DefaultText>Mate Radix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Return to Isadora.</DefaultText>
+      <DefaultText>Retornar para Isadora.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Secure an alliance with the Earthshakers at Howling Rock.</DefaultText>
+      <DefaultText>Assegure uma aliança com os Earthshakers em Howling Rock.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Travel to Howling Rock to meet with Isadora.</DefaultText>
+      <DefaultText>Viaje para Howling Rock para se encontrar com Isadora.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Find Isadora in Howling Rock and speak to her about the Earthshaker alliance.</DefaultText>
+      <DefaultText>Encontre Isadora em Howling Rock e fale com ela sobre a aliança Earthshaker.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Speak with Radix inside the Earthshaker camp in Howling Rock.</DefaultText>
+      <DefaultText>Fale com Radix dentro do campo do Earthshaker em Howling Rock.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Because you killed his brother Caedis, Radix is out for your blood.</DefaultText>
+      <DefaultText>Porque você matou seu irmão Caedis, Radix está fora por seu sangue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>With Radix dead, you'll need to speak with Isadora in Howling Rock about the Earthshaker alliance.</DefaultText>
+      <DefaultText>Com Radix morto, você precisará falar com Isadora em Howling Rock sobre a aliança Earthshaker.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Radix is now by [url=glossary:cairn]Cairn[/url], where he is collecting his thoughts. Speak with him there.</DefaultText>
+      <DefaultText>Radix é agora por [url=glossary:cairn]Cairn[/url], onde ele está coletando seus pensamentos. Fale com ele lá.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>With the death of Radix, Isadora has taken over the Earthshakers and sent you in search of the shards of Azurelith needed for the ritual on [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <DefaultText>Com a morte de Radix, Isadora assumiu os Earthshakers e enviou-lhe em busca dos fragmentos de Azurelith necessários para o ritual em [url=glossary:cairn]Cairn[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Radix has agreed to an alliance, but first you retrieve the shards of Azurelith needed for the ritual on [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <DefaultText>Radix concordou com uma aliança, mas primeiro você recupera os fragmentos de Azurelith necessários para o ritual em [url=glossary:cairn]Cairn[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>You attacked your potential allies and have been branded as an anarchist.</DefaultText>
+      <DefaultText>Você atacou seus potenciais aliados e foi marcado como um anarquista.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

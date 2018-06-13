@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_recruits\00_cv_forge_skilltrainer_pelagus</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>17</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>He leans in close and whispers. "I do not doubt your loyalty to the [url=glossary:disfavored]Disfavored[/url], but it is forbidden by [url=glossary:kyros]Kyros[/url] to enter these Spires."</DefaultText>
+      <DefaultText>Ele se aproxima e sussurra. "Eu não duvido de sua lealdade para com o [url=glossary:disfavored]Disfavored[/url], mas é proibido por [url=glossary:kyros]Kyros[/url] para entrar nestes Spires."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>He avoids meeting your eyes. "In case you were unaware of [url=glossary:kyros]Kyros[/url]' laws, entering the Oldwalls let alone a Spire is forbidden."</DefaultText>
+      <DefaultText>Ele evita encontrar seus olhos. "No caso de você não ter conhecimento das leis do [url=glossary:kyros]Kyros[/url], entrar no Oldwalls e muito menos um Spire é proibido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"I'd like to train."</DefaultText>
+      <DefaultText>"Eu gostaria de treinar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,67 +26,67 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Do you need training, Fatebinder?"</DefaultText>
+      <DefaultText>"Você precisa de treinamento, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"I cannot conduct my training while the Forge is under maintenance, check back later."</DefaultText>
+      <DefaultText>"Eu não posso conduzir meu treinamento enquanto o Forge estiver em manutenção, volte mais tarde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Pelagus cautiously scans his surroundings like a child out past his bedtime. He notices you and gives you a quick salute. "[url=glossary:graven ashe]Graven Ashe[/url] protects!" </DefaultText>
+      <DefaultText>Pelagus examina cautelosamente seus arredores como uma criança fora de sua hora de dormir. Ele percebe e faz uma rápida saudação. "[url=glossary:graven ashe]Graven Ashe[/url] protege!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Is there something wrong?"</DefaultText>
+      <DefaultText>"Há algo de errado?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Pelagus clings to his staff for a moment. "I don't mean to cause an alarm, but the Spires are forbidden by [url=glossary:kyros]Kyros[/url]' decree, let alone ascending to the very top of one."</DefaultText>
+      <DefaultText>Pelagus se agarra a sua equipe por um momento. "Eu não quero causar um alarme, mas os Spires são proibidos por decreto, e muito menos por ascender ao topo de um."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"My apologies, Fatebinder, I just find this all... peculiar."</DefaultText>
+      <DefaultText>"Minhas desculpas, Fatebinder, eu só acho isso tudo ... peculiar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Do you wish for me to terminate your employment?"</DefaultText>
+      <DefaultText>"Você deseja que eu encerre seu emprego?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>His eyes grow wide as he frantically shakes his head "No, not at all, Fatebinder! I intend to serve you, I only ask so I may understand its..." He pauses as he strains to explain himself more delicately. "Legality."</DefaultText>
+      <DefaultText>Seus olhos se arregalam enquanto ele freneticamente balança a cabeça: "Não, de jeito nenhum, Fatebinder! Eu pretendo servi-lo, só peço para que eu possa entender o seu ..." Ele faz uma pausa enquanto se esforça para se explicar mais delicadamente. "Legalidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"I claim these Spires as tribute to [url=glossary:kyros]Kyros[/url]' conquest. Should I need any more justification than that?"</DefaultText>
+      <DefaultText>"Eu reivindico esses Spires como tributo à [url=glossary:kyros]Kyros[/url] 'conquista. Devo precisar de mais alguma justificativa do que isso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] has given me express authority to claim these Spires for her."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] deu-me a autoridade expressa para reivindicar estes Spires para ela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>He scratches the scruff of his chin. "Perhaps not." He regains his composure and nods his head to you. "I appreciate you clarifying this for me. I am at your service should you need to train in the magical arts."</DefaultText>
+      <DefaultText>Ele coça a nuca do queixo. "Talvez não." Ele recupera a compostura e acena com a cabeça para você. "Eu agradeço por você esclarecer isso para mim. Eu estou ao seu serviço se você precisar treinar nas artes mágicas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"If you'd rather leave, I can arrange that."</DefaultText>
+      <DefaultText>"Se você preferir sair, eu posso organizar isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Pelagus stares at you, blinking for a few moments before speaking. "My apologies, Fatebinder, I had no idea." He takes a deep bow before you. "I appreciate you clarifying this for me. I am at your service should you need to train in the magical arts."</DefaultText>
+      <DefaultText>Pelagus olha para você, piscando por alguns instantes antes de falar. "Minhas desculpas, Fatebinder, eu não tinha ideia." Ele faz uma reverência profunda diante de você. "Eu agradeço por você esclarecer isso para mim. Eu estou ao seu serviço se você precisar treinar nas artes mágicas."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

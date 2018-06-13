@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_oldwall_ext_intro</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"The [url=glossary:unbroken]Unbroken[/url] are half brave, half stupid to strike camp so close the Oldwalls."</DefaultText>
+      <DefaultText>"Os [url=glossary:unbroken]Unbroken[/url] são meio bravos, meio estúpidos para acertar o acampamento tão perto dos Oldwalls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Yes, he's a [url=glossary:sage]Sage[/url]. No, we don't all know each other."</DefaultText>
+      <DefaultText>"Sim, ele é um [url=glossary:sage]Sage[/url]. Não, nem todos nos conhecemos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"What is a [url=glossary:sage]Sage[/url] doing out here? Be wary of the word-thieves - do not believe their lies."</DefaultText>
+      <DefaultText>"O que é um [url=glossary:sage]Sage[/url] fazendo aqui? Seja cauteloso com os ladrões de palavras - não acredite em suas mentiras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Feathered mystic smells of grackle's nest, charred sap, loneliness, and lies."</DefaultText>
+      <DefaultText>"Emplumados cheiros místicos de ninho de grackle, seiva carbonizada, solidão e mentiras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Graybeards have no business at the Oldwalls. We shouldn't trust them."</DefaultText>
+      <DefaultText>"Barba-cinzenta não tem negócios nos Oldwalls. Não devemos confiar neles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"There are Sages here! Maybe someone will finally be able to carry on a decent conversation..."</DefaultText>
+      <DefaultText>"Há Sábios aqui! Talvez alguém finalmente possa continuar uma conversa decente ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Bank Node 11</DefaultText>
+      <DefaultText>Nó do banco 11</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

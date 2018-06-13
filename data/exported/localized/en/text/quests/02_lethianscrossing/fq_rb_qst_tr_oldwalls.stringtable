@@ -1,122 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\02_lethianscrossing\fq_rb_qst_tr_oldwalls</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>23</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Crossing the Oldwalls</DefaultText>
+      <DefaultText>Atravessando os Oldwalls</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Use the torchkey.</DefaultText>
+      <DefaultText>Use a tocha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Explore the Oldwalls.</DefaultText>
+      <DefaultText>Explore os Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Fight Raetommon.</DefaultText>
+      <DefaultText>Lute contra Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Light the four beacons to extend the bridge</DefaultText>
+      <DefaultText>Acenda os quatro faróis para estender a ponte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Kill the Havoc.</DefaultText>
+      <DefaultText>Mate o estrago.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Free Forge Master Zdenya.</DefaultText>
+      <DefaultText>Mestre de Forja Livre Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Return to Eldian.</DefaultText>
+      <DefaultText>Retornar para Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Return to Arri.</DefaultText>
+      <DefaultText>Volte para Arri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Return to Arri.</DefaultText>
+      <DefaultText>Volte para Arri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Raetommon has gone deep into the Oldwalls with [url=glossary:forge-bound]Forge-Bound[/url] Master Zdenya. Welby has indicated that taking him out will be beneficial for everyone involved.</DefaultText>
+      <DefaultText>Raetommon se aprofundou no Oldwall com [url=glossary:forge-bound]Forge-Bound[/url] Master Zdenya. Welby indicou que tirá-lo será benéfico para todos os envolvidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>You obtained a torchkey from Flatfoot Ferris. Use it to move further into the Oldwalls.</DefaultText>
+      <DefaultText>Você obteve uma tocha de Flatfoot Ferris. Use-o para avançar ainda mais para os Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Raetommon is in the Oldwalls somewhere with [url=glossary:forge-bound]Forge-Bound[/url] Master Zdenya and the Magebane Helm.</DefaultText>
+      <DefaultText>Raetommon está em Oldwalls em algum lugar com o mestre Zdenya e o Magebane Helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Raetommon won't let you leave without a fight, give him one.</DefaultText>
+      <DefaultText>Raetommon não vai deixar você sair sem lutar, dar-lhe um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Use the correct torchkey on each of the beacons to extend the bridge and escape the Oldwalls.</DefaultText>
+      <DefaultText>Use a tocha correta em cada um dos faróis para estender a ponte e escapar do Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>The Havoc escaped from its prison, kill it before it can unleash the Bane on [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>O Havoc escapou de sua prisão, matá-lo antes que ele possa desencadear o Bane em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>With Raetommon taken care of and the Havoc dead release Forge Master Zdenya.</DefaultText>
+      <DefaultText>Com Raetommon sendo cuidado e com o lançamento do Havoc Dead Forge Master Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Return to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and either give Eldian the Magebane Helm or claim it for your own.</DefaultText>
+      <DefaultText>Volte para [url=glossary:lethian's crossing]Lethian's Crossing[/url] e forneça a Eldian o Magebane Helm ou peça por ele mesmo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Return to Arri and let her know you have successfully recruited the [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <DefaultText>Retorne a Arri e deixe-a saber que você recrutou com sucesso o [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Return to Arri and let her know you decided to recruit the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] instead.</DefaultText>
+      <DefaultText>Retornar para Arri e deixá-la saber que você decidiu recrutar o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] em seu lugar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>After defeating the mad leader of the Bronze Brother Hood, Raetommon, you decided it would be best to recruit the [url=glossary:forge-bound]Forge-Bound[/url] to your alliance rather than the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url].</DefaultText>
+      <DefaultText>Depois de derrotar o líder louco do Irmão de Bronze Hood, Raetommon, você decidiu que seria melhor recrutar o [url=glossary:forge-bound]Forge-Bound[/url] para sua aliança em vez do [url=glossary:bronze brotherhood]Bronze Brotherhood[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>After defeating the mad leader of the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url], Raetommon, you decided you would give them a second chance and decided to recruit the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] into your alliance.</DefaultText>
+      <DefaultText>Depois de derrotar o líder louco do [url=glossary:bronze brotherhood]Bronze Brotherhood[/url], Raetommon, você decidiu que iria dar-lhes uma segunda chance e decidiu recrutar o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] em sua aliança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>You went against Arri's wishes and killed the leaders of both the [url=glossary:forge-bound]Forge-Bound[/url] and the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url].</DefaultText>
+      <DefaultText>Você foi contra os desejos de Arri e matou os líderes de ambos os [url=glossary:forge-bound]Forge-Bound[/url] e os [url=glossary:bronze brotherhood]Bronze Brotherhood[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

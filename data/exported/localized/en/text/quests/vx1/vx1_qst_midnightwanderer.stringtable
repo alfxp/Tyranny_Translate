@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\vx1\vx1_qst_midnightwanderer</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Insipid Moniker only visits the Oldwalls during specific hours of the night. Eisly knows what time would be best to find her there.</DefaultText>
+      <DefaultText>Moniker insípida só visita Oldwalls durante horas específicas da noite. Eisly sabe que horas seria melhor encontrá-la lá.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Insipid Moniker only visits the Oldwalls during specific hours of the night. Eisly knows what time would be best to find her there.</DefaultText>
+      <DefaultText>Moniker insípida só visita Oldwalls durante horas específicas da noite. Eisly sabe que horas seria melhor encontrá-la lá.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Insipid Moniker only visits the Oldwalls during specific hours of the night. Eisly knows what time would be best to find her there.</DefaultText>
+      <DefaultText>Moniker insípida só visita Oldwalls durante horas específicas da noite. Eisly sabe que horas seria melhor encontrá-la lá.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

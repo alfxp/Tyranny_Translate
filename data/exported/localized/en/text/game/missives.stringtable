@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>game\missives</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>43</EntryCount>
@@ -16,62 +16,62 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Calio, Fatebinder of Balance. Though she outranks all but [url=glossary:tunon]Tunon[/url] himself, Calio's role is an unusual one - she is to investigate flaws in the actions of [url=glossary:tunon]Tunon[/url]'s agents and provide advocacy to those she believes are judged unfairly. Put another way, she is a check and balance to [url=glossary:tunon]Tunon[/url] - the one Fatebinder expected to argumentative, insubordinate. It is Calio's job to spy on other Fatebinders and cull the bad apples from the harvest - and she is often called upon to teach new Fatebinders the skills of stealth, subterfuge, and assassination.</DefaultText>
+      <DefaultText>Calio, Fatebinder of Balance. Embora ela supere todos, mas o papel de Calio é incomum - ela deve investigar as falhas nas ações dos agentes do [url=glossary:tunon]Tunon[/url] e fornecer defesa àqueles que ela acredita que são julgados injustamente. Dito de outra forma, ela é um cheque e saldo para [url=glossary:tunon]Tunon[/url] - o único Fatebinder esperado para argumentativo, insubordinado. É tarefa de Calio espionar outros Fatebinders e abater as maçãs podres da colheita - e ela é frequentemente chamada para ensinar aos novos Fatebinders as habilidades de furtividade, subterfúgios e assassinatos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[url=glossary:kyros]Kyros[/url]' Will</DefaultText>
+      <DefaultText>[url=glossary:kyros]Kyros[/url] 'Will</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Archon and Adjudicator of [url=glossary:kyros]Kyros[/url]' laws, [url=glossary:tunon]Tunon[/url] is responsible for the law and order of conquered territory - civilizing the Tiers for the Overlord. He is also your lord and sovereign and he may freely kill you, or any minion that violates his rules.</DefaultText>
+      <DefaultText>Arconte e Adjudicator de [url=glossary:kyros]Kyros[/url] 'leis, [url=glossary:tunon]Tunon[/url] é responsável pela lei e ordem do território conquistado - civilizando as Tiers for the Overlord. Ele também é seu senhor e soberano e ele pode livremente matá-lo, ou qualquer lacaio que viole suas regras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Call to Court</DefaultText>
+      <DefaultText>Ligue para o tribunal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>On Matters of Strife</DefaultText>
+      <DefaultText>Em matéria de conflitos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of...?</DefaultText>
+      <DefaultText>[url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] de ...?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>I will only ask once.</DefaultText>
+      <DefaultText>Eu só vou perguntar uma vez.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>The horde sings well of you...</DefaultText>
+      <DefaultText>A horda canta bem de você ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Thanks from the [url=glossary:disfavored]Disfavored[/url]</DefaultText>
+      <DefaultText>Obrigado desde o [url=glossary:disfavored]Disfavored[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>An overdue greeting</DefaultText>
+      <DefaultText>Uma saudação atrasada</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] the legendary leader of a famed and feared [url=glossary:disfavored]Disfavored[/url] legion. Temperate and dutiful, [url=glossary:graven ashe]Graven Ashe[/url] is a loyal officer to [url=glossary:kyros]Kyros[/url], and he both expects and commands great respect from his soldiers.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] o lendário líder de uma famosa e temida [url=glossary:disfavored]Disfavored[/url] legião. Temperado e obediente, [url=glossary:graven ashe]Graven Ashe[/url] é um oficial leal para [url=glossary:kyros]Kyros[/url], e ele espera e comanda grande respeito de seus soldados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>The Archon known as [url=glossary:the voices of nerat]the Voices of Nerat[/url] is the self-styled conducter of the massive [url=glossary:scarlet chorus]Scarlet Chorus[/url] horde. Though stories about of his arcane might and cruel sense of humor, there is little settled word on the Voices' true nature. It is known that he is able to 'collect' the memories (and possibly whole minds of others) - giving him a disturbingly expansive knowledge base.</DefaultText>
+      <DefaultText>O Arconte conhecido como [url=glossary:the voices of nerat]the Voices of Nerat[/url] é o auto-denominado conducter da gigantesca horda [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Apesar de histórias sobre seu poder arcano e senso de humor cruel, há pouca palavra estabelecida sobre a verdadeira natureza das Vozes. Sabe-se que ele é capaz de “coletar” as memórias (e possivelmente mentes inteiras dos outros) - dando-lhe uma base de conhecimento perturbadoramente expansiva.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Law and Order</DefaultText>
+      <DefaultText>Lei e ordem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Making Amends</DefaultText>
+      <DefaultText>Fazendo Amends</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Status Report</DefaultText>
+      <DefaultText>Relatório de status</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,17 +146,17 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Confer with Rhogalus</DefaultText>
+      <DefaultText>Conferir com Rhogalus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Citadel under siege!</DefaultText>
+      <DefaultText>Cidadela sob cerco!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>A Stab in the Dark</DefaultText>
+      <DefaultText>Uma facada no escuro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,52 +171,52 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Rending-Hound's Location</DefaultText>
+      <DefaultText>Localização do Rending-Hound</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Friend or Foe?</DefaultText>
+      <DefaultText>Amigo ou inimigo?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>A Humble Offer</DefaultText>
+      <DefaultText>Uma humilde oferta</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>May the [url=glossary:edict]Edict[/url] claim your worthless life.</DefaultText>
+      <DefaultText>Maio o [url=glossary:edict]Edict[/url] reivindica sua vida inútil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>I Won't Forget This</DefaultText>
+      <DefaultText>Eu não vou esquecer isso</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Courtly Assistance</DefaultText>
+      <DefaultText>Assistência judicial</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Regarding your interest in the Spires</DefaultText>
+      <DefaultText>Quanto ao seu interesse nas Spires</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Our coalition is broken</DefaultText>
+      <DefaultText>Nossa coalizão está quebrada</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Can I interest you in an aging scribe, slightly used?</DefaultText>
+      <DefaultText>Posso te interessar em um escriba idoso, um pouco usado?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>On the subject of the Spires</DefaultText>
+      <DefaultText>Sobre o assunto dos Spires</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

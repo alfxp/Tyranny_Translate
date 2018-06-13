@@ -1,102 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\01_bladegrave\01_qst_rustcanyon_main_sc</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>19</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>That Which Remains</DefaultText>
+      <DefaultText>Aquilo que continua</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Locate the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Localize o [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Raze the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
+      <DefaultText>Raze o acampamento [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Defend the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
+      <DefaultText>Defenda o acampamento [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Clear a path for the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Limpar um caminho para o [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Pursue Elia.</DefaultText>
+      <DefaultText>Prosseguir Elia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Defeat Teodor and his soldiers.</DefaultText>
+      <DefaultText>Derrote Teodor e seus soldados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] are searching for powerful Stalwart artifacts at Rust Canyons that can resist the [url=glossary:edict]Edict[/url] of Storms and grant passage into Sentinel Stand Keep. Locate the rebels and see if they have found a way inside the fortress.</DefaultText>
+      <DefaultText>Os [url=glossary:unbroken]Unbroken[/url] estão à procura de artefatos de Stalwart poderosos em Canyons de ferrugem que podem resistir a [url=glossary:edict]Edict[/url] de tempestades e conceder passagem em manter de suporte de sentinela. Localize os rebeldes e veja se eles encontraram um caminho dentro da fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Mattias revealed that [url=glossary:unbroken]Unbroken[/url] soldiers, led by a woman named Elia, were sent to Rust Canyons. Locate them.</DefaultText>
+      <DefaultText>Mattias revelou que [url=glossary:unbroken]Unbroken[/url] soldados, liderados por uma mulher chamada Elia, foram enviados para Rust Canyons. Localize-os.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>You have decided to attack the [url=glossary:unbroken]Unbroken[/url] camp in Rust Canyons. Kill Elia and all rebel soldiers inside.</DefaultText>
+      <DefaultText>Você decidiu atacar o acampamento [url=glossary:unbroken]Unbroken[/url] em Rust Canyons. Mate Elia e todos os soldados rebeldes lá dentro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Elia needs your help repulsing an attack from [url=glossary:disfavored]Disfavored[/url] forces. Help her defend the [url=glossary:unbroken]Unbroken[/url] camp at Rust Canyons.</DefaultText>
+      <DefaultText>Elia precisa da sua ajuda para repelir um ataque das forças do [url=glossary:disfavored]Disfavored[/url]. Ajude-a a defender o acampamento [url=glossary:unbroken]Unbroken[/url] em Rust Canyons.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] attack at Rust Canyons has been repulsed, but more are on their way. Travel north of the camp and defeat the remaining soldiers to clear a path out for the rebels.</DefaultText>
+      <DefaultText>O ataque [url=glossary:disfavored]Disfavored[/url] em Rust Canyons foi repelido, mas mais estão a caminho. Viaje para o norte do acampamento e derrote os soldados restantes para abrir caminho para os rebeldes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Elia and some of her men escaped the camp as it fell, and are attempting to flee Rust Canyons. Follow their path north and prevent them from escaping.</DefaultText>
+      <DefaultText>Elia e alguns de seus homens escaparam do acampamento quando ele caiu e estão tentando fugir de Rust Canyons. Siga seu caminho para o norte e evite que eles escapem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Elia has asked you to drive Teodor and his men out of Rust Canyons, whether by force or by intimidation, and rescue her captive men.</DefaultText>
+      <DefaultText>Elia lhe pediu para expulsar Teodor e seus homens de Rust Canyons, seja pela força ou por intimidação, e resgatar seus homens cativos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>You have killed Teodor's men and freed the [url=glossary:unbroken]Unbroken[/url] captives. Elia will want to hear the news.</DefaultText>
+      <DefaultText>Você matou os homens de Teodor e libertou os [url=glossary:unbroken]Unbroken[/url] cativos. Elia vai querer ouvir as novidades.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>You managed to enter the camp undetected. Use this to your advantage during the attack.</DefaultText>
+      <DefaultText>Você conseguiu entrar no campo sem ser detectado. Use isso para sua vantagem durante o ataque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>Shoot out the winch holding up the ramp to reach the [url=glossary:unbroken]Unbroken[/url] on the overlook.</DefaultText>
+      <DefaultText>Atire o guincho segurando a rampa para alcançar o [url=glossary:unbroken]Unbroken[/url] no mirante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>You helped Elia and the [url=glossary:unbroken]Unbroken[/url] escape Rust Canyons, learning about the hunt for the Steadfast Insignia at the Oldwalls Breach.</DefaultText>
+      <DefaultText>Você ajudou Elia e os [url=glossary:unbroken]Unbroken[/url] escapar Rust Canyons, aprendendo sobre a caça para o Insígnia Steadfast no Oldwalls Breach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>You defeated Elia and the [url=glossary:unbroken]Unbroken[/url] at Rust Canyons, learning about the hunt for the Steadfast Insignia at the Oldwalls Breach.</DefaultText>
+      <DefaultText>Você derrotou Elia e o [url=glossary:unbroken]Unbroken[/url] em Rust Canyons, aprendendo sobre a caçada ao Insignia Steadfast no Oldwalls Breach.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

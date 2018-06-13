@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_bs_spirit_trap_reactions</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Interesting. Is it reasonable to describe an ethereal cloud as angry? Because I think you're making it angry."</DefaultText>
+      <DefaultText>"Interessante. É razoável descrever uma nuvem etérea como zangada? Porque acho que você está irritada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"That... orb appears one breath away from collapsing. Since being sensible and abandoning this cause aren't options, might I suggest drawing our blades?"</DefaultText>
+      <DefaultText>"Isso ... orbe aparece a um sopro de colapso. Já que ser sensato e abandonar essa causa não são opções, eu sugiro que desenhe nossas lâminas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"It appears the Regent is safely enclosed within the globe's confines. No easy path for us through this."</DefaultText>
+      <DefaultText>"Parece que o Regente está seguro dentro dos limites do globo. Nenhum caminho fácil para nós através disso."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

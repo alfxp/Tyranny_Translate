@@ -1,101 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\0103_cv_straydus_intro</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>77</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Stalwart's ruler looks at you with a mixture of caution and amazement. His gaze lingers on the Steadfast Insignia. "That explains how you were able to pierce the winds... but why have you come? Not to liberate an enemy, I think."
+      <DefaultText>O regente de Stalwart olha para você com uma mistura de cautela e espanto. Seu olhar permanece na insígnia firme. "Isso explica como você foi capaz de furar os ventos ... mas por que você veio? Não para libertar um inimigo, eu acho."
 
-He squints. "The long isolation has taken its toll, but we aren't deaf to news of the outside world. I think I recognize a Fatebinder when I see one, so logic follows that you are the keeper of [url=glossary:vendrien's well]Vendrien's Well[/url]." </DefaultText>
+Ele aperta os olhos. "O longo isolamento cobra seu preço, mas não somos surdos às notícias do mundo exterior. Acho que reconheço um Fatebinder quando vejo um, então a lógica segue que você é o guardião do [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"We've survived in the Overlord's prison for over a year. I live on, and so the Regent bloodline endures. Even the [url=glossary:disfavored]Disfavored[/url] couldn't breach [url=glossary:kyros]Kyros[/url]' windwall when the [url=glossary:edict]Edict[/url] crashed upon our heads... though I'm less certain how you managed." 
+      <DefaultText>"Nós sobrevivemos na prisão do Overlord por mais de um ano. Eu vivo, e então a linhagem regente permanece. Mesmo o [url=glossary:disfavored]Disfavored[/url] não poderia romper [url=glossary:kyros]Kyros[/url] 'windwall quando o [url=glossary:edict]Edict[/url] caiu sobre nossas cabeças ... embora eu seja menos certo como você conseguiu. "
 
-He regards you with a hint of resignation. "You didn't travel this far to deliver terms of surrender, did you?" </DefaultText>
+Ele considera você com uma pitada de resignação. "Você não viajou tão longe para entregar termos de rendição, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"This storm is destroying your people. Surely you must see the madness in prolonging the inevitable?"</DefaultText>
+      <DefaultText>"Esta tempestade está destruindo seu povo. Certamente você deve ver a loucura em prolongar o inevitável?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"I am here to restore sanity back to the people of Stalwart, to give rule to the [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
+      <DefaultText>"Estou aqui para restaurar a sanidade de volta ao povo de Stalwart, para dar a regra ao [url=glossary:unbroken]Unbroken[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"I am here to liberate Stalwart from all tyrants." </DefaultText>
+      <DefaultText>"Estou aqui para libertar Stalwart de todos os tiranos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"I'm not ignorant of my part in this equation. The [url=glossary:edict]Edict[/url] can only be ended with the [url=lore:edict_storms_resolution]blood of the last Regent,[/url] just as [url=glossary:kyros]Kyros[/url] decreed." He nods. 
+      <DefaultText>"Eu não sou ignorante da minha parte nesta equação. O [url=glossary:edict]Edict[/url] só pode ser terminado com o [url=lore:edict_storms_resolution]blood of the last Regent,[/url] apenas como [url=glossary:kyros]Kyros[/url] decretou." Ele concorda.
 
-"I must warn you - I haven't survived this long only to be cut down by [url=glossary:kyros]Kyros[/url]' lapdog. I endured the war, the [url=glossary:disfavored]Disfavored[/url] suicide march, and the long isolation of this storm. I won't make it easy."</DefaultText>
+"Eu devo avisá-lo - eu não sobrevivi tanto tempo só para ser derrubado por [url=glossary:kyros]Kyros[/url] 'cão de colo. Eu suportei a guerra, a [url=glossary:disfavored]Disfavored[/url] marcha de suicídio, eo isolamento longo desta tempestade. Eu não farei isto fácil."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>His brow rises. "I'm impressed that the [url=glossary:unbroken]Unbroken[/url] have held together this long without my leadership. Once I'm free of the keep, I'll be only too happy to whip them back into order."
+      <DefaultText>Sua sobrancelha sobe. "Estou impressionado que os [url=glossary:unbroken]Unbroken[/url] se mantiveram juntos por tanto tempo sem a minha liderança. Uma vez que eu esteja livre da fortaleza, eu ficarei muito feliz em colocá-los de volta em ordem."
 
-"Stalwart belongs to the Regents, the last of whom stands before you. This nation will remain under my rule, even as a blasted wasteland."</DefaultText>
+"Stalwart pertence aos Regentes, o último dos quais está diante de você. Esta nação permanecerá sob o meu domínio, mesmo como uma devastada terra devastada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Big words from one of [url=glossary:kyros]Kyros[/url]' decorated lackeys. There is only one authority in Stalwart, and he stands before you." Straydus draws himself up with pride.
+      <DefaultText>"Grandes palavras de um dos [url=glossary:kyros]Kyros[/url] 'lacaios decorados. Há apenas uma autoridade em Stalwart, e ele está diante de você." Straydus se empolga de orgulho.
 
-"The people of Stalwart have always followed the Regents, and any attempt to do otherwise is high treason."</DefaultText>
+"As pessoas de Stalwart sempre seguiram os regentes, e qualquer tentativa de fazer o contrário é alta traição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"You could have ended this [url=glossary:edict]Edict[/url] long ago."</DefaultText>
+      <DefaultText>"Você poderia ter terminado este [url=glossary:edict]Edict[/url] há muito tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"A true leader would have fought to the very end rather than hide here."</DefaultText>
+      <DefaultText>"Um verdadeiro líder teria lutado até o fim, em vez de se esconder aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"I'm going to end the [url=glossary:edict]Edict[/url] one way or another. Will you help me or not?"</DefaultText>
+      <DefaultText>"Eu vou terminar o [url=glossary:edict]Edict[/url] de uma forma ou outra. Você vai me ajudar ou não?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"You mean by suicide or execution at the hands of my countrymen?" His expression withers. 
+      <DefaultText>"Você quer dizer por suicídio ou execução nas mãos dos meus compatriotas?" Sua expressão murcha.
 
-"That would betray the dignity of my station and the honor of my soldiers alike. In caving to the Overlord's will, we would lose the very thing which makes Stalwart great - our perseverance." </DefaultText>
+"Isso trairia a dignidade de minha posição e a honra de meus soldados igualmente. Ao ceder à vontade do Overlord, perderíamos a mesma coisa que torna a Stalwart grande - nossa perseverança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Your doubt is understandable, but why should I have fought a losing battle? Stalwart's Regents have always endured where others fell. In Sentinel Stand, I could outlast any enemy." 
+      <DefaultText>"Sua dúvida é compreensível, mas por que eu deveria ter lutado uma batalha perdida? Os regentes de Stalwart sempre suportaram onde outros caíram. No Posto Sentinela, eu poderia sobreviver a qualquer inimigo."
 
-"And how could I have known that [url=glossary:kyros]Kyros[/url] would be so... exacting in punishment?" </DefaultText>
+"E como eu poderia saber que [url=glossary:kyros]Kyros[/url] seria tão ... exigente em punição?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"I will not, and you are a fool to think that I would accept such an outrageous proposal, given everything that it represents. The very pride of my station hinges on rejecting your impossible solution."</DefaultText>
+      <DefaultText>"Eu não vou, e você é um tolo ao pensar que eu aceitaria uma proposta tão ultrajante, dada tudo o que ela representa. O orgulho da minha posição depende da rejeição de sua solução impossível."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"I'm here to end the [url=glossary:edict]Edict[/url] of Storms... by delivering your head to [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
+      <DefaultText>"Estou aqui para terminar o [url=glossary:edict]Edict[/url] de Tempestades ... entregando sua cabeça para [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"No small task for one of [url=glossary:kyros]Kyros[/url]' pet swine. Do you imagine it'll be as easy as running me through? I think not." </DefaultText>
+      <DefaultText>"Nenhuma tarefa pequena para um de [url=glossary:kyros]Kyros[/url] 'suínos de animal de estimação. Você imagina que será tão fácil quanto correndo por mim? Eu penso que não."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,122 +105,122 @@ He regards you with a hint of resignation. "You didn't travel this far to delive
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Brilliant. Figured that one out all by yourself? You realize my voice might never recover from all that dust, right? How about a little sympathy for me?"</DefaultText>
+      <DefaultText>"Brilhante. Imaginei que um fora sozinho? Você percebe que minha voz pode nunca se recuperar de todo aquele pó, certo? Que tal um pouco de simpatia por mim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Your burden is nothing to mine, or that of your people. To consign your country to this is unforgivable." 
+      <DefaultText>"Seu fardo não é nada para mim ou para o seu povo. Consignar seu país a isso é imperdoável."
 
-"When [url=glossary:kyros]Kyros[/url] called on Ashe to submit, he chose his soldiers' lives over his pride. You are a coward, and I'll see it you die like one, too." </DefaultText>
+"Quando [url=glossary:kyros]Kyros[/url] convocou Ashe a se submeter, ele escolheu a vida de seus soldados sobre seu orgulho. Você é um covarde, e eu vou ver que você morre como um também."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Because in the past, restraint is what [url=glossary:kyros]Kyros[/url] has been known for? The Tiers are in shambles and you thought you would escape retribution? Your naivety is impressive."</DefaultText>
+      <DefaultText>"Porque no passado, a restrição é o que é conhecido por [url=glossary:kyros]Kyros[/url]? As Camadas estão em frangalhos e você pensou que iria escapar da retribuição? Sua ingenuidade é impressionante".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"I've come to take Sentinel Stand. You will submit or die." </DefaultText>
+      <DefaultText>"Eu vim para tomar a Sentinela. Você vai se submeter ou morrer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"If you think that's possible, then you know nothing about the Realm of Stalwart. This is my rightful seat, and I will reside here until my dying day."</DefaultText>
+      <DefaultText>"Se você acha que é possível, então você não sabe nada sobre o Reino de Stalwart. Este é o meu lugar de direito, e eu residirei aqui até o dia da minha morte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"While the initial deaths caused by the [url=glossary:edict]Edict[/url] of Storms are ultimately on [url=glossary:kyros]Kyros[/url]' hands, the continued devastation could've been, and now could be prevented by Herodin, so now it's his crime."
+      <DefaultText>"Enquanto as mortes iniciais causadas pelas mãos, a devastação continuada poderia ter sido, e agora poderia ser impedida por Herodin, então agora é o crime dele".
 
-"Your Overlord certainly works in amusing ways - the storms are the obvious attack, the more subtle strike is how this [url=glossary:edict]Edict[/url] brings out the cowardice and pride endemic to Stalwart. I always did wonder how the [url=glossary:unbroken]Unbroken[/url] would finally lose their winning streak."</DefaultText>
+"Seu Overlord certamente funciona de maneira divertida - as tempestades são o ataque óbvio, o ataque mais sutil é como este [url=glossary:edict]Edict[/url] traz a covardia e orgulho endêmico para Stalwart. Eu sempre me perguntei como o [url=glossary:unbroken]Unbroken[/url] iria finalmente perder sua série de vitórias."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"What was that about a [url=glossary:disfavored]Disfavored[/url] suicide march?"</DefaultText>
+      <DefaultText>"O que foi isso sobre um [url=glossary:disfavored]Disfavored[/url] marcha de suicídio?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"In the second year of the war, my personal forces captured one of [url=glossary:graven ashe]Graven Ashe[/url]'s elite legions. We divided their numbers for our own protection - some here, others at Duskwatch - with plans of bargaining with Ashe for their lives." </DefaultText>
+      <DefaultText>"No segundo ano da guerra, minhas forças pessoais capturaram uma das legiões de elite do [url=glossary:graven ashe]Graven Ashe[/url]. Nós dividimos seus números para nossa própria proteção - alguns aqui, outros em Duskwatch - com planos de barganhar com Ashe por suas vidas".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"I remember that day too well... if you had but surrendered, then hundreds of Northerners and Southerners alike would have been spared!" </DefaultText>
+      <DefaultText>"Eu me lembro daquele dia muito bem ... se você tivesse se rendido, então centenas de nortistas e sulistas igualmente teriam sido poupados!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"You are blind to reason. There is no recourse but to end your life."</DefaultText>
+      <DefaultText>"Você é cego para a razão. Não há recurso senão acabar com sua vida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"You are every bit the Northern emissary - unwilling to resolve anything through compromise, resorting to bloodshed in short order." 
+      <DefaultText>"Você é o emissário do Norte - não querendo resolver nada por meio de concessões, recorrendo a derramamento de sangue em pouco tempo."
 
-"At least my expectations were calibrated properly." </DefaultText>
+"Pelo menos minhas expectativas foram calibradas corretamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Our definitions of 'reason' come from very different places, Fatebinder. As the Overlord's vassal, you are accustomed to one-sided negotiations and ultimatums that preclude any open dialogue." He nods. "By your standpoint, I must seem unreasonable indeed."</DefaultText>
+      <DefaultText>"Nossas definições de 'razão' vêm de lugares muito diferentes, Fatebinder. Como vassalo do Overlord, você está acostumado a negociações unilaterais e ultimatos que impedem qualquer diálogo aberto." Ele concorda. "Pelo seu ponto de vista, eu devo parecer irracional de fato."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Typical that the attendants of [url=glossary:kyros]Kyros[/url] present no agreeable terms. You may distort the histories to reflect that I forced this confrontation, but everyone here will remember that when your Overlord locked me in an impossible choice, I chose Stalwart." 
+      <DefaultText>"Típico que os atendentes do [url=glossary:kyros]Kyros[/url] não apresentem termos agradáveis. Você pode distorcer as histórias para refletir que forcei esse confronto, mas todos aqui vão lembrar que quando seu Overlord me trancou em uma escolha impossível, eu escolhi Stalwart."
 
-Herodin turns away and heads through the portcullis.</DefaultText>
+Herodin se vira e segue pela ponte levadiça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"He has no idea what has become of Stalwart outside of these walls... I almost pity him."</DefaultText>
+      <DefaultText>"Ele não tem idéia do que aconteceu com o Stalwart fora dessas paredes ... eu quase sinto pena dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"The war came to a, shall I say, climactic stalemate when a [url=glossary:disfavored]Disfavored[/url] force amassed around Sentinel Stand to drive us out and liberate our... our prisoner."
+      <DefaultText>"A guerra chegou a um, digamos, um impasse clímax quando uma força [url=glossary:disfavored]Disfavored[/url]11 acumulou em torno Sentinela Stand para nos expulsar e liberar o nosso ... nosso prisioneiro."
 
-A thoughtful expression overcomes him, but he dispels it with a shake of his head.</DefaultText>
+Uma expressão pensativa o supera, mas ele dissipa com uma sacudida de cabeça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"The rest, as you know, is history. Before the [url=glossary:disfavored]Disfavored[/url] could finish their desperate attack, the [url=glossary:edict]Edict[/url] swept up my people and Ashe's legion like they were made of straw, battering bones and iron into so much dust that now swirls about our heads."</DefaultText>
+      <DefaultText>"O resto, como você sabe, é história. Antes do [url=glossary:disfavored]Disfavored[/url] poder terminar seu ataque desesperado, o [url=glossary:edict]Edict[/url] varreu meu pessoal e a legião de Ashe como se fossem feitos de palha, espancando ossos e ferro em tanta poeira que agora gira sobre nossas cabeças "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Stalwart bows to no one, you armadillo of rust and entropy!" Herodin grimaces at Barik and shakes his head. "Your presence alone dirties these noble defenses." </DefaultText>
+      <DefaultText>"Stalwart não se curva a ninguém, seu tatu de ferrugem e entropia!" Herodin faz uma careta em Barik e balança a cabeça. "Sua presença sozinha suga essas nobres defesas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"I took no pleasure in watching storms ravage my country, here from the safety of the eye. I have suffered the weight of that decision every day, but I would never second-guess it."</DefaultText>
+      <DefaultText>"Não tive prazer em assistir a tempestades assolar meu país, aqui pela segurança dos olhos. Eu sofri o peso dessa decisão todos os dias, mas nunca duvido disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"I'm here for the daughter of [url=glossary:graven ashe]Graven Ashe[/url]." </DefaultText>
+      <DefaultText>"Estou aqui para a filha de [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>His eyes narrow. "While I live, this is the safest fortress in all the Tiers. Amelia is in better hands than anywhere else on Terratus." </DefaultText>
+      <DefaultText>Seus olhos se estreitam. "Enquanto eu moro, esta é a fortaleza mais segura em todos os níveis. Amelia está em melhores mãos do que em qualquer outro lugar no Terratus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"If you've come to liberate her, I assure you the effort has been wasted. She isn't going anywhere." </DefaultText>
+      <DefaultText>"Se você veio para libertá-la, garanto que o esforço foi desperdiçado. Ela não vai a lugar nenhum."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"As your prisoner? Depraved monster, release her now or perish by my hand!" </DefaultText>
+      <DefaultText>"Como seu prisioneiro? Depravado monstro, solte-a agora ou pereça pela minha mão!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,135 +230,135 @@ A thoughtful expression overcomes him, but he dispels it with a shake of his hea
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] has offered to keep her safe at Cacophony." </DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] se ofereceu para mantê-la segura na Cacofonia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"We will see about that, Regent. The choice is yours."</DefaultText>
+      <DefaultText>"Vamos ver sobre isso, regente. A escolha é sua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Spare me your empty promises. [url=glossary:graven ashe]Graven Ashe[/url] cares for conquest more than family. He could live for centuries more, and no doubt sire a hundred daughters."
+      <DefaultText>"Poupe-me de suas promessas vazias. [url=glossary:graven ashe]Graven Ashe[/url] se preocupa mais com a conquista do que com a família. Ele poderia viver por mais séculos e, sem dúvida, gerar cem filhas."
 
-"He wants to see this [url=glossary:edict]Edict[/url] come to an end along with my bloodline, and I venture he would make any sacrifice to that end." </DefaultText>
+"Ele quer ver este [url=glossary:edict]Edict[/url] chegar ao fim junto com a minha linhagem, e me atrevo a fazer qualquer sacrifício para esse fim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"I can think of no more dangerous place in all the Tiers than the company of that gangrenous villain. Even if I had [url=glossary:graven ashe]Graven Ashe[/url] himself in my custody, I would not hand over him to the Archon of Secrets for fear of [url=lore:voices_power]growing his madness."[/url]</DefaultText>
+      <DefaultText>"Eu não posso pensar em nenhum lugar mais perigoso em todos os níveis do que a companhia daquele vilão gangrenado. Mesmo se eu tivesse o próprio 11111111111111111111111111111111111111111 sob minha custódia, eu não o entregaria ao Arconte dos Segredos por medo de [url=lore:voices_power]growing his madness."[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"I came for the clear skies, but it seems I was misinformed."</DefaultText>
+      <DefaultText>"Eu vim para o céu limpo, mas parece que eu estava mal informado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"I was hoping to talk some sense into you first."</DefaultText>
+      <DefaultText>"Eu estava esperando falar um pouco sobre você primeiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"I am willing to treat with you under peaceable terms, but I will not give up this fortress or those who reside here. Nor will I waste my life on any fool's ambition to see [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] resolved." </DefaultText>
+      <DefaultText>"Estou disposto a tratar com você sob termos pacíficos, mas não vou desistir desta fortaleza ou daqueles que residem aqui. Nem vou desperdiçar minha vida na ambição de qualquer tolo de ver [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] resolvido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Is it? You've come to take my fortress, my people and my life. As my nation's sovereign, I merely stand in defense of Stalwart."</DefaultText>
+      <DefaultText>"É? Você veio para tomar minha fortaleza, meu povo e minha vida. Como soberano da minha nação, eu apenas permaneço em defesa de Stalwart."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] has no desire to end the [url=glossary:edict]Edict[/url]. Surrender and live."</DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] não tem o desejo de acabar com o [url=glossary:edict]Edict[/url]. Entregue-se e viva."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"As if I would put my safety, or my people, into the hands of that creature?" Herodin shakes his head. "I know enough of his atrocities without subjecting myself to them. He would no doubt torture me into a mindless stupor, an echo of life for his enjoyment." </DefaultText>
+      <DefaultText>"Como se eu colocasse minha segurança, ou meu povo, nas mãos daquela criatura?" Herodin sacode a cabeça. "Conheço o suficiente de suas atrocidades sem me sujeitar a elas. Ele sem dúvida me torturaria em um estupor insensato, um eco da vida para sua diversão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"We have outlasted too much for empty promises to sway us now. Stalwart's finest will hold this fortress until [url=glossary:kyros]Kyros[/url] withdraws. Conscription into the red-clad mob is not an option." </DefaultText>
+      <DefaultText>"Nós sobrevivemos muito a promessas vazias para nos influenciar agora. O melhor de Stalwart manterá essa fortaleza até [url=glossary:kyros]Kyros[/url] se retirar. O recrutamento para a turba vestida de vermelho não é uma opção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Clear skies? But we're..." Herodin stops himself and frowns at you.
+      <DefaultText>"Céu limpo? Mas nós estamos ..." Herodes se detém e franze a testa para você.
 
-"I'm afraid your humor is wasted on us, Fatebinder. We've seen too much death since the forces of [url=glossary:kyros]Kyros[/url] marched south, and these winds are a constant reminder of all we've lost."
+"Eu tenho medo que seu humor seja desperdiçado conosco, Fatebinder. Nós vimos muita morte desde que as forças de [url=glossary:kyros]Kyros[/url] marcharam para o sul, e esses ventos são uma lembrança constante de tudo que perdemos."
 
-"There will be no clear skies over Stalwart while my heart yet beats." </DefaultText>
+"Não haverá céus claros sobre o Stalwart enquanto meu coração ainda bate".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Herodin!" Barik pounds his fist together hard enough to shake the earth. "Come out and face us, coward! You've dodged this reckoning long enough." </DefaultText>
+      <DefaultText>"Herodin!" Barik bate o punho com força suficiente para sacudir a terra. "Saia e enfrente-nos, covarde! Você evitou esse cálculo por tempo suficiente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>The Regent blinks. "Do I know you? Your face - what little I can make of it - eludes me." 
+      <DefaultText>O regente pisca. "Eu te conheço? Seu rosto - o pouco que posso fazer disso - me escapa."
 
-He sniffs and returns his attention to you. "Your friend here seems a mite unstable for emissary work."</DefaultText>
+Ele cheira e volta sua atenção para você. "Seu amigo aqui parece um pouco instável para o trabalho de emissário."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"You're not wrong. I'd say he's unstable for any kind of work." </DefaultText>
+      <DefaultText>"Você não está errado. Eu diria que ele é instável para qualquer tipo de trabalho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Sorry to contradict you in front of the others but," Eb casts a side eye glance at Herodin, "they're not HIS people any longer, the [url=glossary:unbroken]Unbroken[/url] outside this keep curse his name. But if this aged fish-diddler had any grasp on reality, he'd have offed himself already."</DefaultText>
+      <DefaultText>"Desculpem contradizê-lo na frente dos outros, mas," Eb lança um olhar de lado para Herodin, "eles não são mais o seu pessoal, o [url=glossary:unbroken]Unbroken[/url] fora deste maldição manter seu nome. Mas se este peixe-diddler idade tinha qualquer agarrar a realidade, ele já teria se enganado ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"You will return her to us, fiend! Alive and unharmed, or so help me the people of Stalwart won't even recognize your remains." </DefaultText>
+      <DefaultText>"Você vai devolvê-la para nós, demônio! Vivo e ileso, ou então me ajude as pessoas de Stalwart nem mesmo reconhecerão seus restos mortais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Sense? He's been holed up behind these walls while his realm slowly perishes. Not sure if sensibility or reason are within his grasp... but it is wise that we try to talk things through, and not leap to bloodshed - no matter how inevitable it may seem."</DefaultText>
+      <DefaultText>"Sentido? Ele está escondido atrás dessas paredes enquanto seu reino lentamente perece. Não tenho certeza se sensibilidade ou razão estão ao seu alcance ... mas é sábio que nós tentemos conversar sobre as coisas, e não pular para o derramamento de sangue - não importa quão inevitável pode parecer ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"The Great General isn't much for decoration, but I warrant the rest of the legion will find some use for it." </DefaultText>
+      <DefaultText>"O Grande General não é muito para decoração, mas eu garanto que o resto da legião encontrará algum uso para isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"It's important to set the right expectations in moments like these. You're quite the orator."</DefaultText>
+      <DefaultText>"É importante definir as expectativas certas em momentos como este. Você é bem o orador."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"You preyed on the Archon's love for his troops, monster!" </DefaultText>
+      <DefaultText>"Você predou o amor do Arconte por suas tropas, monstro!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"I mean, that's just one option. Have you thought about any of the others?" </DefaultText>
+      <DefaultText>"Quero dizer, essa é apenas uma opção. Você já pensou em alguma das outras?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Would anyone else like to make an empty gesture? Seems there are plenty to go around." </DefaultText>
+      <DefaultText>"Alguém mais gostaria de fazer um gesto vazio? Parece que há muito para dar a volta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>He raises his voice for all to hear. "As Regent of the great realm of Stalwart, I eject you from any courtesy or invitation that holds you to these walls, and banish you from my lands!"</DefaultText>
+      <DefaultText>Ele levanta a voz para todos ouvirem. "Como Regente do grande reino de Stalwart, eu te expulso de qualquer cortesia ou convite que te prenda a estas paredes, e te bani das minhas terras!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Be reasonable, Herodin. This doesn't need to end in violence."</DefaultText>
+      <DefaultText>"Seja razoável, Herodin. Isso não precisa terminar em violência."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -368,59 +368,59 @@ He sniffs and returns his attention to you. "Your friend here seems a mite unsta
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Then it's to be conscription and interrogation?" Straydus nods and sighs. "I suspected the Archon of Secrets would come for me eventually."</DefaultText>
+      <DefaultText>"Então é para ser recrutamento e interrogatório?" Straydus assente e suspira. "Eu suspeitava que o Arconte dos Segredos viria para mim eventualmente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"What have you gained from this long stalemate, beyond the hatred of your people?"</DefaultText>
+      <DefaultText>"O que você ganhou com este longo impasse, além do ódio do seu povo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>He hesitates to answer at first, then screws his face into a grimace. "The people do not know what is best for Stalwart. We need a strong leader who understands the traditions of the realm - whose blood is a part of that storied heritage."
+      <DefaultText>Ele hesita em responder no início, depois aperta o rosto em uma careta. "As pessoas não sabem o que é melhor para Stalwart. Precisamos de um líder forte que entenda as tradições do reino - cujo sangue é parte dessa herança histórica".
 
-"If they spite me for preserving our strength here and outlasting the war... so be it. I did not accept this mantle for adoration."</DefaultText>
+"Se eles me irritarem por preservar nossa força aqui e sobreviver à guerra ... assim seja. Eu não aceitei esse manto de adoração."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"What have I gained? I have kept Stalwart alive in this self-imposed prison, whatever else you may think. The desperation to reach this place and end my life only confirms the righteousness of that decision, as hard as it has been!"</DefaultText>
+      <DefaultText>"O que eu ganhei? Eu mantive Stalwart vivo nesta prisão auto-imposta, o que quer que você possa pensar. O desespero para alcançar este lugar e terminar a minha vida apenas confirma a justiça dessa decisão, tão difícil quanto tem sido!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"I've come on behalf of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to deliver the terms of surrender."</DefaultText>
+      <DefaultText>"Eu vim em nome do [url=glossary:scarlet chorus]Scarlet Chorus[/url] para entregar os termos da rendição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"I'm sure we can come to a mutually-beneficial arrangement."</DefaultText>
+      <DefaultText>"Tenho certeza de que podemos chegar a um acordo mutuamente benéfico."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"We have outlasted too much for empty promises to sway us now. Stalwart's finest will hold this fortress until [url=glossary:kyros]Kyros[/url] withdraws. Conscription into the red-clad mob is not an option." </DefaultText>
+      <DefaultText>"Nós sobrevivemos muito a promessas vazias para nos influenciar agora. O melhor de Stalwart manterá essa fortaleza até [url=glossary:kyros]Kyros[/url] se retirar. O recrutamento para a turba vestida de vermelho não é uma opção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Do you expect me to believe that?"</DefaultText>
+      <DefaultText>"Você espera que eu acredite nisso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"I implore you to surrender and live."</DefaultText>
+      <DefaultText>"Eu te imploro para se render e viver."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"If I didn't surrender to [url=glossary:kyros]Kyros[/url] all this time, did you think I would give in to the likes of you?" He spits. "I am the blood of old Stalwart, the persistence that kept us standing, the strength that kept us together! I surrender to no one."</DefaultText>
+      <DefaultText>"Se eu não me rendesse a [url=glossary:kyros]Kyros[/url] todo esse tempo, você acha que eu cederia a pessoas como você?" Ele cospe. "Eu sou o sangue do velho Stalwart, a persistência que nos manteve de pé, a força que nos manteve juntos! Eu não me rendo a ninguém."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Do you expect me to believe that?"</DefaultText>
+      <DefaultText>"Você espera que eu acredite nisso?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

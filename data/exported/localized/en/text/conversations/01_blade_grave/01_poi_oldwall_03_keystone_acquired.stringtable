@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_oldwall_03_keystone_acquired</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Another keystone - take it! Er... for archival purposes... of course..."</DefaultText>
+      <DefaultText>"Outra pedra angular - leve! Er ... para fins de arquivamento ... claro ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Another rock! Are we done collecting ancient refuse?"</DefaultText>
+      <DefaultText>"Outra pedra! Acabamos de recolher lixo antigo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Looks like the keystone we got from the [url=glossary:sage]Sage[/url]."</DefaultText>
+      <DefaultText>"Parece a pedra angular que temos do [url=glossary:sage]Sage[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Bank Node 9</DefaultText>
+      <DefaultText>Nó do banco 9</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"My burden is heavy enough without adding another stone." </DefaultText>
+      <DefaultText>"Meu fardo é pesado o suficiente sem adicionar outra pedra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Alpha likes to pick up rocks. Likes to carry weight around? Or maybe stones have purpose..." </DefaultText>
+      <DefaultText>"Alpha gosta de pegar pedras. Gosta de carregar peso ao redor? Ou talvez pedras tenham propósito ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Still weighing down our packs with rocks, are we? Noted." </DefaultText>
+      <DefaultText>"Ainda pesando nossas mochilas com pedras, estamos? Notado."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

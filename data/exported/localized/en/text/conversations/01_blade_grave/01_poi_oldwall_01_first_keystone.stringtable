@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_oldwall_01_first_keystone</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"The keystone fits into a slot in the masonry."</DefaultText>
+      <DefaultText>"A chave se encaixa em um slot na alvenaria."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"That old rock actually turned out to be useful..."</DefaultText>
+      <DefaultText>"Aquela pedra antiga na verdade acabou sendo útil ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"The keystone actually fits... what could go wrong now?"</DefaultText>
+      <DefaultText>"A pedra fundamental realmente se encaixa ... o que poderia dar errado agora?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Humans carve rocks to fit into other rocks... Is strange."</DefaultText>
+      <DefaultText>"Humanos esculpir rochas para se encaixar em outras rochas ... É estranho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"I was kind of hoping that was all we needed to do. Looks like we need more."</DefaultText>
+      <DefaultText>"Eu meio que esperava que fosse tudo o que precisássemos fazer. Parece que precisamos de mais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"A rock fit into another rock. Don't celebrate just yet." </DefaultText>
+      <DefaultText>"Uma pedra se encaixa em outra rocha. Não comemore ainda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Bank Node 10</DefaultText>
+      <DefaultText>Nó do banco 10</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

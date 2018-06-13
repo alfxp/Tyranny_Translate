@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\companions\companion_bs_barik_clashofiron</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Random Node 1</DefaultText>
+      <DefaultText>Nó Aleatório 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Take me if you can!"</DefaultText>
+      <DefaultText>"Leve-me se puder!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Come and face my iron!"</DefaultText>
+      <DefaultText>"Venha e enfrente meu ferro!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Are you afraid of death, worm?!"</DefaultText>
+      <DefaultText>"Você tem medo da morte, verme ?!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

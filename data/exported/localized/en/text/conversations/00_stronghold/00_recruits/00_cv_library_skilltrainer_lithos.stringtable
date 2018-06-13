@@ -1,46 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_recruits\00_cv_library_skilltrainer_lithos</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>14</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Let's train later, Fatebinder. I need to rest." </DefaultText>
+      <DefaultText>"Vamos treinar mais tarde, Fatebinder. Eu preciso descansar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"May I offer you the benefit of my wisdom, Fatebinder?" </DefaultText>
+      <DefaultText>"Posso oferecer-lhe o benefício da minha sabedoria, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Word of your deeds reaches me, and I enjoy little of what I hear... What do you want with me?"</DefaultText>
+      <DefaultText>"A palavra dos seus atos me alcança, e eu gosto pouco do que ouço ... O que você quer de mim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"My Spire is yours, Fatebinder... oh, perhaps I have it backwards. Something about this place makes me just want to... possess it." 
+      <DefaultText>"Meu Spire é seu, Fatebinder ... oh, talvez eu tenha retrocedido. Algo sobre esse lugar me faz apenas querer ... possuí-lo."
 
-"What can I do for you?" </DefaultText>
+"O que posso fazer para você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>A mage purses his lips as he reads one of the many scrolls from your library. He flinches when he notices you. "Ah! Um. Greetings. You must be the keeper of this place."</DefaultText>
+      <DefaultText>Um mago franze os lábios enquanto ele lê um dos muitos pergaminhos da sua biblioteca. Ele recua quando percebe você. "Ah! Hum. Saudações. Você deve ser o guardião deste lugar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"When I spotted crates of tomes and scrolls being delivered here, well... my curiosity got the better of me." He laughs uncomfortably.
+      <DefaultText>"Quando vi caixas de tomos e pergaminhos sendo entregues aqui, bem ... minha curiosidade levou a melhor sobre mim." Ele ri desconfortavelmente.
 
-"I must admit, I wasn't aware that this Spire was occupied. Apologies for the intrusion." </DefaultText>
+"Eu devo admitir, eu não estava ciente de que este Pináculo estava ocupado. Desculpas para a intrusão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"You can make up for it by training me in the magic of [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <DefaultText>"Você pode compensar isso treinando-me na mágica de [url=glossary:cairn]Cairn[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,26 +50,26 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>His brow rises with interest. "Promise? I have always wanted a student to nurture and perfect over time." </DefaultText>
+      <DefaultText>Sua sobrancelha sobe com interesse. "Prometo? Eu sempre quis que um aluno cuidasse e se aperfeiçoasse com o tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"I... I am? But you seem to come and go by way of that stone pad..." He glances over your shoulder and frowns. 
+      <DefaultText>"Eu ... eu sou? Mas você parece ir e vir por aquele bloco de pedra ..." Ele olha por cima do seu ombro e franze a testa.
 
-"Well, this is an inconvenience. I seem to have miscalculated the risks associated with this little venture of mine." </DefaultText>
+"Bem, isso é um inconveniente. Parece que calculei mal os riscos associados a este pequeno empreendimento meu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>He sighs. "Well, there seem to be food and provisions enough to support a humble mage up here, so with your permission, that is how I shall live out my remaining days atop this drafty, cold Spire."
+      <DefaultText>Ele suspira. "Bem, parece haver comida e provisões suficientes para apoiar um humilde mago aqui em cima, então com a sua permissão, é assim que eu vou viver meus dias restantes no topo desta fria e fria Torre."
 
-He glances at the shelves of scrolls with concern. "Hardly an appropriate climate for maintaining vellum, but it will have to do. If you like, we can pass the time by discussing the basics of earth magic?"</DefaultText>
+Ele olha para as prateleiras de pergaminhos com preocupação. "Dificilmente um clima apropriado para manter o pergaminho, mas terá que ser feito. Se você quiser, podemos passar o tempo discutindo os fundamentos da magia da terra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Let's talk magic."</DefaultText>
+      <DefaultText>"Vamos falar de mágica."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,7 +79,7 @@ He glances at the shelves of scrolls with concern. "Hardly an appropriate climat
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"May I offer you the benefit of my wisdom, Fatebinder?" </DefaultText>
+      <DefaultText>"Posso oferecer-lhe o benefício da minha sabedoria, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_hiddenscavengers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Catadores Isolados</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Limpe o ferro-velho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Volte para Elia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Volte para Aram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Localize os eliminadores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Um grupo de catadores em Rust Canyons escondeu-se dos soldados do [url=glossary:kyros]Kyros[/url]. Localize-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Você encontrou os catadores, mas eles não podem sair até que os soldados inimigos no ferro-velho em Rust Canyons sejam eliminados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você libertou os catadores. Retorne a Elia em Rust Canyons para relatar as notícias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Você matou os catadores. Volte a Aram em Rust Canyons com as notícias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Dizem que os catadores estão se escondendo ao norte do acampamento de Rust Canyons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Como o acampamento caiu, esses catadores só podem fugir dos Canhões da Ferrugem se o Comandante da Força também for morto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>O ferro-velho foi removido dos inimigos. Os [url=glossary:unbroken]Unbroken[/url] soldados para o nordeste podem agora sair em segurança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você libertou os catadores e eles retornaram com segurança ao acampamento deles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você libertou os catadores e eles saíram com segurança dos Canyons Rust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você enganou os catadores e pediu que eles deixassem seu esconderijo. Eles foram mortos pelos soldados no ferro-velho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você causou o desaparecimento dos catadores escondidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\02_lethianscrossing\02_qst_kill_the_garrison</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Crossing Carnage</DefaultText>
+      <DefaultText>Travessia</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Defeat the garrison.</DefaultText>
+      <DefaultText>Derrote a guarnição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>A hostile force is in charge of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Kill them all and remind everyone that no one should stand in a Fatebinder's way.</DefaultText>
+      <DefaultText>Uma força hostil é responsável por [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Mate todos eles e lembre a todos que ninguém deve ficar no caminho de um Fatebinder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Kill all the groups of soldiers and their commander stationed in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Mate todos os grupos de soldados e seu comandante estacionados em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You wiped out the garrison stationed at [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Você limpou a guarnição estacionada em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

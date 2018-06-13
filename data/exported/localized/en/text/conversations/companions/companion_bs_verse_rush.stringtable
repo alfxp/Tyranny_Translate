@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\companions\companion_bs_verse_rush</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Random Node 1</DefaultText>
+      <DefaultText>Nó Aleatório 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"For the Voices!"</DefaultText>
+      <DefaultText>"Para as vozes!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Your skin for my banner!"</DefaultText>
+      <DefaultText>"Sua pele para o meu banner!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"I'm coming for you, piglet!"</DefaultText>
+      <DefaultText>"Eu estou indo para você, leitão!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

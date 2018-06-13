@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_cv_go_beastman_bark_03</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Touch Elder Teeth and Beastman will tear out Earthshaker's throat."</DefaultText>
+      <DefaultText>"Toque em Elder Teeth e Beastman vai arrancar a garganta do Earthshaker".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

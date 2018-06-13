@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_fight_continue</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Random Node 4</DefaultText>
+      <DefaultText>Nó Aleatório 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"You just know there are more lurking about somewhere. Let's find them so we can end this."</DefaultText>
+      <DefaultText>"Você só sabe que há mais escondido em algum lugar. Vamos encontrá-los para que possamos terminar isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"[url=glossary:unbroken]Unbroken[/url] think soldiers can hide from Beastwoman, quivering in darkness. Are wrong. Kills-in-Shadow can smell humans' fear."</DefaultText>
+      <DefaultText>"[url=glossary:unbroken]Unbroken[/url] acha que soldados podem se esconder de Beastwoman, tremendo na escuridão. Estão errados. Kills-in-Shadow pode cheirar o medo dos seres humanos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"We should scour this abattoir, and cleanse any [url=glossary:unbroken]Unbroken[/url] still lurking."</DefaultText>
+      <DefaultText>"Devemos vasculhar este matadouro e limpar qualquer [url=glossary:unbroken]Unbroken[/url] ainda à espreita."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"A few more locals are sure to be about. Shall we dispatch them?"</DefaultText>
+      <DefaultText>"Um pouco mais de moradores locais estarão certos. Vamos despachá-los?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Time to clean up the rest of this hovel. Keep an eye out for any stragglers." </DefaultText>
+      <DefaultText>"Hora de limpar o resto do casebre. Fique de olho em quem estiver atrasado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Almost there. Let's make sure this fort is cleared of hostiles."</DefaultText>
+      <DefaultText>"Quase lá. Vamos nos certificar de que este forte esteja livre de hostis."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

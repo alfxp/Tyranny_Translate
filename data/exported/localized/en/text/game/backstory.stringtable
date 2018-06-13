@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>game\backstory</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>106</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Biography</DefaultText>
+      <DefaultText>Biografia</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>I spent my youth fighting to survive in the blood-soaked sand of the Proving Grounds. The most I ever would have seen of [url=glossary:tunon]Tunon[/url]'s Court was the chopping block just prior to a headsman's axe, but somehow I managed to set myself apart as a determined killer. Is mine the sort of talent [url=glossary:tunon]Tunon[/url] seeks in his Fatebinders? The fact that I'm here and writing my name for the first time suggests as much, but I wonder what [url=glossary:tunon]Tunon[/url] sees that I'm missing.</DefaultText>
+      <DefaultText>Passei minha juventude lutando para sobreviver na areia ensopada de sangue do Campo de Provas. O máximo que eu poderia ter visto do Tribunal de [url=glossary:tunon]Tunon[/url] era o corte antes do machado do chefe, mas de alguma forma eu consegui me diferenciar como um assassino determinado. É o meu tipo de talento [url=glossary:tunon]Tunon[/url] procura em seus Fatebinders? O fato de eu estar aqui e escrever meu nome pela primeira vez sugere o mesmo, mas eu me pergunto o que [url=glossary:tunon]Tunon[/url] vê que estou perdendo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,541 +21,535 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Conquest</DefaultText>
+      <DefaultText>Conquista</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Though I had some formal training in combat, I never expected to see battle anywhere more exciting than the antechamber of a noble estate. They hire broad-shoulders like me as bodyguards or debt collectors, but [url=glossary:tunon]Tunon[/url] has something different in mind. He sees the potential in everyone, which isn't always a good thing. If I keep my nose to the grindstone and focus on the book-learning, I'll hopefully live up to whatever unrealistic standard he's set for me. Time will tell.</DefaultText>
+      <DefaultText>Embora eu tivesse algum treinamento formal em combate, nunca esperei ver a batalha em nenhum lugar mais emocionante do que a antecâmara de uma propriedade nobre. Eles contratam ombros largos como eu como guarda-costas ou cobradores de dívidas, mas o [url=glossary:tunon]Tunon[/url] tem algo diferente em mente. Ele vê o potencial em todos, o que nem sempre é bom. Se eu mantiver meu nariz para o rebolo e focar no aprendizado de livros, esperançosamente vou viver de acordo com o padrão irrealista que ele estabeleceu para mim. O tempo vai dizer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] ironclads took me from my tribe, and [url=glossary:tunon]Tunon[/url] took me from the [url=glossary:disfavored]Disfavored[/url]. I was the Hairless Hunter of Bounding Viper, and now I am traded among diplomats as an amusement. It took me some time to realize that the Court is a hunting ground - a less obvious wilderness - and better to act the predator than the prey. [url=glossary:tunon]Tunon[/url] thinks that he can civilize me, and that my wild ways will strip away the falsehood from his highest officers. Strong claims from someone who wears masks. I will play the pet pupil for now, but I imagine a day when I stand tall enough to bite down on the Adjudicator's neck.</DefaultText>
+      <DefaultText>O [url=glossary:disfavored]Disfavored[/url] ironclads me levou da minha tribo, e [url=glossary:tunon]Tunon[/url] me levou do [url=glossary:disfavored]Disfavored[/url].Eu era o caçador sem pêlos de Bounding Viper, e agora eu sou negociado entre diplomatas como uma diversão. Demorei algum tempo para perceber que a Corte é um campo de caça - uma área selvagem menos óbvia - e melhor para agir como predador do que a presa. [url=glossary:tunon]Tunon[/url] pensa que ele pode me civilizar, e que os meus modos selvagens vão tirar a falsidade de seus altos oficiais. Reivindicações fortes de alguém que usa máscaras. Eu vou interpretar o aluno de estimação por enquanto, mas imagino um dia em que eu esteja alto o suficiente para morder o pescoço do Adjudicador.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Everyone said that I was fortunate to grab the Adjudicator's attention, but I'm still not convinced. I spent every year that I can remember training for glorious battle, and now I my days are occupied studying exhaustive legal precedent in the echoing halls of the Court. The education that [url=glossary:tunon]Tunon[/url] offers is expansive, to be sure, but I wonder what he has in store for me as a Fatebinder, and what life he denied me by halting my training on the eve of war.</DefaultText>
+      <DefaultText>Todos disseram que tive a sorte de chamar a atenção do Adjudicador, mas ainda não estou convencido. Passei todo ano que me lembro de treinar para uma batalha gloriosa, e agora meus dias estão ocupados estudando precedentes jurídicos exaustivos nos salões ecoantes do Tribunal. A educação que [url=glossary:tunon]Tunon[/url] oferece é expansiva, com certeza, mas eu me pergunto o que ele tem reservado para mim como um Fatebinder, e que vida ele me negou parando meu treinamento na véspera da guerra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>I sold myself into [url=glossary:tunon]Tunon[/url]'s good graces with a bit of hastily-assembled rhetoric, and spared my family the executioner's blade in the process. That experience is a microcosm of what it's like to live in the Court - a daily gauntlet of distrust, observation, and justification. A pity we couldn't simply expedite justice by paying [url=glossary:tunon]Tunon[/url] his weight in rings... but no matter. This position may yield some opportunities that I might have otherwise overlooked, and I anticipate turning a handsome profit from this misfortune no matter where I end up.</DefaultText>
+      <DefaultText>Eu me vendi nas boas graças de [url=glossary:tunon]Tunon[/url] com um pouco de retórica montada apressadamente, e poupei a família da lâmina do carrasco no processo. Essa experiência é um microcosmo do que é viver na Corte - um desafio diário de desconfiança, observação e justificativa. Uma pena não podermos simplesmente acelerar a justiça pagando [url=glossary:tunon]Tunon[/url] seu peso em anéis ... mas não importa. Essa posição pode gerar algumas oportunidades que eu poderia ter negligenciado de outra forma, e espero conseguir um bom lucro com essa desgraça, não importa onde eu termine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>If donning the fancy sigil of a Fatebinder was the alternative to hard labor, so be it. [url=glossary:tunon]Tunon[/url] could have branded my face and I would have thanked him for his generosity. I'll take a respectbale job where I get to shake down my old competitors for bribes - tithes for the Court, rather. Not to mention that I get to be the first of my degenerate family to enjoy the benefits of a formal education. On parchment this looks like a cushy deal, but I need to play it straight while [url=glossary:tunon]Tunon[/url] is watching, or else all this goes away. </DefaultText>
+      <DefaultText>Se vestir o sigilo de fantasia de um Fatebinder era a alternativa ao trabalho duro, assim seja. [url=glossary:tunon]Tunon[/url] poderia ter marcado o meu rosto e eu teria agradecido a ele por sua generosidade. Vou assumir um trabalho respeitável em que vou sacudir meus antigos competidores por subornos - dízimos para o tribunal, em vez disso. Sem mencionar que eu serei o primeiro da minha família degenerada a desfrutar dos benefícios de uma educação formal. No pergaminho, isso parece um bom negócio, mas eu preciso jogar direto enquanto [url=glossary:tunon]Tunon[/url] está assistindo, ou então tudo isso vai embora.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Life with the Seven Tree Guild was isolated and studious until [url=glossary:the voices of nerat]the Voices of Nerat[/url] absorbed our mages into the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. I shudder to imagine how long I might have lasted as a Chorus recruit, had [url=glossary:tunon]Tunon[/url] not stepped up to claim me as his own. Since joining the Court, my studies into spellcraft have progressed beyond anything the Guild could have taught me, and education under [url=glossary:tunon]Tunon[/url] has opened new vistas of possible application for my talents. Perhaps this unexpected change was for the best.</DefaultText>
+      <DefaultText>A vida com a Guilda das Sete Árvores estava isolada e estudiosa até que absorvemos nossos magos para o [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Eu estremeço ao imaginar quanto tempo eu poderia ter durado como recruta de Coro, se [url=glossary:tunon]Tunon[/url] não tivesse aparecido para me reivindicar como se fosse seu. Desde que me juntei à Corte, meus estudos sobre spellcraft progrediram além de qualquer coisa que a Guild poderia ter me ensinado, e a educação sob [url=glossary:tunon]Tunon[/url] abriu novas perspectivas de possível aplicação para meus talentos. Talvez essa mudança inesperada tenha sido o melhor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Public speaking is nothing new to me, though I must admit the stakes are now significantly higher than my usual pleasantries... One could argue that service to the Adjudicator is the most ambitious use of speechcraft available on Terratus. If I can use rhetoric and persuasion to convince [url=glossary:tunon]Tunon[/url] that I'm an asset to the Court, I might live to retirement if I'm lucky.</DefaultText>
+      <DefaultText>Falar em público não é novidade para mim, embora eu deva admitir que as apostas agora são significativamente mais altas do que as minhas cortesias habituais ... Alguém poderia argumentar que o serviço ao Adjudicador é o uso mais ambicioso da linguagem disponível no Terratus. Se eu posso usar a retórica e a persuasão para convencer [url=glossary:tunon]Tunon[/url] que eu sou um trunfo para o Tribunal, eu poderia viver para a aposentadoria se eu tiver sorte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>In 428 TR we won an early victory against a border garrison, setting a glorious tone for the war to come. [url=glossary:disfavored]Disfavored[/url] morale was as high as I'd ever seen it.</DefaultText>
+      <DefaultText>Em 428 TR obtivemos uma vitória antecipada contra uma guarnição de fronteira, estabelecendo um tom glorioso para a guerra que está por vir. [url=glossary:disfavored]Disfavored[/url] moral estava tão alto quanto eu já vi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>In 428 TR we softened up the Bastard Tier in advance of the army's main thrust. Chorus conscription set the expectation for the locals - submission or death. </DefaultText>
+      <DefaultText>Em 428 TR, suavizamos o Bastard Tier antes do principal impulso do exército. O recrutamento de coro define a expectativa para os locais - submissão ou morte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>In 428 TR we marched on the Tiers, laying waste to their makeshift army. The [url=glossary:disfavored]Disfavored[/url] showed the enemy how breeding and tactics can outclass any purchased defenders.</DefaultText>
+      <DefaultText>Em 428 TR, marchamos nas camadas, devastando seu exército improvisado. O [url=glossary:disfavored]Disfavored[/url] mostrou ao inimigo como a criação e as táticas podem superar qualquer defensor comprado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>In 428 TR we scattered the Tiers defenders with an impassioned forward thrust. The [url=glossary:scarlet chorus]Scarlet Chorus[/url] swept them up like a tidal wave - conscripting the worthy and putting the rest to the sword.</DefaultText>
+      <DefaultText>No 428 TR nós dispersamos os defensores do Tiers com um impulso para frente com paixão. O [url=glossary:scarlet chorus]Scarlet Chorus[/url] varreu-os como uma onda de maré - recrutando o digno e colocando o resto para a espada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Setting out ahead of the army, I arrived in the [url=glossary:bastard city]Bastard City[/url] and kept a low profile. The help of a well-connected local gave me exactly what I needed to prepare the city's downfall.</DefaultText>
+      <DefaultText>Definindo à frente do exército, cheguei ao [url=glossary:bastard city]Bastard City[/url] e manteve um perfil baixo. A ajuda de um local bem relacionado me deu exatamente o que eu precisava para preparar a queda da cidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Taking the [url=glossary:bastard city]Bastard City[/url] would have been impossible with the local firestarters supporting the enemy. We put an end to the School of Wild Wrath, dismantling the only mages who stepped forward to protect the Bastard Tier.</DefaultText>
+      <DefaultText>Tomando o [url=glossary:bastard city]Bastard City[/url] teria sido impossível com os firestarters locais que suportam o inimigo. Colocamos um fim na Escola da Ira Selvagem, desmantelando os únicos magos que se adiantaram para proteger o Bastardo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>As our victories stacked up, we needed a plan for the prisoners of war crowding our jails. Someone needed to haul iron and supplies, so I gave them to the [url=glossary:disfavored]Disfavored[/url] as free labor.</DefaultText>
+      <DefaultText>Enquanto nossas vitórias se acumulavam, precisávamos de um plano para os prisioneiros de guerra que lotavam nossas prisões. Alguém precisava transportar ferro e suprimentos, então eu os dei para o [url=glossary:disfavored]Disfavored[/url] como mão de obra gratuita.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>As our victories stacked up, we needed a plan for the prisoners of war crowding our jails. The Chorus numbers were looking a little thin, so I gave [url=glossary:the voices of nerat]the Voices of Nerat[/url] a new crop of soldiers from the former enemy defenders. </DefaultText>
+      <DefaultText>Enquanto nossas vitórias se acumulavam, precisávamos de um plano para os prisioneiros de guerra que lotavam nossas prisões. Os números do Chorus estavam parecendo um pouco finos, então eu dei uma nova safra de soldados dos defensores do antigo inimigo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>As we focused on our momentum, the army was so eager to clear the way that we faced a food shortage. I delegated the effort to secure supplies to the officers, who took from local resources to replenish our own.</DefaultText>
+      <DefaultText>À medida que nos concentramos em nosso momento, o exército estava tão ansioso para limpar o caminho que enfrentamos uma escassez de alimentos. Deleguei o esforço para garantir suprimentos para os oficiais, que tiraram dos recursos locais para reabastecer os nossos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>With the army on the horizon, I helped the [url=glossary:bastard city]Bastard City[/url] fall from the inside. I killed the City Marshal in a formal duel, demonstrating to the locals that the forces of [url=glossary:kyros]Kyros[/url] would not be easily routed. Separating from the chain of command and worming my way behind enemy lines tested me raw, but I lived to see the [url=glossary:bastard city]Bastard City[/url] fall. This was an important victory - hopefully the first of many. </DefaultText>
+      <DefaultText>Com o exército no horizonte, ajudei o [url=glossary:bastard city]Bastard City[/url] a cair do interior. Eu matei o Marechal da Cidade em um duelo formal, demonstrando aos moradores que as forças de [url=glossary:kyros]Kyros[/url] não seriam facilmente roteadas. Separando da cadeia de comando e worming meu caminho atrás das linhas inimigas me testou cru, mas eu vivi para ver o [url=glossary:bastard city]Bastard City[/url] queda. Esta foi uma vitória importante - esperamos que seja a primeira de muitas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>With the army on the horizon, I helped the [url=glossary:bastard city]Bastard City[/url] fall from the inside. I convinced the locals to take up arms in the name of [url=glossary:kyros]Kyros[/url], forming a [url=glossary:scarlet chorus]Scarlet Chorus[/url] gang out of the downtrodden. Separating from the chain of command and worming my way behind enemy lines tested me raw, but I lived to see the [url=glossary:bastard city]Bastard City[/url] fall. This was an important victory - hopefully the first of many. </DefaultText>
+      <DefaultText>Com o exército no horizonte, ajudei o [url=glossary:bastard city]Bastard City[/url] a cair do interior. Eu convenci os moradores a pegar em armas em nome de [url=glossary:kyros]Kyros[/url], formando uma gangue fora dos oprimidos. Separando da cadeia de comando e worming meu caminho atrás das linhas inimigas me testou cru, mas eu vivi para ver o [url=glossary:bastard city]Bastard City[/url] queda. Esta foi uma vitória importante - esperamos que seja a primeira de muitas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>With the army on the horizon, I helped the [url=glossary:bastard city]Bastard City[/url] fall from the inside. I quietly assassinated the city's highest officers, leaving their mismanaged government in fearful shambles. Separating from the chain of command and worming my way behind enemy lines tested me raw, but I lived to see the [url=glossary:bastard city]Bastard City[/url] fall. This was an important victory - hopefully the first of many. </DefaultText>
+      <DefaultText>Com o exército no horizonte, ajudei o [url=glossary:bastard city]Bastard City[/url] a cair do interior. Eu silenciosamente assassinei os oficiais mais altos da cidade, deixando seu governo mal administrado em uma confusão terrível. Separando da cadeia de comando e worming meu caminho atrás das linhas inimigas me testou cru, mas eu vivi para ver o [url=glossary:bastard city]Bastard City[/url] queda. Esta foi uma vitória importante - esperamos que seja a primeira de muitas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>When our armies gathered at the walls of the [url=glossary:bastard city]Bastard City[/url], I led a direct assault on the fortified gates. The [url=glossary:disfavored]Disfavored[/url]'s relentlessness and uncompromising brutality won the day. Safety in numbers has kept me alive long enough to see the fall of the [url=glossary:bastard city]Bastard City[/url]. That, in and of itself, is something to tell the family. This was an important victory - hopefully the first of many. </DefaultText>
+      <DefaultText>Quando nossos exércitos se reuniram nas paredes do [url=glossary:bastard city]Bastard City[/url], eu levei um assalto direto aos portões fortificados. A implacabilidade e a brutalidade inflexível de [url=glossary:disfavored]Disfavored[/url] ganharam o dia. Segurança em números me manteve vivo o tempo suficiente para ver a queda do [url=glossary:bastard city]Bastard City[/url]. Isso, por si só, é algo para dizer a família. Esta foi uma vitória importante - esperamos que seja a primeira de muitas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>When our armies gathered at the walls of the [url=glossary:bastard city]Bastard City[/url], I ordered the gates barred and the city torched. Those who failed to surrender burned with their countrymen and corrupt leaders. Safety in numbers has kept me alive long enough to see the fall of the [url=glossary:bastard city]Bastard City[/url]. That, in and of itself, is something to tell the family. This was an important victory - hopefully the first of many. </DefaultText>
+      <DefaultText>Quando nossos exércitos se reuniram nas paredes do [url=glossary:bastard city]Bastard City[/url], eu ordenei que os portões fossem barrados e a cidade incendiada. Aqueles que não se renderam queimaram com seus compatriotas e líderes corruptos. Segurança em números me manteve vivo o tempo suficiente para ver a queda do [url=glossary:bastard city]Bastard City[/url]. Isso, por si só, é algo para dizer a família. Esta foi uma vitória importante - esperamos que seja a primeira de muitas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>When our armies gathered at the walls of the [url=glossary:bastard city]Bastard City[/url], I got [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] working together to take out the city defenses. There was no recourse for the Tiersman but surrender. Safety in numbers has kept me alive long enough to see the fall of the [url=glossary:bastard city]Bastard City[/url]. That, in and of itself, is something to tell the family. This was an important victory - hopefully the first of many. </DefaultText>
+      <DefaultText>Quando nossos exércitos se reuniram nas paredes do [url=glossary:bastard city]Bastard City[/url], eu tenho [url=glossary:disfavored]Disfavored[/url] e [url=glossary:scarlet chorus]Scarlet Chorus[/url] trabalhando juntos para tirar as defesas da cidade. Não havia recurso para o Tiersman, mas rendeu-se. Segurança em números me manteve vivo o tempo suficiente para ver a queda do [url=glossary:bastard city]Bastard City[/url]. Isso, por si só, é algo para dizer a família. Esta foi uma vitória importante - esperamos que seja a primeira de muitas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Emboldened by our victory in the [url=glossary:bastard city]Bastard City[/url], we took Edgering Fort from the soldiers of Apex in 429 TR. Feathers were ruffled over [url=glossary:cairn]Cairn[/url]'s destructive tactics, but I smoothed over tensions by giving credit and censure where due.
-</DefaultText>
+      <DefaultText>Encorajados pela nossa vitória no [url=glossary:bastard city]Bastard City[/url], tomamos Edgering Fort dos soldados da Apex em 429 TR. Penas foram irrigadas sobre táticas destrutivas, mas eu suavizei as tensões, dando crédito e censurando onde vencidas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Even though the Tiersmen are afraid of magic, a school of water mages fought for the Realm of Apex in 429 TR. I ensured they wouldn't be a problem any longer, their teachings soon lost to history. 
-</DefaultText>
+      <DefaultText>Mesmo que os Tiersmen tenham medo da magia, uma escola de magos da água lutou pelo Reino da Apex em 429 TR. Assegurei que eles não seriam mais um problema, seus ensinamentos logo se perderam na história.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Amid the combat and turmoil, the locals wanted some rest and relaxation coinciding with a Tiers festival. I butchered the revelers for flaunting their customs in a time of war.
-</DefaultText>
+      <DefaultText>Em meio ao combate e tumulto, os moradores locais queriam descansar e relaxar, coincidindo com um festival Tiers. Eu massacrei os foliões por exibir seus costumes em tempos de guerra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Amid the combat and turmoil, the locals wanted some rest and relaxation coinciding with a Tiers festival. I gave the [url=glossary:scarlet chorus]Scarlet Chorus[/url] the night off to drink and revel with their countrymen, trusting that this would lead to a cleaner surrender down the road.
-</DefaultText>
+      <DefaultText>Em meio ao combate e tumulto, os moradores locais queriam descansar e relaxar, coincidindo com um festival Tiers. Eu dei o [url=glossary:scarlet chorus]Scarlet Chorus[/url] a noite fora para beber e se divertir com seus compatriotas, confiando que isso levaria a uma rendição mais limpa no caminho.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Even as we hurled ourselves at the enemy, our forces clashed over tradition. The [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] disagreed on what to do about arms and armor belonging to dead Northerners. I made my ruling and set a precedent for the campaign, trusting that these incidents would become less frequent. </DefaultText>
+      <DefaultText>Mesmo quando nos atiramos contra o inimigo, nossas forças entraram em conflito com a tradição. O [url=glossary:disfavored]Disfavored[/url] e [url=glossary:scarlet chorus]Scarlet Chorus[/url] discordou sobre o que fazer sobre armas e armaduras pertencentes aos nortistas mortos. Tomei minha decisão e estabeleci um precedente para a campanha, confiando que esses incidentes se tornariam menos frequentes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Between major battles, I found a less-celebrated form of success in teamwork. When my forces apprehended an enemy captain, I gave the order to send him back to his people with a message. It was the only way to convince these Southerners that cooperation was in their best interest.  </DefaultText>
+      <DefaultText>Entre as grandes batalhas, encontrei uma forma menos celebrada de sucesso no trabalho em equipe. Quando minhas forças prenderam um capitão inimigo, dei a ordem de mandá-lo de volta ao povo com uma mensagem. Era a única maneira de convencer esses sulistas de que a cooperação era do interesse deles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Between major battles, I found a less-celebrated form of success in teamwork. When my forces apprehended an enemy captain, I had him executed and put on display. Only violence and fear will earn us the respect of the South. Anything less would make us seem weak.
-</DefaultText>
+      <DefaultText>Entre as grandes batalhas, encontrei uma forma menos celebrada de sucesso no trabalho em equipe. Quando minhas forças apreenderam um capitão inimigo, mandei executá-lo e exibi-lo. Somente a violência e o medo nos darão o respeito do sul. Qualquer coisa menos nos faria parecer fracos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Just as the problems of this campaign seemed to be solving themselves, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] poisoned the Apex water supply and killed a couple of [url=glossary:disfavored]Disfavored[/url] scouts in the process. Mistakes happen in war, but in this case it took some doing to smooth over tensions.
-</DefaultText>
+      <DefaultText>Assim como os problemas desta campanha pareciam estar resolvendo a si mesmos, o [url=glossary:scarlet chorus]Scarlet Chorus[/url] envenenou o suprimento de água Apex e matou um casal de batedores no processo. Erros acontecem em guerras, mas nesse caso é preciso fazer alguma coisa para suavizar as tensões.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>We did more than just fighting in Apex. When the defenders sued for peace, I negotiated a bloodless victory that won our forces Edgering Pass - an important staging ground in the mountains.</DefaultText>
+      <DefaultText>Nós fizemos mais do que apenas lutar na Apex. Quando os defensores processaram pela paz, eu negociei uma vitória sem derramamento de sangue que ganhou as nossas forças Edgering Pass - um importante ponto de partida nas montanhas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>We did more than just clash armies in Apex. When the defenders sued for peace, I baited Queen into single combat that left her bleeding before her shocked attendants.</DefaultText>
+      <DefaultText>Fizemos mais do que apenas confrontar exércitos no Apex. Quando os defensores processaram pela paz, eu empurrei Queen para um único combate que a deixou sangrando diante de seus atendentes chocados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>I became the de facto Governor of [url=glossary:lethian's crossing]Lethian's Crossing[/url]  in 429 TR, and increasing the production of iron fell to me. I repurposed some [url=glossary:scarlet chorus]Scarlet Chorus[/url] refugees to the backbreaking effort of hauling ore for the [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <DefaultText>Tornei-me o governador de facto de [url=glossary:lethian's crossing]Lethian's Crossing[/url] em 429 TR, e aumentando a produção de ferro caiu para mim. Eu reaproveitei alguns [url=glossary:scarlet chorus]Scarlet Chorus[/url] refugiados para o esforço backbreaking de transportar minério para o [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>I became the de facto Governor of [url=glossary:lethian's crossing]Lethian's Crossing[/url]  in 429 TR, and increasing the production of iron fell to me. I conscripted a tribe of Beastmen into the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and set them to the labor of hauling iron ore.</DefaultText>
+      <DefaultText>Tornei-me o governador de facto de [url=glossary:lethian's crossing]Lethian's Crossing[/url] em 429 TR, e aumentando a produção de ferro caiu para mim. Eu recrutei uma tribo de homens-fera para o [url=glossary:scarlet chorus]Scarlet Chorus[/url] e colocá-los para o trabalho de transportar minério de ferro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>I became the de facto Governor of [url=glossary:lethian's crossing]Lethian's Crossing[/url] in 429 TR. When Sirin enthralled the locals into a cult, I ordered her to stop and had her following put down with violence.</DefaultText>
+      <DefaultText>Eu me tornei o governador de fato do [url=glossary:lethian's crossing]Lethian's Crossing[/url] em 429 TR. Quando Sirin cativou os moradores locais em um culto, ordenei que ela parasse e mandou que ela fosse reprimida com violência.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>I became the de facto Governor of [url=glossary:lethian's crossing]Lethian's Crossing[/url] in 429 TR. When Sirin enthralled the locals into a cult, I had her followers sent to the front lines of the war to prove themselves in combat or die.</DefaultText>
+      <DefaultText>Eu me tornei o governador de fato do [url=glossary:lethian's crossing]Lethian's Crossing[/url] em 429 TR. Quando Sirin cativou os locais em um culto, mandei seus seguidores para as linhas de frente da guerra para provar seu valor em combate ou morrer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>The presence of iron raised some tensions. When high-ranking officers bribed me for [url=glossary:forge-bound]Forge-Bound[/url] weapons, I let the [url=glossary:disfavored]Disfavored[/url] have the best of the armory - keeping iron in the hands of the legion.</DefaultText>
+      <DefaultText>A presença de ferro levantou algumas tensões. Quando oficiais de alta patente me subornaram por armas, eu deixei o [url=glossary:disfavored]Disfavored[/url] ter o melhor do arsenal - mantendo o ferro nas mãos da legião.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>The presence of iron raised some tensions. When high-ranking officers bribed me for [url=glossary:forge-bound]Forge-Bound[/url] weapons, I chose to arm a Chorus gang boss. Sometimes favors and good will supersede the chain of command.</DefaultText>
+      <DefaultText>A presença de ferro levantou algumas tensões. Quando oficiais de alto escalão me subornaram por armas, escolhi armar um chefe de gangue Chorus. Às vezes, favores e boa vontade substituem a cadeia de comando.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>The presence of iron raised some tensions. When high-ranking officers bribed me for [url=glossary:forge-bound]Forge-Bound[/url] weapons, I punished both of them for their impertinence. I am the law.</DefaultText>
+      <DefaultText>A presença de ferro levantou algumas tensões. Quando oficiais de alta patente me subornaram por armas, eu os castiguei por sua impertinência. Eu sou a lei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>On top of everything else, my forces had to deal with the city mercenaries. When the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] overcrowded the available quarters, I separated them out from the proper military in a second barracks, preserving the dignity of the legion.</DefaultText>
+      <DefaultText>Acima de tudo, minhas forças tiveram que lidar com os mercenários da cidade. Quando o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] superlotou os quartos disponíveis, eu os separei dos militares adequados em um segundo quartel, preservando a dignidade da legião.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>On top of everything else, my forces had to deal with the city mercenaries. When the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] overcrowded the available quarters, I allowed the Brotherhood and the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to engage in combat games that eased tensions and spread good will among the ranks.</DefaultText>
+      <DefaultText>Acima de tudo, minhas forças tiveram que lidar com os mercenários da cidade. Quando o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] superlotou os quartos disponíveis, eu permiti a Irmandade e o [url=glossary:scarlet chorus]Scarlet Chorus[/url] para participar de jogos de combate que aliviou as tensões e espalhar boa vontade entre as fileiras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>The war outside our walls was too important to tolerate distracted smithies. When a [url=glossary:forge-bound]Forge-Bound[/url] mage swore allegiance to [url=glossary:the voices of nerat]the Voices of Nerat[/url], I ordered him back to work in chains.</DefaultText>
+      <DefaultText>A guerra fora de nossas muralhas era importante demais para tolerar forjas distraídas. Quando um mago jurou lealdade a [url=glossary:the voices of nerat]the Voices of Nerat[/url], ordenei que ele voltasse a trabalhar em cadeias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>The war outside our walls was too important to tolerate distracted smithies. When a [url=glossary:forge-bound]Forge-Bound[/url] mage swore allegiance to [url=glossary:the voices of nerat]the Voices of Nerat[/url], I ordered his memory erased to protect the secret of iron forging.</DefaultText>
+      <DefaultText>A guerra fora de nossas muralhas era importante demais para tolerar forjas distraídas. Quando um mago jurou lealdade ao [url=glossary:the voices of nerat]the Voices of Nerat[/url], eu pedi sua memória apagada para proteger o segredo do forjamento de ferro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Conflict didn't stop at the city walls. When the Bane attacked [url=glossary:lethian's crossing]Lethian's Crossing[/url], I tasked the [url=glossary:scarlet chorus]Scarlet Chorus[/url] with the burden of guarding the city while the [url=glossary:disfavored]Disfavored[/url] took a welcome break.</DefaultText>
+      <DefaultText>Conflito não parou nas muralhas da cidade. Quando o Bane atacou [url=glossary:lethian's crossing]Lethian's Crossing[/url], eu incumbi o [url=glossary:scarlet chorus]Scarlet Chorus[/url] com o ônus de guardar a cidade, enquanto o [url=glossary:disfavored]Disfavored[/url] deu uma pausa bem-vinda.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Conflict didn't stop at the city walls. When the Bane attacked [url=glossary:lethian's crossing]Lethian's Crossing[/url], I assigned the [url=glossary:disfavored]Disfavored[/url] to guard duty while the [url=glossary:scarlet chorus]Scarlet Chorus[/url] got a well-deserved reprieve from the war.</DefaultText>
+      <DefaultText>Conflito não parou nas muralhas da cidade. Quando o Bane atacou [url=glossary:lethian's crossing]Lethian's Crossing[/url], eu atribuí o [url=glossary:disfavored]Disfavored[/url] para o dever de guarda, enquanto o [url=glossary:scarlet chorus]Scarlet Chorus[/url] obteve um merecido indulto da guerra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>After a dust-up with the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] injured a [url=glossary:forge-bound]Forge-Bound[/url] smith, I kicked the inept mercenaries out of [url=glossary:lethian's crossing]Lethian's Crossing[/url] and granted the [url=glossary:disfavored]Disfavored[/url] the honor of governance.</DefaultText>
+      <DefaultText>Depois de um dust-up com o ferido, eu chutei os mercenários ineptos de [url=glossary:lethian's crossing]Lethian's Crossing[/url] e concedeu a [url=glossary:disfavored]Disfavored[/url] a honra de governança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>After a dust-up with the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] injured a [url=glossary:forge-bound]Forge-Bound[/url] smith, I kicked the inept mercenaries out of [url=glossary:lethian's crossing]Lethian's Crossing[/url] and granted the [url=glossary:scarlet chorus]Scarlet Chorus[/url] the honor of governance.</DefaultText>
+      <DefaultText>Depois de um dust-up com o ferido, eu chutei os mercenários ineptos de [url=glossary:lethian's crossing]Lethian's Crossing[/url] e concedeu a [url=glossary:scarlet chorus]Scarlet Chorus[/url] a honra de governança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>In 430 TR I joined the army at the Stalwart campaign. Food shortages put [url=glossary:kyros]Kyros[/url]' forces at odds with each other, but I acted to discipline those responsible for violence or theft.</DefaultText>
+      <DefaultText>Em 430 TR entrei para o exército na campanha de Stalwart. A escassez de alimentos colocou as forças em conflito umas com as outras, mas eu agi para disciplinar os responsáveis ​​pela violência ou roubo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>In 430 TR I joined the army at the Stalwart campaign. Claims of recklessness and misappropriation of soldiers challenged our morale, but I punished false accusations and made sure that future claims were supported by facts.</DefaultText>
+      <DefaultText>Em 430 TR entrei para o exército na campanha de Stalwart. Alegações de imprudência e apropriação indébita de soldados desafiaram nossa moral, mas eu puni falsas acusações e me certifiquei de que as alegações futuras fossem apoiadas por fatos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>When [url=glossary:scarlet chorus]Scarlet Chorus[/url] mages enchanted Beastman slaves away from their masters, I discontinued the practice at once and punished those responsible.</DefaultText>
+      <DefaultText>Quando [url=glossary:scarlet chorus]Scarlet Chorus[/url] magos encantados Beastman escravos longe de seus mestres, eu interrompeu a prática de uma só vez e puniu os responsáveis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>When [url=glossary:scarlet chorus]Scarlet Chorus[/url] mages enchanted Beastman slaves away from their masters, I approved of the innovative practice and ruled it acceptable for future use.</DefaultText>
+      <DefaultText>Quando [url=glossary:scarlet chorus]Scarlet Chorus[/url] magos encantados Beastman escravos longe de seus mestres, eu aprovar a prática inovadora e decidiu aceitável para uso futuro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>This deep into the war, maintaining the army's capacity was its own challenge. Locals killed themselves during the campaign, making conscription impossible. I banned the Chorus from recruiting in Stalwart to spare civilians the choice of suicide.</DefaultText>
+      <DefaultText>Este profundo na guerra, mantendo a capacidade do exército era seu próprio desafio. Moradores se mataram durante a campanha, tornando o recrutamento impossível. Eu proibi o Coro de recrutar em Stalwart para poupar os civis da escolha do suicídio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>This deep into the war, maintaining the army's capacity was its own challenge. Locals killed themselves during the campaign, making conscription impossible. I let the [url=glossary:scarlet chorus]Scarlet Chorus[/url] take [url=glossary:disfavored]Disfavored[/url] slaves to recoup their lost numbers.</DefaultText>
+      <DefaultText>Este profundo na guerra, mantendo a capacidade do exército era seu próprio desafio. Moradores se mataram durante a campanha, tornando o recrutamento impossível. Eu deixei o [url=glossary:scarlet chorus]Scarlet Chorus[/url] levar [url=glossary:disfavored]Disfavored[/url] escravos para recuperar seus números perdidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>As if the locals weren't giving us enough trouble, we spotted [url=glossary:scarlet chorus]Scarlet Chorus[/url] agents working with the Stalwart fighters. I ordered them executed as traitors. Plans for a spying operation should have gone through me.</DefaultText>
+      <DefaultText>Como se os moradores não estivessem nos dando problemas suficientes, vimos agentes trabalhando com os lutadores de Stalwart. Ordenei que fossem executados como traidores. Planos para uma operação de espionagem deveriam ter passado por mim.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>As if the locals weren't giving us enough trouble, we spotted [url=glossary:scarlet chorus]Scarlet Chorus[/url] agents working with the Stalwart fighters. I allowed their spying efforts to continue uninterrupted, trusting they would yield quality intelligence.</DefaultText>
+      <DefaultText>Como se os moradores não estivessem nos dando problemas suficientes, vimos agentes trabalhando com os lutadores de Stalwart. Eu permiti que seus esforços de espionagem continuassem ininterruptamente, confiando que eles produziriam inteligência de qualidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>One might think that armies would squabble over tactics, but the truth is they can disagree about anything. The armies captured an enemy Regent and bickered about her fate. I ordered her executed and put on display as an example to her intractable countrymen.</DefaultText>
+      <DefaultText>Pode-se pensar que os exércitos brigariam por causa de táticas, mas a verdade é que eles podem discordar sobre qualquer coisa. Os exércitos capturaram um regente inimigo e discutiram sobre seu destino. Eu ordenei que ela fosse executada e colocada em exibição como um exemplo para seus conterrâneos intratáveis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>One might think that armies would squabble over tactics, but the truth is they can disagree about anything. The armies captured an enemy Regent and bickered about her fate. I ordered her sent to [url=glossary:the voices of nerat]the Voices of Nerat[/url] for interrogation.</DefaultText>
+      <DefaultText>Pode-se pensar que os exércitos brigariam por causa de táticas, mas a verdade é que eles podem discordar sobre qualquer coisa. Os exércitos capturaram um regente inimigo e discutiram sobre seu destino. Eu pedi ela enviada para [url=glossary:the voices of nerat]the Voices of Nerat[/url] para interrogatório.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>At last we reached a breaking point with these Southerners. When the Stalwart defenders refused to leave their keep, [url=glossary:kyros]Kyros[/url] granted me the honor of proclaiming the [url=glossary:edict]Edict[/url] of Storms. I gave no warning to the locals of the devastation to come.</DefaultText>
+      <DefaultText>Finalmente chegamos a um ponto de ruptura com esses sulistas. Quando os defensores de Stalwart se recusaram a deixar sua fortaleza, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edict[/url] de Tempestades. Eu não dei nenhum aviso aos moradores da devastação que estava por vir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>At last we reached a breaking point with these Southerners. When the Stalwart defenders refused to leave their keep, [url=glossary:kyros]Kyros[/url] granted me the honor of proclaiming the [url=glossary:edict]Edict[/url] of Storms. I warned the people in order to mitigate civilian losses. Better that [url=glossary:kyros]Kyros[/url] rule over an orphanage than a graveyard.</DefaultText>
+      <DefaultText>Finalmente chegamos a um ponto de ruptura com esses sulistas. Quando os defensores de Stalwart se recusaram a deixar sua fortaleza, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edict[/url] de Tempestades. Eu avisei o povo para mitigar as perdas civis. Melhor que [url=glossary:kyros]Kyros[/url] governar um orfanato que um cemitério.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>In 430 TR I joined the army on the Azure campaign. After [url=glossary:cairn]Cairn[/url] blighted the crops and caused a food shortage, I blamed the [url=glossary:scarlet chorus]Scarlet Chorus[/url] for having too many mouths to feed.</DefaultText>
+      <DefaultText>No 430 TR entrei para o exército na campanha do Azure. Após [url=glossary:cairn]Cairn[/url] arruinou as plantações e causou uma escassez de alimentos, culpei o [url=glossary:scarlet chorus]Scarlet Chorus[/url] por ter muitas bocas para alimentar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>In 430 TR I joined the army on the Azure campaign. After [url=glossary:cairn]Cairn[/url] blighted the crops and caused a food shortage, I appropriated the Earthshakers to repair the Archon's damage.</DefaultText>
+      <DefaultText>No 430 TR entrei para o exército na campanha do Azure. Após [url=glossary:cairn]Cairn[/url] arruinar as plantações e causou uma escassez de alimentos, eu me apropriei dos Earthshakers para reparar o dano do Archon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>In 430 TR I joined the army on the Azure campaign. After a pack of Beastmen butchered legion soldiers, I let the [url=glossary:disfavored]Disfavored[/url] take bloody vengeance on the creatures.</DefaultText>
+      <DefaultText>No 430 TR entrei para o exército na campanha do Azure. Depois que um bando de Homens-fera matou soldados da legião, eu deixei o [url=glossary:disfavored]Disfavored[/url] tomar vingança sangrenta sobre as criaturas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>In 430 TR I joined the army on the Azure campaign. After a pack of Beastmen butchered legion soldiers, I allowed the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to add the creatures to their ranks without interference from the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>No 430 TR entrei para o exército na campanha do Azure. Depois que um bando de Homens-fera matou soldados da legião, eu permiti que [url=glossary:scarlet chorus]Scarlet Chorus[/url] adicionasse as criaturas a suas fileiras sem a interferência do [url=glossary:disfavored]Disfavored[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>At times, the worst enemies came from within our ranks. When the Archon of Stone rebelled against [url=glossary:kyros]Kyros[/url], I sent the [url=glossary:disfavored]Disfavored[/url] marching after him to deliver justice, which would only come later.</DefaultText>
+      <DefaultText>Às vezes, os piores inimigos vinham de dentro de nossas fileiras. Quando o Arconte da Pedra se rebelou contra [url=glossary:kyros]Kyros[/url], eu enviei o [url=glossary:disfavored]Disfavored[/url] marchando atrás dele para entregar a justiça, o que só viria depois.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>At times, the worst enemies came from within our ranks. When the Archon of Stone rebelled against [url=glossary:kyros]Kyros[/url], I dispatched the [url=glossary:scarlet chorus]Scarlet Chorus[/url] gangs to track him down. Of course, justice would wait until later.</DefaultText>
+      <DefaultText>Às vezes, os piores inimigos vinham de dentro de nossas fileiras. Quando o Archon of Stone se rebelou contra [url=glossary:kyros]Kyros[/url], eu despachei as gangues [url=glossary:scarlet chorus]Scarlet Chorus[/url] para rastreá-lo. Claro que a justiça esperaria até mais tarde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Fighting wore people down, but it was important to maintain the chain of command. After the [url=glossary:scarlet chorus]Scarlet Chorus[/url] forced Earthshakers into combat against their will, I freed the mages from their bonds and enslaved those responsible.</DefaultText>
+      <DefaultText>A luta desgastou as pessoas, mas era importante manter a cadeia de comando. Depois que o [url=glossary:scarlet chorus]Scarlet Chorus[/url] forçou os Earthshakers a combaterem contra sua vontade, liberei os magos de seus laços e escravizei os responsáveis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Fighting wore people down, but it was important to maintain the chain of command. After the [url=glossary:scarlet chorus]Scarlet Chorus[/url] forced Earthshakers into combat against their will, I supported the appropriation of military resources when available.</DefaultText>
+      <DefaultText>A luta desgastou as pessoas, mas era importante manter a cadeia de comando. Após o [url=glossary:scarlet chorus]Scarlet Chorus[/url] forçar os Earthshakers a combater contra a sua vontade, apoiei a apropriação de recursos militares quando disponíveis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>The only thing that gave us more trouble than [url=glossary:cairn]Cairn[/url] were the local Beasts. A [url=glossary:scarlet chorus]Scarlet Chorus[/url] fighter claimed her gang was mauled by Beastmen loyal to the Archon of Stone. I allowed the [url=glossary:disfavored]Disfavored[/url] to hunt the tribe down, but the Chorus took is as shielding the treasonous Archon from blame.</DefaultText>
+      <DefaultText>A única coisa que nos deu mais problemas do que [url=glossary:cairn]Cairn[/url] foram os animais locais. A [url=glossary:scarlet chorus]Scarlet Chorus[/url] lutador alegou sua gangue foi atacado por bestas leais ao Arconte de Pedra. Eu permiti que o [url=glossary:disfavored]Disfavored[/url] caçasse a tribo, mas o Coro foi usado para proteger o Arconte traidor da culpa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>The only thing that gave us more trouble than [url=glossary:cairn]Cairn[/url] were the local Beasts. A [url=glossary:scarlet chorus]Scarlet Chorus[/url] fighter claimed her gang was mauled by Beastmen loyal to the Archon of Stone. I allowed the Chorus to capture the pack and interrogate them for information. This rankled the [url=glossary:disfavored]Disfavored[/url], who did not tolerate the suspicion of treason.</DefaultText>
+      <DefaultText>A única coisa que nos deu mais problemas do que [url=glossary:cairn]Cairn[/url] foram os animais locais. A [url=glossary:scarlet chorus]Scarlet Chorus[/url] lutador alegou sua gangue foi atacado por bestas leais ao Arconte de Pedra. Eu permiti que o Coro capturasse o pacote e interrogasse-os em busca de informações. Isso irritou a [url=glossary:disfavored]Disfavored[/url], que não tolerou a suspeita de traição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>We needed to get to the bottom of the Beastman problem. The [url=glossary:disfavored]Disfavored[/url] captured and dissected Beastman spellcasters. When the Chorus objected, I allowed the legion to continue their experiments, since they could only reveal [url=glossary:cairn]Cairn[/url]'s treachery.</DefaultText>
+      <DefaultText>Precisávamos chegar ao fundo do problema do Homem-Besta. Os [url=glossary:disfavored]Disfavored[/url] capturaram e dissecaram conjuradores de Beastman. Quando o Coro se opôs, eu permiti que a legião continuasse seus experimentos, uma vez que eles só podiam revelar a traição do [url=glossary:cairn]Cairn[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>We needed to get to the bottom of the Beastman problem. The [url=glossary:disfavored]Disfavored[/url] captured and dissected Beastman spellcasters. When the Chorus objected, I sent the captive Beasts to be conscripted. This was a setback to the investigation into [url=glossary:cairn]Cairn[/url]'s treachery, but at least it replenished the ranks.</DefaultText>
+      <DefaultText>Precisávamos chegar ao fundo do problema do Homem-Besta. Os [url=glossary:disfavored]Disfavored[/url] capturaram e dissecaram conjuradores de Beastman. Quando o Coro se opôs, enviei as Bestas em cativeiro para serem recrutadas. Este foi um revés para a investigação sobre a traição de [url=glossary:cairn]Cairn[/url], mas pelo menos ele reabasteceu as fileiras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>When the Archon of Stone's treachery erupted in a rampage, [url=glossary:kyros]Kyros[/url] granted me the honor of proclaiming the [url=glossary:edict]Edict[/url] of Stone. I sent the [url=glossary:disfavored]Disfavored[/url] to march against the Archon and slow his fury while the magic of the [url=glossary:edict]Edict[/url] destroyed him.</DefaultText>
+      <DefaultText>Quando a traição do Arconte de Pedra entrou em erupção, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edict[/url] de Stone. Enviei o [url=glossary:disfavored]Disfavored[/url] para marchar contra o Arconte e diminuir sua fúria enquanto a magia do [url=glossary:edict]Edict[/url] o destruiu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>When the Archon of Stone's treachery erupted in a rampage, [url=glossary:kyros]Kyros[/url] granted me the honor of proclaiming the [url=glossary:edict]Edict[/url] of Stone. I dispatched the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to swarm [url=glossary:cairn]Cairn[/url] and slow his relentless march while the magic of the [url=glossary:edict]Edict[/url] destroyed him.</DefaultText>
+      <DefaultText>Quando a traição do Arconte de Pedra entrou em erupção, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edict[/url] de Stone. I despachou o [url=glossary:scarlet chorus]Scarlet Chorus[/url] a pulular [url=glossary:cairn]Cairn[/url] e retardar sua marcha implacável, enquanto a magia do [url=glossary:edict]Edict[/url] o destruiu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>When the Archon of Stone's treachery erupted in a rampage, [url=glossary:kyros]Kyros[/url] granted me the honor of proclaiming the [url=glossary:edict]Edict[/url] of Stone. I committed the full force of [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] in the region to rally against [url=glossary:cairn]Cairn[/url], gambling on the lives of hundreds to spare a Tiersman settlement while the Overlord's magic destroyed him.</DefaultText>
+      <DefaultText>Quando a traição do Arconte de Pedra entrou em erupção, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edict[/url] de Stone. Eu cometi a força total de [url=glossary:disfavored]Disfavored[/url] e [url=glossary:scarlet chorus]Scarlet Chorus[/url] na região para se reunir contra [url=glossary:cairn]Cairn[/url], apostando na vida de centenas para poupar um acordo de Tiersman enquanto a magia do Overlord o destruiu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>In 430 TR, I joined a military detachment to capture the knowledge and resources of the [url=glossary:vellum citadel]Vellum Citadel[/url]. When the Sages attacked, I ordered the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to risk their lives in battle, giving the [url=glossary:disfavored]Disfavored[/url] an opening to retreat.</DefaultText>
+      <DefaultText>Em 430 TR, eu juntei um destacamento militar para capturar o conhecimento e recursos do [url=glossary:vellum citadel]Vellum Citadel[/url]. Quando os Sábios atacaram, eu ordenei o [url=glossary:scarlet chorus]Scarlet Chorus[/url] arriscar as vidas deles / delas em batalha, enquanto dando ao [url=glossary:disfavored]Disfavored[/url] uma abertura para recuar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>In 430 TR, I joined a military detachment to capture the knowledge and resources of the [url=glossary:vellum citadel]Vellum Citadel[/url]. When the Sages attacked, I ordered the [url=glossary:disfavored]Disfavored[/url] to raise a shield wall, sacrificing lives so that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] could make a clean retreat.</DefaultText>
+      <DefaultText>Em 430 TR, eu juntei um destacamento militar para capturar o conhecimento e recursos do [url=glossary:vellum citadel]Vellum Citadel[/url]. Quando os Sábios atacaram, eu pedi o [url=glossary:disfavored]Disfavored[/url] levantar uma parede de escudos, sacrificando vidas de forma que o [url=glossary:scarlet chorus]Scarlet Chorus[/url] pudesse fazer um recuo limpo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>In 430 TR, I joined a military detachment to capture the knowledge and resources of the [url=glossary:vellum citadel]Vellum Citadel[/url]. When the Archon of Song enthralled Sages to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url], I silenced them to prevent the spread of forbidden knowledge.</DefaultText>
+      <DefaultText>Em 430 TR, eu juntei um destacamento militar para capturar o conhecimento e recursos do Archon de Canção encantou Sábios para se unir ao [url=glossary:scarlet chorus]Scarlet Chorus[/url], silenciam eles para prevenir a expansão de conhecimento proibido.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>In 430 TR, I joined a military detachment to capture the knowledge and resources of the [url=glossary:vellum citadel]Vellum Citadel[/url]. When legion soldiers killed Sages bound to the [url=glossary:scarlet chorus]Scarlet Chorus[/url], I enslaved them as pages to the Archon of Song.</DefaultText>
+      <DefaultText>Em 430 TR, eu juntei um destacamento militar para capturar o conhecimento e recursos do [url=glossary:vellum citadel]Vellum Citadel[/url]. Quando soldados de legião mataram Sábios unidos aos [url=glossary:scarlet chorus]Scarlet Chorus[/url], eu os escravizei como páginas ao Arconte de Canção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>All of that knowledge housed in the Citadel, and we weren't allowed to read a word. A fight broke out after the [url=glossary:scarlet chorus]Scarlet Chorus[/url] attempted to rescue books from a bonfire. I upheld the law and burned the texts.</DefaultText>
+      <DefaultText>Todo esse conhecimento alojado na Cidadela, e não nos foi permitido ler uma palavra. A luta eclodiu após o [url=glossary:scarlet chorus]Scarlet Chorus[/url] tentou resgatar livros de uma fogueira. Eu mantive a lei e queimei os textos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>All of that knowledge housed in the Citadel, and we weren't allowed to read a word. A fight broke out after the [url=glossary:scarlet chorus]Scarlet Chorus[/url] attempted to rescue books from a bonfire. I ordered scrolls given to the Chorus as rightful plunder.</DefaultText>
+      <DefaultText>Todo esse conhecimento alojado na Cidadela, e não nos foi permitido ler uma palavra. A luta eclodiu após o [url=glossary:scarlet chorus]Scarlet Chorus[/url] tentou resgatar livros de uma fogueira. Eu ordenei pergaminhos dados ao Coro como pilhagem justa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Not all of the Sages kept themselves sequestered in the library. [url=glossary:disfavored]Disfavored[/url] scouts vanished while hunting enemy Sages. I ordered the [url=glossary:scarlet chorus]Scarlet Chorus[/url] to send out a search party.</DefaultText>
+      <DefaultText>Nem todos os Sábios se mantiveram sequestrados na biblioteca. [url=glossary:disfavored]Disfavored[/url] escoteiros desapareceram enquanto caçava Sábios inimigos. Eu pedi o [url=glossary:scarlet chorus]Scarlet Chorus[/url] para enviar uma festa de busca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Not all of the Sages kept themselves sequestered in the library. [url=glossary:disfavored]Disfavored[/url] scouts vanished while hunting enemy Sages. I wrote them off as casualties of war.</DefaultText>
+      <DefaultText>Nem todos os Sábios se mantiveram sequestrados na biblioteca. [url=glossary:disfavored]Disfavored[/url] escoteiros desapareceram enquanto caçava Sábios inimigos. Eu os escrevi como baixas de guerra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Sometimes I wondered if the war might go better with fewer Archons involved. When Sirin caused fights to break out among the [url=glossary:scarlet chorus]Scarlet Chorus[/url] gangs, I put a stop to her enforced barbarism.</DefaultText>
+      <DefaultText>Às vezes eu me perguntava se a guerra poderia ser melhor com menos Arcontes envolvidos. Quando Sirin causou brigas entre as gangues, eu coloquei um fim à sua barbárie reforçada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Sometimes I wondered if the war might go better with fewer Archons involved. When Sirin caused fights to break out among the [url=glossary:scarlet chorus]Scarlet Chorus[/url] gangs, I defended the rule of Archons and the Right of Challenge as essential to the war effort.</DefaultText>
+      <DefaultText>Às vezes eu me perguntava se a guerra poderia ser melhor com menos Arcontes envolvidos. Quando Sirin causou lutas entre as gangues, eu defendi a regra de Arcontes e o Direito do Desafio como essenciais para o esforço de guerra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Sometimes it got difficult to judge friend from foe. When enemy Sages presented themselves as Chorus spies, I had them imprisoned and interrogated with the [url=glossary:disfavored]Disfavored[/url] to pick through their claims.</DefaultText>
+      <DefaultText>Às vezes fica difícil julgar o amigo do inimigo. Quando os Sábios inimigos se apresentavam como espiões Chorus, eu os prendi e interroguei com o [url=glossary:disfavored]Disfavored[/url] para escolher suas reivindicações.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Sometimes it got difficult to judge friend from foe. When enemy Sages presented themselves as Chorus spies, I released them into the custody of the [url=glossary:scarlet chorus]Scarlet Chorus[/url], trusting in the legion to handle their affairs.</DefaultText>
+      <DefaultText>Às vezes fica difícil julgar o amigo do inimigo. Quando os Sábios inimigos se apresentaram como espiões Chorus, eu os libertei sob a custódia do [url=glossary:scarlet chorus]Scarlet Chorus[/url], confiando na legião para lidar com seus assuntos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>After the campaign grew divisive and the armies fractured, [url=glossary:kyros]Kyros[/url] granted me the honor of proclaiming the [url=glossary:edict]Edict[/url] of Fire on the [url=glossary:vellum citadel]Vellum Citadel[/url]. I granted the Sages no warning of the fires or destruction that would wreak havoc on their library fortress.</DefaultText>
+      <DefaultText>Depois que a campanha se tornou divisiva e os exércitos fraturaram, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edict[/url] de Fogo no [url=glossary:vellum citadel]Vellum Citadel[/url]. Eu não concedi aos Sábios nenhum aviso dos incêndios ou destruição que causariam estragos em sua fortaleza da biblioteca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>After the campaign grew divisive and the armies fractured, [url=glossary:kyros]Kyros[/url] granted me the honor of proclaiming the [url=glossary:edict]Edict[/url] of Fire on the [url=glossary:vellum citadel]Vellum Citadel[/url]. I warned the Sages in advance, giving them a final opportunity to surrender or prepare before laying waste to their library fortress.</DefaultText>
+      <DefaultText>Depois que a campanha cresceu e os exércitos fraturaram, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edict[/url] de Fogo no [url=glossary:vellum citadel]Vellum Citadel[/url]. Eu avisei os Sábios com antecedência, dando-lhes uma oportunidade final de se render ou preparar antes de devastar a fortaleza de sua biblioteca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Between the rigorous training, the broad education, the constant oversight by the Adjudicator, my colleagues, and sensing [url=glossary:bleden mark]Bleden Mark[/url] lurking in the corner all the while, the life of a Fatebinder is harder life than most would expect. I think [url=glossary:tunon]Tunon[/url] does that to his students intentionally - keep us anxious, guessing, and competitive. Even if we are some of the most respected folk in the Empire, [url=glossary:tunon]Tunon[/url] likes to keep us humble. "Like" is too strong a word for whatever pale imitation of emotion lurks behind his inscrutable mask. I've gotten this far with [url=glossary:tunon]Tunon[/url]'s confidence. Let's see how much farther I can go. 
+      <DefaultText>Entre o treinamento rigoroso, a educação ampla, a vigilância constante do Adjudicator, meus colegas e a sensação de estar espreitando no canto o tempo todo, a vida de um Fatebinder é uma vida mais difícil do que a maioria esperaria. Eu acho que [url=glossary:tunon]Tunon[/url] isso para seus alunos intencionalmente - nos manter ansiosos, adivinhando e competitivo. Mesmo se formos uma das pessoas mais respeitadas do Império, [url=glossary:tunon]Tunon[/url] gosta de nos manter humildes. "Like" é uma palavra muito forte para qualquer imitação pálida de emoções escondida por trás de sua máscara inescrutável. Eu cheguei até aqui com a confiança de [url=glossary:tunon]Tunon[/url]. Vamos ver o quanto mais eu posso ir.
 
-[url=glossary:tunon]Tunon[/url] has awarded me an unheard-of honor: the opportunity to accompany [url=glossary:kyros]Kyros[/url]' forces on the campaign south. He says that I'm to represent [url=glossary:kyros]Kyros[/url]' Law in the savage frontier, and pave the way for his civilizing hand. I'll have some military authority at my disposal, but [url=glossary:graven ashe]Graven Ashe[/url] and [url=glossary:the voices of nerat]the Voices of Nerat[/url] will be the architects of this conquest. Mostly I'll be there to observe the wartime operations and settle any disagreements as they arise. I know that the Southerners will only accept [url=glossary:kyros]Kyros[/url]' Peace kicking and screaming, so here's to hoping I can make the transition a smooth one for us all.</DefaultText>
+[url=glossary:tunon]Tunon[/url] me concedeu uma honra inédita: a oportunidade de acompanhar as forças do [url=glossary:kyros]Kyros[/url] na campanha sul. Ele diz que eu devo representar [url=glossary:kyros]Kyros[/url] 'Law na fronteira selvagem, e abrir o caminho para sua mão civilizadora. Eu terei alguma autoridade militar à minha disposição, mas [url=glossary:graven ashe]Graven Ashe[/url] e [url=glossary:the voices of nerat]the Voices of Nerat[/url] serão os arquitetos dessa conquista. Principalmente estarei lá para observar as operações de guerra e resolver quaisquer divergências à medida que surgirem. Eu sei que os sulistas só aceitam [url=glossary:kyros]Kyros[/url] 'Paz chutando e gritando, então aqui está a esperança de que eu possa fazer uma transição suave para todos nós.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Now that [url=glossary:tunon]Tunon[/url] has established his Court in the vacant throne room and summoned the other Fatebinders, he's sending me to accompany the army while he tidies up his new city.</DefaultText>
+      <DefaultText>Agora que [url=glossary:tunon]Tunon[/url] estabeleceu o seu Tribunal na sala do trono vago e convocou os outros Fatebinders, ele está me enviando para acompanhar o exército enquanto ele arruma sua nova cidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>I've chosen to follow the army to the Realm of Apex. The Southerners don't take up a lot of space here, but what land they possess is commanded by rivers and mountains - choke points, in other words. Sounds like a worthy challenge for any military.</DefaultText>
+      <DefaultText>Eu escolhi seguir o exército para o Reino do Apex. Os sulistas não ocupam muito espaço aqui, mas a terra que eles possuem é comandada por rios e montanhas - pontos de estrangulamento, em outras palavras. Soa como um desafio digno para qualquer militar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>The army is heading for [url=glossary:lethian's crossing]Lethian's Crossing[/url], and I will follow. [url=glossary:tunon]Tunon[/url] places great emphasis on this location, as he wants the [url=glossary:forge-bound]Forge-Bound[/url] to make a permanent settlement here. Iron production will make or break this war, as he's fond of telling me. I'll keep an eye on the forges and make sure everything moves at an appropriate pace.</DefaultText>
+      <DefaultText>O exército está se dirigindo para [url=glossary:lethian's crossing]Lethian's Crossing[/url], e eu vou seguir. [url=glossary:tunon]Tunon[/url] lugares grande ênfase sobre esta localização, como ele quer que o [url=glossary:forge-bound]Forge-Bound[/url] para fazer um assentamento permanente aqui. A produção de ferro vai fazer ou quebrar essa guerra, como ele gosta de me dizer. Vou ficar de olho nas forjas e garantir que tudo se mova em um ritmo adequado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Those Apex defenders are a feisty, passionate bunch - more combative than I might have guessed. We really had to break their spirits before the offer of surrender made any practical sense to them. Stubborn, but admirable enough for Southerners. I'm being deployed farther afield, as it seems my work is never done.</DefaultText>
+      <DefaultText>Esses defensores da Apex são um bando apaixonado e apaixonado - mais combativo do que eu poderia imaginar. Nós realmente tivemos que quebrar seus espíritos antes que a oferta de rendição fizesse algum sentido prático para eles. Teimoso, mas admirável o suficiente para os sulistas. Estou sendo implantado mais longe, pois parece que meu trabalho nunca é feito.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Who would have thought that iron production would give us this much trouble? This is why [url=glossary:kyros]Kyros[/url] doesn't deal with mercenaries. Better that a force more sensible and organized than the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] command this city... which really amounts to "anyone but the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]." Now that I've done what I can to stabilize our iron production, I'm shrugging off the mantle of Governor and moving on to the last stretch of our conquest.</DefaultText>
+      <DefaultText>Quem teria pensado que a produção de ferro nos daria tanto trabalho? É por isso que [url=glossary:kyros]Kyros[/url] não lida com mercenários. Melhor que uma força mais sensata e organizada do que o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] comanda esta cidade ... o que realmente equivale a "qualquer um menos o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]." Agora que fiz o que pude para estabilizar nossa produção de ferro, estou tirando o manto de Governador e seguindo para o último trecho de nossa conquista.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>I'm accompanying the army to Stalwart, the homeland of perhaps the hardiest and most stubborn of Tiersmen. Our forces have been fighting for two years and in that time, the cowards of Stalwart have huddled in their corner and readied themselves for battle.  They make a great deal of never having lost a war on their home soil, going so far as to naming their army 'the [url=glossary:unbroken]Unbroken[/url].' But given the locals we've encountered so far, I suspect these Tiersmen haven't faced a competent challenger in years. </DefaultText>
+      <DefaultText>Estou acompanhando o exército para Stalwart, a pátria de talvez o mais duro e teimoso dos Tiersmen. Nossas forças lutam há dois anos e, nessa época, os covardes de Stalwart se amontoaram em seu canto e se prepararam para a batalha. Eles fazem uma grande quantidade de nunca ter perdido uma guerra em sua terra natal, indo tão longe a ponto de nomear seu exército 'the [url=glossary:unbroken]Unbroken[/url]'. Mas, considerando os locais que encontramos até agora, suspeito que esses Tiersmen não enfrentaram um desafiante competente em anos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>If I'm going to spend another year in the blistering heat of the South, I'd rather spend it in Azure. The breadbasket of the Tiers looks cool and inviting by comparison to the rest of the continent. Since a considerable military force AND the Archon of Stone will be joining me, I doubt these farmers or their Beastman slaves will give us much trouble.</DefaultText>
+      <DefaultText>Se vou passar mais um ano no calor escaldante do Sul, prefiro gastar no Azure. O celeiro do Tiers parece legal e convidativo em comparação com o resto do continente. Já que uma força militar considerável E o Arconte de Pedra estará se juntando a mim, duvido que esses fazendeiros ou seus escravos Homens-Animais tenham nos causado muitos problemas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>A small detachment of soldiers is making for the [url=glossary:vellum citadel]Vellum Citadel[/url], a sprawling repository of lore that is so forbidden it would leave [url=glossary:tunon]Tunon[/url] gasping on the floor if he read as much as a shopping list dredged from the stacks. I can't help but find my curiosity piqued at what - or who - I might find there. The Sages are said to be more intimidating than they appear, but I suspect that they'll see the wisdom of surrender.</DefaultText>
+      <DefaultText>Um pequeno destacamento de soldados está fazendo para o repositório alastrando da sabedoria que é tão proibido que deixaria [url=glossary:tunon]Tunon[/url] ofegante no chão se ele ler tanto quanto uma lista de compras dragada das pilhas. Eu não posso deixar de encontrar minha curiosidade despertada em que - ou quem - eu poderia encontrar lá. Os Sábios são mais intimidantes do que parecem, mas eu suspeito que eles verão a sabedoria da rendição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>I won't make the mistake of underestimating the enemy again. I never could have guessed that dogged nationalism and pride could carry an army as long as it carried the Stalwart defenders. Even the [url=glossary:edict]Edict[/url] of Storms, which tore through the greatest part of their fighting force, has brought the war to a stalemate - not a victory. Incredible. I would hang back to observe the slow erosion of this fallen realm, but duty calls me back to the [url=glossary:bastard city]Bastard City[/url].</DefaultText>
+      <DefaultText>Eu não cometerei o erro de subestimar o inimigo novamente. Eu nunca poderia ter adivinhado que nacionalismo e orgulho obstinados poderiam levar um exército, desde que eles carregassem os defensores Stalwarts. Mesmo o [url=glossary:edict]Edict[/url] de tempestades, que rasgou a maior parte de sua força de combate, trouxe a guerra para um impasse - e não uma vitória. Incrível. Eu iria ficar para trás para observar a lenta erosão deste reino caído, mas o dever me chama de volta para o [url=glossary:bastard city]Bastard City[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Looking back on these entries, I can see now that my confidence in the Archon of Stone was misplaced. I don't know if something about Azure enticed [url=glossary:cairn]Cairn[/url] to take leave of his senses or if he was always poised to rebel... though I suspect it was a bit of both. We have won over this blasted realm in spite of [url=glossary:cairn]Cairn[/url]'s treachery. The Beastmen who followed him will continue to be problematic, but I will save these details for the army and our clean-up efforts. I am recalled to [url=glossary:tunon]Tunon[/url]'s Court in the [url=glossary:bastard city]Bastard City[/url].</DefaultText>
+      <DefaultText>Olhando para trás nessas entradas, posso ver agora que minha confiança no Arconte de Pedra estava fora do lugar. Eu não sei se algo sobre o Azure seduziu para se despedir de seus sentidos ou se ele estava sempre pronto para se rebelar ... embora eu suspeite que era um pouco dos dois. Nós vencemos este reino destruído apesar da traição do [url=glossary:cairn]Cairn[/url]. Os homens-fera que o seguiram continuarão sendo problemáticos, mas vou guardar esses detalhes para o exército e nossos esforços de limpeza. Eu sou chamado para [url=glossary:tunon]Tunon[/url] do Tribunal no [url=glossary:bastard city]Bastard City[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>The siege we brought against these meddlesome spellcasters took more out of our small detachment than we had to offer. [url=glossary:tunon]Tunon[/url] may never forgive the setback in our campaign, much less the expenditure of effort it took to force the last of the Sages into submission. The [url=glossary:vellum citadel]Vellum Citadel[/url] is now known as the [url=glossary:burning library]Burning Library[/url] - the forbidden lore of the School of Ink and Quill now fuels a victory pyre. Though the Sages never formally surrendered, they have been shattered and made irrelevant... some small solace there. I turn from this troubling chapter of the campaign and orient toward the [url=glossary:bastard city]Bastard City[/url], where my duties in [url=glossary:tunon]Tunon[/url]'s Court await.</DefaultText>
+      <DefaultText>O cerco que nós fizemos contra esses feiticeiros intrometidos tirou mais do nosso pequeno destacamento do que tínhamos a oferecer. [url=glossary:tunon]Tunon[/url] pode nunca perdoar o revés em nossa campanha, muito menos o dispêndio de esforço que levou para forçar o último dos Sábios a se submeter. O [url=glossary:vellum citadel]Vellum Citadel[/url] é agora conhecido como o [url=glossary:burning library]Burning Library[/url] - a sabedoria proibida da Escola de Tinta e Quill agora alimenta uma pira da vitória. Embora os Sábios nunca tenham se rendido formalmente, eles foram destruídos e tornados irrelevantes ... algum pequeno consolo ali. Eu me volto deste capítulo preocupante da campanha e oro para o [url=glossary:bastard city]Bastard City[/url], onde meus deveres no Tribunal de [url=glossary:tunon]Tunon[/url] esperam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>I often find my mind wandering from the conquest and indeed my own responsibilities. Proclaiming an [url=glossary:edict]Edict[/url] was truly the pinnacle of my achievement during this extended campaign, and it troubles me that I must return to my regular duties after indulging in such power... 
+      <DefaultText>Muitas vezes encontro minha mente vagando pela conquista e, de fato, minhas próprias responsabilidades. Proclamar um [url=glossary:edict]Edict[/url] foi realmente o auge da minha conquista durante esta campanha estendida, e me incomoda que eu deva retornar aos meus deveres regulares depois de me entregar a tal poder ...
 
-For a moment, I was the voice and will of the Overlord manifested in this lawless frontier. I felt the power of absolute authority pour from my lips and judge the masses on a scale that not even [url=glossary:tunon]Tunon[/url] may fully appreciate. I know that I have been instrumental in steering the events of this war - I wonder if it is, perhaps, too soon to let myself think about the spoils, the accolades, and the welcome return home... such things will have to wait a little longer. 
+Por um momento, fui a voz e a vontade do Overlord manifestada nessa fronteira sem lei. Senti o poder da autoridade absoluta derramar dos meus lábios e julgar as massas em uma escala que nem mesmo [url=glossary:tunon]Tunon[/url] pode apreciar plenamente. Eu sei que tenho sido instrumental em comandar os eventos desta guerra - eu me pergunto se talvez seja cedo demais para me deixar pensar sobre os espólios, os elogios e o bem-vindo retorno para casa ... tais coisas terão que esperar um pouco mais.
 
-I returned to the [url=glossary:bastard city]Bastard City[/url] to take my place in [url=glossary:tunon]Tunon[/url]'s Court. The Overlord's conquest is finally over, but much work remains to bring [url=glossary:kyros]Kyros[/url]' Peace to the rabble of the Tiers. The other Fatebinders assign me light duty so that I might convalesce from my ordeals. Channeling the Overlord's power while proclaiming an [url=glossary:edict]Edict[/url] has sapped much of my strength. I am fortunate that I survived the experience.
+Voltei para o [url=glossary:bastard city]Bastard City[/url] para tomar o meu lugar em [url=glossary:tunon]Tunon[/url] do Tribunal. A conquista do Overlord finalmente acabou, mas ainda há muito trabalho para levar a paz à ralé das fileiras. Os outros Fatebinders me designam de serviço leve para que eu convalesse de minhas provações. Canalizar o poder do Overlord enquanto proclamou um [url=glossary:edict]Edict[/url] minou muito da minha força. Tenho a sorte de ter sobrevivido à experiência.
 
-Rumors reach the court of unrest in the Tiers. I am not privy to my lord [url=glossary:tunon]Tunon[/url]'s council, but I can tell that he is troubled by the increasing tension between the [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] armies. Eventually he must decide which Archon will become Governor of the Tiers. I fear that his methodical deliberations will only inflame [url=glossary:kyros]Kyros[/url]' soldiers against each other.
+Os rumores chegam à corte dos distúrbios nas camadas. Eu não estou a par do conselho do meu senhor [url=glossary:tunon]Tunon[/url], mas eu posso dizer que ele está preocupado com o aumento da tensão entre os exércitos [url=glossary:disfavored]Disfavored[/url] e [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Eventualmente, ele deve decidir qual Arconte se tornará o Governador dos Níveis. Temo que suas deliberações metódicas só inflamarão os soldados uns contra os outros.
 
-It is proving harder to quell the spirits of these Tiersmen than we initially thought. There is a streak of animal stubbornness inherent in their nature that makes them resist the demands of [url=glossary:kyros]Kyros[/url]' Law.</DefaultText>
+Está se mostrando mais difícil reprimir os espíritos desses Tiersmen do que pensávamos inicialmente. Há um traço de teimosia animal inerente à sua natureza que os faz resistir às exigências da Lei [url=glossary:kyros]Kyros[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Rebellion! The garrisons at [url=glossary:vendrien's well]Vendrien's Well[/url] were slaughtered in the night in a treacherous attack. A group of Tiersmen violated their oaths of surrender and now claim independence from [url=glossary:kyros]Kyros[/url]' rule. The Archons clamor for vengeance, each demanding the right to crush this rebellion.
+      <DefaultText>Rebelião! As guarnições em [url=glossary:vendrien's well]Vendrien's Well[/url] foram abatidos durante a noite em um ataque traiçoeiro. Um grupo de Tiersmen violou seus juramentos de rendição e agora reivindicam independência da regra. Os Arcontes clamam por vingança, cada qual exigindo o direito de esmagar essa rebelião.
 
-My lord [url=glossary:tunon]Tunon[/url] receives word from the Overlord: both armies will be sent to eliminate the oathbreakers. I almost feel pity for these Tiersmen. They have no notion of the doom that will fall upon them.
+Meu senhor [url=glossary:tunon]Tunon[/url] recebe a notícia do Overlord: ambos os exércitos serão enviados para eliminar os jurados. Eu quase sinto pena desses Tiersmen. Eles não têm noção da desgraça que cairá sobre eles.
 
-It has been several span since the armies arrived at [url=glossary:vendrien's well]Vendrien's Well[/url], and still no word of victory. The Archons bicker like dogs over a bone, and my lord [url=glossary:tunon]Tunon[/url] grows weary of the constant stream of missives from each army. I heard Fatebinders Calio and Nunoval speaking. They believe that [url=glossary:tunon]Tunon[/url] will apply to [url=glossary:kyros]Kyros[/url] for the authority to bring the Archons to heel. It will be amusing to hear Ashe and Nerat howl as they face the Adjudicator's judgment.
+Tem sido vários span desde os exércitos chegaram ao [url=glossary:vendrien's well]Vendrien's Well[/url], e ainda não há palavra de vitória. Os Arcontes brigam como cães por cima de um osso, e meu senhor cresce cansado do fluxo constante de missivas de cada exército. Eu ouvi Fatebinders Calio e Nunoval falando. Eles acreditam que [url=glossary:tunon]Tunon[/url] será aplicada a [url=glossary:kyros]Kyros[/url] para a autoridade para trazer o Archons para o calcanhar. Será divertido ouvir Ashe e Nerat uivarem enquanto enfrentam o julgamento do Adjudicador.
 
-Word has come. Once again I am chosen to bear [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url]. Few Fatebinders have survived proclaiming a single [url=glossary:edict]Edict[/url], let alone two. And none have proclaimed a second [url=glossary:edict]Edict[/url] so soon after their first.
+A palavra chegou. Mais uma vez eu sou escolhido para suportar [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url]. Poucos fatebinders sobreviveram proclamando um único [url=glossary:edict]Edict[/url], e muito menos dois. E ninguém proclamou um segundo [url=glossary:edict]Edict[/url] tão logo após o primeiro deles.
 
-I set out for [url=glossary:vendrien's well]Vendrien's Well[/url] in the morning. I can only hope I have the strength for what is to come.</DefaultText>
+Eu parti para [url=glossary:vendrien's well]Vendrien's Well[/url] pela manhã. Só posso esperar ter força para o que está por vir.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

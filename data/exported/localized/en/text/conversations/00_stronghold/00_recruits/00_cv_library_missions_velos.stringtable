@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_recruits\00_cv_library_missions_velos</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>10</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"My apologies Fatebinder, I haven't been able to make anything since the Spire went under maintenance, check back later."</DefaultText>
+      <DefaultText>"Minhas desculpas Fatebinder, eu não tenho conseguido fazer nada desde que o Spire entrou em manutenção, volte mais tarde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Velos scowls and contorts his face into a tight knot. "Yes, that is what it used to be called before [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] fell upon us all, taking thousands of years of knowledge and reducing it to ash." He quickly regains his composure. "My apologies Fatebinder, the wound is still fresh for many of us, please, let me be of service to you."</DefaultText>
+      <DefaultText>Velos franze a testa e contorce seu rosto em um nó apertado. "Sim, é assim que costumava ser chamado antes que [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] caísse sobre todos nós, levando milhares de anos de conhecimento e reduzindo a cinzas." Ele rapidamente recupera a compostura. "Minhas desculpas Fatebinder, a ferida ainda está fresca para muitos de nós, por favor, deixe-me ser útil para você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"What have you made for me?"</DefaultText>
+      <DefaultText>"O que você fez para mim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,39 +26,39 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Velos squints at you, as if to sniff out some hidden motive, but finds none. "You still call it by its old name. Most these days refer to it as the [url=glossary:burning library]Burning Library[/url], or the burning heap of shit." 
+      <DefaultText>Velos aperta os olhos para você, como se quisesse farejar algum motivo oculto, mas não encontra nenhum. "Você ainda o chama pelo nome antigo. A maioria hoje em dia se refere a ele como [url=glossary:burning library]Burning Library[/url] ou a pilha de merda em chamas."
 
-His posture visibly slouches. "Yes, I had many colleagues and mentors far more scholarly on the subject of the written word and its many forms than I could ever grasp." His gaze wanders past you, escaping off into some distant memory. "We lost many good scrolls when the [url=glossary:edict]Edict[/url] fell."</DefaultText>
+Sua postura fica visivelmente abatida. "Sim, eu tive muitos colegas e mentores muito mais acadêmicos sobre o assunto da palavra escrita e suas muitas formas do que eu jamais poderia entender." Seu olhar vagueia por você, escapando para alguma memória distante. "Nós perdemos muitos pergaminhos bons quando o [url=glossary:edict]Edict[/url] caiu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Greetings, Fatebinder. Do you need something?"</DefaultText>
+      <DefaultText>"Saudações, Fatebinder. Você precisa de alguma coisa?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Let me show you."</DefaultText>
+      <DefaultText>"Deixe-me te mostrar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"I don't have anything for you at the moment. Check back later."
+      <DefaultText>"Eu não tenho nada para você no momento. Volte mais tarde."
 
-[Recruits can generate items for you while you are gaining experience by adventuring in the world.]</DefaultText>
+[Recrutas podem gerar itens para você enquanto você está ganhando experiência se aventurando no mundo.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>The sage examines a scroll, taking in every detail of his handiwork. "Did you know there are seven ways to write fire, but only two for water?" He continues to examine the scroll without the slightest sign that he was expecting an answer. "Could it be that fire has more meaning in our era?"
+      <DefaultText>O sábio examina um pergaminho, observando cada detalhe de sua obra. "Você sabia que existem sete maneiras de escrever fogo, mas apenas duas para a água?" Ele continua a examinar o pergaminho sem o menor sinal de que ele estava esperando uma resposta. "Será que o fogo tem mais significado em nossa era?"
 
 
-There is a short pause before he realizes you've actually approached him for something. "Oh, my apologies Fatebinder, I can be taken for a ride by my own trails of thought. I'm sure there is something you need from me?"</DefaultText>
+Há uma pequena pausa antes que ele perceba que você realmente se aproximou dele por alguma coisa. "Oh, minhas desculpas Fatebinder, eu posso ser levada para um passeio por minhas próprias trilhas de pensamento. Tenho certeza que há algo que você precisa de mim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"You seem fairly versed in the common language, did you study at the [url=glossary:vellum citadel]Vellum Citadel[/url]?"</DefaultText>
+      <DefaultText>"Você parece bastante versado na linguagem comum, você estudou no [url=glossary:vellum citadel]Vellum Citadel[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

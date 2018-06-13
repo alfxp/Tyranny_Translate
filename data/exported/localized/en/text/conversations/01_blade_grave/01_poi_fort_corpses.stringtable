@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_fort_corpses</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Seems others have tried to take this fort and failed. Repeatedly."</DefaultText>
+      <DefaultText>"Parece que outros tentaram tomar este forte e falharam. Repetidamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Nothing says 'welcome' like dead bodies rotting outside your front gate."</DefaultText>
+      <DefaultText>"Nada diz 'bem-vindo' como cadáveres apodrecendo do lado de fora do seu portão da frente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Bank Node 5</DefaultText>
+      <DefaultText>Nó do banco 5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"I see others have tried to take this place... with painful results."</DefaultText>
+      <DefaultText>"Eu vejo outros tentando tomar este lugar ... com resultados dolorosos."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

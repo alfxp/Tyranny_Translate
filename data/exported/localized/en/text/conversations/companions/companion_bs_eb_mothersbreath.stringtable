@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\companions\companion_bs_eb_mothersbreath</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"I'll shield us from prying eyes."</DefaultText>
+      <DefaultText>"Eu vou nos proteger de olhares indiscretos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"They'll never see us coming."</DefaultText>
+      <DefaultText>"Eles nunca nos verão chegando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"See that? Perfect weather for skulking and larceny."</DefaultText>
+      <DefaultText>"Veja isso? Tempo perfeito para se esconder e roubo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"The haze will conceal our position, we should move with care."</DefaultText>
+      <DefaultText>"A neblina vai esconder nossa posição, devemos nos mover com cuidado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"They won't have the foggiest notion where we to find us."</DefaultText>
+      <DefaultText>"Eles não terão a menor noção de onde nos encontrar."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

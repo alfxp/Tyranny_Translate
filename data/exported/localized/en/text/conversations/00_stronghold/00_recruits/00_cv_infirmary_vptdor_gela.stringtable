@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_vendor_gela</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não posso receber os suprimentos de que preciso enquanto o Spire estiver em manutenção. Por favor, volte mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Gela saúda você. "[url=glossary:graven ashe]Graven Ashe[/url] me deu permissão para fornecer serviços para o seu Spire. Meus contatos para o Norte me fornecem uma grande variedade de poções." Ela olha em volta para outros trabalhadores em todo o Apothecary. "Muito mais eficaz do que essas ervas cultivadas no sul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] protege, Fatebinder. Você precisa comprar algo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você vem do norte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sua boca forma um sorriso largo. "Sim, orgulho de dizer."
+
+Seu sorriso diminui em uma leve careta. "Eu estive fora por um bom tempo agora - esperamos que muitos de nós sejam enviados de volta para casa assim que os Tiers forem levados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Gela começa a se encaixar na saudação [url=glossary:disfavored]Disfavored[/url], mas depois parece pensar melhor, se curvando. "Um prazer, Fatebinder. Meus contatos com o Norte me fornecem numerosos tônicos alquímicos e cataplasmas, cada um muito mais eficaz do que os produtos das ervas do sul." Ela franze a testa ligeiramente. "Eu trabalhei com o [url=glossary:disfavored]Disfavored[/url], anteriormente, mas contanto que você trabalhe para acabar com esta guerra, eu estou feliz em atendê-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

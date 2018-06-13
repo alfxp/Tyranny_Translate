@@ -1,72 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\factionquestlines\scarletchorus\fq_sc_qst_forgebound</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Secret Contracts</DefaultText>
+      <DefaultText>Contratos Secretos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Speak to Lohara.</DefaultText>
+      <DefaultText>Fale com o Lohara.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Find a sympathetic [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <DefaultText>Encontre um simpático [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Kill Lohara.</DefaultText>
+      <DefaultText>Mate o Lohara.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Report to Seven Toes.</DefaultText>
+      <DefaultText>Relatório para sete dedos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] would like to bring the [url=glossary:forge-bound]Forge-Bound[/url] under his control - at least, as much as he can with [url=glossary:tunon]Tunon[/url] watching. With [url=glossary:forge-bound]Forge-Bound[/url] Master Zdenya gone, Lohara has taken up the mantle of Master of the Forge.</DefaultText>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] gostaria de trazer o [url=glossary:forge-bound]Forge-Bound[/url] sob seu controle - pelo menos, tanto quanto ele pode com [url=glossary:tunon]Tunon[/url] assistindo. Com [url=glossary:forge-bound]Forge-Bound[/url] Mestre Zdenya foi, Lohara assumiu o manto de Mestre da Forja.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Now that she controls the [url=glossary:forge-bound]Forge-Bound[/url], Lohara may be willing to comply with [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s requests. Speak to her in the forge in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Agora que ela controla o [url=glossary:forge-bound]Forge-Bound[/url], Lohara pode estar disposto a cumprir com os pedidos do [url=glossary:the voices of nerat]the Voices of Nerat[/url]222222222222222222222222222222222222. Fale com ela na forja em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>There must be someone in the forge in [url=glossary:lethian's crossing]Lethian's Crossing[/url] that will be sympathetic enough to work for Nerat.</DefaultText>
+      <DefaultText>Deve haver alguém na forja em [url=glossary:lethian's crossing]Lethian's Crossing[/url] que será simpático o suficiente para trabalhar para Nerat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Ulantis says he'll work for Nerat if you remove Lohara from the [url=glossary:forge-bound]Forge-Bound[/url]. Kill her in the forge in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Ulantis diz que ele vai trabalhar para Nerat se você remover Lohara do [url=glossary:forge-bound]Forge-Bound[/url]. Mate-a na forja em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Let Seven Toes in Cacophony know that the [url=glossary:forge-bound]Forge-Bound[/url] will be compliant with [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s requests.</DefaultText>
+      <DefaultText>Deixe Sete Dedos na Cacofonia saber que o [url=glossary:forge-bound]Forge-Bound[/url] será compatível com os pedidos [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Ulantis seems to be willing to help you, for a price.</DefaultText>
+      <DefaultText>Ulantis parece estar disposto a ajudá-lo, por um preço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You have instilled a new leader for the [url=glossary:forge-bound]Forge-Bound[/url], one who will comply with [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <DefaultText>Você instilou um novo líder para o [url=glossary:forge-bound]Forge-Bound[/url], aquele que irá cumprir com [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>You betrayed your allies and are no longer able to complete this task.</DefaultText>
+      <DefaultText>Você traiu seus aliados e não consegue mais concluir essa tarefa.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_bs_oldwall_door_puzzle</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>As you press the switch, you hear the grinding of stone from a nearby door fruitlessly trying to close. Something must be weighing it down.</DefaultText>
+      <DefaultText>Ao apertar o interruptor, você ouve a moagem de pedra de uma porta próxima tentando fechar infrutiferamente. Algo deve estar pesando para baixo.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

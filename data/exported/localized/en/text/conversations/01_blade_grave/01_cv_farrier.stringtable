@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_cv_farrier</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>96</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"At attention!" A band of [url=glossary:unbroken]Unbroken[/url] warriors rouse into position as their leader stands alert to your presence. </DefaultText>
+      <DefaultText>"Atenção!" Uma banda de guerreiros levanta-se em posição enquanto seu líder fica alerta à sua presença.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>The Stalwart captain whistles a shrill note as you approach, and his comrades lurch to attention. He turns to regard you with open distaste. "Tuck your tail and scamper back the way you came. The [url=glossary:unbroken]Unbroken[/url] won't tolerate Northern scum getting in our way."</DefaultText>
+      <DefaultText>O capitão da Stalwart assobia uma nota estridente quando você se aproxima, e seus companheiros chamam a atenção. Ele se vira para vê-lo com desgosto aberto. "Abaixe o rabo e volte correndo do jeito que você veio. O [url=glossary:unbroken]Unbroken[/url] não vai tolerar a escumalha do norte ficando no nosso caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Belay weapons, the Fatebinder approaches!" You hear your title repeated in hushed tones by a gathering of [url=glossary:unbroken]Unbroken[/url] soldiers. Their leader steps forward with a bow. "I received word of an ally in [url=glossary:tunon]Tunon[/url]'s court, though I doubted my ears at first. I'm Gregos, and this," he points back to his men "is what remains of the fourth citizen cohort of the [url=glossary:unbroken]Unbroken[/url]. We are honored to meet you."</DefaultText>
+      <DefaultText>"Belay armas, o Fatebinder se aproxima!" Você ouve seu título repetido em voz baixa por uma reunião de soldados. Seu líder avança com um arco. "Eu recebi a palavra de um aliado no tribunal de [url=glossary:tunon]Tunon[/url], embora eu duvidei de meus ouvidos no início. Eu sou Gregos, e isso", aponta para seus homens "é o que resta da quarta coorte cidadã do [url=glossary:unbroken]Unbroken[/url]. Estamos honrados para conhecê-lo ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"I understand you are looking for the remains of the First Regent."</DefaultText>
+      <DefaultText>"Eu entendo que você está procurando pelos restos do Primeiro Regente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,344 +31,344 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Yes... a special assignment." Gregos coughs nervously. "It feels a bit of fool's work, but I don't make a habit of questioning our captain." He points at the ruins rising up behind him. "We believe the First Regent's remains rest within this expanse of the Oldwalls - a rumor we cannot afford to ignore, as he carried the Steadfast Insignia - our most prized artifact."</DefaultText>
+      <DefaultText>"Sim ... uma tarefa especial." Gregos tosse nervosamente. "É um trabalho meio bobo, mas não tenho o hábito de questionar nosso capitão." Ele aponta para as ruínas que se erguem atrás dele. "Acreditamos que os restos do Primeiro Regente descansam dentro desta extensão dos Oldwalls - um boato que não podemos ignorar, já que ele carregava o Steadfast Insignia - nosso artefato mais valioso".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"The First Regent was lost in [url=glossary:kyros]Kyros[/url]' storm - we've found nothing of his remains or regalia. Old writings at Rust Canyons showed that he meant to come to these Oldwalls, but there's no trace of him outside."
+      <DefaultText>"O Primeiro Regente foi perdido em [url=glossary:kyros]Kyros[/url] 'tempestade - não encontramos nada de seus restos mortais ou regalias. Escritos antigos em Rust Canyons mostraram que ele pretendia vir a estes Oldwalls, mas não há nenhum traço dele fora."
 
-"The esteemed [url=glossary:sage]Sage[/url]," he points to a tall, older gentleman standing at the edge of the camp, "says he found evidence all but confirming that the First Regent wandered into this nearby breach."</DefaultText>
+"O estimado [url=glossary:sage]Sage[/url]", ele aponta para um senhor alto e mais velho parado na beira do acampamento, "diz que encontrou evidências, mas confirmando que o Primeiro Regente entrou nessa brecha próxima".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Fatebinder. You return."</DefaultText>
+      <DefaultText>"Fatebinder. Você volta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Why are you here again?"</DefaultText>
+      <DefaultText>"Por que você está aqui de novo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Elia sent us here to help."</DefaultText>
+      <DefaultText>"Elia nos enviou aqui para ajudar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"I'm here for the Steadfast Insignia. Stand aside or perish."</DefaultText>
+      <DefaultText>"Estou aqui pela insígnia firme. Fique de lado ou pereça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"What is it you require?"</DefaultText>
+      <DefaultText>"O que você precisa?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"But those creatures of mist attacked us when we tried to enter the Oldwalls." he shakes his head, as his voice becomes quiet and his eyes cast downward, "Killed a couple of my newer recruits and one of the Sages that offered to search with us."
+      <DefaultText>"Mas essas criaturas de névoa nos atacaram quando tentamos entrar no Oldwalls." ele balança a cabeça, enquanto sua voz fica quieta e seus olhos se voltam para baixo, "Mataram dois dos meus novos recrutas e um dos Sábios que se ofereceu para procurar conosco."
 
-"Now we sit... wait... nurse our wounds. I can see panic in their eyes, but I'll soon have to order another foray into the Oldwalls."</DefaultText>
+"Agora nos sentamos ... espere ... amadureça nossas feridas. Eu posso ver pânico em seus olhos, mas em breve terei que pedir outra incursão aos Oldwalls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Tell me of the creatures you encountered."</DefaultText>
+      <DefaultText>"Diga-me sobre as criaturas que você encontrou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"The Sages are assisting you?"</DefaultText>
+      <DefaultText>"Os Sábios estão ajudando você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Why is the Steadfast Insignia so important?"</DefaultText>
+      <DefaultText>"Por que a insígnia firme é tão importante?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"That's all I need to know. Farewell."</DefaultText>
+      <DefaultText>"Isso é tudo que eu preciso saber. Adeus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"I'd ask if you are friend or foe to the [url=glossary:unbroken]Unbroken[/url], but we have no friends in these parts. State your business or begone. I have no time to suffer the whims of wandering fools. I want to finish this expedition and get out before we all end up as fodder for the Bane."</DefaultText>
+      <DefaultText>"Eu perguntaria se você é amigo ou inimigo do [url=glossary:unbroken]Unbroken[/url], mas nós não temos amigos nestas partes. Indique seu negócio ou begone. Eu não tenho tempo para sofrer os caprichos dos tolos errantes. Eu quero terminar esta expedição e obter antes que todos acabem como alimento para o Bane. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"We've all heard tales of the fiends that sometimes lurk near the Oldwalls. The honorable [url=glossary:sage]Sage[/url] assures me that literate men know them as 'Scourges'."
+      <DefaultText>"Todos nós já ouvimos histórias sobre os demônios que às vezes se escondem perto dos Oldwalls. O honorável [url=glossary:sage]Sage[/url] me garante que os homens letrados os conhecem como 'Flagelos'".
 
-"Whatever you call them, they are abominations - not flesh and blood, but able to claw through the living all the same."</DefaultText>
+"O que quer que você os chame, eles são abominações - não carne e sangue, mas capazes de agarrar os vivos da mesma forma."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Between you and me," Gregos' voice grows quiet as he steps close to you, "I think these Scourges are servants of [url=glossary:kyros]Kyros[/url] - guarding the Oldwalls, spying on us, reporting to their master." He shrugs. "I'm just speculating. Maybe ask the [url=glossary:sage]Sage[/url], Hieronymus, what he knows."</DefaultText>
+      <DefaultText>"Entre você e eu", a voz de Gregos fica quieta quando ele se aproxima de você, "eu acho que esses flagelos são servos de [url=glossary:kyros]Kyros[/url] - guardando os Oldwalls, espionando-nos, reportando ao seu mestre." Ele encolhe os ombros. "Só estou especulando. Talvez pergunte ao [url=glossary:sage]Sage[/url], Hieronymus, o que ele sabe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"In a manner of speaking." Gregos glances at the man in camp festooned with ink vials, quill pens, and scroll cases. "The Sages were independently researching the fate of the First Regent. Once they learned of our common interest, they insisted on sending representatives to assist our efforts. They have been with us since our time at Rust Canyons."</DefaultText>
+      <DefaultText>"Em uma maneira de falar." Gregos olha para o homem no acampamento enfeitado com frascos de tinta, canetas de pena e caixas de pergaminho. "Os Sábios estavam independentemente pesquisando o destino do Primeiro Regente. Uma vez que eles descobriram o nosso interesse comum, eles insistiram em enviar representantes para ajudar nos nossos esforços. Eles estão conosco desde nossos tempos em Rust Canyons."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"We started with Hieronymus and his scribe, Javala." His voice cracks on the last word.
+      <DefaultText>"Começamos com Hieronymus e seu escriba, Javala." Sua voz racha na última palavra.
 
-"The late... scribe Javala. She did not survive our foray into the Oldwalls."</DefaultText>
+"O falecido ... escriba Javala. Ela não sobreviveu a nossa incursão nos Oldwalls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>His back stiffens. "We're not talking about any old bit of bronze scrap. The Steadfast Insignia has..." he searches for the right word until it comes to him with a nostalgic tone, "meaning. Real meaning to the people of Stalwart."
+      <DefaultText>Suas costas endurecem. "Não estamos falando de qualquer fragmento de bronze antigo. O Steadfast Insignia tem ..." ele procura a palavra certa até chegar a ele com um tom nostálgico, "significando. Significado real para o povo de Stalwart".
 
-"The [url=glossary:unbroken]Unbroken[/url] have never lost to a foreign invader," he taps the back of his gauntlets three times, "and through the ages, the Steadfast Insignia has been worn by every First Regent to lead our army."</DefaultText>
+"O [url=glossary:unbroken]Unbroken[/url] nunca perdeu para um invasor estrangeiro", ele bate a parte de trás de suas manoplas três vezes, "e através das eras, o Insígnia Firme foi usado por todos os Primeiros Regentes para liderar nosso exército."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Something about the Insignia rallies our countrymen. It's a symbol of the First Regent, but over the years it's come to represent something more." Gregos looks to his feet with a sigh. "We have always bent in the wind, never broken. If we could recover the Steadfast Insignia... I wager we could even march through [url=glossary:kyros]Kyros[/url]' storm without taking a scratch."</DefaultText>
+      <DefaultText>"Algo sobre a insígnia reagrupa nossos compatriotas. É um símbolo do Primeiro Regente, mas com o passar dos anos, passou a representar algo mais." Gregos olha para os pés com um suspiro. "Sempre dobramos ao vento, nunca quebramos. Se pudéssemos recuperar a Insígnia Firme ... Eu aposto que poderíamos até marchar pela [url=glossary:kyros]Kyros[/url] 'tempestade sem tomar um arranhão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Gregos bows to you and taps his gauntlet against his helmet's brim in salute. "Good travels, Fatebinder. Always stand your ground."</DefaultText>
+      <DefaultText>Gregos se curva para você e bate a luva contra a borda do capacete em saudação. "Boas viagens, Fatebinder. Sempre se mantenha firme."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"I will look for the First Regent."</DefaultText>
+      <DefaultText>"Vou procurar o primeiro regente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Gregos looks at you for several long seconds before smiling and nodding. "If you would be willing to explore the Oldwalls on our behalf, we would be in your debt. The breach is nearby - overrun with those terrors. We didn't venture all that far before we had to retreat, so there's no telling what lies in wait further in."</DefaultText>
+      <DefaultText>Gregos olha para você por vários longos segundos antes de sorrir e acenar. "Se você estivesse disposto a explorar os Oldwalls em nosso nome, estaríamos em dívida com você. A brecha está próxima - invadida por esses terrores. Não nos aventuramos tão longe antes de termos que recuar, então não há como dizer o que fica em espera ainda mais. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Speak with [url=glossary:sage]Sage[/url] Hieronymus before you enter the Oldwalls - no doubt he'll have better knowledge of what to expect." He looks you up and down, his countenance growing anxious. "And... show at least a little caution. I could not handle the shame if our cowardice lead to your demise."</DefaultText>
+      <DefaultText>"Fale com [url=glossary:sage]Sage[/url] Hieronymus antes de entrar no Oldwalls - sem dúvida ele terá um melhor conhecimento do que esperar." Ele olha para você de cima a baixo, seu semblante ficando ansioso. "E ... mostre pelo menos um pouco de cautela. Eu não poderia lidar com a vergonha se a nossa covardia o levasse à sua morte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Gregos bows to you and taps his gauntlet against his helmet's brim in salute. "Watch yourself in the Oldwalls."</DefaultText>
+      <DefaultText>Gregos se curva para você e bate a luva contra a borda do capacete em saudação. "Veja-se nos Oldwalls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"She's still alive! It's about time the currents shifted in our favor."
+      <DefaultText>"Ela ainda está viva! Já era hora de as correntes mudarem a nosso favor".
 
-He looks back to the men and women in position behind him. "Hear that! Elia is still kicking. Let's hope they're giving the [url=glossary:disfavored]Disfavored[/url] no lack of trouble." </DefaultText>
+Ele olha de volta para os homens e mulheres em posição atrás dele. "Ouça isso! Elia ainda está chutando. Vamos torcer para que eles não estejam com problemas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>He points to the stone horizon behind him. "My crew and I've been stuck risking our necks over some antique hunt. I've already lost two soldiers to those Oldwalls terrors and I've got more missing in action... We were hoping to die fighting the [url=glossary:disfavored]Disfavored[/url] - not adding our bones to the Oldwalls."</DefaultText>
+      <DefaultText>Ele aponta para o horizonte de pedra atrás dele. "Minha equipe e eu estive preso arriscando nossos pescoços por causa de uma caçada antiga. Eu já perdi dois soldados para esses terrores de Oldwall e eu tenho mais falta em ação ... Nós estávamos esperando para morrer lutando contra o [url=glossary:disfavored]Disfavored[/url] - não adicionando nossos ossos para o Oldwalls ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Mattias didn't entrust us with this mission so that we could hand over Stalwart's mightiest artifact to [url=glossary:kyros]Kyros[/url]' henchman."</DefaultText>
+      <DefaultText>"Mattias não nos confiou esta missão para que pudéssemos entregar o mais poderoso artefato de Stalwart ao [url=glossary:kyros]Kyros[/url]" capanga ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"I'm just here to collect some artifacts. I'm not trying to get in your way."</DefaultText>
+      <DefaultText>"Eu estou aqui apenas para coletar alguns artefatos. Eu não estou tentando entrar em seu caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Attack positions! Stand your ground!"</DefaultText>
+      <DefaultText>"Posições de ataque! Fique firme!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"You mentioned that you lost some soldiers."</DefaultText>
+      <DefaultText>"Você mencionou que perdeu alguns soldados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"These places were never meant for the sane to trespass. Something about them encourages confusion and frustration."</DefaultText>
+      <DefaultText>"Esses lugares nunca foram feitos para os sãos transgredirem. Algo sobre eles encoraja confusão e frustração."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"I'm not one to doubt that a symbol can make a difference on a battlefield, but I'll be damned if I invest as much hope in one as these fools."</DefaultText>
+      <DefaultText>"Eu não sou de duvidar que um símbolo pode fazer a diferença em um campo de batalha, mas eu serei amaldiçoado se eu investir tanta esperança em um quanto esses idiotas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"It's no simple thing to win over the trust of the Sages. Perhaps there is something to these idealists." He mutters as he dips his quill and scratches a line out from his palm.</DefaultText>
+      <DefaultText>"Não é simples conquistar a confiança dos Sábios. Talvez haja algo para esses idealistas." Ele murmura enquanto mergulha a pena e arranha uma linha da palma da mão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>He motions to Hieronymous and the old man walks slowly over to you. "You'll need to get the details of what's going on inside from him."</DefaultText>
+      <DefaultText>Ele faz um gesto para Hieronymous e o velho caminha lentamente até você. "Você precisa obter os detalhes do que está acontecendo dentro dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"I'm sure we can work something out to our mutual benefit."</DefaultText>
+      <DefaultText>"Tenho certeza de que podemos trabalhar em benefício mútuo".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"I know better than to trust one of [url=glossary:kyros]Kyros[/url]' lapdogs. Your breed aren't known for compromising."</DefaultText>
+      <DefaultText>"Eu sei que é melhor do que confiar em um dos [url=glossary:kyros]Kyros[/url] 'lapdogs. Sua raça não é conhecida por comprometer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Humans called [url=glossary:unbroken]Unbroken[/url] stink of fear-sweat and bloodied iron yet stand strong. Are not easy to kill, even for Bane."</DefaultText>
+      <DefaultText>"Humanos chamados [url=glossary:unbroken]Unbroken[/url] fedor de medo-suor e ferro ensangüentado ainda estão fortes. Não são fáceis de matar, mesmo para Bane."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Oh him?" Lantry looks toward the [url=glossary:sage]Sage[/url], nodding with a look of familiarity. "Then these Oldwalls must be crawling with Bane. If I had a hot tip on the whereabouts of the First Regent's remains, I wouldn't share those details if I could make the find on my own. Let me guess, he mentioned this wonderful promise of treasure and said he'd need 'just a few volunteers' for bodyguards..."</DefaultText>
+      <DefaultText>"Oh ele?" Lantry olha para o [url=glossary:sage]Sage[/url], acenando com um olhar de familiaridade. "Então esses Oldwalls devem estar rastejando com Bane. Se eu tivesse uma dica quente sobre o paradeiro dos restos do Primeiro Regente, eu não iria compartilhar esses detalhes se eu pudesse fazer a descoberta por conta própria. Deixe-me adivinhar, ele mencionou isso maravilhoso promessa de tesouro e disse que ele precisaria "apenas alguns voluntários" para guarda-costas ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"As if your cowardice wasn't shameful enough?"</DefaultText>
+      <DefaultText>"Como se sua covardia não fosse vergonhosa o suficiente?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>He turns to Verse with a mixed expression. "Don't presume to judge me, Scarlet Fury. I'm sure your atrocities are without count."</DefaultText>
+      <DefaultText>Ele se vira para Verse com uma expressão mista. "Não pretenda me julgar, Scarlet Fury. Tenho certeza de que suas atrocidades não contam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"And every single one makes me proud."</DefaultText>
+      <DefaultText>"E cada um me deixa orgulhoso".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"To recover the Steadfast Insignia, of course. And you did a splendid job of it."</DefaultText>
+      <DefaultText>"Recuperar a Insígnia Firme, é claro. E você fez um trabalho esplêndido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Can I help you with something else?"</DefaultText>
+      <DefaultText>"Posso ajudá-lo com outra coisa?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"The Insignia has meaning both symbolic and cultural. It represents the unshakable defenses of old Stalwart - our ability to band together in hard times for the greater good. It rallies us and binds us together. "</DefaultText>
+      <DefaultText>"O Insignia tem significado tanto simbólico quanto cultural. Representa as defesas inabaláveis ​​do velho Stalwart - nossa capacidade de nos unirmos em tempos difíceis para o bem maior. Ele nos une e nos une."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Symbols have power, which is something you would do well to remember. Especially now that you carry the Insignia."</DefaultText>
+      <DefaultText>"Símbolos têm poder, algo que você faria bem em lembrar. Especialmente agora que você carrega a Insígnia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Script Node 106</DefaultText>
+      <DefaultText>Nó de Script 106</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] would have killed us, or worse... I suggest you report to Mattias. I've seen enough of the Oldwalls, myself."</DefaultText>
+      <DefaultText>"O [url=glossary:disfavored]Disfavored[/url] teria nos matado, ou pior ... eu sugiro que você se apresente a Mattias. Já vi bastante do Oldwalls, eu mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"As if we haven't heard that before every battle! If you're intent on throwing your life away, at least aim for a mote of originality." </DefaultText>
+      <DefaultText>"Como se não tivéssemos ouvido isso antes de cada batalha! Se você está disposto a jogar sua vida fora, pelo menos, aponte para um cerne de originalidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>The Stalwart captain whistles a shrill note as you approach, and his comrades lurch to attention. He turns to regard you with open distaste. "A Chorus rat? You won't be conscripting this group into the Voices' gang." </DefaultText>
+      <DefaultText>O capitão da Stalwart assobia uma nota estridente quando você se aproxima, e seus companheiros chamam a atenção. Ele se vira para vê-lo com desgosto aberto. "Um rato Chorus? Você não vai recrutar esse grupo para a gangue do Voices."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"We seek the Steadfast Insignia, an artifact of Stalwart's decorated history that may just give us a leg up on withstanding the storms of [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <DefaultText>"Nós buscamos o Steadfast Insignia, um artefato da história condecorada de Stalwart que pode nos dar uma vantagem sobre suportar as tempestades de [url=glossary:kyros]Kyros[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"You're a bigger fool than I could have credited if you think I'd allow you to plumb the Oldwalls to rob us of Stalwart's heritage." He sneers and shakes his head at you. "As much as I like the idea of your ravaged corpse decorating those halls, I'm not in the habit of taking chances." </DefaultText>
+      <DefaultText>"Você é um tolo maior do que eu poderia ter creditado se você acha que eu iria permitir que você sondasse os Oldwalls para nos roubar a herança de Stalwart." Ele zomba e balança a cabeça para você. "Por mais que eu goste da idéia de seu cadáver devastado decorar esses corredores, não tenho o hábito de arriscar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"So let's not pretend we're going to do anything other than what we're going to do." He signals to his men and draws his weapon. "For Stalwart!"</DefaultText>
+      <DefaultText>"Então não vamos fingir que vamos fazer outra coisa senão o que vamos fazer." Ele sinaliza para seus homens e desenha sua arma. "Para Stalwart!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Your leader, Mattias, has already joined the Chorus. We could be allies against the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <DefaultText>"Seu líder, Mattias, já se juntou ao Chorus. Poderíamos ser aliados contra o [url=glossary:disfavored]Disfavored[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>His mouth drops open a little. "Mattias... I can't decide if that's a lie to rattle my confidence or not. The Mattias who fought for his country's liberation would never cooperate with its occupiers..." He trails off, uncertain.</DefaultText>
+      <DefaultText>Sua boca se abre um pouco. "Mattias ... não posso decidir se isso é uma mentira para sacudir minha confiança ou não. Os Mattias que lutaram pela libertação de seu país nunca cooperariam com seus ocupantes ..." Ele pára, incerto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>He lets out a heavy sigh and regards you with open hatred. "Either way, it doesn't change how this is going to end between us, does it?"</DefaultText>
+      <DefaultText>Ele solta um suspiro pesado e considera você com ódio aberto. "De qualquer maneira, isso não muda como isso vai terminar entre nós, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Strictly speaking, I'm not here to conscript you."</DefaultText>
+      <DefaultText>"Estritamente falando, eu não estou aqui para recrutar você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"As if I'd believe honeyed words from [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s twisted agent. For all I know, you're one of his Eyes - or an even less pleasing disembodied organ crafted for his delight." </DefaultText>
+      <DefaultText>"Como se eu acreditasse em melar as palavras do agente torcido de [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Pelo que sei, você é um dos olhos dele - ou um órgão desencarnado ainda menos agradável feito para o deleite dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"You know, I never once considered that." Verse squints at you and snaps her fingers. "Hey! You in there! Stop it." </DefaultText>
+      <DefaultText>"Você sabe, eu nunca considerei isso." O verso pisca para você e estala os dedos. "Ei! Você aí! Pare com isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"You return victorious, it seems!" Gregos beams with pride. "If the Oldwalls did not defeat you, I would say that no one is more deserving to carry the Steadfast Insignia into battle."</DefaultText>
+      <DefaultText>"Você volta vitorioso, parece!" Gregos irradia orgulho. "Se os Oldwalls não derrotarem você, eu diria que ninguém mais merece levar a Insígnia Firme para a batalha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>He delivers a short bow. "May you walk from battle unscathed." </DefaultText>
+      <DefaultText>Ele faz uma pequena reverência. "Que você possa sair da batalha ileso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"I'm the one who saved Elia from Ashe's brood in Rust Canyons. That has to count for something." </DefaultText>
+      <DefaultText>"Sou eu quem salvou Elia da ninhada de Ashe em Rust Canyons. Isso tem que contar para alguma coisa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"This is my thanks for getting Mattias out of a bad situation in Trapper's Junction?"</DefaultText>
+      <DefaultText>"Esta é a minha gratidão por tirar o Mattias de uma situação ruim na Junção do Trapper?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>He opens his mouth to retort and closes it again, frowning. "I heard that Mattias' unit was conscripted, but I never guessed he would allow himself to be taken. I doubt Irentis went quietly..."</DefaultText>
+      <DefaultText>Ele abre a boca para replicar e fecha novamente, franzindo a testa. "Ouvi dizer que a unidade de Mattias foi recrutada, mas nunca imaginei que ele se permitiria ser levado. Duvido que Irentis tenha ido em silêncio ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>He grimaces and shakes himself out of reverie. "Just because you posture to seem like an ally doesn't mean we share a common cause! I already know the Chorus ways - you're softening us up for conscription, and as soon as we drop our guard you'll hold a blade to our necks."</DefaultText>
+      <DefaultText>Ele faz uma careta e se sacode de devaneio. "Só porque você parece ser uma aliada não significa que nós compartilhamos uma causa comum! Eu já conheço os modos do Coro - você está nos abrandando para o recrutamento, e assim que nós baixarmos a guarda, você segurará uma lâmina." para nossos pescoços ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"If I helped the [url=glossary:unbroken]Unbroken[/url] already, what makes you think I won't help you?"</DefaultText>
+      <DefaultText>"Se eu já ajudei o [url=glossary:unbroken]Unbroken[/url], o que faz você pensar que eu não vou te ajudar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -378,7 +378,7 @@ He looks back to the men and women in position behind him. "Hear that! Elia is s
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"How about we just part ways and pretend that we never crossed paths?" </DefaultText>
+      <DefaultText>"Que tal nos separarmos e fingir que nunca nos cruzamos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -388,47 +388,47 @@ He looks back to the men and women in position behind him. "Hear that! Elia is s
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"She did tell me that one of [url=glossary:kyros]Kyros[/url]' minions interceded on her behalf... that was you?" Gregos frowns and looks away, indecisive.</DefaultText>
+      <DefaultText>"Ela me disse que um dos [url=glossary:kyros]Kyros[/url] lacaios intercedidos em seu nome ... era você?" Gregos franze a testa e olha para o outro lado, indeciso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Just because you're an opportunist doesn't also mean you're a savior. I know what you're trying to accomplish here. No doubt [url=glossary:the voices of nerat]the Voices of Nerat[/url] whispers his manipulations to you daily." </DefaultText>
+      <DefaultText>"Só porque você é um oportunista também não significa que você é um salvador. Eu sei o que você está tentando realizar aqui. Sem dúvida [url=glossary:the voices of nerat]the Voices of Nerat[/url] sussurra suas manipulações para você diariamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>He gestures to his soldiers and the accompanying Sages. "As you can see, our fighting force is holding together just fine. We're gathering our strength for another foray into the Oldwalls, and we don't need help from a Chorus rat."</DefaultText>
+      <DefaultText>Ele gesticula para seus soldados e os sábios acompanhantes. "Como você pode ver, nossa força de combate está se unindo muito bem. Estamos reunindo nossas forças para outra investida nos Oldwalls, e não precisamos da ajuda de um rato Chorus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"I wouldn't believe you for a moment. The [url=glossary:edict]Edict[/url] is an enormous tactical disadvantage for the [url=glossary:disfavored]Disfavored[/url], and [url=glossary:the voices of nerat]the Voices of Nerat[/url] isn't such a fool that he'd give Ashe a moment of respite."</DefaultText>
+      <DefaultText>"Eu não acreditaria em você por um momento. O [url=glossary:edict]Edict[/url] é uma desvantagem tática enorme para o [url=glossary:disfavored]Disfavored[/url], e [url=glossary:the voices of nerat]the Voices of Nerat[/url] não é tão tolo que ele daria a Ashe um momento de trégua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Even if you don't intend to conscript us now, I don't buy for a secod that Nerat would leave us alone for long. Which is why I take it upon myself to kill every Chorus agent I meet." His expression turns grim as his hand slowly moves toward his weapon.</DefaultText>
+      <DefaultText>"Mesmo que você não pretenda nos recrutar agora, eu não acredito que Nerat nos deixaria em paz por muito tempo. É por isso que eu me responsabilizo para matar todos os agentes do Chorus que conheço." Sua expressão fica sombria enquanto sua mão se move lentamente em direção a sua arma.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"I'm sure we can work something out to our mutual benefit."</DefaultText>
+      <DefaultText>"Tenho certeza de que podemos trabalhar em benefício mútuo".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"I know better than to trust one of [url=glossary:kyros]Kyros[/url]' lapdogs. Your breed aren't known for compromising."</DefaultText>
+      <DefaultText>"Eu sei que é melhor do que confiar em um dos [url=glossary:kyros]Kyros[/url] 'lapdogs. Sua raça não é conhecida por comprometer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Either you made him an offer too good to pass up, or he allowed his troops to fall to despair. If he still lives, at least that gives me hope for the cause." </DefaultText>
+      <DefaultText>"Ou você fez uma oferta boa demais para deixar passar, ou ele permitiu que suas tropas caíssem no desespero. Se ele ainda vive, pelo menos isso me dá esperança para a causa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>His thin smile widens. "Counter offer - how about I send you back to Cacophony in pieces? Does that work for you?" Gregos signals his troops.</DefaultText>
+      <DefaultText>Seu sorriso magro se amplia. "Oferta de balcão - que tal eu mandar você de volta para cacofonia em pedaços? Isso funciona para você?" Gregos sinaliza suas tropas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,27 +438,27 @@ He looks back to the men and women in position behind him. "Hear that! Elia is s
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>He reaches for his weapon. "You toy with me like a Chorus rat - but can you fight like one?" </DefaultText>
+      <DefaultText>Ele pega sua arma. "Você brinca comigo como um rato Chorus - mas você pode lutar como um?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"What are you really trying to accomplish here that I couldn't help in some way?"</DefaultText>
+      <DefaultText>"O que você está realmente tentando realizar aqui que eu não pude ajudar de alguma forma?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Are..." He opens his palms in incomprehension. "Are you that dense? Where do I even begin?" </DefaultText>
+      <DefaultText>"São ..." Ele abre as mãos em incompreensão. "Você é tão denso? Onde eu começo mesmo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"In no particular order..." He ticks each point off his fingers. "Liberate the country from [url=glossary:kyros]Kyros[/url], dispel the [url=glossary:edict]Edict[/url] of Storms, kill the last Regent, force the last of Ashe AND Nerat's forces as far from our borders as possible, and then put the rest to the sword. And while we're playing this little game, I'll add killing [url=glossary:kyros]Kyros[/url] to the list. How's that sound?"</DefaultText>
+      <DefaultText>"Em nenhuma ordem particular ..." Ele marca cada ponto dos dedos. "Libertar o país de [url=glossary:kyros]Kyros[/url], dissipar o [url=glossary:edict]Edict[/url] de tempestades, matar o último regente, forçar o último de Ashe e as forças de Nerat tão longe de nossas fronteiras quanto possível, e depois colocar o resto na espada. E enquanto estamos jogando este pequeno jogo, eu vou adicionar matança [url=glossary:kyros]Kyros[/url] à lista. Como está o som? "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"I've heard worse. Let me try a different approach." </DefaultText>
+      <DefaultText>"Eu já ouvi pior. Deixe-me tentar uma abordagem diferente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,27 +473,27 @@ He looks back to the men and women in position behind him. "Hear that! Elia is s
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"By all means, humor me! That cold breeze gusting from the Oldwalls is getting into my bones, and I could use the warmth of a good laugh." </DefaultText>
+      <DefaultText>"Por favor, humorize-me! Aquela brisa gelada vinda dos Oldwalls está entrando em meus ossos, e eu poderia usar o calor de uma boa risada".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Death is the only true peace. Come closer and allow me to demonstrate." He draws his weapon. </DefaultText>
+      <DefaultText>"A morte é a única paz verdadeira. Aproxime-se e permita que eu demonstre." Ele desenha sua arma.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>He glares back at you and crosses his arms, quiet and impassive.</DefaultText>
+      <DefaultText>Ele olha de volta para você e cruza os braços, quieto e impassível.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"I'm trying to end the [url=glossary:edict]Edict[/url] of Storms. We have similar goals."</DefaultText>
+      <DefaultText>"Estou tentando acabar com o [url=glossary:edict]Edict[/url] de Storms. Temos objetivos semelhantes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Is that right? Well, unless your goals also involve putting [url=glossary:kyros]Kyros[/url]' minions to the sword and setting fire to the Northern Empire, then we're not similar enough." He draws his weapon.</DefaultText>
+      <DefaultText>"Está certo? Bem, a menos que seus objetivos também envolvam colocar lacaios na espada e atear fogo ao Império do Norte, então não somos parecidos o bastante." Ele desenha sua arma.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

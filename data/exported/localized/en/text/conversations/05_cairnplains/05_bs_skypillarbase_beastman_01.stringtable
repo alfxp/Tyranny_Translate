@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_bs_skypillarbase_beastman_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Growl at Red-Fang, Fatebinder."</DefaultText>
+      <DefaultText>"Growl em Red-Fang, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Back off. Retreat with both feet."</DefaultText>
+      <DefaultText>"Afaste-se. Retire-se com os dois pés."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>The Beastman snarls.</DefaultText>
+      <DefaultText>O Homem-Besta rosna.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

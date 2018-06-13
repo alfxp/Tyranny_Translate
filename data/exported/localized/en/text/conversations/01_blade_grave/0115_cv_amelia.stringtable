@@ -1,189 +1,189 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\0115_cv_amelia</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>37</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Fatebinder, have you come up with anything?"</DefaultText>
+      <DefaultText>"Fatebinder, você inventou alguma coisa?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Abdicate your line. As Regent-mother, you have the authority. You must merely say the words."</DefaultText>
+      <DefaultText>"Abdique sua linha. Como mãe-regente, você tem a autoridade. Você deve simplesmente dizer as palavras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Hope reflects in her expression for the first time. "Is it truly as simple as that? A clerical formality to spare an innocent life?" She huffs as much in surprise as derision. </DefaultText>
+      <DefaultText>A esperança reflete em sua expressão pela primeira vez. "É realmente tão simples assim? Uma formalidade clerical para poupar uma vida inocente?" Ela bufa tanto de surpresa quanto de escárnio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"I, Amelia, formally abdicate my daughter's claim to the Regency of Stalwart - dissolving all ties, compacts, vassals and holdings. We forfeit all protections and advantages given by the ancient bloodline." She pauses. "Was that enough?"</DefaultText>
+      <DefaultText>"Eu, Amelia, formalmente abdico da reivindicação de minha filha à Regência de Stalwart - dissolvendo todos os laços, compactos, vassalos e propriedades. Perdemos todas as proteções e vantagens dadas pela antiga linhagem." Ela faz uma pausa. "Isso foi o suficiente?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>You feel a familiar sensation - the air growing hot and electric, before suddenly erupting in overwhelming waves of energy.</DefaultText>
+      <DefaultText>Você sente uma sensação familiar - o ar ficando quente e elétrico, antes de repentinamente explodir em ondas avassaladoras de energia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Perhaps there is a way to circumvent [url=glossary:kyros]Kyros[/url]' law. I must research the matter."</DefaultText>
+      <DefaultText>"Talvez haja uma maneira de contornar a lei. Eu devo pesquisar o assunto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"You might be on to something. There's a rich tradition of getting around these types of formalities, especially during a time of war." 
+      <DefaultText>"Você pode estar em algo. Há uma rica tradição de contornar esses tipos de formalidades, especialmente durante um período de guerra."
 
-"The only competent resources I would recommend are the [url=glossary:burning library]Burning Library[/url] and [url=glossary:tunon]Tunon[/url]'s court."</DefaultText>
+"Os únicos recursos competentes que eu recomendaria são os de [url=glossary:burning library]Burning Library[/url] e [url=glossary:tunon]Tunon[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"This seems unnecessary at best." Jagged Remedy grumbles to himself. "But I'll abide by it. We'll remain here until you return with answers, or change your mind." </DefaultText>
+      <DefaultText>"Isso parece desnecessário na melhor das hipóteses." Remedy Jagged remors resmunga para si mesmo. "Mas eu vou respeitar isso. Nós permaneceremos aqui até você retornar com respostas, ou mudar de idéia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"I dislike the uncertainty of this..." Mattias studies you with a thoughtful expression. "I guess I'll stay at Sentinel Stand until you come back with answers, or a change of heart."</DefaultText>
+      <DefaultText>"Eu não gosto da incerteza disso ..." Mattias estuda você com uma expressão pensativa. "Eu acho que vou ficar no Sentinel Stand até você voltar com respostas, ou uma mudança de coração."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Should we not enforce [url=glossary:kyros]Kyros[/url]' law rather than go around it?" Dimitris frowns. "Either way, I'll remain here with my men until you come back with a decision. I recommend you speak with General Ashe about the matter."</DefaultText>
+      <DefaultText>"Nós não deveríamos impor a lei [url=glossary:kyros]Kyros[/url] 'em vez de dar a volta?" Dimitris franze a testa. "De qualquer maneira, ficarei aqui com meus homens até você voltar com uma decisão. Eu recomendo que você fale com o general Ashe sobre o assunto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Thank you for looking into the matter. I'm sure that no answer could elude a Fatebinder of [url=glossary:tunon]Tunon[/url] for long. I'll stay here with my daughter - we have nowhere else to go, anyway."</DefaultText>
+      <DefaultText>"Obrigado por investigar o assunto. Tenho certeza de que nenhuma resposta poderia iludir um Fatebinder de [url=glossary:tunon]Tunon[/url] por muito tempo. Eu ficarei aqui com minha filha - não temos nenhum outro lugar para ir, de qualquer maneira."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"There is no other way. The child must die."</DefaultText>
+      <DefaultText>"Não há outro caminho. A criança deve morrer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"You will not have my daughter!" Amelia draws her weapon and lunges towards you.</DefaultText>
+      <DefaultText>"Você não terá minha filha!" Amelia pega sua arma e avança em sua direção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>You deftly step aside and grab her wrist as she passes, twisting the blade into her chest. Surprised, she delivers a hollow gasp as the air expels from her lungs. Before she even has time to realize what went wrong, you lower her warm corpse to the ground. </DefaultText>
+      <DefaultText>Você habilmente pisa de lado e agarra seu pulso quando ela passa, torcendo a lâmina em seu peito. Surpresa, ela solta um suspiro quando o ar expulsa de seus pulmões. Antes que ela tenha tempo de perceber o que deu errado, você abaixa seu cadáver quente no chão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Thank you for sparing my daughter, Fatebinder." Amelia offers you a warm smile.</DefaultText>
+      <DefaultText>"Obrigado por poupar minha filha, Fatebinder." Amelia oferece um sorriso caloroso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"I'm still looking, but I'll return."</DefaultText>
+      <DefaultText>"Eu ainda estou procurando, mas voltarei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"I see." Amelia regards you with cold stoicism. 
+      <DefaultText>"Entendo." Amelia te considera com estoicismo frio.
 
-The moment breaks as a shriek rises to her lips, and she lunges at you.</DefaultText>
+O momento se rompe quando um grito sobe até os lábios dela, e ela se lança em você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"I have an idea that could save your child."</DefaultText>
+      <DefaultText>"Eu tenho uma idéia que poderia salvar seu filho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Thank the Regents! Have at it, then. What's your idea?"</DefaultText>
+      <DefaultText>"Agradeça aos regentes! Faça isso, então. Qual é a sua ideia?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Abdicate your line. As Regent-mother, you have the authority. You must merely say the words."</DefaultText>
+      <DefaultText>"Abdique sua linha. Como mãe-regente, você tem a autoridade. Você deve simplesmente dizer as palavras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Silence descends upon the hall. For a moment, it seems as if the winds outside have halted their dance.</DefaultText>
+      <DefaultText>O silêncio desce no corredor. Por um momento, parece que os ventos do lado de fora pararam a dança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>A loud crash against the hall doors breaks the stillness. Outside, the storm begins to whip about furiously, sending dust and debris into the chamber. </DefaultText>
+      <DefaultText>Um barulho alto contra as portas do corredor quebra a quietude. Lá fora, a tempestade começa a bater furiosamente, enviando poeira e detritos para a câmara.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Tell me of the final days of the Stalwart campaign."</DefaultText>
+      <DefaultText>"Conte-me sobre os últimos dias da campanha de Stalwart".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"You were in danger, and we came to your aid... How many hundreds of Northerners did we lose to the storm, only to hear this?"
+      <DefaultText>"Você estava em perigo, e nós viemos em seu auxílio ... Quantas centenas de nortistas nós perdemos para a tempestade, só para ouvir isso?"
 
-Barik mutters to himself, seeming to have trouble pairing what he hears from what he knows.</DefaultText>
+Barik murmura para si mesmo, parecendo ter dificuldade em emparelhar o que ouve do que sabe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"They took my unit in a night ambush - killed our lookout and overwhelmed the rest of us before we could stage an organized counterattack. When they took me prisoner, I was the picture of disobedience the entire time, and paid back much of the Northern blood they had spilled." </DefaultText>
+      <DefaultText>"Eles pegaram minha unidade em uma emboscada noturna - mataram nosso olhar e nos oprimiram antes que pudéssemos encenar um contra-ataque organizado. Quando eles me fizeram prisioneira, eu era o retrato da desobediência o tempo todo, e paguei muito do Norte sangue que eles tinham derramado ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"They locked me up behind the walls of Sentinel Stand in isolation. I gave them no lack of trouble, so they left me to my cell. Straydus the Younger, the Regent's son, he visited almost every day to check in and make sure my every need was seen to."
+      <DefaultText>"Eles me trancaram por trás das paredes da Sentinela. Fiquei em isolamento. Eu não lhes dei falta de problemas, então eles me deixaram na minha cela. Straydus, o Jovem, filho do Regente, ele visitava quase todos os dias para fazer check-in e cada necessidade foi vista. "
 
-Her brow furrows. "In the legion, they teach you what to expect of the South. Barbarians, savages, rapists. I hadn't expected to find civility." </DefaultText>
+Sua testa franze. "Na legião, eles ensinam o que esperar do Sul. Bárbaros, selvagens, estupradores. Eu não esperava encontrar civilidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Shortly after, I heard an ironclad force assemble outside of the fortress. Had I a voice in the legion, I would have told them to pull back. I was being treated with dignity, and we suspected that [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] would come in short order... not that any of my father's simpletons would have listened." </DefaultText>
+      <DefaultText>"Pouco depois, ouvi uma força de ferro montar fora da fortaleza. Se eu tivesse uma voz na legião, eu teria dito a eles para puxar de volta. Eu estava sendo tratado com dignidade, e nós suspeitamos que seria em breve." ordem ... não que qualquer um dos simplórios do meu pai tivesse escutado. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"The Regent comforted me in my isolation. We had both lost the man we loved. And in no time at all, I realized that I was carrying his grandchild." 
+      <DefaultText>"O regente me confortou em meu isolamento. Nós dois perdemos o homem que amamos. E em pouco tempo, percebi que estava carregando o neto."
 
-She turns to you with a guarded look. "You know the rest." </DefaultText>
+Ela se vira para você com um olhar cauteloso. "Você sabe o resto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Go on."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"I've heard enough."</DefaultText>
+      <DefaultText>"Eu já ouvi o suficiente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Very well, then. If you have any ideas about how to handle our... our situation, then I'm open to them."</DefaultText>
+      <DefaultText>"Muito bem, então. Se você tem alguma idéia sobre como lidar com a nossa ... nossa situação, então eu estou aberto para eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"I continued to debate and banter with Straydus the Younger. He hated the North, and I the South, but beyond our prejudices we discovered more in common than we suspected... much more."
+      <DefaultText>"Eu continuei a debater e conversar com Straydus, o Jovem. Ele odiava o Norte e eu o Sul, mas além de nossos preconceitos descobrimos mais em comum do que suspeitávamos ... muito mais."
 
-"I later learned that he suffered wounds at [url=glossary:disfavored]Disfavored[/url] hands, and died in the field." She takes in a deep breath and shakes her head. "My Straydus... that was when I knew that the Archon of War had come for me at last."</DefaultText>
+"Mais tarde soube que ele sofreu ferimentos em [url=glossary:disfavored]Disfavored[/url] mãos e morreu no campo." Ela respira fundo e balança a cabeça. "Meu Straydus ... foi quando eu soube que o Arconte da Guerra tinha vindo para mim finalmente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"You were lucky. Some of us actually come from the Tiers, and have been around long enough to know better." </DefaultText>
+      <DefaultText>"Você teve sorte. Alguns de nós, na verdade, vêm dos Tiers, e estão por aí tempo suficiente para saber melhor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"If this works, I'll owe you more than I can possibly repay. Here. The [url=glossary:edict]Edict[/url] damaged this trinket, but you might still find it useful."</DefaultText>
+      <DefaultText>"Se isso funcionar, eu devo a você mais do que posso pagar. Aqui. O [url=glossary:edict]Edict[/url] danificou este trinket, mas você ainda pode achar útil."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,12 +193,12 @@ She turns to you with a guarded look. "You know the rest." </DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"What can I do for you?"</DefaultText>
+      <DefaultText>"O que posso fazer para você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Nothing for now. Farewell."</DefaultText>
+      <DefaultText>"Nada por enquanto. Adeus."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

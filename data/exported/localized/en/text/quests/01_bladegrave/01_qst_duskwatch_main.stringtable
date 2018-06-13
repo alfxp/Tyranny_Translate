@@ -1,127 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\01_bladegrave\01_qst_duskwatch_main</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>24</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Battered but [url=glossary:unbroken]Unbroken[/url]</DefaultText>
+      <DefaultText>Amassado, mas [url=glossary:unbroken]Unbroken[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Meet with Agathon at Duskwatch.</DefaultText>
+      <DefaultText>Reúna-se com o Agathon no Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Find the [url=glossary:unbroken]Unbroken[/url] patrol.</DefaultText>
+      <DefaultText>Encontre o [url=glossary:unbroken]Unbroken[/url] patrulha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Check on Callias.</DefaultText>
+      <DefaultText>Verifique no Callias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Defend the front gate.</DefaultText>
+      <DefaultText>Defenda o portão da frente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Investigate Sentinel Stand Keep.</DefaultText>
+      <DefaultText>Investigue o suporte do suporte da sentinela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Speak with the [url=glossary:unbroken]Unbroken[/url] scout.</DefaultText>
+      <DefaultText>Fale com o [url=glossary:unbroken]Unbroken[/url] scout.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Speak with Captain Agathon.</DefaultText>
+      <DefaultText>Fale com o capitão Agathon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>You have chosen to seek out the aid of the [url=glossary:unbroken]Unbroken[/url], one of the best fighting forces in the Tiers. Make contact with the rebels and do whatever is necessary to gain their trust and loyalty.</DefaultText>
+      <DefaultText>Você escolheu procurar o auxílio do [url=glossary:unbroken]Unbroken[/url], uma das melhores forças de combate nos Tiers. Faça contato com os rebeldes e faça o que for necessário para ganhar sua confiança e lealdade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Janos has offered you an introduction to Captain Agathon, acting commander of the Duskwatch fort. Travel there and speak with him and make your case for an alliance.</DefaultText>
+      <DefaultText>Janos lhe ofereceu uma introdução ao Capitão Agathon, comandante interino do Forte Duskwatch. Viaje até lá e fale com ele e defenda sua aliança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>A patrol party is late again. Search Duskwatch and find out what happened to them.</DefaultText>
+      <DefaultText>Uma festa de patrulha está atrasada novamente. Pesquise o Duskwatch e descubra o que aconteceu com eles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>You've discovered that the [url=glossary:disfavored]Disfavored[/url] are launching an assault on the Duskwatch fort to retrieve Callias. Return to the fort to thwart their plans.</DefaultText>
+      <DefaultText>Você descobriu que os [url=glossary:disfavored]Disfavored[/url] estão lançando um ataque ao forte Duskwatch para recuperar Callias. Volte ao forte para frustrar seus planos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10021</ID>
-      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] are attacking the front gate directly. Defend the Duskwatch fort.</DefaultText>
+      <DefaultText>Os [url=glossary:disfavored]Disfavored[/url] estão atacando o portão da frente diretamente. Defenda o forte do Vigia do Crepúsculo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10028</ID>
-      <DefaultText>Travel to the site of the [url=glossary:unbroken]Unbroken[/url]'s last major battle and see if there is a way to enter the [url=glossary:unbroken]Unbroken[/url] fortress and speak with any surviving Regents.</DefaultText>
+      <DefaultText>Viaje até o local da última grande batalha do [url=glossary:unbroken]Unbroken[/url] e veja se existe uma maneira de entrar na fortaleza e falar com qualquer Regente sobrevivente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10029</ID>
-      <DefaultText>An [url=glossary:unbroken]Unbroken[/url] scout observed your fight with the Bane at Sentinel Stand. He may know something useful about entering the Keep.</DefaultText>
+      <DefaultText>Um observador observou sua luta com o Bane no Stand da Sentinela. Ele pode saber algo útil sobre entrar na Fortaleza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10030</ID>
-      <DefaultText>With the threat of another [url=glossary:disfavored]Disfavored[/url] assault diminished, Captain Agathon can probably help you on your mission to recruit rebel forces. Speak with him in Duskwatch.</DefaultText>
+      <DefaultText>Com a ameaça de outro assalto diminuído, o Capitão Agathon provavelmente pode ajudá-lo em sua missão para recrutar forças rebeldes. Fale com ele em Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>You decided not to cooperate with Agathon.</DefaultText>
+      <DefaultText>Você decidiu não cooperar com o Agathon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>Agathon requires assistance to make sure Duskwatch Fort is secure.</DefaultText>
+      <DefaultText>O Agathon requer assistência para garantir que o Duskwatch Fort seja seguro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>Kill the [url=glossary:disfavored]Disfavored[/url] attempting to infiltrate the fort.</DefaultText>
+      <DefaultText>Mate o [url=glossary:disfavored]Disfavored[/url] tentando se infiltrar no forte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You've helped the [url=glossary:unbroken]Unbroken[/url] defend their base at Duskwatch.</DefaultText>
+      <DefaultText>Você ajudou o [url=glossary:unbroken]Unbroken[/url] defender sua base em Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>With your assistance, the [url=glossary:disfavored]Disfavored[/url] have taken over Duskwatch.</DefaultText>
+      <DefaultText>Com a sua ajuda, o [url=glossary:disfavored]Disfavored[/url] assumiu Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>You've killed all of the [url=glossary:unbroken]Unbroken[/url] and [url=glossary:disfavored]Disfavored[/url] forces at Duskwatch.</DefaultText>
+      <DefaultText>Você matou todos os [url=glossary:unbroken]Unbroken[/url] e [url=glossary:disfavored]Disfavored[/url] forças em Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>You've decided to forsake the rebel cause and take Duskwatch for yourself.</DefaultText>
+      <DefaultText>Você decidiu abandonar a causa rebelde e tomar Duskwatch por si mesmo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

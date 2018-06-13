@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_cv_isod_questdelivery</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>63</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"What's this now? A Fatebinder in [Plainsgate]? Tch."
+      <DefaultText>"O que é isso agora? Um Fatebinder em [Plainsgate]? Tch".
 
-The battle-scarred Fury looks you up and down, unimpressed. The he scratches the end of a dirty thumbnail along the pockmarked front of his throat in thought.
+A Fúria marcada pela batalha olha você de cima a baixo, sem se impressionar. Ele coça a ponta de uma unha suja ao longo da frente manchada de sua garganta em pensamento.
 
-"Since you're here, you might be interested in our little predicament."</DefaultText>
+"Desde que você está aqui, você pode estar interessado em nossa pequena situação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Tch. What a waste of a good Beastman."</DefaultText>
+      <DefaultText>"Tch. Que desperdício de um bom Homem-Besta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"What do you want?"</DefaultText>
+      <DefaultText>"O que você quer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Before you say more, allow me to warn you - the cost for wasting a Fatebinder's time is unimaginably steep."</DefaultText>
+      <DefaultText>"Antes de dizer mais, permita-me avisá-lo - o custo para desperdiçar o tempo de um Fatebinder é inimaginavelmente íngreme."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -35,19 +35,19 @@ The battle-scarred Fury looks you up and down, unimpressed. The he scratches the
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>He scoffs and fingers the puckered scar bisecting his throat.
+      <DefaultText>Ele zomba e aperta a cicatriz enrugada em sua garganta.
 
-"You have no idea the prices I've paid in this short, wretched life. The world must seem a pretty place to one who licks the heels of an Archon. But the rest of us are drowning in the blood and excrement of the dead, trying to pretend it's river water flooding our chests."</DefaultText>
+"Você não tem idéia dos preços que eu paguei nesta vida curta e miserável. O mundo deve parecer um lugar bonito para quem lambe os calcanhares de um Arconte. Mas o resto de nós está se afogando no sangue e excrementos dos mortos." , tentando fingir que a água do rio está inundando nossos peitos ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Hedgy, ain't you, boss?" He grunts. "Don't worry, our little scheme has potential for profit written all over it. You see that lumbering Beast they got chained there?" He juts his chin in gesture toward the crowd.</DefaultText>
+      <DefaultText>"Hedgy, não é você, chefe?" Ele resmunga. "Não se preocupe, nosso pequeno esquema tem potencial de lucro escrito por todo o lado. Você vê aquela pesada Fera que eles acorrentaram lá?" Ele levanta o queixo em gesto para a multidão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Yes. What about him?"</DefaultText>
+      <DefaultText>"Sim. E ele?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,86 +67,86 @@ The battle-scarred Fury looks you up and down, unimpressed. The he scratches the
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"A group of townsfolk caught the Beast a ways outside the city, night before last. Don't know whether he's done it or not, but they're wailing he ate one of their own. Now they want nothing but to string him up or skin him alive."</DefaultText>
+      <DefaultText>"Um grupo de habitantes da cidade pegou a Fera fora da cidade, noite antes. Não sei se ele fez isso ou não, mas eles estão lamentando que ele comeu um dos seus. Agora eles não querem nada, mas para amarrá-lo ou esfole-o vivo ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Course, the idiot won't talk - does nothing but snaps and drools and growls. So it won't be long 'till they've killed him. Tch. What a waste of a warrior." 
+      <DefaultText>"Claro, o idiota não vai falar - não faz nada além de estalar e babar e rosnar. Então não vai demorar muito até que eles o matem. Tch. Que desperdício de um guerreiro."
 
-Slowly, he runs a finger along the scar that mars the length of his throat. He peers intensely at you from behind the narrowed eye slits of his mask.
+Lentamente, ele corre um dedo ao longo da cicatriz que margeia o comprimento de sua garganta. Ele observa intensamente você por trás das fendas estreitas de seus olhos.
 
-"Unless, of course, someone were to intervene on his behalf." </DefaultText>
+"A menos, claro, que alguém intervenha em seu nome."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Why should I care about a Beastman's life or death?"</DefaultText>
+      <DefaultText>"Por que eu deveria me importar com a vida ou morte de um Homem-Besta?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"C'mon, boss, the [url=glossary:scarlet chorus]Scarlet Chorus[/url] are here to grow our ranks. You know why we'd want a Beastman, especially a killer like him."</DefaultText>
+      <DefaultText>"Vamos lá, chefe, o [url=glossary:scarlet chorus]Scarlet Chorus[/url] estão aqui para crescer nossas fileiras. Você sabe por que nós queremos um Beastman, especialmente um assassino como ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"So if you could convince the fine townsfolk of [Plainsgate] not to remove our feral friend's head from his shoulders, and hand him over to the Chorus instead, well, it'd be a huge help to the cause."</DefaultText>
+      <DefaultText>"Então, se você pudesse convencer os bons habitantes de [Plainsgate] a não remover a cabeça de nossa amiga feroz de seus ombros, e entregá-lo ao Coro, bem, seria uma grande ajuda para a causa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Then we already see eye to eye, boss. I'm doing what I can to keep the lynchers at bay, but there's no abating their anger. We won't be able to keep them off the Beast much longer."</DefaultText>
+      <DefaultText>"Então nós já vemos olho a olho, chefe. Eu estou fazendo o que posso para manter os linchadores à distância, mas não há como diminuir a raiva deles. Nós não seremos capazes de mantê-los fora da Besta por muito mais tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"I'll speak with the populace and sway them to our side."</DefaultText>
+      <DefaultText>"Vou falar com a população e levá-los para o nosso lado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Aces, boss." The Scarlet Fury fingers his neck scar thoughtfully. "Leave the rest to me. And, no, I won't forget to make it profitable."</DefaultText>
+      <DefaultText>"Ases, chefe." A Fúria Escarlate dedilha sua cicatriz no pescoço, pensativa. "Deixe o resto para mim. E, não, eu não vou esquecer de torná-lo lucrativo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Time is of the essence, boss. Hurry and snag the Beastman before he's no more good to us than a thick-furred rug."</DefaultText>
+      <DefaultText>"O tempo é da essência, chefe. Se apresse e prenda o Homem-Besta antes que ele não seja mais bom para nós do que um tapete de pele grossa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Thought you might see it my way, boss. Now, I hate to repeat myself, so listen good." </DefaultText>
+      <DefaultText>"Pensei que você poderia ver do meu jeito, chefe. Agora, eu odeio me repetir, então ouça bem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"A prisoner? What crime has he committed?"</DefaultText>
+      <DefaultText>"Um prisioneiro? Que crime ele cometeu?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Rest assured, I already plan to help the Beastman."</DefaultText>
+      <DefaultText>"Tenha certeza, eu já pretendo ajudar o Homem-Fera."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"We owe you, boss. You got us a real prize fighter with that Beastman."</DefaultText>
+      <DefaultText>"Nós lhe devemos, chefe. Você nos conseguiu um lutador de prêmio real com aquele Beastman."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Tch. Just had to go and free him, did you? Way to ruin the damn trap."</DefaultText>
+      <DefaultText>"Tch. Só tive que ir e libertá-lo, não é mesmo? Maneira de arruinar a maldita armadilha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"The Beast was to go to the Chorus, but now things have gotten out of hand."</DefaultText>
+      <DefaultText>"A Besta era para ir ao Coro, mas agora as coisas saíram do controle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"You're looking to recruit the Beastman into your ranks, aren't you?"</DefaultText>
+      <DefaultText>"Você está procurando recrutar o Homem-Besta em suas fileiras, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,118 +156,118 @@ Slowly, he runs a finger along the scar that mars the length of his throat. He p
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"I'm listening."</DefaultText>
+      <DefaultText>"Estou ouvindo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Good, 'cause you're no use to me dead." He utters a brusque laugh, but at the same time, he fingers the mottled scar on the front of his throat more vigorously. 
+      <DefaultText>"Bom, porque você não está acostumado a mim morto." Ele profere uma risada brusca, mas ao mesmo tempo, ele toca a cicatriz na parte da frente da garganta com mais vigor.
 
-He jerks a thumb toward the raucous crowd behind him. "You see that lumbering Beast they got chained there?"</DefaultText>
+Ele sacode o polegar em direção à multidão barulhenta atrás dele. "Você vê aquela Besta pesada que eles acorrentaram lá?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"A real clever one, aren't you? Good. Then that makes this easy. If you understand that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] is needing to grow our ranks, then you also must know why we'd want a Beastman - especially a killer like him."</DefaultText>
+      <DefaultText>"Um verdadeiro esperto, não é? Bom. Então isso torna isso fácil. Se você entende que o [url=glossary:scarlet chorus]Scarlet Chorus[/url] está precisando crescer nossas fileiras, então você também deve saber por que nós queremos um Beastman - especialmente um assassino como ele "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"I'm doing what I can to keep the lynchers at bay, but there's no abating their anger. We won't be able to keep them off the Beast much longer."</DefaultText>
+      <DefaultText>"Eu estou fazendo o que posso para manter os lincadores à distância, mas não há como diminuir a raiva deles. Nós não seremos capazes de mantê-los fora da Besta por muito mais tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"I'll settle this matter under my own discretion as a Fatebinder."</DefaultText>
+      <DefaultText>"Eu vou resolver este assunto sob meu próprio critério como um Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"I'll think about it."</DefaultText>
+      <DefaultText>"Vou pensar sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Aces, boss." The Scarlet Fury fingers his neck scar thoughtfully. "I'll leave it to you, then." </DefaultText>
+      <DefaultText>"Ases, chefe." A Fúria Escarlate dedilha sua cicatriz no pescoço, pensativa. "Eu vou deixar para você, então."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"You do that, boss. But don't think about it so long he winds up dead."</DefaultText>
+      <DefaultText>"Você faz isso, chefe. Mas não pense nisso por tanto tempo que ele acaba morto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"How much is the Beastman worth to you, exactly?"</DefaultText>
+      <DefaultText>"Quanto vale o Homem-Besta para você, exatamente?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"After the parts and the bait... maybe I could spare another string or two of rings."
+      <DefaultText>"Depois das partes e da isca ... talvez eu possa poupar outra corda ou dois anéis."
 
-"But I'll be wanting him in tip-top shape. Not another cut or bruise on him."</DefaultText>
+"Mas eu vou estar querendo ele em forma de ponta. Não outro corte ou machucado nele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"You have yourself a deal."</DefaultText>
+      <DefaultText>"Você tem um acordo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Aces, boss." The Scarlet Fury fingers his neck scar thoughtfully. "I'll leave it to you, then." </DefaultText>
+      <DefaultText>"Ases, chefe." A Fúria Escarlate dedilha sua cicatriz no pescoço, pensativa. "Eu vou deixar para você, então."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Come to reconsider, have you, now?"</DefaultText>
+      <DefaultText>"Venha para reconsiderar, você tem, agora?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"They say that Beast has a taste for human flesh."</DefaultText>
+      <DefaultText>"Eles dizem que a Besta tem um gosto pela carne humana."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>He twists an obscene hand gesture.
+      <DefaultText>Ele torce um gesto de mão obsceno.
 
-"How was that for a proper waste of your time, boss?"</DefaultText>
+"Como foi isso para um desperdício adequado do seu tempo, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"I don't need your rings. I only require that you speak well of me to any other Beastmen you encounter."</DefaultText>
+      <DefaultText>"Eu não preciso dos seus anéis. Eu só peço que você fale bem de mim com qualquer outro Homem-Besta que você encontrar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"That'll do. The Chorus has learned a thing or two about luring Beastmen into listening to us. Wrangle that Beast into our custody, and I'll sing your praises to every stone savage I lay eyes on from here to Cacophony." </DefaultText>
+      <DefaultText>"Isso vai acontecer. O Coro aprendeu uma coisa ou duas sobre atrair Homens-Bestas para nos ouvir. Disfarçar essa Besta em nossa custódia, e eu vou cantar seus louvores para cada selvagem de pedra que eu coloco os olhos daqui para Cacofonia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Keep your rings, but be sure to tell your friends in the [url=glossary:stone sea]Stone Sea[/url] about me."</DefaultText>
+      <DefaultText>"Mantenha seus anéis, mas não se esqueça de contar aos seus amigos no [url=glossary:stone sea]Stone Sea[/url] sobre mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Certainly, boss. Couldn't ask for a better price than that. Wrangle that Beast into our custody, and you can count on my mates knowing it was you that helped us out."</DefaultText>
+      <DefaultText>"Certamente, chefe. Não poderia pedir um preço melhor do que isso. Disfarce essa Besta em nossa custódia, e você pode contar com meus companheiros sabendo que foi você quem nos ajudou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Double it, and I'll see what I can do."</DefaultText>
+      <DefaultText>"Dobre, e eu vou ver o que posso fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Considering what a Beastman could do for our ranks, especially a killer like him... Well, maybe I could spare a string or two of rings?" </DefaultText>
+      <DefaultText>"Considerando o que um Homem-Besta poderia fazer por nossas fileiras, especialmente um assassino como ele ... Bem, talvez eu pudesse poupar uma ou duas cordas de anéis?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Tch. You cut a hard bargain, boss." The Fury scratches and picks at his neck scar crossly.</DefaultText>
+      <DefaultText>"Tch. Você cortou uma barganha difícil, chefe." A Fúria arranha e pega em seu pescoço uma cicatriz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -277,64 +277,64 @@ He jerks a thumb toward the raucous crowd behind him. "You see that lumbering Be
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>The Fury laughs, but at the same time, he fingers the mottled scar on the side of his throat. 
+      <DefaultText>A Fúria ri, mas ao mesmo tempo, ele enfia a cicatriz manchada no lado de sua garganta.
 
-He jerks a thumb toward the raucous, violent crowd behind him. "You see that lumbering Beast they got chained there?"</DefaultText>
+Ele sacode o polegar em direção à multidão estridente e violenta atrás dele. "Você vê aquela Besta pesada que eles acorrentaram lá?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"So, will you deal with the Beast?"</DefaultText>
+      <DefaultText>"Então, você vai lidar com a Besta?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"A group of townsfolk caught a Beastman outside the city night before last. Don't know whether he's done it or not, but they're screaming he ate one of their own. Now all they want is to string him up or skin him alive."</DefaultText>
+      <DefaultText>"Um grupo de habitantes da cidade pegou um Beastman do lado de fora da cidade noite passada. Não sei se ele fez isso ou não, mas eles estão gritando que ele comeu um dos seus. Agora tudo o que eles querem é amarrá-lo ou esfolar ele vivo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"So, will you deal with the Beast?"</DefaultText>
+      <DefaultText>"Então, você vai lidar com a Besta?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Get me that Beastman, or it'll be you I'm after next."</DefaultText>
+      <DefaultText>"Traga-me aquele Homem-Besta, ou será você depois de mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Even a Beast should recognize how they'd prosper in the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. The strong lead without apology, and the weak are culled. It's just the natural order."</DefaultText>
+      <DefaultText>"Mesmo uma fera deve reconhecer como eles prosperariam no [url=glossary:scarlet chorus]Scarlet Chorus[/url]. A liderança forte sem desculpas, e os fracos são abatidos. É apenas a ordem natural."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"All right, then. I'll talk, you listen." The Fury shrugs, hands dropping to his sides.</DefaultText>
+      <DefaultText>"Tudo bem, então. Eu vou falar, você escuta." A Fúria encolhe os ombros, as mãos caindo para os lados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Suppose that's for you to decide, isn't it?"</DefaultText>
+      <DefaultText>"Suponha que seja para você decidir, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Good, Beastie. Come along now. We're going hunting."</DefaultText>
+      <DefaultText>"Bom, Beastie. Venha agora. Vamos caçar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Back away from the Beastman! And stop throwing stones or I'll start throwing back!"</DefaultText>
+      <DefaultText>"Afaste-se do Beastman! E pare de jogar pedras ou eu vou começar a jogar de volta!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Is strange. Left-Claw would not so easily be caught, yep-yep. Packmate is weak but smart hunter. Does not stray close to human burrows."</DefaultText>
+      <DefaultText>"É estranho. A Garra Esquerda não seria tão facilmente capturada, sim-sim. O companheiro de matilha é fraco, mas um caçador esperto. Não se aproxima de tocas humanas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>The muscles in his neck visibly tense, but otherwise he does nothing to acknowledge the Beastwoman's claim. After a beat of silence, he scuffs a foot in the dirt and coughs to clear his throat.</DefaultText>
+      <DefaultText>Os músculos do pescoço dele visivelmente tensos, mas, por outro lado, ele não faz nada para reconhecer a afirmação da mulher-Besta. Depois de uma pausa de silêncio, ele afunda um pé na terra e tosse para limpar a garganta.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

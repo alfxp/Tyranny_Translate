@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_recruits\00_bs_spireupgrade_workers_02</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"You'd think some of these new recruits would watch their step around here. We already lost a few to a sudden gust of wind..."</DefaultText>
+      <DefaultText>"Você pensaria que alguns desses novos recrutas assistiriam seus passos por aqui. Nós já perdemos alguns para uma súbita rajada de vento ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hopefully that arsenal of artifacts you've been building can stand up to the Archons."</DefaultText>
+      <DefaultText>"Espero que o arsenal de artefatos que você construiu possa enfrentar os Arcontes".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"It looks the [url=glossary:burning library]Burning Library[/url] has stopped burning. Can't say I'll miss that burning heap of an eyesore from up here."</DefaultText>
+      <DefaultText>"Parece que o [url=glossary:burning library]Burning Library[/url] parou de queimar. Não posso dizer que vou sentir falta daquela queimação de uma monstruosidade daqui de cima."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"The skies are beginning to become a lot clearer."</DefaultText>
+      <DefaultText>"Os céus estão começando a ficar muito mais claros."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"The Tiers look quite peaceful from the clouds."</DefaultText>
+      <DefaultText>"As camadas parecem bastante pacíficas das nuvens."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"At your service, Fatebinder."</DefaultText>
+      <DefaultText>"Ao seu serviço, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"The [url=glossary:edict]Edict[/url] was terrible for the people of the [url=glossary:stone sea]Stone Sea[/url], but at night I could see this purple glow slowly pulse like a heart beat. It was quite beautiful."</DefaultText>
+      <DefaultText>"O [url=glossary:edict]Edict[/url] era terrível para as pessoas do [url=glossary:stone sea]Stone Sea[/url], mas à noite eu podia ver esse brilho roxo pulsar lentamente como um batimento cardíaco. Era muito bonito".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"With the right materials, we can forge just about anything for you."</DefaultText>
+      <DefaultText>"Com os materiais certos, podemos forjar qualquer coisa para você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Keep an eye on the two in the ring. They can take their training a little too seriously."</DefaultText>
+      <DefaultText>"Fique de olho nos dois no ringue. Eles podem levar seu treinamento um pouco a sério demais."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

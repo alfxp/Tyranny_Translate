@@ -1,102 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\factionquestlines\rebel\fq_rb_qst_stonesea</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>19</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Unlikely Allies</DefaultText>
+      <DefaultText>Aliados improváveis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Travel to Stone Down.</DefaultText>
+      <DefaultText>Viajar para Stone Down.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Travel to [Plainsgate].</DefaultText>
+      <DefaultText>Viajar para [Plainsgate].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Eliminate the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <DefaultText>Elimine o [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Speak with the Beastman leader.</DefaultText>
+      <DefaultText>Fale com o líder do Homem-Besta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Eliminate the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <DefaultText>Elimine o [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Speak to the Earthshaker representative.</DefaultText>
+      <DefaultText>Fale com o representante do Earthshaker.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Your cause is doomed without powerful allies. Seek out the Beastmen of the [url=glossary:stonestalkers]Stonestalkers[/url] tribe in the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <DefaultText>Sua causa está condenada sem aliados poderosos. Procure os homens-fera da tribo [url=glossary:stonestalkers]Stonestalkers[/url] no [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Travel to Stone Down in the [url=glossary:stone sea]Stone Sea[/url] to make contact with the [url=glossary:stonestalkers]Stonestalkers[/url] tribe.</DefaultText>
+      <DefaultText>Viaje a Stone Down no [url=glossary:stone sea]Stone Sea[/url] para fazer contato com o [url=glossary:stonestalkers]Stonestalkers[/url] tribo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Travel to [Plainsgate] to make contact with the Earthshaker representative.</DefaultText>
+      <DefaultText>Viaje para [Plainsgate] para fazer contato com o representante do Earthshaker.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] forces stand between you and the [url=glossary:stonestalkers]Stonestalkers[/url] in Stone Down. Remove them.</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] forças estão entre você eo [url=glossary:stonestalkers]Stonestalkers[/url] em Stone Down. Remova eles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Find the [url=glossary:stonestalker]Stonestalker[/url] leader at Stone Down and pursue an alliance with the Beastmen.</DefaultText>
+      <DefaultText>Encontre o líder [url=glossary:stonestalker]Stonestalker[/url] em Stone Down e prossiga uma aliança com os Beastmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] forces stand between you and the Earthshaker representative in [Plainsgate]. Remove them.</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] forças estão entre você e o representante do Earthshaker em [Plainsgate]. Remova eles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Now that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] are all dead, speak to the Earthshaker representative in [Plainsgate].</DefaultText>
+      <DefaultText>Agora que os [url=glossary:scarlet chorus]Scarlet Chorus[/url] estão todos mortos, fale com o representante do Earthshaker em [Plainsgate].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You have decided to take action against your allies and will no longer be able to gain their trust.</DefaultText>
+      <DefaultText>Você decidiu agir contra seus aliados e não poderá mais ganhar sua confiança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>You made contact with the leader of the [url=glossary:stonestalkers]Stonestalkers[/url], Hundred-Blood.</DefaultText>
+      <DefaultText>Você fez contato com o líder do [url=glossary:stonestalkers]Stonestalkers[/url], Cem-Sangue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>You made contact with the Earthshaker representative in [Plainsgate].</DefaultText>
+      <DefaultText>Você fez contato com o representante do Earthshaker em [Plainsgate].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>Your cause is doomed without powerful allies. Seek out the Earthshakers in the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <DefaultText>Sua causa está condenada sem aliados poderosos. Procure os Earthshakers no [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_oldwall_ext_scourges</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Scourges are upon us - do not underestimate them!"</DefaultText>
+      <DefaultText>"Os flagelos estão sobre nós - não os subestimem!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"I see no neck or eyes... where do I aim?"</DefaultText>
+      <DefaultText>"Não vejo pescoço nem olhos ... para onde eu aponto?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Can hear Bane's shrieking song. Is time to hunt."</DefaultText>
+      <DefaultText>"Pode ouvir a música estridente de Bane. É hora de caçar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ready yourselves, there are Scourges about."</DefaultText>
+      <DefaultText>"Pronto, há flagelos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Scourges! Just our luck..."</DefaultText>
+      <DefaultText>"Flagelos! Apenas a nossa sorte ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Bane outside the Oldwalls! This can't be a good sign..."</DefaultText>
+      <DefaultText>"Bane fora dos Oldwalls! Isso não pode ser um bom sinal ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Bank Node 12</DefaultText>
+      <DefaultText>Nó do banco 12</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

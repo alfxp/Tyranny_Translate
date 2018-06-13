@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_edgeringruins_starting_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bem-vindo ao Ruin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ajude a batalha [url=glossary:disfavored]Disfavored[/url] a [url=glossary:vendrien guard]Vendrien Guard[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Derrote os rebeldes restantes no acampamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Você chegou nos arredores de [url=glossary:vendrien's well]Vendrien's Well[/url], nos restos antigos do Forte Edgering. Assim como um dos Corredores Crescentes estava fazendo com que você se apressasse com a situação, o [url=glossary:vendrien guard]Vendrien Guard[/url] atacou. Ajude [url=glossary:kyros]Kyros[/url] 'forças contra o assalto rebelde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>O [url=glossary:vendrien guard]Vendrien Guard[/url] rompeu as defesas do forte, e agora faz o seu caminho em direção à entrada do vale. Siga-os e despache o máximo que puder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você lutou o seu caminho através do [url=glossary:vendrien guard]Vendrien Guard[/url] tentando fugir do vale. Derrote as forças inimigas restantes que continuam pressionando o ataque no acampamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você ajudou as forças de [url=glossary:kyros]Kyros[/url] a defender o campo das Ruínas Edgerantes de um ataque rebelde, salvando o Comandante Drastus no processo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você ajudou as forças do [url=glossary:kyros]Kyros[/url] a defenderem o campo das Ruínas Edgerantes de um ataque rebelde, mas você não conseguiu salvar o Comandante Drastus.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\06_cv_sc_fiftheye_act3_start</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>10</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Archon, Fatebinder!" The Fifth Eye dispels his words like a cloud of gnats. "Whatever you call yourself. Our agents have infiltrated the outskirts of Iron Hearth. Ashe and his troops are as exposed as a raw nerve!"
+      <DefaultText>"Arconte, Fatebinder!" O Quinto Olho dissipa suas palavras como uma nuvem de mosquitos. "Tudo o que você se chama. Nossos agentes se infiltraram nos arredores de Iron Hearth. Ashe e suas tropas estão tão expostos quanto um nervo cru!"
 
-"Before you make your final assault, [url=glossary:the voices of nerat]the Voices of Nerat[/url] wants to discuss that stunt you pulled, yes? People are beginning to talk, and the Archon doesn't want there to be any... misunderstandings." </DefaultText>
+"Antes de você fazer o seu último assalto, [url=glossary:the voices of nerat]the Voices of Nerat[/url] quer discutir o truque que você fez, sim? As pessoas estão começando a falar, e o Arconte não quer que haja algum ... mal-entendido".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Trembling with laughter, the Fifth Eye points at you. "Delightful Archon, he knows already! I will keep tempers as a controlled burn here at [url=glossary:vendrien's well]Vendrien's Well[/url]. Please send the Archon my regards." </DefaultText>
+      <DefaultText>Tremendo de rir, o Quinto Olho aponta para você. "Delightful Archon, ele já sabe! Vou manter os ânimos como uma queima controlada aqui em [url=glossary:vendrien's well]Vendrien's Well[/url]. Por favor, envie o Archon meus cumprimentos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"You're to meet the Archon at Cacophony before we hurl our forces at Iron Hearth. I know your warlike ways compel you to do otherwise, but we really must insist." </DefaultText>
+      <DefaultText>"Você deve conhecer o Arconte na Cacofonia antes de lançar nossas forças na Casa de Ferro. Eu sei que seus modos de guerra o obrigam a fazer o contrário, mas nós realmente devemos insistir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Very well. Tell the Voices I'll meet him at Cacophony."</DefaultText>
+      <DefaultText>"Muito bem. Diga às vozes que eu vou encontrá-lo na cacofonia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"I am not his errand boy."</DefaultText>
+      <DefaultText>"Eu não sou seu garoto de recados."</DefaultText>
       <FemaleText>"I am not his errand girl." </FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Perhaps later I will pay him a visit."</DefaultText>
+      <DefaultText>"Talvez mais tarde eu faça uma visita a ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"And Fatebinder..." His piercing, reedy tone subsides, for a moment sounding almost normal. "Remember who you're going to meet. The Archon of Secrets loves nothing more than a challenge, but he also loves to win." He tilts his head to the side in confusion, and then shrugs in a casual manner. The Fifth Eye waves you off with an enthusiastic flap of his fingers. </DefaultText>
+      <DefaultText>"E Fatebinder ..." Seu tom agudo e agudo desaparece, por um momento soando quase normal. "Lembre-se de quem você vai encontrar. O Arconte dos Segredos ama nada mais que um desafio, mas ele também adora vencer." Ele inclina a cabeça para o lado em confusão e, em seguida, encolhe os ombros de maneira casual. O Quinto Olho te acena com uma ponta entusiasta de seus dedos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ooh, retract your claws, terrifying one! I am but a messenger and tool. Your anger is wasted on me, but take care that you don't bring it to Cacophony."</DefaultText>
+      <DefaultText>"Ooh, retraia suas garras, aterrorizante! Eu sou apenas um mensageiro e uma ferramenta. Sua raiva é desperdiçada em mim, mas tome cuidado para que você não a leve para a Cacofonia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"He will be overjoyed. You know how he loves to entertain company, even in these trying times."</DefaultText>
+      <DefaultText>"Ele ficará muito feliz. Você sabe como ele adora se entreter, mesmo nesses tempos difíceis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Be off with you."</DefaultText>
+      <DefaultText>"Estou desligada de voce."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

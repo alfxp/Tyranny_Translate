@@ -1,386 +1,386 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_cv_adjudication_horde_oldwalls</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>75</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Kind of you to stop and chat. I'm in a sticky situation, and no one in my gang is alive or around to help me out."</DefaultText>
+      <DefaultText>"Muito amável de você parar e conversar. Eu estou em uma situação complicada, e ninguém na minha gangue está vivo ou ao redor para me ajudar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Thanks for coming back around. Any chance of lending a hand with my case? The [url=glossary:disfavored]Disfavored[/url] aren't what you'd call compromising folk."</DefaultText>
+      <DefaultText>"Obrigado por ter voltado. Qualquer chance de dar uma mão com o meu caso? O [url=glossary:disfavored]Disfavored[/url] não é o que você chamaria de gente comprometedora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"I told you the details about my little problem with the [url=glossary:disfavored]Disfavored[/url]. I don't suppose you've got a ruling handy?"</DefaultText>
+      <DefaultText>"Eu te disse os detalhes sobre o meu pequeno problema com o [url=glossary:disfavored]Disfavored[/url]. Eu não suponho que você tenha uma decisão à mão?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Fatebinder, can I have a word?"</DefaultText>
+      <DefaultText>"Fatebinder, posso ter uma palavra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"I'll be the judge of that. Tell me of your problem, soldier."</DefaultText>
+      <DefaultText>"Eu serei o juiz disso. Conte-me sobre o seu problema, soldado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Quite right. Farewell."</DefaultText>
+      <DefaultText>"Muito bem. Adeus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Thanks for hearing me out. The [url=glossary:disfavored]Disfavored[/url] aren't keen on conversation, otherwise I wouldn't be here. It's impossible to get a word in edgewise." She glares at her captor.</DefaultText>
+      <DefaultText>"Obrigado por me ouvir. Os [url=glossary:disfavored]Disfavored[/url] não estão interessados ​​em conversas, caso contrário eu não estaria aqui. É impossível obter uma palavra no edgewise". Ela olha para o seu captor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Stop wasting the Fatebinder's time! He has better things to do than listen to some criminal's mewling."</DefaultText>
+      <DefaultText>"Pare de desperdiçar o tempo do Fatebinder! Ele tem coisas melhores para fazer do que ouvir o miado de um criminoso."</DefaultText>
       <FemaleText>"Stop wasting the Fatebinder's time! She has better things to do than listen to some criminal's mewling."</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Soldiers caught me outside a breach in the Oldwalls. That's it. I wasn't inside, I hadn't stuck my toe through the threshold, and I wasn't dancing with any Bane. I have a healthy relationship with self-preservation."</DefaultText>
+      <DefaultText>"Soldados me pegaram do lado de fora de uma brecha na Oldwalls. É isso aí. Eu não estava dentro, eu não tinha colocado meu dedo no limiar e não estava dançando com nenhum Bane. Eu tenho uma relação saudável com a autopreservação. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Then why were you arrested?"</DefaultText>
+      <DefaultText>"Então por que você foi preso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"I'd rather not handle this right now."</DefaultText>
+      <DefaultText>"Eu prefiro não lidar com isso agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"I'm ready to make my judgment."</DefaultText>
+      <DefaultText>"Estou pronto para fazer o meu julgamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"You're only hearing one side of the story. Fatebinder. Our scouts observed this wretch readying to enter the Oldwalls. Her account is flawed, her guilt witnessed by multiple trustworthy Northerners." The soldier makes a point of standing extra straight when he addresses you.</DefaultText>
+      <DefaultText>"Você só está ouvindo um lado da história. Fatebinder. Nossos batedores observaram esse desgraçado preparando-se para entrar na Oldwalls. Sua conta é falha, sua culpa testemunhada por vários nortistas confiáveis." O soldado faz questão de ficar em linha reta quando ele se dirige a você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"I'm sorry, is 'readying to enter' the best you have? Because I could just as easily argue that you're 'readying to get knifed between your shoulder blades,' but it doesn't count for shit until I see blood and bronze."
+      <DefaultText>"Me desculpe, está 'aprontando para entrar' o melhor que você tem? Porque eu poderia facilmente argumentar que você está 'preparado para ser esfaqueado entre suas omoplatas', mas isso não conta nada até eu ver sangue e bronze ".
 
-"I didn't go into the Oldwalls. Case closed." </DefaultText>
+"Eu não entrei no Oldwalls. Caso encerrado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"I don't trust your testimony. I find you guilty."</DefaultText>
+      <DefaultText>"Eu não confio em seu testemunho. Eu te considero culpado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"What was your gang doing in the Oldwalls?"</DefaultText>
+      <DefaultText>"O que sua gangue estava fazendo nos Oldwalls?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"So you had no interest in entering the Oldwalls?"</DefaultText>
+      <DefaultText>"Então você não tinha interesse em entrar nos Oldwalls?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"What were you doing outside of the Oldwalls?"</DefaultText>
+      <DefaultText>"O que você estava fazendo fora dos Oldwalls?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Before I adjudicate on this matter, I need your mutual cooperation."</DefaultText>
+      <DefaultText>"Antes de julgar este assunto, preciso da sua cooperação mútua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"At the very least, the evidence is insufficient to prove the charges. You're free to go."</DefaultText>
+      <DefaultText>"No mínimo, a evidência é insuficiente para provar as acusações. Você está livre para ir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"I'll stand by your decision. It couldn't land me anywhere worse than this."</DefaultText>
+      <DefaultText>"Eu continuarei com sua decisão. Não poderia me colocar em qualquer lugar pior do que isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"If you ask me, this prisoner has already been tried and sentenced, but if this little game will silence her caterwauling, then be my guest."</DefaultText>
+      <DefaultText>"Se você me perguntar, este prisioneiro já foi julgado e condenado, mas se esse joguinho vai silenciá-la, então seja meu convidado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Let's have it, then. I hope you got everything you needed."</DefaultText>
+      <DefaultText>"Vamos, então. Espero que você tenha tudo de que precisava."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"If you weren't in the Oldwalls, you weren't in the Oldwalls. I rule in your favor."</DefaultText>
+      <DefaultText>"Se você não estivesse nos Oldwalls, você não estava nos Oldwalls. Eu governo a seu favor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"On second thought, let me return to my previous questions."</DefaultText>
+      <DefaultText>"Com um segundo pensamento, deixe-me retornar às minhas perguntas anteriores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Don't keep me in suspense, Fatebinder!"</DefaultText>
+      <DefaultText>"Não me deixe em suspense, Fatebinder!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"My gang went inside, as I tried to tell the [url=glossary:disfavored]Disfavored[/url] clods a hundred times over. I shouted myself raw trying to get them back out, but the gang was having none of it."</DefaultText>
+      <DefaultText>"Minha gangue entrou, enquanto eu tentava dizer aos [url=glossary:disfavored]Disfavored[/url] torrões centenas de vezes. Eu gritei para mim tentando pegá-los de volta, mas a gangue não estava tendo nada disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Our leader discovered the breach and got himself excited over the chance of finding treasure. Try as I might, I couldn't talk him out of it."</DefaultText>
+      <DefaultText>"Nosso líder descobriu a brecha e se empolgou com a chance de encontrar um tesouro. Por mais que tentasse, não conseguia convencê-lo disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Soldier, can you speak to this defense?"</DefaultText>
+      <DefaultText>"Soldado, você pode falar com essa defesa?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Back to my previous questions."</DefaultText>
+      <DefaultText>"De volta às minhas perguntas anteriores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Go on."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"I wasn't there, of course. But I'm familiar with the arrest record."</DefaultText>
+      <DefaultText>"Eu não estava lá, é claro. Mas eu estou familiarizado com o registro de prisão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"There was no gang - just a lone opportunist out to make her fortune breaking [url=glossary:kyros]Kyros[/url]' laws. The scouts could tell just by looking at her that she was headed for the breach."
+      <DefaultText>"Não havia nenhuma gangue - apenas uma oportunista solitária para fazer sua fortuna quebrar as leis. Os batedores poderiam dizer apenas olhando para ela que ela estava indo para a brecha."
 
-"She's a fiery one. Put up quite a fight when they took her in custody. I have no reason to doubt the charges."</DefaultText>
+"Ela é feroz. Coloca uma grande briga quando eles a pegaram sob custódia. Não tenho razão para duvidar das acusações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Never. I grew up in the Tiers. Even we knew better than to go inside the Oldwalls - if not because of [url=glossary:kyros]Kyros[/url]' law, because the things lurking inside were like to eat us." </DefaultText>
+      <DefaultText>"Nunca. Eu cresci no Tiers. Mesmo nós sabíamos melhor do que ir para dentro do Oldwalls - se não por causa da lei, porque as coisas que espreitam por dentro eram como nos comer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"You're... sure about that? Because I can't help but feel we haven't covered a lot of territory."</DefaultText>
+      <DefaultText>"Você tem certeza sobre isso? Porque eu não posso ajudar, mas sinto que não cobrimos muito território."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Causing trouble. Looting. No more or less than what gangs do."</DefaultText>
+      <DefaultText>"Causando problemas. Saques. Nada mais ou menos do que as gangues fazem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Our boss was obsessed with holding his position, which is healthy when you're in the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. When he came to the conclusion that the Oldwalls might have some powerful artifacts, he resolved himself to find one at all costs."</DefaultText>
+      <DefaultText>"Nosso chefe estava obcecado em manter sua posição, o que é saudável quando você está no [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Quando ele chegou à conclusão de que o Oldwalls poderia ter alguns artefatos poderosos, ele resolveu encontrar um a todo custo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Funny to see a guy so wrapped up in survival trying to get himself killed."</DefaultText>
+      <DefaultText>"Engraçado ver um cara tão envolvido em sobrevivência tentando ser morto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Any idea where your gang is now?"</DefaultText>
+      <DefaultText>"Alguma idéia de onde sua gangue está agora?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"I never saw them make it out of the Oldwalls, so either they did... or they didn't. My money's on the latter."</DefaultText>
+      <DefaultText>"Eu nunca os vi saindo da Oldwall, então eles fizeram ... ou não fizeram. Meu dinheiro é sobre o último."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"What's a favorable ruling worth to you?"</DefaultText>
+      <DefaultText>"O que é uma decisão favorável que vale a pena para você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>She snorts. "I'd love to help you there, but the [url=glossary:disfavored]Disfavored[/url] took everything I had. Pity, I had a mountain of rings that I would have split. You can thank our mutual friend over there." She nods to the Stone Shield.</DefaultText>
+      <DefaultText>Ela bufa. "Eu adoraria ajudar você lá, mas o [url=glossary:disfavored]Disfavored[/url] levou tudo que eu tinha. Pena, eu tinha uma montanha de anéis que eu teria dividido. Você pode agradecer ao nosso amigo em comum por lá." Ela acena para o Escudo de Pedra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"The young lady was captured with some rusted weapons and a pittance of rings. I would hardly call that a mountain."</DefaultText>
+      <DefaultText>"A jovem foi capturada com algumas armas enferrujadas e uma ninharia de anéis. Eu dificilmente chamaria isso de montanha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"You have your story, I have mine."</DefaultText>
+      <DefaultText>"Você tem sua história, eu tenho a minha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Is this a fucking joke? Because I'm not laughing!"</DefaultText>
+      <DefaultText>"Isso é uma porra de piada? Porque eu não estou rindo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"I'll just bet you're trying to curry favor with the [url=glossary:disfavored]Disfavored[/url], and I'm sitting in the wrong place at the wrong time. Well, I'm no one's bargaining chip! Do you hear me?"</DefaultText>
+      <DefaultText>"Eu só aposto que você está tentando agradecer com o [url=glossary:disfavored]Disfavored[/url], e eu estou sentado no lugar errado na hora errada. Bem, eu não sou o chip de barganha de ninguém! Você está me ouvindo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' knuckles! You babble loud enough to topple a Spire! Fatebinder, thank you for your time."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] 'knuckles! Você balbucia alto o suficiente para derrubar um Spire! Fatebinder, obrigado pelo seu tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Tell me your problem from the beginning."</DefaultText>
+      <DefaultText>"Diga-me o seu problema desde o começo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Finally, someone who listens to reason! I won't forget it, Fatebinder. You're an ally to falsely-accused treasure hunters everywhere."</DefaultText>
+      <DefaultText>"Finalmente, alguém que ouve a razão! Eu não vou esquecer isso, Fatebinder. Você é um aliado para caçadores de tesouros falsamente acusados ​​em todos os lugares."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"This goes against my orders and my reason, but I cannot argue the ruling of [url=glossary:tunon]Tunon[/url]'s agent.  I'll let you go. Try and stay out of trouble."</DefaultText>
+      <DefaultText>"Isso vai contra minhas ordens e minha razão, mas eu não posso discutir a decisão do agente do [url=glossary:tunon]Tunon[/url]. Eu vou deixar você ir. Tente e fique longe de problemas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"I'll stay out of the Oldwalls, but that's all I can promise."</DefaultText>
+      <DefaultText>"Eu vou ficar fora do Oldwalls, mas isso é tudo que posso prometer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Shrewd, Fatebinder. Very shrewd. I think you'll do just fine."</DefaultText>
+      <DefaultText>"Astuto, Fatebinder. Muito perspicaz. Acho que você vai se sair bem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Script Node 54</DefaultText>
+      <DefaultText>Nó de script 54</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Bank Node 56</DefaultText>
+      <DefaultText>Nó do banco 56</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"This camp smells like a row of sweaty asses."</DefaultText>
+      <DefaultText>"Este acampamento cheira como uma fileira de bundas suadas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"He's standing too close, right?"</DefaultText>
+      <DefaultText>"Ele está parado perto demais, certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"On second thought, I'm not interested in hearing about this."</DefaultText>
+      <DefaultText>"Com um segundo pensamento, não estou interessado em ouvir sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"If they made it out, they aren't wasting their breath trying to find me. So fuck them." </DefaultText>
+      <DefaultText>"Se eles conseguiram sair, eles não estão perdendo o fôlego tentando me encontrar. Então foda-se eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Whatever you can find in the shadow of those ruins, it's not worth the risk."</DefaultText>
+      <DefaultText>"Tudo o que você pode encontrar na sombra dessas ruínas, não vale a pena o risco."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Yes, I'm ready."</DefaultText>
+      <DefaultText>"Sim estou pronto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Let me go back to my questions, then."</DefaultText>
+      <DefaultText>"Deixe-me voltar às minhas perguntas, então."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"By all means, ask away."</DefaultText>
+      <DefaultText>"Por todos os meios, pergunte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Typical behavior from someone who isn't confident in their leadership. Makes for a nice self-fulfilling prophecy when their own gang takes them down."</DefaultText>
+      <DefaultText>"Comportamento típico de alguém que não está confiante em sua liderança. Faz uma profecia auto-realizável quando sua própria gangue os derruba."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"See? She understands." Fox Trick bows to Verse.</DefaultText>
+      <DefaultText>"Veja, ela entende." O truque da raposa curva-se ao verso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"I like the attitude. If I had a mind to recruit, she would be my second or third."</DefaultText>
+      <DefaultText>"Eu gosto da atitude. Se eu tivesse uma mente para recrutar, ela seria minha segunda ou terceira."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Did your gang cause the breach in the Oldwalls?"</DefaultText>
+      <DefaultText>"Sua gangue causou a brecha nos Oldwalls?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"What - are you kidding me? It would either take incredible force or incredible magic to bash through that ancient barrier. We had neither at our disposal."</DefaultText>
+      <DefaultText>"O que - você está brincando comigo? Ou seria preciso uma força incrível ou uma magia incrível para derrubar essa antiga barreira. Nós não tínhamos à disposição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Either one of [url=glossary:kyros]Kyros[/url]' Edicts or some local mage caused the breach. Whatever ruling you make, don't pin that on me."</DefaultText>
+      <DefaultText>"Qualquer um dos [url=glossary:kyros]Kyros[/url] 'Edicts ou algum mago local causou a violação. Qualquer que seja a decisão que você fizer, não fixe isso em mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"I'm inclined to agree. Don't make the mistake of giving this one too much credit." </DefaultText>
+      <DefaultText>"Estou inclinado a concordar. Não cometa o erro de dar crédito demais a este."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Whether guilty of this or some other atrocity, it makes no difference. She belongs in chains." </DefaultText>
+      <DefaultText>"Se culpado desta ou de alguma outra atrocidade, não faz diferença. Ela pertence em cadeias."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Stay out of trouble. The Chorus needs competent fighters like you." </DefaultText>
+      <DefaultText>"Fique longe de problemas. O coro precisa de lutadores competentes como você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"I'm afraid that trouble finds me more often than not, but yours is the voice of experience, Scarlet Fury." </DefaultText>
+      <DefaultText>"Receio que esse problema me encontre com mais frequência do que não, mas a sua é a voz da experiência, Scarlet Fury."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Legal technicalities are my favorite kind. Go rejoin the war effort with a new gang, recruit. Start your own if you have a mind to. That's an order." </DefaultText>
+      <DefaultText>"Técnicos legais são o meu tipo favorito. Vá se juntar ao esforço de guerra com uma nova gangue, recrute. Comece o seu próprio se você tiver uma mente para. Isso é uma ordem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Yes ma'am! If you were gathering a force, I'd kill my way into your good graces. Pity I have to settle for less." </DefaultText>
+      <DefaultText>"Sim senhora! Se você estivesse reunindo uma força, eu mataria o meu caminho em suas boas graças. Pena que eu tenha que me contentar com menos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"I won't soon forget how you did right by me, Fatebinder."</DefaultText>
+      <DefaultText>"Eu não vou esquecer tão cedo como você fez por mim, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

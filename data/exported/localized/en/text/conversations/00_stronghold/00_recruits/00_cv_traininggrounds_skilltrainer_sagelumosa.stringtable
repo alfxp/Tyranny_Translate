@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_recruits\00_cv_traininggrounds_skilltrainer_sagelumosa</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hello, Fatebinder. A fine day for some experiments, wouldn't you say?"</DefaultText>
+      <DefaultText>"Olá, Fatebinder. Um belo dia para alguns experimentos, você não diria?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>She turns to give you her full attention, her smile broad and energetic. “Fatebinder! I may be here to offer my knowledge, but I shall forever be a student. Unfortunate results, but truly fascinating, wouldn’t you agree? I hope you won’t mind the occasional experiments. Of course, I’m here to provide you with whatever arcane knowledge you seek.”</DefaultText>
+      <DefaultText>Ela se vira para lhe dar toda a atenção, seu sorriso largo e enérgico. “Fatebinder! Eu posso estar aqui para oferecer meu conhecimento, mas sempre serei um estudante. Resultados infelizes, mas realmente fascinantes, você não concorda? Espero que você não se importe com os experimentos ocasionais. É claro que estou aqui para lhe fornecer qualquer conhecimento arcano que você procure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"I'd like to train."</DefaultText>
+      <DefaultText>"Eu gostaria de treinar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,47 +26,47 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>She turns to give you her full attention, apologetic in tone. “Forgive me, Fatebinder! I don’t mean to make a mess of this place. I’ll admit, my curiosity is a little hard to control sometimes, but I promise not to waste your time or make too much of a mess up here. I know you haven’t had much love for my fellow Sages, but I’ll try my best to change that. Whatever arcane knowledge you seek, I will provide.”</DefaultText>
+      <DefaultText>Ela se vira para lhe dar toda a sua atenção, em tom de desculpa. “Perdoe-me, Fatebinder! Eu não quero estragar esse lugar. Eu admito, minha curiosidade é um pouco difícil de controlar às vezes, mas eu prometo não perder seu tempo ou fazer muita confusão aqui. Eu sei que você não tem muito amor pelos meus companheiros sábios, mas vou tentar o meu melhor para mudar isso. Qualquer conhecimento arcano que você busque, eu providenciarei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Electricity dances across the [url=glossary:sage]Sage[/url]'s fingertips. She looks mesmerized by its motion, but quickly extinguishes it as you approach. “Yes, Fatebinder? What can I do for you?”</DefaultText>
+      <DefaultText>A eletricidade dança pelas pontas dos dedos do [url=glossary:sage]Sage[/url]. Ela parece hipnotizada por seu movimento, mas rapidamente a extingue quando você se aproxima. “Sim, Fatebinder? O que posso fazer para você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>The sage before you is distracted, half-muttering to herself while clutching the half-burnt remains of a scroll. Her hands are in motion, tracing the curves of some unknown rune. You suddenly hear the high-pitched cry of a carrier raven as it plummets to the ground, its feathers completely burnt away.</DefaultText>
+      <DefaultText>O sábio diante de você está distraído, meio que murmurando para si mesma enquanto agarra os restos queimados de um pergaminho. Suas mãos estão em movimento, traçando as curvas de alguma runa desconhecida. De repente você ouve o grito estridente de um corvo transportador quando ele cai no chão, suas penas completamente queimadas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>She looks up from the noise and notices you. "Well, that wasn't quite what I was expecting. But I suppose that's the risk with a scrap of the original text." She uncorks a vial and splashes its contents on the bird, which remains completely still on the ground. "Hmm, I suppose it would have to be alive for that to work. Another lesson learned."</DefaultText>
+      <DefaultText>Ela olha para cima do barulho e percebe você. "Bem, não foi bem o que eu esperava. Mas suponho que seja o risco com um pedaço do texto original." Ela abre um frasco e espirra seu conteúdo no pássaro, que permanece completamente imóvel no chão. "Hmm, suponho que teria que estar vivo para que isso funcionasse. Outra lição aprendida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>“What kinds of experiments are you interested in?”</DefaultText>
+      <DefaultText>"Em que tipos de experiências você está interessado?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>“Must I restrict myself? Think about how much magic would go undiscovered if we had to limit ourselves. But I must confess a certain affinity for electricity applied to a wide variety of objects. Even if the results don’t surprise, they always satisfy.”</DefaultText>
+      <DefaultText>“Eu devo me restringir? Pense em quanta magia não seria descoberta se tivéssemos que nos limitar. Mas devo confessar uma certa afinidade pela eletricidade aplicada a uma ampla variedade de objetos. Mesmo que os resultados não surpreendam, eles sempre satisfazem. ”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"What can I do for you, Fatebinder?"</DefaultText>
+      <DefaultText>"O que posso fazer por você, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>“What do you think of this Spire?”</DefaultText>
+      <DefaultText>"O que você acha desta Spire?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>“More impressive than I imagined, so many times before, from the ground. It is a bit breezy, though. That’s a pain when your profession demands the obsessive collecting of scrolls that are all too happy to scatter to the winds.”</DefaultText>
+      <DefaultText>“Mais impressionante do que eu imaginava, tantas vezes antes, do solo. É um pouco breezy, no entanto. Isso é uma dor quando sua profissão exige a coleta obsessiva de pergaminhos que são felizes demais para se espalharem ao vento ”.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

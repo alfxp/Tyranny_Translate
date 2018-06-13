@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_bs_horde_merchant_argue</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Give me what's in them pretty jars, or I'll make sure you regret it." </DefaultText>
+      <DefaultText>"Dê-me o que há nesses potes bonitos, ou vou me certificar de que você se arrependa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"If I gave away merchandise to the [url=glossary:scarlet chorus]Scarlet Chorus[/url], I would be out of business in an afternoon." </DefaultText>
+      <DefaultText>"Se eu desse mercadoria para o [url=glossary:scarlet chorus]Scarlet Chorus[/url], eu estaria fora do negócio em uma tarde".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"You mistake me for someone who cares." </DefaultText>
+      <DefaultText>"Você me confunde com alguém que se importa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Please... my family is hungry enough as it is." </DefaultText>
+      <DefaultText>"Por favor ... minha família está com fome o suficiente como está."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Bank Node 5</DefaultText>
+      <DefaultText>Nó do banco 5</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

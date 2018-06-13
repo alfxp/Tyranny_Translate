@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_cv_ssik_postbattle_peacetime</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>6</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"The keep will be shipshape once it's had some work done." </DefaultText>
+      <DefaultText>"A fortaleza será entregue quando tiver algum trabalho feito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ashe will want to hear about what we've accomplished here. I'll hang back and oversee repairs of the defenses."</DefaultText>
+      <DefaultText>"Ashe vai querer ouvir sobre o que temos feito aqui. Vou me atrasar e supervisionar os reparos das defesas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"It's good to see these old stones again. We're already bringing the place back to its former glory." </DefaultText>
+      <DefaultText>"É bom ver essas velhas pedras novamente. Já estamos trazendo o lugar de volta à sua antiga glória."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"The keep is safe in our hands. Repairs are already underway." </DefaultText>
+      <DefaultText>"A fortaleza está segura em nossas mãos. Os reparos já estão em andamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"You should check with [url=glossary:the voices of nerat]the Voices of Nerat[/url]. I'll stay behind and see after the repairs on Sentinel Stand." </DefaultText>
+      <DefaultText>"Você deveria verificar com [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Eu ficarei atrás e verei depois dos consertos em Suporte de Sentinela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Mattias should be on his way to [url=glossary:ascension hall]Ascension Hall[/url]. I'll hang back and oversee the restoration of Sentinel Stand." </DefaultText>
+      <DefaultText>"Mattias deve estar a caminho de [url=glossary:ascension hall]Ascension Hall[/url]. Eu vou ficar para trás e supervisionar a restauração do Stand da Sentinela."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

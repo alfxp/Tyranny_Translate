@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>game\recipes</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>84</EntryCount>
@@ -11,47 +11,47 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Test Recipe 1 Heal Potion</DefaultText>
+      <DefaultText>Receita de teste 1 Heal Potion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Test Recipe 2 Regen Potions</DefaultText>
+      <DefaultText>Receita de teste 2 Regen Potions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Upgrade [url=glossary:quality]Quality[/url]: Fine</DefaultText>
+      <DefaultText>Atualização [url=glossary:quality]Quality[/url]: Fine</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Research Magic</DefaultText>
+      <DefaultText>Magia de Pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Deathbringer (One-handed Axe)</DefaultText>
+      <DefaultText>Arauto da Morte (Machado de Uma Mão)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Potion of [url=glossary:health]Health[/url] (Common)</DefaultText>
+      <DefaultText>Poção de [url=glossary:health]Health[/url] (comum)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Potion of [url=glossary:health]Health[/url] (Fine)</DefaultText>
+      <DefaultText>Poção de [url=glossary:health]Health[/url] (Ótimo)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Potion of [url=glossary:health]Health[/url] (Superior)</DefaultText>
+      <DefaultText>Poção de [url=glossary:health]Health[/url] (Superior)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Potion of Protection</DefaultText>
+      <DefaultText>Poção de Proteção</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,17 +61,17 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Potion of Dire Remedy</DefaultText>
+      <DefaultText>Poção do Remédio Horripilante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Potion of Elemental Barrier</DefaultText>
+      <DefaultText>Poção da Barreira Elemental</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Fatiguing Toxin</DefaultText>
+      <DefaultText>Toxina Fatigante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,52 +81,52 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Vial of Fortuitous Physique</DefaultText>
+      <DefaultText>Frasco de Físico Fortuito</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Vial of Grace and Form</DefaultText>
+      <DefaultText>Frasco de Graça e Forma</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Waking [url=glossary:death]Death[/url]</DefaultText>
+      <DefaultText>Acordando [url=glossary:death]Death[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Potion of Heroes</DefaultText>
+      <DefaultText>Poção dos Heróis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Potion of Invisibility</DefaultText>
+      <DefaultText>Poção da Invisibilidade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Vial of Lightning Reflexes</DefaultText>
+      <DefaultText>Frasco de Reflexos Relâmpago</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Malignant Demise</DefaultText>
+      <DefaultText>Demissão Maligna</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Vitae of Mental Freedom</DefaultText>
+      <DefaultText>Vitae de Liberdade Mental</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Vial of Mental Power</DefaultText>
+      <DefaultText>Frasco de Poder Mental</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Vial of Mindless Fury</DefaultText>
+      <DefaultText>Frasco de Fúria Sem Sentido</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,42 +136,42 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Numbing Agent</DefaultText>
+      <DefaultText>Agente numbing</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Potion of Revival</DefaultText>
+      <DefaultText>Poção do Renascimento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Scarlet Poison</DefaultText>
+      <DefaultText>Veneno Escarlate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Shrouded Darkswill</DefaultText>
+      <DefaultText>Darkswill envolto</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Drowsy Drop</DefaultText>
+      <DefaultText>Queda sonolenta</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Stoneskin Serum</DefaultText>
+      <DefaultText>Soro De Pele De Pedras</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Vial of Tenacious Will</DefaultText>
+      <DefaultText>Frasco de Vontade Tenaz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Brotherhood Stout</DefaultText>
+      <DefaultText>Fraternidade Stout</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,167 +181,167 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Upgrade [url=glossary:quality]Quality[/url]: Exquisite</DefaultText>
+      <DefaultText>Upgrade [url=glossary:quality]Quality[/url]: requintado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Upgrade [url=glossary:quality]Quality[/url]: Masterwork</DefaultText>
+      <DefaultText>Upgrade [url=glossary:quality]Quality[/url]: trabalho de mestre</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Research Edicts</DefaultText>
+      <DefaultText>Editos de pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Research Artifacts</DefaultText>
+      <DefaultText>Artefatos de pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>(Silent Archive) Research Artifacts</DefaultText>
+      <DefaultText>(Arquivo silencioso) Artefatos de pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Research Potion of Revival</DefaultText>
+      <DefaultText>Poção de Pesquisa do Renascimento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Research Potion of Invisibility</DefaultText>
+      <DefaultText>Poção de Pesquisa de Invisibilidade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Research Rotspear</DefaultText>
+      <DefaultText>Rotspear da pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Research Sableroot</DefaultText>
+      <DefaultText>Pesquisa Sableroot</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Research Azurebell</DefaultText>
+      <DefaultText>Pesquisa Azurebell</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Research Marshberry</DefaultText>
+      <DefaultText>Pesquisa Marshberry</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Research Skycap</DefaultText>
+      <DefaultText>Pesquisa Skycap</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Research Items</DefaultText>
+      <DefaultText>Itens de Pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Research Staggering Burn</DefaultText>
+      <DefaultText>Pesquisa Queimando Queima</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>(Silent Archive) Research Items</DefaultText>
+      <DefaultText>Itens de Pesquisa (Arquivo Silencioso)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>(Silent Archive) Research Dire Remedy</DefaultText>
+      <DefaultText>(Arquivo silencioso) Research Dire Remedy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>(Silent Archive) Research Potion of Heroes</DefaultText>
+      <DefaultText>(Arquivo silencioso) Poção de Pesquisa dos Heróis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Artifact: Heart's Blood</DefaultText>
+      <DefaultText>Artefato: Sangue do Coração</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Artifact: Snowfang</DefaultText>
+      <DefaultText>Artefato: Snowfang</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Artifact: Scales of Mercy</DefaultText>
+      <DefaultText>Artefato: Escamas da Misericórdia</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Artifact: Alchemist's Gloves</DefaultText>
+      <DefaultText>Artefato: Luvas do Alquimista</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Artifact: Commander's Plate</DefaultText>
+      <DefaultText>Artefato: Placa do Comandante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Artifact: Hierarch's Robes</DefaultText>
+      <DefaultText>Artefato: Vestes do Hierarca</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Artifact: Nightwalker's Boots</DefaultText>
+      <DefaultText>Artefato: Botas do Nightwalker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Artifact: The Baneward</DefaultText>
+      <DefaultText>Artefato: O Baneward</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Artifact: Staff of [url=glossary:cairn]Cairn[/url]</DefaultText>
+      <DefaultText>Artefato: Cajado de [url=glossary:cairn]Cairn[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Zeal</DefaultText>
+      <DefaultText>Zelo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Thieves' Bravado</DefaultText>
+      <DefaultText>Bravado dos Ladrões</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Headhunter</DefaultText>
+      <DefaultText>Caçador de cabeças</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Sorcerer's Blade</DefaultText>
+      <DefaultText>Lâmina do Feiticeiro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Destiny</DefaultText>
+      <DefaultText>Destino</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Elegance</DefaultText>
+      <DefaultText>Elegância</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Crashing Thunder</DefaultText>
+      <DefaultText>Trovão Deixar de Bater</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,77 +351,77 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Simplicity</DefaultText>
+      <DefaultText>Simplicidade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Pride of the Forgotten</DefaultText>
+      <DefaultText>Orgulho dos Esquecidos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Hawk Eye Helm</DefaultText>
+      <DefaultText>Elmo do Olho do Falcão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Twice-Forged Bronze Shirt</DefaultText>
+      <DefaultText>Camisa de Bronze Dupla-Forjada</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Locked Iron Gauntlets</DefaultText>
+      <DefaultText>Manoplas de Ferro Trancado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Silken Gloves</DefaultText>
+      <DefaultText>Luvas De Seda</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Surefoot Scale Greaves</DefaultText>
+      <DefaultText>Grevas de Escala Surefoot</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Enchanted Cloth Slippers</DefaultText>
+      <DefaultText>Chinelos de Pano Encantados</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Deathbringer (Two-handed Axe)</DefaultText>
+      <DefaultText>Arauto da Morte (Machado de Duas Mãos)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Research Shield Plans</DefaultText>
+      <DefaultText>Planos de Escudo de Pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Research Dagger Plans</DefaultText>
+      <DefaultText>Planos de punhal de pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Research Sigil Scroll</DefaultText>
+      <DefaultText>Pesquisa Sigil Scroll</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Research Drug Recipe</DefaultText>
+      <DefaultText>Receita de medicamentos de pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Research Poison Recipe</DefaultText>
+      <DefaultText>Receita do veneno da pesquisa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Research Potion Recipe</DefaultText>
+      <DefaultText>Receita de Poção de Pesquisa</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

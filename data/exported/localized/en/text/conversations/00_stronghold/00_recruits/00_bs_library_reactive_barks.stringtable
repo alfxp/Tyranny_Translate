@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_recruits\00_bs_library_reactive_barks</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"The Regents have ruled from Sentinel Stand for as long as I can remember... For it to fall opens up a new chapter Stalwart's history."</DefaultText>
+      <DefaultText>"Os regentes têm governado desde o Sentinel Stand pelo tempo que me lembro ... Para que ele caia, abre um novo capítulo na história de Stalwart."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"With the [url=glossary:edict]Edict[/url] ended, there is bound to be countless discoveries of lost knowledge that have been buried underneath the rust that storm kicked up!"</DefaultText>
+      <DefaultText>"Com o [url=glossary:edict]Edict[/url] terminado, haverá inúmeras descobertas de conhecimento perdido que foram enterradas sob a ferrugem que a tempestade causou!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"What a strange and cruel punishment for the last bastion of the Tiers to be inflicted with such an [url=glossary:edict]Edict[/url]..."</DefaultText>
+      <DefaultText>"Que castigo estranho e cruel para o último bastião dos Tiers ser infligido com tal [url=glossary:edict]Edict[/url] ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"One of these days you must tell me about this creature you defeated within the Oldwalls... I simply must catalog it for my studies."</DefaultText>
+      <DefaultText>"Um dia desses você deve me contar sobre essa criatura que você derrotou dentro da Oldwalls ... Eu simplesmente tenho que catalogar para os meus estudos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"To think [url=glossary:cairn]Cairn[/url] held on for so many years... Perhaps it was best the Archon finally had his peace."</DefaultText>
+      <DefaultText>"Pensar [url=glossary:cairn]Cairn[/url] aguentou por tantos anos ... Talvez fosse melhor que o Arconte finalmente tivesse a sua paz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"The magic of Archons will never cease to amaze me. [url=glossary:cairn]Cairn[/url]'s power continues to be the beating heart of the [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
+      <DefaultText>"A magia dos Arcontes nunca deixará de me surpreender. O poder de [url=glossary:cairn]Cairn[/url] continua a ser o coração pulsante do [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"If it isn't the Fatebinder? Come, let us have a word."</DefaultText>
+      <DefaultText>"Se não é o Fatebinder? Venha, deixe-nos ter uma palavra."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

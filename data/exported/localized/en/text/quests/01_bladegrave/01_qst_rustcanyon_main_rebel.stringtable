@@ -1,92 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\01_bladegrave\01_qst_rustcanyon_main_rebel</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>17</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>That Which Remains</DefaultText>
+      <DefaultText>Aquilo que continua</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Locate the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Localize o [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Defend the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
+      <DefaultText>Defenda o acampamento [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Clear a path for the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Limpar um caminho para o [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Defeat Teodor and his soldiers.</DefaultText>
+      <DefaultText>Derrote Teodor e seus soldados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Mattias revealed that a company of his men, led by Elia, are under assault at Rust Canyons and may not survive long. Help the rebels escape the canyons and fend off enemy forces.</DefaultText>
+      <DefaultText>Mattias revelou que uma companhia de seus homens, liderada por Elia, está sob ataque em Rust Canyons e pode não sobreviver por muito tempo. Ajude os rebeldes a escapar dos cânions e afastar as forças inimigas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Mattias revealed that [url=glossary:unbroken]Unbroken[/url] soldiers, led by a woman named Elia, are trapped in Rust Canyons. Locate them.</DefaultText>
+      <DefaultText>Mattias revelou que [url=glossary:unbroken]Unbroken[/url] soldados, liderados por uma mulher chamada Elia, estão presos em Rust Canyons. Localize-os.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Elia needs your help repulsing an attack from [url=glossary:disfavored]Disfavored[/url] forces. Help her defend the [url=glossary:unbroken]Unbroken[/url] camp in Rust Canyons. </DefaultText>
+      <DefaultText>Elia precisa da sua ajuda para repelir um ataque das forças do [url=glossary:disfavored]Disfavored[/url]. Ajude-a a defender o acampamento [url=glossary:unbroken]Unbroken[/url] em Rust Canyons.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] attack has been repulsed, but more are on their way. Travel north of the Rust Canyons camp and defeat the remaining soldiers to clear a path out for the rebels.</DefaultText>
+      <DefaultText>O ataque [url=glossary:disfavored]Disfavored[/url] foi repelido, mas mais estão a caminho. Viaje para o norte do acampamento Rust Canyons e derrote os soldados restantes para abrir caminho para os rebeldes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Elia has asked you to drive Teodor and his men out of Rust Canyon, whether by sword or intimidation, and to rescue her captive men.</DefaultText>
+      <DefaultText>Elia pediu que você expulsasse Teodor e seus homens da Rust Canyon, seja por meio de espada ou intimidação, e para resgatar seus homens cativos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>You have killed Teodor's men and freed the [url=glossary:unbroken]Unbroken[/url] captives. Elia will want to hear the news.</DefaultText>
+      <DefaultText>Você matou os homens de Teodor e libertou os [url=glossary:unbroken]Unbroken[/url] cativos. Elia vai querer ouvir as novidades.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>You helped Elia and the [url=glossary:unbroken]Unbroken[/url] escape Rust Canyons. Mattias will be pleased.</DefaultText>
+      <DefaultText>Você ajudou Elia e os [url=glossary:unbroken]Unbroken[/url] escapar Rust Canyons. Mattias ficará satisfeito.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>You turned on Elia and attacked the camp, losing the support of the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Você ligou Elia e atacou o acampamento, perdendo o apoio do [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>Quest Failed</DefaultText>
+      <DefaultText>Falha na missão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30006</ID>
-      <DefaultText>You betrayed your allies and are no longer able to complete this task.</DefaultText>
+      <DefaultText>Você traiu seus aliados e não consegue mais concluir essa tarefa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30007</ID>
-      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30008</ID>
-      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

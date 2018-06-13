@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\03_burninglibrary\0301_cv_guard_firstsighted</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>The soldier walking past catches a glimpse of you and immediately points her spear towards you.</DefaultText>
+      <DefaultText>O soldado que passou por você tem um vislumbre de você e imediatamente aponta sua lança para você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"The Fatebinder! Your bloodletting is legendary. The Censor would be honored to receive you."</DefaultText>
+      <DefaultText>"O Fatebinder! Sua sangria é lendária. O Censor ficaria honrado em recebê-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"The Censor will be very interested in your presence, Fatebinder. She is near the entrance of the Library. Go - now."</DefaultText>
+      <DefaultText>"O Censor estará muito interessado em sua presença, Fatebinder. Ela está perto da entrada da Biblioteca. Vá - agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

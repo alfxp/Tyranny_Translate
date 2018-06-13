@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_lc_intro_hostile</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>12</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Stop there, Fatebinder - not another step. You are not welcome in [url=glossary:lethian's crossing]Lethian's Crossing[/url]!"</DefaultText>
+      <DefaultText>"Pare aí, Fatebinder - não mais um passo. Você não é bem-vindo em [url=glossary:lethian's crossing]Lethian's Crossing[/url]!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"After your [url=lore:lc_betray_kyros]betrayal of the Disfavored at Vendrien's Well,[/url] you aren't coming anywhere near this settlement while we hold it. Why did you even leave it in our care if your intent was to attack us later?"
+      <DefaultText>"Depois de seu [url=lore:lc_betray_kyros]betrayal of the Disfavored at Vendrien's Well,[/url] você não está chegando perto deste acordo enquanto nós o seguramos. Por que você deixou isto em nosso cuidado se sua intenção era nos atacar depois?"
 
-"Go - now - or I will show you how the [url=glossary:disfavored]Disfavored[/url] deals with traitors."</DefaultText>
+"Vá - agora - ou eu vou te mostrar como o [url=glossary:disfavored]Disfavored[/url] lida com traidores".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"After you [url=lore:lc_betray_kyros]attacked the Scarlet Chorus at Vendrien's Well,[/url] we aren't letting you anywhere near this settlement while we hold it. Why did you even give it to us if you planned to turn around and attack us?"
+      <DefaultText>"Depois de [url=lore:lc_betray_kyros]attacked the Scarlet Chorus at Vendrien's Well,[/url] nós não estamos deixando você em nenhum lugar perto deste acordo enquanto nós seguramos isto. Por que você ainda deu isto a nós se você planejasse se virar e nos atacar?"
 
-"Go - now - or I will show you how the [url=glossary:scarlet chorus]Scarlet Chorus[/url] deals with whelps who flex their muscles."</DefaultText>
+"Vá - agora - ou eu vou te mostrar como o [url=glossary:scarlet chorus]Scarlet Chorus[/url] lida com whelps que flexionam seus músculos".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"You're insane if you think I'm going to let you in after what you just did at Ironhaul Trail!"
+      <DefaultText>"Você é louco se acha que vou deixar você entrar depois do que acabou de fazer na Ironhaul Trail!"
 
-"Go - now - or we'll show you how the Brotherhood handles fools who don't know their place."</DefaultText>
+"Vá - agora - ou vamos mostrar como a Irmandade lida com tolos que não conhecem o lugar deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -42,12 +42,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Kill the Fatebinder!"</DefaultText>
+      <DefaultText>"Mate o Fatebinder!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"You really are crazy, aren't you? Maybe all those stories about you are true! I'm not sticking around to find out!" The guards turn and run.</DefaultText>
+      <DefaultText>"Você é realmente louco, não é? Talvez todas essas histórias sobre você sejam verdade! Não vou ficar por perto para descobrir!" Os guardas se viram e correm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,17 +57,17 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Script Node 10</DefaultText>
+      <DefaultText>Nó de Script 10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Kill the Fatebinder! We'll show him how we deal with someone who betrays an ally!"</DefaultText>
+      <DefaultText>"Matar o Fatebinder! Vamos mostrar a ele como lidamos com alguém que trai um aliado!"</DefaultText>
       <FemaleText>"Kill the Fatebinder! We'll show her how we deal with someone who betrays an ally!"</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"I'm warning you, we will kill you if you don't turn around!"</DefaultText>
+      <DefaultText>"Eu estou te avisando, nós vamos te matar se você não se virar!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

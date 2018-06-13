@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\0220_bs_patron_bb_f_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Have you seen the curves on this one? Not as good as Sheila, though..."</DefaultText>
+      <DefaultText>"Você viu as curvas nesta? Não tão boa quanto Sheila, embora ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Someone told me Evarista is up for anything and I'm feeling adventurous."</DefaultText>
+      <DefaultText>"Alguém me disse que Evarista está pronto para qualquer coisa e estou me sentindo aventureiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Maybe I'll go with Roxana. Who knows what this one will want to do."</DefaultText>
+      <DefaultText>"Talvez eu vá com Roxana. Quem sabe o que este vai querer fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Sweetie, if you have to question it, it's probably not for you..."</DefaultText>
+      <DefaultText>"Querida, se você tem que questionar, provavelmente não é para você ..."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

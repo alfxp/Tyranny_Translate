@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\0105_cv_agathon_attack</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] captain regards you with a defiant glare. "Come at me, slave of [url=glossary:kyros]Kyros[/url]! Even if I rush headlong to my grave, you'll never forget what women and men of the South can do to your precious legion." </DefaultText>
+      <DefaultText>O capitão [url=glossary:unbroken]Unbroken[/url] considera-o com um brilho desafiador. "Venha para mim, escrava de [url=glossary:kyros]Kyros[/url]! Mesmo que eu corra de cabeça para o meu túmulo, você nunca esquecerá o que mulheres e homens do Sul podem fazer com sua preciosa legião".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

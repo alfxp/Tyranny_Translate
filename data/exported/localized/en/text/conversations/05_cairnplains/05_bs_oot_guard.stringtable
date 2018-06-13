@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_bs_oot_guard</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>11</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Blunt-claws will not enter Howling Rock. No to hairless, no to humans."</DefaultText>
+      <DefaultText>"As garras rombas não entrarão no Howling Rock. Não para calejar, não para humanos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Humans cannot pass to Howling Rock. Not without permission of [url=glossary:prima]Prima[/url]."</DefaultText>
+      <DefaultText>"Humanos não podem passar para Howling Rock. Não sem permissão de [url=glossary:prima]Prima[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Random Node 3</DefaultText>
+      <DefaultText>Nó Aleatório 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Turn back, human. Beastwoman guards passage to Howling Rock. Protects tribe-lands."</DefaultText>
+      <DefaultText>"Volte atrás, humano. Beastwoman guarda passagem para Howling Rock. Protege tribo-terras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Humans cannot pass to Howling Rock. Not without permission of [url=glossary:prima]Prima[/url]."</DefaultText>
+      <DefaultText>"Humanos não podem passar para Howling Rock. Não sem permissão de [url=glossary:prima]Prima[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Move. I am [url=glossary:prima]Prima[/url] of this tribe."</DefaultText>
+      <DefaultText>"Mova-se. Eu sou [url=glossary:prima]Prima[/url] desta tribo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Scram, shitface."</DefaultText>
+      <DefaultText>"Scram, merda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,17 +46,17 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Umber eyes wide, the den-guards share a surprised glance before nodding and moving aside.</DefaultText>
+      <DefaultText>Umber olhos arregalados, os guardas den compartilham um olhar surpreso antes de acenar e se afastar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>The Beastwoman growls and bares her teeth.</DefaultText>
+      <DefaultText>A Beastwoman rosna e mostra os dentes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>As you strike, lightening fast, the first guard falls with a choked howl, body shuddering as it hits the ground. The other, a tawny-furred Beastman, glances, eyes wild, toward Hundred-Blood's perch, but noticing the hulking Beastwoman watching you both without reaction - the remaining guard bites back a yip and wisely scrambles aside.</DefaultText>
+      <DefaultText>Enquanto você ataca, rapidamente, o primeiro guarda cai com um uivo sufocado, o corpo estremecendo ao atingir o chão. O outro, um Homem-Besta de pele cor de feno, olha, olhos selvagens, para o poleiro de Cem-Sangue, mas notando a grosseira Mulher-Besta observando vocês dois sem reação - o guarda restante morde um puxão e, sabiamente, se arrasta para o lado.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

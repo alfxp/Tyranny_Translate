@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\0223_bs_spotted</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>2</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"A hundred rings for the man that kills the Fatebinder!"</DefaultText>
+      <DefaultText>"Cem toques para o homem que mata o Fatebinder!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Enemies! Stop the Fatebinder!"</DefaultText>
+      <DefaultText>"Inimigos! Parem o Fatebinder!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

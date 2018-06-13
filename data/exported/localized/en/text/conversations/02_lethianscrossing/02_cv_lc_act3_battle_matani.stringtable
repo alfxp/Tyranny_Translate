@@ -1,172 +1,172 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_lc_act3_battle_matani</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>31</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Thank you for your help, Fatebinder." Matani inhales sharply and bends over. "My injuries are a little more severe than I thought. I think I'll stay here for the time being." She stops and takes a few short breaths.
+      <DefaultText>"Obrigado pela sua ajuda, Fatebinder." Matani inala bruscamente e se inclina. "Meus ferimentos são um pouco mais graves do que eu pensava. Acho que ficarei aqui por enquanto." Ela pára e dá algumas respirações curtas.
 
-"I sent some soldiers up to the first tier to deal with the [url=glossary:disfavored]Disfavored[/url], but I was waylaid on my way to help Eldian. There are also some settlers trapped by the fire up there as well."</DefaultText>
+"Eu enviei alguns soldados até o primeiro nível para lidar com o [url=glossary:disfavored]Disfavored[/url], mas eu estava no meu caminho para ajudar Eldian. Há também alguns colonos presos pelo fogo lá em cima também."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Thank you for your help, [Player Name]."</DefaultText>
+      <DefaultText>"Obrigado pela sua ajuda, [Player Name]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"The settlers won't last long if they're left on their own, but the soldiers won't last forever trying to keep the [url=glossary:disfavored]Disfavored[/url] at bay." She sighs, her face wincing with pain.
+      <DefaultText>"Os colonos não durarão muito se forem deixados sozinhos, mas os soldados não vão durar para sempre tentando manter o [url=glossary:disfavored]Disfavored[/url] na baía." Ela suspira, seu rosto estremecendo de dor.
 
-"I don't think there is enough time to deal with both problems. It's a terrible thing to ask of you, but you will need to decide who needs your help more."</DefaultText>
+"Eu não acho que há tempo suficiente para lidar com os dois problemas. É uma coisa terrível perguntar a você, mas você precisa decidir quem precisa mais de sua ajuda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Fatebinder, you are wounded. Would you like me to tend to your injuries?"</DefaultText>
+      <DefaultText>"Fatebinder, você está ferido. Você gostaria que eu cuidasse de seus ferimentos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"You have to choose quickly. Take this bucket to use on the burning barricades. There are barrels full of water throughout the Crossing should you need them."
+      <DefaultText>"Você tem que escolher rapidamente. Leve este balde para usar nas barricadas em chamas. Há barris cheios de água por toda a travessia se você precisar deles."
 
-"If you get wounded in battle, return to me. I am no healer but I will help however I can!"</DefaultText>
+"Se você for ferido em batalha, volte para mim. Eu não sou curador, mas vou ajudar no que puder!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Random Node 25</DefaultText>
+      <DefaultText>Nó Aleatório 25</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"We need the extra muscle if we're to keep the settlement in one piece. The soldiers deserve our aid." </DefaultText>
+      <DefaultText>"Precisamos do músculo extra se quisermos manter o assentamento inteiro. Os soldados merecem nossa ajuda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"The soldiers know what needs to be done. We ought to look after those who can't defend themselves."</DefaultText>
+      <DefaultText>"Os soldados sabem o que precisa ser feito. Devemos cuidar daqueles que não podem se defender."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>The Beastwoman's lips peel back in a sneer. "If humans are too weak to survive, should simply let most useless humans die, yep? Aid strongest fighters only. Is smartest hunting strategy."</DefaultText>
+      <DefaultText>Os lábios da Mulher-Fera descascam em um sorriso de escárnio. "Se os seres humanos são muito fracos para sobreviver, deve simplesmente deixar a maioria dos humanos inúteis morrer, sim? Ajudar apenas os lutadores mais fortes. É a estratégia de caça mais inteligente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Oh don't look at me. If it were my call, we'd find some corner in which to hide and log notes."</DefaultText>
+      <DefaultText>"Oh, não olhe para mim. Se fosse a minha ligação, encontraríamos um canto para nos esconder e registrar anotações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Soldiers know what they're in for when they go to war. The settlers are innocent people caught up in something they didn't create!"</DefaultText>
+      <DefaultText>"Os soldados sabem em que estão indo quando vão para a guerra. Os colonos são pessoas inocentes presas em algo que não criaram!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"We can't defend the settlement without the extra manpower... I vote we aid the soldiers." </DefaultText>
+      <DefaultText>"Não podemos defender o assentamento sem a mão-de-obra extra ... Eu voto que ajudamos os soldados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Thank you for your help today, [Player Name]. Because of you, we were able to protect [url=glossary:lethian's crossing]Lethian's Crossing[/url] from the [url=glossary:disfavored]Disfavored[/url]. But today's battle makes me worry for the rest of the Tiers. If Ashe was brazen enough to attack [url=glossary:lethian's crossing]Lethian's Crossing[/url] then [url=glossary:the voices of nerat]the Voices of Nerat[/url] certainly won't think twice about attempting the same thing elsewhere..."</DefaultText>
+      <DefaultText>"Obrigado por sua ajuda hoje, [Nome]. Por causa de você, nós fomos capazes de proteger [url=glossary:lethian's crossing]Lethian's Crossing[/url] do [url=glossary:disfavored]Disfavored[/url]. Mas a batalha de hoje faz-me preocupo com o resto dos Tiers. Se Ashe era descarada o suficiente para atacar [url=glossary:lethian's crossing]Lethian's Crossing[/url] então [url=glossary:the voices of nerat]the Voices of Nerat[/url] certamente não vai pensar duas vezes antes de tentar a mesma coisa em outro lugar ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"This is simply the beginning. If something isn't done about the Archons, they won't stop until the Tiers are in ruins."</DefaultText>
+      <DefaultText>"Isso é simplesmente o começo. Se algo não for feito sobre os Arcontes, eles não vão parar até que os Tiers estejam em ruínas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"What about [url=glossary:lethian's crossing]Lethian's Crossing[/url]?"</DefaultText>
+      <DefaultText>"Que tal [url=glossary:lethian's crossing]Lethian's Crossing[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"I'll take the other Archons down."</DefaultText>
+      <DefaultText>"Vou levar os outros Archons para baixo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"I will do everything I can to restore this settlement as Eldian would have. We have a responsibility to the people here and need to repair the damage done to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and its citizens."
+      <DefaultText>"Eu farei tudo o que puder para restaurar este acordo como Eldian teria. Nós temos uma responsabilidade para com as pessoas aqui e precisamos reparar o dano causado aos seus cidadãos."
 
-"You do what you need to do. Finish this."</DefaultText>
+"Você faz o que precisa fazer. Conclua isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Random Node 6</DefaultText>
+      <DefaultText>Nó Aleatório 6</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Do what you will with the others, but Ashe and the legion are off-limits. I would not have you attacking them while I stand in service to your cause." </DefaultText>
+      <DefaultText>"Faça o que quiser com os outros, mas Ashe e a legião estão fora dos limites. Eu não quero que você os ataque enquanto eu estiver a serviço de sua causa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"The Tiers must be proving a little harder to crush than the generals ever assumed. We've toyed with these pillagers long enough, let's take the battle to the Archons, show them the measure of the mistake they've made in attacking our lands."</DefaultText>
+      <DefaultText>"Os Tiers devem estar se provando um pouco mais difíceis de esmagar do que os generais jamais assumiram. Nós brincamos com esses pilotos por tempo suficiente, vamos levar a batalha para os Arcontes, mostrar a eles a medida do erro que eles cometeram ao atacar nossas terras. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Soon Kills-in-Shadow will not only carry name of Shadowhunter, but will be known as Archon-hunter, too. Like this name, this title to rival even Beastwomen called [url=glossary:prima]Prima[/url]."
+      <DefaultText>"Logo Kills-in-Shadow não só levará o nome de Shadowhunter, mas também será conhecido como Archon-hunter. Como esse nome, este título rivaliza com até mesmo Beastwomen chamado [url=glossary:prima]Prima[/url]".
 
-She grins wide and eager, showing you her fangs.</DefaultText>
+Ela sorri largamente e ansiosa, mostrando suas presas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"She makes it sound so easy! We're just supposed to stroll into Iron Hearth and... well... I suppose after this assault, they would be at their most vulnerable... perhaps now IS the time to strike."</DefaultText>
+      <DefaultText>"Ela faz com que pareça tão fácil! Nós apenas deveríamos passear no Lar de Ferro e ... bem ... eu suponho que após este ataque, eles estariam mais vulneráveis ​​... talvez agora seja a hora de atacar. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Does this mean I finally get to take a shot at Nerat? What are we waiting for?"</DefaultText>
+      <DefaultText>"Isso significa que eu finalmente consegui dar uma olhada no Nerat? O que estamos esperando?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"I'm sworn to [url=glossary:the voices of nerat]the Voices of Nerat[/url], but if he can't defend himself then he's no boss of mine. I say go for it." </DefaultText>
+      <DefaultText>"Eu sou jurado a [url=glossary:the voices of nerat]the Voices of Nerat[/url], mas se ele não pode se defender então ele não é meu chefe. Eu digo vá por isto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Matani salutes you. "If you stand against them, the Archons have no hope. You've proven yourself to be the force of change the people need."</DefaultText>
+      <DefaultText>Matani te saúda. "Se você está contra eles, os Arcontes não têm esperança. Você provou ser a força de mudança de que as pessoas precisam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Matani salutes you. "If you stand against them, the Archons have no hope. You've proven yourself to be the force of change the people need."</DefaultText>
+      <DefaultText>Matani te saúda. "Se você está contra eles, os Arcontes não têm esperança. Você provou ser a força de mudança de que as pessoas precisam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Matani salutes you. "If you stand against them, the Archons have no hope. You've proven yourself to be the force of change the people need."</DefaultText>
+      <DefaultText>Matani te saúda. "Se você está contra eles, os Arcontes não têm esperança. Você provou ser a força de mudança de que as pessoas precisam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Matani salutes you. "If you stand against them, the Archons have no hope. You've proven yourself to be the force of change the people need."</DefaultText>
+      <DefaultText>Matani te saúda. "Se você está contra eles, os Arcontes não têm esperança. Você provou ser a força de mudança de que as pessoas precisam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Matani salutes you. "If you stand against them, the Archons have no hope. You've proven yourself to be the force of change the people need."</DefaultText>
+      <DefaultText>Matani te saúda. "Se você está contra eles, os Arcontes não têm esperança. Você provou ser a força de mudança de que as pessoas precisam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"There's only room for one Archon in the Tiers, and that's me."</DefaultText>
+      <DefaultText>"Só há espaço para um Arconte nas Camadas, e sou eu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] have raised the drawbridge to the upper tier and are guarding it. If you want to get up there, you'll need to shoot the winch holding the bridge up."</DefaultText>
+      <DefaultText>"Os [url=glossary:disfavored]Disfavored[/url] levantaram a ponte levadiça para o nível superior e estão protegendo-a. Se você quiser chegar lá, precisará atirar no guincho que segura a ponte."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

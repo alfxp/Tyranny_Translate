@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_bridge_winch</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"The winch over there - smash it and the bridge will drop!"</DefaultText>
+      <DefaultText>"O guincho ali - esmague e a ponte cairá!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"See the winch over by the bridge? If we can hit it from here, we'll lower the platform."</DefaultText>
+      <DefaultText>"Veja o guincho da ponte? Se conseguirmos acertar a partir daqui, abaixaremos a plataforma."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Can you reach that winch over there, or should I take aim?"</DefaultText>
+      <DefaultText>"Você pode alcançar aquele guincho ali, ou devo mirar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Random Node 8</DefaultText>
+      <DefaultText>Nó Aleatório 8</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

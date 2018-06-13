@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\0220_bs_patron_bb_m_02</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"We can't decide who we want to share. Any suggestions?"</DefaultText>
+      <DefaultText>"Não podemos decidir quem queremos compartilhar. Alguma sugestão?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"I'm feeling less 'sword' today and leaning toward 'sheath.'"</DefaultText>
+      <DefaultText>"Estou me sentindo menos 'espada' hoje e inclinando-me para 'bainha'."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"I say we hire Roxana. We know she's a good time. But Philo does that thing we like..."</DefaultText>
+      <DefaultText>"Eu digo que contratamos Roxana. Sabemos que ela é um bom momento. Mas Philo faz aquilo que gostamos ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"As in what you're looking for? Or what you're hoping to be?"</DefaultText>
+      <DefaultText>"Como no que você está procurando? Ou o que você espera ser?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

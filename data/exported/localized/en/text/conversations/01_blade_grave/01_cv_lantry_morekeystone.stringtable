@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_cv_lantry_morekeystone</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Did you sense that? The magic barrier lost some of its hum when you inserted that keystone. Don't say I didn't warn you..."</DefaultText>
+      <DefaultText>"Você sentiu isso? A barreira mágica perdeu um pouco de seu zumbido quando você inseriu a chave. Não diga que eu não avisei você ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"We need to reach that body."</DefaultText>
+      <DefaultText>"Precisamos alcançar esse corpo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Oh I'm not arguing for turning back now - I just felt the need to burden you with a reminder that our lives are in your hands."</DefaultText>
+      <DefaultText>"Oh, eu não estou brigando por voltar agora - eu apenas senti a necessidade de sobrecarregar você com um lembrete de que nossas vidas estão em suas mãos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>He clears his throat and adjusts his collar.</DefaultText>
+      <DefaultText>Ele limpa a garganta e ajusta o colarinho.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

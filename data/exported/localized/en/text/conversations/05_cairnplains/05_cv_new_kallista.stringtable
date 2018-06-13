@@ -1,44 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_cv_new_kallista</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>222</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Well, well. Must be my lucky day." The Crimson Spear cocks her helm-hidden face to the side, studying you curiously. 
+      <DefaultText>"Bem, bem. Deve ser o meu dia de sorte." The Crimson Spear inclina o rosto escondido para o lado, estudando-o com curiosidade.
 
-"The name's Misery. You'd do well to remember it, Fatebinder, as this little town belongs to me."</DefaultText>
+"O nome é Misery. Você faria bem em lembrar, Fatebinder, como esta pequena cidade pertence a mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"And by little, I mean what's left of it after your friend had her way with the place." She lets out a harsh, barking laugh. "Not that I'm complaining! Pure destruction really gets my blood going."</DefaultText>
+      <DefaultText>"E, a pouco, quero dizer o que restou depois que sua amiga fez o mesmo com o lugar." Ela solta uma risada dura e latindo. "Não que eu esteja reclamando! A destruição pura realmente faz meu sangue fluir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"But enough about that - let's get to the point. What do you want?"</DefaultText>
+      <DefaultText>"Mas o suficiente sobre isso - vamos ao ponto. O que você quer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"And by little, I mean what's left of it after you had your way with the place." She lets out a harsh, barking laugh. "Not that I'm complaining! Pure destruction really gets my blood going."</DefaultText>
+      <DefaultText>"E, a pouco, quero dizer o que restou depois que você fez o que queria com o lugar." Ela solta uma risada dura e latindo. "Não que eu esteja reclamando! A destruição pura realmente faz meu sangue fluir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"I do love little hovels like [Plainsgate]. It's so easy to get recruits. Desperate people tend to believe anything you tell them. And if you can't con them into servitude, kidnapping suffices just fine."</DefaultText>
+      <DefaultText>"Eu amo pequenos casebres como [Plainsgate]. É tão fácil conseguir recrutas. Pessoas desesperadas tendem a acreditar em qualquer coisa que você lhes diga. E se você não pode colocá-las em servidão, o seqüestro é suficiente".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"If you're talking to me, it better be because you've got good news. I'm neck deep in shitcreek. And if I drown, I'm taking you with me."</DefaultText>
+      <DefaultText>"Se você está falando comigo, é melhor que você tenha boas notícias. Eu estou no fundo do poço de merda. E se eu me afogar, vou levá-lo comigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Nerat grows impatient that you have not yet killed [url=glossary:cairn]Cairn[/url]. While you dawdle and fail, our army continues to starve."</DefaultText>
+      <DefaultText>"Nerat fica impaciente por ainda não ter matado [url=glossary:cairn]Cairn[/url]. Enquanto você demora e falha, nosso exército continua a passar fome."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,166 +48,166 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Does he now?"
+      <DefaultText>"Ele agora?"
 
-She cocks her head to one side, whole body primed and ready for a fight near instantly as she eases into a battle stance, spear drawn faster than the blink of an eye. She holds her stance, violence barely contained, as she waits for your cue for how the exchange is going to progress.
+Ela inclina a cabeça para um lado, corpo inteiro preparado e pronto para uma luta perto instantaneamente, enquanto ela entra em uma posição de batalha, a lança é puxada mais rápido do que um piscar de olhos. Ela mantém sua postura, a violência mal contida, enquanto espera por sua sugestão de como a troca vai progredir.
 
-"Going to say the Voices wants a word with me in his tent, are you?"</DefaultText>
+"Indo dizer que o Voices quer uma palavra comigo em sua tenda, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Heh. You got a funny way of saying you're here to help me."
+      <DefaultText>"Heh. Você tem uma maneira engraçada de dizer que está aqui para me ajudar."
 
-She shrugs and drops her spear into the sheathe on her back. But she crosses her arms as she regards you, ever wary of an attack.
+Ela encolhe os ombros e deixa cair sua lança no calção em suas costas. Mas ela cruza os braços ao vê-lo, sempre cautelosa com um ataque.
 
-"Don't fret. I know better than to fail the Voices. I've had my gangs combing the Sea more than four spans now, without sleep. We're close to finding that moaning muckpile."</DefaultText>
+"Não se preocupe. Eu sei melhor do que falhar com as Vozes. Eu já tive minhas gangues vasculhando o Mar mais de quatro vãos agora, sem dormir. Estamos perto de encontrar aquela porcaria de merda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Word from the locals says [url=glossary:cairn]Cairn[/url] was headed for a Spire when he crumbled. We've already checked the one at [url=lore:Gulfglow]Gulfglow[/url], so it's got to be at the place the Beastmen call [url=lore:Howling_Rock]Howling Rock[/url]."</DefaultText>
+      <DefaultText>"Palavra dos moradores diz [url=glossary:cairn]Cairn[/url] estava indo para um Pináculo quando ele desmoronou. Nós já verificamos o em [url=lore:Gulfglow]Gulfglow[/url], então tem que ser no lugar que os Beastmen chamam [url=lore:Howling_Rock]Howling Rock[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Then it's a good thing you're here to save my ass from the pike. Cause you're going to find [url=glossary:cairn]Cairn[/url]," she snaps her fingers, "just like that?"</DefaultText>
+      <DefaultText>"Então é uma coisa boa que você está aqui para salvar a minha bunda do pique. Porque você vai encontrar [url=glossary:cairn]Cairn[/url]," ela estala os dedos ", apenas assim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Only it isn't so easy as keeping an eye on the sky and marching straight ahead. Got a few hundred chasms and double a dozen [url=glossary:disfavored]Disfavored[/url] separating [Plainsgate] from [url=lore:Howling_Rock]Howling Rock[/url]."</DefaultText>
+      <DefaultText>"Só que não é tão fácil como manter um olho no céu e marchar para a frente. Tenho algumas centenas de abismos e uma dúzia de duplas [url=glossary:disfavored]Disfavored[/url] separando [Plainsgate] de [url=lore:Howling_Rock]Howling Rock[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"What's the plan?"</DefaultText>
+      <DefaultText>"Qual é o plano?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"The Beastmen giving you problems here in the [url=glossary:stone sea]Stone Sea[/url]?"</DefaultText>
+      <DefaultText>"O Beastmen dando-lhe problemas aqui no [url=glossary:stone sea]Stone Sea[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Bottom line is, we need them to find [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <DefaultText>"A linha de fundo é, precisamos deles para encontrar [url=glossary:cairn]Cairn[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"The one called Hundred-Blood gets a bit touchy when we encroach on the tribe's den. But the real problem is one we managed to recruit, named Rending-Hound."</DefaultText>
+      <DefaultText>"Aquele chamado Hundred-Blood fica um pouco sensível quando invadimos a toca da tribo. Mas o verdadeiro problema é um que conseguimos recrutar, chamado Rending-Hound."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Tell you what, Fatebinder, while you're out in the [url=glossary:stone sea]Stone Sea[/url] if you find Rending-Hound, get him in line. Or kill him for me."</DefaultText>
+      <DefaultText>"Diga-lhe o que, Fatebinder, enquanto estiver no [url=glossary:stone sea]Stone Sea[/url] se você encontrar Rending-Hound, coloque-o na linha. Ou mate-o por mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"I'll put the fear of [url=glossary:kyros]Kyros[/url] in him."</DefaultText>
+      <DefaultText>"Vou colocar o medo de [url=glossary:kyros]Kyros[/url] nele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Well, move it along then. I've got work to do."</DefaultText>
+      <DefaultText>"Bem, vá em frente então. Eu tenho trabalho a fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"How are Chorus operations running in the region?"</DefaultText>
+      <DefaultText>"Como estão as operações do Chorus funcionando na região?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"It seems plenty of Chorus answer to you here, but who do you answer to?"</DefaultText>
+      <DefaultText>"Parece muita resposta Chorus para você aqui, mas para quem você responde?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Why garrison [Plainsgate] for your base of operations?"</DefaultText>
+      <DefaultText>"Por que guarnecer [Plainsgate] para sua base de operações?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"How'd you get your name?"</DefaultText>
+      <DefaultText>"Como você conseguiu seu nome?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Maybe you haven't noticed, but I'm a Crimson Spear - a rank earned with treachery and blood. I answer to the Voices and none other."</DefaultText>
+      <DefaultText>"Talvez você não tenha notado, mas eu sou uma Lança Carmesim - uma classificação obtida com traição e sangue. Eu respondo às Vozes e nenhuma outra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Our efforts to shore up recruits are going better than expected here in [Plainsgate]. Our efforts to discredit the [url=glossary:disfavored]Disfavored[/url] are just ramping up near Graystone. It's our efforts to locate [url=glossary:cairn]Cairn[/url] that have been the most troublesome."</DefaultText>
+      <DefaultText>"Nossos esforços para reforçar os recrutas estão indo melhor do que o esperado aqui em [Plainsgate]. Nossos esforços para desacreditar o [url=glossary:disfavored]Disfavored[/url] estão apenas aumentando perto de Graystone. É o nosso esforço para localizar [url=glossary:cairn]Cairn[/url] que tem sido o mais problemático".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Aside from it being the last city to stand in the rubble? There's nowhere better for shoring up recruits."</DefaultText>
+      <DefaultText>"Além de ser a última cidade a ficar nos escombros? Não há lugar melhor para recrutar recrutas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"I'm not really of a mind to talk about it. Least of all with a Fatebinder of [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <DefaultText>"Eu não sou realmente uma mente para falar sobre isso. Pelo menos com um Fatebinder de [url=glossary:tunon]Tunon[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"If that were the case, I would not be here to ensure the hastening of your success."</DefaultText>
+      <DefaultText>"Se fosse esse o caso, eu não estaria aqui para garantir a aceleração do seu sucesso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Doesn't look like you'd go, if I did."</DefaultText>
+      <DefaultText>"Não parece que você iria, se eu fizesse."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>She laughs and relaxes her guard, charmed by your bluntness.
+      <DefaultText>Ela ri e relaxa sua guarda, encantada com sua franqueza.
 
-"Well. You're right about that."</DefaultText>
+"Bem. Você está certo sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Back down or lose that spear-fighting arm. Your choice."</DefaultText>
+      <DefaultText>"Recue ou perca esse braço de lança. Sua escolha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"You may be the Voices' pet Fatebinder, but you're not the big boss in these parts. If you've come to help then help, but don't forget this is my racket."
+      <DefaultText>"Você pode ser o Fatebinder favorito dos Voices, mas você não é o grande chefe por aqui. Se você veio ajudar, ajude, mas não se esqueça que essa é a minha raquete."
 
-She drops her spear into the sheathe on her back and crosses her arms, wary as she regard you.
+Ela joga sua lança no calção de costas e cruza os braços, cautelosa como ela te considera.
 
-"I've had my gangs combing the Sea more than four spans now, without sleep. We're close to finding that moaning muckpile."</DefaultText>
+"Eu já tive minhas gangues vasculhando o Mar mais de quatro vãos agora, sem dormir. Estamos perto de encontrar aquela porcaria de merda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Close doesn't cut it."</DefaultText>
+      <DefaultText>"Fechar não corta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Where does the intel point us?"</DefaultText>
+      <DefaultText>"Onde a inteligência nos aponta?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"I am no one's pet. And if you keep trying to annoy me, I'll chop you into little pieces and feed you to the crows."</DefaultText>
+      <DefaultText>"Eu não sou o animal de estimação de ninguém. E se você continuar tentando me irritar, eu vou te cortar em pedacinhos e te alimentar com os corvos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"To be perfectly honest, I'm thinking about flaying you and taking over your gang."</DefaultText>
+      <DefaultText>"Para ser perfeitamente honesta, estou pensando em esfolar você e assumir sua gangue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"That's a fresh one, Fatebinder. But I'm not one for jokes, you see? You're standing plumb in the middle of a town run by my Chorus. Wave your weapon at me, and I'll have your head on a stick before you can say, 'Mercy, Misery! Mercy!'"</DefaultText>
+      <DefaultText>"Esse é um novo, Fatebinder. Mas eu não sou de piadas, entende? Você está em pé no meio de uma cidade dirigida pelo meu Coro. Acene sua arma para mim, e eu terei sua cabeça um pau antes que você possa dizer: "Misericórdia, Miséria! Misericórdia!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,104 +222,104 @@ She drops her spear into the sheathe on her back and crosses her arms, wary as s
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"So you say." She unsheathes her weighty spear and hefts it across her shoulders. "I didn't claw my way to this rank by being easy to kill. I'll be watching you, Binder."</DefaultText>
+      <DefaultText>"Então você diz." Ela desembainha sua lança pesada e a coloca sobre os ombros. "Eu não abri caminho para esse posto por ser fácil de matar. Estarei observando você, Binder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"I'll have your dying lips moan my name."</DefaultText>
+      <DefaultText>"Eu vou ter seus lábios moribundos gemendo meu nome."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>She falls silent and unnaturally still, taut as a snake arched to strike. Finally, she shirks back, settling the tension between you with a lazy salute.
+      <DefaultText>Ela fica quieta e anormalmente imóvel, tensa como uma cobra que se arqueia para atacar. Finalmente, ela se esquiva, resolvendo a tensão entre você com uma preguiçosa saudação.
 
-"Point taken. I can see you're one of us after all. If the Voices sent you to help, then I'll tell you what I know."</DefaultText>
+"Ponto tomado. Eu posso ver que você é um de nós afinal de contas. Se as Vozes lhe enviarem para ajudar, então eu lhe direi o que eu sei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"I can get us there, but it's not my neck on the chopping block. If you know what I mean."</DefaultText>
+      <DefaultText>"Eu posso nos levar até lá, mas não é o meu pescoço na tábua de cortar. Se você sabe o que quero dizer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Sounds challenging. I'll need to see to some preparations first."</DefaultText>
+      <DefaultText>"Parece desafiador. Preciso ver alguns preparativos primeiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Yeah, I think I get what you mean." She grunts and spits at the ground through her mask's mouth slit.
+      <DefaultText>"Sim, acho que entendi o que você quer dizer." Ela grunhe e cospe no chão através da fenda da boca da máscara.
 
-"What's it going to take for me to sweeten the pot?"</DefaultText>
+"O que vai levar para mim adoçar a panela?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"If you're stocking up, drop my name with the traders around town. They'll give you a warm welcome or risk their ring-fingers."
+      <DefaultText>"Se você está estocando, deixe meu nome com os comerciantes da cidade. Eles vão dar-lhe uma recepção calorosa ou arriscar seus dedos."
 
-She nods once, gruffly.
+Ela acena com a cabeça uma vez, rispidamente.
 
-"When you're ready, Octave will be waiting for you in [url=lore:StoneDown]Stone Down[/url]."</DefaultText>
+"Quando estiver pronto, o Octave estará esperando por você no [url=lore:StoneDown]Stone Down[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"I've sent my right-hand man, Octave, with a slew of Furies to recruit or kill the [url=glossary:stonestalkers]Stonestalkers[/url] at the heart of their den in [url=lore:StoneDown]Stone Down[/url]. They know where [url=glossary:cairn]Cairn[/url] is, so I'm saying they'll either help us or get out of the damn way, permanently. Go and join him, if only to make sure he doesn't swive this up for me."</DefaultText>
+      <DefaultText>"Eu mandei meu homem da mão direita, Octave, com uma enorme quantidade de Fúrias para recrutar ou matar o [url=glossary:stonestalkers]Stonestalkers[/url] no coração de seu covil em [url=lore:StoneDown]Stone Down[/url]. Eles sabem onde [url=glossary:cairn]Cairn[/url] é, então eu estou dizendo que eles vão nos ajudar ou saia da maldita maneira, permanentemente. Vá e junte-se a ele, mesmo que seja só para ter certeza de que ele não vai me convencer disso. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Yeah, Binder, we have. Had that idea myself pretty early on. I'd nearly gone mad listening to that stone lump's moaning, morn after morn and night after night. Thought, hey now, we could track that. But the howls, they echo off of every peak and crevice in the whole valley. Especially when the Beastmen are answering his cry."</DefaultText>
+      <DefaultText>"Sim, Binder, nós temos. Eu tive essa ideia bem cedo. Eu quase enlouqueci ouvindo aquele caroço de pedra gemendo, pela manhã e noite após noite. Pensei, ei, agora, nós poderíamos rastrear isso. Mas os uivos eles ecoam em todos os cumes e fendas em todo o vale, especialmente quando os Homens-Besta estão respondendo ao seu grito ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Have you tried following the sound of the moaning?"</DefaultText>
+      <DefaultText>"Você tentou seguir o som do gemido?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"You want to conscript Beastmen for their strength?"</DefaultText>
+      <DefaultText>"Você quer recrutar Beastmen por sua força?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Those Beasts are gloriously vicious. I've seen them tear a [url=glossary:disfavored]Disfavored[/url]'s arms and legs off - through the damned armor. Knowing that, I'd prefer to have them on my side, wouldn't you?"</DefaultText>
+      <DefaultText>"Aqueles Feras são gloriosamente cruéis. Eu os vi rasgar os braços e as pernas de um [url=glossary:disfavored]Disfavored[/url] através da maldita armadura. Sabendo disso, eu preferiria tê-los do meu lado, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Plus, the [url=glossary:stonestalkers]Stonestalkers[/url] know how to get to the Spire at Howling Rock."</DefaultText>
+      <DefaultText>"Além disso, os [url=glossary:stonestalkers]Stonestalkers[/url] sabem como chegar à Spire at Howling Rock."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"You said the Beastmen were killing you?"</DefaultText>
+      <DefaultText>"Você disse que os homens-fera estavam te matando?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"What's up with the Beastman in the town square?"</DefaultText>
+      <DefaultText>"O que há com o Beastman na praça da cidade?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"My gang helped drag him in a couple days ago. The townfolk are clamoring to skin him alive. But if I let that happen, it'd be a waste of an asset."</DefaultText>
+      <DefaultText>"Minha gangue ajudou a arrastá-lo em alguns dias atrás. O povo da cidade está clamando para esfolar ele vivo. Mas se eu deixar isso acontecer, seria um desperdício de uma vantagem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Left-Claw is fast, fierce hunter. Should not be treated like prey."
+      <DefaultText>"Garra Esquerda é um caçador rápido e feroz. Não deve ser tratado como uma presa."
 
-She sniffs, her expression dark as she regards Misery.
+Ela cheira, sua expressão escura quando ela considera Misery.
 
-"Chorus claims to help Left-Claw. But smells of lies."</DefaultText>
+"O coro afirma ajudar a Garra da Esquerda. Mas cheira a mentiras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Honey-claw, we're the only ones around here who don't want to skin that Beast alive. Of course, we'd happily free him, but with such a crowd at his throat, there's only so much we can do. We're not going to turn the whole of [Plainsgate] against us for the sake of one Beast."</DefaultText>
+      <DefaultText>"Garra de mel, nós somos os únicos por aqui que não querem esfolar a Besta viva. É claro que nós teríamos o prazer de libertá-lo, mas com uma multidão em sua garganta, há tanta coisa que podemos fazer Nós não vamos transformar todo o [Plainsgate] contra nós por causa de uma Besta. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,12 +329,12 @@ She sniffs, her expression dark as she regards Misery.
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>The Beastwoman grunts her understanding. She watches Misery with a predatory, blood-thirsting gaze, saying nothing further, trusting you with the situation.</DefaultText>
+      <DefaultText>A Beastwoman grunhe seu entendimento. Ela observa Misery com um olhar predatório e sedento de sangue, sem dizer mais nada, confiando em você com a situação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Misery shrugs, seeming utterly unconcerned, but you notice that during the exchange she had moved her hand to rest on the hilt of her sheathed spear.</DefaultText>
+      <DefaultText>Miséria encolhe os ombros, parecendo completamente despreocupada, mas você percebe que durante a troca ela moveu a mão para descansar no cabo de sua lança embainhada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -344,7 +344,7 @@ She sniffs, her expression dark as she regards Misery.
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>The Beastwoman chuffs, both amused by your remark and in agreement with it. She watches Misery with a predatory, bloodthirsty gaze, tongue laving her bared fangs, but she says nothing further on the matter, entrusting it to you, her chosen Alpha.</DefaultText>
+      <DefaultText>O Beastwoman chuffs, ambos divertidos por sua observação e de acordo com ele. Ela observa Misery com um olhar predatório e sanguinário, a língua lambendo suas presas nuas, mas ela não diz mais nada sobre o assunto, confiando-o a você, seu Alfa escolhido.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,132 +354,132 @@ She sniffs, her expression dark as she regards Misery.
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>The Beastwoman huffs but says nothing further. Instead, she turns away and crouches on her haunches, pointedly showing you and Misery her hairy back as she sulks. </DefaultText>
+      <DefaultText>A Beastwoman bufa mas não diz mais nada. Em vez disso, ela se vira e se agacha em suas ancas, mostrando a você e a Misery suas costas peludas enquanto fica de mau humor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Misery barks a laugh, clearly amused.</DefaultText>
+      <DefaultText>Miséria late uma risada, claramente divertida.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"I've heard all I need to know."</DefaultText>
+      <DefaultText>"Eu já ouvi tudo o que preciso saber."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Then I've said all I needed to say."</DefaultText>
+      <DefaultText>"Então eu disse tudo o que eu precisava dizer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"That's a matter of perspective." She laughs, hearty and deep. "On who's giving who problems."
+      <DefaultText>"Isso é uma questão de perspectiva." Ela ri, calorosa e profunda. "Sobre quem está dando quem problemas."
 
-She hawks phlegm through the narrow mouth slit in her mask, leaving a trail of spittle dribbling down her bronzed chin.
+Ela expele o catarro através da boca estreita que corta sua máscara, deixando um rastro de saliva escorrendo pelo queixo bronzeado.
 
-"They kill us. We hunt them - for their added strength to the Chorus or just for their skin. Makes no mind to me."</DefaultText>
+"Eles nos matam. Nós os caçamos - por sua força adicional ao Coro ou apenas por sua pele. Não faz ideia para mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Just kill him, and I'll be satisfied."</DefaultText>
+      <DefaultText>"Apenas mate ele, e eu ficarei satisfeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"That's right, so show some respect."</DefaultText>
+      <DefaultText>"Isso mesmo, mostre algum respeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Your surety makes me want to choke my best lackey. Help me kill [url=glossary:cairn]Cairn[/url] and I'll wash your feet with my hair - and his blood."</DefaultText>
+      <DefaultText>"Sua segurança me faz querer sufocar meu melhor lacaio. Ajude-me a matar [url=glossary:cairn]Cairn[/url] e eu vou lavar seus pés com meu cabelo - e seu sangue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"But screw me on this, and I'll make sure the Voices eats you whole."</DefaultText>
+      <DefaultText>"Mas me ferre nisso, e me certificarei de que as Vozes te comam inteiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Have one your Blood Chanters teach me some magic."</DefaultText>
+      <DefaultText>"Tenha um seu Blood Chanters me ensinar alguma mágica."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Talk me up to your gang, and I'll get you to Howling Rock faster than you can say '[url=glossary:kyros]Kyros[/url] have mercy.'"</DefaultText>
+      <DefaultText>"Fale comigo para sua turma, e eu vou levá-lo para Howling Rock mais rápido do que você pode dizer '[url=glossary:kyros]Kyros[/url] ter misericórdia.'"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"It's a deal well done."
+      <DefaultText>"É um negócio bem feito."
 
-She gives a mock bow, flourishing her gauntleted arms wide before you.
+Ela faz uma reverência falsa, florescendo os braços presos à sua frente.
 
-"I like you, Fatebinder."</DefaultText>
+"Eu gosto de você, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"It's a deal well done."
+      <DefaultText>"É um negócio bem feito."
 
-She gives a mock bow, flourishing her gauntleted arms wide before you.
+Ela faz uma reverência falsa, florescendo os braços presos à sua frente.
 
-"I like you, Fatebinder."</DefaultText>
+"Eu gosto de você, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"I presume the Beastmen have refused to lead you to Howling Rock."</DefaultText>
+      <DefaultText>"Eu presumo que os homens-fera se recusaram a levá-lo para Howling Rock".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Right on the mark, you are. They've been less than welcoming ever since we hunted a herd of them during the fall of Azure. We've had to stoop to less than upstanding methods."</DefaultText>
+      <DefaultText>"Bem na marca, você está. Eles têm sido menos do que acolhedores desde que caçamos uma manada deles durante a queda do Azure. Tivemos que nos inclinar para métodos menos do que honestos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Brutally efficient. I approve."</DefaultText>
+      <DefaultText>"Brutalmente eficiente. Eu aprovo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"I do so aim to please."
+      <DefaultText>"Eu faço isso com o objetivo de agradar."
 
-She gives a mock bow, flourishing her gauntleted arms wide before you.
+Ela faz uma reverência falsa, florescendo os braços presos à sua frente.
 
-"I like you, Fatebinder."</DefaultText>
+"Eu gosto de você, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"I'll help you deal with the [url=glossary:stonestalkers]Stonestalkers[/url], but in exchange I want you to free Left-Claw."</DefaultText>
+      <DefaultText>"Eu vou te ajudar a lidar com o [url=glossary:stonestalkers]Stonestalkers[/url], mas em troca eu quero que você liberte o Left-Claw."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Think it'll make it easier for you to win the tribe over? Suit yourself - the situation had gotten complicated with that one. It's a deal well done."
+      <DefaultText>"Acha que vai tornar mais fácil para você vencer a tribo? Se adapte - a situação ficou complicada com essa. É um negócio bem feito."
 
-She gives a mock bow, flourishing her gauntleted arms wide before you.
+Ela faz uma reverência falsa, florescendo os braços presos à sua frente.
 
-"I like you, Fatebinder."</DefaultText>
+"Eu gosto de você, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"What can you tell me about Left-Claw?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre o Left-Claw?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Come again?" She stares you down from the impenetrable wall of her mask, but after a moment twitches a glance toward the raucous of the town square, betraying her ruse. "Who?"</DefaultText>
+      <DefaultText>"Volte novamente?" Ela te observa da parede impenetrável de sua máscara, mas depois de um momento, olha para a ruidosa praça da cidade, traindo sua artimanha. "Quem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"I'm referring to the Beastman your Chorus captured. The one on trial in the town square."</DefaultText>
+      <DefaultText>"Estou me referindo ao Homem-Besta que seu Coro capturou. Aquele que está sendo julgado na praça da cidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -489,7 +489,7 @@ She gives a mock bow, flourishing her gauntleted arms wide before you.
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"All right, you got me. [url=glossary:kyros]Kyros[/url] only knows why, he's been single-mindedly hunting [url=glossary:disfavored]Disfavored[/url] throughout the Sea. He's damn good at it, too. So we set a trap for him. Figured we could force him into our ranks. Only, the situation's gotten... messy."</DefaultText>
+      <DefaultText>"Tudo bem, você me pegou. [url=glossary:kyros]Kyros[/url] só sabe o porquê, ele tem sido obstinado em caçar [url=glossary:disfavored]Disfavored[/url] em todo o Mar. Ele é muito bom nisso também. Então nós preparamos uma armadilha para ele. Descobrimos que poderíamos forçá-lo a entrar em nossas fileiras. Apenas , a situação ficou ... confusa. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -499,402 +499,402 @@ She gives a mock bow, flourishing her gauntleted arms wide before you.
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"That's about what I thought."</DefaultText>
+      <DefaultText>"Isso é sobre o que eu pensava."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Got a problem with that, you can take it up Arabella, my spear." She jiggles the imposing weapon in its holster, proud. "You wouldn't be the first Fatebinder she's tasted."</DefaultText>
+      <DefaultText>"Tenho um problema com isso, você pode pegar Arabella, minha lança." Ela agita a imponente arma no coldre, orgulhosa. "Você não seria o primeiro Fatebinder que ela provou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"You claiming to have fought a Fatebinder and lived?"</DefaultText>
+      <DefaultText>"Você alega ter lutado contra um Fatebinder e viveu?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"I will."</DefaultText>
+      <DefaultText>"Eu vou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Wouldn't be standing here to brag about it if I hadn't survived, now would I? Impressed?" She cracks her neck, the snap loud and unnerving, though she hardly seems to notice. "Next time you see Nunoval, tell him Misery sends her regards."</DefaultText>
+      <DefaultText>"Não estaria aqui para me gabar se eu não tivesse sobrevivido, agora estaria? Impressionado?" Ela quebra o pescoço, o estalo alto e enervante, embora ela quase não pareça notar. "Da próxima vez que você vir Nunoval, diga a ele que Misery envia seus cumprimentos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"You're lying."</DefaultText>
+      <DefaultText>"Você está mentindo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>She shrugs. "Believe what you will."</DefaultText>
+      <DefaultText>Ela encolhe os ombros. "Acredite no que você quiser."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>She titters, trembling with excitement at the thought. "Well, it's not like he didn't leave his mark as well."</DefaultText>
+      <DefaultText>Ela tituca, tremendo de excitação com o pensamento. "Bem, não é como se ele não tivesse deixado sua marca também."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>She shrugs. "Believe what you will."</DefaultText>
+      <DefaultText>Ela encolhe os ombros. "Acredite no que você quiser."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>She titters, trembling with excitement at the thought. "Well, it's not like he didn't leave his mark as well."</DefaultText>
+      <DefaultText>Ela tituca, tremendo de excitação com o pensamento. "Bem, não é como se ele não tivesse deixado sua marca também."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Sounds like more mouths to feed when you've yet to restore the Azure's farmland."</DefaultText>
+      <DefaultText>"Soa como mais bocas para alimentar quando você ainda precisa restaurar a terra de cultivo do Azure."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Until the people of [Plainsgate] swear to an Archon, they've no rights under [url=glossary:kyros]Kyros[/url]' Law. Conscript them at speartip if need be."</DefaultText>
+      <DefaultText>"Até as pessoas de [Plainsgate] jurarem um Arconte, eles não têm direitos sob [url=glossary:kyros]Kyros[/url] 'Law. Conscreve-os em speartip se for necessário."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"We're losing bodies every day. To hunger, to Beasts, to [url=glossary:disfavored]Disfavored[/url], and in-fighting. Not replacing them would only kill the Chorus faster."</DefaultText>
+      <DefaultText>"Estamos perdendo corpos todos os dias. A fome, a fera, a [url=glossary:disfavored]Disfavored[/url], e na luta. Não substituí-los só mataria o coro mais rápido".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Damn right, I will. We're losing bodies every day. To hunger, to Beasts, to [url=glossary:disfavored]Disfavored[/url], and in-fighting. Replacements have got to come from somewhere. And unlike Ashe's inbreds, we don't shy away from Tiersmen."</DefaultText>
+      <DefaultText>"Droga, eu vou. Estamos perdendo corpos todos os dias. A fome, a fera, a [url=glossary:disfavored]Disfavored[/url], e na luta. Replacements tem que vir de algum lugar. E ao contrário de filhos de Ashe, não fugir de Tiersmen "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Do not play coy with me."</DefaultText>
+      <DefaultText>"Não brinque comigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Left-Claw is good whelp. Hunts iron-clads for Kills-in-Shadow. Hunts for revenge."</DefaultText>
+      <DefaultText>"Garra Esquerda é um bom filhote. Caça vestida de ferro por Mata-na-Sombra. Caça por vingança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"This Beastwoman saying she trained him?"</DefaultText>
+      <DefaultText>"Esta Beastwoman dizendo que ela treinou ele?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Sounds like."</DefaultText>
+      <DefaultText>"Soa como."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"How should I know?"</DefaultText>
+      <DefaultText>"Como eu deveria saber?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Now that's interesting."</DefaultText>
+      <DefaultText>"Agora isso é interessante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"She follows you, doesn't she? Never mind. Either way, it's interesting."</DefaultText>
+      <DefaultText>"Ela segue você, não é? Não importa. De qualquer forma, é interessante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Oh? Run in with the Courts?"</DefaultText>
+      <DefaultText>"Oh? Corra com os tribunais?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Understandable."</DefaultText>
+      <DefaultText>"Compreensível."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"I said I don't want to talk about it."</DefaultText>
+      <DefaultText>"Eu disse que não quero falar sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Oh, yeah. I love being pitied. Try to sympathize with what you don't know, and I'll give you something to gnash your teeth over."</DefaultText>
+      <DefaultText>"Oh, sim. Eu amo ser lamentável. Tente simpatizar com o que você não sabe, e eu vou te dar algo para ranger seus dentes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Why do you think they know that?"</DefaultText>
+      <DefaultText>"Por que você acha que eles sabem disso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Once, this whole realm was their territory. Now they're taking it back, stone by stone. They're the followers of [url=glossary:cairn]Cairn[/url], and they know this newly barren landscape better than anyone."</DefaultText>
+      <DefaultText>"Uma vez, todo esse reino era o território deles. Agora eles estão tomando de volta, pedra por pedra. Eles são os seguidores de [url=glossary:cairn]Cairn[/url], e eles conhecem essa paisagem recém-estéril melhor do que ninguém."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"You don't know where he is?"</DefaultText>
+      <DefaultText>"Você não sabe onde ele está?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"What has the Beastman done to warrant a visit from a Fatebinder?"</DefaultText>
+      <DefaultText>"O que o Homem-Besta fez para justificar uma visita de um Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"If I did, he wouldn't still be a problem."</DefaultText>
+      <DefaultText>"Se eu fizesse, ele ainda não seria um problema."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Like I said, he's causing problems. I think maybe he's taken to hunting our own."</DefaultText>
+      <DefaultText>"Como eu disse, ele está causando problemas. Acho que talvez ele tenha caçado nos nossos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"I'll think about it."</DefaultText>
+      <DefaultText>"Vou pensar sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"There aren't many under the Voices who can refuse the request of a Crimson Spear. What is this strange feeling? Ah, annoyance."</DefaultText>
+      <DefaultText>"Não há muitos sob as vozes que possam recusar o pedido de uma lança carmesim. O que é esse sentimento estranho? Ah, aborrecimento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"That doesn't sound too convincing. He must be something of a personal threat to you for you to want him dead."</DefaultText>
+      <DefaultText>"Isso não parece muito convincente. Ele deve ser uma ameaça pessoal para você querer que ele morra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"I can see you're going to figure it out, one way or another. He's too damn strong. If I leave him to range unchecked, he's likely to become a Crimson Spear, if you know what I mean. I became a Crimson Spear the day I killed my boss and took her spot."</DefaultText>
+      <DefaultText>"Eu posso ver que você vai descobrir isso, de uma maneira ou de outra. Ele é muito forte. Se eu deixar ele longe, ele provavelmente se tornará uma Lança Carmesim, se você entende o que eu quero dizer. Eu me tornei um Carmesim." Spear o dia em que matei meu chefe e tomei seu lugar ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"How hard was it to take control of the town?"</DefaultText>
+      <DefaultText>"Quão difícil foi tomar o controle da cidade?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Couldn't have been easier. The people here are scared and vulnerable - and that's a winning combination. Move in, make promises, and stretch the truth. People will treat you like saviors from a problem that doesn't really exist. In this case, it helped that there actually is a problem we can make them think we're going to help with."
+      <DefaultText>"Não poderia ter sido mais fácil. As pessoas aqui estão assustadas e vulneráveis ​​- e isso é uma combinação vencedora. Entre, faça promessas e estenda a verdade. As pessoas vão tratá-lo como salvadores de um problema que realmente não existe. Neste caso, ajudou que realmente existe um problema que podemos fazer com que eles pensem que vamos ajudar. "
 
-"That just made it easier to sweep in and grab control."</DefaultText>
+"Isso só facilitou a varredura e o controle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Was it always the plan to take control of this settlement?"</DefaultText>
+      <DefaultText>"Foi sempre o plano para assumir o controle deste acordo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"So are you here to stop the quakes or are you here to damage the [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <DefaultText>"Então você está aqui para parar os terremotos ou você está aqui para danificar o [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Obviously, both. If we kill [url=glossary:cairn]Cairn[/url] and stop the quakes, we can return these plains to the farmland they used to be and feed our swelling army."
+      <DefaultText>"Obviamente, ambos. Se nós matarmos [url=glossary:cairn]Cairn[/url] e pararmos os terremotos, nós podemos devolver essas planícies para a terra que costumavam ser e alimentar nosso inchado exército".
 
-She laughs. "And if we can hurt the [url=glossary:disfavored]Disfavored[/url] as a secondary goal, then even better."</DefaultText>
+Ela ri. "E se nós podemos ferir o [url=glossary:disfavored]Disfavored[/url] como um objetivo secundário, então ainda melhor".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Let's talk about something else."</DefaultText>
+      <DefaultText>"Vamos falar sobre outra coisa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Fine by me."</DefaultText>
+      <DefaultText>"Por mim tudo bem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Doesn't the Voices tell you anything? Of course we planned to take [Plainsgate] - after the break down at [url=glossary:vendrien's well]Vendrien's Well[/url]."
+      <DefaultText>"As vozes não dizem nada a você? É claro que planejamos fazer o [Plainsgate] - depois do colapso no [url=glossary:vendrien's well]Vendrien's Well[/url]".
 
-She waves her hand slyly. "We would never openly defy [url=glossary:kyros]Kyros[/url]' will."</DefaultText>
+Ela acena com a mão maliciosamente. "Nós nunca desafiaríamos abertamente [url=glossary:kyros]Kyros[/url] 'vontade'."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Don't lie to us, or by thunder we'll know! Did the [url=glossary:scarlet chorus]Scarlet Chorus[/url] plan on claiming this territory before the civil war?" Barik advances with a dangerous air.</DefaultText>
+      <DefaultText>"Não minta para nós, ou pelo trovão nós saberemos! O [url=glossary:scarlet chorus]Scarlet Chorus[/url] planeja reivindicar este território antes da guerra civil?" Barik avança com um ar perigoso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>She reaches for her spear but doesn't yet draw it, confident and firm in her stance. "No more than the [url=glossary:disfavored]Disfavored[/url] marked their territory all over Stalwart." She shrugs. 
+      <DefaultText>Ela pega sua lança, mas ainda não a desenha, confiante e firme em sua postura. "Não mais do que o [url=glossary:disfavored]Disfavored[/url] marcou seu território em todo Stalwart." Ela encolhe os ombros.
 
-"Did you think the Voices wouldn't notice how Ashe put down stakes for a [url=glossary:disfavored]Disfavored[/url]-only occupation? Anyone with eyes would see it as suspicious. And the Voices has more than his share of eyes." </DefaultText>
+"Você acha que as vozes não notariam como Ashe deixou de fazer apostas para uma ocupação exclusiva? Qualquer um com olhos veria isso como suspeito. E as vozes têm mais do que sua parcela de olhos".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"The [url=glossary:scarlet chorus]Scarlet Chorus[/url] should not have plotted to take the region for themselves."</DefaultText>
+      <DefaultText>"O [url=glossary:scarlet chorus]Scarlet Chorus[/url] não deve ter traçado para tomar a região para si."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"By that logic, the [url=glossary:disfavored]Disfavored[/url] are just as corrupt."</DefaultText>
+      <DefaultText>"Por essa lógica, os [url=glossary:disfavored]Disfavored[/url] são tão corruptos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"It's no matter now that the armies have their teeth in each other's throats. But it makes a gal wonder whose side you're really on."</DefaultText>
+      <DefaultText>"Não importa agora que os exércitos tenham seus dentes na garganta um do outro. Mas isso faz uma maravilha galão de que lado você realmente está."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Damn right they are." </DefaultText>
+      <DefaultText>"Droga, certo, eles estão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"I am a harbinger of justice, not a slayer of innocents."</DefaultText>
+      <DefaultText>"Eu sou um precursor da justiça, não um matador de inocentes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Just like a Fatebinder to always be sniffing around. If you must know, I joined with the Chorus back before they invaded the Tiers. And wherever I went, misery followed." She looks down at the ground in recollection. </DefaultText>
+      <DefaultText>"Assim como um Fatebinder para sempre estar farejando. Se você deve saber, eu me juntei com o Coro de volta antes que eles invadissem os Tiers. E onde quer que eu fosse, a miséria se seguia." Ela olha para o chão em lembrança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"I ditched home for the biggest army [url=glossary:kyros]Kyros[/url] had, and landed myself in one of the toughest gangs. Of course, when we tore through my homeland, both my parents and siblings took up arms. Nerat entrusted me with their execution, and now I'm here, ruling this pile of rubble, and they're just bones under the ground." 
+      <DefaultText>"Eu larguei a casa para o maior exército que possuía, e me coloquei em uma das gangues mais duras. É claro que, quando rasgamos minha terra natal, meus pais e irmãos pegaram em armas. Nerat me confiou sua execução, e agora eu Estou aqui, governando esta pilha de escombros, e eles são apenas ossos sob o chão ".
 
-Her bronze visage stares coldly back. "Story time's over."</DefaultText>
+Seu rosto de bronze olha friamente de volta. "O tempo da história acabou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"You are welcome to try, hag, but I guarantee you'll regret it. I don't need any more excuse to walk every one of you off a cliff."</DefaultText>
+      <DefaultText>"Você é bem-vinda para tentar, hag, mas eu garanto que você vai se arrepender. Eu não preciso de mais nenhuma desculpa para andar com cada um de vocês em um penhasco."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Shut your hole, Misery. He only does that to people he admires. That puts you in the clear." </DefaultText>
+      <DefaultText>"Feche seu buraco, Miséria. Ele só faz isso com pessoas que ele admira. Isso deixa você em claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Bank Node 153</DefaultText>
+      <DefaultText>Nó do banco 153</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>She sneers at the other woman and pumps her spear in a both threatening and clearly vulgar manner. 
+      <DefaultText>Ela zomba da outra mulher e bombeia sua lança de uma maneira ameaçadora e claramente vulgar.
 
-"I could put a hole in your throat faster than you could squeak. Sure, it might kill me. But it sure as shit would kill you."
+"Eu poderia colocar um buraco em sua garganta mais rápido do que você poderia chiar. Claro, isso poderia me matar. Mas com certeza como a merda iria matar você."
 
-She shrugs but is a little too eager to back off after her show, when given the chance.</DefaultText>
+Ela encolhe os ombros, mas está um pouco ansiosa para recuar após o show, quando teve a chance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] respect Archon called [url=glossary:cairn]Cairn[/url] because [url=glossary:cairn]Cairn[/url] fought for Beastwomen. Why wouldn't tribe answer Stone-mystic's dying whines?"</DefaultText>
+      <DefaultText>"[url=glossary:stonestalkers]Stonestalkers[/url] respeito Arconte chamado [url=glossary:cairn]Cairn[/url] porque [url=glossary:cairn]Cairn[/url] lutou por Fera. Por que a tribo não responderia aos gemidos de pedra-místico?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Don't like rot-smelling human's words. Rending-Hound is good whelp. Savage fighter. Must be threat to human's ranking in pack - or why would human whine to have Beastman killed?"</DefaultText>
+      <DefaultText>"Não gosto de palavras de cheiro de podridão humana. Rending-Hound é um bom filhote. Lutador selvagem. Deve ser uma ameaça para a posição humana na matilha - ou por que lamento humano teria matado Beastman?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Beastwoman also has met human called Nunoval."
+      <DefaultText>"Beastwoman também conheceu humano chamado Nunoval."
 
-She chuffs and snorts, amused.</DefaultText>
+Ela bufa e bufa, divertida.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Misery juts her chin, impressed. "Seems the Fatebinder of War has a better survival rate than even the [url=glossary:disfavored]Disfavored[/url]'s elite. Would like to know how he heals his wounds - and why he's so shit at avoiding them to start with." She laughs, a choking, rough sound.</DefaultText>
+      <DefaultText>A miséria estica o queixo, impressionada. "Parece que o Fatebinder of War tem uma taxa de sobrevivência melhor do que a elite do [url=glossary:disfavored]Disfavored[/url]. Gostaria de saber como ele cura suas feridas - e por que ele é tão ruim em evitá-las para começar." Ela ri, um som asfixiante e áspero.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Must be my lucky day." The Crimson Spear cocks her helm-hidden face to the side, studying you warily. 
+      <DefaultText>"Deve ser o meu dia de sorte." The Crimson Spear inclina o rosto escondido para o lado, estudando-o com cautela.
 
-"I get to bathe my Arabella in a Fatebinder's blood." She stomps into a hip-squared crouch and pivots her long spear over her head. As her hand movements speed, the bronze spear begins to wump and snap at the air.</DefaultText>
+"Eu posso banhar minha Arabella no sangue de um Fatebinder." Ela pisa em um quadril agachado e gira sua longa lança sobre a cabeça. Enquanto seus movimentos da mão aceleram, a lança de bronze começa a se soltar e estalar no ar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>The Crimson Spear tips her masked face to one side, weighing the Beastwoman's logic for a moment before speaking further.</DefaultText>
+      <DefaultText>A Lança Carmesim inclina o rosto mascarado para um lado, pesando a lógica da Besta Feminina por um momento antes de falar mais.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Do not threaten little song bird." The Beastwoman glowers.</DefaultText>
+      <DefaultText>"Não ameace o pequeno pássaro da canção." A Beastwoman arde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>She shrugs but is a little too eager to back off after her show, when given the chance.</DefaultText>
+      <DefaultText>Ela encolhe os ombros, mas está um pouco ansiosa para recuar após o show, quando teve a chance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>She sneers at the other woman and pumps her spear in a both threatening and clearly vulgar manner. 
+      <DefaultText>Ela zomba da outra mulher e bombeia sua lança de uma maneira ameaçadora e claramente vulgar.
 
-"I could put a hole in your throat faster than you could squeak. Sure, it might kill me. But it sure as shit would kill you."</DefaultText>
+"Eu poderia colocar um buraco em sua garganta mais rápido do que você poderia chiar. Claro, isso poderia me matar. Mas com certeza como a merda iria matar você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Do not threaten Beastwoman's packmate." Kills-in-Shadow glowers.</DefaultText>
+      <DefaultText>"Não ameace a companheira de besta da Beastwoman." Aplausos em Sombra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>She surveys the ruin you've wrought on her town - the wake of bodies and blood you've churned at her feet, and her stance stiffens. Her grip tightens on her spear until her arms are wholly shaking.
+      <DefaultText>Ela analisa a ruína que você causou em sua cidade - a esteira de corpos e sangue que você agitou a seus pés, e sua postura endurece. Seu aperto aperta sua lança até que seus braços estão tremendo.
 
-"I haven't clawed my fingers to the bone - I haven't slaughtered those who plague my dreams just to be washed away by a [url=glossary:kyros]Kyros[/url]-damned Fatebinder! I'll make you regret it. You hear me?! I'll make you regret ever coming here."</DefaultText>
+"Eu não agarrei meus dedos até o osso - eu não abati aqueles que atormentam meus sonhos só para serem levados por um Fatebinder! Eu vou fazer você se arrepender disso. Você me ouve ?! Eu vou faça você se arrepender de ter vindo aqui ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>She slaps her spear against the ground, loud as a whip crack, and her arms shudder from the force as the haft ricochets back into the air. She laughs, clamorous and throaty and pleased, eager to test her prowess against you.
+      <DefaultText>Ela bate a lança contra o chão, alto como um estalo de chicote, e seus braços estremecem com a força quando o cabo ricocheteia de volta no ar. Ela ri, clamorosa e gutural e satisfeita, ansiosa para testar suas proezas contra você.
 
-"Any last words?"</DefaultText>
+"Ultimas palavras?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"If you mean the last words you're ever going to hear, how about these: You're going to die now."</DefaultText>
+      <DefaultText>"Se você quer dizer as últimas palavras que você vai ouvir, que tal estas: Você vai morrer agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Scarlet harpy, I shall smite you in the name of the legion."</DefaultText>
+      <DefaultText>"Harpia escarlate, eu vou te ferir em nome da legião."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"How about a truce?"</DefaultText>
+      <DefaultText>"Que tal uma trégua?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Tch." She spits vehemently at the ground. "Insolent pox-prick. I'm going to enjoy skinning you, slowly, over the next few weeks. Best hope I don't take you alive, eh?"
+      <DefaultText>"Tch" Ela cospe veementemente no chão. "Insolente pox-picada. Eu vou desfrutar de esfolar você, devagar, nas próximas semanas. A melhor esperança é que eu não te leve vivo, hein?"
 
-With that, she cracks her neck audibly, raises her spear, and charges for you.</DefaultText>
+Com isso, ela quebra o pescoço de forma audível, levanta a lança e cobra por você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Tch." She spits vehemently at the ground. "You iron pox-prick. I'm going to enjoy skinning you, slowly, over the next few weeks. Best hope for Ashe's sake, I don't take you alive, eh?"
+      <DefaultText>"Tch" Ela cospe veementemente no chão. "Você ferro pox-picada. Eu vou desfrutar de esfola você, lentamente, ao longo das próximas semanas. Melhor esperança para Ashe, eu não te levar vivo, hein?"
 
-With that, she cracks her neck audibly, raises her spear, and charges for you.</DefaultText>
+Com isso, ela quebra o pescoço de forma audível, levanta a lança e cobra por você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Coming from the swiver with my soldiers' blood still smeared on his chin?" She spits vehemently at the ground. "Try again, you two-faced, motherless, pox-prick."
+      <DefaultText>"Vindo do swiver com sangue dos meus soldados ainda manchado em seu queixo?" Ela cospe veementemente no chão. "Tente de novo, você de duas caras, sem mãe, com pox-pick."
 
-With that, she cracks her neck audibly, raises her spear, and charges for you.</DefaultText>
+Com isso, ela quebra o pescoço de forma audível, levanta a lança e cobra por você.</DefaultText>
       <FemaleText>"Coming from the swiver with my soldiers' blood still smeared on her chin?" She spits vehemently at the ground. "Try again, you two-faced, motherless, tit."
 
 With that, she cracks her neck audibly, raises her spear, and charges for you.</FemaleText>
@@ -906,35 +906,35 @@ With that, she cracks her neck audibly, raises her spear, and charges for you.</
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"And a blade for my throat?" She cracks her neck and shrugs. "Well, I don't see him - or any particularly deathly looking shadows here, do you?"
+      <DefaultText>"E uma lâmina para a minha garganta?" Ela quebra o pescoço e encolhe os ombros. "Bem, eu não o vejo - ou alguma sombra de aparência particularmente mortal aqui, não é?"
 
-She lunges for you without further warning, fast as lightning, and followed by a thunderous crack of her spear.
+Ela avança para você sem aviso prévio, rápido como um raio, e seguida por uma fenda estrondosa de sua lança.
 
-"I don't fear the darkness. The darkness fears me."</DefaultText>
+"Eu não temo a escuridão. A escuridão me assusta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"If you grow a boil on your asscheek and name it [url=glossary:kyros]Kyros[/url], that doesn't make it the Overlord." She throws her heavy-helmed head back and titters. But abruptly she sobers, spear mid-hoist as she attacks without warning.
+      <DefaultText>"Se você crescer ferver em seu asscheek e nomeá-lo [url=glossary:kyros]Kyros[/url], isso não o torna o Overlord." Ela joga a cabeça pesada para trás e titula. Mas abruptamente, ela soluça, lança no meio da grua enquanto ataca sem aviso.
 
-"In other words," she shrieks, "keep dreaming!"</DefaultText>
+"Em outras palavras", ela grita, "continue sonhando!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Well? Come at me, then."</DefaultText>
+      <DefaultText>"Bem? Venha para mim, então."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Gladly." She spits vehemently at the ground. "I'm going to enjoy skinning you, slowly, over the next few weeks. Best hope I don't take you alive, eh?"
+      <DefaultText>"Com prazer." Ela cospe veementemente no chão. "Vou curtir a pele devagar, nas próximas semanas. A melhor esperança é não te deixar vivo, não é?"
 
-With that, she cracks her neck audibly, raises her spear, and charges for you.</DefaultText>
+Com isso, ela quebra o pescoço de forma audível, levanta a lança e cobra por você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>A curse dead on her lips, she glances with a jolt toward the horizon. "Motherless fu - "</DefaultText>
+      <DefaultText>Uma maldição morta em seus lábios, ela olha com um solavanco em direção ao horizonte. "Mãe - fu -"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -949,47 +949,47 @@ With that, she cracks her neck audibly, raises her spear, and charges for you.</
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>A resounding clang splits the sky as your fist strikes her armored mask. Her neck snaps to the side, and she curses anew before spitting blood and teeth at your feet. 
+      <DefaultText>Um estrondo ressonante divide o céu quando seu punho atinge sua máscara blindada. Seu pescoço se estala para o lado e ela amaldiçoa novamente antes de cuspir sangue e dentes aos seus pés.
 
-She trembles with fury, her eyes hot as cinders as she looks back to you. 
-"I'm going to enjoy killing you."
+Ela treme de fúria, seus olhos quentes como cinzas quando ela olha para você.
+"Eu vou gostar de matar você."
 
-Spear whipping in her hands, she lunges for you without further warning.</DefaultText>
+Spear chicoteando em suas mãos, ela avança para você sem aviso prévio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Tch. Go on and run you chicken-shit! It won't help you get away!" Spear raised, she lunges for you, fast and hot on your heels. "I'm going to enjoy skinning you, slowly, over the next few weeks. Best hope I don't take you alive, eh?"
+      <DefaultText>"Tch. Vá em frente e cuide de sua merda de galinha! Não vai ajudar você a fugir!" Spear levantou, ela avança para você, rápido e quente em seus calcanhares. "Vou curtir a pele devagar, nas próximas semanas. A melhor esperança é não te deixar vivo, não é?"
 
-She swipes for you, spear cracking thunderously through the air.</DefaultText>
+Ela desliza para você, lança trovejando pelo ar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"I'm starting to run out of 'last words' to offer, to be honest."</DefaultText>
+      <DefaultText>"Estou começando a ficar sem 'últimas palavras' para oferecer, para ser honesto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"I'll be sure to carve that on your tombstone." She cracks her neck, slow and audibly. "Just kidding. I'll be leaving your corpse rotting in the streets."
+      <DefaultText>"Eu vou ter a certeza de esculpir isso em sua lápide." Ela quebra o pescoço, lenta e audivelmente. "Estou brincando. Vou deixar seu cadáver apodrecendo nas ruas."
 
 
-She lunges for you without further warning, fast as lightning, and followed by a thunderous crack of her spear.</DefaultText>
+Ela avança para você sem aviso prévio, rápido como um raio, e seguida por uma fenda estrondosa de sua lança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"[url=glossary:bleden mark]Bleden Mark[/url] sends his regards."</DefaultText>
+      <DefaultText>"[url=glossary:bleden mark]Bleden Mark[/url] envia seus cumprimentos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"I'm liberating this realm from the tyranny of your crimson chokehold. No more will you terrorize these innocents."</DefaultText>
+      <DefaultText>"Estou libertando este reino da tirania do seu estrangulamento carmesim. Você não vai mais aterrorizar esses inocentes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"How about a truce?"</DefaultText>
+      <DefaultText>"Que tal uma trégua?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1004,14 +1004,14 @@ She lunges for you without further warning, fast as lightning, and followed by a
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Petty diversions can't save you." She spits vehemently at the ground. "Too petrified to flee or fight? Don't worry. You needn't move to die!"
+      <DefaultText>"Diversões mesquinhas não podem te salvar." Ela cospe veementemente no chão. "Muito petrificado para fugir ou lutar? Não se preocupe. Você não precisa se mover para morrer!"
 
-She lunges for you without further warning, fast as lightning, and followed by a thunderous crack of her spear.</DefaultText>
+Ela avança para você sem aviso prévio, rápido como um raio, e seguida por uma fenda estrondosa de sua lança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Back down or lose that spear-fighting arm. Your choice."</DefaultText>
+      <DefaultText>"Recue ou perca esse braço de lança. Sua escolha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1021,17 +1021,17 @@ She lunges for you without further warning, fast as lightning, and followed by a
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Sure enough. Just when we think we've found a route through, a new gorge opens and swallows the path whole."</DefaultText>
+      <DefaultText>"Com certeza. Apenas quando achamos que encontramos uma rota, um novo desfiladeiro se abre e engole todo o caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"I have news regarding Rending-Hound."</DefaultText>
+      <DefaultText>"Eu tenho notícias sobre Rending-Hound."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"If you're standing here, you best have slaughtered and skinned the Beast. And perhaps brought me a token from the hunt? I do so savor a good trophy - a warning of what happens to those who challenge me."</DefaultText>
+      <DefaultText>"Se você está de pé aqui, é melhor você matar e matar a Fera. E talvez tenha me trazido um sinal da caça? Eu gosto de um bom troféu - um aviso do que acontece com aqueles que me desafiam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1041,7 +1041,7 @@ She lunges for you without further warning, fast as lightning, and followed by a
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>She examines the grotesque necklace with a clear amusement. "Oh, this is phenomenal. Almost makes me regret not trusting the ruthless bastard at my back." </DefaultText>
+      <DefaultText>Ela examina o colar grotesco com uma diversão clara. "Oh, isso é fenomenal. Quase me faz arrepender de não confiar no bastardo cruel nas minhas costas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1051,83 +1051,83 @@ She lunges for you without further warning, fast as lightning, and followed by a
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Her helmed face cants sharply as she studies you, her lips no doubt twisted into a sneer behind her mask.
+      <DefaultText>Seu rosto helmeado canta bruscamente enquanto ela estuda você, seus lábios, sem dúvida, torcidos em um sorriso de escárnio atrás de sua máscara.
 
-"Keep your bloody prize, then. Arabella's the only warning I need at my side. But you? Yeah, you'll need all the trophies you can get." She laughs, but it's a cold and cruel clang from her chest. "Best watch your back as you walk within MY town - brimming with MY fucking gangs. Fatebinder."</DefaultText>
+"Mantenha seu prêmio sangrento, então. Arabella é o único aviso que eu preciso ao meu lado. Mas você? Sim, você vai precisar de todos os troféus que conseguir." Ela ri, mas é um som frio e cruel de seu peito. "Melhor ficar de olho nas suas costas enquanto você caminha dentro da MINHA cidade - transbordando com as minhas gangues de merda. Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"This is a nice souvenir. I would like to keep it."</DefaultText>
+      <DefaultText>"Esta é uma boa lembrança. Eu gostaria de mantê-la."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Oh, is that right? And does it brings out the color of your eyes? You sentimental shit-smear! Hand it over."
+      <DefaultText>"Oh, isso é certo? E isso realça a cor dos seus olhos? Você lambe a merda sentimental! Entregue-a."
 
-She flexes her armored fingers, her hand outstretched, impatient. "Now."</DefaultText>
+Ela flexiona os dedos blindados, a mão estendida, impaciente. "Agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Well, look at you - a Fatebinder, Archon-killer, and queller of quakes - my big fucking hero."
+      <DefaultText>"Bem, olhe para você - um Fatebinder, Archon-killer, e queller de terremotos - meu grande herói."
 
-She laughs harshly from behind her helm, sweeping an exaggerated bow. As her foot slides on the stony ground and her arms flourish wide, she whips her spear around hard - barely missing the strike to your abdomen.  
+Ela ri asperamente de trás de seu elmo, varrendo uma reverência exagerada. Enquanto seu pé desliza no chão pedregoso e seus braços se abrem, ela bate sua lança com força - quase perdendo o golpe em seu abdômen.
 
-"Whoops," she shrugs as she uprights herself from the bow. "Almost knicked you there. Would be a real shame for you to die now, considering all you've done for the Chorus." </DefaultText>
+"Opa", ela dá de ombros enquanto se ergue da proa. "Quase te enganou lá. Seria uma pena que você morra agora, considerando tudo que você fez para o Refrão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"You see, it's funny. I haven't heard from Octave since you killed [url=glossary:cairn]Cairn[/url] for him at Howling Rock. You didn't give that little piss-ant any strange ideas about running off, now did you?"
+      <DefaultText>"Você vê, é engraçado. Eu não ouvi falar de Octave desde que você matou [url=glossary:cairn]Cairn[/url] para ele em Howling Rock. Você não deu aquela pequena idéia qualquer idéia estranha sobre fugir, agora você fez?"
 
-She flips her spear around her wrist with idle annoyance at the thought.
+Ela sacode a lança em volta do pulso com irritação ociosa com o pensamento.
 
-"If so, I'll have to track him down. And break him."</DefaultText>
+"Se assim for, eu vou ter que rastreá-lo. E quebrá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Was a pleasure working with you."</DefaultText>
+      <DefaultText>"Foi um prazer trabalhar com você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Watch it, Misery."</DefaultText>
+      <DefaultText>"Cuidado, Miséria."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Oh, don't look so sour, [Player Name]. True, you'll never get my thanks, but you earned my respect. And there aren't many who can live through that."</DefaultText>
+      <DefaultText>"Oh, não pareça tão azedo, [Nome do Jogador]. É verdade que você nunca vai receber meus agradecimentos, mas você ganhou o meu respeito. E não há muitos que possam sobreviver a isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"I'm sure it was." She tips her head to you in approval. "Look, it was pretty good for me, too. You ever have someone you need gutted, say with a lovely, long-tipped spear, you just send them my way."</DefaultText>
+      <DefaultText>"Tenho certeza que foi." Ela inclina a cabeça para você em aprovação. "Olha, foi muito bom para mim também. Você já teve alguém que precisa estripar, digamos, com uma linda lança de ponta longa, você acabou de mandá-la do meu jeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>She hums, the tune throaty and pleased and not the least bit concerned. One day her arrogance will be the death of her, surely. 
+      <DefaultText>Ela cantarola, a melodia gutural, satisfeita e nem um pouco preocupada. Um dia sua arrogância será a morte dela, certamente.
 
-"I like you Fatebinder," she purrs, but her words grind like grit as she warns, "Let's leave it at that."</DefaultText>
+"Eu gosto de você Fatebinder", ela ronrona, mas suas palavras rangem como areia quando ela avisa: "Vamos deixar por isso mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Now make yourself scarce. I've got a realm to run and an army to feed - for the big boss, of course."</DefaultText>
+      <DefaultText>"Agora faça você mesmo escasso. Eu tenho um reino para correr e um exército para alimentar - para o chefe grande, claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"How could anyone but the Voices be the big boss?! Tell me - what am I supposed to do now?! What was all of this swiving shit for?"
+      <DefaultText>"Como é que alguém além das vozes poderia ser o grande chefe ?! Me diga - o que eu devo fazer agora ?! O que foi essa merda toda?"
 
-With a frustrated scream, she throws her spear clanging to the ground.</DefaultText>
+Com um grito frustrado, ela joga sua lança no chão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1137,23 +1137,23 @@ With a frustrated scream, she throws her spear clanging to the ground.</DefaultT
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>She doesn't break easily. Even beneath the jut and strength of her helm - even with both of your hands wrapped, squeezing, her throat is wrought as the bronze she wears. And her neck is supple as the spear she wields.
+      <DefaultText>Ela não se rompe facilmente. Mesmo sob o jugo e força de seu elmo - mesmo com as duas mãos embrulhadas, apertando, sua garganta é forjada como o bronze que ela usa. E o pescoço dela é flexível como a lança que ela empunha.
 
-She gurgles a bloody growl. Then bones snap. And her body goes limp - empty.</DefaultText>
+Ela gorgoleja um grunhido sangrento. Então os ossos se encaixam. E seu corpo fica mole - vazio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Just kill him, and I'll be satisfied."</DefaultText>
+      <DefaultText>"Apenas mate ele, e eu ficarei satisfeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Did you think we didn't know what you were up to, you dirt-mage pukes?"
+      <DefaultText>"Você achou que nós não sabíamos o que você estava fazendo, seu mago de terra vomita?"
 
-The Crimson Spear points her long-handled weapon at you. The bronzed tip bobs and oscillates, slicing at the air as she shouts.
+A lança carmesim aponta sua arma de cabo longo para você. A ponta bronzeada balança e oscila, cortando o ar quando ela grita.
 
-"I've got a gift for your Archon. And for you. It's a swift, sweet little death."</DefaultText>
+"Eu tenho um presente para o seu Archon. E para você. É uma morte rápida e doce."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1168,89 +1168,89 @@ The Crimson Spear points her long-handled weapon at you. The bronzed tip bobs an
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"Why does the Chorus want [url=glossary:cairn]Cairn[/url] dead?"</DefaultText>
+      <DefaultText>"Por que o coro quer [url=glossary:cairn]Cairn[/url] morto?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Radix, Caedis, to arms!"</DefaultText>
+      <DefaultText>"Radix, Caedis, para os braços!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>She swivels her helm-hidden face to one side, the move reptilian and cold, a calculating assessment.
+      <DefaultText>Ela gira o rosto escondido de leme para um lado, o movimento reptiliano e frio, uma avaliação calculada.
 
-"I bet the Voices would love to get inside your daft head. To end the [url=glossary:edict]Edict[/url]. Why else?"</DefaultText>
+"Aposto que as vozes adorariam entrar na sua cabeça maluca. Para terminar o [url=glossary:edict]Edict[/url]. Por que mais?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Enough drivel!"
+      <DefaultText>"Chega drivel!"
 
-She slams her spear against the ground, raising a cloud of dust cover.
+Ela bate a lança contra o chão, levantando uma nuvem de poeira.
 
-"Come! I'm starving for some action."</DefaultText>
+"Venha! Estou morrendo de fome por alguma ação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Kill the Fatebinder THEN the Archon!" 
+      <DefaultText>"Mate o Fatebinder então o arconte!"
 
-A sound of surprise catches in her throat at your hasty attack, but she neither stumbles or falters. Instead, she swings her spear in a hard arc, aimed for your throat.</DefaultText>
+Um som de surpresa pega em sua garganta em seu ataque apressado, mas ela não tropeça ou hesita. Em vez disso, ela gira sua lança em um arco rígido, apontada para sua garganta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>"Radix, to arms!"</DefaultText>
+      <DefaultText>"Radix, para armas!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>The Master of the Earthshakers nods his head to you with a grave air of respect.
+      <DefaultText>O mestre dos Earthshakers acena com a cabeça para você com um ar grave de respeito.
 
-"Fatebinder, I would invite you to join me in protecting the remains of my Archon and in smiting these foul weevils whose utter existence is as a scourge to this land."</DefaultText>
+"Fatebinder, gostaria de convidá-lo a se juntar a mim na proteção dos restos mortais de meu Arconte e em ferir esses gorgulhos sujos cuja existência absoluta é como um flagelo para esta terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>The Master of the Earthshakers nods his head to you with a grave air of respect.
+      <DefaultText>O mestre dos Earthshakers acena com a cabeça para você com um ar grave de respeito.
 
-"Fatebinder, I would invite you to join me in protecting the remains of my Archon and in smiting these foul weevils whose utter existence is as a scourge to this land."</DefaultText>
+"Fatebinder, gostaria de convidá-lo a se juntar a mim na proteção dos restos mortais de meu Arconte e em ferir esses gorgulhos sujos cuja existência absoluta é como um flagelo para esta terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Fatebinder, it would seem we've reason here to support each other. And you know I'll always have your back, brother."
+      <DefaultText>"Fatebinder, parece que temos razão aqui para apoiar um ao outro. E você sabe que eu sempre terei suas costas, irmão."
 
-The [url=glossary:disfavored]Disfavored[/url] officer hefts his broadsword at the ready, two-handedly gripping the worn leather haft. With a grunt, he works his shoulders to loosen them, heavy iron plates clanking with the circular movement. 
+O oficial [url=glossary:disfavored]Disfavored[/url] ergue seu broadsword no pronto, duas mãos segurando o cabo de couro gasto. Com um grunhido, ele trabalha os ombros para soltá-los, chapas grossas de ferro batendo com o movimento circular.
 
-"Besides, I like gutting screamers."</DefaultText>
+"Além disso, eu gosto de estripar os gritos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>"Isadora! A little help here?!"</DefaultText>
+      <DefaultText>"Isadora! Uma ajudinha aqui ?!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>"M-me?!" The whites of her eyes flash wildly. "I'm not - I mean... Oh, for the love of [url=glossary:cairn]Cairn[/url]! If I'm going to die, it might as well be protecting my Archon and guild."
+      <DefaultText>"M-eu ?!" Os brancos de seus olhos brilham descontroladamente. "Eu não sou - quero dizer ... Oh, pelo amor de [url=glossary:cairn]Cairn[/url]! Se eu vou morrer, pode muito bem estar protegendo meu Arconte e sua guilda."
 
-She thrusts her staff skyward with a surprisingly stalwart shout, and the ground roils in answer to her power.</DefaultText>
+Ela empurra sua equipe para o céu com um grito surpreendentemente robusto, e o chão se agita em resposta ao seu poder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>Incensed by your disrespect, the Crimson Spear lungs for you with a shrill shout.</DefaultText>
+      <DefaultText>Incensado pelo seu desrespeito, os pulmões da lança carmesim para você com um grito estridente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>"Fatebinder. Brother. It'd be a real pleasure to fight at your backs."
+      <DefaultText>"Fatebinder. Irmão. Seria um prazer lutar nas suas costas."
 
-The [url=glossary:disfavored]Disfavored[/url] officer hefts his broadsword at the ready, two-handedly gripping the worn leather haft. With a grunt, he works his shoulders to loosen them, heavy iron plates clanking with the circular movement. 
+O oficial [url=glossary:disfavored]Disfavored[/url] ergue seu broadsword no pronto, duas mãos segurando o cabo de couro gasto. Com um grunhido, ele trabalha os ombros para soltá-los, chapas grossas de ferro batendo com o movimento circular.
 
-"But I call dibs on the screamer with the spear."</DefaultText>
+"Mas eu chamo dibs no screamer com a lança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

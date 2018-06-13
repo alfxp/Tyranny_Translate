@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>game\unassigned</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>40</EntryCount>
@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>While the [url=glossary:disfavored]Disfavored[/url] suffered few losses, the [url=glossary:scarlet chorus]Scarlet Chorus[/url]' untrained mobs sustained heavy casualties. Jagged Remedy, unofficial leader of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] camp, is overwhelmed by patients and could use some help (not that he'd ask for it). He trains you in basic techniques to heal the wounded.</DefaultText>
+      <DefaultText>Enquanto os [url=glossary:disfavored]Disfavored[/url] sofreram poucas perdas, as mobs não treinadas sofreram pesadas baixas. Remedy Jagged, líder não oficial do acampamento, é oprimido por pacientes e poderia usar alguma ajuda (não que ele pedisse por isso). Ele treina você em técnicas básicas para curar os feridos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Hidden Crevice</DefaultText>
+      <DefaultText>Fenda escondida</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,22 +31,22 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Question the Beasts</DefaultText>
+      <DefaultText>Questione as bestas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>The [url=glossary:stone sea]Stone Sea[/url] is Kills-in-Shadow's home, if anyone can find Rending-Hound, it's her.</DefaultText>
+      <DefaultText>O [url=glossary:stone sea]Stone Sea[/url] é a casa de Kills-in-Shadow, se alguém pode encontrar Rending-Hound, é ela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Spy on the Beasts</DefaultText>
+      <DefaultText>Espião nas feras</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Container</DefaultText>
+      <DefaultText>Recipiente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Ambush the group of Beastmen</DefaultText>
+      <DefaultText>Emboscada do grupo de homens-fera</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,85 +92,77 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Bronze Brotherhood[/url] Body
-</DefaultText>
+      <DefaultText>[url=glossary:bronze brotherhood]Bronze Brotherhood[/url] Body</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[url=glossary:sage]Sage[/url] Body
-</DefaultText>
+      <DefaultText>[url=glossary:sage]Sage[/url] Body</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Beastmen Body
-</DefaultText>
+      <DefaultText>Beastmen Body</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Body
-</DefaultText>
+      <DefaultText>[url=glossary:disfavored]Disfavored[/url] Body</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Forge Bound Body
-</DefaultText>
+      <DefaultText>Forge Bound Body</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Body
-</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] Body</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Body
-</DefaultText>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Body</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Body
-</DefaultText>
+      <DefaultText>[url=glossary:vendrien guard]Vendrien Guard[/url] Body</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Container</DefaultText>
+      <DefaultText>Recipiente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Negotiate with Beastmen</DefaultText>
+      <DefaultText>Negocie com Homens-Besta</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Negotiate with Beastmen locals in order to help locate the crystals, using paths running alongside the basin walls that only they knew of.</DefaultText>
+      <DefaultText>Negocie com os habitantes de Beastmen para ajudar a localizar os cristais, usando caminhos que correm ao lado das paredes da bacia que só eles conheciam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Survey The Area</DefaultText>
+      <DefaultText>Inquérito a área</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Survey the area and climb down the giant stone pillars, gathering any crystals protruding out from the cliff walls</DefaultText>
+      <DefaultText>Examine a área e desça os gigantes pilares de pedra, reunindo quaisquer cristais que se projetem das paredes do penhasco.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Container</DefaultText>
+      <DefaultText>Recipiente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Container</DefaultText>
+      <DefaultText>Recipiente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,22 +187,22 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Container</DefaultText>
+      <DefaultText>Recipiente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Weapon Shipment</DefaultText>
+      <DefaultText>Expedição de Arma</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>This is a test</DefaultText>
+      <DefaultText>Isto é um teste</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Dead Body</DefaultText>
+      <DefaultText>Corpo morto</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

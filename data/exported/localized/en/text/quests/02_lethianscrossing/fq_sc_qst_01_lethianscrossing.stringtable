@@ -1,167 +1,167 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\02_lethianscrossing\fq_sc_qst_01_lethianscrossing</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>32</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>The Symphony of the Forge</DefaultText>
+      <DefaultText>A Sinfonia da Forja</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Go to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Ir para [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Speak to Crimson Spear Tier Smasher.</DefaultText>
+      <DefaultText>Fale com o Crimson Spear Tier Smasher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Destroy the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] garrison.</DefaultText>
+      <DefaultText>Destrua o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] guarnição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Destroy the [url=glossary:disfavored]Disfavored[/url] garrison.</DefaultText>
+      <DefaultText>Destrua a [url=glossary:disfavored]Disfavored[/url] guarnição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Speak to Eldian.</DefaultText>
+      <DefaultText>Fale com o Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Speak to Harchiand Bronze.</DefaultText>
+      <DefaultText>Fale com o Harchiand Bronze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Visit the Forge.</DefaultText>
+      <DefaultText>Visite a Forja.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Observe the placement of the Magebane Helm.</DefaultText>
+      <DefaultText>Observe a colocação do Magebane Helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Enter the Oldwalls at [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Digite o Oldwalls em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Kill the Bane.</DefaultText>
+      <DefaultText>Mate o Bane.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Return to Zdenya.</DefaultText>
+      <DefaultText>Volte para Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Speak to Harchiand Bronze.</DefaultText>
+      <DefaultText>Fale com o Harchiand Bronze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Speak to Harchiand Bronze.</DefaultText>
+      <DefaultText>Fale com o Harchiand Bronze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] has asked you to go to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and bring back the leader of the [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <DefaultText>[url=glossary:the voices of nerat]The Voices of Nerat[/url] pediu-lhe para ir para [url=glossary:lethian's crossing]Lethian's Crossing[/url] e trazer de volta o líder do [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] master is currently in [url=glossary:lethian's crossing]Lethian's Crossing[/url], the settlement at the base of the Sunset Spire.</DefaultText>
+      <DefaultText>O mestre [url=glossary:forge-bound]Forge-Bound[/url] está atualmente no [url=glossary:lethian's crossing]Lethian's Crossing[/url], o estabelecimento na base da torre do por do sol.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Harchiand suggested you inform the [url=glossary:scarlet chorus]Scarlet Chorus[/url] gang leader that you have arrived in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Harchiand sugeriu que você informe o [url=glossary:scarlet chorus]Scarlet Chorus[/url] líder da gangue que você chegou em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] have control over [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Their garrison won't let you move through the settlement peacefully, so you'll have to kill them.</DefaultText>
+      <DefaultText>O [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] tem controle sobre [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Sua guarnição não vai deixar você passar pelo assentamento pacificamente, então você terá que matá-los.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>You gave the [url=glossary:disfavored]Disfavored[/url] control over [url=glossary:lethian's crossing]Lethian's Crossing[/url] during [url=glossary:kyros]Kyros[/url]' Conquest, but they turned against you during the events at [url=glossary:vendrien's well]Vendrien's Well[/url]. Their garrison at [url=glossary:lethian's crossing]Lethian's Crossing[/url] won't let you move through the settlement peacefully, so you'll have to kill them.</DefaultText>
+      <DefaultText>Você deu o controle [url=glossary:disfavored]Disfavored[/url] sobre [url=glossary:lethian's crossing]Lethian's Crossing[/url] durante [url=glossary:kyros]Kyros[/url]' Conquest, mas eles se voltaram contra você durante os eventos em [url=glossary:vendrien's well]Vendrien's Well[/url]. A guarnição em [url=glossary:lethian's crossing]Lethian's Crossing[/url] não vai deixar você se move através do acordo pacificamente, então você vai ter que matá-los.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Speak to Eldian, the settlement leader, in [url=glossary:lethian's crossing]Lethian's Crossing[/url] to learn more about the [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <DefaultText>Fale com Eldian, o líder do assentamento, em [url=glossary:lethian's crossing]Lethian's Crossing[/url] para saber mais sobre o [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Harchiand Bronze is [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s spy amongst the settlers of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. He'll want to know you've arrived.</DefaultText>
+      <DefaultText>O Harchiand Bronze é o espião de [url=glossary:the voices of nerat]the Voices of Nerat[/url] entre os colonos de [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Ele vai querer saber que você chegou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Zdenya can be found in the [url=glossary:forge-bound]Forge-Bound[/url] foundry, known simply as the Forge. It's located east of the river on the first tier of the Moonrise District, just above the ground floor.</DefaultText>
+      <DefaultText>Zdenya pode ser encontrado na fundição [url=glossary:forge-bound]Forge-Bound[/url], conhecido simplesmente como o Forge. Ele está localizado a leste do rio no primeiro nível do distrito da lua, logo acima do térreo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Zdenya asked you to join her on the third tier of [url=glossary:lethian's crossing]Lethian's Crossing[/url] where she will place the Magebane Helm.</DefaultText>
+      <DefaultText>Zdenya pediu-lhe para se juntar a ela no terceiro nível de [url=glossary:lethian's crossing]Lethian's Crossing[/url] onde ela vai colocar o Magebane Helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Eldian has asked you to confirm that the Magebane Helm actually works by entering the Oldwalls at [url=glossary:lethian's crossing]Lethian's Crossing[/url] and watching for loosed Bane. He gave you a keystone that will allow you to enter the Oldwalls.</DefaultText>
+      <DefaultText>Eldian pediu que você confirmasse que o Magebane Helm realmente trabalha entrando no Oldwalls no [url=glossary:lethian's crossing]Lethian's Crossing[/url] e observando o Loose Bane. Ele deu-lhe uma pedra fundamental que lhe permitirá entrar no Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>The Magebane Helm didn't work, and Bane are on the loose inside the Oldwalls at [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Kill them before they can escape out into the settlement.</DefaultText>
+      <DefaultText>O Magebane Helm não funcionou, e Bane está solto dentro dos Oldwalls em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Mate-os antes que eles possam escapar para o assentamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Return to Zdenya in [url=glossary:lethian's crossing]Lethian's Crossing[/url] and inform her the Magebane Helm didn't work.</DefaultText>
+      <DefaultText>Volte a Zdenya em 111111111111111111111 e informe a ela que o Magebane Helm não funcionou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText>Harchiand Bronze is [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s spy amongst the settlers of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. He'll want to know you've arrived.</DefaultText>
+      <DefaultText>O Harchiand Bronze é o espião de [url=glossary:the voices of nerat]the Voices of Nerat[/url] entre os colonos de [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Ele vai querer saber que você chegou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>Before visiting the forge in [url=glossary:lethian's crossing]Lethian's Crossing[/url], you should speak to Harchiand Bronze as [url=glossary:the voices of nerat]the Voices of Nerat[/url] instructed.</DefaultText>
+      <DefaultText>Antes de visitar a forja em [url=glossary:lethian's crossing]Lethian's Crossing[/url], você deve falar com Harchiand Bronze como [url=glossary:the voices of nerat]the Voices of Nerat[/url] instruído.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>You ran into an unexpected toll on the way to [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Speak to someone about being let through.</DefaultText>
+      <DefaultText>Você correu para um pedágio inesperado no caminho para [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Fale com alguém sobre ser deixado passar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Raetommon has agreed to let you through the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] toll.</DefaultText>
+      <DefaultText>Raetommon concordou em deixá-lo através do pedágio [url=glossary:bronze brotherhood]Bronze Brotherhood[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>You killed the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] guarding the bridge. You can continue on to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Você matou o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] guardando a ponte. Você pode continuar para [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Forge Master Zdenya brought the Magebane Helm to protect [url=glossary:lethian's crossing]Lethian's Crossing[/url], but both she and the Helm were taken by Raetommon.</DefaultText>
+      <DefaultText>Forge Master Zdenya trouxe o Magebane Helm para proteger [url=glossary:lethian's crossing]Lethian's Crossing[/url], mas tanto ela quanto o Helm foram levados por Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

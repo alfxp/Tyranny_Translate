@@ -1,72 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\05_cairnplains\05_qst_treasurehunter</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Treasure Hunter</DefaultText>
+      <DefaultText>Caçador de tesouros</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Search Stone Down.</DefaultText>
+      <DefaultText>Pesquisa Stone Down.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Return the Everwell to [Plainsgate].</DefaultText>
+      <DefaultText>Devolva o Everwell para [Plainsgate].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Decide where to deliver the invaluable relic</DefaultText>
+      <DefaultText>Decida onde entregar a relíquia inestimável</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Arason wants you search for the Everwell, a relic of Azure that's said to never run out of ink. He believes it may be found in Stone Down.</DefaultText>
+      <DefaultText>A Arason quer que você procure pelo Everwell, uma relíquia do Azure que nunca ficou sem tinta. Ele acredita que pode ser encontrado em Stone Down.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>If you have already learned the path to Stone Down, head there and search for any trace of the Everwell.</DefaultText>
+      <DefaultText>Se você já aprendeu o caminho para Stone Down, vá até lá e procure por qualquer vestígio do Everwell.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Return to [Plainsgate] to deliver the Everwell to either Arason or Haygren.</DefaultText>
+      <DefaultText>Volte a [Plainsgate] para entregar o Everwell para Arason ou Haygren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Having dredged a relic of immeasurable worth from the depths of the [url=glossary:stone sea]Stone Sea[/url], you could consider pocketing the treasure or shopping around [Plainsgate] for a higher price.</DefaultText>
+      <DefaultText>Tendo dragado uma relíquia de valor imensurável das profundezas do [url=glossary:stone sea]Stone Sea[/url], você poderia considerar embolsar o tesouro ou comprar ao redor [Plainsgate] por um preço mais alto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Haygren suggested that you return the Everwell to the care of [Plainsgate] instead of Arason.</DefaultText>
+      <DefaultText>Haygren sugeriu que você devolvesse o Everwell aos cuidados de [Plainsgate] em vez de Arason.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>You decided not to give the Everwell to Haygren.</DefaultText>
+      <DefaultText>Você decidiu não dar o Everwell para Haygren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You sold the Everwell to Arason.</DefaultText>
+      <DefaultText>Você vendeu o Everwell para Arason.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>You gave away the Everwell to Haygren.</DefaultText>
+      <DefaultText>Você deu o Everwell para Haygren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Quest Failed</DefaultText>
+      <DefaultText>Falha na missão</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

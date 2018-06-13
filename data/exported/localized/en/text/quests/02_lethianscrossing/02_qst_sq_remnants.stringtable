@@ -1,87 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\02_lethianscrossing\02_qst_sq_remnants</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>16</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Remnants</DefaultText>
+      <DefaultText>Remanescentes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Travel to Timbervale Village.</DefaultText>
+      <DefaultText>Viajar para Timbervale Village.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Kill the enemy soldiers.</DefaultText>
+      <DefaultText>Mate os soldados inimigos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Free the settlers.</DefaultText>
+      <DefaultText>Libertem os colonos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Return to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Retornar para [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Return to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Retornar para [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>The remnants of a larger [url=glossary:disfavored]Disfavored[/url] force have taken some settlers prisoner in the nearby village of Timbervale.</DefaultText>
+      <DefaultText>Os restos de uma força maior tomaram alguns colonos como prisioneiros na aldeia vizinha de Timbervale.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Head to the village to see how many settlers survived the attack.</DefaultText>
+      <DefaultText>Dirija-se à aldeia para ver quantos colonos sobreviveram ao ataque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Kill any groups of enemy soldiers you find in Timbervale Village.</DefaultText>
+      <DefaultText>Mate todos os grupos de soldados inimigos que você encontrar em Timbervale Village.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Free any settlers you find in Timbervale Village.</DefaultText>
+      <DefaultText>Libere todos os colonos que você encontrar em Timbervale Village.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Return to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and report back to Vintara.</DefaultText>
+      <DefaultText>Volte para [url=glossary:lethian's crossing]Lethian's Crossing[/url] e reporte para Vintara.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Return to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and report back to Tier Smasher.</DefaultText>
+      <DefaultText>Retornar para [url=glossary:lethian's crossing]Lethian's Crossing[/url] e reportar de volta ao Tier Smasher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You freed the imprisoned settlers and killed their captors.</DefaultText>
+      <DefaultText>Você libertou os colonos presos e matou seus captores.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
+      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>You betrayed your allies and are no longer able to complete this task.</DefaultText>
+      <DefaultText>Você traiu seus aliados e não consegue mais concluir essa tarefa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>The remnants of a larger [url=glossary:scarlet chorus]Scarlet Chorus[/url] force have taken some settlers prisoner in the nearby village of Timbervale.</DefaultText>
+      <DefaultText>Os restos de uma força maior tomaram alguns colonos como prisioneiros na aldeia vizinha de Timbervale.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

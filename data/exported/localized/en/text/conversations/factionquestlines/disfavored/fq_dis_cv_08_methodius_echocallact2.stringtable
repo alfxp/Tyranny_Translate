@@ -1,99 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\factionquestlines\disfavored\fq_dis_cv_08_methodius_echocallact2</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>19</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Fatebinder... how I was hoping our paths would cross one day. I just sharpened my blade this morning. How fitting."</DefaultText>
+      <DefaultText>"Fatebinder ... como eu estava esperando que nossos caminhos se cruzassem um dia. Eu apenas afiei minha lâmina esta manhã. Como é apropriado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Now, before I decide whether or not to remove your head, what are you doing here?"</DefaultText>
+      <DefaultText>"Agora, antes de eu decidir se removo sua cabeça, o que você está fazendo aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"I bring word from [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
+      <DefaultText>"Eu trago a palavra de [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Oh do you? [url=glossary:graven ashe]Graven Ashe[/url] is one of the last people I'd ever want to hear from. Did you think I would treat this as good news?"</DefaultText>
+      <DefaultText>"Oh você é? [url=glossary:graven ashe]Graven Ashe[/url] é uma das últimas pessoas que eu gostaria de ouvir. Você acha que eu trataria isso como uma boa notícia?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Well go ahead, let's hurry this insignificant moment up... let's hear it."</DefaultText>
+      <DefaultText>"Bem, vá em frente, vamos apressar este momento insignificante ... vamos ouvir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] would like to offer you terms of peace. We can put the past behind us, and move forward as one force."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] gostaria de oferecer-lhe termos de paz. Podemos deixar o passado para trás e avançar como uma só força."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"You've come all this way to offer us a parley. Is [url=glossary:graven ashe]Graven Ashe[/url] taking our cause as some kind of joke? He thinks that we'll just roll over and give in? After what he's done!?"</DefaultText>
+      <DefaultText>"Você veio até aqui para nos oferecer uma discussão. [url=glossary:graven ashe]Graven Ashe[/url] está tomando nossa causa como algum tipo de piada? Ele acha que nós vamos simplesmente desistir e desistir? Depois do que ele fez !?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Fatebinder, I hate to tell you... but you have wasted your time on this journey. There is no scenario in which I'd agree to peace with the [url=glossary:disfavored]Disfavored[/url]. Not after what's been done to us."</DefaultText>
+      <DefaultText>"Fatebinder, eu odeio dizer a você ... mas você perdeu o seu tempo nesta jornada. Não há nenhum cenário em que eu concordaria em paz com o [url=glossary:disfavored]Disfavored[/url]. Não depois do que foi feito para nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"But because you came here with a message of peace, I'll at least let you walk out with your limbs attached. But do hurry before I change my mind."
+      <DefaultText>"Mas porque você veio aqui com uma mensagem de paz, eu vou pelo menos deixar você sair com seus membros ligados. Mas corra antes que eu mude de idéia."
 
-"Go."</DefaultText>
+"Ir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"A shame you wouldn't listen to reason. I will relay your response to [url=glossary:graven ashe]Graven Ashe[/url]."</DefaultText>
+      <DefaultText>"Uma vergonha que você não escutaria a razão. Eu transmitirei sua resposta para [url=glossary:graven ashe]Graven Ashe[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Script Node 76</DefaultText>
+      <DefaultText>Nó de script 76</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Why are you still here, Fatebinder? My decision is final."</DefaultText>
+      <DefaultText>"Por que você ainda está aqui, Fatebinder? Minha decisão é final."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Oh, the usual Fatebinder things. Wandering here, there, everywhere."</DefaultText>
+      <DefaultText>"Oh, as coisas habituais do Fatebinder. Vagando aqui, ali, em todo lugar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Someone thinks very highly of himself."</DefaultText>
+      <DefaultText>"Alguém pensa muito bem em si mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Oh, look - a Fatebinder who thinks he's funny. Why are you really here?"</DefaultText>
+      <DefaultText>"Oh, olhe - um Fatebinder que acha que ele é engraçado. Por que você está realmente aqui?"</DefaultText>
       <FemaleText>"Oh, look - a Fatebinder who thinks she's funny. Why are you really here?"</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Damn right I do, so why don't you hurry and tell me why you're really here before I give you a demonstration."</DefaultText>
+      <DefaultText>"Droga, eu sei, então por que você não se apressa e me diz por que você está realmente aqui antes de eu te dar uma demonstração?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Too bad."</DefaultText>
+      <DefaultText>"Que pena."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] wants an alliance. Work with the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] quer uma aliança. Trabalhe com o [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

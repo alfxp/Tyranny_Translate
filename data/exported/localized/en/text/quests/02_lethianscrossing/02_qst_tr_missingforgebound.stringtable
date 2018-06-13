@@ -1,192 +1,192 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\02_lethianscrossing\02_qst_tr_missingforgebound</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>37</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Leave No One Behind</DefaultText>
+      <DefaultText>Não deixe ninguém para trás</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Search Twin Rivers.</DefaultText>
+      <DefaultText>Pesquisar Twin Rivers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Search the Oldwalls.</DefaultText>
+      <DefaultText>Pesquise os Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Return to Lohara.</DefaultText>
+      <DefaultText>Volte para Lohara.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Return Garrick's tools to Lohara.</DefaultText>
+      <DefaultText>Devolva as ferramentas de Garrick para Lohara.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Find Garrick a [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] disguise.</DefaultText>
+      <DefaultText>Encontrar Garrick um disfarce [url=glossary:bronze brotherhood]Bronze Brotherhood[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Return to Garrick.</DefaultText>
+      <DefaultText>Volte para Garrick.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Return to Garrick.</DefaultText>
+      <DefaultText>Volte para Garrick.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Talk to Garrick.</DefaultText>
+      <DefaultText>Fale com o Garrick.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Return to Garrick.</DefaultText>
+      <DefaultText>Volte para Garrick.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Locate the Brotherhood camp near Haven's Oldwalls.</DefaultText>
+      <DefaultText>Localize o acampamento da Fraternidade perto dos Oldwalls de Haven.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] apprentice Garrick has gone missing and Lohara fears he might be dead. He went searching for exotic materials obtained from the Oldwalls, and may have wandered into Brotherhood territory.</DefaultText>
+      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] aprendiz Garrick desapareceu e Lohara teme que ele possa estar morto. Ele foi à procura de materiais exóticos obtidos dos Oldwalls, e pode ter vagado pelo território da Fraternidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>The Brotherhood are believed to have a camp in the Twin Rivers area, and that's likely were Garrick went in search of exotic forging materials.</DefaultText>
+      <DefaultText>Acredita-se que a Irmandade tenha um acampamento na área de Twin Rivers, e é provável que Garrick tenha ido em busca de materiais exóticos de forja.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Based on the camp you found it appears that Apprentice Garrick made his way into the Oldwalls.</DefaultText>
+      <DefaultText>Baseado no acampamento que você encontrou parece que o Aprendiz Garrick fez o seu caminho para o Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>You helped Garrick escape the Oldwalls. Speak to Lohara at the forge in [url=glossary:lethian's crossing]Lethian's Crossing[/url] - she'll be glad to know he's safe.</DefaultText>
+      <DefaultText>Você ajudou Garrick a escapar dos Oldwalls. Fale com Lohara na forja em [url=glossary:lethian's crossing]Lethian's Crossing[/url] - ela ficará feliz em saber que ele está seguro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>You found Garrick's tools inside the Oldwalls. Speak to Lohara at the forge in [url=glossary:lethian's crossing]Lethian's Crossing[/url] - she'll expect them to be returned to her.</DefaultText>
+      <DefaultText>Você encontrou as ferramentas de Garrick dentro da Oldwalls. Fale com Lohara na forja em [url=glossary:lethian's crossing]Lethian's Crossing[/url] - ela espera que eles sejam devolvidos a ela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Garrick can't escape with the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] guarding the entrance to Twin Rivers. Find some Brotherhood armor nearby that he can use to get past the guards.</DefaultText>
+      <DefaultText>Garrick não pode escapar com o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] guardando a entrada de Twin Rivers. Encontre alguma armadura da Fraternidade próxima que ele possa usar para passar pelos guardas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>You found a set of [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] armor that looks as though it will fit Garrick. He will be relieved to know he has a way out.</DefaultText>
+      <DefaultText>Você encontrou um conjunto de [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] armadura que parece que vai caber Garrick. Ele ficará aliviado ao saber que ele tem uma saída.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>You had to kill Flatfoot Ferris and the other Brotherhood at the Oldwalls entrance. Garrick will be relieved to know that he can leave the Oldwalls.</DefaultText>
+      <DefaultText>Você teve que matar Flatfoot Ferris e a outra Irmandade na entrada de Oldwalls. Garrick ficará aliviado ao saber que ele pode deixar os Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>You found Garrick inside Lethian's Oldwalls but you haven't decided what to do with him yet.</DefaultText>
+      <DefaultText>Você encontrou Garrick dentro da Oldwalls de Lethian, mas ainda não decidiu o que fazer com ele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>You killed the Havoc and cleared the way to [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Garrick will be relieved to know that he can leave the Oldwalls.</DefaultText>
+      <DefaultText>Você matou o Havoc e limpou o caminho para [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Garrick ficará aliviado ao saber que ele pode deixar o Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10016</ID>
-      <DefaultText>The Brotherhood are believed to have a camp near an Oldwall entrance, and that's likely were Garrick went in search of exotic forging materials.</DefaultText>
+      <DefaultText>Acredita-se que a Irmandade tenha um acampamento perto de uma entrada de Oldwall, e é provável que Garrick tenha ido em busca de materiais exóticos forjados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>You found Garrick in the Oldwalls interior.</DefaultText>
+      <DefaultText>Você encontrou Garrick no interior de Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Garrick has died while inside the Oldwalls. Lohara will want to know.</DefaultText>
+      <DefaultText>Garrick morreu enquanto estava dentro da Oldwalls. Lohara vai querer saber.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Lohara is dead. Speak with Ulantis about the matter.</DefaultText>
+      <DefaultText>Lohara está morto. Fale com a Ulantis sobre o assunto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>Lohara is dead. Speak with Ulantis about the matter.</DefaultText>
+      <DefaultText>Lohara está morto. Fale com a Ulantis sobre o assunto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>Garrick has died while inside the Oldwalls. Search his body for proof of his death.</DefaultText>
+      <DefaultText>Garrick morreu enquanto estava dentro da Oldwalls. Procure em seu corpo a prova de sua morte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>Garrick has died while inside the Oldwalls. Search his body for proof of his death.</DefaultText>
+      <DefaultText>Garrick morreu enquanto estava dentro da Oldwalls. Procure em seu corpo a prova de sua morte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20006</ID>
-      <DefaultText>Garrick has died while inside the Oldwalls. Search his body for proof of his death.</DefaultText>
+      <DefaultText>Garrick morreu enquanto estava dentro da Oldwalls. Procure em seu corpo a prova de sua morte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20007</ID>
-      <DefaultText>Garrick has died while inside the Oldwalls. Search his body for proof of his death.</DefaultText>
+      <DefaultText>Garrick morreu enquanto estava dentro da Oldwalls. Procure em seu corpo a prova de sua morte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20008</ID>
-      <DefaultText>The Twin Rivers run across a long stretch of land. You'll have to find a more specific location for the camp before you may travel there.</DefaultText>
+      <DefaultText>Os rios gêmeos atravessam uma longa extensão de terra. Você terá que encontrar um local mais específico para o acampamento antes de viajar para lá.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You cleared out the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] barring Garrick's path through the Oldwalls, allowing him to leave.</DefaultText>
+      <DefaultText>Você limpou o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] barrando o caminho de Garrick através do Oldwalls, permitindo-lhe sair.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>You convinced the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] to let Garrick leave the Oldwalls.</DefaultText>
+      <DefaultText>Você convenceu o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] para deixar Garrick deixar o Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>You collected Garrick's tools and returned them to the [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <DefaultText>Você coletou as ferramentas da Garrick e as devolveu para o [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>You chose the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] over the [url=glossary:forge-bound]Forge-Bound[/url], causing Lohara and the rest of them to leave [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Você escolheu o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] sobre o [url=glossary:forge-bound]Forge-Bound[/url], causando Lohara e o descanso deles para deixar [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>You betrayed your allies and are no longer able to complete this task.</DefaultText>
+      <DefaultText>Você traiu seus aliados e não consegue mais concluir essa tarefa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>You found [url=glossary:forge-bound]Forge-Bound[/url] apprentice Garrick inside the Twin Rivers Oldwalls. His master, Lohara, will probably want him returned.</DefaultText>
+      <DefaultText>Você encontrou o [url=glossary:forge-bound]Forge-Bound[/url] aprendiz Garrick dentro dos rios gêmeos Oldwalls. Seu mestre, Lohara, provavelmente vai querer que ele retorne.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,58 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_kallion</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>87</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Greetings Fatebinder. I understand that you helped us out when the Brotherhood attacked."
+      <DefaultText>"Saudações, Fatebinder. Eu entendo que você nos ajudou quando a Irmandade atacou."
 
-"Now that things have calmed down, I was wondering if you could help me."</DefaultText>
+"Agora que as coisas se acalmaram, eu queria saber se você poderia me ajudar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"My sister, Kalea, disappeared when the Brotherhood showed up, and I haven't seen her since."
+      <DefaultText>"Minha irmã, Kalea, desapareceu quando a Irmandade apareceu, e eu não a vejo desde então."
 
-"She seems to have this idea that [url=glossary:lethian's crossing]Lethian's Crossing[/url] would do better in the hands of the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]. I've tried to persuade her otherwise, but she won't listen."</DefaultText>
+"Ela parece ter essa idéia que [url=glossary:lethian's crossing]Lethian's Crossing[/url] faria melhor nas mãos dos [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]. Eu tentei persuadi-la de outra forma, mas ela não vai ouvir".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Knowing her, she was probably looking for a way to join the Brotherhood as soon as they arrived."
+      <DefaultText>"Conhecendo-a, ela provavelmente estava procurando uma maneira de se juntar à Irmandade assim que eles chegassem."
 
-"People are saying they were headed toward Deserter's March when they ran off. Will you look for her? I have no means of doing it myself. I'm not a fighter and I have no skills in confrontation."</DefaultText>
+"As pessoas estão dizendo que estavam indo em direção à Marcha de Deserter quando fugiram. Você vai procurá-la? Eu não tenho como fazer isso sozinho. Eu não sou um lutador e não tenho habilidades em confronto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Of course, I'll see what I can find out."</DefaultText>
+      <DefaultText>"Claro, vou ver o que posso descobrir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"I'm not promising anything, but if I find her for you, I expect something in return."</DefaultText>
+      <DefaultText>"Eu não estou prometendo nada, mas se eu a encontrar para você, espero algo em troca."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"I'm afraid I have some bad news. Your sister is dead."</DefaultText>
+      <DefaultText>"Receio ter más notícias. Sua irmã está morta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"You need not worry about that. I'll have a suitable reward for you when you return."</DefaultText>
+      <DefaultText>"Você não precisa se preocupar com isso. Eu terei uma recompensa adequada para você quando voltar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Have you found my sister yet?"</DefaultText>
+      <DefaultText>"Você já encontrou minha irmã?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"I found her, but I agreed to help her join the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]."</DefaultText>
+      <DefaultText>"Eu a encontrei, mas concordei em ajudá-la a se juntar ao [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -62,32 +62,32 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Thank you, Fatebinder. It means so much to have Kalea back."</DefaultText>
+      <DefaultText>"Obrigado, Fatebinder. Significa muito ter Kalea de volta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Keep your rings. You will need them more than I do if she decides to run off again."</DefaultText>
+      <DefaultText>"Mantenha seus anéis. Você vai precisar deles mais do que eu, se ela decidir fugir de novo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"It was a lot of work finding her, you know. Maybe you could add a few more to that pile."</DefaultText>
+      <DefaultText>"Foi muito trabalho encontrá-la, você sabe. Talvez você possa adicionar mais alguns àquela pilha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Thank you."</DefaultText>
+      <DefaultText>"Obrigado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"You're right, I should have offered more. Here take it."</DefaultText>
+      <DefaultText>"Você está certo, eu deveria ter oferecido mais. Aqui pegue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Dead? H-how did she die?"</DefaultText>
+      <DefaultText>"Morto? H-como ela morreu?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,93 +102,93 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"It was me, and I enjoyed every minute of it."</DefaultText>
+      <DefaultText>"Era eu e gostava de cada minuto disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>He nods slowly, a sense of confirmation in his haunted stare. 
+      <DefaultText>Ele balança a cabeça lentamente, uma sensação de confirmação em seu olhar assombrado.
 
-"Maybe she was right after all. Maybe the Brotherhood aren't the monsters we've been led to believe."</DefaultText>
+"Talvez ela estivesse certa, afinal. Talvez a Irmandade não seja os monstros que fomos levados a acreditar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Those bastards! Those poison-bellied Beastman balls! I was expecting the worst, but even I never suspected they could sink this low."</DefaultText>
+      <DefaultText>"Aqueles bastardos! Aquelas bolas de Beastman cheias de veneno! Eu estava esperando o pior, mas mesmo eu nunca suspeitei que eles pudessem afundar tão baixo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"You monster!" He takes a couple of steps toward you, but stops himself and points at the door. "Leave. Get away from me, or I'll... I'll..."
+      <DefaultText>"Seu monstro!" Ele dá alguns passos em sua direção, mas pára e aponta para a porta. "Saia. Afaste-se de mim, ou eu vou ... eu vou ..."
 
-He buries his face in his hands and chokes back a sob. "Just go."</DefaultText>
+Ele enterra o rosto nas mãos e reprime um soluço. "Apenas vá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Go away. I have nothing to say to you."</DefaultText>
+      <DefaultText>"Vá embora. Não tenho nada a dizer para você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Thank you for letting me know. Take this for your time. Now please leave me, I want to be alone."</DefaultText>
+      <DefaultText>"Obrigado por me avisar. Leve isso para o seu tempo. Agora, por favor, me deixe, eu quero ficar sozinha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>The last of his optimism vanishes. "Oh, my poor Kalea. You could have been so much more..." He looks at you with tears in his eyes. "Thank you for telling me, Fatebinder. Please, take this as compensation for your time."</DefaultText>
+      <DefaultText>O último de seu otimismo desaparece. "Oh, meu pobre Kalea. Você poderia ter sido muito mais ..." Ele olha para você com lágrimas nos olhos. "Obrigado por me dizer, Fatebinder. Por favor, leve isso como compensação pelo seu tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>He breathes so quickly that he's barely able to form words. "Why would you do that? The Brotherhood is dangerous, she could die!"</DefaultText>
+      <DefaultText>Ele respira tão rápido que mal consegue formar palavras. "Por que você faria isso? A Irmandade é perigosa, ela poderia morrer!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"It's what she wants. It's better to let her make her own choices in life."</DefaultText>
+      <DefaultText>"É o que ela quer. É melhor deixá-la fazer suas próprias escolhas na vida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Good, one less idiot in the world."</DefaultText>
+      <DefaultText>"Bom, um menos idiota no mundo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>He lets out a lungful of air. "You're probably right. She is an adult and I should stop being so overprotective of her. Thank you Fatebinder. Here, it's not much, but it's yours."</DefaultText>
+      <DefaultText>Ele solta uma baforada de ar. "Você provavelmente está certo. Ela é uma adulta e eu deveria parar de ser tão superprotetora dela. Obrigada Fatebinder. Aqui, não é muito, mas é sua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Thank you, Fatebinder. It means so much to have Kalea back."</DefaultText>
+      <DefaultText>"Obrigado, Fatebinder. Significa muito ter Kalea de volta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"She means the world to me, and I'm sick with worry." His expression falls again, but this time there's a distant shadow of hope.</DefaultText>
+      <DefaultText>"Ela significa o mundo para mim e eu estou doente de preocupação." Sua expressão cai novamente, mas desta vez há uma sombra distante de esperança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Please leave me alone. Nothing you say will help."</DefaultText>
+      <DefaultText>"Por favor, me deixe em paz. Nada do que você disser vai ajudar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Sorry, I'm still looking."</DefaultText>
+      <DefaultText>"Desculpe, ainda estou procurando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>The young man hangs his head and regards your approach with a pitiful sigh. 
+      <DefaultText>O jovem pende a cabeça e considera a sua aproximação com um suspiro lamentável.
 
-"Greetings." He is barely able to force the word, his voice breaking as he speaks.</DefaultText>
+"Saudações." Ele mal consegue forçar a palavra, sua voz se quebra enquanto fala.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"What's wrong?"</DefaultText>
+      <DefaultText>"O que está errado?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,36 +198,36 @@ He buries his face in his hands and chokes back a sob. "Just go."</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>He takes a deep breath, steadying himself. "My sister Kalea and I watched the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] fending off multiple waves of [url=glossary:kyros]Kyros[/url]' forces when they tried to take the Crossing. I was terrified, but she was... exhilarated. In a way, I've never seen her so alive."
+      <DefaultText>Ele respira fundo, firmando-se. "Minha irmã Kalea e eu assistimos a [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] evitando várias ondas de [url=glossary:kyros]Kyros[/url] forças quando eles tentaram tomar o cruzamento. Eu estava apavorada, mas ela estava ... alegre. De certa forma, eu nunca a vi tão viva. "
 
-He chokes back a sob. "S-she got so fired up that she joined the Brotherhood the first chance she got."</DefaultText>
+Ele reprime um soluço. "S-ela ficou tão animada que ela se juntou à Irmandade a primeira chance que ela conseguiu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Shortly after joining, they sent her on a scouting mission with some other Brotherhood soldiers, but none of the party returned. They were all found dead at Deserter's March."</DefaultText>
+      <DefaultText>"Pouco depois de entrarem, eles a enviaram em uma missão de reconhecimento com alguns outros soldados da Irmandade, mas nenhum do grupo retornou. Eles foram todos encontrados mortos no Deserter's March."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"I'm sorry. Is there anything I can do to help?"</DefaultText>
+      <DefaultText>"Sinto muito. Há algo que eu possa fazer para ajudar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>He shakes his head. 
+      <DefaultText>Ele sacode a cabeça.
 
-"Thank you, but no. I... just want to be left alone."</DefaultText>
+"Obrigado, mas não. Eu só quero ficar sozinho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"I hope she's happy with her new life..."</DefaultText>
+      <DefaultText>"Espero que ela esteja feliz com sua nova vida ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Greetings, Fatebinder."</DefaultText>
+      <DefaultText>"Saudações, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -237,7 +237,7 @@ He chokes back a sob. "S-she got so fired up that she joined the Brotherhood the
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"She was tired of you being overprotective, so I convinced her to run away and never come back."</DefaultText>
+      <DefaultText>"Ela estava cansada de você ser superprotetora, então eu a convenci a fugir e nunca mais voltar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -247,222 +247,222 @@ He chokes back a sob. "S-she got so fired up that she joined the Brotherhood the
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Please, Fatebinder! There is no one else I can ask!" His shoulders sag and he hangs his head. "I understand. Let me know if you change your mind."</DefaultText>
+      <DefaultText>"Por favor, Fatebinder! Não há mais ninguém que eu possa perguntar!" Seus ombros caem e ele abaixa a cabeça. "Eu entendo. Deixe-me saber se você mudar de idéia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Please, Fatebinder, will you help me find my sister?"</DefaultText>
+      <DefaultText>"Por favor, Fatebinder, você vai me ajudar a encontrar minha irmã?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"I see..." His words trail off and he pales. "I will never see her again." His voice cracks and he puts his hands over his face, sobbing. After a few moments he stops and wipes his face with the back of his hands.</DefaultText>
+      <DefaultText>"Eu vejo ..." Suas palavras se apagam e ele empalidece. "Eu nunca vou vê-la novamente." Sua voz se quebra e ele coloca as mãos sobre o rosto, soluçando. Depois de alguns instantes, ele para e enxuga o rosto com as costas das mãos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Unfortunately, before she could join she was killed by Bane while traveling to speak to the Brotherhood leader."</DefaultText>
+      <DefaultText>"Infelizmente, antes que ela pudesse se juntar, ela foi morta por Bane enquanto viajava para falar com o líder da Irmandade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Greetings Fatebinder. I understand that you helped us out when the Brotherhood attacked."
+      <DefaultText>"Saudações, Fatebinder. Eu entendo que você nos ajudou quando a Irmandade atacou."
 
-"Now that things have calmed down, I was wondering if you could help me."</DefaultText>
+"Agora que as coisas se acalmaram, eu queria saber se você poderia me ajudar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Fatebinder, over here! I would speak to you."</DefaultText>
+      <DefaultText>"Fatebinder, por aqui! Eu falaria com você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"My sister, Kalea, disappeared when the Brotherhood showed up, and I haven't seen her since."
+      <DefaultText>"Minha irmã, Kalea, desapareceu quando a Irmandade apareceu, e eu não a vejo desde então."
 
-"She seems to have this idea that [url=glossary:lethian's crossing]Lethian's Crossing[/url] would do better in the hands of the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]. I've tried to persuade her otherwise, but she won't listen."</DefaultText>
+"Ela parece ter essa idéia que [url=glossary:lethian's crossing]Lethian's Crossing[/url] faria melhor nas mãos dos [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]. Eu tentei persuadi-la de outra forma, mas ela não vai ouvir".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Knowing her, she was probably looking for a way to join the Brotherhood as soon as they arrived."
+      <DefaultText>"Conhecendo-a, ela provavelmente estava procurando uma maneira de se juntar à Irmandade assim que eles chegassem."
 
-"People are saying they were headed toward Deserter's March when they ran off. Will you look for her? I have no means of doing it myself. I'm not a fighter and I have no skills in confrontation."</DefaultText>
+"As pessoas estão dizendo que estavam indo em direção à Marcha de Deserter quando fugiram. Você vai procurá-la? Eu não tenho como fazer isso sozinho. Eu não sou um lutador e não tenho habilidades em confronto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"She means the world to me, and I'm sick with worry. Be careful though - I've heard the Brotherhood in that area have gotten rather rough with travelers recently." His expression falls again, but this time there's a distant shadow of hope.</DefaultText>
+      <DefaultText>"Ela significa o mundo para mim, e eu estou doente de preocupação. Tenha cuidado, porém - eu ouvi que a Irmandade naquela área ficou um tanto rude com os viajantes recentemente." Sua expressão cai novamente, mas desta vez há uma sombra distante de esperança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Fatebinder! What brings you here? Come to view the horrors caused by your [url=glossary:edict]edict[/url]?"</DefaultText>
+      <DefaultText>"Fatebinder! O que te traz aqui? Venha ver os horrores causados ​​pelo seu [url=glossary:edict]edict[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Fatebinder? What in the Crossing could possibly interest someone of your power?"</DefaultText>
+      <DefaultText>"Fatebinder? O que no Crossing poderia interessar alguém do seu poder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Why should I care about you or your sister?"</DefaultText>
+      <DefaultText>"Por que eu deveria me importar com você ou sua irmã?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Desperation creeps into his voice as he speaks. "The Brotherhood have broken [url=glossary:kyros]Kyros[/url]' laws. As a Fatebinder, shouldn't that be enough?"</DefaultText>
+      <DefaultText>O desespero se insinua em sua voz enquanto ele fala. "A Irmandade quebrou as leis do [url=glossary:kyros]Kyros[/url] '. Como um Fatebinder, isso não deveria ser suficiente?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"I have rings, I can pay you. Unfortunately I don't have much else to offer you Fatebinder unless you require the services of an ore hauler."</DefaultText>
+      <DefaultText>"Eu tenho anéis, eu posso pagar você. Infelizmente eu não tenho muito mais para lhe oferecer Fatebinder a menos que você precise dos serviços de um caminhão de minério."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"The [url=glossary:forge-bound]Forge-Bound[/url] will hear of your greatness from me I can assure you."</DefaultText>
+      <DefaultText>"O [url=glossary:forge-bound]Forge-Bound[/url] vai ouvir de sua grandeza de mim eu posso lhe assegurar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"That's not a particularly compelling argument. You'll have to do better than that."</DefaultText>
+      <DefaultText>"Esse não é um argumento particularmente convincente. Você terá que fazer melhor que isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"I wouldn't say 'with' more like 'for.' The [url=glossary:forge-bound]Forge-Bound[/url] require large amounts of ore for their craft. They use a number of us here in [url=glossary:lethian's crossing]Lethian's Crossing[/url] to suppliment their regular ore gatherers."</DefaultText>
+      <DefaultText>"Eu não diria 'com' mais como 'para'. Os [url=glossary:forge-bound]Forge-Bound[/url] exigem grandes quantidades de minério para a sua nave.Eles usam um número de nós aqui em [url=glossary:lethian's crossing]Lethian's Crossing[/url] para complementar os seus mineiros regulares. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Ore hauler? Does that mean you work with the [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <DefaultText>"Caminhão de minério? Isso significa que você trabalha com o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Put in a good word for me with the [url=glossary:forge-bound]Forge-Bound[/url], and I'll help you find your sister."</DefaultText>
+      <DefaultText>"Coloque em uma boa palavra para mim com o [url=glossary:forge-bound]Forge-Bound[/url], e eu vou ajudá-lo a encontrar sua irmã."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Tell the [url=glossary:forge-bound]Forge-Bound[/url] to give me a discount on their goods or your sister dies alone in the wilderness."</DefaultText>
+      <DefaultText>"Diga ao [url=glossary:forge-bound]Forge-Bound[/url] para me dar um desconto em suas mercadorias ou sua irmã morre sozinha no deserto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"I can't make demands like that!" A look of panic crosses his face. "Perhaps... perhaps, I could convince them to give you a discount if I work off the debt myself."</DefaultText>
+      <DefaultText>"Eu não posso fazer exigências como essa!" Um olhar de pânico cruza seu rosto. "Talvez ... talvez, eu pudesse convencê-los a dar-lhe um desconto, se eu mesmo pagar a dívida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Please, help me, Fatebinder. She means the world to me, and I'm sick with worry." His expression falls again, but this time there's a distant shadow of hope.</DefaultText>
+      <DefaultText>"Por favor, me ajude, Fatebinder. Ela significa o mundo para mim, e eu estou doente de preocupação." Sua expressão cai novamente, mas desta vez há uma sombra distante de esperança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Please, help me, Fatebinder. She means the world to me, and I'm sick with worry. Be careful though - I've heard the Brotherhood in that area have gotten rather rough with travelers recently." His expression falls again, but this time there's a distant shadow of hope.</DefaultText>
+      <DefaultText>"Por favor, me ajude, Fatebinder. Ela significa o mundo para mim, e eu estou doente de preocupação. Seja cuidadoso, porém - eu ouvi que a Irmandade naquela área ficou um tanto rude com os viajantes recentemente." Sua expressão cai novamente, mas desta vez há uma sombra distante de esperança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"I swear it. I'll speak favorably of you at every opportunity once Kalea has been returned."</DefaultText>
+      <DefaultText>"Eu juro. Eu falarei favoravelmente de você em todas as oportunidades, uma vez que Kalea tenha retornado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"I'm not promising anything, but if I find her for you, I expect a good number of rings."</DefaultText>
+      <DefaultText>"Não estou prometendo nada, mas se a encontrar para você, espero um bom número de toques."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Earlier you mentioned you were an ore hauler, does that mean you work with the [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <DefaultText>"Anteriormente você mencionou que era um caminhão de minério, isso significa que você trabalha com o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"As promised I have spoken with the [url=glossary:forge-bound]Forge-Bound[/url] in regards to your... discount. It will take me many years of labor to work off, but it is worth it to know Kalea is safe at home."</DefaultText>
+      <DefaultText>"Como prometido eu falei com o [url=glossary:forge-bound]Forge-Bound[/url] com relação ao seu ... desconto. Vou precisar de muitos anos de trabalho para trabalhar, mas vale a pena saber que Kalea está segura em casa".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"As promised I have spoken with the [url=glossary:forge-bound]Forge-Bound[/url] in regards to your... discount. It will take me many years of labor to work off, but it is worth it to know Kalea is happy."</DefaultText>
+      <DefaultText>"Como prometido eu falei com o [url=glossary:forge-bound]Forge-Bound[/url] com relação ao seu ... desconto. Vou precisar de muitos anos de trabalho para trabalhar, mas vale a pena saber que Kalea está feliz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"I.. uh... it's difficult to explain."</DefaultText>
+      <DefaultText>"Eu ... uh ... é difícil explicar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Why do I get the feeling there's more to this than just your sister running away?"</DefaultText>
+      <DefaultText>"Por que tenho a sensação de que há mais nisso do que apenas sua irmã fugindo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Spill it or I'm not helping you."</DefaultText>
+      <DefaultText>"Derramar ou não estou ajudando você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"This will be a lot easier if you just tell me."</DefaultText>
+      <DefaultText>"Isso será muito mais fácil se você apenas me disser."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>He lets out a deep sigh. "You're right, you deserve to know the truth. Before [url=glossary:kyros]Kyros[/url] came to [url=glossary:lethian's crossing]Lethian's Crossing[/url], Raetommon and I were close, really close. He was a much different person back then, and we were happy together until the armies of [url=glossary:kyros]Kyros[/url] came."</DefaultText>
+      <DefaultText>Ele solta um suspiro profundo. "Você está certo, você merece saber a verdade. Antes do [url=glossary:kyros]Kyros[/url] vir para [url=glossary:lethian's crossing]Lethian's Crossing[/url], Raetommon e eu estávamos próximos, muito próximos. Ele era uma pessoa muito diferente naquela época, e ficamos felizes juntos até que os exércitos de [url=glossary:kyros]Kyros[/url] vieram".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' invasion changed him, for the worse unfortunately. Kalea knows how much Raetommon meant to me back then, how happy I was. My guess is she thinks that by joining the Brotherhood she can convince him to come back to me."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] 'invasão o mudou, para pior infelizmente. Kalea sabe quanto Raetommon significou para mim naquela época, como eu estava feliz. Meu palpite é que ela pensa que se juntando à Irmandade ela pode convencê-lo a voltar para mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Raetommon is not the man I knew, the man I loved. I don't think Kalea understands that, she just sees me unhappy and wants to fix it."
+      <DefaultText>"Raetommon não é o homem que eu conhecia, o homem que eu amava. Eu não acho que Kalea entende isso, ela só me vê infeliz e quer consertar isso."
 
-"You can't let her make this mistake, Fatebinder. I know the monster Raetommon has become. You have to make Kalea see reason."</DefaultText>
+"Você não pode deixar ela cometer esse erro, Fatebinder. Eu sei que o monstro que Raetommon se tornou. Você tem que fazer Kalea ver a razão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Fatebinder, please don't..."</DefaultText>
+      <DefaultText>"Fatebinder, por favor, não ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"What do I get for helping you?"</DefaultText>
+      <DefaultText>"O que eu ganho por te ajudar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"I can't help you if I don't know the whole story."</DefaultText>
+      <DefaultText>"Eu não posso te ajudar se eu não souber a história toda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Forgive me, Fatebinder, but I'm afraid I don't have anything else I can say regarding the matter. It matters only to me that my sister is in danger, and so I need your help."</DefaultText>
+      <DefaultText>"Perdoe-me, Fatebinder, mas receio que não tenha mais nada que possa dizer sobre o assunto. Importa-me apenas que minha irmã esteja em perigo e, por isso, preciso de sua ajuda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Thank you, Fatebinder, for helping me and my sister. I guess I didn't realize how unhappy she was. I was so focused on myself that I didn't see she was suffering because of it."</DefaultText>
+      <DefaultText>"Obrigada, Fatebinder, por me ajudar e a minha irmã. Acho que não percebi o quão infeliz ela era. Eu estava tão focado em mim mesmo que não vi que ela estava sofrendo por causa disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"She left [url=glossary:lethian's crossing]Lethian's Crossing[/url] to persue her dreams of exploring the Tiers. I truly hope she finds her dreams out there."
+      <DefaultText>"Ela deixou [url=glossary:lethian's crossing]Lethian's Crossing[/url] para persuadir seus sonhos de explorar os Tiers. Eu realmente espero que ela encontre seus sonhos lá fora".
 
-"If you see her, please keep an eye on her. The Tiers can be dangerous. As promised here is what I owe you."</DefaultText>
+"Se você a ver, por favor, fique de olho nela. As Tiers podem ser perigosas. Como prometido aqui é o que eu devo a você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"She was killed by Bane near the Oldwalls."</DefaultText>
+      <DefaultText>"Ela foi morta por Bane perto dos Oldwalls."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

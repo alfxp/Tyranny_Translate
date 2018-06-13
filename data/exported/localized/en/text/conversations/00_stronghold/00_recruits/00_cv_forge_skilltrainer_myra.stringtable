@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_recruits\00_cv_forge_skilltrainer_myra</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>19</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>The Blood Chanter stands with his arms crossed, casually watching the goings on of the forge with little to no expression. 
+      <DefaultText>O Blood Chanter está de braços cruzados, observando casualmente as idas da forja com pouca ou nenhuma expressão.
 
-He glares at you while you approach.</DefaultText>
+Ele olha para você enquanto você se aproxima.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"How can I help, Fatebinder?"</DefaultText>
+      <DefaultText>"Como posso ajudar, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"I'd like to train."</DefaultText>
+      <DefaultText>"Eu gostaria de treinar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,12 +28,12 @@ He glares at you while you approach.</DefaultText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>The Blood Chanter glares at you dispassionately.</DefaultText>
+      <DefaultText>O Blood Chanter olha para você desapaixonadamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Maintenance. Come back later."</DefaultText>
+      <DefaultText>"Manutenção. Volte depois."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@ He glares at you while you approach.</DefaultText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>He glares back.</DefaultText>
+      <DefaultText>Ele olha de volta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,7 +53,7 @@ He glares at you while you approach.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>His eyes slightly narrow as he continues to glare.</DefaultText>
+      <DefaultText>Seus olhos ligeiramente estreitos enquanto ele continua a brilhar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,7 +63,7 @@ He glares at you while you approach.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>His glare continues as a small bead of sweat forms above his brow.</DefaultText>
+      <DefaultText>Seu olhar continua como uma pequena gota de suor se forma acima de sua testa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,12 +73,12 @@ He glares at you while you approach.</DefaultText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"I'm tired of this, just teach me."</DefaultText>
+      <DefaultText>"Estou cansado disso, apenas me ensine."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>His glare intensifies, the beads of sweat now meandering through every crevasse of his face. </DefaultText>
+      <DefaultText>Seu brilho se intensifica, as gotas de suor agora serpenteando através de cada fenda de seu rosto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,17 +88,17 @@ He glares at you while you approach.</DefaultText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>His intense glare finally breaks with a grin. "I like you, Fatebinder. How may I be of service?"</DefaultText>
+      <DefaultText>Seu intenso olhar finalmente rompe com um sorriso. "Eu gosto de você, Fatebinder. Como posso estar de serviço?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>He sighs and motions for you to come closer.</DefaultText>
+      <DefaultText>Ele suspira e pede que você se aproxime.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Nods to you and motions for you to come closer.</DefaultText>
+      <DefaultText>Acena para você e pede que você se aproxime.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

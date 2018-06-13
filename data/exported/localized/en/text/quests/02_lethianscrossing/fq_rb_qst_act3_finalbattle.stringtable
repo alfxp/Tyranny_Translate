@@ -1,182 +1,182 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\02_lethianscrossing\fq_rb_qst_act3_finalbattle</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>37</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>The Defense of Haven</DefaultText>
+      <DefaultText>A defesa do paraíso</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Travel to [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <DefaultText>Viaje para [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Travel to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Viaje para [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Rescue Eldian or Matani Sybil.</DefaultText>
+      <DefaultText>Resgate Eldian ou Matani Sybil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Repulse the Bane or aid the settlers.</DefaultText>
+      <DefaultText>Repulse o Bane ou ajude os colonos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Help your ally or put out the building's fire.</DefaultText>
+      <DefaultText>Ajude seu aliado ou apague o fogo do prédio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Stop Kallista and her soldiers or save Pelox Florian.</DefaultText>
+      <DefaultText>Pare Kallista e seus soldados ou salve Pelox Florian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Return to the settlement entrance.</DefaultText>
+      <DefaultText>Volte para a entrada do assentamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Defeat [url=glossary:iron guard]Iron Guard[/url] Anthimon.</DefaultText>
+      <DefaultText>Derrota [url=glossary:iron guard]Iron Guard[/url] Anthimon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Talk to Eldian.</DefaultText>
+      <DefaultText>Fale com o Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Talk to Matani Sybil.</DefaultText>
+      <DefaultText>Fale com Matani Sybil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Secure the Moonrise District.</DefaultText>
+      <DefaultText>Fixe o distrito da lua.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Secure the Sunrise District.</DefaultText>
+      <DefaultText>Fixe o distrito do nascer do sol.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>In the wake of your [url=glossary:edict]Edict[/url] and [url=glossary:kyros]Kyros[/url]' decree to the Archons, the [url=glossary:disfavored]Disfavored[/url] have become desperate and invaded [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You have decided to convene a meeting of your coalition to figure out a battle plan.</DefaultText>
+      <DefaultText>Na sequência do seu decreto para os Arcontes, os [url=glossary:disfavored]Disfavored[/url] tornaram-se desesperados e invadiram [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Decidiu convocar uma reunião da sua coligação para descobrir um plano de batalha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>A meeting is set to begin at [url=glossary:ascension hall]Ascension Hall[/url] in [url=glossary:vendrien's well]Vendrien's Well[/url]. Travel there and speak to Arri to determine what the best course of action is for your alliance.</DefaultText>
+      <DefaultText>Uma reunião está programada para começar em [url=glossary:vendrien's well]Vendrien's Well[/url]. Viaje até lá e fale com Arri para determinar qual o melhor curso de ação para sua aliança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Meet your allies at [url=glossary:lethian's crossing]Lethian's Crossing[/url] and defend the settlement.</DefaultText>
+      <DefaultText>Encontre seus aliados em [url=glossary:lethian's crossing]Lethian's Crossing[/url] e defenda o acordo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Eldian is trapped by [url=glossary:disfavored]Disfavored[/url] near his home while Matani, not far away, is surrounded by enemies. You have limited time before the [url=glossary:disfavored]Disfavored[/url] gain the advantage and will only be able to help one of them.</DefaultText>
+      <DefaultText>Eldian é preso por perto de sua casa, enquanto Matani, não muito longe, é cercado por inimigos. Você tem tempo limitado antes do [url=glossary:disfavored]Disfavored[/url] ganhar a vantagem e só será capaz de ajudar um deles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Bane have escaped the Oldwalls. If they aren't stopped, they will spread throughout [url=glossary:lethian's crossing]Lethian's Crossing[/url]. The [url=glossary:disfavored]Disfavored[/url] are also looking to kill settlers, leaving you with only enough time to deal with one of these threats.</DefaultText>
+      <DefaultText>Bane escapou dos Oldwalls. Se eles não estão parados, eles vão se espalhar por todo o lado. Os 22222222222222222222222222222222222222111 também estão tentando matar colonos, deixando você com tempo suficiente para lidar com uma dessas ameaças.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>One of your allies is being attacked by [url=glossary:disfavored]Disfavored[/url] troops, and a building has set fire with settlers trapped inside. You only have time to help one of them.</DefaultText>
+      <DefaultText>Um de seus aliados está sendo atacado por tropas, e um prédio incendiou colonos presos dentro dele. Você só tem tempo para ajudar um deles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>An Oath Bound named Kallista is mobilizing [url=glossary:disfavored]Disfavored[/url] troops while another group of soldiers are chasing down your [url=glossary:vendrien guard]Vendrien Guard[/url] allies. You only have time to help one of them.</DefaultText>
+      <DefaultText>Um juramento encadernado chamado Kallista está mobilizando [url=glossary:disfavored]Disfavored[/url] tropas enquanto outro grupo de soldados está perseguindo seus [url=glossary:vendrien guard]Vendrien Guard[/url] aliados. Você só tem tempo para ajudar um deles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>A warning whistle has been sounded from the market where the remaining settlers have gathered. Return to investigate the reason for the call.</DefaultText>
+      <DefaultText>Um apito de alerta foi emitido do mercado onde os colonos remanescentes se reuniram. Volte para investigar o motivo da chamada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText>[url=glossary:iron guard]Iron Guard[/url] Anthimon has arrived in [url=glossary:lethian's crossing]Lethian's Crossing[/url] and is threatening to kill everyone still alive. Stop him before he has a chance to harm anyone else.</DefaultText>
+      <DefaultText>[url=glossary:iron guard]Iron Guard[/url] Anthimon chegou em [url=glossary:lethian's crossing]Lethian's Crossing[/url] e está ameaçando matar todos ainda vivos. Pare-o antes que ele tenha chance de machucar alguém.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10013</ID>
-      <DefaultText>Eldian is with the other survivors at the north end of the market. Find him and let him know that the [url=glossary:disfavored]Disfavored[/url] assault has ended.</DefaultText>
+      <DefaultText>Eldian está com os outros sobreviventes no extremo norte do mercado. Encontre-o e deixe-o saber que o ataque [url=glossary:disfavored]Disfavored[/url] terminou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>Matani is with the other survivors at the north end of the market. Find her and let her know that the [url=glossary:disfavored]Disfavored[/url] assault has ended.</DefaultText>
+      <DefaultText>Matani está com os outros sobreviventes no extremo norte do mercado. Encontre-a e deixe-a saber que o ataque [url=glossary:disfavored]Disfavored[/url] terminou.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10017</ID>
-      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] have a strong hold on the Moonrise District. Help your allies clear them out.</DefaultText>
+      <DefaultText>O [url=glossary:disfavored]Disfavored[/url] tem uma forte influência no distrito da lua. Ajude seus aliados a eliminá-los.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10018</ID>
-      <DefaultText>Allied soldiers are quickly losing ground within the Sunrise District. Help your allies take it back.</DefaultText>
+      <DefaultText>Soldados aliados estão rapidamente perdendo terreno dentro do Distrito Sunrise. Ajude seus aliados a recuperá-lo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>You decided to help Eldian. Kill the [url=glossary:disfavored]Disfavored[/url] surrounding him.</DefaultText>
+      <DefaultText>Você decidiu ajudar o Eldian. Mate o [url=glossary:disfavored]Disfavored[/url] em torno dele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>You decided to help Matani. Kill the [url=glossary:disfavored]Disfavored[/url] surrounding her.</DefaultText>
+      <DefaultText>Você decidiu ajudar Matani. Mate o [url=glossary:disfavored]Disfavored[/url] em torno dela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>You decided to kill the Bane.</DefaultText>
+      <DefaultText>Você decidiu matar o Bane.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>You decided to help the settlers. Kill the [url=glossary:disfavored]Disfavored[/url] keeping them captive.</DefaultText>
+      <DefaultText>Você decidiu ajudar os colonos. Mate os [url=glossary:disfavored]Disfavored[/url] mantendo-os em cativeiro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>You decided to defend your ally and kill the attacking [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>Você decidiu defender seu aliado e matar o ataque [url=glossary:disfavored]Disfavored[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>You decided to help the settlers. Put out the fire before it consumes the house and then check on the settlers inside.</DefaultText>
+      <DefaultText>Você decidiu ajudar os colonos. Apague o fogo antes que ele consome a casa e, em seguida, verifique os colonos dentro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20006</ID>
-      <DefaultText>You decided to engage Kallista and her soldiers. Kill them all.</DefaultText>
+      <DefaultText>Você decidiu envolver Kallista e seus soldados. Mate todos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20007</ID>
-      <DefaultText>You decided to help your [url=glossary:vendrien guard]Vendrien Guard[/url] allies. Kill the [url=glossary:disfavored]Disfavored[/url] that are threatening them.</DefaultText>
+      <DefaultText>Você decidiu ajudar seus [url=glossary:vendrien guard]Vendrien Guard[/url] aliados. Mate os [url=glossary:disfavored]Disfavored[/url] que estão ameaçando-os.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20008</ID>
-      <DefaultText>Intercept the [url=glossary:disfavored]Disfavored[/url] arriving from the south.</DefaultText>
+      <DefaultText>Interceptar o [url=glossary:disfavored]Disfavored[/url] chegando do sul.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>You have destroyed the [url=glossary:disfavored]Disfavored[/url] forces attempting to take back [url=glossary:lethian's crossing]Lethian's Crossing[/url]. The settlement is safe again.</DefaultText>
+      <DefaultText>Você destruiu as [url=glossary:disfavored]Disfavored[/url] forças tentando levar de volta [url=glossary:lethian's crossing]Lethian's Crossing[/url]. O acordo é seguro novamente.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

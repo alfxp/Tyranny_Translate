@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_oldwall_03_bridge</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"If the bridge collapses, I'll have time to yell 'told you so' when we plummet."</DefaultText>
+      <DefaultText>"Se a ponte desmoronar, terei tempo para gritar" disse-te "quando despencarmos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"I could drop a vial of ink down and see how long it takes to hear it shatter..."</DefaultText>
+      <DefaultText>"Eu poderia soltar um frasco de tinta e ver quanto tempo demora para ouvi-lo quebrar ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"You go first. I'll be right behind you."</DefaultText>
+      <DefaultText>"Você vai primeiro. Eu estarei bem atrás de você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Oh great... another chance to fall to our deaths. Glad you're taking me to all the nice places.</DefaultText>
+      <DefaultText>"Oh ótimo ... outra chance de cair nas nossas mortes. Que bom que você está me levando para todos os lugares legais.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Can hear pulse pittering and quickening when packmate looks into chasm. Fear smells good, roiling from packmate."</DefaultText>
+      <DefaultText>"Pode ouvir o pulso pulsando e acelerando quando o companheiro de matilha olha para o abismo. O medo cheira bem, enlouquecendo de matilha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Bank Node 13</DefaultText>
+      <DefaultText>Nó do banco 13</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"As soon as you verify this is safe, I'll follow."</DefaultText>
+      <DefaultText>"Assim que você verificar isso é seguro, eu vou seguir."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

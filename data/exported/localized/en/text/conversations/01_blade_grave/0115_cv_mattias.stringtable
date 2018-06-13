@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\0115_cv_mattias</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"I fear I know the reason for our continued storms..."</DefaultText>
+      <DefaultText>"Eu temo que eu saiba o motivo de nossas contínuas tempestades ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Let's finish this, Fatebinder."</DefaultText>
+      <DefaultText>"Vamos terminar isso, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"This is not the way I expected things to end, but Stalwart is better for it."</DefaultText>
+      <DefaultText>"Não é assim que eu esperava que as coisas acabassem, mas o Stalwart é melhor para isso."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

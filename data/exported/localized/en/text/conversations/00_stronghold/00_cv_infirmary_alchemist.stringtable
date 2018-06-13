@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\00_stronghold\00_cv_infirmary_alchemist</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Welcome to the Spire's infirmary, Fatebinder. As you can see, we have everything in order and under control." The alchemist nods and smiles. </DefaultText>
+      <DefaultText>"Bem-vindo à enfermaria do Spire, Fatebinder. Como você pode ver, temos tudo em ordem e sob controle." O alquimista assente e sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"I owe you an apology, Fatebinder. Even atop this incredible structure, we need rings to keep the infirmary operational. I'm sure you understand."</DefaultText>
+      <DefaultText>"Eu lhe devo uma desculpa, Fatebinder. Mesmo no topo desta estrutura incrível, precisamos de anéis para manter a enfermaria operacional. Tenho certeza que você entende."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Do you require any assistance, Fatebinder?"</DefaultText>
+      <DefaultText>"Você precisa de alguma ajuda, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Do you require any assistance, Fatebinder?"</DefaultText>
+      <DefaultText>"Você precisa de alguma ajuda, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"What have you made for me?"</DefaultText>
+      <DefaultText>"O que você fez para mim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,37 +36,37 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Our efforts here have proven fruitful, but they would be hastened by additional recruits. If you happen to find anyone willing." Ambro cocks an eyebrow at you.</DefaultText>
+      <DefaultText>"Nossos esforços aqui se mostraram frutíferos, mas seriam acelerados por recrutas adicionais. Se acontecer de você encontrar alguém disposto." Ambro ergue uma sobrancelha para você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"What can I do here?"</DefaultText>
+      <DefaultText>"O que eu posso fazer aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"If you wish to craft potions, we have an alchemy station nearby. We are, of course, producing a modest supply of potions ourselves - you have but to ask and I'll show you what we've made."</DefaultText>
+      <DefaultText>"Se você deseja criar poções, nós temos uma estação de alquimia nas proximidades. Nós estamos, é claro, produzindo um modesto suprimento de poções - temos apenas que perguntar e eu vou mostrar o que fizemos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"I'm only too happy to show you! Come, take a look."</DefaultText>
+      <DefaultText>"Estou muito feliz em te mostrar! Venha, dê uma olhada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"We have nothing for you at the moment."</DefaultText>
+      <DefaultText>"Não temos nada para você no momento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"What do you make of the Spire?"</DefaultText>
+      <DefaultText>"O que você acha do Pináculo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>The alchemist glances toward the edge of the Spire with an anxious twitch. "This is certainly an irregular place to establish our services, but so be it. At least we are removed from the front lines of this conflict... for the time being, at least."</DefaultText>
+      <DefaultText>O alquimista olha para a borda da torre com uma contração ansiosa. "Este é certamente um lugar irregular para estabelecer nossos serviços, mas que assim seja. Pelo menos, somos removidos das linhas de frente deste conflito ... pelo menos por enquanto."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

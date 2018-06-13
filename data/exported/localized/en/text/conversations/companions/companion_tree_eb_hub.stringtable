@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\companions\companion_tree_eb_hub</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>8</EntryCount>
@@ -16,32 +16,32 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>You found my safety node.</DefaultText>
+      <DefaultText>Você encontrou meu nó de segurança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Pre-[url=glossary:ascension hall]Ascension Hall[/url], please. Valid progession is for squares.</DefaultText>
+      <DefaultText>Pre-[url=glossary:ascension hall]Ascension Hall[/url], por favor. Progresso válido é para quadrados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Post-Ascenion Hall, please. Bugsbedamned!</DefaultText>
+      <DefaultText>Post-Ascenion Hall, por favor. Pernalonga!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Smell you later forever.</DefaultText>
+      <DefaultText>Cheirar mais tarde para sempre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Trigger Conv Node 7</DefaultText>
+      <DefaultText>Nó Conv. Trigger 7</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Trigger Conv Node 8</DefaultText>
+      <DefaultText>Nó Conv. Trigger 8</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

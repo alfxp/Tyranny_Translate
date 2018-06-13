@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>game\afflictions</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>179</EntryCount>
@@ -11,22 +11,22 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>[url=glossary:edict]Edict[/url] of Storms</DefaultText>
+      <DefaultText>[url=glossary:edict]Edict[/url] de Tempestades</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>The storms of rust howling through the [url=glossary:blade grave]Blade Grave[/url] reduce your visibility slightly, but grant bonuses to your ranged attacks. Enemy ranged attacks are hindered.</DefaultText>
+      <DefaultText>As tempestades de ferrugem uivando através do [url=glossary:blade grave]Blade Grave[/url] reduzem ligeiramente sua visibilidade, mas concedem bônus aos seus ataques à distância. Ataques de inimigos variados são impedidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Wounded</DefaultText>
+      <DefaultText>Ferido</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Hooked Shield</DefaultText>
+      <DefaultText>Escudo com Gancho</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,17 +41,17 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Memory of War</DefaultText>
+      <DefaultText>Memória da guerra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Slowed</DefaultText>
+      <DefaultText>Desacelerou</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Flanked</DefaultText>
+      <DefaultText>Flanqueado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,17 +76,17 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Poison: Bloody Flux</DefaultText>
+      <DefaultText>Veneno: Fluxo Sangrento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Choking</DefaultText>
+      <DefaultText>Asfixia</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Soaked</DefaultText>
+      <DefaultText>Encharcado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Choking!</DefaultText>
+      <DefaultText>Sufocando!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,22 +151,22 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>The winds of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] fill the air with thick clouds of rust from the decaying weapons and armor that litter the ground. No natural wind, it hampers your every movement.</DefaultText>
+      <DefaultText>Os ventos de [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] encher o ar com nuvens grossas de ferrugem das armas decadentes e armaduras que cobrem o chão. Nenhum vento natural, dificulta cada movimento seu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[url=glossary:edict]Edict[/url] of Execution</DefaultText>
+      <DefaultText>[url=glossary:edict]Edict[/url] da Execução</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>The Overlord has decreed that all in the valley on [url=glossary:kyros]Kyros[/url]' Day of Swords shall die unless [url=glossary:kyros]Kyros[/url]' representative holds [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <DefaultText>O Overlord decretou que todos no vale em [url=glossary:kyros]Kyros[/url] 'Day of Swords deve morrer a menos que [url=glossary:kyros]Kyros[/url]' representante detém [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Soaked!</DefaultText>
+      <DefaultText>Encharcado!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>--CUT--</DefaultText>
+      <DefaultText>--CORTAR--</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Blue Crystal Buff!</DefaultText>
+      <DefaultText>Cristal Azul</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,32 +206,32 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Orange Crystal Buff!</DefaultText>
+      <DefaultText>Buff de cristal laranja!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Purple Crystal Buff!</DefaultText>
+      <DefaultText>Buff de cristal roxo!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Red Crystal Buff!</DefaultText>
+      <DefaultText>Lustre de cristal vermelho!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Yellow Crystal Buff!</DefaultText>
+      <DefaultText>Buff de cristal amarelo!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Damage Boost</DefaultText>
+      <DefaultText>Aumento de dano</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Damage Boost!</DefaultText>
+      <DefaultText>Aumento de dano!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,12 +261,12 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Level Up Bonus</DefaultText>
+      <DefaultText>Bónus Level Up</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Level Up!</DefaultText>
+      <DefaultText>Upar!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>The torrential rain plaguing the land increasing the power of Shock spells and lowers the effectiveness of Fire spells.</DefaultText>
+      <DefaultText>A chuva torrencial que assola a terra aumenta o poder dos feitiços de Choque e diminui a eficácia dos feitiços de Fogo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,8 +311,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[url=glossary:degenerating]Degenerating[/url]!
-</DefaultText>
+      <DefaultText>[url=glossary:degenerating]Degenerating[/url]!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,107 +326,107 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Howling winds echo through the canyons of the [url=glossary:stone sea]Stone Sea[/url], driving Beastmen mad from the constant echoes. Movement becomes difficult for all those in the area and defenses are lowered for foes. The Fatebinder's party benefits from an increased [url=glossary:dodge]Dodge[/url] and [url=glossary:parry]Parry[/url] while in the storm.</DefaultText>
+      <DefaultText>Ventos uivantes ecoam através dos desfiladeiros do [url=glossary:stone sea]Stone Sea[/url], dirigindo Beastmen louco dos ecos constantes. O movimento se torna difícil para todos os que estão na área e as defesas são reduzidas para os inimigos. A festa do Fatebinder beneficia de um aumento [url=glossary:dodge]Dodge[/url] e [url=glossary:parry]Parry[/url] enquanto na tempestade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Rain of corrosive acid falls from the sky. All characters have their armor reduced and have chaotic elemental damage added to their attacks. The party gains a corrosive damage effect on their attacks, while enemies have their weapons corroded, reducing attack damage.</DefaultText>
+      <DefaultText>A chuva de ácido corrosivo cai do céu. Todos os personagens têm suas armaduras reduzidas e causam danos elementares caóticos adicionados aos seus ataques. O grupo ganha um efeito de dano corrosivo em seus ataques, enquanto os inimigos têm suas armas corroídas, reduzindo o dano de ataque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[url=glossary:edict]Edict[/url] of Fire</DefaultText>
+      <DefaultText>[url=glossary:edict]Edict[/url] de fogo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Tiny pools of lava and molten magma begin to peek out of the broken earth in and around the land. Volatile lava traps hazard the area. The party receives a reduction to Fire damage and all characters have their magic skill increased. Bane in the area are empowered.</DefaultText>
+      <DefaultText>Pequenas poças de lava e magma derretido começam a espreitar a terra quebrada dentro e ao redor da terra. As armadilhas de lava voláteis arriscam a área. A parte recebe uma redução ao dano de Fogo e todos os personagens têm sua habilidade mágica aumentada. Bane na área são capacitados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Exhausting desert like heat withers the region and dries up all natural sources of water. All characters have their magic skill increased. The Fatebinder's party also heals a portion of Frost damage received and consumables are far more effective. Foes become [url=glossary:fatigued]Fatigued[/url] and have a penalty to [url=glossary:quickness]Quickness[/url].</DefaultText>
+      <DefaultText>Exaustão desértica como o calor murcha a região e seca todas as fontes naturais de água. Todos os personagens têm sua habilidade mágica aumentada. A festa de Fatebinder também cura uma porção de dano de Gelo recebido e os consumíveis são muito mais eficazes. Os inimigos tornam-se [url=glossary:fatigued]Fatigued[/url] e têm uma penalidade de [url=glossary:quickness]Quickness[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Steam jets periodically out of porous pockets in the earth and canyons in the region. Rivers, lakes, and other sources of water are heated to a near boiling temperature. All characters have their [url=glossary:resolve]Resolve[/url] penalized and their magic skills increased. Bane in the area become more powerful and afflictions caused by the Fatebinder's party last longer. Water and steam burn both allies and foes.</DefaultText>
+      <DefaultText>Jatos de vapor periodicamente fora de bolsos porosos na terra e cânions na região. Rios, lagos e outras fontes de água são aquecidos a uma temperatura quase de ebulição. Todos os personagens foram penalizados e suas habilidades mágicas aumentaram. O banimento na área se torna mais poderoso e as aflições causadas pela festa do Fatebinder duram mais. Água e vapor queimam aliados e inimigos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Black ash and wisps of tiny orange embers litter the air, aimlessly floating and drifting about.  All characters in the region are imbued with an increase in magic skill and a greater increase in Fire Magic skill. The party gains an increase to Burn damage that is dealt and all melee attacks from party members apply a small amount of Burn damage.</DefaultText>
+      <DefaultText>Cinzas negras e tufos de minúsculas brasas alaranjadas enchem o ar, flutuando sem destino e flutuando. Todos os personagens da região estão imbuídos de um aumento na habilidade mágica e um aumento maior na habilidade de Magia de Fogo. O grupo ganha um aumento para causar dano de Queimação e todos os ataques corpo a corpo dos membros do grupo aplicam uma pequena quantidade de dano de Queimadura.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>[url=glossary:edict]Edict[/url] of Stone</DefaultText>
+      <DefaultText>[url=glossary:edict]Edict[/url] de Stone</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>A stone curse plagues the region. Blood, flesh, and nature begin to harden over time, causing petrification and slowed movement. The [url=glossary:edict]Edict[/url] lowers the potency of magic in the area and weakens the Bane.</DefaultText>
+      <DefaultText>Uma maldição de pedra assola a região. Sangue, carne e natureza começam a endurecer com o tempo, causando petrificação e desacelerando o movimento. O [url=glossary:edict]Edict[/url] reduz a potência da magia na área e enfraquece o Bane.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Tremors and earthquakes plague the region. Periodic rumbles and shifting cause characters to fall [url=glossary:prone]Prone[/url] in combat. All character have Stone Magic skill increased.  The party gains an increase to [url=glossary:prone]Prone[/url] defense, while foes have [url=glossary:prone]Prone[/url] durations increased.</DefaultText>
+      <DefaultText>Tremores e terremotos assolam a região. Burburinhos e mudanças periódicas causam a queda de personagens [url=glossary:prone]Prone[/url] em combate. Todo personagem tem habilidade de Magia de Pedra aumentada. A parte ganha um aumento para defesa [url=glossary:prone]Prone[/url], enquanto os inimigos têm [url=glossary:prone]Prone[/url] durações aumentadas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>[url=glossary:edict]Edict[/url] of Malediction</DefaultText>
+      <DefaultText>[url=glossary:edict]Edict[/url] de Malediction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>The balance of fates is shifted for all those within the region. The party gains a bonus to all skills, Graze [url=glossary:precision]Precision[/url] and Hit [url=glossary:precision]Precision[/url].  Foes have a penalty to all skills and a portion of their critical hits are converted to hits and hits are converted to grazes.</DefaultText>
+      <DefaultText>O saldo de destinos é deslocado para todos aqueles dentro da região. A parte ganha um bônus em todas as habilidades, Graze [url=glossary:precision]Precision[/url] e Hit [url=glossary:precision]Precision[/url]. Os inimigos têm uma penalidade em todas as habilidades e uma parte de seus acertos críticos são convertidos em acertos e acertos são convertidos em escoriações.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>[url=glossary:edict]Edict[/url] of Nightfall</DefaultText>
+      <DefaultText>[url=glossary:edict]Edict[/url] de Anoitecer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Darkness plagues the region, regardless of the time of day. The party gains a bonus to [url=glossary:subterfuge]Subterfuge[/url] and damage. While foes receive a penalty to perception range and [url=glossary:accuracy]Accuracy[/url]. Foes are also [url=glossary:blinded]Blinded[/url] at the start of combat.</DefaultText>
+      <DefaultText>A escuridão atormenta a região, independentemente da hora do dia. A parte ganha um bônus para [url=glossary:subterfuge]Subterfuge[/url] e dano. Enquanto os inimigos recebem uma penalidade na faixa de percepção e [url=glossary:accuracy]Accuracy[/url]. Inimigos também são [url=glossary:blinded]Blinded[/url] no início do combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Spire Rest Bonus</DefaultText>
+      <DefaultText>Bônus de Resto de Pináculo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>--CUT--</DefaultText>
+      <DefaultText>--CORTAR--</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>--CUT--</DefaultText>
+      <DefaultText>--CORTAR--</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>--CUT--</DefaultText>
+      <DefaultText>--CORTAR--</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>--CUT--</DefaultText>
+      <DefaultText>--CORTAR--</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Surrendered!</DefaultText>
+      <DefaultText>Entregue-se!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Surrendered</DefaultText>
+      <DefaultText>Rendeu-se</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -442,23 +441,22 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Uneasy</DefaultText>
+      <DefaultText>Inquieto</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Uneasy!</DefaultText>
+      <DefaultText>Inquieto!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Severed Bond!</DefaultText>
+      <DefaultText>Vínculo cortado!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Overextended!
-</DefaultText>
+      <DefaultText>Overextended!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -483,12 +481,12 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Shield Disarm!</DefaultText>
+      <DefaultText>Escudo Desarmar!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Wounded ([url=glossary:wounds]Wounds[/url] are cleared on rest)</DefaultText>
+      <DefaultText>Feridos ([url=glossary:wounds]Wounds[/url] são apagados em repouso)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -528,32 +526,32 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Charging Eradicate</DefaultText>
+      <DefaultText>Erradicar o carregamento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Wounded!</DefaultText>
+      <DefaultText>Ferido!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Blood Bond</DefaultText>
+      <DefaultText>Vínculo de sangue</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Empowered!</DefaultText>
+      <DefaultText>Potencializado!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>The Bleed</DefaultText>
+      <DefaultText>O sangramento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>The Bleed!</DefaultText>
+      <DefaultText>O sangramento!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -573,12 +571,12 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Shaken Faith</DefaultText>
+      <DefaultText>Fé Sacudida</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Shaken Faith</DefaultText>
+      <DefaultText>Fé Sacudida</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -598,27 +596,27 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>The Broodhole</DefaultText>
+      <DefaultText>O Broodhole</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Sword or Sheathe Resting Bonus</DefaultText>
+      <DefaultText>Espada ou Sheathe descansando bônus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Leaky Port</DefaultText>
+      <DefaultText>Porto com vazamento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Dirty Lethian</DefaultText>
+      <DefaultText>Lethian sujo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Edging the Ruins</DefaultText>
+      <DefaultText>Afiando as Ruínas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -628,7 +626,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Tidecaster's Flow</DefaultText>
+      <DefaultText>Fluxo de Tidecaster</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -638,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Purple Scourge</DefaultText>
+      <DefaultText>Flagelo Roxo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -648,7 +646,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Earthshaker's Delight</DefaultText>
+      <DefaultText>Prazer do Earthshaker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -658,12 +656,12 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>The Oathbreaker</DefaultText>
+      <DefaultText>O furacão</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Novice [url=glossary:sage]Sage[/url] in the [url=glossary:burning library]Burning Library[/url]</DefaultText>
+      <DefaultText>Novato [url=glossary:sage]Sage[/url] no [url=glossary:burning library]Burning Library[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -673,12 +671,12 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Eradicate</DefaultText>
+      <DefaultText>Erradicar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>{0} has gained a wound! ({1} total)</DefaultText>
+      <DefaultText>{0} ganhou uma ferida! ({1} no total)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -793,57 +791,57 @@
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Increases Critical Hit damage by 300%.</DefaultText>
+      <DefaultText>Aumenta em 300% o dano de Acerto Crítico.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Increases incoming damage whenever target is damaged.</DefaultText>
+      <DefaultText>Aumenta o dano recebido sempre que o alvo é danificado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Increasingly gains a penalty to [url=glossary:lore]Lore[/url] and [url=glossary:athletics]Athletics[/url] over time during combat</DefaultText>
+      <DefaultText>Cada vez mais ganha uma penalidade para [url=glossary:lore]Lore[/url] e [url=glossary:athletics]Athletics[/url] ao longo do tempo durante o combate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Potion effectiveness is reduced by 100%. Getting knocked unconcious causes nearby Allies to become [url=glossary:diseased]Diseased[/url].</DefaultText>
+      <DefaultText>A eficácia da poção é reduzida em 100%. Ficar inconsciente faz com que os aliados próximos se tornem [url=glossary:diseased]Diseased[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Being reduced under 75%, 50%, and 25% Heath Percentage will cause a long interrupt.</DefaultText>
+      <DefaultText>Ser reduzido abaixo de 75%, 50% e 25% de Heath Percentage causará uma longa interrupção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Increasinly gains a penalty to [url=glossary:recovery]Recovery[/url] over time during combat</DefaultText>
+      <DefaultText>Aumenta a penalidade de [url=glossary:recovery]Recovery[/url] ao longo do tempo durante o combate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Reduced the Range of all abilities and attacks by 50%</DefaultText>
+      <DefaultText>Reduziu o alcance de todas as habilidades e ataques em 50%</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>Reduces AoE size by 50%.  When under 50% [url=glossary:health]Health[/url], all defenses against spells are penalized.</DefaultText>
+      <DefaultText>Reduz o tamanho da área em 50%. Quando sob 50% [url=glossary:health]Health[/url], todas as defesas contra feitiços são penalizadas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>Moving during combat reduces Max [url=glossary:health]Health[/url].</DefaultText>
+      <DefaultText>Movendo-se durante o combate reduz Max [url=glossary:health]Health[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Causes a raw damage over time whenever target is damaged.</DefaultText>
+      <DefaultText>Causa um dano bruto ao longo do tempo sempre que o alvo for danificado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>+30 [url=glossary:magic defense]Magic Defense[/url].  Launches an AoE ability when the target is [url=glossary:crit]Crit[/url].</DefaultText>
+      <DefaultText>+30 [url=glossary:magic defense]Magic Defense[/url]. Lança uma habilidade AoE quando o alvo é [url=glossary:crit]Crit[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -853,27 +851,27 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>+5% [url=glossary:precision]Precision[/url]</DefaultText>
+      <DefaultText>+ 5% [url=glossary:precision]Precision[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>+2 [url=glossary:wits]Wits[/url], +2 [url=glossary:finesse]Finesse[/url], and +2 [url=glossary:resolve]Resolve[/url].</DefaultText>
+      <DefaultText>+2 [url=glossary:wits]Wits[/url], +2 [url=glossary:finesse]Finesse[/url] e +2 [url=glossary:resolve]Resolve[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Heals 2% Max [url=glossary:health]Health[/url] every 3 seconds</DefaultText>
+      <DefaultText>Cura 2% Max [url=glossary:health]Health[/url] a cada 3 segundos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>+20 [url=glossary:accuracy]Accuracy[/url] when above 75% [url=glossary:health]Health[/url].</DefaultText>
+      <DefaultText>+20 [url=glossary:accuracy]Accuracy[/url] quando acima de 75% [url=glossary:health]Health[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>-20% [url=glossary:recovery]Recovery[/url] Time.</DefaultText>
+      <DefaultText>-20% [url=glossary:recovery]Recovery[/url] Tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -883,22 +881,22 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Immune to the first application of an [url=glossary:affliction]Affliction[/url] during combat.</DefaultText>
+      <DefaultText>Imune à primeira aplicação de um [url=glossary:affliction]Affliction[/url] durante o combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>+30 Endurance. +25% Potion Effectiveness.</DefaultText>
+      <DefaultText>+30 de resistência. + 25% de eficácia da poção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Prolonged practice by yourself has increased your ability with a one-handed weapon and strengthened your heart.</DefaultText>
+      <DefaultText>Prática prolongada por si mesmo aumentou sua habilidade com uma arma de uma mão e fortaleceu seu coração.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>Shadow's Treachery</DefaultText>
+      <DefaultText>Traição da Sombra</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

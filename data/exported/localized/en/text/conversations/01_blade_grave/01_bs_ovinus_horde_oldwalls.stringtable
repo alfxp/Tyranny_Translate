@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_bs_ovinus_horde_oldwalls</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>6</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Never met a woman like her in the North."</DefaultText>
+      <DefaultText>"Nunca conheci uma mulher como ela no norte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"There she goes... out of my life."</DefaultText>
+      <DefaultText>"Lá vai ela ... fora da minha vida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Without [url=glossary:kyros]Kyros[/url]' law, the world would fall to anarchy."</DefaultText>
+      <DefaultText>"Sem a [url=glossary:kyros]Kyros[/url] 'lei, o mundo cairia em anarquia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Don't mind my prisoner."</DefaultText>
+      <DefaultText>"Não se importe com meu prisioneiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Maybe she'll come back."</DefaultText>
+      <DefaultText>"Talvez ela volte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Bank Node 8</DefaultText>
+      <DefaultText>Nó do banco 8</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,49 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\02_lethianscrossing\02_cv_adjudication_bb_vs_merchant</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>66</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Sorry to cause a disturbance, Fatebinder. Just making a 'point' to my friend here about harassing me for rings." He chuckles.
+      <DefaultText>"Desculpe causar um distúrbio, Fatebinder. Apenas fazendo um 'ponto' para o meu amigo aqui sobre me assediar por anéis." Ele ri.
 
-"Get it, Krassner? 'Point'?"</DefaultText>
+"Entende, Krassner? Ponto?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Help me out, Fatebinder. I just want what I'm owed."</DefaultText>
+      <DefaultText>"Me ajude, Fatebinder. Eu só quero o que eu devo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ow! You're crazy! Are you trying to kill me?"</DefaultText>
+      <DefaultText>"Ow! Você é louco! Você está tentando me matar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"You stabbed me, you bastard! And I'm not harassing you. All I want is what you owe me!"</DefaultText>
+      <DefaultText>"Você me apunhalou, seu desgraçado! E eu não estou assediando você. Tudo que eu quero é o que você me deve!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"I'll adjudicate the matter, but you both need to abide by my decision."</DefaultText>
+      <DefaultText>"Vou julgar o assunto, mas vocês dois precisam seguir minha decisão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"I don't have time for this right now."</DefaultText>
+      <DefaultText>"Eu não tenho tempo para isso agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Fine by me! Then I won't have to resort to violence to prove my point."</DefaultText>
+      <DefaultText>"Tudo bem por mim! Então não vou ter que recorrer à violência para provar meu ponto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"I know you're going to rule in my favor anyway. So, yeah, I agree."</DefaultText>
+      <DefaultText>"Eu sei que você vai decidir a meu favor de qualquer maneira. Então, sim, eu concordo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,12 +58,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"I asked Krassner to do a job for me. Something simple. He comes back, says the job is done even though there's no results, and demands his pay. I tell him no, and Krassner there gets all threatening."</DefaultText>
+      <DefaultText>"Eu pedi a Krassner que fizesse um trabalho para mim. Algo simples. Ele volta, diz que o trabalho está feito, embora não haja resultados, e exige seu pagamento. Eu digo a ele que não, e Krassner fica todo ameaçador."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Felno hired me to, uh, talk some of the other merchants into leaving town. I did what he asked, but now he won't pay up."</DefaultText>
+      <DefaultText>"Felno me contratou para, uh, falar com alguns dos outros mercadores para deixar a cidade. Eu fiz o que ele pediu, mas agora ele não vai pagar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Business has been down on account of all the other merchants around here. I hired Krassner to have a word with some of them, maybe get them to leave town or stop competing with me on price."</DefaultText>
+      <DefaultText>"Os negócios caíram por conta de todos os outros mercadores por aqui. Contratei Krassner para conversar com alguns deles, talvez para que eles saíssem da cidade ou parassem de competir comigo no preço."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,9 +93,9 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"I can see how it might look, but that's how it's done around here. Sometimes, anyway."
+      <DefaultText>"Eu posso ver como isso pode parecer, mas é assim que é feito por aqui. Às vezes, de qualquer maneira."
 
-He folds his arms. "It doesn't matter since that's not the issue and it didn't work, anyway. Krassner can keep the rings he extorted from the others, but he's not getting a single one from me. I hired him to do something and he didn't do it. End of story."</DefaultText>
+Ele cruza os braços. "Não importa, já que não é o problema e não funcionou, de qualquer forma. Krassner pode manter os anéis que ele extorquiu dos outros, mas ele não está recebendo nenhum de mim. Eu o contratei para fazer alguma coisa e ele não o fez." Não faça isso. Fim da história. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,17 +105,17 @@ He folds his arms. "It doesn't matter since that's not the issue and it didn't w
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Of course not! Like I said, he was starting to make threats and wouldn't take no for an answer. I might not be a tough man, but I can take care of myself."</DefaultText>
+      <DefaultText>"Claro que não! Como eu disse, ele estava começando a fazer ameaças e não aceitaria um não como resposta. Eu posso não ser um homem durão, mas posso cuidar de mim mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Just the one time. Drinking money, you understand. The Brotherhood wouldn't approve of me freelancing for some merchant, but I figured it wouldn't hurt to do it just that once."</DefaultText>
+      <DefaultText>"Só uma vez. Bebendo dinheiro, você entende. A Irmandade não me aprovaria como freelancer para algum comerciante, mas achei que não faria mal apenas uma vez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"The merchants around here aren't going to back down just because some soldier says a bunch of mean words to 'em. I figured I'd shake 'em down for rings, convince 'em it'd be cheaper to leave."</DefaultText>
+      <DefaultText>"Os comerciantes por aqui não vão recuar só porque algum soldado diz um monte de palavras para eles. Eu pensei em abaná-los por anéis, convencê-los de que seria mais barato partir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,202 +125,202 @@ He folds his arms. "It doesn't matter since that's not the issue and it didn't w
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"I made a few rings, yeah. Once I'd visited all of 'em, I came back to collect the pay I was promised. Felno said he wouldn't pay me, and then he just stabbed me."</DefaultText>
+      <DefaultText>"Eu fiz alguns anéis, sim. Uma vez que eu visitei todos eles, eu voltei para cobrar o pagamento que me foi prometido. Felno disse que não iria me pagar, e então ele apenas me apunhalou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"I am ready to pronounce my decision. Do you have any last words?"</DefaultText>
+      <DefaultText>"Estou pronto para pronunciar minha decisão. Você tem alguma última palavra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Well, I think it's pretty obvious to everyone that I'm the one in the right. I did not get what I hired him for, so he doesn't deserve any more money - especially from me."</DefaultText>
+      <DefaultText>"Bem, eu acho que é bastante óbvio para todos que eu sou a pessoa certa. Eu não consegui o que eu o contratei, então ele não merece mais dinheiro - especialmente de mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Shut up, Felno. Just because your competitors can't be intimidated, doesn't mean you get out of paying me for the job. I deserve payment for the work I did."</DefaultText>
+      <DefaultText>"Cale a boca, Felno. Só porque seus concorrentes não podem ser intimidados, não significa que você sai de me pagar pelo trabalho. Eu mereço o pagamento pelo trabalho que fiz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Felno, I find you guilty of instigating intimidation against your fellow merchants. You are hereby banned from selling anything in [url=glossary:lethian's crossing]Lethian's Crossing[/url]."</DefaultText>
+      <DefaultText>"Felno, eu acho você culpado de instigar intimidação contra seus companheiros comerciantes. Você está proibida de vender qualquer coisa em [url=glossary:lethian's crossing]Lethian's Crossing[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Krassner, I find you guilty of extortion. Report to your superior to be punished according to Brotherhood laws."</DefaultText>
+      <DefaultText>"Krassner, eu acho você culpado de extorsão. Relate ao seu superior para ser punido de acordo com as leis da Fraternidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"I find you both guilty of intimidation and extortion. Felno, you're banned from selling anything in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Krassner, report to your superior to be punished according to Brotherhood laws."</DefaultText>
+      <DefaultText>"Eu acho vocês dois culpados de intimidação e extorsão. Felno, você está proibido de vender nada em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Krassner, informe ao seu superior para ser punido de acordo com as leis da Fraternidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Krassner, I want all the rings you collected. Felno will give me an equal amount."</DefaultText>
+      <DefaultText>"Krassner, eu quero todos os anéis que você coletou. Felno vai me dar uma quantia igual."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Well, I was hoping to get paid, but this is so much better! Serves you right, Felno."</DefaultText>
+      <DefaultText>"Bem, eu estava esperando receber o pagamento, mas isso é muito melhor! Você está certo, Felno."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Have fun getting your fingers broken, Krassner."</DefaultText>
+      <DefaultText>"Divirta-se ficando com os dedos quebrados, Krassner."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"What? Oh, damn it all. Fucking Krassner. You've screwed us both."</DefaultText>
+      <DefaultText>"O quê? Oh, droga, tudo. Fodendo Krassner. Você ferrou conosco ambos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Great, so we both ended up screwed. Hope you're happy about this, Felno." He and Felno grudgingly hand over the rings.</DefaultText>
+      <DefaultText>"Ótimo, então nós dois acabamos feridos. Espero que você esteja feliz com isso, Felno." Ele e Felno entregam, a contragosto, os anéis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"It's a tiny scratch. Stop crying about it, you baby. If you want, we can get the Fatebinder to decide who's right in this little matter. That is, if you think you have a leg to stand on. Once you can stand up again, that is..." He chuckles again.</DefaultText>
+      <DefaultText>"É um pequeno arranhão. Pare de chorar sobre isso, seu amor. Se você quiser, podemos fazer com que o Fatebinder decida quem está certo neste pequeno problema. Isto é, se você acha que tem uma perna para ficar em pé. Uma vez você pode ficar de novo, isso é ... "Ele ri novamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Bank Node 39</DefaultText>
+      <DefaultText>Nó do banco 39</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Nothing wrong with a little intimidation here and there, unless someone calls you on your bluff." </DefaultText>
+      <DefaultText>"Nada de errado com um pouco de intimidação aqui e ali, a menos que alguém te chame em seu blefe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"A fitting reminder of justice. I believe that [url=glossary:kyros]Kyros[/url]' laws have provisions that protect merchants, but not the enemies of competition like this one." </DefaultText>
+      <DefaultText>"Um lembrete apropriado da justiça. Acredito que as [url=glossary:kyros]Kyros[/url] 'leis têm disposições que protegem os comerciantes, mas não os inimigos da competição como este."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Bank Node 46</DefaultText>
+      <DefaultText>Nó do banco 46</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"I've shaken down a merchant in my day. Never made the mistake of running afoul of the law, though." </DefaultText>
+      <DefaultText>"Eu abalei um comerciante no meu dia. Nunca cometi o erro de entrar em conflito com a lei, no entanto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"If I know these mercenaries, then Brotherhood law will be an exacting punishment indeed." </DefaultText>
+      <DefaultText>"Se eu conheço esses mercenários, então a lei da Fraternidade será realmente uma punição exigente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Bank Node 53</DefaultText>
+      <DefaultText>Nó do banco 53</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Bank Node 54</DefaultText>
+      <DefaultText>Nó do banco 54</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Nicely done. Hopefully people think twice before wasting your time in the future." </DefaultText>
+      <DefaultText>"Bem feito. Espero que as pessoas pensem duas vezes antes de desperdiçar seu tempo no futuro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Good decision, Fatebinder. Intimidation and extortion should never be accepted as proper tactics in business."</DefaultText>
+      <DefaultText>"Boa decisão, Fatebinder. Intimidação e extorsão nunca devem ser aceitas como táticas adequadas nos negócios."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>The Beastwoman chuffs, watching Felno with sharp, bright red eyes. "Should have let Beastwoman punish humans. Am good at training disobedient whelps."</DefaultText>
+      <DefaultText>A Beastwoman chora, observando Felno com olhos vermelhos brilhantes e penetrantes. "Deveria ter deixado Beastwoman punir os humanos. Sou boa em treinar filhotes desobedientes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Neither of these fools deserved their ill-gotten gains. This is for the best." </DefaultText>
+      <DefaultText>"Nenhum desses tolos mereceu seus ganhos ilícitos. Isso é o melhor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Who knew you could make such a profit off of justice? I might be in the wrong line of work." </DefaultText>
+      <DefaultText>"Quem sabia que você poderia lucrar tanto com a justiça? Eu poderia estar na linha errada de trabalho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Really, Fatebinder? Adding yet another layer of extortion to this already unsavory situation? I thought we were above such petty things."</DefaultText>
+      <DefaultText>"Realmente, Fatebinder? Adicionando ainda outra camada de extorsão a esta situação já desagradável? Eu pensei que estávamos acima de coisas tão mesquinhas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"So it's not extortion when a justice official does it?" Lantry nods with an impish smile as he finishes his note. "Not criticizing - we'll make better use of those rings than they ever will."</DefaultText>
+      <DefaultText>"Então, não é extorsão quando um funcionário da justiça faz isso?" Lantry acena com um sorriso travesso enquanto termina sua nota. "Não criticando - nós vamos fazer melhor uso desses anéis do que eles jamais irão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Not only did Krassner not do what I asked, but it got back to me that he shook down some of the other merchants for rings. That's not what I hired him for."</DefaultText>
+      <DefaultText>"Krassner não apenas não fez o que eu pedi, mas também me disse que ele abalou alguns dos outros comerciantes de anéis. Não foi por isso que o contratei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Felno, you will pay Krassner what he's owed and cease any further intimidation tactics against your fellow merchants."</DefaultText>
+      <DefaultText>"Felno, você vai pagar a Krassner o que lhe é devido e cessar qualquer outra tática de intimidação contra seus colegas comerciantes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Krassner, you can keep the rings you acquired, but you'll stop trying to collect your pay from Felno."</DefaultText>
+      <DefaultText>"Krassner, você pode manter os anéis que você adquiriu, mas você vai parar de tentar cobrar seu pagamento de Felno."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Ha! Pay up, Felno!" He smiles widely at you. "Thanks a lot, Fatebinder!"</DefaultText>
+      <DefaultText>"Ha! Pague, Felno!" Ele sorri muito para você. "Muito obrigado, Fatebinder!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Better not come around again, Krassner." He nods at you. "Thanks, Fatebinder."</DefaultText>
+      <DefaultText>"Melhor não vir de novo, Krassner." Ele acena para você. "Obrigado, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Bank Node 74</DefaultText>
+      <DefaultText>Nó do banco 74</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"So what would you say you... accomplished here?" </DefaultText>
+      <DefaultText>"Então, o que você diria a você ... realizado aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Tapping his quill against his lip, Lantry gives you a long stare before shaking his head and completing his annotation with a quiet mutter.</DefaultText>
+      <DefaultText>Batendo sua pena contra o lábio, Lantry lhe dá um longo olhar antes de sacudir a cabeça e completar sua anotação com um murmúrio silencioso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"From your judgment, I surmise they aren't guilty of intimidation, they're guilty of being caught. Nice lesson."</DefaultText>
+      <DefaultText>"Do seu julgamento, eu suponho que eles não são culpados de intimidação, eles são culpados de serem pegos. Boa lição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"I think [url=glossary:tunon]Tunon[/url] might be interested in how you understand the law, Fatebinder. Your objectivity seems to have slipped." </DefaultText>
+      <DefaultText>"Eu acho que [url=glossary:tunon]Tunon[/url] poderia estar interessado em como você entende a lei, Fatebinder. Sua objetividade parece ter escorregado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"But..."</DefaultText>
+      <DefaultText>"Mas..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Oh, come on! You can't blame me for trying to make a few extra rings!"</DefaultText>
+      <DefaultText>"Oh, vamos lá! Você não pode me culpar por tentar fazer alguns anéis extras!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,12 +330,12 @@ He folds his arms. "It doesn't matter since that's not the issue and it didn't w
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"I am an enforcer of the Archon of Justice. Once invoked, my ruling is final. Are you sure this what you want?"</DefaultText>
+      <DefaultText>"Eu sou um executor do Arconte da Justiça. Uma vez invocado, minha decisão é final. Tem certeza disso o que você quer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"If you're going to argue in front of a Fatebinder, I'm exercising my right to adjudicate this matter."</DefaultText>
+      <DefaultText>"Se você vai discutir na frente de um Fatebinder, estou exercendo meu direito de julgar este assunto."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

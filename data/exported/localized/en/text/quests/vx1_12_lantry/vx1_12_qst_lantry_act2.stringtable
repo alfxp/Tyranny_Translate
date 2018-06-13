@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>quests\vx1_12_lantry\vx1_12_qst_lantry_act2</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>Once you have gained access to the lower sections of the Bastard's Wound Oldwalls, continue your search for the chronicles.</DefaultText>
+      <DefaultText>Depois de ter obtido acesso às seções inferiores do Oldwalls do Bastard's Wound, continue sua busca pelas crônicas.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

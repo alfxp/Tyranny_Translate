@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\01_blade_grave\01_poi_skypillar_puzzle</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Eh, okay... Any bets on which sigil unleashes more Scourges?"</DefaultText>
+      <DefaultText>"Eh, ok ... Alguma aposta em qual sigilo liberte mais flagelos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"If I had a copper ring for every glyph I've sketched today..."</DefaultText>
+      <DefaultText>"Se eu tivesse um anel de cobre para cada glifo que eu esbocei hoje ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Watch where you step - this has 'trap' written all over it."</DefaultText>
+      <DefaultText>"Veja onde você pisa - isso tem 'armadilha' escrita por toda parte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Study carefully the glyphs - they are gibberish to me but I know magic when I see it!"</DefaultText>
+      <DefaultText>"Estude cuidadosamente os glifos - eles são rabiscos para mim, mas eu sei magia quando vejo isso!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ground quivers and gleams - watching with mystic eyes. Watching without blinking."</DefaultText>
+      <DefaultText>"A terra treme e brilha - observando com olhos místicos. Observando sem piscar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"If we knew what glyph we needed, I'll bet we could unlock this puzzle."</DefaultText>
+      <DefaultText>"Se soubéssemos qual o glifo que precisávamos, aposto que poderíamos desbloquear esse quebra-cabeça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Bank Node 10</DefaultText>
+      <DefaultText>Nó do banco 10</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

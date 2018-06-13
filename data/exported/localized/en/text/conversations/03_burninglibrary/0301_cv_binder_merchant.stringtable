@@ -1,44 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\03_burninglibrary\0301_cv_binder_merchant</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>The young [url=glossary:sage]Sage[/url] is lost in thought as he scans through a scroll half the length of his entire body before suddenly realizing you've been standing before him for far too long.
+      <DefaultText>O jovem [url=glossary:sage]Sage[/url] está perdido em pensamentos enquanto ele percorre um pergaminho pela metade do comprimento de todo o seu corpo antes de perceber que você está diante dele há muito tempo.
 
-"S-Sorry to keep you waiting, Fatebinder!" He quickly rolls up the scroll and does a quick bow. "Renata has tasked me as the quartermaster for the Library now the we have reclaimed it. Anything you need, I'll be happy to offer."</DefaultText>
+"S-Desculpe por manter você esperando, Fatebinder!" Ele rapidamente rola o pergaminho e faz uma rápida reverência. "Renata me encarregou como intendente da Biblioteca agora que recuperamos. Qualquer coisa que você precisar, terei prazer em oferecer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Let me see what you have for sale."</DefaultText>
+      <DefaultText>"Deixe-me ver o que você tem à venda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Of course."</DefaultText>
+      <DefaultText>"Claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Did you need buy something, Fatebinder?"</DefaultText>
+      <DefaultText>"Você precisa comprar algo, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Don't you think single-handedly returning the [url=glossary:vellum citadel]Vellum Citadel[/url] to the Sages deserves a bit of a reward?"</DefaultText>
+      <DefaultText>"Você não acha que, sozinho, devolver os [url=glossary:vellum citadel]Vellum Citadel[/url] aos Sábios merece um pouco de recompensa?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>The sage clutches his scroll to his chest. "I-I can certain arrange a discount of some kind. I didn't mean any disrespect."</DefaultText>
+      <DefaultText>O sábio agarra o pergaminho ao peito. "Eu-eu posso certo arranjar um desconto de algum tipo. Eu não quis dizer qualquer desrespeito."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

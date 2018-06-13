@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" standalone="yes"?>
+<StringTableFile>
   <Name>conversations\05_cairnplains\05_cv_new_scarletoctave</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>225</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Misery sent me to provide assistance with the [url=glossary:stonestalkers]Stonestalkers[/url]."</DefaultText>
+      <DefaultText>"Miséria me enviou para prestar assistência com o [url=glossary:stonestalkers]Stonestalkers[/url]".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"I'll gladly take the help, boss. But even a Fatebinder might find this one difficult. The leader of the [url=glossary:stonestalkers]Stonestalkers[/url], Hundred-Blood, is one tough mutt, and she doesn't like humans."</DefaultText>
+      <DefaultText>"Eu ficarei feliz em receber a ajuda, chefe. Mas até mesmo um Fatebinder pode achar isso difícil. O líder do [url=glossary:stonestalkers]Stonestalkers[/url], Cem-Sangue, é um vira-lata difícil, e ela não gosta de humanos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"She doesn't need to like me to comply with my demands."</DefaultText>
+      <DefaultText>"Ela não precisa gostar de mim para cumprir minhas exigências."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Now you're talking my language. But I'd give it a thought before you straight-up kill the Beast. Word is, Nerat's got his eye on her."</DefaultText>
+      <DefaultText>"Agora você está falando minha língua. Mas eu pensaria antes de você matar a fera. A palavra é que Nerat está de olho nela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"I'll handle it by whatever means I see fit. Just stay out of my way."</DefaultText>
+      <DefaultText>"Eu vou lidar com isso por qualquer meio que eu achar adequado. Apenas fique fora do meu caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>A grimy, dust-caked man cracks a somber smile at your approach. He wipes a hand across his mouth, leaving a smear of dry clay behind. "Well, well. What's a Fatebinder of [url=glossary:tunon]Tunon[/url] want in Stone Down Gorge? You come to help us or fight us, boss?"</DefaultText>
+      <DefaultText>Um homem encardido e sujo de poeira esboça um sorriso sombrio ao se aproximar. Ele passa a mão pela boca, deixando uma mancha de argila seca para trás. "Bem, bem. O que é um Fatebinder de [url=glossary:tunon]Tunon[/url] quer em Stone Down Gorge? Você vem para nos ajudar ou lutar contra nós, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"Despedida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>He shrugs, already dismissing you with a half-hearted wave over his shoulder. "Be wary of the Beastmen, boss. They're in a vicious snit as of late."</DefaultText>
+      <DefaultText>Ele dá de ombros, já te dispensando com um leve aceno por cima do ombro. "Desconfie dos Homens-Besta, chefe. Eles estão em uma merda cruel ultimamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"How's it coming with the [url=glossary:stonestalkers]Stonestalkers[/url], boss? We conscripting or killing them to get to Howling Rock?"</DefaultText>
+      <DefaultText>"Como está vindo com o [url=glossary:stonestalkers]Stonestalkers[/url], chefe? Nós conscriptamos ou os matamos para chegar ao Howling Rock?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,11 +56,11 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Watch? Shit, they'd probably help you. Know why I keep telling Misery I'm worried about how smart and strong my subordinate, Two Vice, is?"
+      <DefaultText>"Cuidado? Merda, eles provavelmente ajudariam você. Sabe por que eu continuo dizendo à Miséria que eu estou preocupada com o quão inteligente e forte meu subordinado, Dois Vícios, é?"
 
-He sneers, teeth rotten and jagged.
+Ele zomba, dentes podres e irregulares.
 
-"It's so she'll kill him and not me."</DefaultText>
+"É assim que ela vai matá-lo e não a mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,81 +70,81 @@ He sneers, teeth rotten and jagged.
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"I like the way you think, so I won't kill you today."</DefaultText>
+      <DefaultText>"Eu gosto do jeito que você pensa, então eu não vou te matar hoje."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"What information have you gleaned regarding these [url=glossary:stonestalkers]Stonestalkers[/url]?"</DefaultText>
+      <DefaultText>"Que informações você coletou sobre esses [url=glossary:stonestalkers]Stonestalkers[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Not much, other than that they're all up in a snit over us even being here. Not only have they brushed off our best recruitment efforts, but they keep going on about how we're infesting their sacred ancestor's lands." He scratches grimy fingers through his hair. "Beats the piss out of me."</DefaultText>
+      <DefaultText>"Não muito, além de que eles estão todos em uma merda sobre nós, mesmo estando aqui. Não só eles tiraram nossos melhores esforços de recrutamento, mas eles continuam falando sobre como estamos infestando as terras de seus ancestrais sagrados." Ele coça os dedos sujos pelo cabelo. "Bate o mijo fora de mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"You're Misery's right-hand man?"</DefaultText>
+      <DefaultText>"Você é o braço direito de Misery?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"And can you guess which I hope it'll be?"</DefaultText>
+      <DefaultText>"E você consegue adivinhar o que eu espero que seja?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Fortunately, or unfortunately, you heard right." He splits a jagged-toothed grin. "So far, I've lasted longer than most."</DefaultText>
+      <DefaultText>"Felizmente, ou infelizmente, você ouviu direito." Ele abre um sorriso dentuço irregular. "Até agora, eu durou mais do que a maioria."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Let me mark that one down. I get to live another day."
+      <DefaultText>"Deixe-me marcá-lo. Eu posso viver outro dia."
 
-He spits a wad of Vagrant's Chaw at your feet. Lazily, he dips into his side pocket for a fresh pinch of the dried leaves.
+Ele cospe um chumaço do Chacra do Vagabundo aos seus pés. Preguiçosamente, ele mergulha no bolso lateral para uma nova pitada das folhas secas.
 
-"If you're needing to bleed someone, take it out on Two Vice to get it out of your system."</DefaultText>
+"Se você está precisando sangrar alguém, leve para fora em Two Vice para tirá-lo do seu sistema."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Frigging piss! He isn't joking!" With a yelp, Octave fumbles to draw his blade, tripping backwards over a loose stone. "Furies! At arms, at arms! Shit-shit-damn! Help!"</DefaultText>
+      <DefaultText>"Mijo irritante! Ele não está brincando!" Com um grito, Octave se atreve a desenhar sua lâmina, tropeçando para trás sobre uma pedra solta. "Fúrias! Nos braços, nos braços! Merda de merda! Socorro!"</DefaultText>
       <FemaleText>"Frigging piss! She isn't joking!" With a yelp, Octave fumbles to draw his blade, tripping backwards over a loose stone. "Furies! At arms, at arms! Shit-shit-damn! Help!"</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"How's it coming, boss? Good news or bad news?"</DefaultText>
+      <DefaultText>"Como está vindo, chefe? Boas notícias ou más notícias?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Why have you yet to uncover the route to [url=glossary:cairn]Cairn[/url]'s remains?"</DefaultText>
+      <DefaultText>"Por que você ainda não descobriu a rota para os restos de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"As you can see, the [url=glossary:stonestalkers]Stonestalkers[/url] have been... resistant to our methods." He grunts and sweeps a hand around the heavily injured, rag-tag group. "Every time we get close to their den, they straight-up attack us."</DefaultText>
+      <DefaultText>"Como você pode ver, os [url=glossary:stonestalkers]Stonestalkers[/url] foram ... resistentes aos nossos métodos." Ele resmunga e passa a mão ao redor do grupo fortemente ferido e tagarela. "Toda vez que nos aproximamos de sua toca, eles nos atacam diretamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ready to strike, boss? I know I'm itching for a fight." He thumbs the edge of a gleaming dagger, restless. "Just give the word."</DefaultText>
+      <DefaultText>"Pronto para atacar, chefe? Eu sei que estou ansioso por uma briga." Ele aperta a ponta de um punhal reluzente, inquieto. "Apenas dê a palavra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>The thug studies you on approach. "You got the shard, or not?"</DefaultText>
+      <DefaultText>O bandido estuda você na abordagem. "Você tem o fragmento ou não?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"I retrieved a shard of pure Azurelith from an Earthshaker at Gulfglow."</DefaultText>
+      <DefaultText>"Eu peguei um fragmento de puro Azurelith de um Earthshaker em Gulfglow."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"What're we waiting on then? Let's go, boss. Me and the gang are ready to rip the Earthshakers to ribbons. Once we've crushed [url=glossary:cairn]Cairn[/url], we'll be local legends."</DefaultText>
+      <DefaultText>"O que estamos esperando então? Vamos, chefe. Eu e a turma estamos prontos para rasgar os Earthshakers em fitas. Uma vez que tenhamos esmagado [url=glossary:cairn]Cairn[/url], seremos lendas locais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,17 +154,17 @@ He spits a wad of Vagrant's Chaw at your feet. Lazily, he dips into his side poc
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"We attack now."</DefaultText>
+      <DefaultText>"Nós atacamos agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"We attack under the cover of nightfall."</DefaultText>
+      <DefaultText>"Nós atacamos sob a cobertura do anoitecer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"We attack under the cover of nightfall."</DefaultText>
+      <DefaultText>"Nós atacamos sob a cobertura do anoitecer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,90 +174,90 @@ He spits a wad of Vagrant's Chaw at your feet. Lazily, he dips into his side poc
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Lead on and lay us the way in, boss. We'll be in your wake." He gives you a mock salute, grinning with excitement and a surging thirst for bloodshed. "Cut us a trail of body parts to follow in case we lag too far behind."</DefaultText>
+      <DefaultText>"Lidere e coloque-nos o caminho, chefe. Nós estaremos em seu caminho." Ele faz uma saudação fingida, sorrindo de excitação e com uma sede crescente por derramamento de sangue. "Cortar-nos um rastro de partes do corpo para seguir no caso de ficarmos muito para trás."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>The sweaty, dirt-streaked thug waves you close, voice low as he speaks. "Thanks to you, boss, we've made it to Howling Rock, but there's still one hitch."</DefaultText>
+      <DefaultText>O bandido suado e encrespado acena com a voz baixa enquanto ele fala. "Graças a você, chefe, chegamos a Howling Rock, mas ainda há um problema."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>He nods his head toward the heavily fortified compound to the south. "The Earthshakers are holed up snugger than a fox family in winter. Me and the gang can't find a single path in. I'm thinking they've collapsed the stone bridges connecting the canyon."
+      <DefaultText>Ele acena com a cabeça em direção ao complexo fortificado ao sul. "Os Earthshakers estão escondidos mais do que uma família de raposa no inverno. Eu e a turma não conseguimos encontrar um único caminho. Estou pensando que eles entraram em colapso nas pontes de pedra que conectam o cânion."
 
-He licks chapped, bloodless lips, eyes scanning the distance as he thinks. Finally, he sighs. 
+Ele lambe lábios rachados e sem sangue, olhos examinando a distância enquanto pensa. Finalmente, ele suspira.
 
-"I'm at a loss on this one, boss. Maybe you can spot something we've missed?"</DefaultText>
+"Estou perplexo com este, chefe. Talvez você possa detectar algo que perdemos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"I've spotted something already - an incompetent lacking any skill to take up arms against Earthshakers." </DefaultText>
+      <DefaultText>"Eu já vi alguma coisa - um incompetente sem habilidade para pegar em armas contra os Earthshakers".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Want to repeat that to my gang, chum? I don't think they heard you." </DefaultText>
+      <DefaultText>"Quer repetir isso para a minha gangue, amigo? Eu não acho que eles ouviram você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"I would be only too pleased."</DefaultText>
+      <DefaultText>"Eu ficaria muito satisfeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"What'd you find, boss?"</DefaultText>
+      <DefaultText>"O que você achou, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"The Earthshakers manipulate the terrain to both prohibit and allow access to their compound. I might be able to accomplish the same using a shard of pure Azurelith."</DefaultText>
+      <DefaultText>"Os Earthshakers manipulam o terreno para proibir e permitir o acesso ao seu composto. Eu poderia ser capaz de realizar o mesmo usando um fragmento de puro Azurelith."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"If any object could move mountains, it'd be that, yeah. Best we get our hands on it by any means necessary, eh?"</DefaultText>
+      <DefaultText>"Se qualquer objeto pudesse mover montanhas, seria isso, sim. Melhor colocar as mãos nele por qualquer meio necessário, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Anything else I ought to know about?"</DefaultText>
+      <DefaultText>"Mais alguma coisa que eu deveria saber?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"That is everything I've found."</DefaultText>
+      <DefaultText>"Isso é tudo que eu encontrei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>With a decisive nod, Octave hacks a brackish gob of spit onto the ground.
+      <DefaultText>Com um aceno decidido, Octave corta um salpico de saliva no chão.
 
-"Let us know when you've filched the shard from the Earthshakers. Also ought to murder the [url=glossary:disfavored]Disfavored[/url] at Jagged Maw, while we're at it, boss, else those pricks are likely to ambush us during our assault."</DefaultText>
+"Deixe-nos saber quando você roubou o fragmento dos Earthshakers. Também deveria matar o [url=glossary:disfavored]Disfavored[/url] no Jagged Maw, enquanto estamos nisso, chefe, senão esses picos provavelmente nos emboscarão durante o nosso ataque."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>With a decisive nod, Octave hacks a brackish gob of spit onto the ground.
+      <DefaultText>Com um aceno decidido, Octave corta um salpico de saliva no chão.
 
-"Let us know when you've filched the shard from the Earthshakers."</DefaultText>
+"Deixe-nos saber quando você pegou o fragmento dos Earthshakers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"I have the shard of pure Azurelith."</DefaultText>
+      <DefaultText>"Eu tenho o fragmento de puro Azurelith."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"I'll return to you once I've taken care of it."</DefaultText>
+      <DefaultText>"Eu voltarei para você uma vez que eu cuidei disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"I've seen Earthshakers leaving the compound on night expeditions."</DefaultText>
+      <DefaultText>"Eu vi terremotos deixando o complexo em expedições noturnas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -267,7 +267,7 @@ He licks chapped, bloodless lips, eyes scanning the distance as he thinks. Final
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"A thinning of the ranks? Don't know what they're looking for in the darkness, but there could be an advantage in it for us."</DefaultText>
+      <DefaultText>"Um desbaste das fileiras? Não sei o que eles estão procurando na escuridão, mas poderia haver uma vantagem nisso para nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -277,364 +277,362 @@ He licks chapped, bloodless lips, eyes scanning the distance as he thinks. Final
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Oh I haven't forgotten. Misery'll bloodlet my balls from now till the Smiths of Frostfall if I botch this. Unless, of course, the Voices get us first." 
+      <DefaultText>"Oh, eu não esqueci. A miséria vai sangrar minhas bolas a partir de agora até os Smiths of Frostfall se eu estragar isso. A menos, claro, que as vozes nos pegem primeiro."
 
-He runs his tongue over his riven teeth at the thought. 
+Ele corre a língua sobre os dentes dilacerados com o pensamento.
 
-"So what have you seen that'll get us into the encampment, boss?" </DefaultText>
+"Então, o que você viu que vai nos levar para o acampamento, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"I've come to whip your sorry hide into shape."</DefaultText>
+      <DefaultText>"Eu vim para colocar sua desculpa em forma."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>He barks a surprised laugh. "Oh, now that's just wicked. But I guess Misery never was one for risks. Can't just trust Octave to succeed, can she?"</DefaultText>
+      <DefaultText>Ele solta uma risada surpresa. "Oh, agora isso é só malvado. Mas eu acho que Misery nunca foi um risco. Não pode confiar apenas em Octave para ter sucesso, ela pode?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"I have a way with the Beasts. Don't worry."</DefaultText>
+      <DefaultText>"Eu tenho um jeito com as Bestas. Não se preocupe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"If you say so. But it makes a fellow wonder - what're you planning to do, boss?"</DefaultText>
+      <DefaultText>"Se você diz isso. Mas isso faz um colega pensar - o que você está planejando fazer, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Don't have to tell me twice." He gives you a little, mocking salute.</DefaultText>
+      <DefaultText>"Não tem que me dizer duas vezes." Ele lhe dá uma pequena saudação zombeteira.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"I'll think about it."</DefaultText>
+      <DefaultText>"Vou pensar sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"You probably do a lot of thinking. I'm more of a man of action myself."</DefaultText>
+      <DefaultText>"Você provavelmente pensa muito. Eu sou mais um homem de ação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"The reason you've been unable to entice even a few [url=glossary:stonestalkers]Stonestalkers[/url] to our side is because of this Hundred-Blood - their leader?"</DefaultText>
+      <DefaultText>"A razão pela qual você foi incapaz de atrair até mesmo alguns poucos para o nosso lado é por causa deste Cem-Sangue - seu líder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Far as I can tell, it's Hundred-Blood that's calling the shots. Thanks to her, most of the Beasts would rather fight us than talk."
-
-</DefaultText>
+      <DefaultText>"Até onde eu sei, é Cem Centros que estão dando as ordens. Graças a ela, a maioria das Feras prefere lutar contra nós do que conversar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Hundred-Blood is [url=glossary:prima]Prima[/url] of tribe. Stone whelps will not disobey Beastwoman so readily."</DefaultText>
+      <DefaultText>"Hundred-Blood é [url=glossary:prima]Prima[/url] da tribo. Filhotes de pedra não desobedecerão Beastwoman tão prontamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Our usual recruitment methods haven't worked out so hot for us. If nothing else, the Beasts are tough."
+      <DefaultText>"Nossos métodos habituais de recrutamento não funcionaram tão bem para nós. Se nada mais, os Beasts são duros."
 
-He scratches at the corner of his mouth. "So what're you going to do, boss?"</DefaultText>
+Ele coça o canto da boca. "Então, o que você vai fazer, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"I'll win the favor of the tribe and ensure we are led to Howling Rock."</DefaultText>
+      <DefaultText>"Eu vou ganhar o favor da tribo e garantir que somos levados a Howling Rock".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Do what you've got to do. So long as we get to [url=glossary:cairn]Cairn[/url], that's all I care about."</DefaultText>
+      <DefaultText>"Faça o que você tem que fazer. Desde que cheguemos ao [url=glossary:cairn]Cairn[/url], é tudo o que me interessa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"What in [url=glossary:kyros]Kyros[/url]' name are you plotting, boss? Why'd you kill those Choirmen up ahead?" He points his weapon at you, face flushed scarlet. "Don't try to deny it. My gal, Pustule, saw it all."</DefaultText>
+      <DefaultText>"O que no [url=glossary:kyros]Kyros[/url] 'nome você está tramando, chefe? Por que você matou aqueles Coroas à frente?" Ele aponta sua arma para você, o rosto corado escarlate. "Não tente negar isso. Minha garota, Pustule, viu tudo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"I'm going to kill you so slowly you'll weep tears of blood. And I'm going to make your gang watch."</DefaultText>
+      <DefaultText>"Eu vou te matar tão devagar que você vai chorar lágrimas de sangue. E eu vou fazer sua gangue assistir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"I'm not buying your lies, Binder!" With a yelp, Octave fumbles to draw his blade, tripping backwards over a loose stone. "Furies! At arms, at arms! Shit-shit-damn! We're under attack!"</DefaultText>
+      <DefaultText>"Eu não estou comprando suas mentiras, Binder!" Com um grito, Octave se atreve a desenhar sua lâmina, tropeçando para trás sobre uma pedra solta. "Fúrias! Nos braços, nos braços! Puta merda! Estamos sob ataque!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Run. Run while you still have legs to carry you."</DefaultText>
+      <DefaultText>"Corra. Corra enquanto ainda tiver pernas para carregar você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Frigging piss! It's the [url=glossary:disfavored]Disfavored[/url]'s Binder!" With a yelp, Octave fumbles to draw his blade, tripping backwards over a loose stone. "Furies! At arms, at arms! Shit-shit-damn! Help!"</DefaultText>
+      <DefaultText>"Mijo Frigging! É o [url=glossary:disfavored]Disfavored[/url]'s Binder!" Com um grito, Octave se atreve a desenhar sua lâmina, tropeçando para trás sobre uma pedra solta. "Fúrias! Nos braços, nos braços! Merda de merda! Socorro!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Frigging piss! It's the rogue Fatebinder!" With a yelp, Octave fumbles to draw his blade, tripping backwards over a loose stone. "Furies! At arms, at arms! Shit-shit-damn! Help!"</DefaultText>
+      <DefaultText>"Mijo irritante! É o bandido Fatebinder!" Com um grito, Octave se atreve a desenhar sua lâmina, tropeçando para trás sobre uma pedra solta. "Fúrias! Nos braços, nos braços! Merda de merda! Socorro!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"I don't know what you're talking about."</DefaultText>
+      <DefaultText>"Eu não sei do que você está falando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Stop wagging your blades for comparison. We have an Archon to kill, lest you forget."</DefaultText>
+      <DefaultText>"Pare de sacudir suas lâminas para comparação. Temos um Arconte para matar, para que você não esqueça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"If you two want to go at it, by all means, I'll watch."</DefaultText>
+      <DefaultText>"Se vocês dois quiserem ir, por todos os meios, eu vou assistir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"No, and forget it. Misery'll bloodlet my balls from now till the Smiths of Frostfall if I botch this. Unless, of course, the Voices get us first." 
+      <DefaultText>"Não, e esqueça. Miséria sangrará minhas bolas a partir de agora até os Smiths of Frostfall se eu estragar isso. A menos, claro, que as Vozes nos pegem primeiro."
 
-He runs his tongue over his riven teeth at the thought. 
+Ele corre a língua sobre os dentes dilacerados com o pensamento.
 
-"I don't have time for squabbles. So what have you seen that'll get us into the encampment, boss?" </DefaultText>
+"Eu não tenho tempo para disputas. Então, o que você viu que vai nos levar para o acampamento, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"I'll have your head for the glory of Ashe."</DefaultText>
+      <DefaultText>"Eu vou ter sua cabeça para a glória de Ashe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Withdraw from the [url=glossary:stone sea]Stone Sea[/url], and I won't have to kill you."</DefaultText>
+      <DefaultText>"Retirada do [url=glossary:stone sea]Stone Sea[/url], e não terei que te matar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"You're sure Hundred-Blood won't give us any [url=glossary:stonestalkers]Stonestalkers[/url]?"</DefaultText>
+      <DefaultText>"Você tem certeza que Hundred-Blood não vai nos dar nenhum [url=glossary:stonestalkers]Stonestalkers[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"You're welcome to ask her, boss, but the Beasts don't care much for us Chorusmen. Can't see any of them joining up."</DefaultText>
+      <DefaultText>"Você é bem-vinda para perguntar a ela, chefe, mas as Feras não ligam muito para nós, Coroeiros. Não vejo nenhum deles se juntando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"I'll ask Hundred-Blood about it anyway."</DefaultText>
+      <DefaultText>"Eu pedirei a Hundred-Blood sobre isso de qualquer maneira."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"You're right. Probably a bad idea."</DefaultText>
+      <DefaultText>"Você está certo. Provavelmente é uma má ideia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"I was able to get two Beastmen for the Chorus."</DefaultText>
+      <DefaultText>"Eu consegui dois Beastmen para o Coro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Two? What the piss does that get us? Maybe you're not understanding - we need to bolster our ranks, boss. I mean really swell them. We're gonna need more than two mange-mutts to take down the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
+      <DefaultText>"Dois? O que o mijo que nos leva? Talvez você não esteja entendendo - precisamos reforçar nossas fileiras, chefe. Quero dizer, realmente vamos inchar. Vamos precisar de mais de dois vira-latas para derrubar o [url=glossary:disfavored]Disfavored[/url]. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Two will have to be enough."</DefaultText>
+      <DefaultText>"Dois terão que ser o suficiente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"You're sure there's no way we can conscript a few extras, boss? I'm the one explaining things to the Voices if this whole plan falls apart 'cause we didn't have the bodies, you know?"</DefaultText>
+      <DefaultText>"Você tem certeza de que não há como recrutar alguns extras, chefe? Eu sou o único que explica as vozes se todo esse plano se desfizer porque nós não temos os corpos, sabe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"I've done all that I can."</DefaultText>
+      <DefaultText>"Eu fiz tudo o que posso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Yeah, yeah, all right." He shakes his head and curses.</DefaultText>
+      <DefaultText>"Sim, sim, tudo bem." Ele balança a cabeça e amaldiçoa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Sirin, have a word with our friend, will you?"</DefaultText>
+      <DefaultText>"Sirin, tem uma palavra com o nosso amigo, vai?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"The less time I have to spend out in the middle of nowhere talking with cretins who are my inferiors, the better. Now, I know you know who I am. So, unless you want to happily dance yourself off the edge of that cliff there, I suggest you accept what you've got and leave it at that."</DefaultText>
+      <DefaultText>"Quanto menos tempo eu tiver para passar no meio do nada conversando com os cretinos que são meus inferiores, melhor. Agora, eu sei que você sabe quem eu sou. Então, a menos que você queira dançar com prazer a beira do precipício lá, sugiro que aceite o que você tem e deixe por isso mesmo. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Listen - you and I both know that at the end of this you're going to do what I want you to. So, save us the trouble or I might have to introduce you to a very long fall..."</DefaultText>
+      <DefaultText>"Escute - você e eu sabemos que no final disso você vai fazer o que eu quero que você faça. Então, nos salve o problema ou eu vou ter que te apresentar uma queda muito longa ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"It might be possible to 'acquire' some of the Beastmen cubs. Would that satisfy you?"</DefaultText>
+      <DefaultText>"Poderia ser possível 'adquirir' alguns dos filhotes Beastmen. Isso satisfaria você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"You know, that's not a half-bad idea. They might be a pain to raise, but we could train them up for combat in no time. Plus, I always wanted a pet."</DefaultText>
+      <DefaultText>"Você sabe, essa não é uma má idéia. Eles podem ser difíceis de aumentar, mas nós poderíamos treiná-los para o combate em nenhum momento. Além disso, eu sempre quis um animal de estimação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Random Node 99</DefaultText>
+      <DefaultText>Nó Aleatório 99</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"The strong rule and the weak serve? Well let's pour them a tall pitcher of beastly violence and watch them choke on their own vomit. I mean... the cubs might actually prosper in the Chorus."</DefaultText>
+      <DefaultText>"A regra forte e os fracos servem? Bem, vamos derramar um jarro alto de violência bestial e vê-los engasgar com seu próprio vômito. Quero dizer ... os filhotes podem realmente prosperar no Coro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"You want to take some Beasts and have them raised by monsters? That plan has disaster written all over it."</DefaultText>
+      <DefaultText>"Você quer pegar alguns Feras e tê-los criados por monstros? Esse plano tem um desastre escrito por todo o lado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Raising the Beasts among humans is sure to give them a leg-up on their more savage kin. Maybe the Beasts and the [url=glossary:scarlet chorus]Scarlet Chorus[/url] deserve each other."</DefaultText>
+      <DefaultText>"Levantar as feras entre os seres humanos é certo dar-lhes uma vantagem sobre seus parentes mais selvagens. Talvez as bestas e os [url=glossary:scarlet chorus]Scarlet Chorus[/url] merecem um ao outro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Would give whelps to humans who are neither pack nor kith? Beastwoman does not like this."
+      <DefaultText>"Daria whelps a humanos que não são nem pack nem kith? Beastwoman não gosta disso."
 
-She growls low, wary.</DefaultText>
+Ela rosna baixo, cautelosa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] once said he wanted a fur hat from the Tiers. Here's to hoping the Beastmen cubs have a long career with the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] disse uma vez que ele queria um chapéu de pele do Tiers. Aqui é de esperar que os filhotes Beastmen têm uma longa carreira com o [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"On second thought, we can't risk making enemies of the [url=glossary:stonestalkers]Stonestalkers[/url]. Make do with the force you've got."</DefaultText>
+      <DefaultText>"Com um segundo pensamento, não podemos nos arriscar a fazer inimigos do [url=glossary:stonestalkers]Stonestalkers[/url]. Fique com a força que você tem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"I'll get the cubs. Just tell me where I need to bring them."</DefaultText>
+      <DefaultText>"Eu vou pegar os filhotes. Apenas me diga onde eu preciso trazê-los."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Lure the beasties to the broken bridge in the south east ridge of the [url=glossary:stonestalkers]Stonestalkers[/url]' settlement. I'll have a Fury waiting on the other side for them."
+      <DefaultText>"Lure os bichos para a ponte quebrada na crista sudeste do [url=glossary:stonestalkers]Stonestalkers[/url] 'liquidação. Vou ter uma fúria esperando do outro lado para eles."
 
-He frowns. "And for the love of Archons, don't get caught or there'll be no end to the bloodshed."</DefaultText>
+Ele franze a testa. "E pelo amor de Arcontes, não seja pego ou não haverá fim para o derramamento de sangue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"I think you've forgotten who you're speaking to."</DefaultText>
+      <DefaultText>"Eu acho que você esqueceu com quem está falando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Don't like my tune, boss? The way I see it, though, there's more of me and mine here than there is of you." He whistles to his gang, drawing them to gather closer. "Want to have a go?"</DefaultText>
+      <DefaultText>"Não gosta da minha música, chefe? Do jeito que eu vejo, no entanto, há mais de mim e minha aqui do que há de você." Ele assobia para sua gangue, atraindo-os para se aproximarem. "Quer ter uma chance?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"I brought the [url=glossary:bastard city]Bastard City[/url] to its knees. Do you think a small gang of corpse flies could be anything more than a minor annoyance?"</DefaultText>
+      <DefaultText>"Eu trouxe o [url=glossary:bastard city]Bastard City[/url] a seus joelhos. Você acha que um pequeno bando de moscas cadáveres poderia ser algo mais do que um pequeno aborrecimento?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Whoa, boss. I was, uh, only jesting with you." Octave holds up the dirt-smeared palms of his hands, placating. "We're all good here."</DefaultText>
+      <DefaultText>"Whoa, chefe. Eu só estava brincando com você." Oitava segura as palmas sujas de suas mãos, aplacando. "Estamos todos bem aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Bloodshed between allies is pointless."</DefaultText>
+      <DefaultText>"O derramamento de sangue entre aliados é inútil."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Feh." Octave spits for your feet, but the splatter of saliva falls short. "What sort of worthless turd can't even go through with his own challenge? I'd kill you right where you stand if the Chorus didn't need you."</DefaultText>
+      <DefaultText>"Feh" A oitava cospe para os seus pés, mas o respingo da saliva é insuficiente. "Que tipo de bosta inútil não pode sequer passar por seu próprio desafio? Eu te mataria bem onde você está se o Coro não precisar de você."</DefaultText>
       <FemaleText>"Feh." Octave spits for your feet, but the splatter of saliva falls short. "What sort of worthless turd can't even go through with her own challenge? I'd kill you right where you stand if the Chorus didn't need you."</FemaleText>
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>He sneers and shakes his head, both impressed and irritated. But when he licks his lips, it's obvious he's eager to test the stories he's heard, the fantastical whisperings of a Fatebinder's strength. He's not about to back down. 
+      <DefaultText>Ele zomba e balança a cabeça, ambos impressionados e irritados. Mas quando ele lambe os lábios, é óbvio que ele está ansioso para testar as histórias que ouviu, os sussurros fantásticos da força de um Fatebinder. Ele não está prestes a recuar.
 
-"You heard the Binder," he cries with a wide sweep of his hands. "But we don't back down! Let's gut this pisser!"</DefaultText>
+"Você ouviu o fichário", ele chora com uma ampla varredura de suas mãos. "Mas nós não recuamos! Vamos estragar esse pisser!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"You've got the cubs now. Satisfied?"</DefaultText>
+      <DefaultText>"Você tem os filhotes agora. Satisfeito?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Yeah. The little whelps reek worse than dead flesh, but they'll grow into good fighters. Thanks for the help, boss."</DefaultText>
+      <DefaultText>"Sim. Os filhotes fedem mais do que carne morta, mas eles vão se transformar em bons lutadores. Obrigado pela ajuda, chefe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"To get the cubs, I need provide them a special treat - human flesh."</DefaultText>
+      <DefaultText>"Para obter os filhotes, eu preciso fornecer-lhes um tratamento especial - carne humana".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Last time we went up against the [url=glossary:stonestalkers]Stonestalkers[/url], several of my gang were pretty badly injured." He chews at his chapped, bottom lip for a moment, then grimaces in distaste. "Look, we all know it. Two Vice probably won't survive back to camp. He's nearly lost one leg already. We might as well take the other."
+      <DefaultText>"Da última vez que enfrentamos o [url=glossary:stonestalkers]Stonestalkers[/url], vários membros da minha gangue ficaram gravemente feridos". Ele mastiga o lábio inferior rachado por um momento, depois faz uma careta de desgosto. "Olha, todos nós sabemos disso. Dois vícios provavelmente não sobreviverão ao acampamento. Ele quase perdeu uma perna já. Podemos muito bem pegar a outra."
 
-He glances over to where his ailing comrade lies, bandaged and bloodied on the dusty stone ground. 
+Ele olha para onde seu companheiro doente está, enfaixado e sangrando no chão de pedra empoeirado.
 
-"What'd you say, boss?"</DefaultText>
+"O que você disse, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Random Node 119</DefaultText>
+      <DefaultText>Nó Aleatório 119</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Have I thanked you lately for getting me untied from that post back in [url=glossary:vendrien's well]Vendrien's Well[/url]? Well thanks for saving me from the eventual fate of becoming... beast chum?"</DefaultText>
+      <DefaultText>"Eu já te agradeci ultimamente por ter me desatado daquele post em [url=glossary:vendrien's well]Vendrien's Well[/url]? Bem, obrigado por me salvar do destino final de me tornar ... besta amigo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"So let me get this straight... you want to raise them, but first you're going to give them a taste for human flesh? Right, fine, certainly no flaw in this plan whatsoever."</DefaultText>
+      <DefaultText>"Então deixe-me ver se entendi ... você quer criá-los, mas primeiro você vai dar a eles um gosto pela carne humana? Certo, bem, certamente nenhuma falha neste plano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"You are one fucked up little biscuit, but I like the cut of your jib."</DefaultText>
+      <DefaultText>"Você é um biscoito pequeno e fodido, mas eu gosto do corte do seu jib".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Do it."</DefaultText>
+      <DefaultText>"Faça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Sawbones! You heard the boss!" Octave hollers over his shoulder. "Get the spirits and the bone blade. We've got a leg to butcher!"</DefaultText>
+      <DefaultText>"Sawbones! Você ouviu o chefe!" Octave grita por cima do ombro dele. "Pegue os espíritos e a lâmina dos ossos. Temos uma perna para açougueiro!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"I won't have anyone carved up to feed to Beasts. Forget the plan."</DefaultText>
+      <DefaultText>"Eu não vou ter ninguém desmembrado para se alimentar de Feras. Esqueça o plano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -649,32 +647,32 @@ He glances over to where his ailing comrade lies, bandaged and bloodied on the d
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"I tore Plainsgate in half. I doubt I'd leave even that much of you after I was done.</DefaultText>
+      <DefaultText>"Eu rasguei Plainsgate ao meio. Eu duvido que deixaria muito de você depois que eu terminasse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"I turned the [url=glossary:vellum citadel]Vellum Citadel[/url] to ash. Doing the same to you will be no effort at all."</DefaultText>
+      <DefaultText>"Eu transformei o [url=glossary:vellum citadel]Vellum Citadel[/url] em cinzas. Fazer o mesmo com você não será um esforço de todo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"The defenders of Stalwart had a 'go' at me. Ever been to the [url=glossary:blade grave]Blade Grave[/url]? I did that to them."</DefaultText>
+      <DefaultText>"Os defensores do Stalwart tiveram um 'go' em mim. Já fui para o [url=glossary:blade grave]Blade Grave[/url]? Eu fiz isso com eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Tell me, Octave, in your dealings with the tribe - you happen to run across a Beastman by the name of Rending-Hound?"</DefaultText>
+      <DefaultText>"Diga-me, Octave, em seus negócios com a tribo - você por acaso topou com um Homem-Besta chamado Rending-Hound?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Can't say that I have. But I'm guessing I know who wants him dead." He digs in a side pocket for a pinch of Vagrant's Chaw. "When Misery wants something, it's best to get it, and get it quick. I'll send my sharpest scout, Pustule, to sniff him out. But don't expect more than a missive once we've found him."</DefaultText>
+      <DefaultText>"Não posso dizer que sim. Mas suponho que sei quem o quer morto." Ele cava em um bolso lateral por uma pitada de Vagrant's Chaw. "Quando Misery quer alguma coisa, é melhor conseguir, e seja rápido. Vou mandar meu melhor batedor, Pustule, para farejá-lo. Mas não espere mais do que uma missiva quando o encontrarmos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Sad to say, the poor Two Vice didn't make it. Well, at least the whelps will have their fill of meat."</DefaultText>
+      <DefaultText>"É triste dizer que os pobres Dois Vícios não conseguiram. Bem, pelo menos os filhotes terão seu suprimento de carne."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -684,169 +682,169 @@ He glances over to where his ailing comrade lies, bandaged and bloodied on the d
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>He glances behind him, face twisted in a cocksure grin. But the expression shatters as he curses vehemently, unsettled to realize two of his best Furies have fled, abandoning him to his suicidal stand.
+      <DefaultText>Ele olha para trás, o rosto contorcido em um sorriso arrogante. Mas a expressão se despedaça quando ele amaldiçoa veementemente, inquieto ao perceber que duas de suas melhores Fúrias fugiram, abandonando-o à sua posição suicida.
 
-"[url=glossary:kyros]Kyros[/url] fucking damn it! Are you shitting me?!"
+"[url=glossary:kyros]Kyros[/url] merda, porra! Você está me cagando ?!"
 
-He turns back to you with a sheepish, semi-reluctant smile and shrugs before lunging forward in attack. </DefaultText>
+Ele se vira de volta para você com um sorriso tímido e semi-relutante e encolhe os ombros antes de se lançar para frente no ataque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"How you're going to catch the Beast after that... Well, that's not my problem, is it, boss?"</DefaultText>
+      <DefaultText>"Como você vai pegar a Besta depois disso ... Bem, isso não é problema meu, é, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"I like your bravado, but take a good hard look before you draw bronze. You're about to be disappointed." </DefaultText>
+      <DefaultText>"Eu gosto da sua bravata, mas dê uma boa olhada antes de desenhar bronze. Você está prestes a ficar desapontado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Random Node 138</DefaultText>
+      <DefaultText>Nó Aleatório 138</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Prey now runs to predator? Is too eager for own slaughter." She yips, amused. "But can see some prey still knows how to run-scamper-flee, hearts pitter-pattering against rib-bones."</DefaultText>
+      <DefaultText>"Prey agora corre para predador? Está muito ansioso para o próprio abate." Ela grita divertida. "Mas posso ver que algumas presas ainda sabem fugir correndo, corações batendo contra ossos de costela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Your gang doesn't appear as willing to back up your tall claims." Barik nods over Octave's shoulder as he draws his weapon.</DefaultText>
+      <DefaultText>"Sua gangue não parece tão disposta a apoiar suas reivindicações altas." Barik acena com a cabeça sobre o ombro de Octave enquanto ele puxa sua arma.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Those are some pretty big words coming from a single Scarlet cur. Who exactly is this 'we' you're referring to? Are you looking to take Nerat's place?"</DefaultText>
+      <DefaultText>"Essas são algumas grandes palavras vindas de uma única Scarlet cur. Quem exatamente é esse 'nós' que você está se referindo? Você está querendo tomar o lugar de Nerat?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"That was a sorry display. We should put this terrified rodent out of its misery." Barik draws his weapon and readies for combat.</DefaultText>
+      <DefaultText>"Isso foi uma exibição triste. Devemos colocar este roedor aterrorizado fora de sua miséria." Barik sacou sua arma e se preparou para o combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Scared prey is best-tasting prey. Is most fun to hunt. Yep-yep. Tremble and whimper more, human! Will not save pathetic life. But will please Beastwoman."</DefaultText>
+      <DefaultText>"A presa assustada é uma presa de melhor sabor. É mais divertido caçar. Sim. Tremer e choramingar mais, humano! Não salvará a vida patética. Mas agradará a Besta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Random Node 144</DefaultText>
+      <DefaultText>Nó Aleatório 144</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Even if we have to take you out one at a time, I won't rest until the Tiers are cleansed of you Scarlet scum."</DefaultText>
+      <DefaultText>"Mesmo que tenhamos que te levar um de cada vez, eu não vou descansar até que as Camadas sejam limpas de você escumalha Escarlate."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Why are we helping this fool? It's bad enough that you're forcing me to further the cause of the [url=glossary:scarlet chorus]Scarlet Chorus[/url], but if I have to stand next to him for another minute, I may be sick."</DefaultText>
+      <DefaultText>"Por que estamos ajudando esse idiota? É ruim o suficiente que você esteja me forçando a promover a causa do [url=glossary:scarlet chorus]Scarlet Chorus[/url], mas se eu tiver que ficar ao lado dele por mais um minuto, posso estar doente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Hey. I resent that." Octave scratches his shoulder and frowns.</DefaultText>
+      <DefaultText>"Ei. Eu me ressinto disso." Oitava coça o ombro e franze a testa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"That all depends on your definition of 'legend.' When you were a new recruit, didn't they used to call you 'Beast Fucker'?"</DefaultText>
+      <DefaultText>"Tudo depende da sua definição de 'lenda'. Quando você era um novo recruta, eles não costumavam chamá-lo de 'Beast Fucker'?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Random Node 149</DefaultText>
+      <DefaultText>Nó Aleatório 149</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Fatebinder, can't you stop this insufferable would-be from addressing me directly? I don't want to share its presence any longer than absolutely necessary." </DefaultText>
+      <DefaultText>"Fatebinder, você não pode impedir que esse insuportável candidato me dirija diretamente? Eu não quero compartilhar sua presença por mais tempo que o absolutamente necessário."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>He nods absently, fingers dipping into his side pocket for a fresh dab of Vagrant's Chaw.</DefaultText>
+      <DefaultText>Ele acena com a cabeça distraidamente, os dedos mergulhando no bolso lateral para um novo toque de Vagrant's Chaw.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Is good then that Alpha has Kills-in-Shadow to deal with Beastwoman. Yep?"</DefaultText>
+      <DefaultText>"É bom então que Alpha tem Kills-in-Shadow para lidar com Beastwoman. Sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>He raises his brows comically high, tongue bistred with Vagrants Chaw as he licks his bottom lip. "I take it, I stand corrected..."</DefaultText>
+      <DefaultText>Ele levanta as sobrancelhas comicamente alto, língua bistred com Vagrant Chaw enquanto lambe o lábio inferior. "Eu aceito, estou corrigido ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>She yips, entertained. "Could prey be more stupid? Should keep approaching and poking at predator. Keep provoking. Keep dying on [url=glossary:stonestalkers]Stonestalkers[/url]' claws." She digs between two fangs with one of her curved, spear-tipped claws.
+      <DefaultText>Ela grita, entretida. "Será que a presa pode ser mais estúpida? Deve continuar se aproximando e cutucando o predador. Continue provocando. Continue morrendo em [url=glossary:stonestalkers]Stonestalkers[/url] 'garras." Ela cava entre duas presas com uma de suas garras curvadas com ponta de lança.
 
-"But next time, let Kills-in-Shadow watch."</DefaultText>
+"Mas da próxima vez, deixe o relógio da Kills-in-Shadow."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"You? Now that is hard to swallow. From what I've seen you seem incapable of picking your nose without injuring yourself. Then again, anyone who allows the Chorus to dominate their lives can't be the brightest flame, can they? I suppose blind luck even favors the undeserving sometimes..."</DefaultText>
+      <DefaultText>"Você? Agora isso é difícil de engolir. Pelo que eu vi você parece incapaz de pegar seu nariz sem se machucar. Então, novamente, qualquer um que permita que o Coro domine suas vidas não pode ser a chama mais brilhante, podem? Eu suponho que a sorte cega até favorece os indignos às vezes ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"And somehow you're the only one who isn't surprised by that. Remarkable. I wouldn't have wagered on you living through the opening call of your first battle, which just confirms my suspicion that life is cold and uncaring."</DefaultText>
+      <DefaultText>"E de alguma forma você é o único que não está surpreso com isso. Notável. Eu não teria apostado em você vivendo com a chamada de abertura de sua primeira batalha, o que apenas confirma minha suspeita de que a vida é fria e indiferente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Bank Node 158</DefaultText>
+      <DefaultText>Nó do banco 158</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Alpha and pack should help Rending-Hound, not hunt for Beastman. Why does Rending-Hound's Chorus pack wish to kill own fighter? Kills-in-Shadow wants to know."</DefaultText>
+      <DefaultText>"Alfa e matilha deve ajudar Rending-Hound, não caçar Beastman. Por que o Chorus de Rending-Hound deseja matar seu próprio lutador? Kills-in-Shadow quer saber."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Do not blame [url=glossary:stonestalkers]Stonestalkers[/url] for disliking rot-smelling pack who pesters tribe. Humans, too, do not like fire ants biting at feet. Am surprised tribe's [url=glossary:prima]Prima[/url] has not come to slaughter encroaching humans yet." 
+      <DefaultText>"Não culpe [url=glossary:stonestalkers]Stonestalkers[/url] por não gostar de matilha que cheira a podridão que atormenta tribo. Os seres humanos, também, não gostam de formigas de fogo mordendo a pés. Estou surpreendido [url=glossary:prima]Prima[/url] tribo não chegou a abate invadindo seres humanos ainda."
 
-The Beastwoman yawns, her long tongue curling inward between her fangs.
+A Fera-Besta boceja, sua longa língua curvando-se entre suas presas.
 
-"Hundred-Blood is more patient than Kills-in-Shadow. Yep."</DefaultText>
+"Hundred-Blood é mais paciente que Kills-in-Shadow. Sim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>He shrugs, grubby fingers dipping a wad of Vagrant's Chaw into the side of his mouth.</DefaultText>
+      <DefaultText>Ele encolhe os ombros, dedos sujos mergulhando um pedaço do Chacra do Vagabundo no lado de sua boca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>He licks his lips, eyes wide and dread-filled as he glances toward the cliff's edge. "Yeah, yeah. I got it."</DefaultText>
+      <DefaultText>Ele lambe os lábios, os olhos arregalados e cheios de pavor enquanto olha em direção à borda do penhasco. "Sim, sim. Eu entendi."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Thanks to you, I get to live another day, boss." He grins a wide, jagged toothed smile as he tips a goat-skinned flask to you in celebration. "[url=glossary:edict]Edict[/url]'s cracked which means we're free to re-seed the land. Which means Misery'll be happy enough for once - now that the Voices won't be feeling hungry enough to eat us both for breakfast. Mm." 
+      <DefaultText>"Graças a você, eu vou viver outro dia, chefe." Ele sorri com um largo sorriso denteado quando ele leva um frasco de pele de bode para você em comemoração. "[url=glossary:edict]Edict[/url] está rachado o que significa que estamos livres para voltar a semear a terra. O que significa que Misery vai ser feliz o suficiente por uma vez - agora que as vozes não estarão com fome o suficiente para nos comer no café da manhã."
 
-He takes a long, thirsty swig, dribbling liquid down his chin. "Careful when you see the big boss, eh? Even when he's in a chipper mood, you never quite know what he's like to do."</DefaultText>
+Ele toma um gole longo e sedento, pingando líquido pelo queixo. "Cuidado quando você vê o chefão, hein? Mesmo quando ele está de bom humor, você nunca sabe o que ele gosta de fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Nobles of the Tiers considered it unwise to arm one's Beastmen unless defending the homestead. But the Chorus isn't exactly your typical army of regulars... this could be interesting."</DefaultText>
+      <DefaultText>"Os nobres das fileiras consideravam insensato armar os Homens-fera a menos que defendessem a propriedade. Mas o Coro não é exatamente o seu típico exército de soldados ... isso pode ser interessante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"I'll leave the honor of killing the Archon to you, boss. Just... hurry and end [url=glossary:cairn]Cairn[/url], and with him, this damn Stone [url=glossary:edict]Edict[/url] once and for good."</DefaultText>
+      <DefaultText>"Eu vou deixar a honra de matar o Arconte para você, chefe. Apenas ... se apresse e termine [url=glossary:cairn]Cairn[/url], e com ele, esta maldita Pedra [url=glossary:edict]Edict[/url] uma vez e para sempre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Round here, asking questions will get you killed faster than a pox on your prick." He shrugs. "I just follow orders while pretending I don't think on them. You lot'd be wise to do the same."</DefaultText>
+      <DefaultText>"Por aqui, fazer perguntas te matará mais rápido que uma varíola no seu pau." Ele encolhe os ombros. "Eu apenas sigo ordens fingindo que não penso nelas. Você seria sensato em fazer o mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -856,128 +854,128 @@ He takes a long, thirsty swig, dribbling liquid down his chin. "Careful when you
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Knew I could count on you, boss. Me and the gang're heading out. We'll meet you at Howling Rock, yeah?"</DefaultText>
+      <DefaultText>"Sabia que podia contar com você, chefe. Eu e a turma estamos saindo. Vamos encontrá-lo em Howling Rock, sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Ever thought about running your own gang, boss? Got a real big one in [Plainsgate]. And all you'd have to do is gut Misery..."</DefaultText>
+      <DefaultText>"Já pensou em dirigir sua própria gangue, chefe? Conseguiu um grande em [Plainsgate]. E tudo o que você tem que fazer é estragar Misery ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Knew I could count on you, boss. Me and the gang're heading out. We'll meet you at Howling Rock, yeah?"</DefaultText>
+      <DefaultText>"Sabia que podia contar com você, chefe. Eu e a turma estamos saindo. Vamos encontrá-lo em Howling Rock, sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Need something?"</DefaultText>
+      <DefaultText>"Preciso de algo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"We've got your back, boss. I can already taste our victory."</DefaultText>
+      <DefaultText>"Nós temos suas costas, chefe. Eu já posso provar a nossa vitória."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"I'll talk to one of the guards on duty. See if I can trick them into letting me into the fort."</DefaultText>
+      <DefaultText>"Vou falar com um dos guardas de plantão. Veja se posso enganá-los para que me deixem entrar no forte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"The Earthshakers must have a way to get in and out. It's not like they'd trap themselves in."</DefaultText>
+      <DefaultText>"Os Earthshakers devem ter um jeito de entrar e sair. Não é como se eles se prendessem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Well, sure, but damned if I know what it is. What're you thinking, boss?"</DefaultText>
+      <DefaultText>"Bem, claro, mas maldito se eu sei o que é. O que você está pensando, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"They're earth mages so it makes sense that if they crumbled the land separating their fort from the surrounding bluffs, they could reform it again."</DefaultText>
+      <DefaultText>"Eles são magos da terra, então faz sentido que, se eles desmoronarem a terra que separa seu forte dos penhascos ao redor, eles possam reformá-la novamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"No wonder Misery hasn't killed you off already. You're utterly useless."</DefaultText>
+      <DefaultText>"Não é de admirar que Miséria não tenha matado você já. Você é totalmente inútil."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Shaping and moving the land? Like raising or lowering a draw bridge made of solid rock?" He wavers his head in thought. "Yeah, okay, that's actually real smart. But if they're moving rocks to bridge the bluffs... how are we to get across?"</DefaultText>
+      <DefaultText>"Modelando e movendo a terra? Como elevar ou abaixar uma ponte de concreto sólido?" Ele balança a cabeça em pensamento. "Sim, ok, isso é realmente muito inteligente. Mas se eles estão movendo pedras para atravessar os penhascos ... como vamos atravessar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Worth a try, I guess." He shrugs. "But I won't be waiting with baited breath. Just don't give us away, boss. Uh, not that you would."</DefaultText>
+      <DefaultText>"Vale a pena tentar, eu acho." Ele encolhe os ombros. "Mas eu não estarei esperando com ansiedade. Só não nos denuncie, chefe. Uh, não que você iria."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>His bushy eyebrows shoot up nearly to his hairline. But then a slow grin overtakes him, herbs stuck to his half-rotted teeth.
+      <DefaultText>Suas sobrancelhas espessas sobem quase até o couro cabeludo. Mas então um sorriso lento toma conta dele, ervas grudadas em seus dentes meio apodrecidos.
 
-"You've got guts saying that to the man who'll be guarding your back during the assault." </DefaultText>
+"Você tem coragem de dizer isso ao homem que estará protegendo suas costas durante o assalto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"But if you're making me take a guess, I'd say the Earthshakers have rigged themselves a way to easily re-bridge the gap. I've seen the way they can shape the land. It wouldn't be so hard for them to rattle around or raise some slab of rock in order to cross."</DefaultText>
+      <DefaultText>"Mas se você está me fazendo adivinhar, eu diria que os Earthshakers criaram uma maneira de reencadear facilmente a lacuna. Eu vi o jeito que eles podem moldar a terra. Não seria tão difícil para eles chocalharem ou levantarem alguma laje de rocha para atravessar. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"I'll need a way to raise their rock bridge."</DefaultText>
+      <DefaultText>"Vou precisar de um jeito de levantar a ponte de pedra deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Only problem is that neither of us are Earthshakers."</DefaultText>
+      <DefaultText>"O único problema é que nenhum de nós é Earthshakers".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"I heard an Earthshaker left the compound with a shard of pure Azurelith. Sounded important. Or at least powerful."</DefaultText>
+      <DefaultText>"Ouvi dizer que um Earthshaker deixou o complexo com um fragmento de puro Azurelith. Parecia importante. Ou pelo menos poderoso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"If we can't get them to raise the bridge, I guess we'll have to do it ourselves. I'm no mage, but... I don't know, maybe if we had one of their crystal staves? Shit knows, I've never seen an Earthshaker without one."</DefaultText>
+      <DefaultText>"Se nós não conseguirmos que eles levantem a ponte, eu acho que nós teremos que fazer isso sozinhos. Eu não sou mago, mas ... eu não sei, talvez se nós tivéssemos um de seus bastões de cristal?" Merda sabe, eu nunca vi um Earthshaker sem um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Really? Your scouts haven't seen anything?"</DefaultText>
+      <DefaultText>"Sério? Seus batedores não viram nada?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Well, now that you mention it..." He clears his throat and ducks his head, hiding a shifty sort of grin behind his dirt-streaked fist.
+      <DefaultText>"Bem, agora que você mencionou ..." Ele pigarreia e abaixa a cabeça, escondendo um sorriso malicioso atrás do punho sujo de terra.
 
-"Suppose they might've seen an Earthshaker or two raising and lowering the ground in this one spot to bridge the chasm between us. It's guarded, of course, so I figure it's their entry gate."</DefaultText>
+"Suponha que eles possam ter visto um Earthshaker ou dois levantando e abaixando o chão neste único local para preencher o abismo entre nós. É guardado, é claro, então eu acho que é o portão de entrada deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>Ignoring your indignant glare, he continues almost to himself more than anything. "It's a neat little trick. Some earth spell that turns the terrain into a type of draw bridge for them." </DefaultText>
+      <DefaultText>Ignorando seu olhar indignado, ele continua quase para si mesmo mais do que qualquer coisa. "É um pequeno truque. Um feitiço de terra que transforma o terreno em um tipo de ponte para eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Why didn't you just tell me that to start?"</DefaultText>
+      <DefaultText>"Por que você não acabou de me dizer isso para começar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Look, I know it's my job to help you kill [url=glossary:cairn]Cairn[/url], boss. But say I'm a little too good at doing my duty. Say you want to promote me to the front lines or some difficult-to-survive task, and on account of that, I don't live to claim my plot of farmland at the end of all this. Would be a damn shame, don't you think?"
+      <DefaultText>"Olha, eu sei que é meu trabalho te ajudar a matar [url=glossary:cairn]Cairn[/url], chefe. Mas diga que eu sou um pouco bom demais em fazer o meu dever. Digamos que você queira me promover nas linhas de frente ou alguma tarefa difícil de sobreviver, e por causa disso, eu não vivo para reivindicar meu lote de terras agrícolas no final de tudo isso. Seria uma pena, não acha?
 
-He tucks a wad of Vagrant's Chaw behind his bottom lip and shrugs, completely unrepentant. </DefaultText>
+Ele enfia um pedaço do Chaw do Vagabundo atrás do lábio inferior e encolhe os ombros, completamente impenitente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Hold out on me again, and I'll bury you in your damned plot of farmland. You understand me?"</DefaultText>
+      <DefaultText>"Segure-se em mim novamente, e eu vou enterrá-lo em seu maldito lote de terra. Você me entende?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -987,142 +985,142 @@ He tucks a wad of Vagrant's Chaw behind his bottom lip and shrugs, completely un
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Right. Of course. Forget I asked."</DefaultText>
+      <DefaultText>"Certo. Claro. Esqueça que eu perguntei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"I hear you loud and clear, boss."</DefaultText>
+      <DefaultText>"Eu ouço você alto e claro, chefe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Don't you worry. I've already forgotten."</DefaultText>
+      <DefaultText>"Não se preocupe. Eu já me esqueci."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Yeah, and we ain't getting across that gap without a bridge of some sort. We've already tried."
+      <DefaultText>"Sim, e não vamos atravessar essa lacuna sem uma ponte de algum tipo. Nós já tentamos."
 
-He coughs lightly as he scratches one eyebrow.
+Ele tosse levemente enquanto coça uma sobrancelha.
 
-"I can tell you it's far enough that it killed Deviant Thoran. Just not immediately on impact."</DefaultText>
+"Eu posso dizer que está longe o suficiente para matar Deviant Thoran. Apenas não imediatamente no impacto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"You're right, their staves appear to be fitted with shards of Azurelith. Perhaps I could use one as a type of focal stone myself."</DefaultText>
+      <DefaultText>"Você está certo, suas aduelas parecem estar equipadas com fragmentos de Azurelith. Talvez eu pudesse usar um como um tipo de pedra focal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"If any one of us could manage to cast an earth spell, it'd be you, boss."</DefaultText>
+      <DefaultText>"Se qualquer um de nós conseguisse lançar um feitiço de terra, seria você, chefe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"I better scout around. See what else we can find out."</DefaultText>
+      <DefaultText>"É melhor eu investigar. Veja o que mais podemos descobrir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"I'll have my gang do the same. You just let me know what you find, boss."</DefaultText>
+      <DefaultText>"Eu vou fazer minha gangue fazer o mesmo. Você só me deixa saber o que você acha, chefe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Considering the world of trouble you'll be in for should I fail, I'll take that as a vote of confidence in my skills."</DefaultText>
+      <DefaultText>"Considerando o mundo de problemas que você enfrentará se eu falhar, eu tomarei isso como um voto de confiança em minhas habilidades."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Of course it is, boss. You can trust me. Preferrably at your back."</DefaultText>
+      <DefaultText>"Claro que sim, chefe. Você pode confiar em mim. Preferencialmente às suas costas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"What have your scouts seen?"</DefaultText>
+      <DefaultText>"O que seus batedores viram?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Best be aware, there's been some unsettling activity. Both Pustule and Bloody Marrow have seen the Earthshakers pitching their staves around the camp. I think they're gearing up for some big ritual."</DefaultText>
+      <DefaultText>"Melhor estar ciente, tem havido alguma atividade perturbadora. Ambos Pustule e Bloody Marrow viram os Earthshakers lançando suas cajadas ao redor do acampamento. Eu acho que eles estão se preparando para algum grande ritual."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"The Earthshakers are going to perform a ritual? To what purpose?"</DefaultText>
+      <DefaultText>"Os Earthshakers vão realizar um ritual? Para que finalidade?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Anything else?"</DefaultText>
+      <DefaultText>"Algo mais?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Nothing yet. But don't worry, I wouldn't hold out on you, boss. Your success - or failure - is as good as mine far as the Voices is concerned."</DefaultText>
+      <DefaultText>"Nada ainda. Mas não se preocupe, eu não iria aguentar você, chefe. Seu sucesso - ou fracasso - é tão bom quanto o meu no que diz respeito às vozes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Whatever it is, I can tell you it won't be to revitalize this realm. The [url=glossary:edict]Edict[/url] of Stone is hurting the Chorus far worse than the [url=glossary:disfavored]Disfavored[/url]."
+      <DefaultText>"Seja o que for, eu posso te dizer que não será para revitalizar este reino. O [url=glossary:edict]Edict[/url] de Stone está machucando o Coro muito pior do que o [url=glossary:disfavored]Disfavored[/url]."
 
-He spits a gob of Vagrant's Chaw at the ground.
+Ele cospe uma gota de Chaw do Vagabundo no chão.
 
-"Maybe they've found a way to heal [url=glossary:cairn]Cairn[/url] and ensure the [url=glossary:edict]Edict[/url] never ends. Or maybe they've found a way to fuck us even worse than we already are."</DefaultText>
+"Talvez eles tenham encontrado uma forma de curar [url=glossary:cairn]Cairn[/url] e garantir que o [url=glossary:edict]Edict[/url] nunca termine. Ou talvez eles tenham encontrado uma maneira de nos foder ainda pior do que já somos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"We should assume whatever the Earthshakers are planning will benefit the [url=glossary:disfavored]Disfavored[/url] - if not outright hurt the Chorus."</DefaultText>
+      <DefaultText>"Devemos assumir que o que os Earthshakers estão planejando vai beneficiar o [url=glossary:disfavored]Disfavored[/url] - se não ferir completamente o Coro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Maybe they know we're coming and it's a defensive measure."</DefaultText>
+      <DefaultText>"Talvez eles saibam que estamos chegando e é uma medida defensiva."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Doesn't matter what they're planning. They won't get a chance to complete that ritual."</DefaultText>
+      <DefaultText>"Não importa o que eles estão planejando. Eles não terão a chance de completar esse ritual."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"I agree. We gut them swift and rough. We breach the camp, take them out, and stomp out their pissing ritual before it can bite us in the ass."</DefaultText>
+      <DefaultText>"Eu concordo. Nós estripamos eles rápido e áspero. Nós violamos o acampamento, os tiramos e purgamos o ritual de mijar deles / delas antes de poder nos morder na bunda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"So much for 'I wouldn't hold out on you, boss.'"</DefaultText>
+      <DefaultText>"Tanto para 'eu não aguentaria você, chefe'".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Did I happen to say that?" He scratches the underside of his chin. "I meant within reason, of course. I'd have told you before too long. After all, once you - I mean, we - slaughter these [url=glossary:disfavored]Disfavored[/url] shits and break the [url=glossary:edict]Edict[/url] of Stone, we'll be as revered as Archons, right?"</DefaultText>
+      <DefaultText>"Por acaso eu disse isso?" Ele coça a parte de baixo do queixo. "Eu quis dizer com razão, é claro. Eu teria dito a você antes de muito tempo. Afinal de contas, uma vez que você - eu quero dizer, nós - abatemos essas merdas e quebremos o [url=glossary:edict]Edict[/url] de Stone, nós seremos reverenciados como Archons, certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>He shrugs. "I like living, personally. Would like to keep doing it. So how about we don't wait to let them finish their big cast, regardless. What'd you think, boss?"</DefaultText>
+      <DefaultText>Ele encolhe os ombros. "Eu gosto de viver, pessoalmente. Gostaria de continuar fazendo. Então, que tal nós não esperarmos para deixá-los terminar seu grande elenco, independentemente. O que você acha, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Let's go, let's go! It's time to bag us a frigging Archon!"</DefaultText>
+      <DefaultText>"Vamos lá, vamos embora! É hora de nos sacar um maldito Arconte!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"The thing I just can't believe is how the backlash from their own damned ritual actually did the stone bastard in."
+      <DefaultText>"A coisa que eu simplesmente não consigo acreditar é como a reação de seu próprio maldito ritual realmente fez o bastardo de pedra entrar."
 
-He laughs, the sound building steadily toward hysteria, but then he cuts it short with another swig, accidentally choking himself on the swallow.</DefaultText>
+Ele ri, o som aumentando constantemente em direção à histeria, mas depois corta com outro gole, acidentalmente sufocando-se na andorinha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"We're lucky. Killing [url=glossary:cairn]Cairn[/url] could have been a challenge otherwise."</DefaultText>
+      <DefaultText>"Temos sorte. Matar [url=glossary:cairn]Cairn[/url] poderia ter sido um desafio de outra forma."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1137,49 +1135,49 @@ He laughs, the sound building steadily toward hysteria, but then he cuts it shor
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"I could explain the intricacies of geo-triadic temporal energy channeling, but you still wouldn't understand it, so what's the point?"</DefaultText>
+      <DefaultText>"Eu poderia explicar os meandros da canalização de energia temporal geotrádica, mas você ainda não entenderia, então qual é o objetivo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"I could explain the intricacies of geo-triadic temporal energy channeling, but you still wouldn't understand it, so what's the point?"</DefaultText>
+      <DefaultText>"Eu poderia explicar os meandros da canalização de energia temporal geotrádica, mas você ainda não entenderia, então qual é o objetivo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"I could explain the intricacies of geo-triadic temporal energy channeling, but you still wouldn't understand it, so what's the point?"</DefaultText>
+      <DefaultText>"Eu poderia explicar os meandros da canalização de energia temporal geotrádica, mas você ainda não entenderia, então qual é o objetivo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>He grins wide and easy. "That's why you're the boss, boss. You're the one with the brains and the know-how. I'm more of a support type, myself. Think of me as your right hand."</DefaultText>
+      <DefaultText>Ele sorri largo e fácil. "É por isso que você é o chefe, chefe. Você é o único com os cérebros e o know-how. Eu sou mais um tipo de apoio. Pense em mim como sua mão direita."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Got that right. The Archon's hard as stone and heavier to boot. Don't know if we'd have easily been able to slit his throat. Maybe we could've mined him apart, but I get the feeling that'd be easier said than done."</DefaultText>
+      <DefaultText>"Tem razão. O Arconte é duro como pedra e mais pesado para arrancar. Não sei se teríamos sido facilmente capazes de cortar sua garganta. Talvez pudéssemos tê-lo separado, mas tenho a sensação de que seria mais fácil falar do que fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Fribbling eggheads had it coming, eh? You won't catch me disagreeing."</DefaultText>
+      <DefaultText>"Líderes fribrosos tinham vindo, hein? Você não vai me pegar discordando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>Watching as you gulp down the last of his brew, he rubs two dirty fingers together then dips into his pocket for some fresh chaw. If your assailment bothers him, he smartly doesn't mention it.
+      <DefaultText>Observando enquanto você engole o último gole de sua bebida, ele esfrega dois dedos sujos juntos e mergulha no bolso para um pouco de comida fresca. Se sua agressão o incomoda, ele inteligentemente não menciona isso.
 
-"You never do cease to surprise me, boss."</DefaultText>
+"Você nunca deixa de me surpreender, chefe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"Speaking of, my gal Pustule told me a little tidbit you might like. Seems there's still some residual energy lingering in [url=glossary:cairn]Cairn[/url]'s remains. You should consider taking a piece of him with you when you leave Howling Rock. If nothing else, it'd make for an impressive trophy."</DefaultText>
+      <DefaultText>"Falando nisso, minha garota Pustule me contou um pedacinho que você pode gostar. Parece que ainda há alguma energia residual nos restos. Você deveria pensar em levar um pedaço dele com você quando sair de Howling Rock. Se nada mais, fazer um troféu impressionante ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Thanks. I'll snag a piece of [url=glossary:cairn]Cairn[/url] before I inform Nerat of our success in breaking the [url=glossary:edict]Edict[/url]."</DefaultText>
+      <DefaultText>"Obrigado. Eu vou pegar um pedaço de [url=glossary:cairn]Cairn[/url] antes de informar Nerat do nosso sucesso em quebrar o [url=glossary:edict]Edict[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1189,16 +1187,16 @@ He laughs, the sound building steadily toward hysteria, but then he cuts it shor
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"If you're going to be giving a report to the Voices, feel free to name drop me, boss. Me and the gang were pretty instrumental to the cause, wouldn't you say?"
+      <DefaultText>"Se você vai dar um relatório para as Vozes, sinta-se à vontade para me nomear, chefe. Eu e a turma foram bastante instrumentais para a causa, você não diria?"
 
-With a final rasping laugh, he waves you off.</DefaultText>
+Com uma risada final rouca, ele te acena.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"My thoughts exactly, boss."
+      <DefaultText>"Meus pensamentos exatamente, chefe."
 
-With a final rasping laugh, he waves you off.</DefaultText>
+Com uma risada final rouca, ele te acena.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
