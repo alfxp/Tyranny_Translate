@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\01_bladegrave\01_qst_duskwatch_dis</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>39</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>No turbilhão</DefaultText>
+      <DefaultText>Into the Maelstrom</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Reúna-se com Osmios no Duskwatch.</DefaultText>
+      <DefaultText>Meet with Osmios at Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,182 +21,182 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Defenda o forte</DefaultText>
+      <DefaultText>Defend the Fort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Esgueire-se dentro do Duskwatch e liberte Callias.</DefaultText>
+      <DefaultText>Sneak inside Duskwatch and free Callias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Abra o portão da frente.</DefaultText>
+      <DefaultText>Open the front gate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Derrotar Agathon e os outros [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Defeat Agathon and the other [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Mate todos os [url=glossary:unbroken]Unbroken[/url] em Duskwatch.</DefaultText>
+      <DefaultText>Kill all [url=glossary:unbroken]Unbroken[/url] at Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Fale com Callias.</DefaultText>
+      <DefaultText>Talk to Callias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Fale com o capitão Agathon</DefaultText>
+      <DefaultText>Speak With Captain Agathon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Fale com Osmios e Callias.</DefaultText>
+      <DefaultText>Speak with Osmios and Callias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Investigue o suporte do suporte da sentinela.</DefaultText>
+      <DefaultText>Investigate Sentinel Stand Keep.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Fale com o [url=glossary:unbroken]Unbroken[/url] scout.</DefaultText>
+      <DefaultText>Speak with the [url=glossary:unbroken]Unbroken[/url] scout.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Investigue os restos do soldado.</DefaultText>
+      <DefaultText>Investigate the remains of the soldier.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Volte ao [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
+      <DefaultText>Report back to [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Conheça [url=glossary:graven ashe]Graven Ashe[/url] em Iron Hearth.</DefaultText>
+      <DefaultText>Meet [url=glossary:graven ashe]Graven Ashe[/url] at Iron Hearth.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>A Guerra dos Arcontes já começou. Apoie as tentativas iniciais de [url=glossary:graven ashe]Graven Ashe[/url] de pacificar os Tiers.</DefaultText>
+      <DefaultText>The War of the Archons has begun. Support [url=glossary:graven ashe]Graven Ashe[/url]'s initial attempts to pacify the Tiers. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Um soldado pelo nome de Callias está sendo mantido pelo [url=glossary:unbroken]Unbroken[/url] em Duskwatch Fort. Ele pode saber se Amelia está viva e se há um caminho dentro do Sentinel Stand Keep. Viaje até lá com o [url=glossary:disfavored]Disfavored[/url] comandante, Osmios.</DefaultText>
+      <DefaultText>A soldier by the name of Callias is being held by the [url=glossary:unbroken]Unbroken[/url] at Duskwatch Fort. He may know if Amelia is alive and if there is a way inside Sentinel Stand Keep. Travel there speak with the [url=glossary:disfavored]Disfavored[/url] commander, Osmios.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Os [url=glossary:unbroken]Unbroken[/url] precisam de ajuda para reforçar os segmentos danificados das paredes do forte. Ajude-os a restaurá-lo em ordem de luta.</DefaultText>
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] need help reinforcing damaged segments of the fort walls. Help them restore it into fighting order.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Os [url=glossary:disfavored]Disfavored[/url] começaram seu ataque a Duskwatch. Defenda o forte de todos os atacantes.</DefaultText>
+      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] have begun their attack upon Duskwatch. Defend the fort from all attackers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Callias está sendo mantido dentro do Forte Duskwatch. Encontre uma maneira de entrar sem ser detectado e liberte-o.</DefaultText>
+      <DefaultText>Callias is being held inside Duskwatch Fort. Find a way to enter undetected and free him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Dê o [url=glossary:disfavored]Disfavored[/url] forças de fácil acesso ao Duskwatch Fort, abrindo o portão da frente do lado de dentro.</DefaultText>
+      <DefaultText>Give the [url=glossary:disfavored]Disfavored[/url] forces easy access to Duskwatch Fort by opening the front gate from the inside.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Ajude as forças do [url=glossary:disfavored]Disfavored[/url] a matar o Capitão Agathon e o resto das forças do [url=glossary:unbroken]Unbroken[/url] em Duskwatch Fort.</DefaultText>
+      <DefaultText>Assist the [url=glossary:disfavored]Disfavored[/url] forces in killing Captain Agathon and the rest of the [url=glossary:unbroken]Unbroken[/url] forces at Duskwatch Fort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Você começou um ataque ao Forte Duskwatch. Lute dentro de você e elimine todos os [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>You began an attack upon Duskwatch Fort. Fight your way inside and eliminate all [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>A Callias pode ter as informações que você procura sobre as operações do [url=glossary:unbroken]Unbroken[/url]. Fale com ele no Forte Duskwatch.</DefaultText>
+      <DefaultText>Callias may have the information you seek about [url=glossary:unbroken]Unbroken[/url] operations. Speak to him at Duskwatch Fort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10021</ID>
-      <DefaultText>Você repeliu com sucesso o ataque [url=glossary:disfavored]Disfavored[/url]. Encontre o capitão Agathon na caneta do prisioneiro.</DefaultText>
+      <DefaultText>You have successfully repulsed the [url=glossary:disfavored]Disfavored[/url] attack. Find Captain Agathon at the prisoner pen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10022</ID>
-      <DefaultText>Você tomou o Duskwatch Fort. Fale com Osmios na caneta do prisioneiro.</DefaultText>
+      <DefaultText>You have taken Duskwatch Fort. Speak with Osmios at the prisoner pen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10028</ID>
-      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] quer matar Straydus Herodin e acabar com as tempestades mágicas. Viaje para o Suporte da Sentinela e veja se os ventos do [url=glossary:kyros]Kyros[/url] diminuíram o suficiente para permitir a entrada.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] wants to kill Straydus Herodin and end the magical storms. Travel to Sentinel Stand and see if [url=glossary:kyros]Kyros[/url]' winds have abated enough to allow entry. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10029</ID>
-      <DefaultText>Um observador observou sua luta com o Bane. Fale com ele.</DefaultText>
+      <DefaultText>An [url=glossary:unbroken]Unbroken[/url] scout observed your fight with the Bane. Speak with him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10030</ID>
-      <DefaultText>Janos estava procurando através dos restos de um soldado [url=glossary:disfavored]Disfavored[/url]. Você deve examinar o corpo e ver se há algo de útil nele.</DefaultText>
+      <DefaultText>Janos was searching through the remains of a [url=glossary:disfavored]Disfavored[/url] soldier. You should examine the body yourself and see if there's anything useful on it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10031</ID>
-      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] vai querer saber da sua vitória em Duskwatch Fort. Retorne a Iron Hearth e fale com ele.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] will want to hear of your victory at Duskwatch Fort. Return to Iron Hearth and speak to him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10032</ID>
-      <DefaultText>O general [url=glossary:disfavored]Disfavored[/url] reagrupou suas forças na fortaleza da montanha de Iron Hearth. Viaje até lá para discutir o próximo movimento do Arconte da Guerra.</DefaultText>
+      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] general has regrouped his forces at the mountain fortress of Iron Hearth. Travel there to discuss the Archon of War's next move.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>Você decidiu não cooperar com o Agathon.</DefaultText>
+      <DefaultText>You have decided not to cooperate with Agathon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>Você decidiu não cooperar com Osmios e deve tomar o forte sozinho.</DefaultText>
+      <DefaultText>You have decided not to cooperate with Osmios and must take the fort on your own.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você ajudou o [url=glossary:unbroken]Unbroken[/url] defender sua base em Duskwatch.</DefaultText>
+      <DefaultText>You've helped the [url=glossary:unbroken]Unbroken[/url] defend their base at Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Com a sua ajuda, o [url=glossary:disfavored]Disfavored[/url] assumiu Duskwatch.</DefaultText>
+      <DefaultText>With your assistance, the [url=glossary:disfavored]Disfavored[/url] have taken over Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Você matou todos os [url=glossary:unbroken]Unbroken[/url] e [url=glossary:disfavored]Disfavored[/url] forças em Duskwatch.</DefaultText>
+      <DefaultText>You've killed all of the [url=glossary:unbroken]Unbroken[/url] and [url=glossary:disfavored]Disfavored[/url] forces at Duskwatch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Você decidiu se opor ao [url=glossary:disfavored]Disfavored[/url] e tomar o forte por si mesmo.</DefaultText>
+      <DefaultText>You've decided to oppose the [url=glossary:disfavored]Disfavored[/url] and take the fort for yourself.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] quer pacificar o [url=glossary:blade grave]Blade Grave[/url] e estabelecer como uma base confiável de operações. Para fazer isso, você deve encontrar e matar Straydus Herodin, a última vida [url=glossary:unbroken]Unbroken[/url] Regent, para acabar com [url=glossary:kyros]Kyros[/url] 'tempestades. Para começar, encontre uma maneira de entrar no Sentinel Stand Keep.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] wants to pacify the [url=glossary:blade grave]Blade Grave[/url] and establish it as a reliable base of operations. To do this, you must find and kill Straydus Herodin, the last living [url=glossary:unbroken]Unbroken[/url] Regent, to end [url=glossary:kyros]Kyros[/url]' storms. To begin, find a way to enter Sentinel Stand Keep. </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

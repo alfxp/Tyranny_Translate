@@ -1,59 +1,59 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\06_cv_dis_grandmother_act2_skypillar</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>10</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Você está contente em vaguear procurando por conversas? Porque alguns de nós querem ir para se juntar às tropas! Há uma guerra, e estamos perdendo isso."
+      <DefaultText>"Are you content to wander about looking for conversation? Because some of us want to head down to rejoin the troops! There's a war on, and we're missing it."
 
-"Eu não descansarei até que o teleportador volte a trabalhar. Sugiro que você faça o mesmo."</DefaultText>
+"I won't rest until the teleporter gets working again. I suggest you do the same." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Como você acha que Ashe responderá à guerra civil?"</DefaultText>
+      <DefaultText>"How do you think Ashe will respond to the civil war?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <DefaultText>"Tell me about yourself."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Parece que eu deveria investigar o teleportador."</DefaultText>
+      <DefaultText>"Sounds like I should go investigate the teleporter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Eu acho que seria melhor!" Ela cruza os braços e treme contra a brisa fresca.</DefaultText>
+      <DefaultText>"I think that would be best!" She crosses her arms and shivers against the cool breeze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Ela pisca para você e balança a cabeça. "Fatebinder, eu sou o tenente que vai começar a expulsar as pessoas deste Pináculo se eu não ver esse teletransportador piscar para a vida! Agora não é a hora de eu falar sobre conquistas e esperanças para o futuro. Guarde-o para depois a guerra."</DefaultText>
+      <DefaultText>She blinks at you and shakes her head. "Fatebinder, I'm the lieutenant who's going to start kicking people off this Spire if I don't see that teleporter flicker to life! Now is not the time for me to rattle off accomplishments and hopes for the future. Save it for after the war."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Com tato e coordenação. [url=glossary:the voices of nerat]The Voices of Nerat[/url] é uma criatura caótica, emocional e infundada. [url=glossary:graven ashe]Graven Ashe[/url] vai desmantelar o [url=glossary:scarlet chorus]Scarlet Chorus[/url] e limpar o seu líder da face do Terratus. Conte com isso."</DefaultText>
+      <DefaultText>"With tact and coordination. [url=glossary:the voices of nerat]The Voices of Nerat[/url] is chaotic, emotional and baseless creature. [url=glossary:graven ashe]Graven Ashe[/url] is going to dismantle the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and wipe its leader from the face of Terratus. Count on it." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Fale com você em breve, Fatebinder."</DefaultText>
+      <DefaultText>"Speak to you soon, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Acho que você tem perguntas?"</DefaultText>
+      <DefaultText>"I take it you have questions?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Eu praticamente posso ver o Império do Norte a partir daqui." Ela aperta os olhos no horizonte. "Espero que quem construiu este lugar tenha caído para a morte. Existe algo como ficar alto demais."</DefaultText>
+      <DefaultText>"I can practically see the Northern Empire from here." She squints off at the horizon. "I hope whoever built this place fell to their death. There's such a thing as standing too tall." </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

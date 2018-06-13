@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\0220_bs_patron_sc_m_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Eu diria que eu gasto muitos anéis aqui, mas ela vale cada um."</DefaultText>
+      <DefaultText>"I'd say I spend too many rings here, but she's worth every one."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Se você está pensando em contratar Evarista, entre na fila. Ela sabe como satisfazer!"</DefaultText>
+      <DefaultText>"If you're thinking of hiring Evarista, get in line. She knows how to satisfy!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Se você tiver a chance, peça a ela o Pounding Iron. Ele não decepciona."</DefaultText>
+      <DefaultText>"If you get the chance, ask her for the Pounding Iron. It does not disappoint."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Agora, você se cala! Não revele todos os meus segredos!"</DefaultText>
+      <DefaultText>"Now, you hush! Don't reveal all of my secrets!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

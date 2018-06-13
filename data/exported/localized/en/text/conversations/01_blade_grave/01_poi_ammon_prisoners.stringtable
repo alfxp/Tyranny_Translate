@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_poi_ammon_prisoners</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Veja aquela caneta ali? Os prisioneiros estão vestidos com cores."</DefaultText>
+      <DefaultText>"See that pen over there? The prisoners within are dressed in [url=glossary:unbroken]Unbroken[/url] colors."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Aqueles prisioneiros têm sorte que as vozes não estão aqui para interrogá-los pessoalmente".</DefaultText>
+      <DefaultText>"Those prisoners are lucky the Voices isn't here to interrogate them personally."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Os prisioneiros do [url=glossary:disfavored]Disfavored[/url] não têm idéia de como eles são sortudos. O Coro poderia tê-los capturado ..."</DefaultText>
+      <DefaultText>"The prisoners of the [url=glossary:disfavored]Disfavored[/url] have no idea how lucky they are. The Chorus could have captured them..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Nó do banco 5</DefaultText>
+      <DefaultText>Bank Node 5</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

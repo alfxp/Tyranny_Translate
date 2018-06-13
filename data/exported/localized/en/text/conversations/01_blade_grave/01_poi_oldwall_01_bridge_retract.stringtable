@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_poi_oldwall_01_bridge_retract</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Se começarmos a correr, podemos ... deixar uma mancha alongada."</DefaultText>
+      <DefaultText>"If we get a running start we could... leave an elongated splat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Tem que haver alguma maneira de completar o caminho."</DefaultText>
+      <DefaultText>"There's got to be some way to complete the path across."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Bem ... não há chance de eu fazer esse salto."</DefaultText>
+      <DefaultText>"Well... there's no chance of me making that jump."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Deveria Besta-mulher ... lançar Alpha através de?"</DefaultText>
+      <DefaultText>"Should Beastwoman... throw Alpha across?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Eu deveria ter esperado isso ..."</DefaultText>
+      <DefaultText>"I should have expected that..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Nó do banco 7</DefaultText>
+      <DefaultText>Bank Node 7</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Apenas para registro, eu poderia fazer esse salto, mas não vou sozinho."</DefaultText>
+      <DefaultText>"Just for the record, I could make that jump, but I'm not going alone." </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

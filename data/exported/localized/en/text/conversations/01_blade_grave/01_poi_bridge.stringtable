@@ -1,47 +1,47 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_poi_bridge</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>8</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Precisamos dessa rampa rebaixada - há outro caminho?"</DefaultText>
+      <DefaultText>"We need that ramp lowered - is there another way up?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Se pudéssemos ter uma chance clara no guincho ou polia da ponte, isso diminuiria a ponte."</DefaultText>
+      <DefaultText>"If we could get a clear shot at the bridge's winch or pulley, that would lower the bridge."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Se pudermos chegar a um lugar mais alto, podemos destruir esse maldito guincho."</DefaultText>
+      <DefaultText>"If we can get to higher ground, we can destroy that accursed winch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Kills-in-Shadow pode escalar falésias, mas como Alpha seguiria? Deveria se aproximar para quebrar a armadilha que levantou a ponte, sim?"</DefaultText>
+      <DefaultText>"Kills-in-Shadow can scale cliffs, but how would Alpha follow? Should crawl closer to break trap that raised bridge, yep?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Não podemos acertar de baixo para cá, mas aposto que se encontrarmos um terreno mais alto, poderemos tirar o guincho."</DefaultText>
+      <DefaultText>"We can't hit it from down here, but I'll bet if we find higher ground, we could take out that winch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Sugiro que cheguemos a um terreno mais alto para desativar esse guincho."</DefaultText>
+      <DefaultText>"I suggest we reach higher ground to disable that winch." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Não há como escalar as paredes do penhasco, embora a rampa possa ser abaixada se você puder ganhar elevação suficiente para atirar no guincho segurando-o.</DefaultText>
+      <DefaultText>There's no way to scale the cliff walls, though the ramp may be lowered if you can gain enough elevation to shoot out the winch holding it up.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Nó Aleatório 9</DefaultText>
+      <DefaultText>Random Node 9</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

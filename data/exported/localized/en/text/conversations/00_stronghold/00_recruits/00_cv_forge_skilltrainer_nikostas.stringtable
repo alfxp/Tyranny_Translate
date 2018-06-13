@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_forge_skilltrainer_nikostas</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>8</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Fatebinder". Ele te dá uma reverência rápida. "Eu sou Nikostas. Eu ainda não sou um mestre, mas acho que ensinar aos outros os meus caminhos só é melhor do que o meu próprio entendimento. Se você deseja ser treinado, apenas pergunte."</DefaultText>
+      <DefaultText>"Fatebinder." He gives you a quick bow. "I am Nikostas. I am not yet a master, but I find teaching others my ways only betters my own understanding. If you wish to be trained, only ask."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Você pode pensar que nós somos simplesmente ferramentas de guerra, não é diferente de martelos para moldar metal." Ele sorri. "Mas é preciso mais do que força para ser eficaz no campo de batalha. Devo me tornar um mestre de muitos elementos em minha vida. Se você deseja aprender comigo, pode perguntar."</DefaultText>
+      <DefaultText>"You may think we [url=glossary:forge-bound]Forge-Bound[/url] are simply tools of war, no different than hammers to shape metal." He smirks. "But it takes more than brawn to be effective on the battlefield. I am to become a master of many elements in my lifetime. If you wish to learn from me, you may ask."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Eu gostaria de treinar."</DefaultText>
+      <DefaultText>"I'd like to train."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,22 +26,22 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Uma lâmina forte ao seu lado não é o único instrumento de guerra à sua disposição." Ele estende o braço novamente e, instantaneamente, é engolido por um campo de eletricidade. "Eu dediquei minha vida a entender os elementos e só cresço nesse conhecimento ensinando os outros. Peça, e eu treinarei você."</DefaultText>
+      <DefaultText>"A strong blade at your side isn't the only implement of war at your disposal." He holds out his arm again, and instantly it becomes engulfed in a field of electricity. "I've devoted my life to understanding the elements and I only grow in that knowledge by teaching others. Ask, and I shall train you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Eu não tenho os implementos para treinar enquanto a forja está em manutenção. Volte a verificar quando terminar."</DefaultText>
+      <DefaultText>"I do not have the implements to train while the forge is under maintenance. Check back once it has finished."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>O [url=glossary:forge-bound]Forge-Bound[/url] levita um pequeno orbe incandescente de chamas em sua mão antes de subitamente apertá-lo com o punho, sufocando a chama em nada além de fumaça e cinzas.</DefaultText>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] levitates a small glowing orb of flame in his hand before suddenly clenching it with his fist, smothering the flame into nothing but smoke and ash.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Você parece que você poderia usar algum treinamento."</DefaultText>
+      <DefaultText>"You look like you could use some training." </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

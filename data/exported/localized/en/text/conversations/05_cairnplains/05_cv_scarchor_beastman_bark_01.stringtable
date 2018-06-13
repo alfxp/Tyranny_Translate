@@ -1,32 +1,32 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_cairnplains\05_cv_scarchor_beastman_bark_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Todo mundo só volte atrás! Se alguém está esfaqueando essa Besta, seremos nós! Então cale a boca!"</DefaultText>
+      <DefaultText>"Everyone just back the fuck off! If anyone's skinning this Beast, it'll be us! So shut it!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Deixe o vira-lata ir, não é? Uma pena. Poderíamos ter feito bom uso dele."</DefaultText>
+      <DefaultText>"Let the mongrel go, did you? A pity. We could have made good use of him." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Um desperdício de bom músculo, se você me perguntar. Teremos que recrutar de outro lugar."</DefaultText>
+      <DefaultText>"A waste of good muscle, if you ask me. We'll have to conscript from elsewhere."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Vamos garantir que a criatura tenha um lugar digno na vanguarda".</DefaultText>
+      <DefaultText>"We'll make sure the creature has a worthy place in the vanguard."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Bom dia, Fatebinder."</DefaultText>
+      <DefaultText>"Good day, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

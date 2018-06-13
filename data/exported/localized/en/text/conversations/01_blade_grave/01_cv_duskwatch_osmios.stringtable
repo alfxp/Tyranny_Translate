@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_cv_duskwatch_osmios</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>62</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>O comandante [url=glossary:disfavored]Disfavored[/url] veste sua armadura sobre os ombros largos, e fica como se ele sabe muito bem disso. "[url=glossary:graven ashe]Graven Ashe[/url] protege. Osmios, trigésimo segundo legion. É um prazer tê-lo conosco. Mesmo tão perto do Iron Hearth, precisamos de toda a ajuda que pudermos obter."</DefaultText>
+      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] commander wears his armor over broad shoulders, and stands as if he knows it all too well. "[url=glossary:graven ashe]Graven Ashe[/url] protects. Osmios, thirty-second legion. A pleasure to have you join us. Even this close to Iron Hearth, we need all the help we can get." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Conte comigo. O [url=glossary:unbroken]Unbroken[/url] vai se quebrar contra a nossa ofensiva."</DefaultText>
+      <DefaultText>"Count me in. The [url=glossary:unbroken]Unbroken[/url] will shatter against our offensive."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,288 +21,288 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Não me ajeite por muito tempo. Estou liderando este ataque e precisamos de sua ajuda por dentro."</DefaultText>
+      <DefaultText>"Don't woolgather for too long. I'm leading this attack, and we need your help on the inside."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Então, você decidiu emprestar essa operação qualquer habilidade que você possua?"</DefaultText>
+      <DefaultText>"So, have you decided to lend this operation whatever skills you possess?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Antes que você fique muito empolgado, seu trabalho é infiltrar-se na base ao abrigo da noite e extrair o prisioneiro. Não deixe que ninguém o detecte. Se você alertá-lo enquanto estiver dentro, ficará sozinho."
+      <DefaultText>"Before you get too excited, your job is to infiltrate the base under cover of night and extract the prisoner. Don't let anyone spot you. If you alert them while inside, you'll be on your own." 
 
-"Callias é um bom soldado, e ele tem estado em mãos mais tempo do que qualquer um deveria suportar. Você pode pensar que ele é apenas mais um Escudo de Pedra, mas Ashe tem a vida de suas tropas em alta consideração, então devemos considerar o esforço de recuperação como importante como tomar Duskwatch em si. "</DefaultText>
+"Callias is a good soldier, and he's been in [url=glossary:unbroken]Unbroken[/url] hands longer than anyone should have to endure. You might think him just another Stone Shield, but Ashe holds the lives of his troops in high regard, so we should consider the recovery effort as important as taking Duskwatch itself."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Existem algumas fraquezas estruturais ao longo do perímetro, o que deve ajudá-lo a se infiltrar. Depois de liberar Callias, abra o portão da frente por dentro." Ele mostra um sorriso cheio de dentes. "Vamos inundar a fortaleza e fazer o trabalho dos soldados de Agathon."</DefaultText>
+      <DefaultText>"There are a few structural weaknesses along the perimeter, which should help you sneak in. After releasing Callias, open the front gate from the inside." He flashes you a toothy grin. "We'll flood the keep and make short work of Agathon's soldiers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Estou pronto. Duskwatch é tudo menos nosso."</DefaultText>
+      <DefaultText>"I'm ready. Duskwatch is all but ours."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ansioso, estamos? Bom!" Osmios dá um tapinha no seu ombro. "Faça o seu movimento assim que a noite cair. Lembre-se de ficar fora de vista, e vá para Callias. Vamos esperar você abrir os portões de dentro - mas não podemos ajudá-lo até que isso aconteça. Boa caçada."</DefaultText>
+      <DefaultText>"Eager, are we? Good!" Osmios pats your shoulder. "Make your move as soon as night falls. Remember to stay out of sight, and go for Callias. We'll wait for you to open the gates from inside - but we can't help you until that happens. Good hunting."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Qual é o seu negócio na Duskwatch? Espero que você venha para ajudar no esforço de guerra, mas quando se trata de agentes [url=glossary:tunon]Tunon[/url] paga não fazer suposições."</DefaultText>
+      <DefaultText>"What's your business at Duskwatch? I expect you've come to aid in the war effort, but when it comes to [url=glossary:tunon]Tunon[/url]'s agents it pays not to make assumptions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Estou aqui para ajudar o [url=glossary:disfavored]Disfavored[/url] e colocar um fim para o [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
+      <DefaultText>"I'm here to help the [url=glossary:disfavored]Disfavored[/url], and put an end to the [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Eu pretendo reivindicar o Sentinel Stand para o [url=glossary:disfavored]Disfavored[/url]".</DefaultText>
+      <DefaultText>"I intend to claim Sentinel Stand for the [url=glossary:disfavored]Disfavored[/url]." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Eu não preciso de ajuda de você. Estou tomando o forte sozinho."</DefaultText>
+      <DefaultText>"I don't need any help from you. I'm taking the fort on my own." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Seu olhar se torna pedregoso. "Não é de admirar que você esteja trabalhando e não com a legião. Se você está entusiasmado para correr de cabeça em uma fileira de lanças inimigas, seja meu convidado. Verdadeiramente. Eu não posso esperar para ver como isso acontece. Só sei que você está por conta própria, e eu não espero nada mais do que deixar seus olhos caídos de lado quando tomamos o forte sem você. "
+      <DefaultText>His gaze turns stony. "It's no wonder you're working for and not with the legion. If you're enthusiastic to run headlong into a row of enemy spears, be my guest. Truly. I can't wait to see how it pans out. Just know that you're on your own, and I expect nothing more than to toe your fallen eyeballs aside when we take the fort without you." 
 
-Ele se afasta de você, balançando a cabeça com tanta diversão quanto confusão.</DefaultText>
+He turns away from you, shaking his head in as much amusement as confusion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Seu interesse desperta. "Bem, seja bem-vindo a bordo! Não estamos sem defesas, mas poderíamos sempre usar um corpo extra quente para suportar a falange. Os [url=glossary:unbroken]Unbroken[/url] estão tentando entrar no Sentinel Stand, e nós pretendemos acabar com isso. "</DefaultText>
+      <DefaultText>His interest piques. "Is that right? Well, welcome aboard! We're not without defenses, but we could always use an extra warm body to support the phalanx. The [url=glossary:unbroken]Unbroken[/url] are trying to enter Sentinel Stand, and we mean to put a stop to it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Essa antiga fortaleza é provavelmente ruínas agora, mas é um símbolo da força desta região, e os símbolos significam algo no Norte e no Sul. O exército que controla o Sentinel Stand controla o [url=glossary:blade grave]Blade Grave[/url]".</DefaultText>
+      <DefaultText>"That old fortress is likely ruins by now, but it's a symbol of this region's strength, and symbols mean something in the North and South alike. The army that controls Sentinel Stand controls the [url=glossary:blade grave]Blade Grave[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Duskwatch é um ponto de apoio crítico. Podemos espalhar as tropas daqui e desestabilizar qualquer atividade [url=glossary:unbroken]Unbroken[/url] - incluindo seus planos de violar o Sentinel Stand. O forte cairá em nossas mãos, mas minha esperança é mitigar as perdas tanto quanto possível. Eu precisa de alguém de habilidade para derrotar esses porcos do sul. "</DefaultText>
+      <DefaultText>"Duskwatch is a critical foothold. We can fan out troops from here and destabilize any [url=glossary:unbroken]Unbroken[/url] activity - including their plans to breach Sentinel Stand. The fort will fall into our hands, but my hope is to mitigate [url=glossary:disfavored]Disfavored[/url] losses as much as possible. I need someone of skill to rout these Southern pigs." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Você está pronto para começar?"</DefaultText>
+      <DefaultText>"Are you ready to begin?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Eu ainda preciso de um momento para me preparar."</DefaultText>
+      <DefaultText>"I still need a moment to prepare."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Bem, não demore muito. Os [url=glossary:unbroken]Unbroken[/url] já têm vantagens suficientes na região sem dar o luxo do tempo."</DefaultText>
+      <DefaultText>"Well, don't take too long. The [url=glossary:unbroken]Unbroken[/url] already have enough advantages in the region without doling out the luxury of time." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Como Amelia foi perdida durante a guerra?"</DefaultText>
+      <DefaultText>"How was Amelia lost during the war?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] proclamou uma [url=glossary:edict]Edict[/url] mesmo que a filha de Ashe estivesse desaparecida?"</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] proclaimed an [url=glossary:edict]Edict[/url] even though Ashe's daughter was missing?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Eu gostaria de poder te dizer. Se o que você está sugerindo é verdade, e eu não tenho razão para acreditar que não seja, então Callias deveria ser capaz de nos contar mais sobre o que aconteceu com ela e onde ela acabou."</DefaultText>
+      <DefaultText>"I wish I could tell you. If what you're suggesting is true, and I have no reason to believe it isn't, then Callias should be able to tell us more about what happened to her and where she ended up."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Com todo o respeito, a filha de Ashe quer dizer menos do que uma taça amassada para o Overlord. [url=glossary:kyros]Kyros[/url] está acima desses assuntos, e não hesitaria em levar em consideração a segurança da menina, muito menos a sua ou a minha. Além disso, o Grande General sabia o riscos de enviar sua filha para a batalha. Ele não deixaria seus sentimentos comprometerem o esforço de guerra ".</DefaultText>
+      <DefaultText>"With all due respect, Ashe's daughter means less than a dented goblet to the Overlord. [url=glossary:kyros]Kyros[/url] is above such matters, and wouldn't pause to take the girl's safety into consideration, much less yours or mine. Besides, the Great General knew the risks of sending his daughter into battle. He wouldn't let his feelings compromise the war effort."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"O que você sabe do [url=glossary:unbroken]Unbroken[/url]?"</DefaultText>
+      <DefaultText>"What do you know of the [url=glossary:unbroken]Unbroken[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Uma gangue de Tiersmen com delírios de honra. Tenho certeza que eles desejam suas fileiras eram tão renomados e elite quanto os [url=glossary:disfavored]Disfavored[/url]. Infelizmente para eles, o melhor que eles já fizeram foi morrer pelas nossas mãos, ou se render e enfrentar trabalho duro "
+      <DefaultText>"A gang of Tiersmen with delusions of honor. I'm sure they wish their ranks were as renowned and elite as the [url=glossary:disfavored]Disfavored[/url]. Unfortunately for them, the best they'll ever do is die by our hand, or surrender and face hard labor."
 
-"Eles se juntam em torno de alguém chamado Mattias, um capitão Stalwart de baixo nível de alguns ... sucesso moderado."</DefaultText>
+"They rally around someone named Mattias, a low-born Stalwart captain of some... moderate success."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Ele sorri estupidamente. "Estranhamente, não há amor perdido entre o [url=glossary:unbroken]Unbroken[/url] e o antigo estabelecimento - uma linhagem hereditária conhecida como Regentes. Com tanta divisão em suas fileiras, eu não sei como eles esperam ter sucesso."</DefaultText>
+      <DefaultText>He smiles bemusedly. "Strangely enough, there's no love lost between the [url=glossary:unbroken]Unbroken[/url] and the old establishment - a hereditary bloodline known as the Regents. With that much division in their ranks, I don't know how they hope to succeed."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Também me preocupei ... e a questão me atormentou mesmo quando marcharam para recuperar sua unidade. Ainda me atormenta."</DefaultText>
+      <DefaultText>"I have worried as well... and the question plagued me even as we marched to recover her unit. It plagues me still."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Outra família destruída no capricho. Pelo menos Ashe pode se confortar sabendo que ele não é diretamente responsável pelo que aconteceu com sua filha."</DefaultText>
+      <DefaultText>"Another family destroyed at [url=glossary:kyros]Kyros[/url]' whim. At least Ashe can take comfort in the knowledge that he isn't directly responsible for what happened to his daughter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Eu tinha um plano organizado para tomar este forte, mas exigia um toque mais sutil - para não mencionar o tempo para minhas forças se recuperarem do nosso último ataque. Você parece estar se comportando bem o suficiente, então não nos deixe ficar em pé." seu jeito!" Ele balança a cabeça com um sorriso.</DefaultText>
+      <DefaultText>"I did have an organized plan to take this fort, but it required a subtler touch - not to mention time for my forces to recuperate from our last assault. You seem to be handling yourself well enough, so don't let us stand in your way!" He shakes his head with a smile. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Afaste-se daqui. Me deixa doente de olhar para um traidor."</DefaultText>
+      <DefaultText>"Get away from here. It sickens me to look upon a traitor." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Como o Duskwatch ficou tanto tempo desafiando suas tropas?"</DefaultText>
+      <DefaultText>"How has Duskwatch stood this long in defiance of your troops?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Ele olha para a esquerda e para a direita com uma carranca. "Eu odeio questionar o Grande General ou o seu comando, mas estamos sobrecarregados de trabalho e subalternos. Não haverá suprimentos adicionais vindo até que o forte esteja em nossas mãos, e os [url=glossary:unbroken]Unbroken[/url] estabeleçam suas defesas com um longo cerco." em mente."</DefaultText>
+      <DefaultText>He glances to his left and right with a frown. "I hate to question the Great General or his command, but we're overworked and undermanned. There won't be any additional supplies coming our way until the fort is in our hands, and the [url=glossary:unbroken]Unbroken[/url] set up their defenses with a long siege in mind." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Eu preciso de respostas, não corpos. Matar o [url=glossary:unbroken]Unbroken[/url] pode não me ajudar."</DefaultText>
+      <DefaultText>"I need answers, not bodies. Killing the [url=glossary:unbroken]Unbroken[/url] might not help me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Não é sempre que vejo moderação, mas aí está. Neste caso, acho que você pode derramar sangue sem perder o sono."</DefaultText>
+      <DefaultText>"It's not often that I see restraint, but there you have it. In this case, I think you can spill some blood without losing sleep."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Ashe quer que eu acabe com o [url=glossary:edict]Edict[/url] de Storms e recupere sua filha."</DefaultText>
+      <DefaultText>"Ashe wants me to end the [url=glossary:edict]Edict[/url] of Storms and retrieve his daughter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Metas dignas de música! Parece que Ashe salvou o melhor da guerra para você. Sua confiança deve ser bem merecida." Osmios oferece um aceno respeitoso.</DefaultText>
+      <DefaultText>"Goals worthy of song! It sounds like Ashe has saved the best of the war for you. His confidence must be well-deserved." Osmios offers a respectful nod.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Dia e noite, minhas forças se golpearam contra aquelas paredes, mas até mesmo os incansáveis ​​limites têm. Eu temo que estamos fora de ação até que o [url=lore:edgering_asheaegis]Ashe's Aegis[/url] derruba nossas feridas. Você parece bastante animado. O que é isso?" digamos que você nos ajude a tirar Callias e amolecer o [url=glossary:unbroken]Unbroken[/url] para execução? "</DefaultText>
+      <DefaultText>"Day and night my forces have battered themselves against those walls, but even the tireless [url=glossary:disfavored]Disfavored[/url] have their limits. I'm afraid we're out of commission until [url=lore:edgering_asheaegis]Ashe's Aegis[/url] takes the edge off and knits our wounds closed. You look lively enough. What's say you help us get Callias out and soften up the [url=glossary:unbroken]Unbroken[/url] for execution?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Eu encontrei evidências de que a filha de Ashe passou pela Sentinela Stand. Poderia Callias saber mais sobre o desaparecimento dela?"</DefaultText>
+      <DefaultText>"I found evidence that Ashe's daughter passed by Sentinel Stand. Could Callias know more about her disappearance?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Amelia?" Osmios se levanta. "Pelo norte, eu nunca considerei que alguém em sua unidade sobreviveu à captura ... Se a sanidade dele ainda estiver intacta depois de todo esse tempo, então é totalmente possível que Callias possa nos dizer algo."</DefaultText>
+      <DefaultText>"Amelia?" Osmios draws himself up. "By the North, I never even considered that anyone in her unit survived capture... If his sanity is still intact after all this time, then it's entirely possible that Callias could tell us something."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Já faz algum tempo desde que me permiti tanto otimismo. Se Callias viajou com a filha de Ashe, então temos a chance de levá-la de volta dos miseráveis ​​do sul!"</DefaultText>
+      <DefaultText>"It's been some time since I allowed myself such optimism. If Callias traveled with Ashe's daughter, then we have a chance at taking her back from the Southern wretches!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Durante a conquista, nós empurramos os defensores do Stalwart como se eles fossem velhas sebes, mas esses [url=glossary:unbroken]Unbroken[/url] são uma raça à parte de seus compatriotas. Ao perder a guerra, de repente eles têm algo para se recuperar. Eu não quero dizem que os subestimamos, mas ... "ele dá de ombros e se afasta.</DefaultText>
+      <DefaultText>"During the conquest, we pushed through the Stalwart defenders like they were old hedgerows, but these [url=glossary:unbroken]Unbroken[/url] are a breed apart from their countrymen. In losing the war, all of a sudden they have something to rally behind. I don't want to say that we underestimated them, but..." he shrugs and trails off.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Nós enviamos coortes de soldados para recuperar sua unidade, mas tivemos que retirar nossos esforços quando o [url=glossary:edict]Edict[/url] de tempestades atingiu. Navegando na região tornou-se menos organizada e mais uma questão de chance. Tenho certeza que Ashe se preocupou se perguntando sobre a segurança de sua filha ".</DefaultText>
+      <DefaultText>"We dispatched cohorts of soldiers to recover her unit, but we had to pull back our efforts when the [url=glossary:edict]Edict[/url] of Storms hit. Navigating the region became less organized and more a matter of chance. I'm sure that Ashe has worried himself sick wondering about his daughter's safety." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Você pode não se lembrar de mim da campanha de Stalwart, mas os [url=glossary:disfavored]Disfavored[/url] lembram seus amigos." Ele pisca e te passa um equipamento. "Se você tivesse [url=lore:beasts_stalwart]allowed those Beasts into the Chorus,[/url] estaríamos lutando contra piores do que apenas camponeses armados".</DefaultText>
+      <DefaultText>"You may not recall me from the Stalwart campaign, but the [url=glossary:disfavored]Disfavored[/url] remember their friends." He winks and passes you a piece of equipment. "If you had [url=lore:beasts_stalwart]allowed those Beasts into the Chorus,[/url] we'd be fighting against worse than just armed peasants." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Estou convencido de que você é o homem para o trabalho. Quando minha coorte [url=lore:negative_conscription]executed Chorus traitors[/url] em seu nome, eu sabia que não era a última vez que trabalhamos juntos." Osmios sorri com gratidão.</DefaultText>
+      <DefaultText>"I'm convinced you're the man for the job. When my cohort [url=lore:negative_conscription]executed Chorus traitors[/url] in your name, I knew it wasn't the last time we'd work together." Osmios smiles with gratitude.</DefaultText>
       <FemaleText>"I'm convinced you're the woman for the job. When my cohort [url=lore:negative_conscription]executed Chorus traitors[/url] in your name, I knew it wasn't the last time we'd work together." Osmios smiles with gratitude.</FemaleText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"De pé contra o [url=glossary:unbroken]Unbroken[/url] vai demorar mais do que a linguagem dura. Eu trago táticas e experiência."</DefaultText>
+      <DefaultText>"Standing against the [url=glossary:unbroken]Unbroken[/url] will take more than harsh language. I bring you tactics and experience."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"E nós estamos sempre contentes de receber os dois! Os [url=glossary:unbroken]Unbroken[/url] têm sua parcela de arrogância, mas os veteranos mais experientes do nosso lado serão exatamente o que precisamos para ensinar essas crianças do sul uma lição".</DefaultText>
+      <DefaultText>"And we are always glad to receive both! The [url=glossary:unbroken]Unbroken[/url] have their fair share of hubris, but more seasoned veterans on our side will be exactly what we need to teach these Southern children a lesson."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] 'lágrimas mágicas no [url=glossary:blade grave]Blade Grave[/url]. Eu venho para acabar com isso".</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' magic tears at the [url=glossary:blade grave]Blade Grave[/url]. I come to put an end to it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Eu não poderia falar por questões arcanas, mas eu já vi o suficiente desta tempestade para saber que vamos ter dificuldade em recuperar essas terras com coragem em nossos olhos e [url=glossary:unbroken]Unbroken[/url] exploradores navegando na obscuridade." Ele olha para a distância e franze a testa.</DefaultText>
+      <DefaultText>"I couldn't speak for arcane matters, but I've seen enough of this storm to know that we're going to have a hard time reclaiming these lands with grit in our eyes and [url=glossary:unbroken]Unbroken[/url] scouts navigating the obscurity." He squints off into the distance and frowns.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Você deve estar enganado. Eu não estou aqui para ajudar você. Você está aqui para me ajudar."</DefaultText>
+      <DefaultText>"You must be mistaken. I'm not here to aid you. You're here to aid me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Ele estuda você por um momento antes de cair na gargalhada. "Perdoe-me - você está certo, eu confundi o assunto - pensando em mim mesmo em um campo de batalha, em vez dos salões decorados. Imagine você! Você toma seu faisão assado com um vinho tinto ou branco?"</DefaultText>
+      <DefaultText>He studies you for a moment before bursting into laughter. "Forgive me - you're right, I mistook the matter - thinking myself on a battlefield instead of [url=glossary:tunon]Tunon[/url]'s decorated halls. Imagine that! Do you take your roasted pheasant with a red or white wine?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Ele sacode a cabeça. "Feliz em fornecer qualquer ajuda que eu possa, mas você precisa entender que estamos no meio de um grande conflito, e não posso simplesmente largar tudo para satisfazer suas necessidades."</DefaultText>
+      <DefaultText>He shakes his head. "Happy to provide any help I can, but you need to understand that we're in the middle of a major conflict, and I can't just drop everything to satisfy your needs."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Mais é a pena. Estou me sentindo decididamente insatisfeito por aqui."</DefaultText>
+      <DefaultText>"More's the pity. I'm feeling decidedly unsatisfied over here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Garras curvadas arranham suas costelas, rabiscando linhas vermelhas e irritadas em sua pele.</DefaultText>
+      <DefaultText>Curved claws scratch at her ribs, scrawling angry red lines into her skin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Como você pode ser capaz de dizer, este forte é um osso duro de roer. Os [url=glossary:unbroken]Unbroken[/url] não estão muito interessados ​​em se render, e os nossos ataques preliminares ainda têm que irromper. Um dos nossos soldados está acorrentado dentro - Callias - e nós vai fazer qualquer coisa para tirá-lo. Ele olha para o forte com saudade.</DefaultText>
+      <DefaultText>"As you might be able to tell, this fort is a tough nut to crack. The [url=glossary:unbroken]Unbroken[/url] aren't too keen on surrendering, and our preliminary attacks have yet to break through. One of our soldiers is chained inside - Callias - and we'll go any length to get him out." He glances at the fort with longing.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Se você já fez tanto progresso na busca por Amelia, então a confiança de Ashe está bem colocada. Mas para a questão de Callias ... eu não consigo pensar em nenhuma razão para mantê-lo vivo, a não ser que ele saiba alguma coisa."</DefaultText>
+      <DefaultText>"If you've made such headway in the search for Amelia already, then Ashe's trust is well-placed. But to the question of Callias... I can think of no reason for the [url=glossary:unbroken]Unbroken[/url] to keep him alive, save that he knows something."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Ele franze a testa para Barik. "Ainda preso, eu vejo. Como você está se saindo lá, soldado?"</DefaultText>
+      <DefaultText>He frowns at Barik. "Still trapped, I see. How are you faring under there, soldier?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"É um desafio o suficiente para caber comida através deste obstáculo de ferro, eu ganhei várias centenas de quilos de ferro e músculo ao longo do ano passado, e eu sinto o cheiro de uma vala comum deixada aberta ao sol. Mas eu estou, no momento, em pé. " Ele acena para Osmios.</DefaultText>
+      <DefaultText>"It is challenging enough to fit food through this stubborn iron bucket, I have gained several hundred pounds of iron and muscle over the last year, and I smell like a mass grave left open to the sun. But I am, for the moment, upright." He nods to Osmios.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Ele franze a testa. "Talvez você me entenda mal. Os [url=glossary:disfavored]Disfavored[/url] são uma família. Nós planejamos, cooperamos, e atacamos como um. Eu não sei como eles fazem as coisas na Corte, mas aqui nós nos compomos como uma unidade - isso significa que todos participam." "</DefaultText>
+      <DefaultText>He frowns. "Maybe you misunderstand me. The [url=glossary:disfavored]Disfavored[/url] are a family. We plan, cooperate, and attack like one. I don't know how they do things in [url=glossary:tunon]Tunon[/url]'s Court, but here we compose ourselves as a unit - that means everyone pitches in."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -312,12 +312,12 @@ Ele se afasta de você, balançando a cabeça com tanta diversão quanto confus�
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Muito bem. Diga-me o seu plano, então."</DefaultText>
+      <DefaultText>"Very well. Tell me your plan, then."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Você já sabe dos detalhes pertinentes - entre no forte, resgate Callias e abra o portão por dentro. A única peça que falta é você."</DefaultText>
+      <DefaultText>"You know the pertinent details already - sneak into the fort, rescue Callias, and open the gate from the inside. The only missing piece is you."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_cv_cepser_respec</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>26</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Olá Fatebinder. Você está querendo mudar o que você ou um amigo são qualificados?"</DefaultText>
+      <DefaultText>"Hello Fatebinder. Are you looking to change what you or a friend are skilled in?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,87 +51,87 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Estou ansioso por isso. Espero que você entenda que eu não lhe mostrarei favor. Tutela, assim como a guerra, não tolera ternura."</DefaultText>
+      <DefaultText>"I look forward to it. I hope you understand that I will show you no favor. Tutelage, much as war, brooks no tenderness."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Suponho que ele tenha o treinamento padrão: fique lá e deixe o inimigo bater em você até que ele se canse. Eu suponho que posso ensinar a ele algumas táticas menos dolorosas."</DefaultText>
+      <DefaultText>"I assume he has the standard [url=glossary:disfavored]Disfavored[/url] training: stand there and let the enemy hit you until they get tired. I assume I can teach him some less painful tactics."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"A garota chorona de boca suja? Eu não sabia que ela estava treinando para quebrar." Ele suspira, toma um gole de vinho e acena com a cabeça. "Vamos ver o que pode ser feito com ela."</DefaultText>
+      <DefaultText>"The foul-mouthed Chorus girl? I didn't realize she had training to break." He sighs, takes a deep swig of wine, and nods. "We shall see what can be done with her."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Eu certamente posso tentar." Ele franze a testa. "Talvez eu comece quebrando sua insistência de que o vinho Tiers é superior ao do Império ..."</DefaultText>
+      <DefaultText>"I can certainly try." He scowls. "Perhaps I'll start by breaking his insistence that Tiers wine is superior to that of the Empire..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ah. Eu estava esperando ter uma oportunidade de falar com ela." Ele limpa a garganta. "Estritamente profissionalmente, claro."</DefaultText>
+      <DefaultText>"Ah. I'd been hoping to have an opportunity to speak with her." He clears his throat. "Strictly professionally, of course."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Merda. Do meu entendimento, Archon Sirin teve um ... complicado relacionamento com seus tutores do passado. Ela entende que isso é inteiramente a seu pedido, espero ..."</DefaultText>
+      <DefaultText>"Shit. From my understanding, Archon Sirin has had a... complicated relationship with her past tutors. She understands that this is entirely at your behest, I hope..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"A Beastwoman? Grand. Eu vou precisar de um flagon fresco primeiro."</DefaultText>
+      <DefaultText>"The Beastwoman? Grand. I'll be needing a fresh flagon first."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"[Player Title] [Player Name], um prazer finalmente conhecê-lo." Seu arco te atinge como superficial, na melhor das hipóteses. "Eu sou Fatebinder Cesper. Eu entendo que você estendeu a mão para o tribunal para um treinador. Fui trazido. Também trouxe vinho." Ele levanta um frasco de barro em saudação.</DefaultText>
+      <DefaultText>"[Player Title] [Player Name], a pleasure to finally make your acquaintance." His bow strikes you as perfunctory at best. "I am Fatebinder Cesper. I understand that you reached out to the court for a trainer. I have been provided. I've also brought wine." He lifts a clay flagon in salute.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Que tipo de treinamento você oferece?"</DefaultText>
+      <DefaultText>"What kind of training do you provide?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <DefaultText>"Tell me about yourself."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Vamos começar, vamos?"</DefaultText>
+      <DefaultText>"Let's get started, shall we?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Pense no que eu faço como ensinar uma mão nova a novos truques. Eu quebro as pupilas dos hábitos indesejados que eles apanharam para que possam formar novas. Quebrar sendo a palavra operativa." Ele sorri e toma um gole de vinho. "Desaprender pode ser muito mais difícil do que aprender."</DefaultText>
+      <DefaultText>"Think of what I do as teaching an old hand new tricks. I break pupils of the unwanted habits they've picked up so that they may form new ones. Break being the operative word." He smirks and takes a swig of wine. "Unlearning can be far more difficult than learning."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Temo que essa história seja muito mais longa do que qualquer uma de nós tenha tempo para isso". Ele ri sem alegria. "Basta dizer que eu tenho servido como membro do Tribunal [url=glossary:tunon]Tunon[/url] mais do que a maioria dos outros Fatebinders e ganhei algo de um dotage como resultado. Aparentemente, isso agora envolve ajudar no [url=glossary:kyros]Kyros[/url]-abandonado Tiers." Ele olha de volta para o horizonte. "Embora isso, eu admito livremente, é a mais rara das visões."</DefaultText>
+      <DefaultText>"I fear that that story is far longer than either of us have time for." He chuckles mirthlessly. "Suffice it to say that I have served as a member of [url=glossary:tunon]Tunon[/url]'s Court longer than most other Fatebinders and have earned something of a dotage as a result. Apparently that now involves assisting in the [url=glossary:kyros]Kyros[/url]-forsaken Tiers." He looks back towards the horizon. "Though this, I admit freely, is the absolute rarest of views."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Excelente. Estarei trabalhando com você pessoalmente, ou você prefere que eu ensine um membro da sua comitiva?"</DefaultText>
+      <DefaultText>"Excellent. Will I be working with you personally, or would you prefer I tutor a member of your entourage?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Antes de você está um homem encarquilhado no traje de corte de um Fatebinder. Ele parece estar perdido em um exame cuidadoso, seu olhar examinando os detalhes do Pináculo. Ele desloca sua atenção para você depois de um momento, oferecendo um sorriso pálido.</DefaultText>
+      <DefaultText>Before you stands a wizened man in the courtly garb of a Fatebinder. He seems to be lost in thoughtful examination, his gaze scrutinizing the details of the Spire. He shifts his attention to you after a moment, offering a wan smile.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Vinho?"</DefaultText>
+      <DefaultText>"Wine?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"O norte é o mais fino, um grande carro de barris. Exigiu uma equipe de seis Feras para carregá-lo e valer cada maldito anel de ferro se ele me salvasse do sul." Ele levanta o frasco para os lábios.</DefaultText>
+      <DefaultText>"The north's finest, a large cart's worth of casks. Required a team of six Beasts to haul it, and worth every damned iron ring if it saves me from the southern swill." He raises the flagon to his lips.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

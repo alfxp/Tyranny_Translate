@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_missions_damiro</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>10</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ainda esperando a manutenção terminar antes que eu possa continuar com o meu trabalho. Volte mais tarde."</DefaultText>
+      <DefaultText>"Still waiting on maintenance to finish before I can continue with my work. Check back later."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Damiro olha para o [url=glossary:stone sea]Stone Sea[/url]. "Este é o mais longe que eu já estive de minha casa em [Plainsgate]." Ele respira fundo. "O ar é muito mais claro aqui, vai ajudar com a potência das ervas. Você pode imaginar as dificuldades que tivemos com o [url=glossary:edict]Edict[/url] no [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
+      <DefaultText>Damiro looks off towards the [url=glossary:stone sea]Stone Sea[/url]. "This is the furthest I've been from my home in [Plainsgate]." He takes a deep breath. "The air is a lot clearer here, it'll help with the herbs potency. You can imagine the difficulties we had with the [url=glossary:edict]Edict[/url] in the [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"O que você fez para mim?"</DefaultText>
+      <DefaultText>"What have you made for me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,34 +26,34 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Fiz bem com os poucos recursos que tinha, mas eventualmente até o pouco que tinha acabado. Fechei a loja e foi quando decidi levar minhas habilidades para outro lugar."</DefaultText>
+      <DefaultText>"I made good with the few resources I had, but eventually even the little I had ran out. I closed up shop, and that's when I decided to take my skills elsewhere."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Venha inspecionar meu trabalho, Fatebinder?"</DefaultText>
+      <DefaultText>"Come to inspect my work, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Deixe-me te mostrar."</DefaultText>
+      <DefaultText>"Let me show you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Eu não tenho nada para você no momento. Volte mais tarde."
+      <DefaultText>"I don't have anything for you at the moment. Check back later."
 
-[Recrutas podem gerar itens para você enquanto você está ganhando experiência se aventurando no mundo.]</DefaultText>
+[Recruits can generate items for you while you are gaining experience by adventuring in the world.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Por que você saiu [do Plainsgate] e ofereceu seus serviços para mim?"</DefaultText>
+      <DefaultText>"Why did you leave [Plainsgate] and offer your services to me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Eu ouvi falar dos outros que você quebrou o [url=glossary:edict]Edict[/url] de Stone?" Seus olhos se iluminam com um clarão que você nunca viu antes. "[Plainsgate] não era Haven para começar, mas essas pessoas podem ter a chance de construir de novo."</DefaultText>
+      <DefaultText>"I've heard talk from the others that you broke the [url=glossary:edict]Edict[/url] of Stone?" His eyes light up with a flare you've never seen before. "[Plainsgate] was no Haven to start, but those people may have a chance to build anew."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

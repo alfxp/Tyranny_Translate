@@ -1,37 +1,37 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_bs_lantry_secondbreath</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>6</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Isso deve fazer esse truque ..."</DefaultText>
+      <DefaultText>"This should do this trick..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Não se apresse para se machucar de novo ... oh, por que eu me incomodo?"</DefaultText>
+      <DefaultText>"Don't go rushing off to get yourself hurt again... oh why do I bother?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Bom como novo ... ou pelo menos novo-ish".</DefaultText>
+      <DefaultText>"Good as new... or at least new-ish."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"O que seria mais fácil é você não se machucar em primeiro lugar ... crianças loucas ..."</DefaultText>
+      <DefaultText>"What would be easier is you not getting hurt in the first place... crazy kids..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Você não terminou ainda, não se eu tiver alguma opinião sobre o assunto!"</DefaultText>
+      <DefaultText>"You're not done yet, not if I have any say in the matter!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Volte a seus pés, ou eu lhe escreverei um obituário muito desfavorável!"</DefaultText>
+      <DefaultText>"Get back on your feet, or I'll write you a most unflattering obituary!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

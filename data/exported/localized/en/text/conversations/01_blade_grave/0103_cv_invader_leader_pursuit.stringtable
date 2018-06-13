@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\0103_cv_invader_leader_pursuit</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Finalmente, chegamos!" Dimitris aponta para o regente. "Vamos avançar!"</DefaultText>
+      <DefaultText>"At last, we come!" Dimitris gestures up the way to the Regent. "Let's push forward!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Você? Ha! Você achou que Rumalan era todo o [url=glossary:disfavored]Disfavored[/url] se comprometendo com essa batalha?" Dimitris zomba. "Virar as costas para nós confundiu os seus sentidos com o kinslayer".</DefaultText>
+      <DefaultText>"You? Ha! Did you think that Rumalan was all the [url=glossary:disfavored]Disfavored[/url] would commit to this battle?" Dimitris scoffs. "Turning your back on us has muddled your senses, kinslayer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Nós temos o regente encurralado!" Remedy Jagged retira sua lança. "Hora de limpar os ratos da despensa."</DefaultText>
+      <DefaultText>"We have the Regent cornered!" Jagged Remedy flicks out his spear. "Time to clear the rats out of the larder." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Não temos um momento a perder!" Mattias aponta para a rota de fuga do regente. "Hora de avançar!"</DefaultText>
+      <DefaultText>"We haven't a moment to lose!" Mattias points up to the Regent's escape route. "Time to push forward!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

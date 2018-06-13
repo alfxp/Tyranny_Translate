@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_bs_traininggrounds_reactive_barks</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Enfrentar as tempestades do [url=glossary:blade grave]Blade Grave[/url] é uma coisa, marchar em seu próprio coração e tomar Sentinel Stand é outro. Estou impressionado, Fatebinder".</DefaultText>
+      <DefaultText>"Braving the storms of the [url=glossary:blade grave]Blade Grave[/url] is one thing, marching into its very heart and taking Sentinel Stand is another. I am impressed, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"As tempestades de ferrugem pararam, não há mais desculpas para perder seus bonecos!"</DefaultText>
+      <DefaultText>"The rust storms have stopped, there's no more excuses for missing your dummies!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Tem sido um pouco difícil conseguir embarques de novas armas de sparring com o [url=glossary:edict]Edict[/url] abaixo de nós, mas vamos conseguir."</DefaultText>
+      <DefaultText>"It's been a bit difficult getting shipments of new sparring weapons with the [url=glossary:edict]Edict[/url] below us, but we'll manage."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Uma vergonha o Bane não está mais espreitando por aí, eles eram uma boa prática de alvo."</DefaultText>
+      <DefaultText>"A shame the Bane aren't lurking around anymore, they were good target practice."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Uma pena que o fechamento da terra parasse, era uma boa prática para nossos arqueiros se seus alvos ocasionalmente se movessem."</DefaultText>
+      <DefaultText>"A shame the shuttering of the earth stopped, it was good practice for our Archers if their targets occasionally moved. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Eu não sei o que mais eu poderia ensinar a um guerreiro que derrotou o mais forte dos Homens-Besta."</DefaultText>
+      <DefaultText>"I don't know what else I could teach to a warrior who bested the strongest of the Beastmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"O Fatebinder está aqui, pareça vivo para todos!"</DefaultText>
+      <DefaultText>"The Fatebinder is here, look alive everyone!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

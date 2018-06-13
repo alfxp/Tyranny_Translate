@@ -1,147 +1,147 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\02_lethianscrossing\fq_ac_qst_artifacthunter</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>28</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Caçador de Artefatos</DefaultText>
+      <DefaultText>Artifact Hunter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Vá para o Deserter's March.</DefaultText>
+      <DefaultText>Go to Deserter's March.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Viajar para Twin Rivers.</DefaultText>
+      <DefaultText>Travel to Twin Rivers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Fale com o Locke.</DefaultText>
+      <DefaultText>Speak to Locke.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Fale com o Myrek.</DefaultText>
+      <DefaultText>Speak to Myrek.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Mate os flagelos.</DefaultText>
+      <DefaultText>Kill the Scourges.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Encontre o Welby.</DefaultText>
+      <DefaultText>Find Welby.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Pesquise Locke e Myrek.</DefaultText>
+      <DefaultText>Search Locke and Myrek.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Pesquise Myrek.</DefaultText>
+      <DefaultText>Search Myrek.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Pegue a pedra angular para Twin Rivers.</DefaultText>
+      <DefaultText>Take the Keystone to Twin Rivers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Digite os Oldwalls.</DefaultText>
+      <DefaultText>Enter the Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Pesquisar Flatfoot Ferris.</DefaultText>
+      <DefaultText>Search Flatfoot Ferris.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Raetommon roubou o Magebane Helm de [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Encontre-o e pegue o leme de volta.</DefaultText>
+      <DefaultText>Raetommon has stolen the Magebane Helm from [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Find him and get the Helm back.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Os [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] viajam frequentemente através do Março do Deserter. Você pode encontrar informações sobre o paradeiro de Raetommon lá.</DefaultText>
+      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] often travel through Deserter's March. You may be able to find information regarding Raetommon's whereabouts there.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Twin Rivers é um acampamento conhecido da Fraternidade. Provavelmente existe um tipo de comandante que pode ser uma fonte de informação sobre Raetommon.</DefaultText>
+      <DefaultText>Twin Rivers is a known Brotherhood campsite. There is most likely a commander of sorts there who can be a source of information about Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Locke está irritado com as ações recentes de Raetommon. Fale com ele no Deserter's March sobre a situação.</DefaultText>
+      <DefaultText>Locke is angry about Raetommon's recent actions. Speak to him in Deserter's March about the situation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Myrek apóia as táticas de Raetommon em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Fale com ele no Deserter's March e descubra se ele sabe onde Raetommon foi.</DefaultText>
+      <DefaultText>Myrek supports Raetommon's tactics in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Speak to him in Deserter's March and find out if he knows where Raetommon went.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>O [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] está sob ataque de Scourges liberados do Oldwalls em Twin Rivers. Eles precisam de ajuda para derrotar as criaturas.</DefaultText>
+      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] is under attack from Scourges released from the Oldwalls in Twin Rivers. They need assistance in defeating the creatures.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>A Irmandade foi cortada de seu acampamento base em Twin Rivers. Welby está tentando manter a Irmandade remanescente unida após o desaparecimento do Primeiro Irmão Raetommon no Oldwalls.</DefaultText>
+      <DefaultText>The Brotherhood have been cut off from their base camp in Twin Rivers. Welby is attempting to keep the remaining Brotherhood together in the wake of First Brother Raetommon's disappearance into the Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10013</ID>
-      <DefaultText>Há uma boa chance de que um dos dois tenha uma pista de onde Raetommon levou o Master [url=glossary:forge-bound]Forge-Bound[/url]. Procure seus corpos no Deserter's March.</DefaultText>
+      <DefaultText>There's a good chance one of the two of them has a clue to where Raetommon has taken the [url=glossary:forge-bound]Forge-Bound[/url] Master. Search their bodies in Deserter's March.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>Locke disse que pode ser benéfico procurar o corpo de Myrek no Deserter's March para obter informações sobre Raetommon.</DefaultText>
+      <DefaultText>Locke said it may be beneficial to search Myrek's body in Deserter's March for information about Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10015</ID>
-      <DefaultText>Com a pedra angular na mão, volte para os rios gêmeos.</DefaultText>
+      <DefaultText>With the Keystone in hand, return to Twin Rivers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10018</ID>
-      <DefaultText>A entrada para os Oldwalls em Twin Rivers está atualmente selada. Use o Keystone para entrar.</DefaultText>
+      <DefaultText>The entrance to the Oldwalls in Twin Rivers is currently sealed. Use the Keystone to get inside.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10023</ID>
-      <DefaultText>Flatfoot Ferris provavelmente tem algo que ajudará a alcançar Raetommon mais profundamente dentro do Oldwalls. Procure o corpo dele.</DefaultText>
+      <DefaultText>Flatfoot Ferris probably has something that will help reach Raetommon deeper inside the Oldwalls. Search his body.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Welby lhe disse que o Keystone para entrar nos Oldwalls pode ser encontrado no March de Deserter.</DefaultText>
+      <DefaultText>Welby told you that the Keystone to enter the Oldwalls can be found in Deserter's March.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Myrek não escutaria a razão e atacaria, você terá que matá-lo.</DefaultText>
+      <DefaultText>Myrek wouldn't listen to reason and attacked, you will have to kill him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>As coisas ficaram hostis entre você eo [url=glossary:bronze brotherhood]Bronze Brotherhood[/url], matar todos.</DefaultText>
+      <DefaultText>Things turned hostile between you and the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url], kill everyone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você perseguiu Raetommon, que levou o mestre, para o Oldwalls em Twin Rivers.</DefaultText>
+      <DefaultText>You chased Raetommon, who took the [url=glossary:forge-bound]Forge-Bound[/url] Master, into the Oldwalls at Twin Rivers.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

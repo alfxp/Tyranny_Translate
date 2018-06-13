@@ -1,5 +1,5 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_bs_eb_repellingnova</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Aqui está um dos meus truques favoritos."</DefaultText>
+      <DefaultText>"Here's one of my favorite tricks."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Afaste-se!"</DefaultText>
+      <DefaultText>"Stand back!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Dê adeus a todos!"</DefaultText>
+      <DefaultText>"Wave goodbye, everybody!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

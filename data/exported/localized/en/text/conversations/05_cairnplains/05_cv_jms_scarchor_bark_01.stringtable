@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_cairnplains\05_cv_jms_scarchor_bark_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"A coisa sobre o sangue é que é tão facilmente derramado. Permita-me demonstrar."</DefaultText>
+      <DefaultText>"The thing about [url=glossary:disfavored]Disfavored[/url] blood is that it's so easily spilled. Allow me to demonstrate."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

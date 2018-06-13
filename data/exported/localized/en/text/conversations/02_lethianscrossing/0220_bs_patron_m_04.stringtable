@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\0220_bs_patron_m_04</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Eu gostaria de um pouco de privacidade se você não se importar. Eu preciso me preparar primeiro."</DefaultText>
+      <DefaultText>"I'd like a little privacy if you don't mind. I need to prepare first."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"O que está acontecendo aqui ... Por que não continua ... Venha ... Por que ..."</DefaultText>
+      <DefaultText>"What's going on here...Why won't it go on...Come on...Why..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Não vai funcionar se você ficar aqui me observando."</DefaultText>
+      <DefaultText>"It's not going to work if you just stand here watching me."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

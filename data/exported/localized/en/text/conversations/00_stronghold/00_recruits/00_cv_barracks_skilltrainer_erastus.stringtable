@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_barracks_skilltrainer_erastus</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>20</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] protege ... suponho, de qualquer forma. Podemos treinar mais tarde."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] protects... I suppose, anyway. We can train later." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] protege, como eles dizem. Você veio para ouvir e discutir meus ensinamentos?"</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] protects, as they say. Have you come to listen and discuss my teachings?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Sim, vamos em frente."</DefaultText>
+      <DefaultText>"Yes, let's go ahead." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,49 +26,49 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Fatebinder". Ele balança a cabeça e olha para você cautelosamente. "Quando eu vim em seu auxílio, eu pensei que você tivesse mantido os melhores interesses do [url=glossary:disfavored]Disfavored[/url] no coração ... mas meu julgamento foi prejudicado antes. Vamos passar por uma lição?"</DefaultText>
+      <DefaultText>"Fatebinder." He nods and regards you warily. "When I came to your aid, I had thought you kept the best interests of the [url=glossary:disfavored]Disfavored[/url] at heart... but my judgment has been impaired before. Shall we go over a lesson?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"É seguro assumir que você está aqui para uma aula?"</DefaultText>
+      <DefaultText>"Is it safe to assume you're here for a lesson?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>O Earthshaker aperta os olhos para te fazer sair. "Ah, Fatebinder! Você não poderia ter escolhido uma melhor Spire para reivindicar. Tenho certeza que você está apenas cheio de perguntas."</DefaultText>
+      <DefaultText>The Earthshaker squints to make you out. "Ah, Fatebinder! You couldn't have picked a better Spire to claim. I'm sure you're just brimming with questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Vamos começar de maneira simples - como você chegou aqui?"</DefaultText>
+      <DefaultText>"Let's start simple - how did you get up here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Sim, como o que você está fazendo aqui?"</DefaultText>
+      <DefaultText>"Yes, like what you're doing up here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Eu tenho maneiras. Durante a guerra, [url=glossary:cairn]Cairn[/url] comunicou-me as lições secretas de pedra, e quando devidamente aproveitado ..."
+      <DefaultText>"I have ways. During the war, [url=glossary:cairn]Cairn[/url] imparted unto me the secret lessons of stone, and when properly harnessed..."
 
-Ele suspira e deixa os ombros caírem. "Eu te segui e me escondi até encontrar um momento oportuno para me apresentar." Ele olha ao redor do Pináculo. "Esconder é difícil."</DefaultText>
+He sighs and lets his shoulders slump. "I followed you up, and I've been hiding until I could find an opportune time to introduce myself." He glances around the Spire. "Hiding is difficult." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"O fato de estarmos sobre um dos grandes e antigos mistérios do mundo, compartilhando esta conversa agradável, significa que você é uma pessoa de influência e poder, e eu quero ter certeza de que seus talentos são apropriadamente aproveitados. Vamos começar? "</DefaultText>
+      <DefaultText>"The fact that we stand upon one of the great and ancient mysteries of the world, sharing this pleasant conversation, means that you are a person of influence and power, and I want to make sure that your talents are harnessed appropriately. Shall we begin?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Muito bem. Mostre-me o que você pode fazer."</DefaultText>
+      <DefaultText>"Very well. Show me what you can do."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Você não deveria estar com a legião?"</DefaultText>
+      <DefaultText>"Shouldn't you be with the legion?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,32 +78,32 @@ Ele suspira e deixa os ombros caírem. "Eu te segui e me escondi até encontrar 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Estritamente falando ... sim. Mas houve alguma confusão durante uma batalha na campanha do Azure, e eu não fui contabilizado durante a reunião de retorno. Até novo aviso, eu oficialmente morri no campo de batalha. Não é emocionante?!" Ele aperta as mãos de alegria.</DefaultText>
+      <DefaultText>"Strictly speaking... yes. But there was some confusion during a battle in the Azure campaign, and I was not accounted for during the return muster. Until further notice, I have officially died on the field of battle. Isn't it exciting?!" He wrings his hands with joy.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Passei os últimos períodos ajudando sempre que possível - cavando poços, limpando obstruções ... a tarefa ocasionalmente menos idônea de ganhar anéis suficientes para me alimentar."</DefaultText>
+      <DefaultText>"I've spent the last several spans helping out wherever possible - digging wells, clearing obstructions... the occasional less-reputable task to earn enough rings to feed myself."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Abandono do dever vai colocar você em problemas."</DefaultText>
+      <DefaultText>"Dereliction of duty is going to get you into trouble."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Ele faz um sorriso nervoso. "Talvez ... mas oh não, eu fui pego em uma avalanche e uma ferida na cabeça enorme me fez esquecer o meu posto!"</DefaultText>
+      <DefaultText>He cracks a nervous smile. "Perhaps... but oh no, I was caught in an avalanche and a massive head wound caused me to forget my rank!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Eu estou mais interessado em ajudar você a trazer esta guerra terrível para um fim, e duvido que até mesmo o Overlord iria opor-se a uma mentira sem vítimas. Giz-lo até o [url=lore:magician_folly]Magician's Folly,[/url] se você deve. Meus talentos são para a glória de [url=glossary:kyros]Kyros[/url], e Eu não posso fazer nada errado ".</DefaultText>
+      <DefaultText>"I'm more interested in helping you bring this awful war to a close, and I doubt even the Overlord would object to a victimless lie. Chalk it up to the [url=lore:magician_folly]Magician's Folly,[/url] if you must. My talents are for the glory of [url=glossary:kyros]Kyros[/url], and I can do no wrong."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Bem, sou um mago bastante talentoso - já mencionei isso? - e pensei comigo mesmo: 'Você está atirando pedras em toda essa guerra. Por que não encontrar alguém de influência e oferecer-lhes sua orientação?' Pensando no melhor uso do meu tempo, eu lentamente fiz meu caminho até aqui ". Ele sorri.</DefaultText>
+      <DefaultText>"Well, I'm a rather accomplished mage - have I mentioned that? - and I thought to myself: 'You've been hurling rocks this entire war. Why not find someone of influence and offer them your guidance.' Thinking it a better use of my time, I slowly made my way up here." He smiles.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

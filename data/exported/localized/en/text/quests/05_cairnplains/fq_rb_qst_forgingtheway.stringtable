@@ -1,122 +1,122 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\05_cairnplains\fq_rb_qst_forgingtheway</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>23</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Forjando o caminho</DefaultText>
+      <DefaultText>Forging The Way</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viajar para Stone Down.</DefaultText>
+      <DefaultText>Travel to Stone Down.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Elimine o [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <DefaultText>Eliminate the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Fale com cem-sangue.</DefaultText>
+      <DefaultText>Speak with Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Lidar com os invasores no Jagged Maw Shrine.</DefaultText>
+      <DefaultText>Deal with the trespassers at Jagged Maw Shrine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Derrote cem-sangue.</DefaultText>
+      <DefaultText>Defeat Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Retornar para cem-sangue.</DefaultText>
+      <DefaultText>Return to Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Fale com cem-sangue.</DefaultText>
+      <DefaultText>Speak with Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>A [url=glossary:stonestalker]Stonestalker[/url] tribo de Beastmen em Stone Down pode lhe dar acesso ao Howling Rock. No entanto, conseguir que seu líder, Hundred-Blood, concorde com isso será difícil.</DefaultText>
+      <DefaultText>The [url=glossary:stonestalker]Stonestalker[/url] tribe of Beastmen in Stone Down can give you access to Howling Rock. However, getting their leader, Hundred-Blood, to agree to it will be difficult.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>O [url=glossary:stonestalkers]Stonestalkers[/url] pode ser encontrado em Stone Down.</DefaultText>
+      <DefaultText>The [url=glossary:stonestalkers]Stonestalkers[/url] can be found in Stone Down.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Uma banda de [url=glossary:scarlet chorus]Scarlet Chorus[/url] fica entre você e o [url=glossary:stonestalkers]Stonestalkers[/url]. Remova a ameaça do coro.</DefaultText>
+      <DefaultText>A band of [url=glossary:scarlet chorus]Scarlet Chorus[/url] stand between you and the [url=glossary:stonestalkers]Stonestalkers[/url]. Remove the Chorus threat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Com o [url=glossary:scarlet chorus]Scarlet Chorus[/url] fora do caminho, agora você pode se encontrar com Hundred-Blood.</DefaultText>
+      <DefaultText>With the [url=glossary:scarlet chorus]Scarlet Chorus[/url] out of the way, you are now able to meet with Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Cem-sangue pediu-lhe para eliminar todos os invasores em Jagged Maw Shrine.</DefaultText>
+      <DefaultText>Hundred-Blood has asked you to eliminate all the trespassers at Jagged Maw Shrine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Você desafiou o Hundred-Blood a combater em troca do acesso ao Howling Rock e deve derrotá-lo.</DefaultText>
+      <DefaultText>You've challenged Hundred-Blood to combat in exchange for access to Howling Rock and must defeat her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Os invasores do Jagged Maw Shrine foram tratados. Retorne a Cem-Sangue em Stone Down e deixe-a saber de seu sucesso.</DefaultText>
+      <DefaultText>The trespassers at Jagged Maw Shrine have been dealt with. Return to Hundred-Blood at Stone Down and let her know of your success.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Você derrotou Hundred-Blood em combate no Stone Done. Fale com ela sobre o acesso ao Howling Rock.</DefaultText>
+      <DefaultText>You defeated Hundred-Blood in combat at Stone Done. Speak to her about gaining access to Howling Rock.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Ao descobrir que Caedis é irmão de Radix, você optou por poupar o soldado [url=glossary:disfavored]Disfavored[/url] em Jagged Maw Shrine.</DefaultText>
+      <DefaultText>Upon discovering that Caedis is Radix's brother, you opted to spare the [url=glossary:disfavored]Disfavored[/url] soldier at Jagged Maw Shrine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Você atacou os Stalkers de Pedra e não consegue mais se encontrar com Cem-Sangue. Mate todos os Beastmen em Stone Down.</DefaultText>
+      <DefaultText>You attacked the Stone Stalkers and are no longer able to meet with Hundred-Blood. Kill all the Beastmen in Stone Down.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você matou os [url=glossary:disfavored]Disfavored[/url] invasores em Jagged Maw Shrine, e em troca Hundred-Blood deu-lhe acesso ao Howling Rock.</DefaultText>
+      <DefaultText>You slew the [url=glossary:disfavored]Disfavored[/url] trespassers at Jagged Maw Shrine, and in exchange Hundred-Blood gave you access to Howling Rock.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você derrotou o Hundred-Blood em combate e ganhou acesso ao Howling Rock.</DefaultText>
+      <DefaultText>You have defeated Hundred-Blood in combat and gained access to Howling Rock.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Você eliminou a tribo [url=glossary:stonestalker]Stonestalker[/url] e abriu o caminho para Howling Rock.</DefaultText>
+      <DefaultText>You eliminated the [url=glossary:stonestalker]Stonestalker[/url] tribe and have cleared the way to Howling Rock.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Você poupou a vida dos [url=glossary:disfavored]Disfavored[/url] em Jagged Maw Shrine e mentiu para Hundred-Blood sobre como completar sua tarefa.</DefaultText>
+      <DefaultText>You spared the lives of the [url=glossary:disfavored]Disfavored[/url] at Jagged Maw Shrine and lied to Hundred-Blood about completing your task.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

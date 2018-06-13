@@ -1,59 +1,59 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\06_rb_arri_act2_skypillar</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>10</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Isso está errado ... isso é muito errado." Arri percorre o diâmetro do Pináculo, tomando cuidado para não se demorar muito perto da borda. Ela faz uma pausa quando você chama sua atenção.</DefaultText>
+      <DefaultText>"This is wrong... this is so very wrong." Arri paces the diameter of the Spire, careful not to tarry too close to the edge. She pauses when you catch her attention.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"O que você acha sobre a guerra civil - [url=glossary:disfavored]Disfavored[/url] e [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
+      <DefaultText>"What do you think about the civil war - [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <DefaultText>"Tell me about yourself."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Vou tentar descobrir esse teleporter, então."</DefaultText>
+      <DefaultText>"I'll try to figure out this teleporter, then." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Mm hm. Vá em frente." Arri acena com a cabeça e aperta os olhos fechados contra uma nova onda de vertigem.</DefaultText>
+      <DefaultText>"Mm hm. Go right ahead." Arri nods and squeezes her eyes shut against a fresh wave of vertigo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Ela suspira e desloca os pés. "Eu realmente não posso falar. Se eu não continuar me movendo, acho que vou ficar doente." Ela olha para a borda da Torre com pavor.</DefaultText>
+      <DefaultText>She sighs and shifts her feet. "I really can't talk. If I don't keep moving, I think I'll be sick." She glances at the edge of the Spire with dread. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Pelo menos os exércitos do Overlord ocuparão uns aos outros durante o tempo, ou até [url=glossary:the voices of nerat]the Voices of Nerat[/url] desmanchar sua mandíbula e comer [url=glossary:graven ashe]Graven Ashe[/url]." Ela olha para você. "Ele pode fazer isso? Não importa - eu não quero saber."
+      <DefaultText>"At least the Overlord's armies will occupy each other for the time, or until [url=glossary:the voices of nerat]the Voices of Nerat[/url] unhinges his jaw and eats [url=glossary:graven ashe]Graven Ashe[/url]." She glances at you. "Can he do that? Never mind - I don't want to know."
 
-"Minha esperança é que tenhamos mandado uma mensagem para qualquer um no Tiers que busca a liberdade de [url=glossary:kyros]Kyros[/url]. O que você fez aqui ... deve virar algumas cabeças."</DefaultText>
+"My hope is that we've sent a message to anyone in the Tiers who seeks freedom from [url=glossary:kyros]Kyros[/url]. What you've done here... it ought to turn some heads." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Fale com você em breve, Fatebinder."</DefaultText>
+      <DefaultText>"Speak to you soon, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Eu espero que você tenha um plano para nos derrubar, porque eu não aprecio isso nem um pouco."</DefaultText>
+      <DefaultText>"I hope you have a plan for getting us down, because I don't appreciate this one bit."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Eu estou bem ... eu estou bem. Nós somos quem sabe o quão alto acima de [url=glossary:vendrien's well]Vendrien's Well[/url], mas lateralmente não pode ser mais do que cem passos de minhas câmaras." Ela olha para a borda da torre e balança a cabeça.</DefaultText>
+      <DefaultText>"I'm fine... I'm fine. We're who knows how high above [url=glossary:vendrien's well]Vendrien's Well[/url], but laterally it can't be more than a hundred paces from my chambers." She glances at the edge of the Spire and shakes her head.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

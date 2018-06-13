@@ -1,64 +1,64 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_cv_elia_campsecured</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>11</EntryCount>
   <Entries>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Elia acena para você, seu rosto mostrando a sugestão de um sorriso apreciativo. "Menos do que eu esperava. Parece que a força deles ainda não chegou." Seus olhos disparam sobre os inimigos caídos, procurando por rostos familiares.
+      <DefaultText>Elia nods at you, her face showing the hint of an appreciative smile. "Less than I anticipated. It seems their full force has yet to arrive." Her eyes dart about the fallen enemies, searching for familiar faces. 
 
-"Nenhum comandante aqui. Droga." Algumas explosões de cornetas distantes perfuram o vento do sul. "Isso é provavelmente o resto. Podemos esperar muito mais do que o ataque inicial!"</DefaultText>
+"No commanders here. Damn." A few distant horn blasts pierce the wind from the south. "That's probably the rest. We can expect far more than the initial assault!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Nós não vamos sobreviver o dia se ficarmos aqui. Nossas paredes foram comprometidas, e os ventos ficam ainda mais fortes." Ela aponta para o norte, passando pelos restos torcidos do portão. "Esse é o nosso único caminho. Teodor enviou homens para segurar o ferro-velho do norte. Temos uma chance com eles, mas apenas se agirmos agora."</DefaultText>
+      <DefaultText>"We won't survive the day if we stay here. Our walls have been compromised, and the winds grow stronger still." She points north, past the twisted remains of the gate. "That's our only route. Teodor sent men to hold the northern junkyard. We have a chance with them, but only if we act now."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Incomodando. Se o [url=glossary:disfavored]Disfavored[/url] fosse enviado em assalto sem um comandante, o movimento tinha que ser uma tática de paralisação."</DefaultText>
+      <DefaultText>"Troubling. If the [url=glossary:disfavored]Disfavored[/url] were sent on assault without a commander, the move had to be a stalling tactic."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Me ajude mais uma vez, e eu vou te contar o que eu sei sobre entrar no Sentinela." Ela faz uma pausa para tocar a ponta de sua lança. "Você deve ter cuidado - nós encurralamos o terreno ao norte do acampamento. Dê um leve passo e suba para o planalto noroeste. Se derrotarmos os soldados estacionados lá, teremos uma rota de fuga clara."</DefaultText>
+      <DefaultText>"Help me one more time, and I'll tell you what I know about getting inside Sentinel Stand." She pauses to touch the tip of her spear. "You must be careful - we've trapped the terrain north of the camp. Step lightly and rally to the northwest plateau. If we defeat the soldiers stationed there, we'll have a clear escape route."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"E você e seus soldados?"</DefaultText>
+      <DefaultText>"What of you and your soldiers?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Muito bem. Eu irei agora."</DefaultText>
+      <DefaultText>"Very well. I'll go now."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Vamos enfaixar os feridos e facilitar a passagem daqueles que não podem seguir. Não estamos em condições de nos juntar a você - não depois daquele ataque."</DefaultText>
+      <DefaultText>"We'll bandage the wounded and ease the passing of those that can't follow. We're in no shape to join you - not after that attack."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Fatebinder, temos pouco tempo de sobra."</DefaultText>
+      <DefaultText>"Fatebinder, we have little time left."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Mais uma coisa, Fatebinder. Nem todos os meus homens conseguiram ficar atrás dos muros após o ataque inicial. Minha esperança é que eles estejam escondidos nos desfiladeiros do norte e ainda bem o suficiente para viajar. Se você encontrar alguém da minha tripulação, dê a eles uma chance de escapar enquanto ainda há tempo ".</DefaultText>
+      <DefaultText>"One more thing, Fatebinder.  Not all of my men made it behind the walls after the initial attack. My hope is they're hiding in the northern canyons and still well enough to travel. If you find any of my crew, give them a chance to escape while there's still time."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Reconsidere o plano. Você está fraco demais para deixar essas paredes."</DefaultText>
+      <DefaultText>"Reconsider the plan. You're too weak to leave these walls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Ela ri. "Você pode estar certo. E ainda não há como voltar atrás agora. Não para nós, de qualquer maneira. Somos uma raça teimosa. Você deve saber muito sobre o [url=glossary:unbroken]Unbroken[/url] já."</DefaultText>
+      <DefaultText>She chuckles. "You may be right. And yet there's no turning back now. Not for us, anyway. We're a stubborn breed. You should know that much about the [url=glossary:unbroken]Unbroken[/url] already." </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

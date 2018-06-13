@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>111111111111111111111111111111 a partir de 1.</DefaultText>
+      <DefaultText>[url=glossary:armor]Armor[/url] nunca pode reduzir o dano abaixo de 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Os títulos são criados a partir de sigilos principais e de expressão. Os sigilos determinam o tipo de magia (toque, aura, etc.).</DefaultText>
+      <DefaultText>Feitiços são criados a partir de sigilos principais e de expressão. Os sigilos principais determinam o tipo de magia (fogo, cura, etc.) enquanto sigilos de expressão determinam a forma (toque, aura, parafuso, etc.).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Mantenha pressionada a tecla TAB para destacar personagens e fazeres importantes com o que você pode interagir.</DefaultText>
+      <DefaultText>Mantenha pressionada a tecla TAB para destacar personagens e objetos importantes com os quais você pode interagir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Passe o mouse sobre o círculo de seleção de um link para ver suas defesas. Clique no botão direito para bloquear uma janela de informações no lugar.</DefaultText>
+      <DefaultText>Passe o mouse sobre o círculo de seleção de um inimigo para ver suas defesas. Clique com o botão direito para bloquear a janela de informações no lugar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Os personagens podem ser direcionados ou programados com o botão esquerdo no círculo de seleção de seus pés.</DefaultText>
+      <DefaultText>Os personagens podem ser direcionados ou selecionados clicando com o botão esquerdo no círculo de seleção a seus pés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,17 +41,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Use um consumível em jogos de aventura instantaneamente e não envie seu personagem para uma recuperação. Uma vez que um consumível é usado, todos os consumíveis estão em cooldown por um curto período.</DefaultText>
+      <DefaultText>Usar um consumível em combate acontece instantaneamente e não envia seu personagem para a recuperação. Uma vez que um consumível é usado, todos os consumíveis estão em cooldown por um curto período.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Todos os membros da festa começam com quatro slots Quick Item para consumíveis. Estes podem ser aumentados com o talento Bandoleiro na Árvore de Liderança.</DefaultText>
+      <DefaultText>Todos os membros da party começam com quatro slots Quick Item para consumíveis. Estes podem ser aumentados com o talento Bandolier na Árvore de Liderança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>As habilidades ganham podem ser usadas e aumentadas com a realização de suas funções.</DefaultText>
+      <DefaultText>As habilidades ganham experiência à medida que são usadas e aumentam sua classificação com experiência suficiente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,97 +61,97 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Uma habilidade pode ser usada para escutar personagens em conversas.</DefaultText>
+      <DefaultText>A habilidade [url=glossary:subterfuge]Subterfuge[/url] pode ser usada para blefar ou enganar personagens em conversas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Uma habilidade pode impressionar personagens em conversas com seu conhecimento ou insight.</DefaultText>
+      <DefaultText>A habilidade [url=glossary:lore]Lore[/url] pode ser usada para impressionar personagens em conversas com seu conhecimento ou insight.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Ative o modo [url=glossary:scouting]Scouting[/url] para obter um bônus para detectar contêineres ou armadilhas ocultas.</DefaultText>
+      <DefaultText>Ative o modo [url=glossary:scouting]Scouting[/url] para ganhar um bônus para detectar contêineres ou armadilhas ocultas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Use uma barra de espaço para pausar e despausar o jogo durante o jogo de cartas para os membros do grupo e analisar sua estratégia.</DefaultText>
+      <DefaultText>Use a Barra de Espaço para pausar e despausar o jogo durante o combate para emitir ordens para os membros do seu grupo e avaliar sua estratégia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Passe o mouse sobre o círculo de seleção de um inimigo para ver sua chance de acertar seu ataque ou habilidade.</DefaultText>
+      <DefaultText>Passe o mouse sobre o círculo de seleção de um inimigo para ver sua chance de acertar seu próximo ataque ou habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Manoplas mudam como dano de ataque desarmado seus personagens farão.</DefaultText>
+      <DefaultText>Manoplas mudam quanto dano de ataque desarmado seus personagens farão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Os personagens são feridos quando são mais sensíveis que eles são nocauteados. [url=glossary:wounds]Wounds[/url] estão em um plano de resposta.</DefaultText>
+      <DefaultText>Os personagens ficam feridos quando a sua saúde é reduzida significativamente ou eles são nocauteados. [url=glossary:wounds]Wounds[/url] são limpos quando um personagem ganha um novo nível ou a parte descansa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Segue SHIFT para vários comandos para um membro do grupo. Eles execute seus comandos na ordem em que você os emitiu.</DefaultText>
+      <DefaultText>Segure SHIFT para emitir vários comandos para um membro do grupo. Eles executarão seus comandos na ordem em que você os emitiu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Outras séries são permitidas que os membros do grupo realizam várias vezes com ataques básicos.</DefaultText>
+      <DefaultText>Algumas habilidades permitem que os membros do grupo ataquem várias vezes com ataques básicos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Com cada nível, você ganha, você pode aumentar e comprar um novo talento.</DefaultText>
+      <DefaultText>Com cada nível que seu personagem ganha, você pode aumentar um atributo e comprar um novo talento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Mantenha pressionada a tecla 'M' para maximizar a janela Mini-mapa / Log de Combate.</DefaultText>
+      <DefaultText>Mantenha pressionada a tecla 'M' para maximizar a janela Mini-map / Combat Log.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>O Combat Log fornece informações sobre suas jogadas de ataque, defesas inimigas e Aflições dispensadas por habilidades.</DefaultText>
+      <DefaultText>O Combat Log fornece informações detalhadas sobre suas jogadas de ataque, defesas inimigas e Aflições aplicadas por habilidades.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>As habilidades de Companion Combo podem ser executadas em um companheiro de trabalho em conjunto para um efeito devastador.</DefaultText>
+      <DefaultText>As habilidades de Companion Combo permitem que seu personagem e um Companion trabalhem em conjunto para causar um efeito devastador.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Afastando-se de um inimigo que esteja envolvido, você poderá fazer uma Ataque de Desengajamento livre.</DefaultText>
+      <DefaultText>Afastando-se de um inimigo que esteja envolvido, você ativará um Ataque de Desengajamento livre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Uma alta habilidade é [url=glossary:lore]Lore[/url] é necessária para criar as combinações de magia mais poderosas.</DefaultText>
+      <DefaultText>Uma alta habilidade [url=glossary:lore]Lore[/url] é necessária para criar as combinações de magia mais poderosas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Sigilos de feitiços podem ser encontrados em todo o mundo de Terratus. Colete os sigilos para a potência.</DefaultText>
+      <DefaultText>Sigilos de feitiços podem ser encontrados em todo o mundo de Terratus. Colete esses sigilos para construir poderosos ataques mágicos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Ao usar uma área de experiência ou feitiço, direcione uma a uma criança para que seja capaz de rastrear sua posição. "Alves mais movimento atingindo alvos em movimento"</DefaultText>
+      <DefaultText>Ao usar uma área de habilidade de efeito ou feitiço, direcione um inimigo diretamente para que a habilidade rastreie sua posição. Isso torna mais fácil atingir alvos em movimento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>The biggest inheritance of the Banque cause large amount of damage Arcano. Suas definições não são tão bem contra elas.</DefaultText>
+      <DefaultText>Ao contrário da maioria dos inimigos, Bane causa grandes quantidades de dano Arcano. Suas defesas normais não funcionam tão bem contra elas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Diferentes nomes são criativos e diferentes tipos de dano. Identificar as suas fraquezas em uma uma batalha.</DefaultText>
+      <DefaultText>Diferentes inimigos são suscetíveis a diferentes tipos de dano. Identificar suas fraquezas lhe dará uma vantagem na batalha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Os personagens ficam feridos quando são nocauteados. Na chance Caminho do Condenado, os personagens também se tornaram Feridos quando sua saúde é significativa. [url=glossary:wounds]Wounds[/url] estão em um plano de resposta.</DefaultText>
+      <DefaultText>Personagens ficam feridos quando são nocauteados. Na dificuldade Caminho do Condenado, os personagens também se tornam Feridos quando sua saúde é significativamente reduzida. [url=glossary:wounds]Wounds[/url] são limpos quando um personagem ganha um novo nível ou a parte descansa.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

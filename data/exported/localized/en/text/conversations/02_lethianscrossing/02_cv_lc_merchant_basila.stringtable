@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_basila</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>15</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bom dia para você! Posso te interessar em todos os tipos de provisões? Quem sabe o que você vai correr fora de [url=glossary:lethian's crossing]Lethian's Crossing[/url]?"</DefaultText>
+      <DefaultText>"Good day to you! Might I interest you in all manner of provisions? Who knows what you'll run into outside of [url=glossary:lethian's crossing]Lethian's Crossing[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,62 +21,62 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Ela faz um movimento para você. "Tenho certeza que podemos encontrar algo que você precisa ..."</DefaultText>
+      <DefaultText>She motions you over. "I'm sure we can find something you need..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"O que você pode me dizer sobre o Gino?"</DefaultText>
+      <DefaultText>"What can you tell me about Gino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Não muito, na verdade. Ele está agindo por algum tempo agora. Algumas pessoas disseram que ele fez um acordo com a autoridade local para que sua concorrência desaparecesse!"</DefaultText>
+      <DefaultText>"Not much, really. He's been acting on edge for a while now. Some people have said he cut a deal with the local authority to have his competition disappear!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Quem lhe disse que Gino fez um acordo com as autoridades?"</DefaultText>
+      <DefaultText>"Who told you Gino cut a deal with the authorities?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Eu acho que Helina me disse. Ela pode saber mais sobre isso."</DefaultText>
+      <DefaultText>"I think Helina told me. She might know more about it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Por que Gino quer se livrar da competição?"</DefaultText>
+      <DefaultText>"Why would Gino want to get rid of the competition?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Os tempos têm sido difíceis desde [url=glossary:lethian's crossing]Lethian's Crossing[/url] tornou-se um assentamento ocupado. Muitos comerciantes vão usar qualquer meio que puder para obter uma vantagem sobre a concorrência, mas trabalhando com a guarnição local para tirar seus colegas comerciantes é contra tudo que nós Tiersmen significa."</DefaultText>
+      <DefaultText>"Times have been tough all around since [url=glossary:lethian's crossing]Lethian's Crossing[/url] became an occupied settlement. A lot of merchants will use any means they can to get a leg up on the competition, but working with the local garrison to take out your fellow merchants is against everything we Tiersmen stand for."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Você poderia me dizer alguma coisa sobre este selo? Eu encontrei em [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
+      <DefaultText>"Could you tell me anything about this seal? I found it in [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Basila olha para o selo por alguns instantes e balança a cabeça. "Não posso dizer que reconhecê-lo, mas eu realmente não entrar em assuntos fora do [url=glossary:lethian's crossing]Lethian's Crossing[/url] a menos que eu preciso. Harchiand Bronze poderia, no entanto. Ele parece estar bem-viajou."</DefaultText>
+      <DefaultText>Basila looks at the seal for a few moments and shakes her head. "Can't say I recognize it, but I don't really get into affairs outside of [url=glossary:lethian's crossing]Lethian's Crossing[/url] unless I have to. Harchiand Bronze might, though. He seems to be well-traveled."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Oh, é você, Fatebinder!" Seu rosto assume um olhar momentâneo de consternação, mas ela rapidamente se recupera. "Depois de sua decisão de promulgar um negócio, o negócio tem sido ... digamos, 'esporádico'?" Ela sorri pálida. "Então é sempre bom ter algum negócio! Existe algo que eu possa conseguir para você?"</DefaultText>
+      <DefaultText>"Oh, it's you, Fatebinder!" Her face takes on a momentary look of dismay but she quickly recovers. "After your decision to enact an [url=glossary:edict]Edict[/url] on [url=glossary:lethian's crossing]Lethian's Crossing[/url], business has been... shall we say 'sporadic?'" She smiles wanly. "So it is always good to have some business! Is there anything I can get for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>O rosto dela ilumina e ela sorri "Fatebinder! Que surpresa maravilhosa! Não é todo dia que um dos meus clientes é alguém cujo poder rivaliza com o de [url=glossary:kyros]Kyros[/url]! Por favor, me diga - há algo que eu possa fazer por você!"</DefaultText>
+      <DefaultText>Her face brightens and she smiles "Fatebinder! What a wonderful surprise! It's not every day one of my customers is someone whose power rivals that of even [url=glossary:kyros]Kyros[/url]! Please, tell me - is there anything I can get for you!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Saudações, Fatebinder. Venha e dê uma olhada nos meus produtos."</DefaultText>
+      <DefaultText>"Greetings, Fatebinder. Come and have a look at my wares."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\0105_cv_osmios_attack</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Osmios empurra as paredes de paliçada lascadas, gritando para seus homens. "Avante, avance! Matar Agathon e o Fatebinder ambos!"</DefaultText>
+      <DefaultText>Osmios pushes through the splintered palisade walls, shouting at his men. "Forward, press forward! Kill Agathon and the Fatebinder both!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

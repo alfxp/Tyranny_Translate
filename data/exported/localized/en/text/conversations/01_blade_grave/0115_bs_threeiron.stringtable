@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\0115_bs_threeiron</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Você fez bem. Ter Amélia e Sentinela sob nosso controle é uma grande vitória."</DefaultText>
+      <DefaultText>"You've done well. Having Amelia and Sentinel Stand under our control is a great victory."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Matar Straydus!"</DefaultText>
+      <DefaultText>"Kill Straydus!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"O [url=glossary:edict]Edict[/url] não terminou. Temos sorte."</DefaultText>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] has not ended. We are fortunate."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

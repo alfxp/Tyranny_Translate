@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\factionquestlines\tunon\fq_tn_cv_heraldnunoval_confrontation</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>2</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[Nome do jogador]." Sua expressão é sombria. "Nas ordens de [url=glossary:tunon]Tunon[/url], eu tenho espalhado a palavra de sua traição ao longo dos Tiers - você não terá nenhum lugar para se esconder."</DefaultText>
+      <DefaultText>"[Player Name]." His expression is grim. "On [url=glossary:tunon]Tunon[/url]'s orders, I've been spreading word of your treachery throughout the Tiers - you won't have any place left to hide."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Você não terá a chance de se esconder - [url=glossary:tunon]Tunon[/url] também nos deu permissão para matá-lo, caso encontrássemos você. Você não vai sair daqui vivo."</DefaultText>
+      <DefaultText>"Not you'll get a chance to hide - [url=glossary:tunon]Tunon[/url] also gave us permission to kill you should we find you. You're not leaving here alive."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

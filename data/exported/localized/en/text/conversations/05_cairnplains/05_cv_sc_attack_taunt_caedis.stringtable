@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_cairnplains\05_cv_sc_attack_taunt_caedis</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Como você se atreve, Fatebinder! Eu nunca vou deixar você alcançar [url=glossary:cairn]Cairn[/url]!"</DefaultText>
+      <DefaultText>"How dare you, Fatebinder! I'll never let you reach [url=glossary:cairn]Cairn[/url]!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Engraçado. Isso é o que Caedis disse logo antes de eu matá-lo. Sua versão envolvia mais maldições, no entanto."</DefaultText>
+      <DefaultText>"Funny. That's what Caedis said right before I killed him. His version involved more cursing, though."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,19 +21,19 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>O músculo na mandíbula de Radix corre enquanto ele luta para controlar sua raiva. Como um soldado disciplinado em batalha, ele não é um a perder-se, mas ele aperta o poste de sua equipe com tanta força que suas juntas branqueiam de branco.
+      <DefaultText>The muscle in Radix's jaw ticks as he fights to control his anger. As a battle-disciplined soldier, he's not one to lose himself, yet he grips the pole of his staff so tightly that his knuckles blanch white.
 
-"Você mente", ele range os dentes cerrados.</DefaultText>
+"You lie," he grits through clenched teeth.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>O Earthshaker libera um rugido de angústia quando ele empurra sua equipe para o alto, atacando de forma imprudente, e estranhamente rápido - jogado à beira da loucura por sua fúria esmagadora.</DefaultText>
+      <DefaultText>The Earthshaker releases a roar of anguish as he jerks his staff into the air, attacking recklessly, and unnaturally fast - thrown to the brink of madness by his overwhelming fury. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Eu vim para matar seu Arconte. Fora do meu caminho, Earthshaker."</DefaultText>
+      <DefaultText>"I've come to slay your Archon. Out of my way, Earthshaker."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,40 +43,40 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Você se atreve a questionar a integridade de um Fatebinder?"</DefaultText>
+      <DefaultText>"You dare to question a Fatebinder's integrity?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Como se eu fosse deixar você!" Ele bate o cabo de sua equipe no chão e uma fenda se divide a seus pés.
+      <DefaultText>"As if I would let you!" He slams the hilt of his staff into the ground and a crevice splits at his feet.
 
-"Venha, Fatebinder, e eu vou lhe mostrar o local do seu túmulo."</DefaultText>
+"Come, Fatebinder, and I will show you the site of your grave."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Eu e o [url=glossary:stonestalkers]Stonestalkers[/url] estão tomando de volta [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <DefaultText>"Me and the [url=glossary:stonestalkers]Stonestalkers[/url] are taking back [url=glossary:cairn]Cairn[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Ele bate o cabo de sua equipe no chão e uma fenda se divide a seus pés.
+      <DefaultText>He slams the hilt of his staff into the ground and a crevice splits at his feet.
 
-"Venha, Fatebinder, e eu vou lhe mostrar o local do seu túmulo."</DefaultText>
+"Come, Fatebinder, and I will show you the site of your grave."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Não posso dizer que me importo com [url=glossary:cairn]Cairn[/url], mas qualquer motivo é ótimo para matar gritadores". O oficial clicca para a frente, a espada levantada, pronta para atacar.
+      <DefaultText>"Can't say I give a shit about [url=glossary:cairn]Cairn[/url], but any reason's a fine one for slaying screamers." The [url=glossary:disfavored]Disfavored[/url] officer clanks forward, sword hefted, ready to strike.
 
-Ele olha uma vez, brevemente, para Radix antes de se lançar em sua direção no ataque. "Se importa que você não morra, irmão meu!"</DefaultText>
+He glances once, briefly, to Radix before lunging toward you in attack. "Mind that you don't die, brother of mine!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Não posso dizer que me importo com [url=glossary:cairn]Cairn[/url], mas qualquer motivo é ótimo para esfolar Feras." O oficial clicca para a frente, a espada levantada, pronta para atacar.
+      <DefaultText>"Can't say I give a shit about [url=glossary:cairn]Cairn[/url], but any reason's a fine one for skinning Beasts." The [url=glossary:disfavored]Disfavored[/url] officer clanks forward, sword hefted, ready to strike.
 
-Ele olha uma vez, brevemente, para Radix antes de se lançar em sua direção no ataque. "Se importa que você não morra, irmão meu!"</DefaultText>
+He glances once, briefly, to Radix before lunging toward you in attack. "Mind that you don't die, brother of mine!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

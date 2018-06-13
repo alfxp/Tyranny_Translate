@@ -1,32 +1,32 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_bs_forgebound_rustcanyons</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] trará ordem a este reino selvagem. Eu sei disso."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] will bring order to this savage realm. I know it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Os Tiersmen são tolos para negar [url=glossary:kyros]Kyros[/url]" Paz ".</DefaultText>
+      <DefaultText>"The Tiersmen are fools to deny [url=glossary:kyros]Kyros[/url]' Peace."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"De que outra forma podemos subjugar essa fronteira sem lei, mas através do abate?"</DefaultText>
+      <DefaultText>"How else can we subdue this lawless frontier but through slaughter?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Nó do banco 6</DefaultText>
+      <DefaultText>Bank Node 6</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Esta não é a minha luta. Estou aqui apenas para consertar armaduras."</DefaultText>
+      <DefaultText>"This isn't my fight. I'm just here to mend armor." </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

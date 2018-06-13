@@ -2,7 +2,7 @@
 <StringTableFile>
   <Name>conversations\vx1_11_barik\vx1_11_cv_lohara</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>362</EntryCount>
+  <EntryCount>363</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1833,6 +1833,11 @@ O fragmento se solta, com fios de sangue sangrentos pendendo dele.</DefaultText>
     <Entry>
       <ID>376</ID>
       <DefaultText>O [url=glossary:forge-bound]Forge-Bound[/url] acena, franzindo a testa em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Por que você nos trouxe aqui, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

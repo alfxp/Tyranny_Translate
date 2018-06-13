@@ -2,7 +2,7 @@
 <StringTableFile>
   <Name>conversations\vx1\vx1_09_cv_mell</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>303</EntryCount>
+  <EntryCount>305</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"O que Wagstaff e Jaspos discutem?"</DefaultText>
+      <DefaultText>"Com o que Wagstaff e Jaspos discutem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -722,7 +722,7 @@ Vários outros homens e mulheres observam dos níveis superiores, ofegando e mur
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Compartilho a convicção de Lexeme - que a Reef-Talon não pretendia deixar ninguém sem dormir - Lexeme formulou a hipótese de que era um efeito colateral não intencional de um místico inexperiente, destreinado ... o que significa que essas coisas poderiam ser corrigidas com treinamento."
+      <DefaultText>"Eu compartilho a convicção de Lexema - que Reef-Talon não tinha a intenção de fazer qualquer um Sleepless - Lexema hipótese de que era um efeito colateral não intencional de um místico inexperientes, sem treinamento ... significado, tais coisas poderiam ser corrigidos com o treinamento."
 
 "Eu sei que Lexeme estava escrevendo sobre esse assunto antes que ela ... parasse de ser capaz de escrever. Se você puder encontrar seu cadáver lá embaixo, não posso imaginar o Bane comendo suas anotações ..."</DefaultText>
       <FemaleText />
@@ -1525,6 +1525,16 @@ Vários outros homens e mulheres observam dos níveis superiores, ofegando e mur
     <Entry>
       <ID>345</ID>
       <DefaultText>"Eu ... eu não ouvi isso. Nenhuma menção a isso em tudo o que eu li sobre o Overlord ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Sua mente estava diminuindo, e eu sei que ela estava obcecada em ter certeza de que tudo o que ela levava do [url=glossary:vellum citadel]Vellum Citadel[/url] estava escondido e seguro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Ela e eu escondemos um desses esconderijos na fazenda, os outros são, eu presumo, mais fundo nos Oldwalls. Lexeme conhecia um velho truque que esconde os esconderijos, fazendo-os desaparecer da vista a menos que outro Cronista esteja perto. Quando sua magia começou a desvanecer-se, ela fez uma corrida para esconder as coisas, mas além do único esconderijo na fazenda, só ela sabe onde fica o resto ".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

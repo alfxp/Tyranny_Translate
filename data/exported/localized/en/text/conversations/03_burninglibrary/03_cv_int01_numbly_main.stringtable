@@ -1,26 +1,26 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_burninglibrary\03_cv_int01_numbly_main</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Numbly sorri quando você se aproxima, sua grande estrutura salpicada de sangue. "Sua artimanha funcionou! Esse é um grupo a menos para lidar."
+      <DefaultText>Numbly smiles as you approach, his large frame splattered with blood. "Your ruse worked! That's one less group to deal with."
 
-Ele cruza os braços sobre o peito. "Agora ... sobre você."</DefaultText>
+He folds his arms across his chest. "Now...about you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Sério? Depois de tudo isso? Você realmente quer ir por esse caminho?"</DefaultText>
+      <DefaultText>"Seriously? After all this? Do you really want to go down that road?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Desde que você me ajudou, eu vou te ajudar."
+      <DefaultText>"Since you helped me, I'll help you."
 
-"Você tem duas opções - você pode deixar a biblioteca agora ou você pode morrer. Porque você não está dando outro passo enquanto eu ainda vivo."</DefaultText>
+"You have two options - you can leave the library now or you can die. Because you are not taking another step while I still live."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -30,7 +30,7 @@ Ele cruza os braços sobre o peito. "Agora ... sobre você."</DefaultText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Nó de script 51</DefaultText>
+      <DefaultText>Script Node 51</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_burninglibrary\0301_bs_chorus_guards_ruins</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ninguém entra nas ruínas sem a permissão do Censor."</DefaultText>
+      <DefaultText>"No one enters the ruins without the Censor's permission."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"O jogo nunca vai bem. Você está melhor do lado de fora."</DefaultText>
+      <DefaultText>"The game never goes well. You're better off outside."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Vá em frente, Fatebinder. E cuide das suas costas."</DefaultText>
+      <DefaultText>"Go on in, Fatebinder. And watch your back."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"É a sua sepultura. Vá em frente."</DefaultText>
+      <DefaultText>"It's your grave. Go ahead."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Maric liderou um ataque recentemente. Não foi bem para ele."</DefaultText>
+      <DefaultText>"Maric led a raid recently. Didn't go well for him."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Os Sábios são muito espertos. Eles nunca ficam em um lugar por muito tempo."</DefaultText>
+      <DefaultText>"The Sages are a crafty lot. They never stay in one place for too long."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"O que você acha, Fatebinder? Enigmas para os Sábios, ou apenas colares?</DefaultText>
+      <DefaultText>"What do you think, Fatebinder? Muzzles for the Sages, or just collars?</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

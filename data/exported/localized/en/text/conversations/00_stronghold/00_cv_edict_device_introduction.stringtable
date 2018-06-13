@@ -1,44 +1,44 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_cv_edict_device_introduction</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>204</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Em uma inspeção mais próxima, uma série de símbolos esculpidos em torno da base da estrutura entram em vista.
+      <DefaultText>On closer inspection, a series of symbols carved around the base of the structure come into view.
 
-Um símbolo pulsa com um brilho azul-branco. O padrão se assemelha às linhas brilhantes de luz vistas no chão de momentos antes de você se ver transportado acima das nuvens.</DefaultText>
+One symbol pulses with a blue-white glow. The pattern resembles the glowing lines of light seen on the floor of [url=glossary:ascension hall]Ascension Hall[/url] moments before you found yourself transported above the clouds.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Ao olhar para o símbolo, o frio do vento diminui e seu peito se enche de calor. O ar finalmente parece acolhedor, seus pulmões finalmente saciados.</DefaultText>
+      <DefaultText>As you stare at the symbol, the chill of the wind abates and your chest swells with warmth. The air finally feels welcoming, your lungs sated at last.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Eu tomaria cuidado em ir mais perto. Esta torre inteira está zumbindo com energias que nós não entendemos." Lantry segura sua pena sobre uma folha de pergaminho antecipadamente. "Agora ... eu não disse de volta ... vamos descobrir o que isso faz! Apenas seja cauteloso."</DefaultText>
+      <DefaultText>"I'd be careful going any closer. This whole tower is humming with energies that we don't understand." Lantry holds his quill poised above a sheet of parchment with anticipation. "Now... I didn't say back away... let's find out what it does! Just be cautious."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Você apostou sua reivindicação na torre e tudo nele. Qualquer que seja aquela escultura, pertence a você."</DefaultText>
+      <DefaultText>"You staked your claim on the tower and everything in it. Whatever that sculpture is, it belongs to you." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Eu posso sentir o poder correndo por este lugar ..." Eb examina os arredores, seu olhar varrendo o objeto no centro, "você pode sentir a magia do Pináculo mesmo de baixo ... mas aqui em cima, tão perto para o eixo do Pináculo, o dilúvio de energia é entorpecedor ".</DefaultText>
+      <DefaultText>"I can feel power running through this place..." Eb surveys the surroundings, her gaze sweeping to the object at the center, "you can sense the magic of the Spire even from down below... but up here, this close to the axis of the Spire, the deluge of energy is numbing."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Eu me sinto tonta. Você se sente tonta?" Barik massageia a testa de seu capacete, fazendo com que um uivo de ferro triturador ecoasse pela extensão.</DefaultText>
+      <DefaultText>"I feel dizzy. Do you feel dizzy?" Barik massages the brow of his helmet, causing a howl of grinding iron to echo across the expanse. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"O que é esta coisa?"</DefaultText>
+      <DefaultText>"What is this thing?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,66 +48,66 @@ Um símbolo pulsa com um brilho azul-branco. O padrão se assemelha às linhas b
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Nó do banco 24</DefaultText>
+      <DefaultText>Bank Node 24</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>A superfície do edifício de pedra treme com suas palavras. Por um breve momento, a rocha sólida ondula, o mesmo movimento de um lago silencioso ondulado pela chuva. Um eco volta de longe, sua voz distorcida e desconhecida.
+      <DefaultText>The surface of the stone edifice trembles at your words. For a brief moment, the solid rock undulates, the same motion as a quiet pond rippled by rain. An echo bounces back from afar, your voice distorted and unfamiliar. 
 
-"... é essa coisa ..."</DefaultText>
+"...is this thing..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>A pedra é lisa e fria ao toque. Padrões de marmorear movem-se com as curvas da escultura, parecendo mais semelhantes às veias do que às imperfeições da rocha. Você não pode encontrar uma única marcação para sugerir uma ferramenta de artesão.
+      <DefaultText>The stone is smooth and cool to the touch. Marbling patterns move with the curves of the sculpture, looking more akin to veins than imperfections of rock. You can't find a single marking to suggest an artisan's tool. 
 
-Quando você está prestes a puxar o dedo para fora, você sente uma pressão de retorno repentina na ponta do dedo quando a escultura o toca de volta.</DefaultText>
+As you are about to draw your finger away, you feel a sudden return pressure on your fingertip as the sculpture touches you back. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>A escultura está mais uma vez parada.
+      <DefaultText>The sculpture is once again still.
 
-Há um calor acelerado em seu corpo, um choque de enervação que estabiliza seu equilíbrio. Uma enxurrada de sensações táteis inunda sua mente à medida que você SENTE pegadas e ventos, mas não em seu rosto ou membros. Um momento depois, o fluxo de informações começa a fazer sentido - você está sentindo o vento contra o Pináculo e até o peso de seus próprios pés, como se o Pináculo fosse uma segunda coluna.</DefaultText>
+There is a rush warmth through your body, a jolt of enervation that steadies your balance. A barrage of tactile sensation floods your mind as you FEEL footsteps and wind, but not on your face or your limbs. A moment later, the flood of information begins to make sense - you are feeling the wind against the Spire, and even the weight of your own feet, as if the Spire were a second spine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>O vínculo entre você e o Spire recua. A ligação arcana ainda está presente, mas as energias místicas, no momento, são silenciosas.
+      <DefaultText>The link between you and the Spire recedes. The arcane bond is still present, but the mystical energies, for the moment, are quiet.
 
-Seu corpo inundado de excitação e cansaço, não está claro se a conexão mística está fortalecendo você ou sugando - a torre não oferece nada como resposta, e você sabe que pedir só produziria mais silêncio e mistério.</DefaultText>
+Your body flooded with excitement and fatigue, it's unclear whether the mystic connection is strengthening you or siphoning - the tower offers nothing by way of answer, and you know that asking would only yield more silence and mystery.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Sua voz ... por um momento, soou como música."</DefaultText>
+      <DefaultText>"Your voice... for a moment there, it sounded like song." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Apesar de qualquer dúvida, a curiosidade leva a melhor sobre você. Algo sobre a escultura desafia qualquer possibilidade de ignorá-la.</DefaultText>
+      <DefaultText>In spite of any misgivings, curiosity gets the better of you. Something about the sculpture defies any possibility of ignoring it. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Você vê uma espira erguendo-se de um terreno escarpado e maltratado de pedra abatida. A terra é alugada e ferida, como se atacada por um par de garras enormes.</DefaultText>
+      <DefaultText>You see a Spire rising from a craggy, pitted terrain of upset stone. The land is rent and wounded, as if attacked by a pair of massive claws. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Você vê um pináculo no cruzamento de uma antiga estrutura de pedra - duas paredes se estendendo para longe.
+      <DefaultText>You see a Spire at the crossing of an ancient, stone structure - two walls extending off into the distance. 
 
-Na base dessa espiral eterna, colonos e mercadores agem de todo modo despreocupados, labutando sob a observação de implacáveis ​​mestres de tarefas. Quando a sombra do Pináculo cai sobre eles, o humor muda. Os colonos param em desconforto compartilhado e olham para o céu.
+At the base of this eternal spire, settlers and merchants act in every way unconcerned, toiling under the observation of unforgiving taskmasters. As the shadow of the Spire falls over them, the mood changes. The settlers pause in shared unease, and look up at the sky.
 
-Em sua direção.</DefaultText>
+Toward you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Você vê uma espira erguendo-se sobre uma terra devastada. As armadilhas de uma civilização outrora poderosa estão em ruínas, a própria terra contorcida sob o impulso de fortes ventos.
+      <DefaultText>You see a Spire rising over a blasted land. The trappings of a once-mighty civilization lie in ruins, the land itself contorted under the push of mighty winds. 
 
-Uma tempestade de grande poder rasga a região, enchendo o ar com uma nuvem sufocante de ferrugem e detritos.</DefaultText>
+A storm of great power tears across the region, filling the air with a strangling cloud of rust and debris.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,23 +122,23 @@ Uma tempestade de grande poder rasga a região, enchendo o ar com uma nuvem sufo
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Dentro do antigo pináculo, as sombras se alongam mais do que deveriam. Os pêlos do seu corpo se arrepiam com uma onda de consciência. Existe poder aqui.
+      <DefaultText>Inside the ancient spire, shadows stretch longer than they should. The hairs on your body prickle with a rush of awareness. There is power here.
 
-Localizadas no chão, pedras preciosas brilhantes formam uma estranha runa, apesar de machucar seus olhos para traçar sua borda letal.</DefaultText>
+Set in the ground, glowing gems form a strange rune, though it hurts your eyes to trace its lethal edge. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Você percebe uma consciência distante no colosso - uma fome meio louca e agonizante que se sente sem emoção e sabe sem conhecimento.
+      <DefaultText>You sense a distant awareness in the colossus - a half-mad, agonized hunger that feels without emotion and knows without knowledge. 
 
-Os cowleds se reúnem ao redor do cadáver e começam a cantar palavras de ritual. Quando as primeiras sílabas arcanas inflamam o ar, o cadáver se agita ao despertar. Muito fraco para se mover, ele volta sua atenção para você, e você pode sentir os olhos da montanha espiando pela sua carne.</DefaultText>
+The cowled ones assemble around the corpse and begin to chant words of ritual. As the first arcane syllables ignite the air, the corpse stirs in awakening. Too weak to move, it turns its attention toward you, and you can feel the mountain's eyes peering through your flesh.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Com um puxão suave, o foco recua para um novo horizonte, embora leve um momento para reconhecê-lo como [url=glossary:vendrien's well]Vendrien's Well[/url].
+      <DefaultText>With a gentle tug, your focus pulls back to a new horizon, though it takes you a moment to recognize it as [url=glossary:vendrien's well]Vendrien's Well[/url]. 
 
-Você voltou à consciência do seu entorno imediato. O efeito deixa você instável em seus pés.</DefaultText>
+You've returned to the awareness of your immediate surroundings. The effect leaves you unsteady on your feet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,49 +153,49 @@ Você voltou à consciência do seu entorno imediato. O efeito deixa você inst�
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>As sombras envolvem você, silenciando todo o som e a visão com um ligeiro atraso. Há um sentimento de perversão, de erro - qualquer poder arcano que esteja permitindo que seus sentidos se desviem do seu corpo parece vacilar neste lugar.
+      <DefaultText>Shadows envelop you, muting all sound and vision with slight delay. There is a feeling of perversion, of wrongness - whatever arcane power is allowing your senses to drift free of your body seems to falter in this place. 
 
-Figuras assombram os salões de pedra - emanações flutuantes de nuvens, garras e presas. Eles não lhe dão atenção, mas você teme todos da mesma maneira.
+Figures haunt the stone halls - drifting emanations of cloud, claw, and fang. They pay you no heed, but you fear them all the same. 
 
-Nas profundezas deste lugar proibido, a câmara mais profunda é banhada de luz. Um símbolo arcano ilumina o chão, embora os detalhes machuquem seus olhos quando você se concentra.</DefaultText>
+In the depths of this forbidden place, the deepest chamber is bathed in light. An arcane symbol illuminates the floor, though the details hurt your eyes when you focus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>A abertura parece uma ferida, um abscesso infectado - um erro que não pode ser corrigido. Quando você olha mais fundo, sua pele se arrepia com uma sensação de violação fantasma.
+      <DefaultText>The opening feels like a wound, an infected abscess - a wrongness that cannot be righted. As you look deeper, your skin prickles with a feeling of phantom violation. 
 
-Figuras de fumaça, sombra e garra acompanham a caverna Oldwalls com fome incansável. Essa ficção da sua presença é um aborrecimento para eles - nada mais.</DefaultText>
+Figures of smoke, shadow and claw pace the cavernous Oldwalls with tireless hunger. This fiction of your presence is an annoyance to them - nothing more.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Com um puxão suave, o foco recua para um novo horizonte, embora leve um momento para reconhecê-lo como [url=glossary:vendrien's well]Vendrien's Well[/url].
+      <DefaultText>With a gentle tug, your focus pulls back to a new horizon, though it takes you a moment to recognize it as [url=glossary:vendrien's well]Vendrien's Well[/url]. 
 
-Você voltou à consciência do seu entorno imediato. O efeito deixa você instável em seus pés.</DefaultText>
+You've returned to the awareness of your immediate surroundings. The effect leaves you unsteady on your feet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Com um puxão suave, o foco recua para um novo horizonte, embora leve um momento para reconhecê-lo como [url=glossary:vendrien's well]Vendrien's Well[/url].
+      <DefaultText>With a gentle tug, your focus pulls back to a new horizon, though it takes you a moment to recognize it as [url=glossary:vendrien's well]Vendrien's Well[/url]. 
 
-Você voltou à consciência do seu entorno imediato. O efeito deixa você instável em seus pés.</DefaultText>
+You've returned to the awareness of your immediate surroundings. The effect leaves you unsteady on your feet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Com esta conexão feita, você sente a sua consciência puxar deste lugar - não como um viajante, mas como alguém vislumbrando o mundo de impossivelmente distante. Neste momento, não há nada que você não possa ver, embora você veja quase tudo de uma só vez em uma inundação de sensações que é difícil de analisar.</DefaultText>
+      <DefaultText>With this connection made, you feel your awareness pull from this place - not as a traveler, but as one glimpsing the world from impossibly far away. In this moment, there is nothing you cannot see, though you see it nearly all at once in a flood of sensation that is difficult to parse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Perto deste assentamento construído na união das antigas muralhas, você vê uma brecha na maçonaria maciça - uma fissura no reino proibido e oculto dentro das Muralhas Antigas.</DefaultText>
+      <DefaultText>Near this settlement built at the joining of the ancient walls, you see a breach in the massive masonry - a cleft into the forbidden, hidden realm within the Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Você parece ainda mais longe. Uma enorme forma humanóide se agarra à borda de uma fenda sem fundo - seu corpo e membros gigantescos em estatura, mas suas proporções são de um homem vigoroso. Morrendo, mas ainda possuidor de alguma vida, ele chora em uma mistura de dor e alívio, cacos de cristal rolam de seus olhos.
+      <DefaultText>You look farther still. A massive humanoid form clings to the edge of a bottomless crevasse - its body and limbs gargantuan in stature, but its proportions that of a spry man. Dying, but still possessed of some life, he cries in a mixture of pain and relief, crystal shards roll down from his eyes.
 
-Figuras encapuzadas atendem-no com reverência.</DefaultText>
+Cowled figures attend to him with reverence. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,21 +205,21 @@ Figuras encapuzadas atendem-no com reverência.</DefaultText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>O Pináculo é parecido com o que você ocupa agora, embora em vez de irradiar vida arcana, cheira a poeira e pedras caindo aos pedaços - um galho murchando uma vez puxado de sua árvore.
+      <DefaultText>The Spire feels similar to the one you now occupy, though instead of radiating arcane life, it reeks of dust and crumbling stone - a branch withering once pulled from its tree.
 
-Atinge para você com um puxão quase imperceptível.</DefaultText>
+It reaches for you with a barely-perceptible tug.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Com um puxão suave, o foco recua para um novo horizonte, embora leve um momento para reconhecê-lo como [url=glossary:vendrien's well]Vendrien's Well[/url].
+      <DefaultText>With a gentle tug, your focus pulls back to a new horizon, though it takes you a moment to recognize it as [url=glossary:vendrien's well]Vendrien's Well[/url]. 
 
-Você voltou à consciência do seu entorno imediato. O efeito deixa você instável em seus pés.</DefaultText>
+You've returned to the awareness of your immediate surroundings. The effect leaves you unsteady on your feet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Aninhado entre a devastação, você encontra um pedaço de pedra antiga - os Oldwalls. Você segue uma vala profunda na terra para uma brecha na estrutura fortificada. A abertura parece ter se originado de dentro e quebrou com força explosiva.</DefaultText>
+      <DefaultText>Nestled among the devastation, you find a length of ancient stone - the Oldwalls. You follow a deep trench in the land to a breach in the fortified structure. The opening looks to have originated from inside, and broke with explosive force. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,32 +229,32 @@ Você voltou à consciência do seu entorno imediato. O efeito deixa você inst�
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>A tempestade se enfurece em uma demonstração constante de fúria. Embora você se mova sem mácula através dos ventos redemoinhos, você pode sentir a gritante raiva do Overlord como uma força física desencadeada sobre o mundo.</DefaultText>
+      <DefaultText>The storm rages in a constant demonstration of fury. Though you move unblemished through the swirling winds, you can feel the Overlord's broiling anger like a physical force unleashed upon the world. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Uma câmara chama sua atenção. O chão é revestido com uma fina camada de poeira, mas sob o acúmulo de idade você encontra uma runa arcana. Ela brilha com significado, convite e boas-vindas.</DefaultText>
+      <DefaultText>One chamber catches your attention. The floor is coated with a thin layer of dust, but under the accumulation of age you find an arcane rune. It glows with meaning, invitation, and welcome. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Você sente como se o seu alcance tivesse se ampliado. Você pode sentir o impulso e a influência de sua influência crescendo em todas as camadas.</DefaultText>
+      <DefaultText>You feel as if your reach has broadened. You can feel the push and pull of your influence growing throughout the Tiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Sua influência se estende ainda mais, e você quase pode ouvir os sussurros de milhares de vozes ecoando pelo ressonador.</DefaultText>
+      <DefaultText>Your influence spans even further, and you can almost hear the whispers of a thousand voices echoing through the resonator.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Você pode sentir seu poder esticado através do continente, abrangendo montanhas e rios. Os clamorosos ecos de medo, amor, respeito, adoração e admiração o cercam quando você se aproxima da máquina.</DefaultText>
+      <DefaultText>You can feel your power stretched across the continent, spanning mountains and rivers. The clamoring echoes of fear, love, respect, adoration, and awe encircle you as you approach the machine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Você pode ver uma imagem clara das Camadas em sua mente, vozes abafadas que falam de suas ações. Está claro para você que essas Torres estão conectadas agora em algum tipo de teia de magia conectada, sempre com fome de mais.</DefaultText>
+      <DefaultText>You can see a clear picture of the Tiers in your mind, hushed voices that speak of your deeds. It is clear to you that these Spires are connected now in some kind of web of linked magic, one always hungering for more.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -269,7 +269,7 @@ Você voltou à consciência do seu entorno imediato. O efeito deixa você inst�
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Se você se concentrar, parece que você pode começar o mesmo transe que lhe mostrou vislumbres do Spire anterior.</DefaultText>
+      <DefaultText>If you concentrate, it would appear you can begin the same trance that showed you glimpses of the previous Spire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -289,24 +289,24 @@ Você voltou à consciência do seu entorno imediato. O efeito deixa você inst�
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>A escultura não responde ao seu toque.</DefaultText>
+      <DefaultText>The sculpture doesn't respond to your touch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Seu dedo toca a pedra do Ressonador e você é quase instantaneamente atacado com um baque rítmico de barítono e o som de fluidos apressados.
+      <DefaultText>Your finger touches the stone of the Resonator and you are almost instantly assaulted with a rhythmic, baritone thud, and the sound of rushing fluids.
 
-Na terceira batida, o som é inconfundivelmente o seu pulso, e à medida que o seu coração se acelera com essa percepção, o mesmo acontece com o som.</DefaultText>
+By the third beat, the sound is unmistakably your pulse, and as your heart quickens at this realization, so does the sound.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>O dilúvio de sensações acabou, mas as posições dos outros Espíritos ainda permanecem em sua mente. Do seu ponto de vista sobre o Pináculo da Montanha, você pode facilmente identificar as estruturas misteriosas, cada uma delas elevando-se acima de seus arredores distantes.</DefaultText>
+      <DefaultText>The deluge of sensation is over, but the positions of the other Spires still linger in your mind. From your vantage point atop the Mountain Spire, you can easily spot the mysterious structures, each of them rising high above their distant surroundings.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Um choque místico percorre seu dedo pela espinha e, nesse instante, você ganha uma intuição da escultura - um sentido que está de pé - aguardando seus comandos.</DefaultText>
+      <DefaultText>A mystic jolt runs from your finger through your spine, and in that instant, you gain an intuition of the sculpture - a sense that is stands listening - awaiting your commands.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,19 +326,19 @@ Na terceira batida, o som é inconfundivelmente o seu pulso, e à medida que o s
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Uma vez mais você toca a escultura, e mais uma vez sua mente é inundada de sensações, desta vez de seus sentidos deixando seu corpo e flutuando - mais alto até que o Pináculo da Montanha - até que todo Terratus esteja sob seus pés.</DefaultText>
+      <DefaultText>Once more you touch the sculpture, and once more your mind is flooded with sensation, this time of your senses leaving your body, and floating up - higher even than the Mountain Spire - until all of Terratus is beneath your feet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Quando sua mão entra em contato com a escultura, seus sentidos se dividem em uma dúzia de fragmentos, sua visão se torna um composto de inúmeros outros olhos - todos os olhos apontados para o Pináculo.</DefaultText>
+      <DefaultText>As your hand makes contact with the sculpture, your senses break into a dozen fragments, your vision becomes a composite of countless other eyes - eyes all pointed at the Spire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Seu medo agita suas entranhas, suas esperanças enervam seus membros, sua admiração parece encher seu estômago e saciar sua sede.
+      <DefaultText>Their fear churns your guts, their hopes enervate your limbs, their admiration seems to fill your stomach and slake your thirst.
 
-Um relâmpago nas luas dos flashes do Pináculo, e você o vê de uma dúzia de ângulos diferentes de uma só vez - essas dúzias de sensações são todas aquelas que olham para o Pináculo neste caso.</DefaultText>
+A lightning strike leagues from the Spire flashes, and you see it from a dozen different angles all at once - these dozen sensations are all those looking at the Spire in this instance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -358,43 +358,43 @@ Um relâmpago nas luas dos flashes do Pináculo, e você o vê de uma dúzia de 
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Sua mão toca a escultura e você é recebido com um choque familiar. Onde, no passado, a Espira lançaria seus sentidos para fora, desta vez, suas percepções encolherão, estourarão e contorcerão. O horizonte cai e seu corpo fica entorpecido ao toque do vento.
+      <DefaultText>Your hand touches the sculpture, and you are greeted with a familiar jolt. Where in the past, the Spire would throw your senses outward, this time, your perceptions shrink, deafen, and contort. The horizon falls away, and your body grows numb to the wind's touch.
 
-Tudo o que existe é onde você entrega a pedra.</DefaultText>
+All that exists is where you hand meets the stone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>A escultura e a Espira que repousa no topo deixam de parecer uma pedra sólida. Neste instante, você finalmente vê a Espiral não pelo que ela é, mas pelo que poderia ser: uma vela que pega o invisível e o transforma em força tangível; um arco que, quando dobrado, está pronto para retroceder com força terrível.</DefaultText>
+      <DefaultText>The sculpture and the Spire it rests atop cease to feel as solid stone. In this instant, you finally see the Spire not for what it is, but what it could be: a sail that catches the invisible and turns it into tangible force; a bow that, when bent, stands ready to snap back with terrible force.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Você emite seu comando, mas o Spire não está escutando ou simplesmente não está respondendo.</DefaultText>
+      <DefaultText>You issue your command, but the Spire is either not listening, or simply not responding.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Calor escaldante corre pelo seu braço, e seus pés sentem o momento de estar pairando logo acima do chão de pedra do Pináculo. A sensação é estranhamente familiar - de volta ao momento em que você quebrou a Execução ([url=glossary:edict]Edict[/url]).
+      <DefaultText>Sizzling heat races down your arm, and your feet feel for the moment to be hovering just above the stone floor of the Spire. The sensation is oddly familiar - hearkening back to the moment you broke [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution.
 
-À medida que essa antiga dor atravessa seu corpo, as ondas de dor se estendem além do comprimento, largura e largura de sua forma, até que a sensação desce pelo Pináculo, sua alvenaria é uma extensão de sua espinha.</DefaultText>
+As this old pain ripples through your body, the waves of pain extend beyond the length, width, and breadth of your form, until the sensation is running down the Spire, its masonry an extension of your spine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Concentrando-se em um ponto de vista particular, seus sentidos se estabelecem em um campo distante, em um corpo que olha para o Pináculo da Montanha com admiração. Enquanto ele observa o Pináculo, você pode dizer que ele sabe que o edifício de pedra é seu - e seu medo e preocupação em relação a você são palpáveis ​​e revigorantes - como se quanto mais ele temesse você, mais ilimitado você se tornasse.</DefaultText>
+      <DefaultText>Focusing on a particular point of view, your senses settle into a field far away, into a body looking at the Mountain Spire in awe. As he peers at the Spire, you can tell he knows the stone edifice is yours - and his fear and concern toward you feel palpable and invigorating - as if the more he fears you, the more limitless you become.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Com uma expiração calmante, você se concentra na inundação de sensações, sorvendo as visões para não se afogar.
+      <DefaultText>With a calming exhale, you focus on the flood of sensation, sipping the visions so as not to drown.
 
-Comum a todas as visões é a experiência compartilhada de olhar para o Pináculo. A preocupação, o foco, o medo e a curiosidade desses espectadores agitam as energias arcanas do grande monumento, e quanto maior a paixão por trás desses pensamentos, mais o Pináculo brinca com potencial.</DefaultText>
+Common to all the visions are the shared experience of looking upon the Spire. The concern, focus, fear, and curiosity of these onlookers stirs the arcane energies of the great monument, and the greater the passion behind these thoughts, the more the Spire crackles with potential.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Do alto, você vê as correntes místicas movendo-se sobre Terratus - nuvens ondulantes de todas as cores que se movem sobre os reinos. Mesmo a partir deste ponto de vista distante, os ciclones e as correntes da magia enchem-te de pavor e pressentimento.</DefaultText>
+      <DefaultText>From high above, you see the mystic currents moving about Terratus - billowing clouds of every color that churn about the realms. Even from this far away vantage point, the cyclones and currents of magic fill you with dread and foreboding.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -409,21 +409,21 @@ Comum a todas as visões é a experiência compartilhada de olhar para o Pinácu
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Enquanto você imagina a sensação de peso, suas percepções se dirigem para o chão, atravessando o solo até que sua visão recomeça nos corredores sombrios e agourentos dos Oldwalls.
+      <DefaultText>As you imagine the sense of heaviness, your perceptions drift toward the ground, hurtling through the soil until your vision resumes in the dark, foreboding halls of the Oldwalls.
 
-Embora você não consiga distinguir quase nada na escuridão apertada dos Oldwalls, você pode sentir os Oldwalls correndo pelo solo de Terratus, ligando muitas das Spires com essas artérias místicas.</DefaultText>
+Though you can make out almost nothing in the cramped darkness of the Oldwalls, you can feel the Oldwalls running through the soil of Terratus, linking many of the Spires with these mystical arteries.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Ao se aproximar das correntes místicas, você ouve vozes incipientes - comandos, proclamações - o material dos Éditos.
+      <DefaultText>As you near the mystic currents, you hear inchoate voices - commands, proclamations - the stuff of Edicts.
 
-Por todo o Terratus, os Editos de [url=glossary:kyros]Kyros[/url], alguns séculos de idade, ainda vivem, suas assinaturas arcanas brilham como o sol do meio-dia - aparentemente mais fortes do que no dia em que foram proclamados.</DefaultText>
+All across Terratus, the Edicts of [url=glossary:kyros]Kyros[/url], some centuries old, still live on, their arcane signatures bright as the midday sun - seemingly stronger than the day they were proclaimed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Enquanto seus sentidos flutuam para longe da turbulência arcana, você fica impressionado pelo fato de que a terra intocada por Edicts parece ser a minoria - mesmo as terras há muito conquistadas por Edicts ainda são assombradas por Éditos ... nos velhos tempos da conquista, ou se foram lançados mais recentemente para reprimir a rebelião, seus sentidos não podem ser percebidos.</DefaultText>
+      <DefaultText>As your senses float away from the arcane turbulence, you are struck by the fact that land untouched by Edicts appears to be the in the minority - even lands long ago conquered by [url=glossary:kyros]Kyros[/url] are still haunted by Edicts... whether because they still linger from the olden days of conquest, or if they were cast more recently to suppresses rebellion, your senses cannot glean.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,38 +438,38 @@ Por todo o Terratus, os Editos de [url=glossary:kyros]Kyros[/url], alguns sécul
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Seus sentidos mais uma vez inundam a Torre, e o vento que atinge o monumento esfria sua carne. Mais do que apenas uma torre, o Pináculo é uma segunda espinha, um membro místico que poderia, em teoria, seguir ordens e também sua mão.</DefaultText>
+      <DefaultText>Your senses once again flood through the Spire, and the wind striking the monument chills your flesh. More than just a tower, the Spire is a second spine, a mystic limb that could, in theory, follow orders as well as your hand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Enquanto o Spire é rápido para inundá-lo com sensações, o link não se sente simétrico, pois você percebe que o Spire parece cego aos seus olhos, indiferente à sua dor, mas eminentemente ouvindo você, aguardando ansiosamente o som da sua voz de modo que possa gritar suas palavras do alto para todos os Terratus ouvirem.</DefaultText>
+      <DefaultText>While the Spire is quick to flood you with sensation, the link does not feel symmetric, as you get a sense the Spire seems largely blind to your eyes, indifferent to your pain, yet eminently listening to you, eagerly awaiting the sound of your voice so that it might yell your words from upon high for all Terratus to hear.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Você passa a mão pela escultura e aquece o calor místico. Há magia no Pináculo e, como mestre do Pináculo, é a sua magia - um poder que cresce a cada dia à medida que as massas o amam e temem - cada pensamento ou emoção até o sussurro de seus nomes se tornar uma corrente de poder.
+      <DefaultText>You run your hand along the sculpture and bask in the mystic warmth. There is magic in the Spire, and as master of the Spire, it's your magic - a power that grows each day as the masses love and fear you - each thought or emotion a drop until the whispering of your names becomes a current of power.
 
-O ciclo vicioso da magia parece cristalino - sua grandeza potencializa seus atos, seus feitos fomentam o medo, o medo alimenta sua grandeza e o ciclo recomeça.</DefaultText>
+The vicious cycle of magic seems crystal clear - your greatness powers your deeds, your deeds foment fear, fear powers your greatness, and the cycle begins again.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Você não pode deixar de rir do ciclo vicioso - eles veem o Spire, então eles temem e adoram você, mas o medo e a adoração o deixam mais forte, fazendo-os temer e te adorar mais, o que, por sua vez, faz você mais forte.
+      <DefaultText>You can't help but chuckle at the vicious cycle - they see the Spire so they fear and adore you, but that fear and adoration makes you stronger, making them fear and adore you more, which in turns makes you stronger.
 
-Apesar de todas as suas lições de magia, esse princípio de canalizar o medo, aproveitar o pensamento, nunca foi tocado, nem mesmo teorizado. Talvez seja o tipo de coisa que apenas [url=glossary:kyros]Kyros[/url] pretende conhecer.</DefaultText>
+For all your lessons in magic, this principle of channeling fear, harnessing thought was never touched talked about or even theorized. Perhaps it is the sort of thing only [url=glossary:kyros]Kyros[/url] is meant to know.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>O vínculo entre você e o Spire recua. A ligação arcana ainda está presente, mas as energias místicas, no momento, são silenciosas.
+      <DefaultText>The link between you and the Spire recedes. The arcane bond is still present, but the mystical energies, for the moment, are quiet.
 
-Seu corpo inundado de excitação e cansaço, não está claro se a conexão mística está fortalecendo você ou sugando - a torre não oferece nada como resposta, e você sabe que pedir só produziria mais silêncio e mistério.</DefaultText>
+Your body flooded with excitement and fatigue, it's unclear whether the mystic connection is strengthening you or siphoning - the tower offers nothing by way of answer, and you know that asking would only yield more silence and mystery.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>O zumbido místico do Pináculo pulsa na cadência do seu coração. A estrutura antiga aguarda seu comando.</DefaultText>
+      <DefaultText>The mystic hum of the Spire pulses to the cadence of your heart. The ancient structure awaits your command.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -479,7 +479,7 @@ Seu corpo inundado de excitação e cansaço, não está claro se a conexão mí
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Ainda há muito que não faz sentido."</DefaultText>
+      <DefaultText>"There's still so much that doesn't make sense."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -489,34 +489,34 @@ Seu corpo inundado de excitação e cansaço, não está claro se a conexão mí
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>O vento gira no sentido horário sobre o Pináculo.</DefaultText>
+      <DefaultText>The wind whips clockwise about the Spire. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Conforme você toca a estrutura de pedra, sua sensação do momento diminui, e você sente a totalidade das Camadas na ponta dos dedos ...
+      <DefaultText>As you touch the stone structure, your sense of the moment slows, and you feel the entirety of the Tiers at your fingertips...
 
-O Spire está pronto para canalizar sua vontade.</DefaultText>
+The Spire stands ready to channel your will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>O ar se agita com o calor e o zumbido do Spire - um canto baixo de seu nome - ecoa na sua cabeça.</DefaultText>
+      <DefaultText>The air ripples with heat and the Spire's hum - a low chanting of your name - echoes through your head.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Estenda a mão e explore sua extensão.</DefaultText>
+      <DefaultText>Reach out and explore your extent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Não tenho certeza de quem está realmente no controle aqui. O Spire está aumentando meus poderes ou estou alimentando o poder do Spire?"</DefaultText>
+      <DefaultText>"I'm not sure who's actually in control here. Is the Spire enhancing my powers or am I fueling the power of the Spire?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Os Spires nas camadas estão ligados - até onde vai essa conexão?"</DefaultText>
+      <DefaultText>"The Spires in the Tiers are linked - just how far does this connection go?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,12 +526,12 @@ O Spire está pronto para canalizar sua vontade.</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Meu link para o Spire é confuso ... por que eu?"</DefaultText>
+      <DefaultText>"My link to the Spire is confounding... why me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"A julgar pelo olhar distante em seu rosto, eu diria que o Spire lhe enviou uma visão. O que você acha disso?"</DefaultText>
+      <DefaultText>"Judging from that distant look on your face, I'd say the Spire sent you a vision. What do you make of it?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,17 +541,17 @@ O Spire está pronto para canalizar sua vontade.</DefaultText>
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"O Spire não consegue chegar onde [url=glossary:kyros]Kyros[/url] 'Edicts ainda churn, mas por outro lado, eu acho que este Spire pode chegar em qualquer lugar no Tiers."</DefaultText>
+      <DefaultText>"The Spire can't seem to reach where [url=glossary:kyros]Kyros[/url]' Edicts still churn, but otherwise, I think this Spire can reach out anywhere in the Tiers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Deste Pináculo eu poderia alcançar qualquer lugar nas Camadas. Onde [url=glossary:kyros]Kyros[/url] tem um [url=glossary:edict]Edict[/url], há interferência mística."</DefaultText>
+      <DefaultText>"From this Spire I could reach anywhere in the Tiers. Where [url=glossary:kyros]Kyros[/url] has an [url=glossary:edict]Edict[/url], there is mystic interference."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Sua mente se desvia para dias passados ​​e eventos passados. Juntamente com uma onda de lembranças que você conhece como sua, surge uma onda de imagens, vozes e pontadas de alegria e tristeza, há muito esquecidas ou lembradas por outra pessoa.</DefaultText>
+      <DefaultText>Your mind drifts to bygone days and past events. Along with a rush of memories you know as your own comes a surge of images, voices, and pangs of joy and sadness either long forgotten or remember by someone else.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,7 +571,7 @@ O Spire está pronto para canalizar sua vontade.</DefaultText>
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Assim que sua mente termina a intenção da sua pergunta, você perde o sentido dos seus pés e sua visão se expande para os Pináculos no horizonte.</DefaultText>
+      <DefaultText>As soon as your mind finishes the intent of your question, you lose sense of your feet, and your vision expands to the Spires on the horizon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,7 +591,7 @@ O Spire está pronto para canalizar sua vontade.</DefaultText>
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Como você comandaria seus braços para se estender, você pensa para fora, sua mente se sentindo consciente da verticalidade do Pináculo. Você segue essa sensação até o solo e suas sensações se estendem para o subsolo, irradiando através do vale e se ramificando até as Muralhas Antigas que circundam as montanhas, e de lá, para as Muralhas Antigas e Pináculos das Muralhas.</DefaultText>
+      <DefaultText>As you would command your arms to extend, you think outward, your mind feeling cognizant of the verticality of the Spire. You follow this sensation down to the soil and your sensations stretches underground, radiating through the [url=glossary:vendrien's well]Vendrien's Well[/url] valley and branching out to the Oldwalls that ring the mountains, and from there, out to the surrounding Oldwalls and Spires of the Tiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,46 +601,46 @@ O Spire está pronto para canalizar sua vontade.</DefaultText>
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Você sente uma presença ao seu lado no espaço, mas séculos de você no tempo. Por um momento, ela parece consciente de você - ou talvez você esteja se lembrando dela falando com alguém em pé no mesmo lugar.
+      <DefaultText>You feel a presence standing adjacent to you in space, but centuries from you in time. For a moment, she seems aware of you - or perhaps you're remembering her speaking to someone standing in the very same spot.
 
-Ela fala com o Spire e o Spire escuta, ecoando suas palavras. E enquanto ela fala com convicção, suas palavras não são Editos - ela não tem o entendimento, a convicção.</DefaultText>
+She speaks to the Spire and the Spire listens, echoing her words. And while she speaks with conviction, her words are not Edicts - she lacks the understanding, the conviction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Limpando sua cabeça, seu foco retorna ao momento.</DefaultText>
+      <DefaultText>Clearing your head, your focus returns to the moment.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Você se sente enraizado no lugar, mas com uma envergadura que se estende pelas camadas. Sensações escorrem pelos comprimentos das Muralhas Antigas, transmitidas através do nervo central que é o Pináculo da Montanha.</DefaultText>
+      <DefaultText>You feel rooted in place, yet with a wingspan that stretches across the Tiers. Sensations trickles through the lengths of the Oldwalls, transmitted across the central nerve that is the Mountain Spire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Os pináculos aguardam seu comando. O antigo ressonador escuta pacientemente a sua voz. As pedras do Pináculo estão prontas para amplificar qualquer força mística que você avance.
+      <DefaultText>The Spires await your command. The ancient resonator patiently listens for your voice. The stones of the Spire stand ready to amplify whatever mystic force you posit forward.
 
-Uma inundação de intuição enche sua mente, enquanto visões anteriores ressurgem em sua mente e se encaixam em um quadro coeso.</DefaultText>
+A flood of intuition fills your mind, as prior visions resurface in your mind and mesh into a cohesive picture.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"O Pináculo está me mostrando a largura e largura do meu poder. É somente para mim saber."</DefaultText>
+      <DefaultText>"The Spire is showing me the breadth and width of my power. It is for me alone to know."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Ainda curioso sobre algumas coisas ..."</DefaultText>
+      <DefaultText>"Still curious about a few things..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Eu não consigo entender o que está me mostrando."</DefaultText>
+      <DefaultText>"I can't quite make sense of what it's showing me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Visões dançam em sua cabeça enquanto você intui sua pergunta.</DefaultText>
+      <DefaultText>Visions dance about in your head as you intuit your question.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -665,48 +665,48 @@ Uma inundação de intuição enche sua mente, enquanto visões anteriores ressu
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"E com isso," você ouve sua própria voz ecoar em sua mente, "[url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] de Execução não deve ser mais."
+      <DefaultText>"And with that," you hear your own voice echo in your mind, "[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution should be no more."
 
-Sua mente pisca de volta ao assalto em [url=glossary:ascension hall]Ascension Hall[/url], até o momento em que você cumpriu o texto de [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url].</DefaultText>
+Your mind flashes back to the assault on [url=glossary:ascension hall]Ascension Hall[/url], to the moment you fulfilled the wording of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Eu reivindicar [url=glossary:ascension hall]Ascension Hall[/url]," você ouve a sua própria voz ecoar em sua mente ", vamos estar livres deste [url=glossary:edict]Edict[/url]."
+      <DefaultText>"I lay claim to [url=glossary:ascension hall]Ascension Hall[/url]," you hear your own voice echo in your mind, "let us be free of this [url=glossary:edict]Edict[/url]."
 
-Sua mente pisca de volta para o assalto em [url=glossary:ascension hall]Ascension Hall[/url], para o momento que você cumpriu o texto de [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url].</DefaultText>
+Your mind flashes back to the assault on [url=glossary:ascension hall]Ascension Hall[/url], to the moment you fulfilled the wording of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Sua mente retorna ao assualt em [url=glossary:ascension hall]Ascension Hall[/url], quando você silenciosamente assumiu o controle e assumiu o controle do cerco - satisfazendo as demandas de [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] no processo.</DefaultText>
+      <DefaultText>Your mind returns to the assualt on [url=glossary:ascension hall]Ascension Hall[/url], when you silently took charge and assumed control of the siege - satisfying the demands of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] in the process. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Sensações de calor escaldante e frio refrescante percorrem seu corpo enquanto você revive o momento sem peso quando o [url=glossary:edict]Edict[/url] quebrou - o fatídico exemplo quando a imposição desapareceu e as correntes arcanas da magia foram liberadas.
+      <DefaultText>Sensations of searing heat and chilling cold course through your body as you relive the weightless moment when the [url=glossary:edict]Edict[/url] broke - the fateful instance when the levy vanished and the arcane currents of [url=glossary:kyros]Kyros[/url]' magic were set free.
 
-Foi nesse momento que o antigo sigilo do despertar da Espiral, há muito tempo coberto pelos seus ocupantes anteriores, foi incendiado pela tempestade arcana.</DefaultText>
+It was in this moment that the Spire's old sigil of awakening, long covered by its prior occupants, was set ablaze by the arcane tempest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>O Spire sabe o primeiro momento em que te encontrou, e agora você também sabe disso ... mas se a reunião foi por acidente ou desenho, é algo desconhecido para vocês dois.</DefaultText>
+      <DefaultText>The Spire knows the first moment it found you, and so now you know this too... but whether the meeting was by accident or design is unknown to both of you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>O calor do [url=glossary:burning library]Burning Library[/url] ainda irradia em nossos pulmões e coração. Embora seja um pouco desconcertante que você exale ocasionalmente o vapor, o efeito parece um lembrete inofensivo do poder que espreita dentro de você.</DefaultText>
+      <DefaultText>The heat of the [url=glossary:burning library]Burning Library[/url] still radiates in our lungs and heart. While it's a bit disconcerting that you occasionally exhale steam, the effect seems a harmless reminder of the power lurking inside of you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>O peso enjoativo do granito sobre sua cabeça, as placas de gnais contra seu peito - essas memórias de [url=glossary:cairn]Cairn[/url] agora vivem em sua mente, assim como a receita de sua ruína.</DefaultText>
+      <DefaultText>The cloying weight of granite over your head, the pressing slabs of gneiss against your chest - these memories of [url=glossary:cairn]Cairn[/url] now live in your mind, as does the recipe of his undoing.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Alfinetadas de eletricidade brilham atrás de seus globos oculares, e a mais leve respiração enche seus pulmões com uma corrente de ar úmido. Você se move para escovar ferrugem e pó de bronze de sua pele, apenas para perceber a sensação é apenas uma coceira fantasma do [url=glossary:blade grave]Blade Grave[/url].</DefaultText>
+      <DefaultText>Pinpricks of electricity spark behind your eyeballs, and the slightest breath in fills your lungs with a rush of moist air. You move to brush rust and bronze dust from your skin, only to realize the sensation is just a phantom itch of the [url=glossary:blade grave]Blade Grave[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,78 +716,78 @@ Foi nesse momento que o antigo sigilo do despertar da Espiral, há muito tempo c
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Eu concordaria. O Archon of Secrets tem compartilhado muito comigo, mas isso é ... além da minha mente erudita."</DefaultText>
+      <DefaultText>"I would agree. The Archon of Secrets has shared much with me, but this is... beyond even my erudite mind."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Talvez sua fidelidade ao [url=glossary:graven ashe]Graven Ashe[/url] esteja moldando você de alguma forma? Você estabeleceu algum tipo de ligação mística com este Spire. Agora, eu não sou especialista em magia, mas não posso deixar de compará-lo ao link místico do General para eu e o resto de seus guerreiros ".</DefaultText>
+      <DefaultText>"Perhaps your allegiance to [url=glossary:graven ashe]Graven Ashe[/url] is shaping you in some fashion? You have established some sort of mystic link with this Spire. Now, I'm no expert on magic, but I can't help but liken it to the General's mystic link to me and the rest of his warriors."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"O Spire está ligado a você desde que você liderou a defesa do [url=glossary:ascension hall]Ascension Hall[/url]. Talvez agora que estamos sendo atacados novamente, o verdadeiro propósito do Spire é mostrado?"</DefaultText>
+      <DefaultText>"The Spire has been linked to you since you led the defense of [url=glossary:ascension hall]Ascension Hall[/url]. Perhaps now that we are under attack once again, the Spire's true purpose is shown?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"E com isso," você ouve sua própria voz ecoar em sua mente, "[url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] de Execução não deve ser mais."
+      <DefaultText>"And with that," you hear your own voice echo in your mind, "[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution should be no more."
 
-Sua mente pisca de volta ao assalto em [url=glossary:ascension hall]Ascension Hall[/url], até o momento em que você cumpriu o texto de [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url].</DefaultText>
+Your mind flashes back to the assault on [url=glossary:ascension hall]Ascension Hall[/url], to the moment you fulfilled the wording of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Sensações de calor escaldante e frio refrescante percorrem seu corpo enquanto você revive o momento sem peso quando o [url=glossary:edict]Edict[/url] quebrou - o fatídico exemplo quando a imposição desapareceu e as correntes arcanas da magia foram liberadas.
+      <DefaultText>Sensations of searing heat and chilling cold course through your body as you relive the weightless moment when the [url=glossary:edict]Edict[/url] broke - the fateful instance when the levy vanished and the arcane currents of [url=glossary:kyros]Kyros[/url]' magic were set free.
 
-Foi nesse momento que o antigo sigilo do despertar da Espiral, há muito tempo coberto pelos seus ocupantes anteriores, foi incendiado pela tempestade arcana.</DefaultText>
+It was in this moment that the Spire's old sigil of awakening, long covered by its prior occupants, was set ablaze by the arcane tempest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>O Spire sabe o primeiro momento em que te encontrou, e agora você também sabe disso ... mas se a reunião foi por acidente ou desenho, é algo desconhecido para vocês dois.</DefaultText>
+      <DefaultText>The Spire knows the first moment it found you, and so now you know this too... but whether the meeting was by accident or design is unknown to both of you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Eu reivindicar [url=glossary:ascension hall]Ascension Hall[/url]," você ouve a sua própria voz ecoar em sua mente ", vamos estar livres deste [url=glossary:edict]Edict[/url]."
+      <DefaultText>"I lay claim to [url=glossary:ascension hall]Ascension Hall[/url]," you hear your own voice echo in your mind, "let us be free of this [url=glossary:edict]Edict[/url]."
 
-Sua mente pisca de volta para o assalto em [url=glossary:ascension hall]Ascension Hall[/url], para o momento que você cumpriu o texto de [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url].</DefaultText>
+Your mind flashes back to the assault on [url=glossary:ascension hall]Ascension Hall[/url], to the moment you fulfilled the wording of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Sua mente retorna ao assalto em [url=glossary:ascension hall]Ascension Hall[/url], quando você silenciosamente assumiu o controle e assumiu o controle do cerco - satisfazendo as demandas de [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] no processo.</DefaultText>
+      <DefaultText>Your mind returns to the assault on [url=glossary:ascension hall]Ascension Hall[/url], when you silently took charge and assumed control of the siege - satisfying the demands of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] in the process. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Suas percepções se esticam ao redor da península, com seus pensamentos acelerando ao longo dos Oldwalls que serpenteiam através dos Tiers.</DefaultText>
+      <DefaultText>Your perceptions feels stretched about the peninsula, your thoughts speeding along the Oldwalls that wind their way through the Tiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"O que as visões lhe mostraram dessa vez?"</DefaultText>
+      <DefaultText>"What did the visions show you this time?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Eles dizem que apenas o Overlord pode criar um [url=glossary:edict]Edict[/url], é nunca foi claro se o Overlord pode destruir um [url=glossary:edict]Edict[/url]. E quando um [url=glossary:edict]Edict[/url] é resolvido, o que acontece com as quantidades colossais de energia mística ligado ao referido [url=glossary:edict]Edict[/url]?</DefaultText>
+      <DefaultText>They say only the Overlord can create an [url=glossary:edict]Edict[/url], it is has never been clear if the Overlord can destroy an [url=glossary:edict]Edict[/url]. And when an [url=glossary:edict]Edict[/url] is resolved, what becomes of the colossal quantities of mystic energy bound into said [url=glossary:edict]Edict[/url]?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Os editais que você encontrou se aglomeram na sua memória imediata. Quaisquer que sejam os fragmentos ou fragmentos dos Edits que você ajudou a resolver, enraizaram sua mente na compreensão intuitiva.</DefaultText>
+      <DefaultText>The Edicts you've encountered crowd into your immediate memory. Whatever splinter or fragments of the Edicts you helped to resolve have taken root - flowering into your mind as intuitive understand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>O [url=glossary:edict]Edict[/url] você resolveu multidões em sua memória imediata. Embora o original [url=glossary:edict]Edict[/url] não esteja mais ativo, uma semente de seu poder se enraizou profundamente dentro de sua vontade, e esse fragmento de poder agora inunda sua mente com compreensão intuitiva.</DefaultText>
+      <DefaultText>The [url=glossary:edict]Edict[/url] you resolved crowds into your immediate memory. Though the original [url=glossary:edict]Edict[/url] is no longer active, a seed of its power took root deep within your will, and that sliver of power now floods your mind with intuitive understanding.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"É"</DefaultText>
+      <DefaultText>"I s"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -797,89 +797,89 @@ Sua mente pisca de volta para o assalto em [url=glossary:ascension hall]Ascensio
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Eu não posso ter sido a primeira pessoa a mexer com este dispositivo."</DefaultText>
+      <DefaultText>"I can't have been the first person to mess with this device."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] faz sentido para mim. Este Spire pode amplificar minha voz e meu poder. Estou confiante de que isso funcionará".</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] makes sense to me. This Spire can amplify my voice and my power. I'm confident this will work."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>Você emite um zumbido suave no Ressonador e depois se cala, esticando seus sentidos através das Camadas para ouvir até onde a sua voz pode ser sentida.</DefaultText>
+      <DefaultText>You issue a soft hum into the Resonator and then fall silent, stretching your senses across the Tiers to hear how far your voice can be felt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Imagens de meia dúzia de figuras se espalham pela sua mente - todas elas caminharam por cima deste antigo poleiro, e cada uma delas descobriu apenas uma parte do potencial do Pináculo.</DefaultText>
+      <DefaultText>Images of a half dozen figures swarm through your mind - all of them walked atop this ancient perch, and each discovered but a sliver of the Spire's potential.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Você acabou de se comunicar com a sua torre? O que você disse?"</DefaultText>
+      <DefaultText>"Are you done communing with your tower? What has it told you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Sua voz se torna um grito trivial contra as torrentes furiosas dos Éditos das Tempestades no [url=glossary:blade grave]Blade Grave[/url].</DefaultText>
+      <DefaultText>Your voice becomes a trivial squeak against the raging torrents of the Edicts of Storms in the [url=glossary:blade grave]Blade Grave[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Enquanto sua voz ecoa na maioria das camadas, nenhum eco pode ser ouvido nas Terras Contestadas. O estalo violento do fogo parece abafar a sua ligação.</DefaultText>
+      <DefaultText>While your voice echoes throughout most of the Tiers, no echo can be heard in the Contested Lands. The raging crackle of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Fire seems to drown out your call.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Sua voz falha ao ecoar os canyons e blefes do [url=glossary:stone sea]Stone Sea[/url], e você ouve, em vez disso, a lenta e inexorável rotina de colinas, e os gritos retumbantes de [url=glossary:cairn]Cairn[/url] ainda morrendo.</DefaultText>
+      <DefaultText>Your voice fails to echo off the canyons and bluffs of the [url=glossary:stone sea]Stone Sea[/url], and you hear instead the slow, inexorable grind of hills, and the rumbling screams of still-dying [url=glossary:cairn]Cairn[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>O poder do [url=glossary:edict]Edict[/url] incha dentro de você, mas sua voz é apenas um gemido em todos os lugares [url=glossary:kyros]Kyros[/url] 'Edicts ainda tem influência.
+      <DefaultText>The power of the [url=glossary:edict]Edict[/url] swells inside of you, yet your voice is but a whimper everywhere [url=glossary:kyros]Kyros[/url]' Edicts still hold sway.
 
-Mas onde [url=glossary:kyros]Kyros[/url] 'Edicts já não se agitam, sua voz ecoa com poder. Se você quiser, o Spire vai ressoar sua voz através destas terras, promulgando um novo [url=glossary:edict]Edict[/url] de sua própria autoria.</DefaultText>
+But where [url=glossary:kyros]Kyros[/url]' Edicts no longer churn, your voice echoes with power. Should you will it, the Spire will resonate your voice across these lands, enacting a new [url=glossary:edict]Edict[/url] of your own making.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Eu vou segundo isso! Parece que foi ontem que eu estava treinando você para dar um soco - agora você é o ... como eu te chamo ... o Arconte de Espinhos?"</DefaultText>
+      <DefaultText>"I'll second that! Seems like just yesterday I was training you to take a punch - now you're the... what do I call you... the Archon of Spires?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Você tem um olhar distante sobre você ... é o seu grande edifício de pedra falando com você de novo? Aqui está esperando que fosse esclarecedor."</DefaultText>
+      <DefaultText>"You had a distant look about you... is your big stone edifice talking to you again? Here's hoping it was enlightening."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Eu posso ver você de pé aqui, mas seu rosto parece com suas ligas de distância. O que você está sentindo?"</DefaultText>
+      <DefaultText>"I can see you standing here but your face looks like its leagues away. What are you sensing?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"O Spire lhe ofereceu algum insight?"</DefaultText>
+      <DefaultText>"Did the Spire offer you any insight?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Batendo palmas e acenando para a sua atenção, Nunoval te envia de volta ao presente. "[Player Name], você ainda está conosco? O Spire se iluminou?"</DefaultText>
+      <DefaultText>Clapping his hands and waving for your attention, Nunoval signals you back to the present. "[Player Name], you still with us? Did the Spire enlighten?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Houve um flash do assalto em [url=glossary:ascension hall]Ascension Hall[/url] e a resolução do [url=glossary:edict]Edict[/url] de Execução. A reação arcana do [url=glossary:edict]Edict[/url] quebrado parece a causa provável."</DefaultText>
+      <DefaultText>"There was a flash of the assault on [url=glossary:ascension hall]Ascension Hall[/url] and the resolution of the [url=glossary:edict]Edict[/url] of Execution. The arcane backlash of the broken [url=glossary:edict]Edict[/url] seems the probable cause."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Apenas imagens e sons ... sem respostas firmes."</DefaultText>
+      <DefaultText>"Just images and sounds... no firm answers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Eu provei o meu valor, resolvendo [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] - agora o Spire me escolheu."</DefaultText>
+      <DefaultText>"I proved my worth by resolving [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] - now the Spire has chosen me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -889,22 +889,22 @@ Mas onde [url=glossary:kyros]Kyros[/url] 'Edicts já não se agitam, sua voz eco
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Eu disse a Nerat que deveríamos matá-lo antes que você se torne um problema. Quero dizer que, da maneira mais gentil, é claro ... apenas olhe para você agora ... um espécime mais notável!"</DefaultText>
+      <DefaultText>"I told Nerat we ought to slay you before you become a problem. I mean that in the nicest way, of course... just look at you now... a most remarkable specimen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Eu não pretendo entender o que você está testemunhando ... Eu sou apenas grato [url=glossary:the voices of nerat]the Voices of Nerat[/url] não é o mestre deste Spire. Eu tremo ao pensar que tipo de vantagem ele ganharia com essa coisa."</DefaultText>
+      <DefaultText>"I do not pretend to understand what you're witnessing... I am just thankful [url=glossary:the voices of nerat]the Voices of Nerat[/url] is not the master of this Spire. I shudder to think what sort of advantage he would gain from this thing."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Eu não acho que o Spire te deu uma visão de como eu poderia me defender de ondas infinitas de lacaios ..."</DefaultText>
+      <DefaultText>"I don't suppose the Spire gave you some vision as to how me might fend off endless waves of [url=glossary:kyros]Kyros[/url]' minions..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Quando você faz isso - quando ouve o Spire - você tem o mesmo olhar em seu rosto quando [url=glossary:bleden mark]Bleden Mark[/url] lança seus sentidos através das sombras."</DefaultText>
+      <DefaultText>"When you do that - when you listen to the Spire - you have the same look on your face as when [url=glossary:bleden mark]Bleden Mark[/url] casts his senses out through the shadows."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -914,107 +914,107 @@ Mas onde [url=glossary:kyros]Kyros[/url] 'Edicts já não se agitam, sua voz eco
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"E eles acham que sou louco por ouvir vozes ... pelo menos as que estão na minha cabeça não estão vindo de um antigo monumento fálico."</DefaultText>
+      <DefaultText>"And they think I'm crazy for hearing voices... at least the ones in my head aren't coming from an old phallic monument."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"No momento em que você pronunciou a questão, eu pude ver sua atenção vagar - o Spire compartilhou alguma coisa esclarecedora?"</DefaultText>
+      <DefaultText>"The moment you uttered the question, I could see your attention wander off - did the Spire share anything enlightening?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Você sabe que acabou de me ocorrer que, se você for eliminado, quem poderá falar com o Pináculo depois de morrer? Você pode ... dizer para me ouvir depois de morrer? Funciona como aquele?"</DefaultText>
+      <DefaultText>"You know it just occurred to me that if you're knocked off, who's going to be able to talk to the Spire after you die? Can you like... tell it to listen to me after you die? Does it work like that?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Metade de mim é bastante curiosa, quase ciumenta, imaginando o que você está experimentando quando esta coisa ... fala - ou o que quer que ela faça - com você. A outra metade está feliz que seja sua mente violada por um antigo edifício. , não é meu."</DefaultText>
+      <DefaultText>"Half of me is rather curious, almost jealous, wondering what it is you're experiencing when this thing... speaks - or whatever it does - to you. The other half is glad it's your mind that's being violated by an ancient edifice, not mine."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] 'Os editais fazem sentido para mim. Este Spire pode amplificar minha voz e meu poder. Estou confiante de que isso funcionará."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' Edicts makes sense to me. This Spire can amplify my voice and my power. I'm confident this will work."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Quando você fala assim, você faz meu codebook se sentir apertado." A lança carmesim ri, apontando para o horizonte. "Nós temos a legião marchando em nossa direção - agora é um momento tão bom quanto qualquer outro para nos mostrar o que você pode fazer."</DefaultText>
+      <DefaultText>"When you talk like that, you make my codpiece feel tight." The Crimson Spear chuckles, gesturing toward the horizon. "We have the legion marching toward us - now is as good a time as any to show us what you can do."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Mas apenas o Overlord tem o poder do [url=glossary:edict]Edict[/url]!" O marechal de ferro sacode a cabeça com um suspiro. "Mas eu sou uma mulher de esgrima e tática, não mágica ... se o que você diz é verdade ... talvez seja [url=glossary:kyros]Kyros[/url] 'que você pode fazer isso ..."</DefaultText>
+      <DefaultText>"But only the Overlord has the power of the [url=glossary:edict]Edict[/url]!" The Iron Marshal shakes her head with a sigh. "But I am a woman of swordplay and tactics, not magic... if what you say is true... perhaps it is [url=glossary:kyros]Kyros[/url]' will that you can do this..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Você tem certeza disso? Bem, estamos prestes a estar cercados, então ... agora é um bom momento para testar sua ilusão de grandeza."</DefaultText>
+      <DefaultText>"You're certain of this? Well we're about to be surrounded so... now's a good time as any to test your delusion of grandeur."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] é conhecido por você? Como você, eu proclamei um [url=glossary:edict]Edict[/url], mas eu nunca fui o único a acabar com um [url=glossary:edict]Edict[/url] ... mas você fez os dois! Venha então ... vamos ver se você realmente pode viver até isso. "</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] is known to you? Like you, I have proclaimed an [url=glossary:edict]Edict[/url], but I have never been the one to END an [url=glossary:edict]Edict[/url]... but you've done both! Come then... let's see if you really can live up to this boast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"A aposta segura é que você está cheio de porcaria ... mas, por favor, coloque sua reivindicação à prova. Se o que você diz é verdade, o Overlord finalmente tem competição."</DefaultText>
+      <DefaultText>"The safe wager is that you're full of crap... but please, put your claim to the test. If what you say is true, the Overlord finally has competition."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Só quando eu pensei que tinha ouvido cada orgulho sob o sol ..." Verso sacode a cabeça com um suspiro. "Se você puder fazer o que diz que pode, nossos invasores logo vão ter uma surpresa."</DefaultText>
+      <DefaultText>"Just when I thought I had heard every boast under the sun..." Verse shakes her head with a sigh. "Have at it. If you can do what you say you can, our soon to invaders are in for a surprise."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Rosnando em aprovação, Kills-in-Shadows acena com a sua declaração.</DefaultText>
+      <DefaultText>Growling in approval, Kills-in-Shadows nods at your statement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>A sensação de poder que a princípio era uma pressão em seus pulmões agora surge com cada batida do seu coração. Todos os Tiers olham para os Spires e pensam em você. Seu medo, sua admiração, seu terror - com o Spire, tudo isso pode ser aproveitado e usado para seus propósitos.</DefaultText>
+      <DefaultText>The sensation of power that was at first a pressure in your lungs now surges with each beat of your heart. All of the Tiers look upon the Spires and think of you. Their fear, their admiration, their terror - with the Spire, all of this can be harnessed and used to your purposes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Sentir alguma coisa?"</DefaultText>
+      <DefaultText>"Sense anything?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"O que a espira lhe mostrou?"</DefaultText>
+      <DefaultText>"What did the Spire show you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"O Pináculo teve algum insight?"</DefaultText>
+      <DefaultText>"Did the Spire have any insight?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"A Espiral revelou alguma coisa?"</DefaultText>
+      <DefaultText>"Did the Spire reveal anything?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Já houve visitantes aqui antes, mas parece que nenhum deles entendeu o Pináculo tão bem quanto eu."</DefaultText>
+      <DefaultText>"There have been visitors here before, but it seems none of them understood the Spire as well as I."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"O Spire está me mostrando que uma mulher esteve aqui há muito tempo, junto com alguns outros visitantes fugazes - mas duvido que algum deles fosse o mestre do Pináculo."</DefaultText>
+      <DefaultText>"The Spire is showing me a woman was here long ago, along with a few other fleeting visitors - but I doubt any were the Spire's master."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Pelo que está me mostrando, posso dizer que sou o atual mestre da Torre. Isso é tudo o que importa."</DefaultText>
+      <DefaultText>"From what it's showing me, safe to say I am the Spire's current master. That's all that matters."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Eu estou vendo flashes de visitantes, mas não há nada sobre como o Spire foi construído, ou quem fez essa escultura."</DefaultText>
+      <DefaultText>"I'm seeing flashes of visitors, but there's nothing about how the Spire was built, or who fashioned this sculpture."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1024,67 +1024,67 @@ Mas onde [url=glossary:kyros]Kyros[/url] 'Edicts já não se agitam, sua voz eco
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Por que tenho a impressão de que há uma lei em algum lugar contra a comunhão com os Spires ... de qualquer maneira, aprende alguma coisa?"</DefaultText>
+      <DefaultText>"Why do I get the feeling there's a law somewhere against communing with the Spires... anyway, learn anything?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Fascinante ... o Pináculo contém tal poder ... [url=glossary:the voices of nerat]the Voices of Nerat[/url] será o mais intrigado."</DefaultText>
+      <DefaultText>"Fascinating... the Spire contains such power... [url=glossary:the voices of nerat]the Voices of Nerat[/url] will be most intrigued."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Estou impressionado com sua capacidade de falar com arquitetura, mas ... como isso nos ajuda aqui e agora, com um exército vindo até nós?"</DefaultText>
+      <DefaultText>"I'm in awe of your capacity to speak with architecture but... how does this help us here and now, with an army coming at us?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"É claro que ... o Pináculo só teve que se apaixonar por um estrangeiro. O que você tem que eu não tenho? Eu não posso imaginar que o Pináculo tem uma queda por sotaques ..."</DefaultText>
+      <DefaultText>"Of course... the Spire just had to fall in love with a foreigner. What do you have that I don't? I can't imagine the Spire has a thing for accents..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Isso é bastante notável ... tudo isso. Rhogalus ficaria surpreso que um de seus alunos agora é dono de um Spire! Bem ... mais ciumento do que maravilhado."</DefaultText>
+      <DefaultText>"This is quite remarkable... all of it. Rhogalus would be amazed one of his students is now master of a Spire! Well... more jealous than amazed."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Eu sei o sentimento. Se eu tivesse um anel de ferro para cada vez que eu não conseguia entender todo o conhecimento que estava tentando transmitir, eu seria um homem rico."</DefaultText>
+      <DefaultText>"I know the feeling. If I had an iron ring for every time I failed to grasp all the knowledge [url=glossary:the voices of nerat]the Voices of Nerat[/url] was trying to impart, I'd be a rich man."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Talvez seja o melhor ... se este monumento tem uma mente própria, eu sou suspeito de seus motivos."</DefaultText>
+      <DefaultText>"Perhaps that's for the best... if this monument has a mind of its own, I am suspect of its motives."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Estou surpreso que você possa entender qualquer coisa disso. Eu vivi próximo a essa coisa por décadas e não tinha a menor idéia de que um monumento pudesse falar, er, de uma maneira."</DefaultText>
+      <DefaultText>"I'm surprised you can make sense of any of this. I've lived next to this thing for decades and had no idea a monument could speak, er, in a fashion."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"Talvez quando você não tiver um exército ao seu redor, você terá tempo para ponderar essas visões com mais cuidado."</DefaultText>
+      <DefaultText>"Perhaps when you don't have an army surrounding you, you'll have time to ponder these visions more carefully."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Quem esteve aqui antes, VOCÊ é o que o Spire parece adorar agora ... sua perda, seu ganho."</DefaultText>
+      <DefaultText>"Whomever was here before, YOU are the one the Spire seems to adore now... their loss, your gain."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"Estou impressionado com sua capacidade de falar com arquitetura, mas ... como isso nos ajuda aqui e agora, com um exército vindo até nós?"</DefaultText>
+      <DefaultText>"I'm in awe of your capacity to speak with architecture but... how does this help us here and now, with an army coming at us?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Se alguém tivesse estado aqui em cima, você pensaria que nós teríamos um pouco de história disto mas ... talvez esses que estavam aqui em cima fizeram grandes esforços para esconder isto. Não como qualquer um ativou este lugar o modo que você tem. .. Isso não teria escapado aviso. "</DefaultText>
+      <DefaultText>"If someone HAD been up here, you'd think we'd have some history of it but... perhaps those who were up here went to great lengths to hide it. Not like anyone has activated this place the way you have... THAT would not have escaped notice."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Este pináculo não apareceu apenas do nada ... mas ao mesmo tempo, acho que seus proprietários originais já se foram há muito tempo."</DefaultText>
+      <DefaultText>"This Spire didn't just appear out of thin air... but at the same time, I think its original owners are long gone."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1094,12 +1094,12 @@ Mas onde [url=glossary:kyros]Kyros[/url] 'Edicts já não se agitam, sua voz eco
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Alguns dos rostos olhando para você são familiares, e você reconhece este lugar como [url=glossary:lethian's crossing]Lethian's Crossing[/url], onde você serviu durante a guerra.</DefaultText>
+      <DefaultText>Some of the faces looking at you are familiar, and you recognize this place as [url=glossary:lethian's crossing]Lethian's Crossing[/url], where you served during the war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Embora você não tenha visto em pessoa, você está certo de que esta é uma visão de, para nenhum outro lugar são os Tiersmen corajosos ou desesperados o suficiente para se estabelecer na intersecção de Oldwalls banidos por Bane.</DefaultText>
+      <DefaultText>Though you haven't seen it in person, you are certain this is a vision of [url=glossary:lethian's crossing]Lethian's Crossing[/url], for nowhere else are the Tiersmen brave or desperate enough to settle at the intersection of Bane-ridden Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

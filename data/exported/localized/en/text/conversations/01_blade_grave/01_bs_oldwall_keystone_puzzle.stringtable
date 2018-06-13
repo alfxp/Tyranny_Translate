@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_bs_oldwall_keystone_puzzle</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>O keystone se encaixa, mas não gera uma resposta. Depois de um segundo, solta-se da tomada.</DefaultText>
+      <DefaultText>The keystone fits, but fails to generate a response. After a second, it slips loose from the socket. </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

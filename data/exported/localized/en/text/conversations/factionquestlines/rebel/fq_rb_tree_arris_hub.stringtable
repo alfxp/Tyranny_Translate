@@ -1,5 +1,5 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\factionquestlines\rebel\fq_rb_tree_arris_hub</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>30</EntryCount>
@@ -21,27 +21,27 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Nó Conv. Trigger 4</DefaultText>
+      <DefaultText>Trigger Conv Node 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Arri acena com a cabeça em sua direção. "Se você tiver alguma pergunta para mim, fique à vontade para dublá-las agora."</DefaultText>
+      <DefaultText>Arri nods in your direction. "If you have any questions for me, feel free to voice them now." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Como estão as [url=glossary:vendrien guard]Vendrien Guard[/url]?"</DefaultText>
+      <DefaultText>"How are the [url=glossary:vendrien guard]Vendrien Guard[/url] doing?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Despedida."</DefaultText>
+      <DefaultText>"Farewell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Trazer um pouco de ordem para o poço nos deu a oportunidade de reagrupar e considerar nossas prioridades. Quando você chegar até ele, o nosso coletivo é apenas tão velho quanto o segundo ano de invasão. Nós temos muito espaço para crescer." , mas nossas raízes são plantadas em solo raso ".</DefaultText>
+      <DefaultText>"Bringing some order to the Well has given us the opportunity to regroup and consider our priorities. When you get right down to it, our collective is only as old as the second year of [url=glossary:kyros]Kyros[/url]' invasion. We have a lot of room to grow, but our roots are planted in shallow soil." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,68 +51,68 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Concordamos que as forças do [url=glossary:kyros]Kyros[/url] devem se retirar incondicionalmente dos Tiers, mas isso está começando a parecer nosso único ponto de acordo firme."</DefaultText>
+      <DefaultText>"We agree that [url=glossary:kyros]Kyros[/url]' forces must unconditionally withdraw from the Tiers, but that is starting to look like our only point of firm accord."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Ela franze a testa. "É uma coisa boa que nós galvanizamos o resto dos Tiers para revidar, porque o que temos por conta própria não levaria essa rebelião sem ajuda."</DefaultText>
+      <DefaultText>She frowns. "It's a good thing that we've galvanized the rest of the Tiers to strike back, because what we have on our own wouldn't carry this rebellion without help." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Toda palavra grita de fragilidade. Acorde e guie seu povo!"</DefaultText>
+      <DefaultText>"Every word screams of frailty. Wake up and lead your people!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"A cooperação fortalecerá os Tiers novamente. Tenho esperança."</DefaultText>
+      <DefaultText>"Cooperation will make the Tiers strong again. I have hope."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Vindo de um lugar de desvantagem torna a sua história inspiradora. Eu me apegaria a isso."</DefaultText>
+      <DefaultText>"Coming from a place of disadvantage makes your story inspiring. I would cleave to that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Ela se aperta e acena com a cabeça. "Você está certo. Mesmo se eu sentir minhas próprias dúvidas, eu não deveria ser tão rápido para expressá-las aos outros."</DefaultText>
+      <DefaultText>She snaps to attention and nods. "You're right. Even if I feel my own misgivings, I shouldn't be so quick to voice them to others."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Nosso modo de vida depende dessa esperança. Nós quebramos o cerco, mas não podemos retomar o reino sem uma frente unificada contra o [url=glossary:kyros]Kyros[/url]".</DefaultText>
+      <DefaultText>"Our way of life is depending on that hope. We broke the siege, but we can't take back the realm without a unified front against [url=glossary:kyros]Kyros[/url]." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Você está certo. Aqui estou duvidando de nossas chances, mas as pessoas tomaram a esperança de nossa magra rebelião. Isso tem que significar alguma coisa, certo?"
+      <DefaultText>"You're right. Here I stand doubting our chances, but the people have taken hope from our meager rebellion. That has to mean something, right?"
 
-Ela sorri para você. "Obrigado pelas palavras amáveis."</DefaultText>
+She smiles at you. "Thanks for the kind words." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Deve ser estranho convidar o empregado do [url=glossary:tunon]Tunon[/url] para a dobra."</DefaultText>
+      <DefaultText>"It must feel strange inviting [url=glossary:tunon]Tunon[/url]'s servant into the fold."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Ela pisca um sorriso ansioso. "Foi uma aposta, mas eu diria que você superou nossas expectativas até agora. Continue assim e um dia desses talvez eu durma a noite toda."</DefaultText>
+      <DefaultText>She flashes an anxious smile. "It was a gamble, but I'd say you've exceeded our expectations so far. Keep it up and one of these days maybe I'll sleep through the night." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Seu tom afunda e ela se esforça para encontrar seu olhar. "Eu provavelmente não digo isso o suficiente, mas o fato de você fazer parte da corte de [url=glossary:tunon]Tunon[/url] fez mais pela rebelião do que qualquer número de espadas ou escudos."
+      <DefaultText>Her tone dips, and she struggles to meet your gaze. "I probably don't say this enough, but the fact that you're part of [url=glossary:tunon]Tunon[/url]'s court has done more for the rebellion than any number of swords or shields."
 
-"Isso mostra ao povo que a ofensiva é mais fraca do que eles pensam. Os Arcontes não têm seus assuntos em ordem, e a conquista que eles achavam tão perto de terminar está se dividindo nas costuras".</DefaultText>
+"It shows the people that [url=glossary:kyros]Kyros[/url]' offensive is weaker than they think. The Archons don't have their affairs in order, and the conquest they thought so close to finished is splitting at the seams."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Então, obrigada. Quando contamos aos nossos netos sobre como nós quase nos inclinamos para o domínio de um tirano, você sempre será quem guiou o curso dos acontecimentos para melhor."
+      <DefaultText>"So, thank you. When we tell our grandchildren about how we almost bowed to a tyrant's rule, you'll always be the one who steered the course of events for the better."
 
-"Não importa o que aconteça a seguir, isso será verdade."</DefaultText>
+"No matter what happens next, that much will hold true." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,27 +122,27 @@ Ela sorri para você. "Obrigado pelas palavras amáveis."</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Eu permanecerei aqui para escorar nossas defesas no caso de sermos atacados novamente. Por favor, se apressem para [url=glossary:lethian's crossing]Lethian's Crossing[/url], nossa aliança dança na borda de uma lâmina enquanto Haven estiver sob cerco."</DefaultText>
+      <DefaultText>"I'll remain here to shore up our defenses in case we are attacked again. Please make haste to [url=glossary:lethian's crossing]Lethian's Crossing[/url], our alliance dances on the edge of a blade as long as Haven is under siege."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Haven é seguro, tudo o que resta é levar a luta para os Arcontes."</DefaultText>
+      <DefaultText>"Haven is safe, all that is left is taking the fight to the Archons."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Espero que um novo capítulo na justiça possa ser escrito para os Tiers agora que o Adjudicator foi derrotado."</DefaultText>
+      <DefaultText>"Hopefully a new chapter in justice can be written for the Tiers now that [url=glossary:tunon]Tunon[/url] the Adjudicator has been defeated."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Eu ouvi relatórios de [url=glossary:disfavored]Disfavored[/url] soldados desmoronando através dos Tiers ... Eu acho que os rumores de Aegis de Ashe protegendo seus soldados de ferimentos eram verdadeiros."</DefaultText>
+      <DefaultText>"I've heard reports of [url=glossary:disfavored]Disfavored[/url] soldiers collapsing across the Tiers... I guess the rumors of Ashe's Aegis protecting his soldiers from wounds were true."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] foram silenciados. Não vou dizer que vou sentir falta daquela irritante risada dele ..."</DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] have been silenced. I won't say I'll miss that annoying laugh of his..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@ Ela sorri para você. "Obrigado pelas palavras amáveis."</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"É difícil acreditar que [url=glossary:tunon]Tunon[/url] levaria um joelho antes de qualquer um, mas aqui está você. Talvez com a sua autoridade possamos reescrever as leis que esmagaram as pessoas dos Tiers."</DefaultText>
+      <DefaultText>"It find it hard to believe that [url=glossary:tunon]Tunon[/url] would take a knee before anyone, but here you stand. Perhaps with your authority we can rewrite the laws that have crushed the people of the Tiers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

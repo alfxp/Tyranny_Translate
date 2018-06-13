@@ -1,76 +1,76 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\08_vendrienswell\08_cv_aurora_intro</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>50</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] o Overlord ser louvado! Quando eu ouvi a avalanche, temi que o vale foi selado com você do outro lado."
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] the Overlord be praised! When I heard the avalanche, I feared the valley was sealed with you on the other side."
 
-A guerreira bate sua luva no peitoral, a tradicional saudação de sua legião.</DefaultText>
+The [url=glossary:disfavored]Disfavored[/url] warrior claps her gauntlet to her breastplate, the traditional salute of her legion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Fatebinder [Player Name], eu presumo? Estamos esperando por você."</DefaultText>
+      <DefaultText>"Fatebinder [Player Name], I presume? We've been expecting you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] protege."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] protects."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Fatebinder [Player Name]? Só a nossa sorte que eles mandariam para você ..."</DefaultText>
+      <DefaultText>"Fatebinder [Player Name]? Just our luck they'd send you..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Eu ofereço-lhe um retorno bem-vindo ao [url=glossary:vendrien's well]Vendrien's Well[/url]. A altitude ainda é vertiginosa, e os moradores ainda se revoltam - duplamente por isso, como eles mijaram em [url=lore:edgering_aurora_react]that peace accord you offered them[/url]. Edgering Pass ainda é como você se lembra - eu estava esperando para ter os guerreiros comemoram seu retorno com um banquete apropriado, mas me disseram que você tem lugares para estar.</DefaultText>
+      <DefaultText>"I bid you a welcome return to [url=glossary:vendrien's well]Vendrien's Well[/url]. The altitude is still dizzying, and the locals still revolting - doubly so this time around, as they've pissed on [url=lore:edgering_aurora_react]that peace accord you offered them[/url]. Edgering Pass is still as you remember it - I was hoping to have the warriors celebrate your return with a proper feast, but I'm told you have places to be."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Desculpe eu não tenho uma boa recepção para o [url=lore:edgering_aurora_react]Queenslayer[/url]. Talvez se eu não fosse tão short-handed, eu poderia ter feito os preparativos - mas não incomodar. Estamos honrados por ter você todos o mesmo, e estou ansioso para vendo o [url=lore:oathbreaker]oathbreakers[/url] perder a calma com a visão de você ".</DefaultText>
+      <DefaultText>"Sorry I don't have a proper welcome for the [url=lore:edgering_aurora_react]Queenslayer[/url]. Perhaps if I weren't so short-handed, I could have made preparations - but no bother. We are honored to have you all the same, and I look forward to seeing the [url=lore:oathbreaker]oathbreakers[/url] lose their cool at the sight of you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Estou com pressa de entregar uma mensagem aos Arcontes."</DefaultText>
+      <DefaultText>"I am in a hurry to deliver a message to the Archons."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Bem, você viajou por um longo caminho - eu não vou mantê-lo ainda mais. Tenho certeza que os Archons vão querer ouvir de você em-"
+      <DefaultText>"Well you've traveled a long way - I won't keep you further. I'm sure the Archons will want to hear from you at-"
 
-A voz dela fica em silêncio, a atenção voltando para o leste com alarme. "Você ouviu isso?"</DefaultText>
+Her voice falls silent, her attention snapping eastward with alarm. "Did you hear that?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Eu venho trazendo um [url=glossary:edict]Edict[/url] de [url=glossary:kyros]Kyros[/url], nossos soldados vão completar sua tarefa ou morrer."</DefaultText>
+      <DefaultText>"I come bearing an [url=glossary:edict]Edict[/url] of [url=glossary:kyros]Kyros[/url], our soldiers will complete their task or die."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"O [url=glossary:edict]Edict[/url] é nivelado contra nós?" Seus olhos se arregalam de medo, sua postura diminui. "Mas o [url=glossary:scarlet chorus]Scarlet Chorus[/url] impede-nos de agir! Por que o Overlord punir ambos de" Ela limpa a garganta com um suspiro. "Perdoe-me, não é o meu lugar para questionar. Deveríamos ter conquistado o inimigo dentro de algumas semanas de chegar ao vale - o atraso reflete mal em todos nós."</DefaultText>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] is leveled against us?" Her eyes widen with fear, her posture slackens. "But the [url=glossary:scarlet chorus]Scarlet Chorus[/url] prevents us from taking action! Why would the Overlord punish both of-" She clears her throat with a sigh. "Forgive me, it is not my place to question. We should have conquered the enemy within weeks of arriving in the valley - the delay reflects poorly on all of us."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Mais corredores ... terceira vez esta semana. Os jurados continuam tentando enviar mensageiros pelas montanhas para obter ajuda de fora do vale." Ela aponta para o caminho desmoronado pelo qual você chegou. "Mas eles estão um pouco atrasados ​​para isso agora. Venha, vamos mostrar a estes [url=lore:oathbreaker]oathbreakers[/url] uma boa luta."</DefaultText>
+      <DefaultText>"More runners... third time this week. The oathbreakers keep trying to send messengers through the mountains to gather help from outside the valley." She points over to the collapsed path by which you arrived. "But they're a bit too late for that now. Come, let's show these [url=lore:oathbreaker]oathbreakers[/url] a good fight."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Se todos nós seguirmos a vontade e pararmos a insurreição, nenhum mal acontecerá para nenhum de nós."</DefaultText>
+      <DefaultText>"If we all follow [url=glossary:kyros]Kyros[/url]' will and stop the insurrection, no harm will come to any of us."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Dois Arcontes e seus exércitos não podem tomar uma cidadela que eles tomaram antes? É claro que [url=glossary:kyros]Kyros[/url] está descontente."</DefaultText>
+      <DefaultText>"Two Archons and their armies cannot take a citadel they've taken before? Of course [url=glossary:kyros]Kyros[/url] is displeased."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,28 +80,28 @@ A voz dela fica em silêncio, a atenção voltando para o leste com alarme. "Voc
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Se seguir as ordens e matar os moradores salvará nossas vidas, você não precisa me dizer duas vezes! E eu espero que você não tenha que contar aos Arcontes duas vezes também."
+      <DefaultText>"If following orders and killing the locals will save our lives, you don't have to tell me twice! And I sure hope you don't have to tell the Archons twice either."
 
-Ela olha para você com um sorriso nervoso. "Ainda assim ... tudo isso vem do Firestarter - o Fatebinder que fez o fogo borbulhar do solo e reduzir o freixo ... então você vai me perdoar se eu ainda estiver com medo".</DefaultText>
+She looks at you with a nervous smile. "Still... this is all coming from the Firestarter - the Fatebinder that made fire bubble up from the soil and reduce the [url=glossary:vellum citadel]Vellum Citadel[/url] to ash... so you'll forgive me if I'm still terrified all the same."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Suas palavras picam, mas elas não são falsas. Os soldados estão prontos, mas os Arcontes nunca emitem a acusação. Se qualquer coisa pode forçá-los a agir, será o [url=glossary:edict]Edict[/url] do Overlord."</DefaultText>
+      <DefaultText>"Your words sting, but they are not false. The soldiers stand ready, yet the Archons never issue the charge. If anything can force them to act, it will be the Overlord's [url=glossary:edict]Edict[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Eu vi por que eles chamam você de Invocador da Tempestade! Eu vi em primeira mão o que aconteceu com Stalwart por sua recusa em lutar. Agora nós somos os culpados por protelar e ofender o Overlord!"
+      <DefaultText>"I've seen why they call you Stormcaller! I saw first-hand what happened to Stalwart for their refusal to fight. Now we are the ones guilty of stalling and offending the Overlord!"
 
-Ela limpa a garganta, piscando rapidamente enquanto recupera a compostura. "Sinto muito, como você disse, se seguirmos o 'll11111111111111111111111111111', não há necessidade de preocupação - como sempre aconteceu."</DefaultText>
+She clears her throat, blinking quickly as she recovers her composure. "I'm sorry, as you said, if we follow [url=glossary:kyros]Kyros[/url]' will, there is no need for concern - as ever the case."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Isso não marcaria a segunda vez que você é encarregado de proclamar um [url=glossary:edict]Edict[/url] contra o nosso próprio? Isso deve ter sido uma tarefa sombria, proclamando um [url=glossary:edict]Edict[/url] contra [url=glossary:cairn]Cairn[/url] ... mas alguém teve que entregar execução do traidor".
+      <DefaultText>"Wouldn't this mark the second time you're tasked with proclaiming an [url=glossary:edict]Edict[/url] against our own? That must have been a grim task, proclaiming an [url=glossary:edict]Edict[/url] against [url=glossary:cairn]Cairn[/url]... but someone had to deliver that traitor's execution."
 
-"Eu espero que você esteja certo, e que tudo o que precisamos fazer é colocar nossas bundas em ação e acabar com essa insurreição. Vamos torcer para que isso acenda um fogo sob os Arcontes para concordar com um plano."</DefaultText>
+"I sure hope you're right, and that all we need to do is get our asses in motion and put down this uprising. Let's hope this lights a fire under the Archons to agree on a plan."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,173 +111,173 @@ Ela limpa a garganta, piscando rapidamente enquanto recupera a compostura. "Sint
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Um sorriso nervoso se arrasta sobre ela enquanto espera por uma resposta que não chega.
+      <DefaultText>A nervous smile creeps over her as she waits for a response that doesn't arrive. 
 
-"Estou fazendo perguntas além da minha posição." Ela mergulha baixa, tremendo quando ela se curva. "Perdão, por favor."</DefaultText>
+"I am asking questions beyond my station." She dips low, trembling as she bows. "Forgiveness, please."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Para a glória de [url=glossary:kyros]Kyros[/url]!"</DefaultText>
+      <DefaultText>"For the glory of [url=glossary:kyros]Kyros[/url]!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Aurora se afasta um pouco de você. "Eu entendo que não sou obrigado a saber tais coisas ..." ela estuda seu rosto, sorrindo nervosamente enquanto ela não consegue discernir seus sinais, "... ou eu vou aprender coisas quando é hora de eu saber? Você sabe o que - esqueça eu perguntei ".</DefaultText>
+      <DefaultText>Aurora eases back from you ever so slightly. "I gather I am not required to know such things..." she studies your face, smiling nervously as she fails to discern your signals, "... or I'll learn things when it's time for me to know? You know what - forget I asked."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Eu estava esperando [url=glossary:tunon]Tunon[/url] iria enviar o Queenslayer! Se apenas para ver o olhar sobre os rostos dos juramento [url=lore:edgering_aurora_react]when they see you in the flesh again[/url]!"</DefaultText>
+      <DefaultText>"I was hoping [url=glossary:tunon]Tunon[/url] would send the Queenslayer! If only to see the look on the oathbreakers' faces [url=lore:edgering_aurora_react]when they see you in the flesh again[/url]!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"A avalanche nos bloqueou - acho que você poderia passar pelos escombros?"</DefaultText>
+      <DefaultText>"The avalanche has us blocked - think you could fit through the rubble?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Eu vou voltar para o meu posto para garantir que ninguém mais saia do vale!"</DefaultText>
+      <DefaultText>"I'll head back to my post to ensure no one else makes it out of the valley!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Você pode ouvir aquele zumbido no ar - aquele brilho ao redor das rochas? A avalanche é [url=glossary:kyros]Kyros[/url] 'mágica - o Overlord selou o vale."</DefaultText>
+      <DefaultText>"Can you hear that hum in the air - that glow around the rocks? The avalanche is [url=glossary:kyros]Kyros[/url]' magic - the Overlord has sealed the valley."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Seus sentidos veem mais do que o meu, bom Fatebinder - Eu não finjo saber muito sobre essas coisas. Mas se isso foi mágico, e você está aqui em negócios importantes ... bem, você não tem que ser o Arconte dos Segredos para adivinhar que você está aqui para proclamar um [url=glossary:edict]Edict[/url]. O que [url=glossary:kyros]Kyros[/url] tem reservado para o inimigo? Dez anos de praga purulenta? Um [url=glossary:edict]Edict[/url] de ossos torcidos? "</DefaultText>
+      <DefaultText>"Your senses see more than mine, good Fatebinder - I do not pretend to know much about such things. But if that was [url=glossary:kyros]Kyros[/url]' magic and you're here on important business... well, you don't have to be the Archon of Secrets to guess that you're here to proclaim an [url=glossary:edict]Edict[/url]. What does [url=glossary:kyros]Kyros[/url] have in store for the enemy? Ten years of festering plague? An [url=glossary:edict]Edict[/url] of twisted bones?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Seu primeiro instinto é culpar o [url=glossary:scarlet chorus]Scarlet Chorus[/url] ... não é de admirar [url=glossary:kyros]Kyros[/url] resorts para um [url=glossary:edict]Edict[/url] para fazer cumprir a ordem."</DefaultText>
+      <DefaultText>"Your first instinct is to blame the [url=glossary:scarlet chorus]Scarlet Chorus[/url]... no wonder [url=glossary:kyros]Kyros[/url] resorts to an [url=glossary:edict]Edict[/url] to enforce order."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Sim, bem ..." Seus olhos mudam para o lado. "De fato houve pouca boa vontade entre nossos exércitos, e você está certo - quando agimos como fazemos, que escolha damos ao Overlord?"
+      <DefaultText>"Yes, well..." Her eyes shift to the side. "There has indeed been little goodwill between our armies, and you are right - when we act as we do, what choice do we give the Overlord?"
 
-Ela respira fundo, assentindo enquanto exala. "E você está certo, eu não deveria culpar tão livremente, especialmente quando falo com um servo da justiça - minhas desculpas."</DefaultText>
+She takes a deep breath, nodding as she exhales. "And you are right, I should not cast blame so freely, especially not when talking to a servant of justice - my apologies."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Isso parece uma missão suicida - o que a [url=glossary:vendrien guard]Vendrien Guard[/url] espera realizar?"</DefaultText>
+      <DefaultText>"This seems like a suicide mission - what do the [url=glossary:vendrien guard]Vendrien Guard[/url] hope to accomplish?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Continue."</DefaultText>
+      <DefaultText>"Carry on."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Eu tenho viajado por dias, quanto tempo mais até eu alcançar os Arcontes?"</DefaultText>
+      <DefaultText>"I've been traveling for days, how much longer until I reach the Archons?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Você está quase chegando ao seu destino. Assim que liberarmos a passagem do inimigo, basta seguir para o sul, no sopé das montanhas - a partir daí, deve ser apenas uma questão de horas para os acampamentos".</DefaultText>
+      <DefaultText>"You're almost to your destination. Once we clear the pass of the enemy, just head south down the foothills - from there, should just be a matter of hours to the encampments."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Pelo que aprendemos com os outros prisioneiros, os corredores são instruídos a fugir do vale e angariar apoio para os infratores, em outros lugares das fileiras".
+      <DefaultText>"From what we've learned from the other prisoners, the runners are instructed to escape the valley and drum up support for the oathbreakers' cause elsewhere in the Tiers."
 
-Aurora encolhe os ombros. "Eu não sei quem eles acham que ouvirão seus pedidos. Nós destruímos todos os exércitos, fortalezas e autoproclamados governantes que esses homens de baixo escalão têm a oferecer. Talvez eles achem que as bestas selvagens se reunirão ao seu lado?"</DefaultText>
+Aurora shrugs. "I don't know who they think will listen to their pleas. We've smashed every army, fortress, and self-proclaimed ruler these lowborn Tiersmen have to offer. Perhaps they think the wild Beasts will rally to their side?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] vitória encharcou o Tiers com medo - eu duvido que alguém iria reunir a sua causa sem esperança."</DefaultText>
+      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] victory has soaked the Tiers with fear - I doubt anyone would rally to their hopeless cause."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Talvez se você tivesse destruído mais completamente esses Tiersmen, não teríamos esse problema atual."</DefaultText>
+      <DefaultText>"Perhaps if you had more thoroughly destroyed these Tiersmen, we wouldn't be having this current problem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Meus pensamentos exatamente. Eles perderam essa guerra anos atrás - isso é pouco mais que o último suspiro de um povo moribundo."</DefaultText>
+      <DefaultText>"My thoughts exactly. They lost this war years ago - this is little more than the last gasp of a dying people."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Aurora olha para você com os olhos apertados. "Nós tínhamos muito terreno para cobrir e fazia sentido aceitar a rendição deles e empurrar mais fundo nos Tiers."
+      <DefaultText>Aurora stares at you with narrowed eyes. "We had a lot of ground to cover and it made sense to accept their surrender and push deeper into the Tiers."
 
-Ela sacode a cabeça. "Não adianta discutir estratégias de ontem."</DefaultText>
+She shakes her head. "No use arguing strategies of yesterday."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Bem, TALVEZ nós teríamos colocado todos esses idiotas no machado, mas alguns Fatebinder tiveram a noção complicada de convencer os locais a se renderem. E olhe onde estamos agora."
+      <DefaultText>"Well PERHAPS we'd have put all these fools to the axe but some Fatebinder got the addled notion of convincing the locals to surrender.  And look where we are now."
 
-Ela balança a cabeça, segurando uma risada. "Claro, [url=glossary:graven ashe]Graven Ashe[/url] e seu círculo interno estavam sugerindo conversas de paz no passado. Suponha que a retrospectiva faça de nós um tolo."</DefaultText>
+She shakes her head, holding back a chuckle. "Of course, [url=glossary:graven ashe]Graven Ashe[/url] and his inner circle were all suggesting peace talks back in the day. Suppose hindsight makes a fool of us all."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Devemos estar vigilantes e lidar com os restantes infratores no passe."</DefaultText>
+      <DefaultText>"We should be vigilant and deal with the remaining oathbreakers in the pass."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Força bruta também funcionará."</DefaultText>
+      <DefaultText>"Brute strength will also work."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Isso é um baixo. Vamos verificar mais ao longo do caminho para mais."</DefaultText>
+      <DefaultText>"That's one down. Let's check further along the path for more."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Você está perdido? Eu vou assistir essa parte do passe. Vá para o norte, depois para o leste."</DefaultText>
+      <DefaultText>"Are you lost? I'll watch this leg of the pass. Go north, then east."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Estou honrado em recebê-lo de volta para Edgering Pass. Os soldados não se esqueceram de como você protegeu a integridade do nosso esquadrão. Nem os locais 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 sorte pilha de esterco ... eu matei quantos destes southnobs, e ainda não tem apelido. "
+      <DefaultText>"I'm honored to welcome you back to Edgering Pass. The soldiers have not forgotten how you protected the integrity of our squad. Nor have the locals [url=lore:edgering_aurora_react]forgotten your 'self-defense' killing of Queen Alanta. 'Queenslayer' they've taken to calling you...[/url] lucky pile of dung... I've slain how many of these southnobs, and still no nickname."
 
-Ela balança a cabeça, segurando uma risada. "É uma vergonha não podermos oferecer a você uma recepção mais festiva - essas coisas terão que esperar até lidarmos com essa insurreição".</DefaultText>
+She shakes her head, holding back a chuckle. "A shame we cannot offer you a more festive welcome - such things will have to wait until we deal with this insurrection."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Quando eu ouvi falar de um Fatebinder, tive um mau pressentimento que você enviaria." A [url=glossary:disfavored]Disfavored[/url] guerreiro limpa a garganta dela, forçando um sorriso ao rosto dela. "Se o Archon of Justice envia um Fatebinder 333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333, talvez seja um sinal de quem deve ser escolhido para governar estes Tiersmen inútil."</DefaultText>
+      <DefaultText>"When I heard to expect a Fatebinder, had a bad feeling [url=glossary:tunon]Tunon[/url] would send you." The [url=glossary:disfavored]Disfavored[/url] warrior clears her throat, forcing a smile to her face. "If the Archon of Justice sends a Fatebinder [url=lore:edgering_aurora_react]who favors the ways of the Scarlet Chorus over the sanctity of the legion[/url], perhaps that's a sign of who's to be chosen to rule these worthless Tiersmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Fomos informados de um Fatebinder estava chegando, e apesar de nossos comandantes não vou dizer porquê, parece óbvio [url=glossary:graven ashe]Graven Ashe[/url] e [url=glossary:the voices of nerat]the Voices of Nerat[/url] pode concordar com nada -. Muito menos planos de batalha para acabar com a [url=lore:oathbreaker]oathbreakers[/url]. Eu confio em você trazer ordens de [url=glossary:tunon]Tunon[/url] que vai quebrar esse impasse ".</DefaultText>
+      <DefaultText>"We were told a Fatebinder was coming, and though our commanders will not say why, it seems obvious. [url=glossary:graven ashe]Graven Ashe[/url] and [url=glossary:the voices of nerat]the Voices of Nerat[/url] can agree on nothing - least of all battle plans to wipe out the [url=lore:oathbreaker]oathbreakers[/url]. I trust you bring orders from [url=glossary:tunon]Tunon[/url] that will break this deadlock."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"O comandante não diria por que [url=lore:edgering_aurora_react]the Governor of Lethian's Crossing[/url] estaria chegando, mas desde que não temos forjas aqui, eu imagino que você está aqui para bater algum sentido [url=glossary:the voices of nerat]the Voices of Nerat[/url]-" ela se pega, limpando a garganta com um sorriso ", quero dizer, mediar com os Arcontes, para que possamos concordar com um plano para acabar com estes [url=lore:oathbreaker]oathbreakers[/url]. "</DefaultText>
+      <DefaultText>"The commander wouldn't say why [url=lore:edgering_aurora_react]the Governor of Lethian's Crossing[/url] would be coming, but since we have no forges here, I imagine you're here to knock some sense into [url=glossary:the voices of nerat]the Voices of Nerat[/url]-" she catches herself, clearing her throat with a smile, "I mean, mediate with the Archons, so that we might agree on a plan to wipe out these [url=lore:oathbreaker]oathbreakers[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Nó do banco 77</DefaultText>
+      <DefaultText>Bank Node 77</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Mas em uma nota pessoal, é bom para a vontade, a maioria da nossa antiga força de invasão ainda vive, mas a maioria de nós foram espalhados pelas camadas, redesignadas conforme as necessidades mudam. Eu sinto falta daqueles dias ..." quando havia tanta batalha pela frente, tanta glória ainda a ser vencida ".
+      <DefaultText>"But on a personal note, it is good to [url=lore:edgering_aurora_past]see another Harbinger[/url]. By [url=glossary:kyros]Kyros[/url]' will, most of our old invasion force still lives, but most of us have been scattered across the Tiers, reassigned as needs change. I miss those days... when there was so much battle ahead of us, so much glory still to be won."
 
-"Mas eu sei que os Arcontes estão esperando por você - não deixe-me falar nostalgicamente sobre os velhos tempos."</DefaultText>
+"But I know the Archons are expecting you - don't let me wax nostalgically about the old days."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"É um prazer vê-lo novamente, Fatebinder. Você estava conosco desde antes dos primeiros dias oficiais da conquista. E então é apropriado que você esteja aqui agora, no que eu espero que seja o último suspiro de resistência desses Tiersmen atrasados."
+      <DefaultText>"A pleasure to see you again, Fatebinder. You were with us since before the first official days of the conquest. And so it's fitting you're here now, in what I hope is that last gasp of resistance from these backwards Tiersmen."
 
-"Espero que você consiga convencer os Archons a aceitar um plano para esmagar o [url=lore:oathbreaker]oathbreakers[/url]. É por isso que você está aqui, certo?"</DefaultText>
+"Here's hoping you can convince the Archons to settle on a plan to crush the [url=lore:oathbreaker]oathbreakers[/url]. That is why you're here, right?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

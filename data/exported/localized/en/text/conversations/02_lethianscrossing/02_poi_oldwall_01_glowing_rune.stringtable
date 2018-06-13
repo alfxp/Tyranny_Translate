@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_poi_oldwall_01_glowing_rune</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Você vê esse brilho misterioso? Em termos arcanos, acredito que significa" importante ". "</DefaultText>
+      <DefaultText>"Do you see that eerie glow? In arcane terms, I believe that means 'important.' "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Nada diz 'armadilha arcana' como uma runa brilhante no chão. Mas eu sei que estou curioso ... e você também ..."</DefaultText>
+      <DefaultText>"Nothing says 'arcane trap' like a glowing rune on the ground. But I know I'm curious... and so are you..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Entalhar no chão cresce como a lua de sangue. Deve cheirar cuidadosamente antes de provar com a língua."</DefaultText>
+      <DefaultText>"Carving in ground grows bright as blood moon. Should sniff carefully before tasting with tongue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Olhe - lá no chão! Veja essa runa? Espero que não signifique 'morte iminente' ou algo igualmente desagradável. Vamos tocar!"</DefaultText>
+      <DefaultText>"Look - there on the ground! See that rune? I sure hope it doesn't mean 'imminent death' or something equally unpleasant. Let's touch it!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Olhe lá! Essa runa está brilhando agora. Eu te ofereço voluntariamente para tocar nela!"</DefaultText>
+      <DefaultText>"Look there! That rune is glowing now. I volunteer you to go touch it!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Uma runa no chão. Por que eles colocariam runas em outro lugar?"</DefaultText>
+      <DefaultText>"A rune on the floor. Because why would they put runes anywhere else?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Nó do banco 7</DefaultText>
+      <DefaultText>Bank Node 7</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

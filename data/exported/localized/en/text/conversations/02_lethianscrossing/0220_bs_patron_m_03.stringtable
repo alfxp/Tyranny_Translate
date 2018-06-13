@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\0220_bs_patron_m_03</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ouvi dizer que Evarista gosta de algo áspero. Eu me pergunto se as camas aqui são fortes o suficiente ..."</DefaultText>
+      <DefaultText>"I've heard Evarista likes it rough. I wonder if the beds here are strong enough..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Eu tenho o suficiente para contratá-la? Ela é provavelmente a única que pode realmente me satisfazer."</DefaultText>
+      <DefaultText>"Do I have enough to hire her? She's probably the only one who can really satisfy me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Talvez eu tente outra pessoa. Half-Mast pode ser divertido ..."</DefaultText>
+      <DefaultText>"Maybe I'll try someone else. Half-Mast might be fun..."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

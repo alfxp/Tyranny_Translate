@@ -1,36 +1,36 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_burninglibrary\0301_cv_foulmurmur</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>45</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Um homem retorcido se debruça sobre duas formas no chão - uma figura vestida com um manto coberto de hematomas, a outra um soldado, horrivelmente queimada, deitada imóvel ao lado.</DefaultText>
+      <DefaultText>A twisted man leans over two forms on the ground - one a robed figure covered in bruises, the other a soldier, horribly burned, lying motionless to the side.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Fatebinder. Você já conseguiu derreter a coragem de Renata?"</DefaultText>
+      <DefaultText>"Fatebinder. Have you managed to spill Renata's guts yet?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Boa sorte com a competição do Censor, Fatebinder."</DefaultText>
+      <DefaultText>"Good luck with the Censor's competition, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>O homem grunhe para você com óbvio desprazer.
+      <DefaultText>The man grunts at you with obvious displeasure.
 
-"Se não é o traidor ele mesmo." Ele cospe. "Se você quer alguma coisa aqui, você precisa se encontrar com o Censor. Ela está ao leste, pela entrada da ruína. Você deveria ir. Agora."</DefaultText>
+"If it isn't the betrayer himself." He spits. "If you want anything here, you need to meet with the Censor. She's to the east, by the ruin's entrance. You should go. Now."</DefaultText>
       <FemaleText>The man grunts at you with obvious displeasure.
 
 "If it isn't the betrayer herself." He spits. "If you want anything here, you need to meet with the Censor. She's to the east, by the ruin's entrance. You should go. Now."</FemaleText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Muito bem. Vamos ver o Censor."</DefaultText>
+      <DefaultText>"Very well. Let's go see the Censor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,18 +40,18 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>O homem manchado de sangue mostra um sorriso de dentes largos.
+      <DefaultText>The bloodstained man flashes a gap-toothed smile. 
 
-"Eu gostaria de recebê-lo corretamente, Fatebinder, mas minhas mãos estão cheias." Como se isso o lembrasse, ele olha para baixo e distraidamente lambe uma gota de sangue do dedo.
+"I would welcome you properly, Fatebinder, but my hands are full." As if that reminds him, he looks down and absentmindedly licks a drop of blood from his finger.
 
-"Se você está aqui a negócios, você deve falar com o nosso líder, o Censor. Sua tenda fica a leste, perto da entrada principal da Biblioteca." A figura vestida geme e o homem o chuta.
+"If you are here on business, you should speak with our leader, the Censor. Her tent is to the east, near the main entrance to the Library." The robed figure moans and the man kicks him.
 
-"Nossas tropas estão fazendo grandes progressos nas ruínas abaixo e podem se beneficiar de sua ajuda."</DefaultText>
+"Our troops are making great progress in the ruins below and could benefit from your assistance."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"O que aconteceu com o Earthshaker morto?"</DefaultText>
+      <DefaultText>"What happened with the dead Earthshaker?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,38 +66,38 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Oh, ele?"
+      <DefaultText>"Oh, him?" 
 
-Ele faz um gesto para a figura queimada a seus pés, seu tom divertido.
+He motions to the burnt figure at his feet, his tone one of amusement. 
 
-"Esse mago de seixos pensou que poderia passar por nós."</DefaultText>
+"This pebble-slinging mage thought he could slip past us."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Ele cutuca o cadáver com a bota. "E para quê? Para comungar com pedras?"
+      <DefaultText>He nudges the corpse with his boot. "And for what? To commune with rocks?"
 
-"Eu garanto que [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] moldou a paisagem local de maneiras estranhas, mas isso não era desculpa para tentar passar pelo nosso acampamento."</DefaultText>
+"I grant you that [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] shaped the local landscape in strange ways, but that was no excuse to try and sneak past our camp."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"O que será deste [url=glossary:sage]Sage[/url]?"</DefaultText>
+      <DefaultText>"What will become of this [url=glossary:sage]Sage[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Vamos colocar desta forma - o [url=glossary:burning library]Burning Library[/url] não é o site mais tradicional para um acampamento de coro. Se o melhor treinamento disponível para nós é o de alvos ao vivo, então que assim seja."</DefaultText>
+      <DefaultText>"Let's put it this way - the [url=glossary:burning library]Burning Library[/url] isn't the most traditional site for a Chorus encampment. If the best training available to us is live targets, then so be it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Enquanto ele vive, o cativo pode entregar algumas informações úteis sobre os Sábios na região que ainda temos que subjugar."</DefaultText>
+      <DefaultText>"While he lives, the captive might surrender some useful information about the Sages in the region we have yet to subdue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Eu cuidei de Renata."</DefaultText>
+      <DefaultText>"I've taken care of Renata."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,171 +107,171 @@ Ele faz um gesto para a figura queimada a seus pés, seu tom divertido.
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>O rosto marcado pelo homem se abre em um sorriso. "Eu estava esperando que você resistisse. Vamos acabar com isso."
+      <DefaultText>The man's pock-marked face cracks into a smile. "I was hoping you'd resist. Let's get this over with." 
 
-Sem outra palavra, ele te empurra com armas desenhadas.</DefaultText>
+Without another word, he rushes you with weapons drawn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Quem é Você?"</DefaultText>
+      <DefaultText>"Who are you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Eu sou o principal atendente do Censor, e supervisiono nossos esforços para acessar e, finalmente, destruir o Arquivo Silencioso".
+      <DefaultText>"I am the Censor's primary attendant, and I oversee our efforts to access and ultimately destroy the Silent Archive."
 
-"Quando não estou gerenciando pessoas, estou tirando respostas delas como vermes da sujeira."</DefaultText>
+"When I'm not managing people, I'm digging answers out of them like worms from the dirt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Ele olha para os corpos.
+      <DefaultText>He glances at the bodies. 
 
-"Eu sei como isso deve ser, mas está tudo em conformidade com a lei do [url=glossary:tunon]Tunon[/url]. Se você não se importa, estou ansioso para retomar o meu trabalho."</DefaultText>
+"I know how this must look, but it's all in compliance with [url=glossary:tunon]Tunon[/url]'s law. If you don't mind, I'm eager to resume my work."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Bom. [url=glossary:kyros]Kyros[/url] sabe que não precisamos dela no nosso rabo. O Coro recompensa aqueles que servem."
+      <DefaultText>"Good. [url=glossary:kyros]Kyros[/url] knows we didn't need her on our tail. The Chorus rewards those who serve."
 
-"Podemos continuar nosso trabalho em paz agora que Renata não estará mais nos incomodando."</DefaultText>
+"We can continue our work in peace now that Renata will no longer be bothering us."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"O Censor quer falar com você. Eu não a deixaria esperando."</DefaultText>
+      <DefaultText>"The Censor wants to speak with you. I wouldn't keep her waiting."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Então, o que posso ajudá-lo, Fatebinder?"</DefaultText>
+      <DefaultText>"So what can I help you with, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Ele sorriu torto, as lacunas nos dentes expondo gengivas inchadas e vermelhas como sangue.
+      <DefaultText>He smiled crookedly, the gaps in his teeth exposing swollen blood-red gums.
 
-"Saudações, Fatebinder. O Censor disse que eu poderia estar recebendo um assistente para me ajudar."</DefaultText>
+"Greetings, Fatebinder. The Censor said I might be getting an assistant to help me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
       <DefaultText>"Ugh!"
 
-O torturador limpa o sangue entre os dedos e o considera aborrecido.
+The torturer wipes blood from between his fingers and regards you with annoyance.
 
-"O Censor ordenou que eu não o atacasse. Francamente, eu não quero nada com você. Deixe-me continuar meu trabalho."</DefaultText>
+"The Censor ordered me not to attack you. Frankly, I don't want anything to do with you. Leave me to continue my work."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"O Censor diz que você tem tarefas para mim."</DefaultText>
+      <DefaultText>"The Censor says you have tasks for me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Eu faço. Bem, eu fiz. Parece que você já tem um gosto por sangue. Meus agradecimentos por colocar aquele farejador de tinta Renata na sujeira."</DefaultText>
+      <DefaultText>"I do. Well, I did. It seems you've already got a taste for blood. My thanks for putting that ink-sniffer Renata in the dirt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"O Censor queria primeiro ver que você está disposto a ajudar antes de deixar você entrar nas ruínas."</DefaultText>
+      <DefaultText>"The Censor wanted to first see that you're willing to help before letting you into the ruins."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Isso eu faço. Embora tenhamos capturado e subjugado a maioria dos Sábios sobreviventes, aqueles que escaparam da Biblioteca estão se unindo atrás de sua líder de fato, Renata."</DefaultText>
+      <DefaultText>"That I do. Though we've captured and subdued most of the surviving Sages, those that escaped the Library are rallying behind their de facto leader, Renata."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"O Censor quer que ela seja morta para ter certeza de que os Sábios restantes não tenham idéias sobre como devolver esta região. O truque é encontrá-la."</DefaultText>
+      <DefaultText>"The Censor wants her killed to make sure that any remaining Sages don't get ideas about taking this region back. The trick is finding her."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Por sorte, uma das nossas patrulhas escolheu esta." Ele dá um chute rápido para a figura vestida por baixo dele. "Um dos da própria Renata. Talvez você devesse 'falar' com ele. Ele tem sido um conversador bastante pobre até agora." Ele olha para você por um momento.
+      <DefaultText>"As luck may have it, one of our patrols picked up this one." He gives a swift kick to the robed figure beneath him. "One of Renata's own. Perhaps you should 'speak' with him. He's been a rather poor conversationalist so far." He stares at you for a moment.
 
-"Tenha cuidado, no entanto, Fatebinder. Ele não tem muito sobrando nele. Se você vai tentar obter alguma informação dele, certifique-se de fazer as perguntas certas."</DefaultText>
+"Be careful, though, Fatebinder. He doesn't have much left in him. If you're going to try to get some information from him, be sure you ask the right questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Eu teria sugerido que você interrogasse nosso [url=glossary:sage]Sage[/url] amigo aqui, mas ..." Ele toca o cadáver. "Provavelmente é desnecessário agora."
+      <DefaultText>"I would have suggested that you interrogate our [url=glossary:sage]Sage[/url] friend here, but..." He toes the corpse. "It's probably unnecessary now."
 
-Ele faz uma pausa.
+He pauses.
 
-"Claro, você ainda pode fazer isso por esporte."</DefaultText>
+"Of course, you could still do it for sport."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Quanto a mim, eu poderia usar um intervalo. Interrogação é um trabalho com sede. Muitas conversas unilaterais. Você pode me encontrar no acampamento se precisar de alguma coisa."</DefaultText>
+      <DefaultText>"As for me, I could use a break. Interrogation is thirsty work. Too many one-sided conversations. You can find me in camp if you need anything."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Você é livre para entrar nas ruínas quando quiser."</DefaultText>
+      <DefaultText>"You are free to enter the ruins at your leisure."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"O Fatebinder retorna." Falta Murmur dá-lhe um arco simulado.
+      <DefaultText>"The Fatebinder returns." Foul Murmur gives you a mock bow.
 
-Ele segura uma mão manchada de vermelho, pensa melhor e retrai a oferta.</DefaultText>
+He holds out a red-stained hand, then thinks better of it and retracts the offer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Eu estava curioso quando chegaríamos à parte divertida."
+      <DefaultText>"I was curious when we would get to the fun part."
 
-Falta Murmur lunges em você com alegria maníaca.</DefaultText>
+Foul Murmur lunges at you with maniacal glee.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Ele olha para os corpos.
+      <DefaultText>He glances at the bodies. 
 
-"Eu sei como isso deve ser, mas está tudo em conformidade com a lei do [url=glossary:tunon]Tunon[/url]." Ele dá de ombros e se afasta. "Se você não se importa, estou ansioso para retomar meu trabalho."</DefaultText>
+"I know how this must look, but it's all in compliance with [url=glossary:tunon]Tunon[/url]'s law." He shrugs and turns away. "If you don't mind, I'm eager to resume my work."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Bom dia, Fatebinder."</DefaultText>
+      <DefaultText>"Good day, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"O que você quer? Você não consegue ver que estou com as mãos cheias?"</DefaultText>
+      <DefaultText>"What do you want? Can't you see I've got my hands full?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Nós não estamos particularmente felizes com você no momento. [url=lore:right_command]We were having such a good time watching the chaos sowed by Sirin's wonderful song[/url] e alguns de nossos homens devem suas posições a ele. Quem sabe o que teria acontecido se você deixasse eles continuarem." Ele enfrenta reviravoltas em um sorriso de escárnio.
+      <DefaultText>"We're not particularly happy with you at the moment. [url=lore:right_command]We were having such a good time watching the chaos sowed by Sirin's wonderful song[/url] and some of our men owe their positions to it. Who knows what would have happened if you'd let them keep it up." He face twists in a sneer.
 
-"Não adianta pensar no passado, suponho. Mas algumas pessoas podem não ser tão indulgentes ..."</DefaultText>
+"No point in dwelling on the past, I suppose. But some people might not be quite as forgiving..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Nós não estamos particularmente felizes com você no momento. [url=lore:right_command]We were having such a good time watching the chaos sowed by Sirin's wonderful song[/url] e alguns de nossos homens devem suas posições a ele. Quem sabe o que teria acontecido se você deixasse eles continuarem." Ele enfrenta reviravoltas em um sorriso de escárnio.
+      <DefaultText>"We're not particularly happy with you at the moment. [url=lore:right_command]We were having such a good time watching the chaos sowed by Sirin's wonderful song[/url] and some of our men owe their positions to it. Who knows what would have happened if you'd let them keep it up." He face twists in a sneer.
 
-"Não adianta pensar no passado, suponho. Mas algumas pessoas podem não ser tão indulgentes ..."</DefaultText>
+"No point in dwelling on the past, I suppose. But some people might not be quite as forgiving..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Nós não estamos particularmente felizes com você no momento. [url=lore:right_command]We were having such a good time watching the chaos sowed by Sirin's wonderful song[/url] e alguns de nossos homens devem suas posições a ele. Quem sabe o que teria acontecido se você deixasse eles continuarem." Ele enfrenta reviravoltas em um sorriso de escárnio.
+      <DefaultText>"We're not particularly happy with you at the moment. [url=lore:right_command]We were having such a good time watching the chaos sowed by Sirin's wonderful song[/url] and some of our men owe their positions to it. Who knows what would have happened if you'd let them keep it up." He face twists in a sneer.
 
-"Não adianta pensar no passado, suponho. Mas algumas pessoas podem não ser tão indulgentes ..."</DefaultText>
+"No point in dwelling on the past, I suppose. But some people might not be quite as forgiving..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Nós não estamos particularmente felizes com você no momento. [url=lore:right_command]We were having such a good time watching the chaos sowed by Sirin's wonderful song[/url] e alguns de nossos homens devem suas posições a ele. Quem sabe o que teria acontecido se você deixasse eles continuarem." Ele enfrenta reviravoltas em um sorriso de escárnio.
+      <DefaultText>"We're not particularly happy with you at the moment. [url=lore:right_command]We were having such a good time watching the chaos sowed by Sirin's wonderful song[/url] and some of our men owe their positions to it. Who knows what would have happened if you'd let them keep it up." He face twists in a sneer.
 
-"Não adianta pensar no passado, suponho. Mas algumas pessoas podem não ser tão indulgentes. Você deve ter isso em mente quando falar com o Censor ... Agora vá embora enquanto eu ainda estou pedindo gentilmente."</DefaultText>
+"No point in dwelling on the past, I suppose. But some people might not be quite as forgiving. You should keep that in mind when speaking with the Censor... Now go while I'm still asking nicely."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

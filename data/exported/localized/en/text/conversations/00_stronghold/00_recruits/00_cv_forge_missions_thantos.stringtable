@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_forge_missions_thantos</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[Nome do jogador]." O mais breve dos sorrisos cruza seu rosto e desaparece tão rapidamente quanto a luz cintila através dele. "Se o que eles dizem é verdade sobre a magia desses pináculos, será minha distinta honra trabalhar para você entre essas forjas."</DefaultText>
+      <DefaultText>"[Player Name]." The briefest of smiles crosses his face and is gone as quickly as the light flickers across it. "If what they say is true about the magic of these spires, it will be my distinct honor to work for you among these forges."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Thantos olha para você no calor da forja com um rosto inexpressivo. "Eu não tenho tempo nem apetite para amabilidades, Fatebinder." Ele cruza os braços, revelando as cicatrizes de incontáveis ​​queimaduras. "Mas, se é verdade que essas torres aumentam toda a magia, eu lhe darei o bronze que procuro, asseguro-lhe."</DefaultText>
+      <DefaultText>Thantos stares past you into the heat of the forge with an expressionless face. "I haven't the time nor the appetite for pleasantries, Fatebinder." He crosses his arms, revealing the scars of countless burns. "But if it is true that these spires enhance all matter of magic, I will supply you with the bronze you seek, I assure you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"O que você fez para mim?"</DefaultText>
+      <DefaultText>"What have you made for me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,29 +26,29 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Fatebinder". O homem cruza os braços revelando seus antebraços marcados. "Essas forjas queimam com uma energia que eu não vi em algum momento." Seus olhos retornam para as chamas da forja. "Deve ser verdade que esses Spires aprimoram todos os assuntos da magia."</DefaultText>
+      <DefaultText>"Fatebinder." The man crosses his arms revealing his scorch marked forearms. "These forges burn with an energy I have not seen in sometime." His eyes return to the flames of the forge. "It must be true that these Spires enhance all matters of magic."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"A forja está em manutenção. Nós retomaremos nosso trabalho assim que a manutenção estiver completa."</DefaultText>
+      <DefaultText>"The forge is under maintenance. We will resume our work once the maintenance is complete."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Deixe-me te mostrar."</DefaultText>
+      <DefaultText>"Let me show you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Eu não tenho nada para você no momento. Volte mais tarde."
+      <DefaultText>"I don't have anything for you at the moment. Check back later."
 
-[Recrutas podem gerar itens para você enquanto você está ganhando experiência se aventurando no mundo.]</DefaultText>
+[Recruits can generate items for you while you are gaining experience by adventuring in the world.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Como posso estar de serviço, Fatebinder?"</DefaultText>
+      <DefaultText>"How may I be of service, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

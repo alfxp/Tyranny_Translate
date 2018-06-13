@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_poi_oldwall_01_glowing_rune</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Então aqueles símbolos brilhantes na parede ... você se atreve a tocá-los ..."</DefaultText>
+      <DefaultText>"So those glowing symbols on the wall... dare you to touch them..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Há um brilho arcano daqueles castiçais de parede - devemos investigar, com cautela."</DefaultText>
+      <DefaultText>"There is an arcane glow from those wall sconces - we should investigate, cautiously."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Veja isso - na parede! Esse símbolo brilhante deve ter algum uso."</DefaultText>
+      <DefaultText>"See that - on the wall! That glowing symbol must have some use."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ah! Outro símbolo. Você toca, eu vou ... recuar e fazer anotações."</DefaultText>
+      <DefaultText>"Ah! Another symbol. You touch it, I'll... stand back and take notes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Quer tocar marcações brilhantes, esculpidas na parede do rock. Estão fazendo as almofadas dos dedos da Beastwoman formigar e palpitar."</DefaultText>
+      <DefaultText>"Want to touch bright markings, carved into rockwall. Are making pads of Beastwoman's fingers tingle and throb."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Toque nesse símbolo e veja o que se abre - ou o que explode."</DefaultText>
+      <DefaultText>"Touch that symbol and see what opens - or what explodes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Nó do banco 11</DefaultText>
+      <DefaultText>Bank Node 11</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

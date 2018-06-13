@@ -1,67 +1,67 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\factionquestlines\rebel\fq_rb_qst_burninglibrary</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>31</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Palavras aquecidas</DefaultText>
+      <DefaultText>Heated Words</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Conheça Renata.</DefaultText>
+      <DefaultText>Meet Renata.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Remova a presença [url=glossary:scarlet chorus]Scarlet Chorus[/url] no [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>Remove the [url=glossary:scarlet chorus]Scarlet Chorus[/url] presence at the [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Encontre um caminho além da barreira mágica.</DefaultText>
+      <DefaultText>Find a way past the magic barrier.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Encontre mais pedaços de pergaminho.</DefaultText>
+      <DefaultText>Find more parchment pieces.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Encontre os pedaços de pergaminho restantes.</DefaultText>
+      <DefaultText>Find the remaining parchment pieces.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Encontre a última peça de pergaminho.</DefaultText>
+      <DefaultText>Find the last parchment piece.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Use as peças de pergaminho para alcançar o Arquivo silencioso.</DefaultText>
+      <DefaultText>Use the parchment pieces to reach the Silent Archive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Derrote o Censor.</DefaultText>
+      <DefaultText>Defeat the Censor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Recupere o Arquivo Silencioso.</DefaultText>
+      <DefaultText>Retrieve the Silent Archive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Viaje para o [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>Travel to the [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Volte para Arri.</DefaultText>
+      <DefaultText>Report back to Arri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,67 +71,67 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Volte para Renata.</DefaultText>
+      <DefaultText>Return to Renata.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Arri fez contato através dos sábios que lutaram na rebelião em [url=glossary:vendrien's well]Vendrien's Well[/url]. Eles podem apresentá-lo a Renata, seu líder, em Effigy nos arredores da [url=glossary:burning library]Burning Library[/url]. Você vai precisar trabalhar com ela se você for garantir uma aliança com os Sábios.</DefaultText>
+      <DefaultText>Arri made contact through the Sages who fought in the rebellion at [url=glossary:vendrien's well]Vendrien's Well[/url]. They can introduce you to Renata, their leader, in Effigy on the outskirts of the [url=glossary:burning library]Burning Library[/url]. You'll need to work with her if you're to secure an alliance with the Sages.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Reúna-se com Renata e os Sábios em Effigy para solicitar sua lealdade.</DefaultText>
+      <DefaultText>Meet with Renata and the Sages in Effigy to request their allegiance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Renata se juntará à sua causa se você eliminar os [url=glossary:scarlet chorus]Scarlet Chorus[/url] ocupantes no [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>Renata will join your cause if you eliminate the [url=glossary:scarlet chorus]Scarlet Chorus[/url] occupiers in the [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Uma barreira mágica impede que você viaje mais nas ruínas. Encontre uma maneira de dispersá-lo para continuar explorando o [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>A magic barrier prevents you from traveling any further into the ruins. Find a way to dispell it to continue exploring the [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Você encontrou um fragmento de pergaminho que parece importante. Encontre mais e junte-os.</DefaultText>
+      <DefaultText>You found a fragment of parchment that looks important. Find more and piece them together.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Você encontrou dois fragmentos de pergaminho. Encontre o resto deles e junte-os.</DefaultText>
+      <DefaultText>You found two parchment fragments. Find the rest of them and piece them together.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Você encontrou três pedaços de pergaminho. Parece que você ainda precisa encontrar mais um para completar a página.</DefaultText>
+      <DefaultText>You found three parchment pieces. It looks like you still need to find one more to complete the page.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Você encontrou pedaços de pergaminho suficientes para decifrar uma frase mágica. Depois de ter feito isso, use-o para obter acesso ao Arquivo silencioso.</DefaultText>
+      <DefaultText>You’ve found enough parchment pieces to decipher a magical phrase. Once you have done so, use it to gain entry to the Silent Archive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Mate o Censor e remova a ameaça final do [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>Kill the Censor and remove the final [url=glossary:scarlet chorus]Scarlet Chorus[/url] threat from the [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Você aprendeu que o Arquivo Silencioso é um único pergaminho mágico contendo o conhecimento acumulado dos Sábios. Encontre uma maneira de removê-lo do [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>You learned that the Silent Archive is a single magical scroll containing the cumulative knowledge of the Sages. Find a way to remove it from the [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Você recebeu informação suficiente para ser capaz de ignorar as patrulhas e alcançar o [url=glossary:burning library]Burning Library[/url]. Viaje até lá e entre nas ruínas.</DefaultText>
+      <DefaultText>You have received sufficient intel to be able to bypass the [url=glossary:scarlet chorus]Scarlet Chorus[/url] patrols and reach the [url=glossary:burning library]Burning Library[/url]. Travel there and enter the ruins.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText>Você recrutou com sucesso Renata e os Sábios para sua causa. Viaje para [url=glossary:ascension hall]Ascension Hall[/url] para discutir seu próximo passo com Arri.</DefaultText>
+      <DefaultText>You have successfully recruited Renata and the Sages to your cause. Travel to [url=glossary:ascension hall]Ascension Hall[/url] to discuss your next move with Arri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,22 +141,22 @@
     </Entry>
     <Entry>
       <ID>10017</ID>
-      <DefaultText>Agora que você limpou os [url=glossary:burning library]Burning Library[/url] de [url=glossary:scarlet chorus]Scarlet Chorus[/url] membros e recuperou o Arquivo silencioso, é hora de ver se Renata cumprirá seu acordo de se juntar à sua causa.</DefaultText>
+      <DefaultText>Now that you have cleared the [url=glossary:burning library]Burning Library[/url] of [url=glossary:scarlet chorus]Scarlet Chorus[/url] members and retrieved the Silent Archive, it is time to see if Renata will fulfill her agreement to join your cause.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você deu o controle do [url=glossary:burning library]Burning Library[/url] de volta para os Sábios, e por sua vez eles se juntaram à sua causa.</DefaultText>
+      <DefaultText>You gave control of the [url=glossary:burning library]Burning Library[/url] back to the Sages, and in turn they joined your cause.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você foi contra a causa rebelde e, portanto, alienou-se dos outros grupos rebeldes em potencial.</DefaultText>
+      <DefaultText>You have gone against the rebel cause and therefore alienated yourself from the other potential rebel groups.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

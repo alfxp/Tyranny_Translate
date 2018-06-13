@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_forge_master_arrives</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>18</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Sinto muito em interrompê-lo, Reeve Eldian, mas eu queria que você soubesse que o Forge Master Zdenya está pronto para colocar o artefato. Ela e Lohara estão terminando na forja."</DefaultText>
+      <DefaultText>"I'm sorry to interrupt you, Reeve Eldian, but I wanted to let you know that Forge Master Zdenya is ready to place the artifact. She and Lohara are finishing up at the forge."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Obrigado." Eldian se curva para o homem e depois para você. "Se você me der licença, Fatebinder, eu devo ir para ter certeza de que todos os nossos preparativos foram atendidos."</DefaultText>
+      <DefaultText>"Thank you." Eldian bows to the man and then to you. "If you will excuse me, Fatebinder, I must go make sure all our preparations have been taken care of."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Você deveria falar com Zdenya. Eu estarei no Pináculo. Encontre-me lá quando ela estiver pronta para colocar o artefato."</DefaultText>
+      <DefaultText>"You should speak with Zdenya. I will be at the Spire. Meet me there when she is ready to place the artifact."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Onde a forja está localizada?"</DefaultText>
+      <DefaultText>"Where is the forge located?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,71 +31,71 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"A forja está no primeiro nível, diretamente acima da minha casa. A rampa ao sul daqui levará você."</DefaultText>
+      <DefaultText>"The forge is on the first tier, directly above my house. The ramp south of here will take you up."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Obrigado." Eldian se curva para o homem e depois para você. "Se você me der licença, Fatebinder, eu devo ir para ter certeza de que todos os nossos preparativos foram atendidos."</DefaultText>
+      <DefaultText>"Thank you." Eldian bows to the man and then to you. "If you will excuse me, Fatebinder, I must go make sure all our preparations have been taken care of."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Que preparações? Porque é que o [url=glossary:forge-bound]Forge-Bound[/url] Master aqui?"</DefaultText>
+      <DefaultText>"What preparations? Why is the [url=glossary:forge-bound]Forge-Bound[/url] Master here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Eu gostaria de conhecer Zdenya."</DefaultText>
+      <DefaultText>"I would like to meet Zdenya."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Minhas desculpas. Presumi que você soubesse. Acho que o que minha mãe disse sobre fazer suposições estava certo."
+      <DefaultText>"My apologies. I assumed you knew. I guess what my mother said about making assumptions was right."
 
-"Viver na sombra dos Oldwalls apresenta seu próprio conjunto de problemas únicos. Somos frequentemente assediados por Bane que escapam, então o perigo de um ataque está sempre presente. Agora que [url=glossary:kyros]Kyros[/url] tem participação na produção continuada do [url=glossary:forge-bound]Forge-Bound[/url], Zdenya foi encarregado com a criação de um artefato para nos proteger. Ela está aqui para entregá-lo e garantir que ele seja colocado corretamente. "</DefaultText>
+"Living in the shadow of the Oldwalls presents its own set of unique problems. We are frequently beset by Bane who escape, so the danger of an attack is always present. Now that [url=glossary:kyros]Kyros[/url] has stake in continued production by the [url=glossary:forge-bound]Forge-Bound[/url], Zdenya was tasked with creating an artifact to protect us. She is here to deliver it and ensure it is properly placed."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"É claro. Ela é mais provável na forja. Eu levaria você até lá, mas eu devo ir para a torre para ter certeza de que tudo está pronto. Eu os encontrarei lá quando ela estiver pronta para colocar o artefato."</DefaultText>
+      <DefaultText>"Of course. She is most likely in the forge. I would take you there, but I must go to the spire to make sure everything is ready. I'll meet you both there when she is ready to place the artifact."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Você estava pensando em sair sem me dar uma explicação?"</DefaultText>
+      <DefaultText>"Were you planning on leaving without giving me an explanation?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Nó do banco 17</DefaultText>
+      <DefaultText>Bank Node 17</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ninguém contratou um [url=glossary:sage]Sage[/url] ou dois para inspecionar quaisquer armadilhas antigas dentro e lançar algumas alas neste lugar? Não detém todo o Bane, mas mais inteligente que nada."</DefaultText>
+      <DefaultText>"Did no one hire a [url=glossary:sage]Sage[/url] or two to inspect any old traps inside and cast a few wards on this place? Doesn't stop all the Bane, but smarter than nothing."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Não sei exatamente por que os Malditos são atraídos por atividades mágicas, mas já vimos isso acontecer várias vezes. Toda essa mágica na cidade é provavelmente intrigante demais para aqueles horríveis monstros ignorarem."</DefaultText>
+      <DefaultText>"Don't know exactly why the Bane are attracted to magical activity, but we've seen it play out that way time and time again. All that [url=glossary:forge-bound]Forge-Bound[/url] magic in town is probably too intriguing for those horrid monsters to ignore."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Você tem tantos Bane nesses Oldwalls? Como eles saem? Pensei que as armadilhas os impediram de escapar."</DefaultText>
+      <DefaultText>"Do you have that many Bane in these Oldwalls? How do they get out? I thought the traps kept them from escaping."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Nós selamos a entrada, mas as paredes estão desgastadas e rachadas e não podemos manter patrulhas nelas o dia todo - não temos os recursos. E as armadilhas nem sempre são confiáveis. Algumas delas se estilhaçam se você chegar perto demais e então você está preso lidando com um grupo de Bane, em vez de apenas um ".
+      <DefaultText>"We've sealed the entrance but the walls are worn and cracked and we can't keep patrols on them all day long - we don't have the resources. And the traps aren't always reliable. Some of them shatter if you get too close and then you're stuck dealing with a group of Bane instead of just one."
 
-"Tendo o [url=glossary:forge-bound]Forge-Bound[/url] aqui aumentou as chances de ataques de Bane, uma vez que eles são atraídos para o poder mágico e isso é tudo o [url=glossary:forge-bound]Forge-Bound[/url] uso!"</DefaultText>
+"Having the [url=glossary:forge-bound]Forge-Bound[/url] here has increased the chances of Bane attacks since they're drawn to magical power and that's all the [url=glossary:forge-bound]Forge-Bound[/url] use!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Nós tentamos tudo o que podemos e o problema ainda persiste. Então, Zdenya foi convidada a ajudar. É por isso que ela está aqui."</DefaultText>
+      <DefaultText>"We've tried everything we can and the problem still persists. So Zdenya was asked to help out. That's why she's here."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

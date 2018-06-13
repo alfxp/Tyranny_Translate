@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_skilltrainer_kypera</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Eu não posso ser incomodado para treiná-lo com o Spire neste estado. Tente novamente mais tarde."</DefaultText>
+      <DefaultText>"I can't be bothered to train you with the Spire in this state. Try again later."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Ela chama sua atenção com um olhar que faz um arrepio na espinha. "Fatebinder [nome do jogador], me foi dada a permissão [url=glossary:the voices of nerat]the Voices of Nerat[/url] para treinar você nas artes de manipulação de emoção, bem como conceder vigor no campo de batalha". Ela continua a dimensionar você. "Nenhum dos quais você possui muito, pelo que eu posso dizer."</DefaultText>
+      <DefaultText>She catches your eye with a stare that casts a shiver down your spine. "Fatebinder [Player Name], I have been given permission by [url=glossary:the voices of nerat]the Voices of Nerat[/url] to train you in the arts of manipulating emotion, as well as granting vigor on the battlefield." She continues to size you up. "Neither of which you possess much of, from what I can tell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Eu gostaria de treinar."</DefaultText>
+      <DefaultText>"I'd like to train."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,27 +26,27 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Seu rosto se transforma em desapontamento visível quase imediatamente depois que ela vê você. "Nossas fileiras cresceram suavemente se o que eu vejo antes de mim merece o respeito que o [url=glossary:scarlet chorus]Scarlet Chorus[/url] lhe proporcionou." Ela chega mais perto do tamanho de você. "[url=glossary:the voices of nerat]The Voices of Nerat[/url] me deu permissão para treiná-lo nas artes mágicas de manipulação de emoções, bem como conceder vigor no campo de batalha. Há espaço para melhorias, sem dúvida".</DefaultText>
+      <DefaultText>Her face turns to visible disappointment almost immediately once she sees you. "Our ranks have grown soft if what I see before me merits the respect the [url=glossary:scarlet chorus]Scarlet Chorus[/url] has afforded you." She steps closer to size you up. "[url=glossary:the voices of nerat]The Voices of Nerat[/url] has given me permission to train you in the magical arts of manipulating emotion, as well as granting vigor on the battlefield. There is room for improvement, no doubt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"O que é que você precisa?"</DefaultText>
+      <DefaultText>"What is it that you need?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Um pequeno sorriso surge de sua expressão fria. "Os chefes não duram muito na minha profissão."</DefaultText>
+      <DefaultText>A small grin emerges from her cold expression. "Bosses don't last very long in my profession."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Você é tão civilizado com todos que você trabalha?"</DefaultText>
+      <DefaultText>"Are you this civil with everyone you work for?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>A mulher negligencia o Boticário com desdém.</DefaultText>
+      <DefaultText>The woman overlooks the Apothecary with disdain.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

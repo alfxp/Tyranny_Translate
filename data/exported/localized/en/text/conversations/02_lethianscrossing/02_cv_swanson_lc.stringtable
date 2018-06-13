@@ -1,37 +1,37 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_swanson_lc</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>14</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Svansen empilha atentamente pedaços de ferro cuidadosamente dentro de uma caixa. Ele percebe que você se aproxima e tira a poeira das mãos dele. "Um Fatebinder, honrado por ser agraciado com a sua presença."</DefaultText>
+      <DefaultText>Svansen attentively stacks pieces of iron carefully inside a crate. He notices you approach and dusts off his hands. "A Fatebinder, honored to be graced with your presence."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Svansen acena para você com um sorriso. "O que posso fazer para você?"</DefaultText>
+      <DefaultText>Svansen nods to you with a smile. "What can I do for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"O que posso fazer para você?"</DefaultText>
+      <DefaultText>"What can I do for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Você é um [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <DefaultText>"Are you a [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Você gostaria de se tornar um?"</DefaultText>
+      <DefaultText>"Would you ever want to become one?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Você não sabe como perdeu sua memória?"</DefaultText>
+      <DefaultText>"You don't know how you lost your memory?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,37 +41,37 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Svansen coça a cabeça por um momento. "Não, pelo menos eu não acho que sou. Embora eu ache que posso ter um espírito afim para o ofício."</DefaultText>
+      <DefaultText>Svansen scratches the top of his head for a moment. "No, at least I don't think I am. Though I feel I may have a kindred spirit for the craft."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Eu não acho que posso." Ele olha momentaneamente como se procurasse sua mente, mas não encontra nada. "Eu não entendo completamente, mas eles dizem que perdi minha memória em um acidente há alguns anos e agora eu não tenho o que é que eu precisaria para me tornar um."</DefaultText>
+      <DefaultText>"I don't think I can." He stares off momentarily as if to search his own mind but finds nothing. "I don't entirely understand it, but they say I lost my memory in an accident a few years ago and now I don't have whatever it is I would need to become one."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>A expressão de Svansen escurece. "Não, eu não fiz a pergunta. Eu acho que isso não importa mais."</DefaultText>
+      <DefaultText>Svansen's expression darkens. "No, I haven't pressed the question. I guess it doesn't really matter anymore."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Então, o que você faz?"</DefaultText>
+      <DefaultText>"So what do you do?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Svansen sorri largamente. "Todos os tipos de coisas! Às vezes eu lanço ferro, às vezes eu corro missivas. Eu tenho dito que este sempre foi meu trabalho, e eu aprecio ficar ocupado."</DefaultText>
+      <DefaultText>Svansen smiles wide. "All kinds of things! Sometimes I haul iron, sometimes I run missives. I've been told this has always been my job, and I appreciate staying busy."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>O comerciante [url=glossary:forge-bound]Forge-Bound[/url] é enfrentado longe da conversa e ouve sua troca e se vira para você. "Se não é o Fatebinder de [url=glossary:tunon]Tunon[/url]. Bem-vindo ao [url=glossary:lethian's crossing]Lethian's Crossing[/url]!" Ele faz um gesto para Svansen. "Termine o seu trabalho e então você pode continuar falando com o Fatebinder." Svansen acena com a cabeça ansiosamente e volta a empilhar o ferro.</DefaultText>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] Merchant is faced away from the conversation and overhears your exchange and turns to you. "If it isn't the Fatebinder of [url=glossary:tunon]Tunon[/url]. Welcome to [url=glossary:lethian's crossing]Lethian's Crossing[/url]!" He motions to Svansen. "Finish your work and then you can continue speaking with the Fatebinder." Svansen nods eagerly and gets back to piling the iron.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Uma vez que Svansen está de costas, o comerciante lança um olhar preocupado para você. "[url=lore:lc_redanvil]I don't wish to question your judgment[/url] e agradeço a ajuda, mas é só ..." Vocês dois observam a dócil ingenuidade de Svansen enquanto ele examina um pedaço de merda de rato no chão perto do caixote. "É um pouco inquietante como um homem pode se tornar uma criança novamente. Eu não sei o que faria se de repente esquecesse tudo o que me fez quem eu sou."</DefaultText>
+      <DefaultText>Once Svansen's back is turned, the merchant casts a worried look towards you. "[url=lore:lc_redanvil]I don't wish to question your judgment[/url] and I am grateful of the help, but it's just..." The two of you observe the docile naiveté of Svansen as he examines a piece of rat shit on the ground near the crate. "It's just a little unsettling how a man can become a child again. I don't know what I'd do if I suddenly forgot everything that made me who I am."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

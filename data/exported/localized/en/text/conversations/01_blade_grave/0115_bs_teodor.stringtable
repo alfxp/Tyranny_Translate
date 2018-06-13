@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\0115_bs_teodor</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Você falou com [url=glossary:graven ashe]Graven Ashe[/url] sobre sua filha? Eu não te invejo a tarefa ..."</DefaultText>
+      <DefaultText>"Have you spoken with [url=glossary:graven ashe]Graven Ashe[/url] about his daughter? I don't envy you the task..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"O último dos Regents cairá por nossa mão, levando este [url=glossary:edict]Edict[/url] com eles!"</DefaultText>
+      <DefaultText>"The last of the Regents will fall by our hand, taking this [url=glossary:edict]Edict[/url] with them!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"O Stand da Sentinela é nosso! A [url=glossary:disfavored]Disfavored[/url] não esquecerá esta honra."</DefaultText>
+      <DefaultText>"Sentinel Stand is ours! The [url=glossary:disfavored]Disfavored[/url] won't forget this honor." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Algo está errado. Eu posso sentir isso."</DefaultText>
+      <DefaultText>"Something is wrong. I can feel it." </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

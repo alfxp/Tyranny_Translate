@@ -1,29 +1,29 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\0101_cv_elia_jacomus_fight</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>18</EntryCount>
   <Entries>
     <Entry>
       <ID>8</ID>
-      <DefaultText>O capitão grita para as tropas restantes. "Nós podemos pegar esses fardos de ferro! Se eles são tão densos e sem noção quanto seu Arconte, eles deveriam cair como mastros estilhaçados."
+      <DefaultText>The captain shouts to her remaining troops. "We can take these ironclads! If they're as dense and clueless as their Archon, they should fall like splintered masts."
 
-Vendo você, Elia chama seus soldados mais uma vez. "Reforços se aproximando!"</DefaultText>
+Catching sight of you, Elia calls out to her soldiers once more. "Reinforcements approaching!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"É bom ver você aqui, Fatebinder. Hora de limpar Rust Canyons da mancha [url=glossary:unbroken]Unbroken[/url]. Eles não vão deixar esses canyons vivos."</DefaultText>
+      <DefaultText>"Good to see you here, Fatebinder. Time to cleanse Rust Canyons of the [url=glossary:unbroken]Unbroken[/url] taint. They won't leave these canyons alive."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Fatebinder! Vou fazer questão de destripar você depois que eu cuidei dessa." O comandante [url=glossary:disfavored]Disfavored[/url] níveis seu olhar para Elia com intensidade assassina.</DefaultText>
+      <DefaultText>"Fatebinder! I'll make a point of gutting you after I've taken care of this one." The [url=glossary:disfavored]Disfavored[/url] commander levels his gaze at Elia with murderous intensity.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Meus homens estão prontos para morrer, e estamos muito felizes em derrubar o maior número possível de pessoas." Seus lábios pressionam juntos em um sorriso determinado. "Eu tenho uma lança destinada ao seu olho direito sempre que você quiser abraçar o vazio."</DefaultText>
+      <DefaultText>"My men are ready to die, and we're only too happy to take down as many of you as possible." Her lips press together in a determined smile. "I have a spear destined for your right eye whenever you feel like embracing the void." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,22 +38,22 @@ Vendo você, Elia chama seus soldados mais uma vez. "Reforços se aproximando!"<
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Melhor do que você pensa, verme!" Elia solta um grito estridente de batalha e avança para você.</DefaultText>
+      <DefaultText>"Better than you'd think, worm!" Elia lets out a raucous battle cry and lunges at you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Para Ashe e [url=glossary:kyros]Kyros[/url]!" Jacomus pega sua arma e entra para a luta.</DefaultText>
+      <DefaultText>"For Ashe and [url=glossary:kyros]Kyros[/url]!" Jacomus takes up his weapon and steps in to join the fight. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Nunca pensei em viver para ver [url=glossary:kyros]Kyros[/url] 'forças pulando e rosnando um para o outro. Você luta desta maneira no Norte, ou você só perde o controle durante batalhas importantes?"</DefaultText>
+      <DefaultText>"Never thought I'd live to see [url=glossary:kyros]Kyros[/url]' forces leaping and snarling at each other. Do you fight this way in the North, or do you only lose control during important battles?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Não aja como se o Sul tivesse sua merda em ordem. Estávamos abatendo dinastias por tiras de terra muito antes de [url=glossary:kyros]Kyros[/url] aparecer."</DefaultText>
+      <DefaultText>"Don't act like the South has its shit in order. We were slaughtering dynasties for strips of land long before [url=glossary:kyros]Kyros[/url] showed up." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,37 +63,37 @@ Vendo você, Elia chama seus soldados mais uma vez. "Reforços se aproximando!"<
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Estamos nos divertindo ainda, Verso?"</DefaultText>
+      <DefaultText>"Are we having fun yet, Verse?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Zelotes piedosos. O Archon não valoriza suas vidas mais do que eu, então morra por minha mão e poupe-se do desapontamento!" Ela avança para atacar.</DefaultText>
+      <DefaultText>"Pitiful zealots. The Archon doesn't value your lives any more than I do, so die by my hand and spare yourselves the disappointment!" She lunges to attack.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Se vocês dois terminarem de se debater até a exaustão, alguns de nós estão lutando uma guerra aqui!" Ela avança para atacar.</DefaultText>
+      <DefaultText>"If you two are done edging each other to exhaustion, some of us are fighting a war here!" She lunges to attack.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Se vocês dois terminarem de se debater até a exaustão, alguns de nós estão lutando uma guerra aqui!" Ela avança para atacar.</DefaultText>
+      <DefaultText>"If you two are done edging each other to exhaustion, some of us are fighting a war here!" She lunges to attack.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Sim! Vamos homenagear Ashe e sua família com a nossa conquista em seu nome! Prepare-se para o vazio, mal-intencionado."</DefaultText>
+      <DefaultText>"Yes! We will honor Ashe and his family with our conquest in his name! Prepare yourself for the void, miscreant."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Para o Arconte!" Barik faz uma saudação e se prepara para a luta.</DefaultText>
+      <DefaultText>"For the Archon!" Barik snaps to a salute and readies himself for the fight.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Você está brincando? Isso é mais divertido do que esfolar Beastmen no inverno! Eu deveria ter se juntado à sua gangue anos atrás."</DefaultText>
+      <DefaultText>"Are you kidding? This is more fun than skinning Beastmen in the winter! I should have joined your gang years ago."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

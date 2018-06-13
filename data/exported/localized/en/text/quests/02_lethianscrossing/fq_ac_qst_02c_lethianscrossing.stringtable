@@ -1,167 +1,167 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\02_lethianscrossing\fq_ac_qst_02c_lethianscrossing</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>32</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>O Prêmio do Mestre de Forja</DefaultText>
+      <DefaultText>The Forge Master's Prize</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viaje para [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Travel to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Mate o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] guarnição.</DefaultText>
+      <DefaultText>Kill the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] garrison.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Mate a guarnição [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>Kill the [url=glossary:disfavored]Disfavored[/url] garrison.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Mate a [url=glossary:scarlet chorus]Scarlet Chorus[/url] guarnição.</DefaultText>
+      <DefaultText>Kill the [url=glossary:scarlet chorus]Scarlet Chorus[/url] garrison.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Fale com o Eldian.</DefaultText>
+      <DefaultText>Speak to Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Visite a Forja.</DefaultText>
+      <DefaultText>Visit the Forge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Examine o leme Magebane.</DefaultText>
+      <DefaultText>Examine the Magebane Helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Encontre Eldian.</DefaultText>
+      <DefaultText>Find Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Recupere o Magebane de [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Retrieve the Magebane from [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Retornar para [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
+      <DefaultText>Return to [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Recupere o Magebane de [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Retrieve the Magebane from [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>[url=glossary:bleden mark]Bleden Mark[/url] falou sobre o Magebane Helm, um artefato criado pelo [url=glossary:forge-bound]Forge-Bound[/url] Master Zdenya. Zdenya chegou recentemente em [url=glossary:lethian's crossing]Lethian's Crossing[/url], e ele mencionou a você que se você fosse adquirir o leme, você teria o medo daqueles que chamam [url=glossary:lethian's crossing]Lethian's Crossing[/url] sua casa.</DefaultText>
+      <DefaultText>[url=glossary:bleden mark]Bleden Mark[/url] told you about the Magebane Helm, an artifact created by the [url=glossary:forge-bound]Forge-Bound[/url] Master Zdenya. Zdenya has recently arrived in [url=glossary:lethian's crossing]Lethian's Crossing[/url], and he mentioned to you that if you were to acquire the Helm, you would have the fear of those who call [url=glossary:lethian's crossing]Lethian's Crossing[/url] their home.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>O mestre [url=glossary:forge-bound]Forge-Bound[/url] está atualmente no [url=glossary:lethian's crossing]Lethian's Crossing[/url], o estabelecimento na base da torre do por do sol.</DefaultText>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] master is currently in [url=glossary:lethian's crossing]Lethian's Crossing[/url], the settlement at the base of the Sunset Spire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>O [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] tem controle sobre [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Sua guarnição não vai deixar você passar pelo acordo pacificamente.</DefaultText>
+      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] have control over [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Their garrison won't let you move through the settlement peacefully.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Você deu o [url=glossary:disfavored]Disfavored[/url] controle sobre [url=glossary:lethian's crossing]Lethian's Crossing[/url], mas virou-se contra eles em [url=glossary:vendrien's well]Vendrien's Well[/url]. Sua guarnição em 222222222222222222222222222222222222222222222222 não vai deixar você passar pelo acordo pacificamente.</DefaultText>
+      <DefaultText>You gave the [url=glossary:disfavored]Disfavored[/url] control over [url=glossary:lethian's crossing]Lethian's Crossing[/url], but turned against them at [url=glossary:vendrien's well]Vendrien's Well[/url]. Their garrison at [url=glossary:lethian's crossing]Lethian's Crossing[/url] won't let you move through the settlement peacefully.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Você deu o [url=glossary:scarlet chorus]Scarlet Chorus[/url] controle sobre [url=glossary:lethian's crossing]Lethian's Crossing[/url], mas virou-se contra eles em [url=glossary:vendrien's well]Vendrien's Well[/url]. Sua guarnição em 222222222222222222222222222222222222222222222222 não vai deixar você passar pelo acordo pacificamente.</DefaultText>
+      <DefaultText>You gave the [url=glossary:scarlet chorus]Scarlet Chorus[/url] control over [url=glossary:lethian's crossing]Lethian's Crossing[/url], but turned against them at [url=glossary:vendrien's well]Vendrien's Well[/url]. Their garrison at [url=glossary:lethian's crossing]Lethian's Crossing[/url] won't let you move through the settlement peacefully.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Fale com Eldian, o líder do [url=glossary:lethian's crossing]Lethian's Crossing[/url], sobre o Magebane Helm. Eldian pode ser encontrado em sua casa no Crossing.</DefaultText>
+      <DefaultText>Speak to Eldian, the leader of [url=glossary:lethian's crossing]Lethian's Crossing[/url], about the Magebane Helm. Eldian can be found in his home in the Crossing.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Zdenya pode ser encontrado na fundição [url=glossary:forge-bound]Forge-Bound[/url], conhecido simplesmente como o Forge. Ele está localizado a leste do rio no primeiro nível do distrito da lua, logo acima do térreo.</DefaultText>
+      <DefaultText>Zdenya can be found in the [url=glossary:forge-bound]Forge-Bound[/url] foundry, known simply as the Forge. It's located east of the river on the first tier of the Moonrise District, just above the ground floor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Pode haver uma maneira de remover o leme do Magebane de [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Inspecione o leme acima no terceiro nível [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>There may be a way to remove the Magebane Helm from [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Inspect the Helm up on the third tier of [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Eldian é o líder do [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Encontre e fale com ele sobre o Magebane Helm.</DefaultText>
+      <DefaultText>Eldian is the leader of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Find and speak to him about the Magebane Helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Volte para [url=glossary:lethian's crossing]Lethian's Crossing[/url] e fale com Eldian sobre o uso do Magebane Helm.</DefaultText>
+      <DefaultText>Return to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and speak to Eldian about taking the Magebane Helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Com o Magebane Helm em mãos, retorne para [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
+      <DefaultText>With the Magebane Helm in hand return to [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10013</ID>
-      <DefaultText>Volte para [url=glossary:lethian's crossing]Lethian's Crossing[/url] para pegar o Magebane Helm de volta. Com Eldian ido você terá que falar a um [url=glossary:forge-bound]Forge-Bound[/url] sobre o leme.</DefaultText>
+      <DefaultText>Return to [url=glossary:lethian's crossing]Lethian's Crossing[/url] to take the Magebane Helm back. With Eldian gone you'll have to speak to a [url=glossary:forge-bound]Forge-Bound[/url] about the Helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Você correu para um pedágio inesperado no caminho para [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Fale com alguém sobre ser deixado passar.</DefaultText>
+      <DefaultText>You ran into an unexpected toll on the way to [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Speak to someone about being let through.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Raetommon concordou em deixá-lo através do pedágio [url=glossary:bronze brotherhood]Bronze Brotherhood[/url].</DefaultText>
+      <DefaultText>Raetommon has agreed to let you through the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] toll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Você matou o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] guardando a ponte. Você pode continuar para [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>You killed the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] guarding the bridge. You can continue on to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>O [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] ter encenado um Raid em [url=glossary:lethian's crossing]Lethian's Crossing[/url] e os níveis superiores são selados para proteger os colonos. Remova a ameaça Brotherhood de [url=glossary:lethian's crossing]Lethian's Crossing[/url] antes de verificar o Magebane Helm.</DefaultText>
+      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] have staged a Raid on [url=glossary:lethian's crossing]Lethian's Crossing[/url] and the upper levels are sealed off to protect the settlers. Remove the Brotherhood threat from [url=glossary:lethian's crossing]Lethian's Crossing[/url] before checking on the Magebane Helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>Lohara se recusa a lhe dar o leme. Encontre um [url=glossary:forge-bound]Forge-Bound[/url] que irá ajudá-lo.</DefaultText>
+      <DefaultText>Lohara refuses to give you the helm. Find a [url=glossary:forge-bound]Forge-Bound[/url] who will help you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Forge Master Zdenya trouxe o Magebane Helm para proteger [url=glossary:lethian's crossing]Lethian's Crossing[/url], mas tanto ela quanto o Helm foram levados por Raetommon.</DefaultText>
+      <DefaultText>Forge Master Zdenya brought the Magebane Helm to protect [url=glossary:lethian's crossing]Lethian's Crossing[/url], but both she and the Helm were taken by Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você retornou para [url=glossary:lethian's crossing]Lethian's Crossing[/url] e recuperou o Magebane Helm de Eldian.</DefaultText>
+      <DefaultText>You returned to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and retrieved the Magebane Helm from Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>[url=glossary:bleden mark]Bleden Mark[/url] disse-lhe para obter o Magebane Helm volta de [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>[url=glossary:bleden mark]Bleden Mark[/url] told you to get the Magebane Helm back from [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

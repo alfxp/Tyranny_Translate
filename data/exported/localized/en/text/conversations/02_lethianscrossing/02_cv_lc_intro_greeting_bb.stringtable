@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_lc_intro_greeting_bb</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>16</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bem-vindo ao [url=glossary:lethian's crossing]Lethian's Crossing[/url], viajante! Você é livre para entrar, mas observe a si mesmo enquanto estiver aqui. Os mercadores e cidadãos da cidade estão sob nossa proteção e não suportamos ninguém minando nossa autoridade."</DefaultText>
+      <DefaultText>"Welcome to [url=glossary:lethian's crossing]Lethian's Crossing[/url], traveler! You are free to enter, but watch yourself while you're here. The merchants and citizens of the city are under our protection and we don't put up with anyone undermining our authority."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Quem está no comando aqui?"</DefaultText>
+      <DefaultText>"Who is in charge here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Que tipo de comerciantes você tem aqui?"</DefaultText>
+      <DefaultText>"What kind of merchants do you have here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Diga-me mais sobre [url=glossary:lethian's crossing]Lethian's Crossing[/url]."</DefaultText>
+      <DefaultText>"Tell me more about [url=glossary:lethian's crossing]Lethian's Crossing[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,61 +31,61 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"O líder da Irmandade na Cruzada é o Segundo-Irmão Ceratha. Ela está encarregada de manter o acordo seguro quando Raetommon não estiver por perto."
+      <DefaultText>"The Brotherhood's leader in the Crossing is Second-Brother Ceratha. She's in charge of keeping the settlement safe when Raetommon isn't around."
 
-"Caso contrário, fale com Eldian. Ele é o ancião da cidade e com quem você vai querer falar sobre problemas locais." Ele aponta para o leste. "Ambos podem ser encontrados no nível térreo do distrito da lua."</DefaultText>
+"Otherwise, speak to Eldian. He's the town elder and who you'll want to speak to about local problems." He points to the east. "Both of them can be found on the ground tier of the Moonrise District."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Você encontrará praticamente qualquer coisa que você quiser - na maior parte. [url=glossary:lethian's crossing]Lethian's Crossing[/url] é um grande centro comercial e um monte de mercadorias vêm através da área."</DefaultText>
+      <DefaultText>"You'll find pretty much anything you want - for the most part. [url=glossary:lethian's crossing]Lethian's Crossing[/url] is a large trading hub and a lot of goods come through the area."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Os colonos estão aqui há muito tempo, é praticamente tudo o que eu sei. Se você quiser detalhes, encontre Eldian. Ele é o ancião da cidade. Ele pode responder suas perguntas."</DefaultText>
+      <DefaultText>"The settlers have been here for a long time, that's pretty much all I know. If you want particulars, find Eldian. He's the town elder. He can answer your questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Se você ainda não fez isso, verifique com o Anel-Dropper Ceratha, o Segundo Irmão. Ela vai querer falar com você!"</DefaultText>
+      <DefaultText>"If you haven't already done it, check in with Ring-Dropper Ceratha, the Second-Brother. She'll want to talk to you!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Existe alguma coisa que eu possa ajudá-lo?"</DefaultText>
+      <DefaultText>"Is there anything I can help you with?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Bem-vindo de volta, viajante."</DefaultText>
+      <DefaultText>"Welcome back, traveler."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"O que é o distrito da lua?"</DefaultText>
+      <DefaultText>"What is the Moonrise District?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"O distrito da lua cheia é composto de todos os edifícios do outro lado do rio. Se você precisar de algo deste lado, você estará olhando no Distrito Sunrise. Este rio Portuscor divide os dois distritos."</DefaultText>
+      <DefaultText>"The Moonrise District is made up of all of the buildings on the other side of the river. If you need anything on this side, you'll be looking in the Sunrise District. This Portuscor River divides the two districts."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"O líder da Irmandade na Cruzada é o Segundo-Irmão Ceratha. Ela está encarregada de manter o acordo seguro."
+      <DefaultText>"The Brotherhood's leader in the Crossing is Second-Brother Ceratha. She's in charge of keeping the settlement safe."
 
-"Caso contrário, fale com Eldian. Ele é o ancião da cidade." Ele aponta para o leste. "Ambos podem ser encontrados no nível térreo do distrito da lua."</DefaultText>
+"Otherwise, speak to Eldian. He's the town elder." He points to the east. "Both of them can be found on the ground tier of the Moonrise District."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Assim que as palavras saem de sua boca, ele dá um pequeno passo para trás. "Não para sugerir que você minar nossa autoridade ... Quero dizer, sua autoridade é absoluta, Fatebinder. O [url=glossary:edict]edict[/url] você desencadeou ... uh ... proclamada em [url=glossary:lethian's crossing]Lethian's Crossing[/url] tem sido uma ajuda, não um obstáculo! Ele manteve os encrenqueiros longe!" Ele embaralha desconfortavelmente.</DefaultText>
+      <DefaultText>As soon as the words leave his mouth, he takes a small step backward. "Not to suggest you undermine our authority... I mean, your authority is absolute, Fatebinder. The [url=glossary:edict]edict[/url] you unleashed... uh... proclaimed on [url=glossary:lethian's crossing]Lethian's Crossing[/url] has certainly been a help, not a hindrance! It has kept the troublemakers away!" He shuffles uncomfortably.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Assim que as palavras saem de sua boca, ele dá um pequeno passo para trás. "Não para sugerir que você minaria nossa autoridade ... Ou que poderíamos pará-lo se você quisesse. Não que você queira, é claro!" Ele embaralha desconfortavelmente. "Eu peço desculpas, Fatebinder. Eu nunca estive na presença de alguém cujo poder rivaliza [url=glossary:kyros]Kyros[/url] '. Por favor, perdoe minha explosão."</DefaultText>
+      <DefaultText>As soon as the words leave his mouth, he takes a small step backward. "Not to suggest you would undermine our authority... Or that we could stop you if you wanted to. Not that you would want to, of course!" He shuffles uncomfortably. "I apologize, Fatebinder. I have never been in the presence of someone whose power rivals [url=glossary:kyros]Kyros[/url]'. Please forgive my outburst."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

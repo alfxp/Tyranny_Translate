@@ -1,227 +1,227 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_cv_adjudication_warrior_imprisoned</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>72</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Graças aos Arcontes que você veio. Eu poderia usar uma mão para sair dessas correntes." Ele muda seu rumo para sacudir suas algemas com um sorriso de desculpas.</DefaultText>
+      <DefaultText>"Thank the Archons you've come. I could use a hand getting out of these chains." He shifts his bearing to rattle his manacles with an apologetic smile.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Fatebinder! Você voltou para ouvir meu pedido?"</DefaultText>
+      <DefaultText>"Fatebinder! Have you come back to hear my plea?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Deixe o homem falar. Qual parece ser o problema?"</DefaultText>
+      <DefaultText>"Let the man speak. What seems to be the problem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Eu suponho que essas cadeias estão lá por uma razão."</DefaultText>
+      <DefaultText>"I assume those chains are there for a reason."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Mas você não deveria temer. Como você pode ver, eu sou tão dócil quanto um tronco caído. Fui condenado por uma escolha impulsiva, mas dificilmente um crime. Deixe-me contar a minha história."</DefaultText>
+      <DefaultText>"But you shouldn't fear. As you can see, I'm as docile as a fallen log. I was sentenced for an impulsive choice, but hardly a crime. Let me tell you my story."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Eu estava no Azure durante a conquista. Quando [url=glossary:cairn]Cairn[/url] declarou-se um inimigo de [url=glossary:kyros]Kyros[/url], nossas forças entraram em pânico. Não sabíamos em quem poderíamos confiar. Quando um Arconte se desgarra, você pode depender de seus apoiadores entrarem na linha."</DefaultText>
+      <DefaultText>"I was in Azure during the conquest. Back when [url=glossary:cairn]Cairn[/url] declared himself an enemy of [url=glossary:kyros]Kyros[/url], our forces panicked. We didn't know who we could trust. When an Archon goes rogue, you can depend on his supporters falling in line." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Tenha certeza que não. Adeus."</DefaultText>
+      <DefaultText>"Be sure it doesn't. Farewell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Um dos Earthshakers estava agindo de forma engraçada, como se ele tivesse algo em mente. Eu o segui de volta para a tenda do comandante e o peguei cavando através de suprimentos."</DefaultText>
+      <DefaultText>"One of the Earthshakers was acting funny, like he had something on his mind. I followed him back to the commander's tent and caught him digging through supplies."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Comece no começo."</DefaultText>
+      <DefaultText>"Start at the beginning."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Absolutamente não. Adeus."</DefaultText>
+      <DefaultText>"Absolutely not. Farewell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Tranquilo, prisioneiro! O Fatebinder não precisa ser incomodado por gente como você. Minhas desculpas, senhor. Não vai acontecer de novo."</DefaultText>
+      <DefaultText>"Quiet, prisoner! The Fatebinder doesn't need to be bothered by the likes of you. My apologies, sir. Won't happen again."</DefaultText>
       <FemaleText>"Quiet, prisoner! The Fatebinder doesn't need to be bothered by the likes of you. My apologies, ma'am. Won't happen again."</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Este é um assassino. Ele quebrou [url=glossary:kyros]Kyros[/url] 'Paz, e [url=glossary:graven ashe]Graven Ashe[/url] julgou-o em conformidade."</DefaultText>
+      <DefaultText>"This one's a murderer. He broke [url=glossary:kyros]Kyros[/url]' Peace, and [url=glossary:graven ashe]Graven Ashe[/url] judged him accordingly." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Oh, obrigado! Obrigado!"</DefaultText>
+      <DefaultText>"Oh, thank you! Thank you!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Eu o confrontei, discutimos, brigamos e ..." O soldado pigarreia. "Eu matei ele. Eu não vou medir as palavras - eu pensei que ele era um traidor, e agiu de acordo. Mais tarde, os Earthshakers se mostraram fiéis ... mais ou menos. Acabaram que o homem que eu matei estava apenas procurando por seu tinteiro."</DefaultText>
+      <DefaultText>"I confronted him, we argued, we fought, and..." The soldier clears his throat. "I killed him. I won't mince words - I thought he was a traitor, and acted accordingly. Later, the Earthshakers proved loyal... more or less. Turned out the man I killed was only searching for his inkwell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Continue."</DefaultText>
+      <DefaultText>"Go on."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Pensando bem, não estou interessado."</DefaultText>
+      <DefaultText>"On second thought, I'm not interested."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Esta conta é precisa?"</DefaultText>
+      <DefaultText>"Is this account accurate?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Então, o que você quer de mim?"</DefaultText>
+      <DefaultText>"So what do you want from me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Até onde eu sei. Pode ter havido alguma investigação sobre a lealdade dos Earthshakers na época, mas isso não teve influência neste conflito."</DefaultText>
+      <DefaultText>"To the best of my knowledge. There may have been some investigation about the Earthshakers' loyalties at the time, but it had no bearing on this conflict."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Eu quero recorrer da minha decisão. Pela letra da lei, [url=glossary:graven ashe]Graven Ashe[/url] tomou a decisão certa. Eu não discuto isso. Mas o espírito da [url=glossary:kyros]Kyros[/url]" lei é outra questão. Eu estava colocando um suspeito traidor, não atacando em raiva. Essas coisas acontecem na guerra ".</DefaultText>
+      <DefaultText>"I want to appeal my ruling. By the letter of the law, [url=glossary:graven ashe]Graven Ashe[/url] made the right decision. I don't dispute that. But the spirit of [url=glossary:kyros]Kyros[/url]' law is another matter. I was putting down a suspected traitor, not lashing out in anger. These things happen in war."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Vocês dois concordam com o meu envolvimento neste caso?"</DefaultText>
+      <DefaultText>"Do you both consent to my involvement in this case?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>O soldado parece pesar suas opções. "Eu não aprovo o segundo julgamento do [url=glossary:graven ashe]Graven Ashe[/url] ... mas como [url=glossary:tunon]Tunon[/url] do Fatebinder, eu confio em você para tomar uma decisão digna."</DefaultText>
+      <DefaultText>The soldier appears to weigh his options. "I don't approve of second-guessing [url=glossary:graven ashe]Graven Ashe[/url]'s judgment... but as [url=glossary:tunon]Tunon[/url]'s Fatebinder, I trust you to make a worthy decision." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Como eu. Obrigado por me ouvir."</DefaultText>
+      <DefaultText>"As do I. Thank you for hearing me out."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Havia algum outro motivo para suspeitar do Earthshaker?"</DefaultText>
+      <DefaultText>"Was there any other reason to suspect the Earthshaker?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Você tem algum histórico de comportamento errático?"</DefaultText>
+      <DefaultText>"Did you have any history of erratic behavior?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Estou pronto para fazer minha decisão."</DefaultText>
+      <DefaultText>"I'm ready to make my ruling."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Fiquei de olho nele durante toda a campanha, mas não ... nada substancial que eu pudesse citar."</DefaultText>
+      <DefaultText>"I kept an eye on him throughout the campaign, but no... nothing substantial that I could name."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Eu posso falar sobre isso. A verdade é que estávamos desconfiados dos magos desde o início da conquista. Eles pareciam mais à vontade em um livro do que em um campo de batalha, e eu nunca confiei em ninguém que pudesse ler."</DefaultText>
+      <DefaultText>"I can speak to that. The truth of the matter is we were leery of the mages since the conquest began. They seemed better at ease in a book than a battlefield, and I've never trusted anyone who could read."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Absolutamente nada. Passei a maior parte das minhas batalhas apoiando a falange pela parte de trás. É um dever importante. Mesmo que não sejam as linhas de frente, muitos bons soldados dependem de você."</DefaultText>
+      <DefaultText>"None at all. I spent most of my battles supporting the phalanx from the rear. It's important duty. Even if it isn't the front lines, a lot of good soldiers depend on you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Se alguém na parte traseira mostra sinais de rachaduras - talvez de muitos golpes na cabeça - alguém sempre percebe."</DefaultText>
+      <DefaultText>"If anyone in the rear shows signs of cracking - maybe from too many blows to the head - someone always notices." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Excelente. Obrigado por tomar o tempo para pesar o meu caso."</DefaultText>
+      <DefaultText>"Excellent. Thank you for taking the time to weigh my case."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Não mais ou menos do que eu esperava. Suponho que vou acabar com a minha sentença e ganhar meu caminho de volta para a legião."</DefaultText>
+      <DefaultText>"No more or less than I expected. I suppose I'll work off my sentence and earn my way back into the legion." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Eu confirmo a decisão do [url=glossary:graven ashe]Graven Ashe[/url]. Você continuará sendo um prisioneiro".</DefaultText>
+      <DefaultText>"I uphold [url=glossary:graven ashe]Graven Ashe[/url]'s decision. You will remain a prisoner."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ashe estava errado. Essas coisas acontecem na guerra. Você pode retornar aos seus deveres."</DefaultText>
+      <DefaultText>"Ashe was wrong. These things happen in war. You may return to your duties."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Você pode voltar para a batalha ... na cabeça da falange. Apenas a sua força irá resgatá-lo."</DefaultText>
+      <DefaultText>"You can return to battle... at the head of the phalanx. Only your strength will redeem you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Com um segundo pensamento, deixe-me reconsiderar minhas perguntas anteriores."</DefaultText>
+      <DefaultText>"On second thought, let me reconsider my prior questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Obrigado, Fatebinder. Eu sei que Ashe aprecia os olhos extras para confirmar seu julgamento."</DefaultText>
+      <DefaultText>"Thank you, Fatebinder. I know that Ashe appreciates the extra set of eyes to confirm his judgment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Eu posso voltar para a falange? Notícias maravilhosas! Outra chance de me redimir, e ganhar de volta o orgulho do [url=glossary:disfavored]Disfavored[/url]!"</DefaultText>
+      <DefaultText>"I can return to the phalanx? Wondrous news! Another chance to redeem myself, and earn back the pride of the [url=glossary:disfavored]Disfavored[/url]!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] não vai agradecer por isso ... mas eu vou respeitar isso." Ele libera o prisioneiro.</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Graven Ashe[/url] will not thank you for this... but I will abide by it." He releases the prisoner.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Eu ... eu não posso dizer se isso é uma promoção ou uma sentença de morte, mas eu vou levar tudo a mesma coisa! É um destino melhor para mim do que essas correntes."</DefaultText>
+      <DefaultText>"I... I can't tell if that's a promotion or a death sentence, but I'll take it all the same! It's a better fate for me than these chains."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Eu só posso imaginar como [url=glossary:graven ashe]Graven Ashe[/url] vai se sentir sobre você interpretar suas decisões, mas pelo menos você colocou este desgraçado para trabalhar. Suponho que isso conta para algo." Ele desata o prisioneiro.</DefaultText>
+      <DefaultText>"I can only guess how [url=glossary:graven ashe]Graven Ashe[/url] will feel about you interpreting his rulings, but at least you put this wretch to work. I suppose that counts for something." He unties the prisoner.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Claro. Leve o seu tempo."</DefaultText>
+      <DefaultText>"Of course. Take your time."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Quanto você pagaria por sua liberdade?"</DefaultText>
+      <DefaultText>"How much would you pay for your freedom?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Você está falando sério? Quero dizer, eu peguei minha parte de anéis durante a conquista, mas eu não acho que [url=glossary:graven ashe]Graven Ashe[/url] me receberia se eu comprasse o meu caminho de volta para o serviço dele ..."</DefaultText>
+      <DefaultText>"You're serious? I mean, I picked up my share of rings during the conquest, but I don't think [url=glossary:graven ashe]Graven Ashe[/url] would welcome me if I bought my way back into his service..." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,139 +231,139 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ponto justo. Voltando às minhas perguntas."</DefaultText>
+      <DefaultText>"Fair point. Back to my questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Isso é uma piada obscena? Esse homem é meu prisioneiro e um assassino! A legião saberá da sua traição."</DefaultText>
+      <DefaultText>"Is this an obscene joke? This man is my prisoner and a murderer! The legion will know of your treachery."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Eu aprecio sua compreensão, Fatebinder. Eu passei muito longe da falange."</DefaultText>
+      <DefaultText>"I appreciate your understanding, Fatebinder. I've spent too long away from the phalanx." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Eu prefiro ficar do lado certo da lei. Peça fora."</DefaultText>
+      <DefaultText>"I'd rather stay on the right side of the law. Ask away."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Você tomou o tempo para considerar meu pedido?"</DefaultText>
+      <DefaultText>"Have you taken the time to consider my plea?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Vou precisar de tempo para considerar isso. Adeus."</DefaultText>
+      <DefaultText>"I will need time to consider this. Farewell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Explique para mim de novo, desde o começo."</DefaultText>
+      <DefaultText>"Explain it to me again, from the beginning."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Eu tenho algumas perguntas antes de tomar minha decisão."</DefaultText>
+      <DefaultText>"I have some questions before I make my ruling."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Claro. Vá em frente."</DefaultText>
+      <DefaultText>"Of course. Go ahead."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Acha que você poderia soltar esses laços?"</DefaultText>
+      <DefaultText>"Think you could loosen these bonds?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Nó de Script 61</DefaultText>
+      <DefaultText>Script Node 61</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Eu acho que vou ficar aqui, então."</DefaultText>
+      <DefaultText>"I guess I'll just stay here, then."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Eu não gosto disso, mas parece que não tenho escolha no assunto." Ele desamarra o prisioneiro e olha para você.</DefaultText>
+      <DefaultText>"I like this not, but it seems I have no choice in the matter." He unties the prisoner and glares at you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Esses vínculos são realmente irritantes".</DefaultText>
+      <DefaultText>"These bonds are really chafing."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Sinto falta da vanguarda."</DefaultText>
+      <DefaultText>"I miss the vanguard."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Nó do banco 66</DefaultText>
+      <DefaultText>Bank Node 66</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Eu prefiro lidar com isso em outro momento."</DefaultText>
+      <DefaultText>"I'd rather handle this at another time."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Bem, eu suponho que não há nenhum dano nisso, então." O soldado acena para um cinto de anéis pendurado em sua cintura, do qual você o libera.</DefaultText>
+      <DefaultText>"Well, I suppose there's no harm in it, then." The soldier nods to a belt of rings hanging from his waist, of which you relieve him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Deixe-me voltar a isso mais tarde."</DefaultText>
+      <DefaultText>"Let me return to this at a later time."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>O soldado está mais alto na sua presença. "Você tem sido nada se não um amigo para a nossa legião. [url=lore:conq_empty]We ate well during the Stalwart campaign[/url] depois que você puniu os ratos coro por roubo."
+      <DefaultText>The soldier stands taller in your presence. "You've been nothing if not a friend to our legion. [url=lore:conq_empty]We ate well during the Stalwart campaign[/url] after you punished those Chorus rats for thievery." 
 
-"Desculpe pela perturbação. Não quis incomodá-lo em missão."</DefaultText>
+"Sorry about the disturbance. Didn't mean to bother you on assignment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Vá em frente, então. Apresente seu testemunho."</DefaultText>
+      <DefaultText>"Go on, then. Present your testimony."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Não estou interessado. Adeus."</DefaultText>
+      <DefaultText>"Not interested. Farewell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"É verdade. Em tempos de estresse e investida implacável, confiamos em nossa infantaria de apoio para nos ajudar a manter as linhas. A glória não é sempre vencida na frente."</DefaultText>
+      <DefaultText>"True enough. In times of stress and relentless onslaught, we rely on our support infantry to help us hold the lines. Glory isn't always won in the front."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Isto é uma perversão da justiça do General ... se Ashe quisesse que este soldado fosse disciplinado, ele teria decidido de acordo. Ele removeu este homem do serviço por uma razão."</DefaultText>
+      <DefaultText>"This is a perversion of the General's justice... if Ashe had wanted this soldier disciplined, he would have ruled accordingly. He removed this man from service for a reason." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Manter a justiça do Grande General é um movimento digno. Você demonstra grande honra ao Archon."</DefaultText>
+      <DefaultText>"Upholding the Great General's justice is a worthy move. You show great honor to the Archon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Isto é uma perversão da justiça do General ... se Ashe quisesse que este soldado fosse disciplinado, ele teria decidido de acordo. Ele removeu este homem do serviço por uma razão."</DefaultText>
+      <DefaultText>"This is a perversion of the General's justice... if Ashe had wanted this soldier disciplined, he would have ruled accordingly. He removed this man from service for a reason." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Agora, essa é uma solução valiosa para seus problemas. É uma pena que você acabou sendo um Fatebinder e não um chefe da gangue Chorus. Você tem os instintos para isso."</DefaultText>
+      <DefaultText>"Now that is a worthy solution to your problems. A pity you ended up a Fatebinder and not a Chorus gang boss. You have the instincts for it."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

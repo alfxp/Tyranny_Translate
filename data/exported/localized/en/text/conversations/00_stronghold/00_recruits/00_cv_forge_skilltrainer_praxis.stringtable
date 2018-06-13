@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_forge_skilltrainer_praxis</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>22</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"De fato, uma instituição de poder é muito mais difícil de quebrar."</DefaultText>
+      <DefaultText>"Indeed, an institution of power is much harder to crack."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Sim, o poder da pessoa é freqüentemente medido pelo quão grande nós percebemos esse poder."</DefaultText>
+      <DefaultText>"Yes, one's power is often measured by how great we perceive that power."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"O que você fez para mim?"</DefaultText>
+      <DefaultText>"What have you made for me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,74 +26,74 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Eu não tinha considerado isso - quando os ventos podem ser agitados por sua própria fala, quem questionará seu controle?"</DefaultText>
+      <DefaultText>"I hadn't considered that - when the winds can be stirred by her very utterance, who's to question her control?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Minhas desculpas Fatebinder, mas a forja está em manutenção. Eu não posso vender-lhe qualquer mercadoria até que esteja terminado."</DefaultText>
+      <DefaultText>"My apologies Fatebinder, but the forge is under maintenance. I cannot sell you any wares until it is finished."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Deixe-me te mostrar."</DefaultText>
+      <DefaultText>"Let me show you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Eu não tenho nada para você no momento. Volte mais tarde."
+      <DefaultText>"I don't have anything for you at the moment. Check back later."
 
-[Recrutas podem gerar itens para você enquanto você está ganhando experiência se aventurando no mundo.]</DefaultText>
+[Recruits can generate items for you while you are gaining experience by adventuring in the world.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>O rosto do homem se ilumina no momento em que você se aproxima. "Ah, Governador [Nome do Jogador], está tudo bem se eu me referir a você pela sua forma antiga de endereço? Nós ainda temos que executar alguém [url=glossary:lethian's crossing]Lethian's Crossing[/url] como você fez - tanto quanto eu estou preocupado, o manto será sempre ser seu." Ele se agita com o martelo ansiosamente por um momento antes de abaixar a voz. "Se eu posso ser tão ousado, tenho uma pergunta para você ..."</DefaultText>
+      <DefaultText>The man's face lights up the moment you approach. "Ah, Governor [Player Name], is it alright if I refer to you by your old form of address? We have yet to have someone run [url=glossary:lethian's crossing]Lethian's Crossing[/url] as well as you did - so far as I'm concerned, the mantle will always be yours." He fidgets with his hammer anxiously for a moment before lowering his voice. "If I may be so bold, I have a question for you..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>O homem se inclina profundamente diante de você. "Estimado Fatebinder [nome do jogador], com tantas horas gastas na forja, nós artesãos somos um pouco propensos a fofoca. É desnecessário dizer que o Fatebinder do Mountain Spire tem sido objeto de muitas conversas durante o trabalho do fole." Ele se agita com o martelo ansiosamente por um momento antes de abaixar a voz. "Se eu posso ser tão ousado, tenho uma pergunta para você ..."</DefaultText>
+      <DefaultText>The man bows deeply before you. "Esteemed Fatebinder [Player Name], with so many hours spent in the forge, we artisans are a bit prone to gossip. Needless to say, the Fatebinder of the Mountain Spire has been the subject of many a conversation while working the bellows." He fidgets with his hammer anxiously for a moment before lowering his voice. "If I may be so bold, I have a question for you..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Pergunta à vontade."</DefaultText>
+      <DefaultText>"Ask away."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Eu não tenho tempo para conversa fiada, o que você tem para mim?"</DefaultText>
+      <DefaultText>"I haven't time for idle conversation, what do you have for me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Praxis inclina a cabeça, desanimada. "Sim, há assuntos mais importantes à mão do que essas perguntas bobas."</DefaultText>
+      <DefaultText>Praxis bows his head, crestfallen. "Yes, there are more important matters at hand than these silly questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Os olhos de Praxis se iluminam com a mesma intensidade da forja atrás dele. "De onde realmente vem o poder? É da magia dos Éditos? É de Arcontes, ou talvez dos súditos leais e sua labuta?"</DefaultText>
+      <DefaultText>Praxis' eyes light up with the same intensity of the forge behind him. "From where does [url=glossary:kyros]Kyros[/url]' power truly stem? Is it from the magic of Edicts? Is it from Archons, or perhaps from the loyal subjects and their toil?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Arcontes são a verdadeira fonte de poder. Com tais criaturas poderosas à disposição do overlord, ela pode delegar muitos de seus negócios, e seu alcance se torna ilimitado."</DefaultText>
+      <DefaultText>"Archons are the true source of [url=glossary:kyros]Kyros[/url]' power. With such mighty creatures at the overlord's disposal, she can delegate much of her affairs, and her reach becomes limitless."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Eu diria que os plebeus do mundo são a fonte de [url=glossary:kyros]Kyros[/url] 'poder. É a sua submissão coletiva que legitima [url=glossary:kyros]Kyros[/url]' regra".</DefaultText>
+      <DefaultText>"I'd argue the commoners of the world are the source of [url=glossary:kyros]Kyros[/url]' power. It is their collective submission that legitimizes [url=glossary:kyros]Kyros[/url]' rule."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Editos são o ponto crucial do poder. Magia poderosa que pode moldar a própria paisagem confere domínio sobre nossa realidade."</DefaultText>
+      <DefaultText>"Edicts are the crux of [url=glossary:kyros]Kyros[/url]' power. Powerful magic that can shape the very landscape gives [url=glossary:kyros]Kyros[/url] dominion over our reality."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Praxis calmamente acena para si mesmo por um momento quase esquecendo que você já esteve lá. "Ah, minhas desculpas por me entregar ao filosófico. Existe algo que eu possa fazer por você?"</DefaultText>
+      <DefaultText>Praxis quietly nods to himself for a moment almost forgetting you were ever there. "Ah, my apologies for indulging myself in the philosophical. Is there anything I can do for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,17 +103,17 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"... Indiferença iluminada - uma virtude incomum."</DefaultText>
+      <DefaultText>"...Enlightened indifference - an uncommon virtue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Você retornou, Fatebinder." Ele acena com a cabeça. "O que posso fazer para você?"</DefaultText>
+      <DefaultText>"You've returned, Fatebinder." He nods his head. "What can I do for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Você tinha uma pergunta para mim?"</DefaultText>
+      <DefaultText>"You had a question for me?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

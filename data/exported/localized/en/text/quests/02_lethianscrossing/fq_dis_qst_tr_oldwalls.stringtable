@@ -1,107 +1,107 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\02_lethianscrossing\fq_dis_qst_tr_oldwalls</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>20</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Passagem Proibida</DefaultText>
+      <DefaultText>Forbidden Passage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Use a tocha.</DefaultText>
+      <DefaultText>Use the torchkey.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Procure no Oldwalls por Raetommon.</DefaultText>
+      <DefaultText>Search the Oldwalls for Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Derrote Raetommon.</DefaultText>
+      <DefaultText>Defeat Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Acenda os quatro faróis para estender a ponte.</DefaultText>
+      <DefaultText>Light the four beacons to extend the bridge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Mate o estrago.</DefaultText>
+      <DefaultText>Kill the Havoc.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Mestre de Forja Livre Zdenya.</DefaultText>
+      <DefaultText>Free Forge Master Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Retornar para Eldian.</DefaultText>
+      <DefaultText>Return to Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Relatório para [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
+      <DefaultText>Report to [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Raetommon se aprofundou no Twin Rivers Oldwalls com Zdenya como seu cativo. Rastreá-lo e recuperar o mestre [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <DefaultText>Raetommon has gone deep into the Twin Rivers Oldwalls with Zdenya as his captive. Track him down and retrieve the [url=glossary:forge-bound]Forge-Bound[/url] master.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Você obteve uma tocha de Flatfoot Ferris. Use-o para avançar ainda mais para os Oldwalls.</DefaultText>
+      <DefaultText>You obtained a torchkey from Flatfoot Ferris. Use it to move further into the Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Raetommon deve ter deixado alguns traços de sua passagem no Oldwalls. Você precisará procurar por ele, sala por sala.</DefaultText>
+      <DefaultText>Raetommon must have left some traces of his passage in the Oldwalls. You'll need to search for him, room by room.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Você finalmente encurralou Raetommon, mas como ele não está disposto a se render, você terá que matá-lo.</DefaultText>
+      <DefaultText>You've finally cornered Raetommon, but since he's unwilling to surrender, you'll have to kill him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Use a tocha correta em cada um dos faróis para estender a ponte e escapar do Oldwalls.</DefaultText>
+      <DefaultText>Use the correct torchkey on each of the beacons to extend the bridge and escape the Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>O Havoc escapou de sua prisão. Você precisa matá-lo antes que ele possa desencadear o Bane em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>The Havoc escaped from its prison. You need to kill it before it can unleash the Bane on [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Agora que tanto Raetommon quanto o Havoc estão mortos, você pode liberar o Forge Master Zdenya.</DefaultText>
+      <DefaultText>Now that both Raetommon and the Havoc are dead, you can release Forge Master Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Volte para [url=glossary:lethian's crossing]Lethian's Crossing[/url] e forneça a Eldian o Magebane Helm ou peça por ele mesmo.</DefaultText>
+      <DefaultText>Return to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and either give Eldian the Magebane Helm or claim it for your own.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Retorne a [url=glossary:graven ashe]Graven Ashe[/url] e diga-lhe o que aconteceu em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Return to [url=glossary:graven ashe]Graven Ashe[/url] and tell him what happened in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você retornou a [url=glossary:graven ashe]Graven Ashe[/url] em Iron Hearth e disse a ele o que aconteceu com Zdenya no Magebane Helm em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>You returned to [url=glossary:graven ashe]Graven Ashe[/url] at Iron Hearth and told him what transpired with Zdenya at the Magebane Helm at [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você foi contra as ordens de [url=glossary:graven ashe]Graven Ashe[/url] e matou Zdenya.</DefaultText>
+      <DefaultText>You went against [url=glossary:graven ashe]Graven Ashe[/url]'s orders and killed Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

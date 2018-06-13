@@ -1,37 +1,37 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\factionquestlines\scarletchorus\fq_sc_qst_chorusstart</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>6</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>A Dissonância da Guerra</DefaultText>
+      <DefaultText>The Dissonance of War</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viajar para Cacofonia.</DefaultText>
+      <DefaultText>Travel to Cacophony.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Você foi dirigido por [url=glossary:tunon]Tunon[/url] para falar [url=glossary:the voices of nerat]the Voices of Nerat[/url] em Cacofonia. A cacofonia pode ser encontrada na região [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <DefaultText>You've been directed by [url=glossary:tunon]Tunon[/url] to speak to [url=glossary:the voices of nerat]the Voices of Nerat[/url] in Cacophony. Cacophony can be found in the [url=glossary:stone sea]Stone Sea[/url] region.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Vá para Cacofonia e fale com [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <DefaultText>Go to Cacophony and speak to [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Fale com os sete dedos sobre aonde você irá em seguida.</DefaultText>
+      <DefaultText>Speak to Seven Toes about where you will go next.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você falou com [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <DefaultText>You spoke with [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

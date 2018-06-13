@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_library_skilltrainer_phila</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>15</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Eu acidentalmente coloquei um pergaminho no fogo ... minhas desculpas. Eu poderia usar algum espaço."</DefaultText>
+      <DefaultText>"I accidentally set a scroll on fire... my apologies. I could use some space." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Vamos dobrar os elementos à nossa vontade hoje, Fatebinder?" Ela aperta as mãos com ansiedade.</DefaultText>
+      <DefaultText>"Shall we bend the elements to our will today, Fatebinder?" She clasps her hands together with eagerness.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Eu gostaria de treinar."</DefaultText>
+      <DefaultText>"I'd like to train."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,54 +26,54 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Venha para treinar?" Philia te examina. "Alguns de nós precisam mais do que outros."</DefaultText>
+      <DefaultText>"Come for training?" Philia scrutinizes you. "Some of us need it more than others." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Você precisa de instrução, Fatebinder?"</DefaultText>
+      <DefaultText>"Do you need instruction, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Um mago examina a biblioteca com uma expressão divertida. Leva um tempo para ela perceber você. "Mm? Fatebinder? Eu estava me perguntando quando encontraria meu patrono."</DefaultText>
+      <DefaultText>A mage peruses the library with an amused expression. It takes a while for her to notice you. "Mm? Fatebinder? I was wondering when I would meet my patron."</DefaultText>
       <FemaleText>A mage peruses the library with an amused expression. It takes a while for her to notice you. "Mm? Fatebinder? I was wondering when I would meet my patroness."</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Ela se curva. "Philia do [url=glossary:forge-bound]Forge-Bound[/url]. Antes que você me pergunte o que um ferreiro está fazendo longe da forja ... bem, eu estou dando um tempo no trabalho de ferro, e esta biblioteca atende ao meu gosto no momento."</DefaultText>
+      <DefaultText>She bows. "Philia of the [url=glossary:forge-bound]Forge-Bound[/url]. Before you ask me what a smith is doing away from the forge... well, I'm taking a break from iron work, and this library suits my tastes at present."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Como você chegou aqui?"</DefaultText>
+      <DefaultText>"How did you get up here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Qual é o plano agora que você está aqui?"</DefaultText>
+      <DefaultText>"What's the plan now that you're here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Ela olha para a borda do pináculo. "Não tão facilmente quanto você, garanto-lhe. Mas estou acostumada a trabalhar duro para conseguir o que quero."</DefaultText>
+      <DefaultText>She glances over the edge of the Spire. "Not as easily as you did, I assure you. But I'm accustomed to working hard to get what I want."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Eu preciso de algum tempo longe do esforço de guerra. Montando as mesmas espadas e capacetes, usando nosso intelecto e arte para equipar um exército ..." Ela estremece. "Os [url=glossary:forge-bound]Forge-Bound[/url] são mestres do nosso ofício, mas nós somos artistas de coração, e esta guerra utilizou mal nossos talentos."</DefaultText>
+      <DefaultText>"I need some time away from the war effort. Assembling the same swords and helmets, using our intellect and art to equip an army..." She shivers. "The [url=glossary:forge-bound]Forge-Bound[/url] are masters of our craft, but we're artists at heart, and this war has misused our talents." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Eu quero passar algum tempo entre esses livros, lembrando o que me interessou no arcano em primeiro lugar. Ensinar você deve cumprir um objetivo similar, embora eu não tenha certeza até começar."
+      <DefaultText>"I want to spend some time among these books, recalling what got me interested in the arcane in the first place. Teaching you should fulfill a similar goal, though I won't know for certain until I get started." 
 
-Ela limpa a garganta. "Onde devemos começar?"</DefaultText>
+She clears her throat. "Where shall we begin?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Você me diz. Vamos conversar sobre magia."</DefaultText>
+      <DefaultText>"You tell me. Let's talk magic."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

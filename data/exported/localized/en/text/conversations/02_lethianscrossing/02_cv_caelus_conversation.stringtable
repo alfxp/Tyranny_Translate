@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_caelus_conversation</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>31</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ajude, antes que eles matem todos nós!" Cheio de fadiga e de olhos arregalados de pânico, um guerreiro da Fraternidade segue em sua direção, fugindo dos sons da batalha. "Para armas!"</DefaultText>
+      <DefaultText>"Help, before they kill us all!" Flush with fatigue and wide-eyed with panic, a Brotherhood warrior bounds toward you, fleeing the sounds of battle. "To arms!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Eu vou te ajudar. Eu preciso entrar no Oldwalls."</DefaultText>
+      <DefaultText>"I will help you. I need to get into the Oldwalls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,44 +21,44 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Acalme-se e explique."</DefaultText>
+      <DefaultText>"Calm yourself and explain."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Ele recupera um pouco a compostura e começa a falar mais claramente. "Fomos separados do acampamento base. Welby tentou manter algum senso de ordem, mas depois que Raetommon desapareceu e o Scourge apareceu, as portas dos Oldwalls fecharam."</DefaultText>
+      <DefaultText>He regains some composure and begins to speak more clearly. "We've been cut off from base camp. Welby tried to maintain some sense of order, but after Raetommon vanished and the Scourge appeared, the doors to the Oldwalls sealed shut."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Você apoiaria a Irmandade nessa luta?" Sua postura se endireita e ele ergue sua arma com vigor. "Então a vitória ainda pode ser nossa!"
+      <DefaultText>"You would support the Brotherhood in this fight?" His posture straightens and he hoists his weapon with vigor. "Then victory might still be ours!"
 
-Reforçado com entusiasmo, ele carrega de volta para a batalha em espiral.</DefaultText>
+Bolstered with enthusiasm, he charges back toward the swirling battle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Então se defenda, escória sem honra." Cansado e trêmulo, o soldado se esquiva de sua postura e prepara sua arma.</DefaultText>
+      <DefaultText>"Then defend yourself, honorless scum." Tired and trembling, the soldier squares off his stance and readies his weapon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Você não deveria estar segurando a linha e não chorando por ajuda?"</DefaultText>
+      <DefaultText>"Shouldn't you be holding the line and not crying for help?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Como posso abrir a porta para os Oldwalls?"</DefaultText>
+      <DefaultText>"How can I unseal the door to the Oldwalls?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Obrigado pela palavra de advertência. Você está por sua conta."</DefaultText>
+      <DefaultText>"Thanks for the word of warning. You're on your own."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Seja bem-vindo?" Seus ombros caem quando sua voz cai em um murmúrio. "Covarde sem mãe."</DefaultText>
+      <DefaultText>"You're... welcome?" His shoulders slump as his voice drops to a mutter. "Motherless coward."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,14 +73,14 @@ Reforçado com entusiasmo, ele carrega de volta para a batalha em espiral.</Defa
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Você não ouviu o que eu disse? O Bane está nos atacando! Eu não me importo como entrar agora, eu tenho problemas maiores para lidar."</DefaultText>
+      <DefaultText>"Didn't you hear what I said? The Bane are attacking us! I don't care how to get inside right now, I have bigger problems to deal with."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Chorando ?! Como você se atreve!" O homem dá um passo para trás, seu rosto enraged uma carranca. "Eu sou - estou ... reunindo o flanco! Eu não sou - certamente não sou um covarde!"
+      <DefaultText>"Crying?! How dare you!" The man takes a step back, his face an enraged scowl. "I'm - I'm... rallying the flank! I'm not - certainly not a coward!"
 
-Ele lança seu punho, sua mandíbula saliente para frente. "Esta não é a hora para brincadeiras infantis. Por favor! Precisamos da sua ajuda!"</DefaultText>
+He balls his fist, his lower jaw jutting forward. "This isn't the time for childish banter. Please! We need your help!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -100,26 +100,26 @@ Ele lança seu punho, sua mandíbula saliente para frente. "Esta não é a hora 
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Obrigado." Seu olhar cai no chão. "Ajude meus amigos e continuarei a obter mais apoio."
+      <DefaultText>"Thank you." His gaze falls to the ground. "Assist my friends, and I will continue to rally more support."
 
-Com isso, o soldado mantém resolutamente sua posição.</DefaultText>
+With that, the soldier resolutely holds his position.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Quando você se vira, o soldado solta um suspiro pesado e avança para a batalha.</DefaultText>
+      <DefaultText>As you turn away, the soldier breathes a heavy sigh, and charges back toward the battle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Curse minha sorte que nós temos que ver o rosto de um animal covarde aqui hoje. O mundo não me lançou seus males o suficiente?" O soldado da Irmandade faz uma pausa apenas o tempo suficiente para recuperar o fôlego e, em seguida, carrega você.</DefaultText>
+      <DefaultText>"Curse my luck that we have to see the face of a cowardly animal here today. Has the world not cast its ills on me enough?" The Brotherhood soldier pauses only long enough to catch his breath and then charges you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Os flagelos!" Ele se inclina para frente, tentando recuperar o fôlego.
+      <DefaultText>"The Scourges!" He hunches forward, trying to catch his breath.
 
-"Eles nos cercaram ... de todas as direções." Ele aponta para a batalha atrás dele. "O Primeiro Irmão ... Raetommon ... Ele entrou no Oldwalls, e logo depois ... o Bane ... o Bane nos cercou."</DefaultText>
+"They swarmed us... from every direction." He points toward the battle behind him. "The First Brother... Raetommon... He entered the Oldwalls, and shortly after... the Bane... the Bane swarmed us."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -129,44 +129,44 @@ Com isso, o soldado mantém resolutamente sua posição.</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Esta demonstração de covardia está envergonhando você e me embaraçando. Saia daqui antes que eu te alimente com as criaturas que você tanto teme."</DefaultText>
+      <DefaultText>"This display of cowardice is shaming you and embarrassing me. Get out of here before I feed you to the creatures you so fear."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Você é ... você é louco! Se a covardia é tudo que me mantém vivo, eu vou assumir a alternativa!" O lutador dispara do campo de batalha, tropeçando em seus pés com urgência.</DefaultText>
+      <DefaultText>"You're... you're crazy! If cowardice is all that keeps me alive, I'll take it over the alternative!" The fighter sprints from the battlefield, stumbling over his feet with urgency.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Nó de Script 33</DefaultText>
+      <DefaultText>Script Node 33</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"É certo ajudar um colega soldado para uma mudança. Não se engane - ele é um mercenário, mas tão poucos desfrutam do privilégio de fidelidade a Ashe. Vamos embora!"</DefaultText>
+      <DefaultText>"It feels right to help a fellow soldier for a change. Make no mistake - he's a sellsword, but so few enjoy the privilege of fealty to Ashe. Let's be off!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Eu acho que você vai encontrar poucas coisas que trazem as pessoas juntas como uma ameaça comum." Eb sorri com um aceno satisfeito. "Sem a nossa ajuda, eles provavelmente estão condenados. Com a sua ajuda, eles provavelmente viverão e talvez, apenas talvez, até mesmo nos agradeçam. Oh, quem eu estou enganando? Eu apostaria meus anéis em alegações copiosas de 'bem nós teria ganho sem você! '"</DefaultText>
+      <DefaultText>"I think you'll find few things bring folk together like a common threat." Eb smiles with a satisfied nod. "Without our help, they're probably doomed. With your help, they'll most likely live and maybe, just maybe, even thank us. Oh who am I kidding? I'd wager my rings on copious claims of 'well we would have won without you!'"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Beastwoman tem o melhor, o mais cruel Alpha! Sempre está deixando Kills-in-Shadow lutar, slice-tear e abate! Sempre está trazendo Beastwoman presentes de presas frescas."
+      <DefaultText>"Beastwoman has best, most vicious Alpha! Always is letting Kills-in-Shadow fight, slice-tear, and slaughter! Always is bringing Beastwoman gifts of fresh prey."
 
-Ela uiva ansiosamente, seus olhos brilhando com a luxúria de sangue.</DefaultText>
+She howls eagerly, her eyes bright with surging bloodlust.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"É melhor você correr, senão eu vou açoitar sua pele em fitas!" Verso sacode a cabeça. "Mercenários - sem lealdade e sem espinha."</DefaultText>
+      <DefaultText>"You better run, else I'll flog your hide to ribbons!" Verse shakes her head. "Mercenaries - no loyalty and no spine."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Nó do banco 41</DefaultText>
+      <DefaultText>Bank Node 41</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

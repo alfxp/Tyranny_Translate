@@ -1,162 +1,162 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\05_cairnplains\fq_dis_qst_03_securingthesea</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>31</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Protegendo o mar</DefaultText>
+      <DefaultText>Securing The Sea</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Retornar para Radix.</DefaultText>
+      <DefaultText>Return to Radix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Reúna-se com os Earthshakers em Gulfglow Oldwalls.</DefaultText>
+      <DefaultText>Meet with the Earthshakers at Gulfglow Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Elimine o [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
+      <DefaultText>Eliminate the [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Colete três fragmentos de Azurelith do [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <DefaultText>Collect three shards of Azurelith from the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Devolva os fragmentos de Azurelith para Radix.</DefaultText>
+      <DefaultText>Return the shards of Azurelith to Radix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Defenda os Earthshakers.</DefaultText>
+      <DefaultText>Defend the Earthshakers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Complete o ritual.</DefaultText>
+      <DefaultText>Complete the ritual.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Retornar para [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
+      <DefaultText>Return to [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Realinhe o nó central de Azurelith.</DefaultText>
+      <DefaultText>Realign the central Azurelith Lode.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Realinhe o Lodo de Azurelith ocidental.</DefaultText>
+      <DefaultText>Realign the western Azurelith Lode.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Realinhe o sudeste do Lodo Azurelith.</DefaultText>
+      <DefaultText>Realign the southeastern Azurelith Lode.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Volte para Basilon.</DefaultText>
+      <DefaultText>Return to Basilon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Fale com o Radix.</DefaultText>
+      <DefaultText>Speak with Radix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] aprovou o plano de Caedis e Radix para destruir a terra do [url=glossary:stone sea]Stone Sea[/url], a fim de sabotar a capacidade de Nerat para cultivar e produzir alimentos para suas tropas.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] has approved of Caedis' and Radix's plan to destroy the land of the [url=glossary:stone sea]Stone Sea[/url] in order to sabotage Nerat's ability to farm and produce food for his troops.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Radix está aguardando seu retorno no Howling Rock. Responda a ele e comece os próximos passos do plano.</DefaultText>
+      <DefaultText>Radix is awaiting your return at Howling Rock. Report back to him and begin the next steps in the plan.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Caedis e Radix falaram sobre um grupo perdido de Earthshakers. Viaje para Gulfglow Oldwalls e descubra o que aconteceu com eles.</DefaultText>
+      <DefaultText>Caedis and Radix told you about a missing group of Earthshakers. Travel to Gulfglow Oldwalls and find out what happened to them.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Você chegou a Gulfglow Oldwalls e descobriu que o grupo de Earthshakers está em um impasse com um bando de Beastmen da tribo [url=glossary:stonestalker]Stonestalker[/url]. Ajude os Earthshakers e mate os Beastmen em Gulfglow e dentro do Gulfglow Spire.</DefaultText>
+      <DefaultText>You arrived at Gulfglow Oldwalls and found that the group of Earthshakers are in a standoff with a band of Beastmen from the [url=glossary:stonestalker]Stonestalker[/url] tribe. Assist the Earthshakers and kill the Beastmen at Gulfglow and inside the Gulfglow Spire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>O ritual em Howling Rock exigirá três fragmentos de Azurelith. Esses fragmentos podem ser encontrados em todo o [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <DefaultText>The ritual at Howling Rock will require three shards of Azurelith. These shards can be found throughout the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Traga os fragmentos de Azurelith para Radix em Howling Rock para começar os preparativos para o ritual de [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <DefaultText>Bring the shards of Azurelith to Radix at Howling Rock to begin preparations for the ritual of [url=glossary:cairn]Cairn[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Os [url=glossary:scarlet chorus]Scarlet Chorus[/url] estão atacando os Earthshakers em Howling Rock em uma tentativa de parar o ritual. Defenda os Earthshakers do Coro.</DefaultText>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] are attacking the Earthshakers at Howling Rock in an attempt to stop the ritual. Defend the Earthshakers from the Chorus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Complete o ritual em Howling Rock removendo um pedaço de [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <DefaultText>Complete the ritual at Howling Rock by removing a piece of [url=glossary:cairn]Cairn[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Você usou toda a energia arcana de [url=glossary:cairn]Cairn[/url] para sempre danificar o [url=glossary:stone sea]Stone Sea[/url], golpeando assim o exército de Nerat. Volte para [url=glossary:graven ashe]Graven Ashe[/url] no Iron Hearth e informe sobre o sucesso de sua campanha.</DefaultText>
+      <DefaultText>You have used the whole of [url=glossary:cairn]Cairn[/url]'s arcane energy to forever blight the [url=glossary:stone sea]Stone Sea[/url], thus striking a crippling blow to Nerat's army. Return to [url=glossary:graven ashe]Graven Ashe[/url] at Iron Hearth and report on the success of your campaign.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText>Re-incorpore a equipe focal do Earthshaker no Loud central Azurelith para estabilizar o Ritual.</DefaultText>
+      <DefaultText>Re-embed the Earthshaker focal staff into the charged central Azurelith Lode to stabilize the Ritual.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10016</ID>
-      <DefaultText>Re-embeba a equipe focal do Earthshaker no Lode Azurelith ocidental carregado para completar o Ritual.</DefaultText>
+      <DefaultText>Re-embed the Earthshaker focal staff into the charged western Azurelith Lode to complete the Ritual.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10019</ID>
-      <DefaultText>Re-embeba a equipe focal do Earthshaker no Loud de Azurelith, no sudeste, para estabilizar o Ritual.</DefaultText>
+      <DefaultText>Re-embed the Earthshaker focal staff into the charged southeastern Azurelith Lode to stabilize the Ritual.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10021</ID>
-      <DefaultText>Fale com Basilon em Gulfglow Oldwalls para que ele saiba que você encontrou os cristais e matou todos os Beastmen.</DefaultText>
+      <DefaultText>Speak with Basilon at Gulfglow Oldwalls to let him know that you have found the crystals and have killed all the Beastmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10022</ID>
-      <DefaultText>Fale com Radix no Howling Rock.</DefaultText>
+      <DefaultText>Speak with Radix at Howling Rock.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Fale com Red-Fang dentro do Spire.</DefaultText>
+      <DefaultText>Speak with Red-Fang inside the Spire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Colher um pedaço de [url=glossary:cairn]Cairn[/url] para se tornar mais poderoso.</DefaultText>
+      <DefaultText>Harvest a piece of [url=glossary:cairn]Cairn[/url] to become more powerful.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você eliminou qualquer esperança que os [url=glossary:scarlet chorus]Scarlet Chorus[/url] tinham de continuar a fornecer culturas às suas tropas no [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
+      <DefaultText>You have eliminated [url=glossary:cairn]Cairn[/url] and thwarted any hope the [url=glossary:scarlet chorus]Scarlet Chorus[/url] had of continuing to provide crops to their troops in the [url=glossary:stone sea]Stone Sea[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

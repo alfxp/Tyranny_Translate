@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_bs_concerned_settlers</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"O que vamos fazer sem o Magebane Helm?"</DefaultText>
+      <DefaultText>"What are we going to do without the Magebane Helm?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Espero que Eldian tenha um plano para recuperar o leme."</DefaultText>
+      <DefaultText>"I hope Eldian has a plan to get the Helm back."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Se não pegarmos o leme de volta, quem vai nos proteger do Bane?"</DefaultText>
+      <DefaultText>"If we don't get the Helm back, who's going to protect us from the Bane?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

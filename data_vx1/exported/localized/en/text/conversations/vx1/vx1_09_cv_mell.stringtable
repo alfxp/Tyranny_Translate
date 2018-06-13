@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\vx1\vx1_09_cv_mell</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>303</EntryCount>
+  <EntryCount>305</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1525,6 +1525,16 @@ Several other men and women watch from the upper levels, gasping and muttering t
     <Entry>
       <ID>345</ID>
       <DefaultText>"I... I'd not heard that. No mention of it at all in what I've read about the Overlord..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Her mind was dwindling, and I know she was fixated on making sure everything she carried out of the [url=glossary:vellum citadel]Vellum Citadel[/url] was hidden and safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"She and I hid one such cache over by the farm, the others are, I presume, deeper in the Oldwalls. Lexeme knew an old [url=glossary:sage]Sage[/url] trick that conceals the stashes, making them fade from view unless another Chronicler stands near. When her magic began fading, she made a rush to conceal things, but aside from the one stash in the farm, only she knows where the rest lay."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

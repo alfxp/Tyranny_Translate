@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_alchemist_arina</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>17</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Eu não me importo se você está doente - a enfermaria está precisando de reparos."</DefaultText>
+      <DefaultText>"I don't care if you're sick - the infirmary is in need of repairs." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Fatebinder, você parece horrível. Quero dizer isso como um elogio - lamentável é aquele que não tem nada para melhorar."</DefaultText>
+      <DefaultText>"Fatebinder, you look just awful. I mean that as a compliment - pitiable is he who has nothing to improve upon." </DefaultText>
       <FemaleText>"Fatebinder, you look just awful. I mean that as a compliment - pitiable is she who has nothing to improve upon." </FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"O que preciso fazer para me sentir melhor?"</DefaultText>
+      <DefaultText>"What do I need to take to feel better?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,52 +26,52 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Pálido, doentio, fraco". Ela sacode a cabeça. "Eu daria a você uma quinzena a menos que você equilibrasse os líquidos repugnantes que passavam pelo seu corpo, mas mesmo assim pode ser tarde demais."</DefaultText>
+      <DefaultText>"Pale, sickly, weak." She shakes her head. "I'd give you a fortnight unless you balance out the disgusting liquids sloshing through your body, but even then it may be too late."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Sentindo-se doentio? De sua tez eu só posso assumir que a resposta é 'sim', então fale."</DefaultText>
+      <DefaultText>"Feeling sickly? From your complexion I can only assume the answer is 'yes,' so speak up." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Um alquimista olha para cima e para baixo com uma expressão de curiosidade aberta. "Exposição razoavelmente saudável, razoavelmente em forma, evidente a doenças do campo militar e condições de combate ..." Ela estreita os olhos e acena com a cabeça. "Sem dúvida, algum verme invadiu as entranhas e triplicou de tamanho até agora."</DefaultText>
+      <DefaultText>An alchemist looks you up and down with an expression of open curiosity. "Reasonably healthy, reasonably fit, evident exposure to military camp diseases and combat conditions..." She narrows her eyes and nods. "No doubt some worm has invaded the bowels and tripled in size by now." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Ela faz um gesto de desprezo. "Você estará morto em breve."</DefaultText>
+      <DefaultText>She makes a dismissive wave. "You'll be dead before long."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"O que te faz dizer isso?"</DefaultText>
+      <DefaultText>"What makes you say that?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Com licença?"</DefaultText>
+      <DefaultText>"Excuse me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"É uma triste realidade da vida militar. Muito tempo gasto em quartos apertados, dividindo um beliche com algum soldado meio morto que não consegue controlar seus fluidos."</DefaultText>
+      <DefaultText>"It's a sad reality of military life. Too much time spent in cramped quarters, sharing a bunk with some half-dead soldier who can't control his fluids."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Eu costumo manter minha distância de tais esquálidos para evitar pegar o que eu trato." Ela gesticula ao redor do Pináculo. "Como você pode ver. Mas no seu ritmo, é quase inevitável que algum parasita ou veneno possa devorá-lo por dentro, a menos que você tome um cuidado especial."</DefaultText>
+      <DefaultText>"I tend to keep my distance from such squalors to avoid catching what I treat." She gestures around the Spire. "As you can see. But at your rate, it's all but inevitable that some parasite or poison will devour you from the inside, unless you take special care." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Ela enche a boca. "Eu disse que você vai estar morto antes do tempo!" Ela suspira e balança a cabeça. "Adicione perda auditiva à lista."</DefaultText>
+      <DefaultText>She cups her mouth. "I said you'll be DEAD BEFORE LONG!" She sighs and shakes her head. "Add hearing loss to the list." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Por que você não me mostra o que eu posso fazer para me tratar e evitar essa inevitável desgraça?"</DefaultText>
+      <DefaultText>"Why don't you show me what I can do to treat myself and forestall this inevitable doom?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Dê uma olhada em minhas mercadorias. Seus humores agradecerão quando eles não saírem de todos os orifícios."</DefaultText>
+      <DefaultText>"Take a look at my wares. Your humors will thank you when they don't come bubbling out of every orifice."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Eu adoraria ajudar, mas preciso de algum tempo para reabastecer meu estoque. Volte mais tarde."</DefaultText>
+      <DefaultText>"I would love to help, but I need some time to replenish my stock. Come back later."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

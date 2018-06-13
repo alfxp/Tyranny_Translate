@@ -2,7 +2,7 @@
 <StringTableFile>
   <Name>conversations\companions\companion_cv_sirin_main</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>507</EntryCount>
+  <EntryCount>508</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -13,7 +13,7 @@ O rosto de Sirin se ilumina quando ela fala. Ela pega uma das suas mãos e apert
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Fatebinder, é bom ver você.
+      <DefaultText>"Fatebinder, é bom ver você. A essa altura, eu normalmente já fui passado para outra pessoa para mais 'treinamento'".
 
 O rosto de Sirin mostra uma mistura de confusão e esperança.</DefaultText>
       <FemaleText />
@@ -34,7 +34,7 @@ Sirin cumprimenta-lo em silêncio, rosto desenhado. Seu semblante apresenta um c
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Bem, não é o salvador das camadas".
+      <DefaultText>"Bem, se não é o 'salvador das camadas'. O que você vai me pedir para fazer agora?
 
 Sirin franze os lábios e exala com desdém.</DefaultText>
       <FemaleText />
@@ -65,7 +65,7 @@ Sirin sorri e cora com as palavras dela.</DefaultText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"O que Você Pode Me Dizer Sobre o [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@ Sirin sorri e cora com as palavras dela.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Você sabe alguma coisa sobre o que está acontecendo no Tier?"</DefaultText>
+      <DefaultText>"Você sabe alguma coisa sobre o que está acontecendo no Tiers?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,9 +115,9 @@ Sirin sorri e cora com as palavras dela.</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Não vamos fingir que você é importante", "Fatebinder", "Porque nós somos verdadeiros, não somos verdadeiros".
+      <DefaultText>"Não vamos fingir que você se importa comigo, Fatebinder, porque nós dois sabemos que isso não é verdade. Eu não vou ofertar meu coração agora para que você possa abusar mais disso. Eu sou cru o suficiente como é."
 
-Ela ri abertamente, depois balançando a cabeça tristemente, indo cair os olhos.</DefaultText>
+Ela ri abertamente, depois balança a cabeça tristemente, deixando cair os olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,12 +147,12 @@ Ela ri abertamente, depois balançando a cabeça tristemente, indo cair os olhos
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Ela range os dentes, seus lábios se tornando uma linha fina. Um rubor aparece em suas bochechas e você pode dizer que ela está se segurando. Depois de alguns momentos, ela respira pelas narinas e balança por um tempo novamente, desta vez em resignação.</DefaultText>
+      <DefaultText>Ela range os dentes, seus lábios se tornando uma linha fina. Um rubor aparece em suas bochechas e você pode dizer que ela está se segurando. Depois de alguns momentos ela respira pesadamente pelas narinas e balança a cabeça novamente, desta vez em resignação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Eu realmente não fiz muito sobre eles, Fatebinder. Eu nunca tive uma chance de trabalhar com eles, então eu não acho que vou ter muita ajuda neste tópico."</DefaultText>
+      <DefaultText>"Eu realmente não sei muito sobre eles, Fatebinder. Eu nunca tive a chance de trabalhar com eles, então eu não acho que vou ser de muita ajuda neste tópico."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,7 +167,7 @@ Ela ri abertamente, depois balançando a cabeça tristemente, indo cair os olhos
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Você é visto em ação?"</DefaultText>
+      <DefaultText>"Você os viu em ação?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -182,7 +182,7 @@ Ela ri abertamente, depois balançando a cabeça tristemente, indo cair os olhos
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"O que há para se dizer? É uma memória que dificilmente pode ser registrada. Ela é nascida em uma aldeia agrícola do norte sem nome - é assim que estamos fora do caminho."</DefaultText>
+      <DefaultText>"O que há para dizer? É uma memória confusa que dificilmente vale a pena recordar. Eu nasci em uma aldeia agrícola do norte sem nome - é assim que estamos fora do caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,37 +212,37 @@ Ela ri abertamente, depois balançando a cabeça tristemente, indo cair os olhos
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Bem, no começo eu fui tratado como uma rainha. Eu passei todo o meu tempo recrutando - e vamos ser honestos, o [url=glossary:scarlet chorus]Scarlet Chorus[/url] não é exigente, então foi fácil convencer como pessoas a participar."</DefaultText>
+      <DefaultText>"Bem, no começo eu fui tratado como uma rainha. Eu passei todo o meu tempo recrutando - e vamos ser honestos, o [url=glossary:scarlet chorus]Scarlet Chorus[/url] não é exigente, então foi fácil convencer as pessoas a participar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Eu tenho pensado que meu olhar de humor responde a essa pergunta, Fatebinder."</DefaultText>
+      <DefaultText>"Eu teria pensado que meu olhar de desgosto respondia a essa pergunta, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Eles são aleatoriamente pegam qualquer um e qualquer coisa que eles têm em suas mãos e quando eles são executados em qualquer lugar o suficiente. Então, como o resultado de um filme fantástico para mim!"</DefaultText>
+      <DefaultText>"Eles aleatoriamente pegam qualquer um e qualquer coisa que eles possam colocar em suas mãos e esperam que eles trabalhem se eles baterem neles o suficiente. Soa como o resultado de um exército fantástico para mim!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ele parece capaz o suficiente. Ele é organizado e realmente parece importar com seus homens - ao contrário de todo mundo que conheci aqui."</DefaultText>
+      <DefaultText>"Ele parece capaz o suficiente. Ele é organizado e realmente parece se importar com seus homens - ao contrário de praticamente todo mundo que conheci aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Brevemente, em algumas das compras durante uma conquista.</DefaultText>
+      <DefaultText>"Brevemente, em algumas das batalhas durante a conquista. Mas Nerat gostava de me manter trancado, então eu nunca dei uma boa olhada neles lutando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Não diretamente. Eu tenho usado para 'inspirar' pessoas ocasionalmente e os [url=glossary:disfavored]Disfavored[/url] estava presente grupos. Mas ele está procurando algo de mim no [url=glossary:disfavored]Disfavored[/url], eu não sou muito útil para você."</DefaultText>
+      <DefaultText>"Não diretamente. Eu tenho usado para 'inspirar' pessoas ocasionalmente e os [url=glossary:disfavored]Disfavored[/url] estavam nesses grupos. Mas se você está procurando algo de mérito de mim no [url=glossary:disfavored]Disfavored[/url], eu não vou ser muito útil para você. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"O que há para dizer? [url=glossary:kyros]Kyros[/url]" As grandes mulheres não podem impedir os seus filhos de lutar como um bando de crianças. "</DefaultText>
+      <DefaultText>"O que há para dizer? [url=glossary:kyros]Kyros[/url] 'dois grandes líderes não podem impedir a si mesmos ou seus exércitos de lutar como um bando de crianças."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -252,26 +252,26 @@ Ela ri abertamente, depois balançando a cabeça tristemente, indo cair os olhos
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"É uma ruína da minha existência e algo que é incrivelmente doloroso de se falar. Então, por que não?"
+      <DefaultText>"É a ruína da minha existência e algo que é incrivelmente doloroso de se falar. Então, por que não?"
 
 Ela encolhe os ombros.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] me usou. Não estou diferente do que você está fazendo. Você não está conseguindo isso de mim."
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] me usou. Não muito diferente do que você está fazendo. Se você quer que eu conte histórias, pergunte outra coisa. Você não está conseguindo isso de mim."
 
 Ela olha para você desafiadoramente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Ele me deixa desconfortável. Está escuro e vazio."</DefaultText>
+      <DefaultText>"Ele me deixa desconfortável. Não há nada por trás dessa máscara. Está escuro e vazio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"O que você quer saber?"</DefaultText>
+      <DefaultText>"Eu sei muito sobre o que está acontecendo aqui, considerando que eu sou a causa de pelo menos metade disso. O que você quer saber?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,22 +291,22 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"O que seria necessário para remover-lo?"</DefaultText>
+      <DefaultText>"O que seria necessário para removê-lo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Me deixa impotente. Você tem alguma idéia de como é um furacão furioso dentro de você? Sentir o vendaval bater contra você para ser libertado, mas apenas sentir a brisa suave de um verão?"</DefaultText>
+      <DefaultText>"Me deixa impotente. Você tem alguma ideia de como é ter um furacão furioso dentro de você? Sentir o vendaval bater contra você para ser liberado, mas só sentir a brisa suave de um verão?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Eu poderia ter tentado matar [url=glossary:kyros]Kyros[/url] uma vez ... Ele e Nerat decidiram que eu era muito ameaçador, então eu amordaçaram".</DefaultText>
+      <DefaultText>"Eu poderia ter tentado matar [url=glossary:kyros]Kyros[/url] uma vez ... Ele e Nerat decidiram que eu era muito ameaçador, então me amordaçaram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Alguém é o único que sabe como foi construído e como funciona."</DefaultText>
+      <DefaultText>"Alguém batendo a informação de Nerat ou [url=glossary:kyros]Kyros[/url]. Eles são os únicos que sabem como foi construído e como funciona."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,12 +336,12 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"A quanto tempo você esteve aqui?"</DefaultText>
+      <DefaultText>"À Quanto tempo você esteve aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Desde o início da ocupação. [url=glossary:kyros]Kyros[/url] me queria fora de vista, mas ainda em uso. Então eu fiz um Nerat. Ele me usou para reunir forragem para o Coro."</DefaultText>
+      <DefaultText>"Desde o início da ocupação. [url=glossary:kyros]Kyros[/url] me queria fora de vista, mas ainda em uso. Então eu fui dado a Nerat. Ele me usou para reunir forragem para o Coro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,57 +351,57 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Todo mundo tem uma presença para fazer o que eu quero."</DefaultText>
+      <DefaultText>"Todo mundo tem uma presença. É como minha mágica funciona. Eu alcanço-os e convenço sua presença para fazer o que eu quero."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Eu não tenho certeza de que dizer ... Você já viu o que ela olha para mim?"</DefaultText>
+      <DefaultText>"Eu não tenho certeza do que dizer ... Eu não penso muito nela porque eu tento não pensar muito nela. Você já viu o jeito que ela olha para mim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Você tem algum poder lá, isso é certo. E enquanto eu uso um aleijado, eu - um contragosto, lembre-se - admita o que poderia ser um incômodo para nós que estivéssemos frente a frente."</DefaultText>
+      <DefaultText>"Ela tem algum poder lá, isso é certo. E enquanto eu estiver aleijado, eu - a contragosto, lembre-se - admita que ela provavelmente poderia ganhar se nós estivéssemos frente a frente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"A pilha de anéis de caminhada? Vamos lá para o que você nunca teve, mas ele não parece excessivamente brilhante."</DefaultText>
+      <DefaultText>"A pilha de anéis de caminhada? Vamos torcer para que você nunca tenha que ir a lugar algum sem ser notado. Não há nada de particularmente errado com ele, suponho, mas ele não parece excessivamente brilhante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Você já ouviu falar muito sobre o [url=glossary:vellum citadel]Vellum Citadel[/url] e realmente realmente começou a ver antes de todos os ... desagradáveis ​​..." Ela aparece, uma expressão azeda em seu rosto, seus dedos meneiam pequenas explosões .</DefaultText>
+      <DefaultText>"Eu estou com ciúmes dele. Eu já ouvi muito sobre o [url=glossary:vellum citadel]Vellum Citadel[/url] e ele realmente conseguiu vê-lo antes de todos os ... desagradáveis ​​..." Ela sumiu, uma expressão azeda em seu rosto, seus dedos meneiam pequenas explosões.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Eu fale sobre Kills-in-Shadow."</DefaultText>
+      <DefaultText>"Me fale sobre Kills-in-Shadow."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Eu fale sobre Eb."</DefaultText>
+      <DefaultText>"Me fale sobre Eb."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Conte-me sobre o Barik.</DefaultText>
+      <DefaultText>"Conte-me sobre o Barik."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Eu fale sobre Lantry."</DefaultText>
+      <DefaultText>"Me fale sobre Lantry."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Eu fale sobre Verse."</DefaultText>
+      <DefaultText>"Me fale sobre Verse."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Aquela vadia? Eu levaria o Pináculo se soubesse que poderia me safar."</DefaultText>
+      <DefaultText>"Aquela vadia? Eu a levaria do Pináculo se soubesse que poderia me safar. Não sei por que você desperdiça seu tempo com ela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Diga-me sobre um tribo [url=glossary:stonestalker]Stonestalker[/url]."</DefaultText>
+      <DefaultText>"Diga-me sobre a tribo [url=glossary:stonestalker]Stonestalker[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Eu fale sobre o [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
+      <DefaultText>"Me fale sobre o [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,42 +456,42 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Conte-me sobre os Sábios.</DefaultText>
+      <DefaultText>"Conte-me sobre os Sábios."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Eu fale sobre os Earthshakers."</DefaultText>
+      <DefaultText>"Me fale sobre os Earthshakers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Eles ainda são relevantes? Após os eventos de [url=glossary:vendrien's well]Vendrien's Well[/url], eu tenho pensado que" to leave would querem falar com eles mais. "</DefaultText>
+      <DefaultText>"Eles ainda são pertinentes? Após os eventos de [url=glossary:vendrien's well]Vendrien's Well[/url], eu teria pensado que ninguém iria querer falar com eles mais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Eu não tive muita exposição a eles. Tive uma intenção de lidar com esse problema, então eles não pediram minha ajuda."</DefaultText>
+      <DefaultText>"Eu não tive muita exposição a eles. Ashe tinha a intenção de lidar com esse problema, então eles não pediram minha ajuda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Eles não são mais pessoas mais jovens, mas mais procurados para o [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Além disso, foi muito mais fácil para mim, recrutar meus próprios seguidores com eles, não precisando me preocupar com alguém sendo levado pelo 2222222222222222222222222222222222222233333333333. "</DefaultText>
+      <DefaultText>"Eles não são as pessoas mais úteis, mas eles parecem querer o melhor para o [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Além disso, foi muito mais fácil para mim recrutar meus próprios seguidores com eles. Não precisei me preocupar com ninguém sendo levado pelo [url=glossary:scarlet chorus]Scarlet Chorus[/url] ou morto pelo [url=glossary:disfavored]Disfavored[/url]. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Eu não posso dizer que estou feliz com a criança, mas eles são um grupo influente com conhecimento infinito. Pelo menos, eles eram. se você tem acesso às suas coleções? "</DefaultText>
+      <DefaultText>"Eu não posso dizer que estou muito feliz com eles desde que foi a magia deles que prendia minha voz quando eu era criança, mas eles são um grupo influente com conhecimento infinito. Pelo menos, eles eram. Você pode imaginar o quão poderoso você poderia se tornar se você tivesse acesso às suas coleções? "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Incrivelmente poderosa, mas estranhamente focada em seus estudos. Por que você gostaria de mudar sua energia em uma coisa? Ramo para fora - uma magia que os humanos estão perdendo é incrível."</DefaultText>
+      <DefaultText>"Incrivelmente poderoso, mas estranhamente focado em seus estudos. Por que você gostaria de derramar sua energia em uma coisa? Ramo para fora - a magia que eles estão perdendo é incrível."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Você não é digno de ouvir tais ricas pessoais."</DefaultText>
+      <DefaultText>"Você não é digno de ouvir tais histórias pessoais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,12 +511,12 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Eu não estou jogando. A vida é agora e vai continuar assim.</DefaultText>
+      <DefaultText>"Eu não estou jogando. A história é privada e vai continuar assim. Pergunte o quanto quiser, você nunca vai ouvir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Às vezes, serás sobrecarregado com a sua empresa é o pior do que o Nerat e o [url=glossary:kyros]Kyros[/url] combinados. Pelo menos eles procederam ao meu poder."</DefaultText>
+      <DefaultText>"Às vezes, ser sobrecarregado com a sua empresa é pior do que o Nerat e o [url=glossary:kyros]Kyros[/url] combinados. Pelo menos eles respeitavam o meu poder. Se eu soubesse como você ativou o Spire, nós nem estaríamos tendo essa conversa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Por que [url=glossary:kyros]Kyros[/url] deu um Nerat?"</DefaultText>
+      <DefaultText>"Por que [url=glossary:kyros]Kyros[/url] deu a Nerat?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,19 +536,19 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Eu te conheci quando fui despejado sem uma menor cerimônia na sua porta por [url=glossary:kyros]Kyros[/url]. Tudo o que eu senti em relação a esse momento foi o puro ódio".
+      <DefaultText>"Eu o conheci quando fui despejado sem a menor cerimônia em sua porta por [url=glossary:kyros]Kyros[/url]. Tudo o que eu senti em relação a isso desde o momento em que vi foi puro ódio".
 
-"Quando uma pessoa se cansa de mim, apenas me entrega para outra. Pareço ser uma mão cheia - alguém está realmente disposto para lidar com, suponho."</DefaultText>
+"Quando uma pessoa se cansa de mim, apenas me entrega para outra. Pareço ser uma mão cheia - ninguém está realmente preparado para lidar comigo, suponho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Com o erro de tentar fazer a minha música não é um problema. Você pode imaginar o que não é exatamente o que você tem a fazer?" "</DefaultText>
+      <DefaultText>"Eu cometi o erro de tentar a minha música no [url=glossary:kyros]Kyros[/url] e perdão não é exatamente no vocabulário do Overlord. Curiosamente, acho que quase funcionou. Você pode imaginar o quão diferente as coisas teriam sido se eu tivesse um pouco mais de prática?" "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Agora, se essa não é uma questão que vai me levar ao centro da tempestade ... acho que você deveria me perguntar o que não me fez fazer - ou pelo menos a minha vontade obrigar a fazer."</DefaultText>
+      <DefaultText>"Agora, se essa não é a questão que vai direto ao centro da tempestade ... acho que você deveria me perguntar o que não me fez fazer - ou pelo menos tentar me obrigar a fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -558,91 +558,91 @@ Ela olha para você desafiadoramente.</DefaultText>
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Eu sempre tenho uma força motriz e faço o poder por trás disso. O que me fez?</DefaultText>
+      <DefaultText>"Sempre. Eu não tenho memória de estar sem o poder. Tem sido a minha força motriz e eu sou quem eu sou por causa disso. Cada momento decisivo da minha vida é por causa da minha voz e do poder por trás disso. Eu me tornei o que isso me fez. E é o que eu fiz com isso ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Diga-me o que você sabe sobre Edições.</DefaultText>
+      <DefaultText>Diga-me o que você sabe sobre Edicts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"O menos que você pode levar o capacete da cabeça ...".</DefaultText>
+      <DefaultText>"Pelo menos, no meu estado atual. Talvez se você tirar esse capacete da minha cabeça ..." Ela lhe dá um olhar de compreensão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Me pare de me dar".</DefaultText>
+      <DefaultText>"Mesmo se eu soubesse como tirá-lo, Sirin, eu não faria isso. Pare de me perguntar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Eu removia seília."</DefaultText>
+      <DefaultText>"Eu removeria se pudesse."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Eu sou todo o negócio e o inimigo da diversão." Ela imita você, fazendo uma careta.</DefaultText>
+      <DefaultText>"Pare de me perguntar. Eu sou todo o negócio e o inimigo da diversão." Ela imita você, fazendo uma careta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Só porque é uma fuga, não significa que o prisioneiro vai desistir de tentar. Não faz mal perguntar." Ela levanta como mãos.</DefaultText>
+      <DefaultText>"Só porque a fuga é fútil, não significa que o prisioneiro vai desistir de tentar. Não faz mal perguntar." Ela levanta as mãos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Uma jovem mulher está aqui, cercada por um grupo de aldeões. The speech has they some tons and sweets, keeping-os hipnotiated with the hand of the hand. Ela usa um enfeite de cabeça ornamentada que envolve seu rosto, sua testa incrustada com uma enorme pedra vermelha. O cocar pisca enquanto ela fala e você é incapaz de dizer se é um truque da luz ou se um gema está realmente brilhando. Ela é arrastada em sua posição e parece completamente inconsciente que você chegou. Você também pode ver que ela também estava no campo em [url=glossary:vendrien's well]Vendrien's Well[/url].
+      <DefaultText>Uma jovem mulher está aqui, cercada por um grupo de aldeões. Ela fala com eles em tons suaves e doces, mantendo-os hipnotizados com os movimentos da mão. Ela usa um adorno de cabeça ornamentado que envolve seu rosto, sua testa incrustada com uma enorme pedra vermelha. O cocar pisca enquanto ela fala e você é incapaz de dizer se é um truque da luz ou se a gema está realmente brilhando. Ela é arrastada em sua oração e parece completamente inconsciente que você chegou. Leva alguns momentos antes que você percebe que ela também estava no campo em [url=glossary:vendrien's well]Vendrien's Well[/url].
 
 Ela abre os olhos e olha para você sobre as cabeças das pessoas reunidas diante dela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Oh, olhe. 'Pai' voltou. Você veio me punir? Você já pode usar o meu poder?"
+      <DefaultText>"Oh, olhe. 'Pai' voltou. Eu saí da linha? Você veio me punir? Eu sou uma menina má? Ou você só quer usar o meu poder?"
 
-O seu rosto assumiu um papel falso e sério enquanto fala e fala as suas palavras e ouve o som de uma brisa sussurrando através da floresta. É ao mesmo tempo calmo e angustiante. Uma garota sorri.</DefaultText>
+Seu rosto assume um comportamento falso e sério enquanto ela fala e com suas palavras você ouve o som de uma brisa sussurrando através da floresta. É ao mesmo tempo calmo e angustiante. A garota sorri.</DefaultText>
       <FemaleText>"Oh, look. 'Mother' has returned. Have I gotten out of line? Have you come to punish me? Am I a bad girl? Or do you just want to use my power?" 
 
 Her face takes on a mock-serious demeanor as she speaks and with her words you hear the sound of a breeze rustling through the forest. It's at the same time calming and distressing. The girl smiles.</FemaleText>
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Você já se esqueceu de mim, Fatebinder? Você se lembra? [url=lore:lc_sirin_followers]You let the Disfavored kill my followers[/url] - o bando de Sirin, o Arconte da Canção". Sua voz pinga com um ácido que você sente sem fundo de sua mente. Os olhos endurecem.
+      <DefaultText>"Você já se esqueceu de mim, Fatebinder? Você se lembra? [url=lore:lc_sirin_followers]You let the Disfavored kill my followers[/url] - o bando de Sirin, o Arconte da Canção". Sua voz pinga com um ácido que você sente no fundo de sua mente. Seus olhos endurecem.
 
-Ela se aproxima, um grupo se separando diante dela. Eles são vistos e olham para você de forma conflituosa, alguns deles se interpõem entre você e a garota. Ela olha para eles revirando os olhos. Quando ela faz, um dor de cabeça na cessa.</DefaultText>
+Ela se aproxima, a multidão se separando diante dela. Eles se viram e olham para você confrontadamente, alguns deles se interpondo entre você e a garota. Ela olha para eles revirando os olhos. Quando ela faz, a dor ardente na sua cabeça cessa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Se algumas pessoas querem me adorar. É tão inseguro se preocupar com um pouco de competição?"
+      <DefaultText>"Se algumas pessoas querem me adorar. Isso é realmente uma coisa tão ruim? É tão inseguro se preocupar com um pouco de competição?"
 
-"Olhe para mim! Você acha que eu pareço perigoso? Que seja uma menina de quinze anos? Sou apenas uma criança!" Seu sorriso vacila e ela olha para baixo. Sua mão se move para o polegar, o polegar traçando uma borda ao longo de sua mandíbula. Ela olha para trás, olha o olhar em seus olhos.</DefaultText>
+"Olhe para mim! Você acha que eu pareço perigoso? Que mal pode causar uma menina de quinze anos? Sou apenas uma criança!" Seu sorriso vacila e ela olha para baixo. Sua mão se move para o cocar, o polegar traçando a borda ao longo de sua mandíbula. Ela olha para trás, o olhar duro em seus olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Oh, me desculpe - é a minha vez de falar agora?".</DefaultText>
+      <DefaultText>"Oh, me desculpe - é a minha vez de falar agora? Eu pensei que isso era 'ouvir o tempo de Sirin tagarelice'".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Sirin recua, estreitando os olhos e fazendo uma careta nos lábios. Ela sacode a cabeça, como ela se formando ao longo de suas pálpebras.</DefaultText>
+      <DefaultText>Sirin recua, estreitando os olhos e fazendo uma careta nos lábios. Ela sacode a cabeça, as lágrimas se formando ao longo de suas pálpebras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Você se lembra de mim, Fatebinder? Agora, não me desapontarei. [url=lore:lc_sirin_followers]You used my flock as chaff for the Scarlet Chorus.[/url] Você levou o meu povo - os seguidores de Sirin, o Arconte da Canção". A brisa suave de suas asas ganhador enquanto seus olhos endurecem-se ligeiramente.
+      <DefaultText>"Você se lembra de mim, Fatebinder? Agora, não me desaponte. [url=lore:lc_sirin_followers]You used my flock as chaff for the Scarlet Chorus.[/url] Você levou o meu povo - os seguidores de Sirin, o Arconte da Canção". A brisa suave de suas palavras ganha força enquanto seus olhos endurecem-se ligeiramente.
 
-Ela se aproxima, um grupo se separando diante dela. Eles são vistos e olham para você de forma conflituosa, alguns deles se interpõem entre você e a garota. Ela olha para eles revirando os olhos. Quando ela faz, o som da tempestade se aproxima.</DefaultText>
+Ela se aproxima, a multidão se separando diante dela. Eles se viram e olham para você confrontadamente, alguns deles se interpondo entre você e a garota. Ela olha para eles revirando os olhos. Quando ela faz, o som da tempestade se aproxima.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
       <DefaultText>"Saudações, verme."
 
-Sua voz tira sua guarda. Está vazio de qualquer inflexão e, ainda assim, cheio de música bonita. Se você não é melhor, adivinharia que ela está ativamente suprimindo ou modulando seu tom de voz.</DefaultText>
+Sua voz tira sua guarda. Está vazio de qualquer inflexão e, ainda assim, cheio de música bonita. Se você não conhecesse melhor, adivinharia que ela está ativamente suprimindo ou modulando seu tom de voz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,12 +652,12 @@ Sua voz tira sua guarda. Está vazio de qualquer inflexão e, ainda assim, cheio
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Você não me conhece, pequena minhoca? Eu sou Sirin, e os meus amigos têm o prazer de me chamar de Arconte da Canção." Você deve chegar a um sino em sua risada. Ela pára e olha para você antes de continuar.</DefaultText>
+      <DefaultText>"Você não me conhece, pequena minhoca? Eu sou Sirin, e meus aliados têm o prazer de me chamar de Arconte da Canção." Você ouve o som distante de um sino em sua risada. Ela pára e olha para você por um momento antes de continuar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Você é irritante, mas você não acha que é tão decepcionante quanto você quer desesperadamente? [url=glossary:kyros]Kyros[/url], 22222222222222222222222222222222222222222222222233 ... Você?" Ela pisca.</DefaultText>
+      <DefaultText>"Eu diria que é irritante, mas você não acha que é meio lisonjeiro ter todos me querendo tão desesperadamente? [url=glossary:kyros]Kyros[/url], 22222222222222222222222222222222222222222222222233 ... Você?" Ela pisca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -667,39 +667,39 @@ Sua voz tira sua guarda. Está vazio de qualquer inflexão e, ainda assim, cheio
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Não importa ... eu estou me sentindo um pouco paranóico. Passado ... os guardiões foram-se um pouco mais interessados ​​em mim do que o necessário. Mas agora, para um assunto mais importante. Há algo que você pode fazer? fazer para me ajudar ".</DefaultText>
+      <DefaultText>"Não importa ... eu estou me sentindo um pouco paranóico. Passado ... os guardiões mostraram-se um pouco mais interessados ​​em mim do que completamente necessário. Mas agora, para um assunto mais importante. Há algo que você pode fazer para me ajudar ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Sua boca se abre em perfeita forma de O, e o som que sai é cativante, fascinante. This study is a environmental environmental camps, to seem that nothing exists beyond da voz dela.</DefaultText>
+      <DefaultText>Sua boca se abre em perfeita forma de O, e o som que sai é cativante, fascinante. Isso amortece a agitação ambiental do acampamento, até parece que nada existe além da voz dela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Removedor. Meu. Capacete."
+      <DefaultText>"Remover. Meu. Capacete."
 
-Uma cabeça de rubi na testa dela brilha, como se fosse em alerta.</DefaultText>
+A cabeça de rubi na testa dela brilha, como se estivesse em alerta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"O que você está fazendo comigo?"</DefaultText>
+      <DefaultText>"O que você está tentando fazer comigo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Really? Nada mesmo? Que decepção - para não mencionar um desperdício colossal de esforço de minha parte. Provavelmente me espalhando muito magra tentando o costume-sob o meu domínio." Ela indica como pessoas ao seu redor.</DefaultText>
+      <DefaultText>"Realmente? Nada mesmo? Que decepção - para não mencionar um colossal desperdício de esforço da minha parte. Provavelmente me espalhando muito magra tentando mantê-los sob o meu domínio." Ela indica as pessoas ao seu redor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Talvez eu possa ajudar-me. Venha comigo. Alguém com seu poder poderia querer alguma ajuda para direcionar-lo.</DefaultText>
+      <DefaultText>"Talvez eu possa ajudá-lo. Venha comigo. Alguém com seu poder poderia usar alguma ajuda para direcioná-lo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Por que todo mundo continua insistindo nisso? Não com o meu caminho estúpido!" Ela olha pra você atentamente antes de abrir um sorriso.</DefaultText>
+      <DefaultText>"Por que todo mundo continua insistindo nisso? Só porque eu tenho o poder de destruir exércitos não significa que eu vou usá-lo. Eu não posso! Não com esse capacete estúpido!" Ela olha para você atentamente antes de abrir um sorriso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -709,19 +709,19 @@ Uma cabeça de rubi na testa dela brilha, como se fosse em alerta.</DefaultText>
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Você tem acesso a um [url=glossary:tunon]Tunon[/url] 's Fatebinder como tal?"</DefaultText>
+      <DefaultText>"Você se atreve a endereço [url=glossary:tunon]Tunon[/url]'s Fatebinder como tal?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Eu faço - e com grande prazer. Não há nada na lei que me impede de desrespeitar seus servos servis. Absolutamente nada."
+      <DefaultText>"Eu faço - e com grande prazer. Não há nada na lei exaustiva que me impede de desrespeitar seus servos servis. Absolutamente nada."
 
-"Você é quem é, vil. É você quem fala fora de vez." Seus olhos brilham.</DefaultText>
+"É você quem ousa, vil. É você quem fala fora de vez." Seus olhos brilham.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Você é dirigido por um Sirin, o Arconte da Canção. Enquanto isso, a guerra e os movimentos são como um escorpião, eu me distancio de suas brigas e assisto com alegria enquanto eles envenenam um ao outro."</DefaultText>
+      <DefaultText>"Você se dirige a Sirin, o Arconte da Canção. Enquanto os Arcontes da Guerra e Segredos brigam como um par de escorpiões, eu me distancio de suas pequenas brigas e assisto com alegria enquanto eles envenenam um ao outro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -731,7 +731,7 @@ Uma cabeça de rubi na testa dela brilha, como se fosse em alerta.</DefaultText>
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Eu não tinha pensado que alguém neste vale estava abalado com as boas maneiras".</DefaultText>
+      <DefaultText>"Parece que você conhece o seu lugar pelo menos. Eu não tinha pensado que alguém neste vale abandonado tivesse boas maneiras - 'Fale apenas com seus superiores quando for instruído a fazê-lo'".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -741,31 +741,31 @@ Uma cabeça de rubi na testa dela brilha, como se fosse em alerta.</DefaultText>
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Você não vai fazer isso. Coisa." Ela faz um gesto de comando que interrompe seu passo.</DefaultText>
+      <DefaultText>"Você não vai fazer isso. Coisa." Ela faz um gesto de comando que interrompe o seu passo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>Sirin está aqui, cercado por um grupo de aldeões. The speech has they some tons and sweets, keeping-os hipnotiated with the hand of the hand. Sua boca pisca enquanto ela fala e você está fora de si é um truque da luz ou um gema está realmente brilhando. Ela é arrastada em sua posição e parece completamente inconsciente que você chegou.
+      <DefaultText>Sirin está aqui, cercado por um grupo de aldeões. Ela fala com eles em tons suaves e doces, mantendo-os hipnotizados com os movimentos da mão. Sua touca pisca enquanto ela fala e você é incapaz de dizer se é um truque da luz ou se a gema está realmente brilhando. Ela é arrastada em sua oração e parece completamente inconsciente que você chegou.
 
 Há uma pausa na conversa e ela abre os olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Mas chega dessa conversa! O que você acha dos meus seguidores?" Ela faz um movimento sobre o grupo reunido a seus pés. Como ela fala, você sente uma serenidade pacífica lavando você. A galera se acalma e a maré fica mais fácil.</DefaultText>
+      <DefaultText>"Mas chega dessa conversa! O que você acha dos meus seguidores?" Ela faz um movimento sobre o grupo reunido a seus pés. Enquanto ela fala, você sente uma serenidade pacífica lavando você. A multidão se acalma e a respiração fica mais fácil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Bem, olhe quem está aqui - e o que leva a um [url=glossary:lethian's crossing]Lethian's Crossing[/url]" Eu não posso imaginar que é uma paisagem ou os locais. Você veio para estragar a minha diversão? " Ela franze uma testa um pouco, momentaneamente perdida em pensamentos.</DefaultText>
+      <DefaultText>"Bem, olhe quem está aqui - e o que o leva a [url=glossary:lethian's crossing]Lethian's Crossing[/url]? Eu não posso imaginar que é a paisagem ou os locais pitorescos. Você veio para estragar a minha diversão?" Ela franze a testa um pouco, momentaneamente perdida em pensamentos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Não. Você fez o que você merece saber um pouco sobre esse horror [url=glossary:kyros]Kyros[/url] e Nerat infligiu em mim."
+      <DefaultText>"Não. Nada que você fez mostrou que você merece saber um pouco sobre esse horror [url=glossary:kyros]Kyros[/url] e Nerat infligiu em mim."
 
-Ela está nas mãos nos quadris e olha para baixo.</DefaultText>
+Ela coloca as mãos nos quadris e olha para baixo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -775,7 +775,7 @@ Ela está nas mãos nos quadris e olha para baixo.</DefaultText>
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Você pode se lembrar de algo?"</DefaultText>
+      <DefaultText>"Nada em seu passado vale a pena continuar? Parece-me que você se lembra de algo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -785,31 +785,31 @@ Ela está nas mãos nos quadris e olha para baixo.</DefaultText>
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Não, Fatebinder, eu não sei. Eu terminei com isso. Pergunte-me a outra coisa ou esta conversa está terminada."
+      <DefaultText>"Não, Fatebinder, eu não sei. Eu terminei com isso. Pergunte-me outra coisa ou esta conversa está terminada."
 
-Ela bloqueia o olhar com os olhos desafiadores.</DefaultText>
+Ela bloqueia seu olhar com olhos desafiadores.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Quando você está com sua própria mente furiosa e o que você pode fazer, você tem a sua própria mãe enquanto ela protege você com seu corpo, ela fica com você."</DefaultText>
+      <DefaultText>"Eu suponho que quando uma turba furiosa que teme você e o que você pode fazer apedreja sua mãe até a morte enquanto ela protege você com seu corpo, ela fica com você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Conte-me sobre a morte da mãe".</DefaultText>
+      <DefaultText>"Conte-me sobre a morte da sua mãe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Não, Fatebinder. Eu não posso."
+      <DefaultText>"Não, Fatebinder. Eu não posso. Por favor - não me faça falar sobre isso."
 
 Sua voz treme e lágrimas brotam em seus olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"É isso que os detalhes permanentes em seus momentos como este - o que se queima em sua memória. Algo insignificante permanece para sempre enquanto os principais se desvanecem, tornam-se nebulosos."</DefaultText>
+      <DefaultText>"É incrível que os detalhes permaneçam em você em momentos como este - o que se queima em sua memória. Algo insignificante permanecerá para sempre enquanto os detalhes principais se desvanecem, tornam-se nebulosos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -819,31 +819,31 @@ Sua voz treme e lágrimas brotam em seus olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Diga-me o que aconteceu. Eu não vou de novo."</DefaultText>
+      <DefaultText>"Diga-me o que aconteceu. Eu não vou perguntar de novo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
       <DefaultText>"Se eu devo ..."
 
-Ela aperta os olhos com a força, os seus sentimentos são rastreados através da poeira nas suas bochechas.</DefaultText>
+Ela aperta os olhos com força, lágrimas desenhando rastros através da poeira em suas bochechas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Você sempre tortura como pessoas mais próximas a você?"
+      <DefaultText>"Você sempre tortura as pessoas mais próximas a você?"
 
-Seu rosto faz uma careta e ela é um pouco, se recompondo.</DefaultText>
+Seu rosto faz uma careta e ela cheira um pouco, se recompondo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Porque todo mundo é que eles são - e eles nos pagam. Então, você pode dizer não é o mesmo que a agricultura, a minha família estava cheia. "</DefaultText>
+      <DefaultText>"Porque todo mundo achava que era - e eles nos pagavam. Então eu cantava. Como poderíamos dizer não? Nós éramos agricultores pobres no meio do nada! Mas logo todos sabiam quem eu era e, com a minha ajuda, minha família estava confortável. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Como você ricaia seu pai?"</DefaultText>
+      <DefaultText>"Como você descreveria seu pai?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -858,113 +858,113 @@ Seu rosto faz uma careta e ela é um pouco, se recompondo.</DefaultText>
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Sem valor? Desespero? Desprovido de empoderamento humano? S? O como sintomas completamente completos. Ele mesmo pode ser capaz de sentir qualquer coisa e eu serei nada além disso de emoção crua."</DefaultText>
+      <DefaultText>"Sem valor? Desesperado? Desprovido de emoção humana? Às vezes eu sinto como se fôssemos completamente opostos. Ele parecia incapaz de sentir qualquer coisa e eu pareço ser nada além de emoção crua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Ela está morta, então eu não tenho muito o que me lembrar. Ela me amava, eu sei. acho que houve uma diferença entre os dois. "</DefaultText>
+      <DefaultText>"Ela está morta, então eu não tenho muito o que lembrar. Ela me amava, isso eu sei. Mas às vezes me pergunto se o que ela sentiu foi amor ou medo. Temor por mim - ou por mim. E às vezes eu não acho que houve uma diferença entre os dois. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Não, eu estou perto de um menino na minha aldeia por um tempo, mas a minha mãe parou de brincar comigo quando eu estava brincando com os meus poderes. Essa é uma coisa mais próxima que eu já tive de um vivo. "
+      <DefaultText>"Não. Eu estava perto de um menino na minha aldeia por um tempo, mas sua mãe parou de me deixar brincar com ele quando todos perceberam quais eram os meus poderes. Essa é a coisa mais próxima que eu já tive de um irmão vivo."
 
-Uma arma sombria cobre seu rosto.</DefaultText>
+Uma expressão sombria cobre seu rosto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Sirin, querida, ela disse, 'você tem que ir com o seu pai.'
+      <DefaultText>"'Sirin, querida', ela disse, 'você terá que ir com o seu pai. Não seria bom para o bebê se eu continuasse viajando assim. Talvez depois que seu irmão esteja aqui conosco, todos nós podemos viajar juntos.'"
 
 Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Cinco anos. Dois anos de treinamento dedicado, dois anos com treino intercalado com viagens, realizando milagres em [url=glossary:kyros]Kyros[/url] 'nome, em seguida, um ano sendo seu animal de estimação."</DefaultText>
+      <DefaultText>"Cinco anos. Dois anos de treinamento dedicado, dois anos com treinamento intercalado com viagens, realizando milagres em [url=glossary:kyros]Kyros[/url] 'nome, em seguida, um ano sendo seu animal de estimação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>O que eu quero fazer agora é o que posso fazer agora? Tenho que fazer o que ele me pediu e poderia matar um qualquer momento que ele quisesse, eu teria esquecido completamente que ele existisse. "</DefaultText>
+      <DefaultText>"Honestamente? Eu realmente não pensava nele no começo. Se eu não estivesse recebendo lembretes diários de que ele era meu dono e poderia me matar a qualquer momento que ele quisesse, eu teria esquecido completamente que ele existia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Confie em mim, seu verme manipulador, o sentimento é mútuo. E acho que você vai encontrar os subterfúgios de 'classe baixa' como você entra na mente das pessoas e como fode."</DefaultText>
+      <DefaultText>"Confie em mim, seu verme manipulador, o sentimento é mútuo. E acho irônico que você encontre subterfúgios de 'baixa classe' considerando como você entra na mente das pessoas e as fode."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Oh, não me dê esse olhar, Verse. [url=glossary:subterfuge]Subterfuge[/url] é tão classe baixa."</DefaultText>
+      <DefaultText>"Oh, não me dê esse olhar, Verse. Eu não vou fingir que gosto de alguém que não conheço. Pelo menos você sabe onde eu estou. [url=glossary:subterfuge]Subterfuge[/url] é tão classe baixa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Ela é violenta, baixa, impaciente e totalmente sem propósito."
+      <DefaultText>"Ela é rude, violenta, baixa, impaciente e totalmente sem propósito. Você deveria manter uma companhia muito melhor, Fatebinder."
 
-"Você me perguntou o que eu pensava? Não se esqueça dos fatos são dolorosos de engolir." Ela suspira e encolhe os ombros.</DefaultText>
+"Você me perguntou o que eu pensava. Não posso evitar se os fatos são dolorosos de engolir." Ela suspira e encolhe os ombros.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Você é tão bonito? Mas embrulhado em que se levantando, quem pode dizer?" Ela olha para o barik, sorri, acena e a dera um beijo.</DefaultText>
+      <DefaultText>"Talvez ele seja bonito. Mas embrulhado em que se levantar, quem pode dizer?" Ela olha para Barik, sorri, acena e lhe dá um beijo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Você pode se controlar em uma briga, mas ele poderia usar um pouco mais aqui". Ela bate o seu lado da cabeça.</DefaultText>
+      <DefaultText>"Eu admito que ele pode se controlar em uma briga, mas ele poderia usar um pouco mais aqui". Ela bate o lado da cabeça dela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>Eu não consegui você. "" O que foi que você disse? Barik grunhido, virando-se para encarar Sirin.</DefaultText>
+      <DefaultText>"O que foi que você disse? Eu não consegui ouvir você." Barik grunhe, virando-se para encarar Sirin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Você está brincando comigo?"</DefaultText>
+      <DefaultText>"Embora eu esteja mais do que feliz em dar uma chance a ela. Você está brincando, Eb? Acha que poderia me tirar daqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Você nunca se importará com as pessoas reagirão um desafio."</DefaultText>
+      <DefaultText>"Embora eu suponha que eu deva me observar ao redor dela. Você nunca sabe como as pessoas reagirão a um desafio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Sinto muito, querida, estou confuso. Você está me oferecendo um pouco ou algo um pouco mais sujo?" Você pode se informar sobre Sirin, que está vermelho e desvia o olhar.</DefaultText>
+      <DefaultText>"Sinto muito, querida, estou confuso. Você está me oferecendo um duelo ou algo um pouco mais sujo?" Eb pisca para Sirin, que fica vermelho e desvia o olhar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"O que é um sorriso ou ela está esperando que eu baixe minha guarda para que ela possa se tornar minha garganta? Homens são muito mais difíceis de ler. Os seus pensamentos são totalmente sanguíneos e rasgam e são formadores."</DefaultText>
+      <DefaultText>"Isso é um sorriso ou ela está esperando que eu baixe minha guarda para que ela possa arrancar minha garganta? Homens-fera são muito difíceis de ler. Seus pensamentos são todo sangue e rasgando e se formando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Não é um odeio, mas ela tem uma capacidade incrível de me deixar desconfortável sem saber exatamente por que me sinto assim."</DefaultText>
+      <DefaultText>"Eu não a odeio, mas ela tem a incrível capacidade de me deixar desconfortável sem saber exatamente por que me sinto assim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"A enorme quantidade de energia perdida em dia é apenas diminuída pela quantidade de energia necessária para a destruição e o poder de impedimento. Os Sábios têm o seu respeito - e por extensão, Lantry."</DefaultText>
+      <DefaultText>"A enorme quantidade de energia perdida naquele dia é apenas diminuída pela quantidade de energia necessária para causar a destruição - e o poder para impedi-la. Os Sábios têm o meu respeito - e por extensão, Lantry."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Embora nem todos os sábios sejam preferidos por elogios. Alguns gostam demais de excessos ... de um tipo ou de outro." Ela arqueia uma sobrancelha.</DefaultText>
+      <DefaultText>"Embora nem todos os Sábios sejam necessariamente merecedores de elogios. Alguns gostam demais de excessos ... de um tipo ou de outro." Ela arqueia uma sobrancelha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"Nem sempre estão a matar-se com garras rasgadas. As coisas que você tem que fazer são matadoras, são sem-nós, filhotes de primeira temporada. Preciso de limpeza e proteção. Preciso de Beastwoman."</DefaultText>
+      <DefaultText>"Nem sempre estou pensando em matar com garras rasgadas. Às vezes estou pensando em como companheiros de matilha humanos são como ninhadas, como sem pêlos, filhotes de primeira temporada. Preciso de limpeza e proteção. Preciso de Beastwoman."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Que gentileza sua, minha senhora. É anima anima considera estação estação estação estação estação estação estação estação estação estação Lantry é uma reverência profunda a Sirin.</DefaultText>
+      <DefaultText>"Que gentileza sua, minha senhora. É animador ouvir que alguém da sua imensa estação considera humilde, como eu, merecer sua atenção." Lantry faz uma profunda reverência a Sirin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -974,22 +974,22 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Incrivelmente maduro de você." Ela levanta como sobrancelhas e balança a cabeça.</DefaultText>
+      <DefaultText>"Que incrivelmente maduro de você. E se eu estou dizendo isso, você sabe que algo está errado." Ela levanta as sobrancelhas e balança a cabeça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"Então, o que está ouvindo é você não será útil de qualquer ajuda nesta área."</DefaultText>
+      <DefaultText>"Então, o que estou ouvindo é que você não será de nenhuma ajuda nesta área."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Eu não poderia ser infinito, mas agora - eu sou limitado."</DefaultText>
+      <DefaultText>"Não. Eu normalmente poderia ter um poder infinito, mas agora - eu sou limitado. Além disso, eu tenho apenas quinze anos de idade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Eu fale sobre o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <DefaultText>"Me fale sobre o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -999,39 +999,39 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Mesmo às seis horas eu sabia que não estava impedindo a maioria das pessoas que pediam ajuda. Posso fazer uma pausa no dia todo, mas não vai curar mais rápido" .</DefaultText>
+      <DefaultText>"Mesmo às seis horas eu sabia que o que estava fazendo não ajudava a maioria das pessoas que pediam. Meu poder não pode controlar algo sobre o qual não tenho influência. Posso cantar uma perna quebrada o dia todo, mas não vai curar mais rápido ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>"Minha mãe me amava com a minha voz. A minha única vez foi a minha mulher. Ela foi uma pessoa única na minha vida que fez."</DefaultText>
+      <DefaultText>"Minha mãe me amava quando ninguém mais fazia, quando ninguém mais podia. O mundo não queria nada além da minha voz. Tudo o que minha mãe queria era minha felicidade. Ela foi a única pessoa na minha vida que o fez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Você foi embora para mim e para os seus amigos e para as pessoas que se foram. nada poderia me machucar ".</DefaultText>
+      <DefaultText>"Todo mundo queria que o Songbird cantasse para eles e eles nos pagavam muito dinheiro. Então nós fomos. Mas eu não queria ficar sem minha mãe. Ela era o único conforto real que eu tinha. Quando eu estava com ela, eu senti seguro - nada poderia me machucar ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>"Então, eu estou indo para o meu irmãozinho. Eu estou indo para o meu irmãozinho. Eu quero que ele saia daqui agora ..."
+      <DefaultText>"Então, eu cantei para o meu irmãozinho. Eu disse a ele que estávamos todos esperando por ele. Eu disse a ele que precisávamos ser uma família para que pudéssemos viajar juntos. Eu disse a ele que ele deveria sair agora ..."
 
-"Eu não sei se eu quero que seja acontecesse, mas eu cantei como palavras que podem ser resistir a minha voz."</DefaultText>
+"Eu não sei se eu quis que isso acontecesse, mas eu cantei as palavras que ninguém pode resistir a minha voz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>O padrão encharcou o meu sapato, o salpico na parte superior dos meus dedos não piscaram.</DefaultText>
+      <DefaultText>"Eu só lembro de olhar para o meu pé o resto da tarde. O padrão encharcou o meu sapato, o salpico na parte superior dos meus dedos do pé. Eu não consegui me limpar, eu apenas olhei para ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>"Como as pessoas iam e vinham todo dia. Havia muito choro. E ninguém veio da mesma maneira depois disso. Eu conheci o que tinha feito. de mim estava feliz ".</DefaultText>
+      <DefaultText>"As pessoas iam e vinham o dia todo. Houve muito choro. E ninguém me olhou da mesma maneira depois disso. Minha mãe me disse que coisas assim acontecem o tempo todo, mas mesmo às cinco, eu sabia o que tinha feito. E parte de mim estava feliz ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>A minha mulher de volta, e eu peguei. Ela ainda me amava - ela morreu me protegendo - mas eu a aterrorizava. porque eu cantava, ela não suportava me ver ".</DefaultText>
+      <DefaultText>"Eu queria minha mãe de volta, e eu a peguei. Ela ainda me amava - ela morreu me protegendo - mas eu a aterrorizava. Toda vez que eu abria minha boca, eu a via vacilar. E depois que meu irmão morreu, ela nunca esteve por perto. quando eu cantava, ela não suportava me ver ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1041,17 +1041,17 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>"Como já veio trabalhar para [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <DefaultText>"Como você veio trabalhar para [url=glossary:kyros]Kyros[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>"Depois disso, meu pai e minha mãe, eu fui levado por homens. A honestidade não sei para onde fui, não serei a demoração uma eternidade para chegar lá."</DefaultText>
+      <DefaultText>"Depois que meu pai me traiu e matou minha mãe, eu fui levado por homens. Eu honestamente não sei para onde fomos, a não ser que demorasse uma eternidade para chegar lá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>"Eles também me ajudaram a treinar e moldar, e a eles não conseguiram correr com eles. Eles tentaram me treinar e moldar, e eles também conseguiram. por isso ".</DefaultText>
+      <DefaultText>"Eles desencadearam o meu verdadeiro poder, eles acreditaram que eu não tentaria correr com isso? Eles tentaram me treinar e moldar, e nisso eles conseguiram. Eles também tentaram fazer lavagem cerebral e me quebrar, e nisso eles falharam espetacularmente. Mas eu fui punido por isso ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1066,42 +1066,42 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Eles são capazes de exagerar. Como eles podem deixar o ritmo com suas proezas?"</DefaultText>
+      <DefaultText>"Eles assumiram que minhas habilidades eram exageradas. Eram magos poderosos que passaram anos treinando em sua arte. Como uma garotinha poderia esperar rivalizar com suas proezas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>"O meu dia, eu fiquei ... entediado em sala de aula. A voz monótona do professor estava em repouso para o calor da tarde. Não me considere uma ameaça. "</DefaultText>
+      <DefaultText>"Um dia, eu fiquei ... entediado em sala de aula. A voz monótona do professor estava me colocando para dormir no calor da tarde. Então eu pensei que teria um pouco de diversão. Ele estava distraído e ele deixou suas defesas para baixo. Ele não não me considere uma ameaça. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Eu poderia dizer que eu tinha entrado quando ele desacelerou, muito suavemente."</DefaultText>
+      <DefaultText>"Eu poderia dizer que eu tinha entrado nele quando ele desacelerou, muito ligeiramente. Eu comecei a cantar sem palavras, de pé, trabalhando em movimentos da mão. Eles eram completamente desnecessários, mas eu tinha sido treinado para ser um artista."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"'O que há lá fora?' Eu perguntei a ele através da minha música. O que você acabou de expor foi único e vulnerável e este menino de oito anos dominou sua mente.</DefaultText>
+      <DefaultText>"'O que há lá fora?' Eu perguntei a ele através da minha música. 'O que poderia ser isso?' Eu estava exultante. O tolo havia se deixado sozinho e vulnerável e este menino de oito anos dominou sua mente. Ele caminhou até a janela, olhando fixamente para algo que eu não conseguia ver. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Eu não queria dizer que ele era exterante. O gosto do poder era inebriante. Eu não consegui prová-lo." por um tempo longo ".</DefaultText>
+      <DefaultText>"Eu não vou dizer que sinto muito que ele morreu. Ele era um homem horrível, mas eu não queria fazer isso. No entanto, eu estava exultante. O gosto do poder era inebriante. Eu não consegui prová-lo." novamente por um longo tempo ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>"O que é que eu não sei fazer?", [url=glossary:kyros]Kyros[/url] disse não, vou fazer o único ato gentil que ela já fez por mim. inútil ".</DefaultText>
+      <DefaultText>"Eles queriam cortar minha língua. Mesmo às oito, eu não os culpei. É o que eu teria feito. Mas [url=glossary:kyros]Kyros[/url] disse não, possivelmente fazendo o único ato gentil que ela já fez por mim. Sem o poder da fala, Eu era essencialmente inútil ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>"Pelo contrário, as minhas duas vezes depois do incidente, e eu sempre fui acompanhado por dois guardas, ambos ensurdecidos, então eu não poderia ser afectado. Eu - acidentalmente - matei um homem e eles estavam reunidos como eu. ".</DefaultText>
+      <DefaultText>"Havia pelo menos dois professores em minhas aulas depois do incidente, e eu sempre fui acompanhado por dois guardas, ambos ensurdecidos, então eu não poderia afetá-los. Eu - acidentalmente - matei um homem e eles estavam agindo como eu. destruiu um reino ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>"Quem quiser, quem é que você fez?"</DefaultText>
+      <DefaultText>"Eu suponho que é o que eles pensaram que eu faria em seguida. E quem sabe? Talvez seja o que estou prestes a fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1111,22 +1111,22 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>"Porque vários anos, eu estava cercado por pessoas que sorriam na minha cara e zombavam quando eu me afastava. Eles foram meus mentores - meus professores - mas tudo o que fizeram foi ressentir."</DefaultText>
+      <DefaultText>"Por vários anos, eu estava cercado por pessoas que sorriam na minha cara e zombavam quando eu me afastava. Eles deveriam ser meus mentores - meus professores - mas tudo o que fizeram foi me ressentir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>"Eu só podia pensar o que eu queria, como eu sentia, e quanto mais fraco fazia música com a minha voz, mas eu poderia poderia dizer uma coisa, mas é algo que funciona como algo mágico ".</DefaultText>
+      <DefaultText>"Eu só podia pensar o que eu queria, como eu me sentia, e quanto mais fraca a mente, mais rápido eles respondiam. Ainda precisava que eu cantasse, ou pelo menos fizesse música com a minha voz, mas eu poderia dizer uma coisa, mas significa algo completamente diferente e a magia funcionou ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>"Eu não vi muito de [url=glossary:kyros]Kyros[/url]. Ela estava ocupada cuidando de seus assuntos."</DefaultText>
+      <DefaultText>"Eu não vi muito de [url=glossary:kyros]Kyros[/url]. Ela estava ocupada cuidando de seus assuntos. Mas nunca me foi permitido esquecer por cujo poder eu fui autorizado a existir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Não me importo com a minha mãe. Não sei quem é que não sou eu." Eu fui muito ocupado para interagir com ele ".</DefaultText>
+      <DefaultText>"Não me entenda mal. Eu o desprezo. É por causa dele que eu não tenho família. É por causa dele que minha mãe está morta. É por causa dele que estou aqui em vez de ... em qualquer outro lugar. Mas como criança, eu fui mantido muito ocupado para interagir com ele muito ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,7 +1136,7 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>"O homem de serra de casa quando você ainda é criança não tem que perder uma infância teve um ano".</DefaultText>
+      <DefaultText>"O bom de ser levado de casa quando você ainda é criança é que você não pode perder a infância que nunca teve".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1146,39 +1146,39 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>"Você Fui trazido para um das muitas mesas mais movimentadas no palácio. [url=glossary:kyros]Kyros[/url] amava me mostrar. Você sabe - impressionar uma elite 'reunida'."</DefaultText>
+      <DefaultText>"Eu fui trazido para fora em uma das muitas reuniões luxuosas jogadas no palácio. [url=glossary:kyros]Kyros[/url] amava me mostrar. Você sabe - impressionar a elite 'reunida'."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>"Foi até [url=glossary:kyros]Kyros[/url] desembainhar as espadas do guarda real, mas depois foi tudo. Não sei se eu era tão empolgado e perdi o controlo. Mas seja qual for o motivo, [url=glossary:kyros]Kyros[/url] estava de repente para o meu controle e soltou um grito terrível ".</DefaultText>
+      <DefaultText>"Foi até [url=glossary:kyros]Kyros[/url] desembainhar uma das espadas do guarda real, mas depois tudo parou. Não sei porquê. Provavelmente era eu - fiquei muito excitado e perdi o controlo. Mas seja qual for o motivo, [url=glossary:kyros]Kyros[/url] estava de repente fora do meu controle e soltou um grito terrível ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>"Todo mundo olhou, congelado pelo grito ecoando de volta para nós. [url=glossary:kyros]Kyros[/url] rapidamente se recuperou e deu uma aparência de aplaudir, mas eu estava convencido de que estava pronto a morrer.</DefaultText>
+      <DefaultText>"Todo mundo olhou, congelado pelo grito ecoando de volta para nós. [url=glossary:kyros]Kyros[/url] rapidamente se recuperou e deu a aparência de nos aplaudir, mas eu estava convencido de que estava prestes a morrer. Curiosamente, minha execução nunca veio".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>"Então [url=glossary:kyros]Kyros[/url] trabalhou com-me e deu este driver para me trazer de volta à linha. Então eu fiz isto, um monstro, porque é uma coisa que não posso controlar. Empresa atual excluída, Fatebinder."</DefaultText>
+      <DefaultText>"Então [url=glossary:kyros]Kyros[/url] trabalhou com Nerat e eles me deram este capacete para me trazer de volta na linha. Então eu fui entregue a Nerat, aquele monstro, porque é a única coisa no mundo que eu não posso controlar. Empresa atual excluída, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>"Por que você não pode controlar-lo?"</DefaultText>
+      <DefaultText>"Por que você não pode controlá-lo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>"Começou sua posse por três anos, preso fazendo o que queria a você veio e começou a brincar com os planos de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <DefaultText>"Eu era sua posse por três anos, preso fazendo o que queria até que você veio e começou a brincar com os planos de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>"Eu estive dentro de sua mente e outra vez e nunca fui capaz de entender o que está funcionando lá."
+      <DefaultText>"Eu estive dentro de sua mente uma e outra vez e nunca fui capaz de entender o que está acontecendo lá."
 
-"Toda vez que eu falo, sinto que uma pessoa diferente está. E cada um deles quer algo diferente".</DefaultText>
+"Toda vez que eu falo, sinto que uma pessoa diferente está falando comigo. E cada um deles quer algo diferente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1193,74 +1193,74 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>"Eu não gosto de jogar com os magos. Eu não tenho uma experiência com eles no passado, então eu mantenho minha distância."</DefaultText>
+      <DefaultText>"Geralmente eu não gosto de jogar com outros magos. Eu não tive uma boa experiência com eles no passado, então eu mantenho minha distância."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>"E eles são tão exigentes! Você pode ser uma instituição de caridade e não participar de seus sucessos da dívida de seu coração. Certo, como se houvesse algo "bom" sobre aquele ... "</DefaultText>
+      <DefaultText>"E eles são tão exigentes! Você pergunta a eles - muito bem, eu poderia acrescentar - como lançar um feitiço e eles insistem que não são uma instituição de caridade e eles não vão entregar seus segredos da 'bondade de seu coração. Certo, como se houvesse algo "bom" sobre aquele ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>"Você é quem quer que seja minha magia! Isso é gratidão por você ...". De repente, sua cabeça parece cansar demais para o seu cérebro. Ela fecha os olhos e respira e o sentimento se dissipa.</DefaultText>
+      <DefaultText>"E eu nem sequer usei minha magia nele! Isso é gratidão por você ..." Ela pára e dá a você uma olhada atenta. De repente, sua cabeça parece pequena demais para o seu cérebro. Ela fecha os olhos e respira e o sentimento se dissipa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>"Eles são um grupo de valor sem valor, sem esperança e desorganizada, que o logotipo separa o interior."</DefaultText>
+      <DefaultText>"Eles são um grupo de selvagens sem valor, sem esperança e desorganizados que logo se separarão do interior."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>"Eu sou repelido por eles mesmos e tudo o que eles fazem. Nerd é uma desculpa repugnante para um líder e estou ansioso para o dia em que eu posso ver uma vida drenar de seus olhos insanos."</DefaultText>
+      <DefaultText>"Eu sou repelido por eles e tudo o que eles fazem. Nerat é uma desculpa repugnante para um líder e estou ansioso para o dia em que eu posso ver a vida drenar de seus olhos insanos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>"Estou saindo de você, Fatebinder?"</DefaultText>
+      <DefaultText>"Estou sendo claro o suficiente para você, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>"No final eu realmente comecei a terer pela minha vida. Então eu fui uma hora inteligente para fazer."</DefaultText>
+      <DefaultText>"No final eu realmente comecei a temer pela minha vida. Com essa coisa na minha cabeça, eu não podia efetivamente controlar um exército inteiro. Então me atrapalhar era uma coisa inteligente para fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>"Se alguém tivesse percebido que eu não podia fazer isso, eu não estaria seguro, eu estaria em apuros. Seu pequeno truque não [url=glossary:vendrien's well]Vendrien's Well[/url] não poderia ter vindo em melhor hora."</DefaultText>
+      <DefaultText>"Se alguém tivesse percebido que eu não poderia segurar todos eles de volta, eu estaria em apuros. Seu pequeno truque no [url=glossary:vendrien's well]Vendrien's Well[/url] não poderia ter vindo em melhor hora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>"Um deles gritou: 'Aquela vadia matou as minhas colheitas!' É uma coisa que me faz tão falada Eu pude levantar a minha mente enquanto falava, depois sacudiu minha direção para dar ênfase.</DefaultText>
+      <DefaultText>"Um deles gritou: 'Aquela vadia matou minhas colheitas!' É a última coisa que me lembro de ter sido dito. Palavras tão feias de um homem tão feio. Ele se inclinou e pegou outra pedra enquanto falava, depois sacudiu em minha direção para dar ênfase.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>"O que apareceu e o que está fazendo?", Perguntei. sabido não havia como escapar disso. "</DefaultText>
+      <DefaultText>"De repente as pessoas estavam gritando e jogando coisas. Um grupo começou a nos apressar, balançando varas. Minha mãe se virou e me agarrou, me pegando, enrolando-se em mim. Eu não acho que ela sequer tentou correr. Ela deve ter sabido não havia como escapar disso. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>"O resto é uma bagunça confusa. Eu me lembro de sangue e grosos, caos total. Eu estava dormindo na lama com o corpo da minha mãe em cima da mim.</DefaultText>
+      <DefaultText>"O resto é uma bagunça confusa. Eu me lembro de sangue e gritos, caos total. Eu estava deitada na lama com o corpo da minha mãe em cima de mim. Mesmo na morte ela estava tentando me proteger."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>"Mesmo que eu mantenha o meu poder de expressão, eu sei que fui responsável pela carnificina."
+      <DefaultText>"Outros ainda mantinham os instrumentos de sua própria morte em suas mãos frias. Mesmo em meu estado meio cego e enlouquecido, eu sabia que era responsável pela carnificina."
 
-"A música no meu choro, cantada para o terror, transformou a multidão nas minhas vítimas. Tantos mortos, muitos enlouquecidos pelos meus gritos."</DefaultText>
+"A música no meu choro, cantada para eles pelo meu terror, transformou a multidão em minhas vítimas. Tantos mortos, tantos enlouquecidos pelos meus gritos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>"E o mesmo que a minha fé tem como critério sobrevivente, mesmo que eu tenha sido mantido em meu coração."</DefaultText>
+      <DefaultText>"E mesmo sabendo que minha mãe nunca teria sobrevivido, mesmo que eu tivesse mantido a boca fechada, parte de mim gosta de acreditar que eu ainda estaria naquela fazenda, reclamando de colher milho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>"E aquele pássaro. Enquanto eu estava deitada na lama, olhando para os olhos sem a minha mãe, sentindo o peso do seu esmagamento com cada respiração irregular que eu tinha, a sua pousada em sua bochecha. Essa é uma memória que fica comigo mais vividamente. "</DefaultText>
+      <DefaultText>"E aquele pássaro. Enquanto eu estava deitado na lama, olhando para os olhos sem vida de minha mãe, sentindo seu peso me esmagar com cada respiração irregular que eu tomei, ele pousou em sua bochecha. As manchas nas asas espelhavam o sangue espalhado em seu rosto. Essa é a memória que fica comigo mais vividamente. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1270,27 +1270,27 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>Os problemas podem ser encontrados, guardanapos podem ser subornados, pessoas podem ter 'acidentes' ... "</DefaultText>
+      <DefaultText>"Eles tentaram magia. Realmente não funcionou. O problema é que - feitiços podem ser quebrados. Counterspells podem ser encontrados, guardas podem ser subornados, pessoas podem ter 'acidentes' ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>"O que é isso?"</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] e Nerat fez isso só para mim. Se eu tentar algo mais poderoso do que uma música simples, isso vai me matar. Isso não é simplesmente maravilhoso? Honestamente, estar tão apavorado com uma mera criança ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>"Você pode se livrar do seu coração e morder você mesmo, você é capaz de fazer a sua vez!"</DefaultText>
+      <DefaultText>"Eu era o cão de ataque deles e eles arrancaram meus dentes. Você dificilmente pode se surpreender se o cão tentar morder você, se é tudo que você o ensina a fazer!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>"Nerat e [url=glossary:kyros]Kyros[/url] são os únicos que sabem como remover isso sem me matar. A resposta está em algum lugar nas mãos e não convenientemente localizados de Nerat."</DefaultText>
+      <DefaultText>"Nerat e [url=glossary:kyros]Kyros[/url] são os únicos que sabem como remover isso sem me matar. A resposta está trancada em algum lugar nas cabeças insanas e não-convenientemente localizadas de Nerat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>"Fatebinder - você gostaria de falar de novo?" Está de volta à frente, cantando e balançando de um lado para outro.</DefaultText>
+      <DefaultText>"Fatebinder - você gostaria de falar de novo? Estou um pouco ocupado com meus seguidores ..." Sirin está diante da multidão em transe, cantarolando levemente e balançando de um lado para o outro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1320,7 +1320,7 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>"Muito bom. Contanto que você não deixe sair do controle ..."</DefaultText>
+      <DefaultText>"Muito bom. Contanto que você não deixe isso sair do controle ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1330,46 +1330,46 @@ Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>"Não se preocupe, Fatebinder. Estou apenas praticando." As suas palavras e tom são transmitidas, a paz, o que você está sentindo, e o seu coração está voltando para você.</DefaultText>
+      <DefaultText>"Não se preocupe, Fatebinder. Estou apenas praticando." Enquanto suas palavras e tom transmitem um ar descuidado, a paz que você estava sentindo aperta em seu cérebro e um par da multidão reunida lentamente vira suas cabeças para olhar para você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>"Oh, pare com isso, Fatebinder, não é como se eu estivesse encontrando alguém ... Bem, pelo menos ainda não." Ela e uma sensação na sala se agita. Você sorri sem querer que queria.</DefaultText>
+      <DefaultText>"Oh, pare com isso, Fatebinder, não é como se eu estivesse machucando alguém ... Bem, pelo menos ainda não." Ela ri e a sensação na sala se agita. Você sorri sem nem perceber que queria.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText>"Chega disso, Sirin, eu quero que você se junte a mim."</DefaultText>
+      <DefaultText>"Chega disso, Sirin, eu quero que você se junte a mim. Alguém com o seu poder precisa ajudar a direcioná-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>"Se você o quisesse, você realmente acha que eu precisaria da sua ajuda?" Ela olha para você de novo, uma mistura de frustração e tédio em suas feições.</DefaultText>
+      <DefaultText>"Se eu o quisesse morto, você realmente acha que eu precisaria da sua ajuda?" Ela olha para você de novo, uma mistura de frustração e tédio lutando em suas feições.</DefaultText>
       <FemaleText>"If I wanted her dead, do you really think I'd need your help?" She looks at you again, a mixture of frustration and boredom fighting in her features.</FemaleText>
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>"Que gentileza da parte dele sair protegendo. Aparentemente, eles não são capazes de se proteger em você."
+      <DefaultText>"Que gentil da parte deles tentar me proteger. Aparentemente, eles não acham que eu sou tão perigoso quanto você."
 
 "Suponho que você vai me dizer que não posso mais colecionar seguidores como antes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>"As coisas nunca mudam, mas não são palavras repetidas. A menina tem tanto poder!" 'Use uma voz dela - isso pode derrubar reinos!' 'Tal pode em um tão jovem!' "</DefaultText>
+      <DefaultText>"As coisas nunca mudam, não é? Os rostos são diferentes, mas as palavras continuam repetindo. 'A menina tem tanto poder!' 'Use a voz dela - isso pode derrubar reinos!' 'Tal pode em um tão jovem!' "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>"Eu não sei para você mesmo. Todo mundo quer a mesma coisa - minha ajuda. Meu poder. Minha voz!"</DefaultText>
+      <DefaultText>"Ninguém dá uma garra sobre mim! Eu não sei por que você seria diferente. Todo mundo quer a mesma coisa - minha ajuda. Meu poder. Minha voz!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>You are the speech, your visive seemcept. Todas as conversas sobre paramédico
+      <DefaultText>Enquanto ela fala, sua visão escurece e você sente o ar ficar parado. Todas as conversas próximas param e um silêncio elétrico envolve você.
 
-Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencioso explode dela, mudando seus seguidores e lavando através de você.</DefaultText>
+Com a última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencioso explode dela, cambaleando seus seguidores e lavando através de você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1379,12 +1379,12 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>"Oh, Fatebinder, não é como eu quero formar um exército. [url=lore:lc_sirin_followers]And I refuse to take blame for how others respond to me.[/url]" Ela revira os olhos e uma sensação na sala muda. Você sente um leve desconforto sobre tudo.</DefaultText>
+      <DefaultText>"Oh, Fatebinder, não é como se eu estivesse formando um exército. [url=lore:lc_sirin_followers]And I refuse to take blame for how others respond to me.[/url]" Ela revira os olhos e a sensação na sala muda. Você sente um leve desconforto sobre tudo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>"Além disso, quem não ama ter uma legião de adorados lacaios?" Ela sorri e o aperto libera sua mente. As cabeças voltam-se para encarnar Sirin, adorando brilhando em seus olhos.</DefaultText>
+      <DefaultText>"Além disso, quem não ama ter uma legião de adorados lacaios?" Ela sorri e o aperto libera sua mente. As cabeças se voltam novamente para encarar Sirin, adoração brilhando em seus olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1399,42 +1399,42 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>"Sirin, eu vou apenas uma vez ... Pare com isso agora."</DefaultText>
+      <DefaultText>"Sirin, eu vou avisá-lo apenas uma vez ... Pare com isso agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>"Você pode manter seus seguidores para tudo o que eu importo."</DefaultText>
+      <DefaultText>"Você pode manter seus seguidores para tudo que eu me importo. Só não deixe isso sair do controle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>"Fatebinder! Bem vinda! Eu acho que você acabou minha própria.</DefaultText>
+      <DefaultText>"Fatebinder! Eu acho que você recebeu minha missiva. Bem vinda! Verdade seja dita, eu não tinha certeza se você realmente viria me ver."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>"Parece que ele está aqui para mim machucar?" Se você gosta de compartilhar um segredo.</DefaultText>
+      <DefaultText>"Parece que ele está aqui para me machucar?" Ela retorna seu olhar para você e se inclina para frente como se quisesse compartilhar um segredo.</DefaultText>
       <FemaleText>"Does it look like she's here to hurt me?" She returns her gaze to you and leans forward as if to share a secret.</FemaleText>
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>"Não me importo com o que está tentando me proteger. Não me importo com o que estou dizendo?" Ela faz um gesto desdenhoso em direção ao grupo.</DefaultText>
+      <DefaultText>"Não que eu me importe com eles tentando me proteger. Mesmo que eles não tenham realmente intenção ... suponho que você está aqui para me dizer que não posso reunir outro rebanho?" Ela faz um gesto desdenhoso em direção ao grupo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Ugh, não isso de novo." Por que ninguém quer eu solte? Eu sei. Eu sei. Você não precisa responder. Ela levanta a mão e revira os olhos novamente.</DefaultText>
+      <DefaultText>"Ugh, não isso de novo. Tudo o que alguém quer é que eu me controle." Por que ninguém quer que eu me solte? Eu sei. Eu sei. Você não precisa responder. Ela levanta a mão e revira os olhos novamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>"Mantenha-se como um pouco cansativo às vezes. Eu tenho sido o Songbird por tanto tempo, que eu esqueci como qualquer outra coisa."</DefaultText>
+      <DefaultText>"Manter o ato pode ser um pouco cansativo às vezes. Eu tenho sido o Songbird por tanto tempo, que eu esqueci como ser qualquer outra coisa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>"Minha mãe é minha mãe, minha mãe está morta, e a única coisa que as pessoas queriam fazer era minha mãe. A garota é poderosa!" "Traga o pássaro canoro, pergunta de uma bênção." "Nossas safras estão murchas, o que essa puta fez?" Sua voz vacila com uma última afirmação e ela estremece um pouco.</DefaultText>
+      <DefaultText>"Nada sobre a minha casa ou o meu passado vale a pena, Fatebinder. Eu mal me lembro do meu pai, minha mãe está morta, e a única coisa que as pessoas queriam de mim era a minha música. A garota é poderosa!" "Traga o pássaro canoro, precisamos de uma bênção." "Nossas safras estão murchas, o que essa puta fez?" Sua voz vacila com a última afirmação e ela estremece um pouco.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1444,17 +1444,17 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>"Tecnicamente, no momento em que fui levada, não tive mais famílias para ser tiradas. Mas, como forças do [url=glossary:kyros]Kyros[/url], descobri meus talentos e decidi que seria melhor usar o mundo do que fazer os alimentos locais".</DefaultText>
+      <DefaultText>"Tecnicamente, no momento em que fui levada, não havia mais famílias para serem tiradas. Mas as forças do [url=glossary:kyros]Kyros[/url] haviam descoberto meus talentos e decidido que seria melhor usar o mundo do que ajudar os agricultores locais".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>"Você não tem sobrando? O que aconteceu?"</DefaultText>
+      <DefaultText>"Você não tem família sobrando? O que aconteceu?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>O meu pai não pode ser importado comigo? - Eu não consigo me deixar levar sozinho com a ajuda dela.</DefaultText>
+      <DefaultText>"O que você acha? Eles estão mortos. Meu pai pode não ter se importado comigo - sobre nós - mas minha mãe nunca teria deixado ninguém me levar enquanto ela vivesse. Sem ninguém para me proteger, eu fui levada para [url=glossary:kyros]Kyros[/url] ' quadra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1464,47 +1464,47 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>"Por que você fez isso?"</DefaultText>
+      <DefaultText>"Por que você fez isso se soubesse que não estava ajudando?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>"Continuar."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>"Estávamos quase em casa. Eu estava fascinado pelo meu pai e pela mãe estava conversando sobre o jantar quando nós dois notamos o quão quieto ele ficou."</DefaultText>
+      <DefaultText>"Estávamos quase em casa. Eu estava fascinado pelo pássaro e minha mãe estava conversando sobre o jantar quando nós dois notamos o quão quieto ele ficou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>362</ID>
-      <DefaultText>"Ela não tentou salvar? Isso é muito insensível."</DefaultText>
+      <DefaultText>"Ela nem tentou salvá-lo? Isso é muito insensível."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>"Se se voltaram para ser tão rápido? Por que uma repentina?"</DefaultText>
+      <DefaultText>"Eles se voltaram para você tão rapidamente? Por que a mudança repentina?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>"Continuar."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>"A minha mãe, ama, Fatebinder, mas ela não era uma mulher - uma mulher que carregava uma criança de seis anos não ia muito longe. Em sua mente, ela estava simplesmente indo para a frente. Eu me pergunto o que ele me deu.</DefaultText>
+      <DefaultText>"Minha mãe me amava, Fatebinder, mas ela não era burra - uma mulher sozinha carregando uma criança de seis anos não ia muito longe. Em sua mente, ela estava simplesmente atrasando o inevitável. Uma vez que começou Ela sabia que não sairíamos vivos. Eu me pergunto o que ela diria se soubesse o que eu fiz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>"Não foi satisfatório, foi controlado. Não é como se tivéssemos um dia com tudo bem e voltado à violência".</DefaultText>
+      <DefaultText>"Não foi repentino, foi controlado. Não é como se tivéssemos saído um dia com tudo bem e voltado à violência. Meu pai espalhou mentiras sobre mim para os aldeões por semanas".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>"Eu sou muito difícil - todos sabem a que se passa na aldeia minha culpa. uma cadela.</DefaultText>
+      <DefaultText>"Então ele convenceu nossos amigos de que toda coisa ruim que acontecia na aldeia era minha culpa. Não era muito difícil - todos sabiam o que eu fazia toda vez que saía da aldeia. Então eles estavam esperando por nós quando voltamos, prontos para lidar com a "cadela".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1514,17 +1514,17 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>"Ela deu uma vida por você? Ela parece uma mulher altruísta."</DefaultText>
+      <DefaultText>"Ela deu a vida por você? Ela parece uma mulher altruísta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>"O que é que não existe, não é algo que não pode ser feito".</DefaultText>
+      <DefaultText>"Nerat. Pode ser um mentiroso cheio de segredos horríveis, mas vai dizer a verdade quando souber que pode causar alguma dor verdadeira. Até aquele dia eu poderia fingir que meu pai não sabia nada dos horrores que aconteceram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>"Obrigado por mim, Sirin. Eu sei que não foi fácil para você."</DefaultText>
+      <DefaultText>"Obrigado por me dizer, Sirin. Eu sei que não foi fácil para você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1539,22 +1539,22 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>375</ID>
-      <DefaultText>"Não, Fatebinder. Eu sei disso. Ela está morta e minha vida nunca será como antes. Eu sei disso."</DefaultText>
+      <DefaultText>"Não, Fatebinder. Eu provavelmente precisava contar, independentemente de como você me pressionou. Ela está morta e minha vida nunca será como antes. Eu sei disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>"Insensible até o fim, não é você, Fatebinder? Eu abro meu coração para você e você liberalmente aplica-se. Sua preocupação é notada."</DefaultText>
+      <DefaultText>"Insensível até o fim, não é você, Fatebinder? Eu abro meu coração para você e você liberalmente aplica sal. Sua preocupação é notada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>"Ele desapareceu depois que minha mãe e eu fui seqüestrada". e agora está fora da minha vida ".</DefaultText>
+      <DefaultText>"Ele desapareceu depois que minha mãe morreu e eu fui seqüestrada. Eu não ouvi nada sobre ele por muito tempo então eu assumi que ele tinha desaparecido e eu nunca mais o veria. Então alguém trouxe a notícia de que ele tinha sido encontrado. Ele matou-se e agora ele está fora da minha vida ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>"Existe mais que seja, isso é incrivelmente sucinto. Existe mais?"</DefaultText>
+      <DefaultText>"Para alguém que sempre tem muito a dizer, isso é incrivelmente sucinto. Existe mais?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1564,14 +1564,14 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>"Você é implacável, Fatebinder. Você já fez isso? Talvez algumas coisas que eu possa guardar para mim?"
+      <DefaultText>"Você é implacável, Fatebinder. Você já pensou que talvez haja algumas coisas que eu quero guardar para mim?"
 
 "Mas, sim. Você está certo, há mais na história."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>"Quando ele chegou, eu fui vê-lo em particular. Eu não esperava por isso. Eu não esperava por isso. Pela primeira vez na minha vida, não senti nada. a minha vida, esperando que eu notasse, meu coração estava aborrecido e desinteressado ".</DefaultText>
+      <DefaultText>"Quando ele chegou, eu fui vê-lo em particular. Eu não tinha certeza do que sentiria. Raiva? Ódio? Eu não esperava apatia. Pela primeira vez na minha vida, não senti nada. Parada ali, olhando para o homem que arruinou a minha vida, esperando que ele me notasse, meu coração estava aborrecido e desinteressado ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1581,22 +1581,22 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>"O meu irmão morreu muito jovem. A vida não é tão difícil assim. Para uma criança solteira sobreviver - quanto mais - é um testamento para os pais."</DefaultText>
+      <DefaultText>"Meu irmão morreu muito jovem. Eu nunca o conheci, então eu dificilmente o conto como um irmão. A vida no meio do nada é difícil. Para uma criança solteira sobreviver - quanto mais - é um testamento para os pais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>"O que ajuda a rasgar-se com as bochechas quando se puxa um saco de seu cinto. Os soluços que estão rasgando quando se está em pé, pensando em sua esposa e filho. em seu pescoço ".</DefaultText>
+      <DefaultText>"Eu assisti as lágrimas rolarem pelas suas bochechas quando ele puxou a adaga de seu cinto. Os soluços que lhe rasgaram enquanto ele a segurava diante dele, pensando em sua esposa e filho. O olhar de alívio extático em seu rosto enquanto ele arrastava o lâmina em seu pescoço ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>"O Pai foi para um homem que acabou com a vida que já tinha matado cinco anos antes."</DefaultText>
+      <DefaultText>"Todos fizemos coisas das quais nos arrependemos, Fatebinder, mas este não é um deles. Meu pai foi um homem terrível que finalmente ouviu a música que deveria tê-lo matado cinco anos antes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>"Você é fez se matar? Isso é horrível!"</DefaultText>
+      <DefaultText>"Você o fez se matar? Isso é horrível!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1606,22 +1606,22 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>390</ID>
-      <DefaultText>Quando ele fez o que eu disse, ele fez os cinco anos depois que ele desapareceu, e o que eu poderia ter sido evitado? Na manhã em que minha mãe morreu ".</DefaultText>
+      <DefaultText>"Isso é o que eu digo a mim mesmo, e na maior parte eu acredito nisso. Eu não posso deixar de me perguntar que coisas terríveis ele fez nos cinco anos depois que ele desapareceu, e o que eu poderia ter evitado se ele tivesse me ouça na manhã em que minha mãe morreu ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>"Agora você já sabe o que aconteceu com meu pai."</DefaultText>
+      <DefaultText>"Agora você sabe o que aconteceu com meu pai. Como eu lhe disse antes - ele se matou. E é isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>Ela olha para você com um ritmo, seus lábios uma linha fina. Os olhos ficam vermelhos e se formam em suas pálpebras. Finalmente, ela balançou um pouco e quebrou seu silêncio.</DefaultText>
+      <DefaultText>Ela olha para você por um tempo, seus lábios uma linha fina. Seus olhos ficam vermelhos e lágrimas se formam em suas pálpebras. Finalmente, ela balança a cabeça lentamente e quebra seu silêncio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>"Ok, Sirin, eu não conto para você, eu conto essa história."</DefaultText>
+      <DefaultText>"Ok, Sirin, eu nunca vou pedir para você me contar essa história."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1631,32 +1631,32 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>"Você não gostou de viajar com o pai?"</DefaultText>
+      <DefaultText>"Você não gostou de viajar com seu pai?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>"Continuar."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>"Quando, na estrada, você pode ser totalmente livre de dinheiro. Uma vez que a estrada fez isso, você pode ter seus filhos e filhos, meu pai usava minha voz. "</DefaultText>
+      <DefaultText>"Não. Tudo o que ele queria era o dinheiro. Quando estávamos na estrada, ele me ignorava completamente. Eu era simplesmente algo para ganhar anéis. Uma ferramenta. Os fazendeiros da minha aldeia usavam seus ancinhos e carroças, meu pai usava minha voz. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>"Há muito tempo sua mãe estava grávida?"</DefaultText>
+      <DefaultText>"Há quanto tempo sua mãe estava grávida?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>"Continuar."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>"O problema é que eu não sou capaz de fazer isso. Eu não acho que ele tenha sobrevivido. que foi a hora da minha mãe dar à luz. "</DefaultText>
+      <DefaultText>"Não o suficiente para meu irmão sobreviver. Talvez ele pudesse ter, eu não sei. O problema é que quando eu disse a ele que ele tinha que sair, eu não quis dizer que o queria vivo. Eu não acho que ele teria sobrevivido mesmo que fosse a hora da minha mãe dar à luz. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1666,12 +1666,12 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>"Continuar."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>"O que é que eu estou a fazer como o mundo funciona - especialmente o mundo. As pessoas não vivem muito tempo e quando são descartadas, são violentas e repentinas. para tentar livrar o mundo de uma ameaça horrível? "</DefaultText>
+      <DefaultText>"Claro que eu estava! Mas eu vi como o mundo funciona - especialmente o mundo. As pessoas não vivem muito tempo e quando são descartadas, é violento e repentino. Eu percebi que estava morto de qualquer maneira, então por que não?" para tentar livrar o mundo de uma ameaça horrível? "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1681,17 +1681,17 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>Tudo que você tem que fazer é uma autopreservação na minha cabeça. esta história ou não? "</DefaultText>
+      <DefaultText>"Tudo bem. Eu estava tentando salvar minha própria pele - feliz? Eu tinha doze anos, então me perdoe se a autopreservação estava na minha cabeça. Oh, olhe, uma jovem que não pensa em nada além de si mesma! Você quer para ouvir esta história ou não? "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>"Espere um minuto - o que você quer que ele nunca vai conseguir?"</DefaultText>
+      <DefaultText>"Espere um minuto - o que Nerat quer de você que ele nunca vai conseguir?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>"Venha, Fatebinder. Você não pode ser tão ingênua. Eu sou uma criança e sei sobre 'adultos' como um dos meus antigos professores, tão desajeitadamente diz."</DefaultText>
+      <DefaultText>"Venha, Fatebinder. Você não pode ser tão ingênua. Eu ainda sou uma criança e sei sobre 'adultos urgings' como um dos meus antigos professores, tão desajeitadamente diz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1701,9 +1701,9 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>"Cara, Fatebinder, eu nunca pensei nisso?"
+      <DefaultText>"Cara, Fatebinder, eu nunca pensei nisso! Aqui, você poderia desabafar para mim, então eu posso sair disso?"
 
-"Porque eu não sou obrigado a desistir de seu jeito?"</DefaultText>
+"Porque eu vou morrer se não for removido o jeito 'correto', seu tolo! Você acha que eu deixaria de outra forma?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1713,27 +1713,27 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>"Você acredita em Nerat? Talvez esteja apenas brincando com você. Você já tentou remê-lo?"</DefaultText>
+      <DefaultText>"Você acredita em Nerat? Talvez ele esteja apenas brincando com você. Você já tentou removê-lo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>"Porque duvido que Nerat e [url=glossary:kyros]Kyros[/url] passem por todos os problemas apenas para mim. Algo tão subtil, elaborado e duradouro não é realmente o estilo deles - pelo menos não o de Nerat."</DefaultText>
+      <DefaultText>"Porque duvido que Nerat e [url=glossary:kyros]Kyros[/url] passem por todos os problemas apenas para me enganar. Algo tão subtil, elaborado e duradouro não é realmente o estilo deles - pelo menos não o de Nerat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>"Eu tenho que chegar a minha vez em talvez aí. Eu tenho uma chance de eu fazer isso agora. "</DefaultText>
+      <DefaultText>"Eu não vou arriscar a minha existência em um talvez. Além disso, eu já tentei - quando eles colocaram em mim pela primeira vez. Eu tenho uma das piores dores de cabeça que eu já tive. Então eu vou deixar onde é por agora. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>"Diga-me, Sirin. Eu não vou de novo."</DefaultText>
+      <DefaultText>"Diga-me, Sirin. Eu não vou perguntar de novo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>"Eu me canso dos meus jogos, Sirin. Me diga."</DefaultText>
+      <DefaultText>"Eu me canso dos seus jogos, Sirin. Me diga."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1743,66 +1743,66 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>"Você tem dificuldade em lidar com uma rejeição, não é, Fatebinder?"</DefaultText>
+      <DefaultText>"Você tem dificuldade em lidar com a rejeição, não é, Fatebinder? Pare de me perguntar, eu não vou contar a você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>419</ID>
-      <DefaultText>"Sempre o encantador. Como você faz como pessoas que te seguem, sem promessa de poder ou dinheiro, eu nunca saberei."
+      <DefaultText>"Sempre o encantador. Como você faz as pessoas seguirem você sem promessas de poder ou dinheiro, eu nunca saberei."
 
-"Você me faz perguntas sobre o meu capacete?"</DefaultText>
+"Você quer me fazer perguntas sobre o meu capacete?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>"Você já tentou ser legal, Fatebinder? Você já foi uma pessoa tão horrível?"</DefaultText>
+      <DefaultText>"Você já tentou ser legal, Fatebinder? Ocorreu a você que eu poderia estar mais inclinado a compartilhar com você abertamente se você não fosse uma pessoa tão horrível?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>Você é um arconte.</DefaultText>
+      <DefaultText>"Você é um arconte. Você deve saber algo sobre Edicts, Sirin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>"Você está fazendo isso, não é? Com ​​todo o meu treinamento e educação, [url=glossary:kyros]Kyros[/url] deixou um grande aviso tudo. Quase como se fosse intencional ..."</DefaultText>
+      <DefaultText>"Você pensaria isso, não é? Com ​​todo o meu treinamento e educação, [url=glossary:kyros]Kyros[/url] deixou um grande vazio nisso tudo. Quase como se fosse intencional ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>"Pare a simulation emocional. Agora. Você vem comigo para eu poder ficar de olho em você."</DefaultText>
+      <DefaultText>"Pare a manipulação emocional. Agora. Você vem comigo para que eu possa ficar de olho em você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>"Fora de mão? Como falar de uma jovem mulher que ela ... agora, como você colocou no acampamento de Nerat ... 'tagarelas?'"
+      <DefaultText>"Fora de mão? Como dizer a uma jovem mulher que ela ... agora, como você colocou no acampamento de Nerat ... 'tagarelas?'"
 
-"Não, Fatebinder, você não precisa se preocupar. Pelo menos não ainda."</DefaultText>
+"Não, Fatebinder, você não precisa se preocupar. Eu vou me manter sob controle. Não é como se eu estivesse machucando alguém. Pelo menos não ainda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Por que diabos você foi querer isso? [url=glossary:tunon]Tunon[/url] deve ter uma mão na sua cara. mandar o tempo todo. "</DefaultText>
+      <DefaultText>"Por que diabos você iria querer isso? Eu não posso imaginar que você está fazendo isso pela bondade do seu coração. Oh ... [url=glossary:tunon]Tunon[/url] deve ter uma mão nisso - ou Nerat. Talvez eu prefira ficar aqui onde as pessoas não insistem em me mandar o tempo todo. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>"Você é uma lista de todos os pequenos insultos contra você?"</DefaultText>
+      <DefaultText>"Você está mantendo uma lista de todos os pequenos insultos contra você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>"Muito engraçado, Fatebinder. Mas sim. O que você está esperando? Isso não é uma questão de resposta, apenas uma pergunta, e eu estou insatisfeito?"</DefaultText>
+      <DefaultText>"Muito engraçado, Fatebinder. Mas sim. O que você estava esperando? Você vagueia, me faz uma pergunta, e me insulta por responder. Isso não vai te agradar a mim. Apenas observe a si mesmo. Eu tenho uma longa memória."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>"Então agora eu preciso de uma babá? Era [url=glossary:tunon]Tunon[/url], não era? Ou Nerat? Monstros, os dois. Todo mundo parece que eu vou começar o controle de novo e a matar uma vila inteira. Eu tenho quinze anos Eu acho que sei o que estou fazendo!</DefaultText>
+      <DefaultText>"Então agora eu preciso de uma babá? Era [url=glossary:tunon]Tunon[/url], não era? Ou Nerat? Monstros, os dois. Todo mundo parece pensar que eu vou sair do controle de novo e matar uma vila inteira. Eu tenho quinze anos Eu acho que sei o que estou fazendo!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>432</ID>
-      <DefaultText>"Agora, você tem ativado uma das torres, então seu poder é que eu poderia aprender ... E você está certo, eu certamente não quero progredir, fico impressionado com um grupo de ninguens me adorando."</DefaultText>
+      <DefaultText>"Embora, você tenha ativado uma das torres, então seu poder é algo que eu poderia aprender ... E você está certo, eu certamente não farei nenhum progresso significativo ficando aqui com um grupo de ninguéns me adorando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1817,156 +1817,156 @@ Com uma última palavra, Sirin pisa um de seus pés no chão. Um 'pop' silencios
     </Entry>
     <Entry>
       <ID>436</ID>
-      <DefaultText>"Tudo bem. Você está aqui para você precisar de ajuda. Há situações em que estar."</DefaultText>
+      <DefaultText>"Tudo bem. Eu estarei aqui se você precisar de mim. Há situações piores em que estar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>"Bem, então vamos lá. Se você me ensinar como maravilhas do mundo, isso não vai acontecer aqui ..."</DefaultText>
+      <DefaultText>"Bem, então vamos lá. Se você vai me ensinar as maravilhas do mundo, isso não vai acontecer aqui ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>"Isso foi uma piada. Eu sou um pouco mais de autocontrole do que isso ... Mas, se você é uma piada. Você é capaz de me ensinar como eu controlar. "</DefaultText>
+      <DefaultText>"Isso foi uma piada. Eu tenho um pouco mais de autocontrole do que isso ... Mas, talvez você esteja certo. Talvez se você me permitir acompanhá-lo? Você ativou uma das torres, então seu poder é Algo que eu poderia aprender. Você seria capaz de me ensinar como me controlar. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>"[url=glossary:tunon]Tunon[/url] está presente, você pode encontrar, não é? Não se deixe ficar satisfeito, podemos? Vamos controlá-la. Vamos começar a fazer o que é preciso e não fazer? Vamos usar-la para destruir nações!" "Ela, ela fala, a happy and the breath of the sun away and the ash."</DefaultText>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] provavelmente insistiu que você me encontrasse, não é? Porque não podemos deixar Sirin se divertir, podemos? Vamos controlá-la. Vamos dizer a ela o que ela pode e não pode fazer. Vamos usá-la para destruir nações!" " Enquanto ela fala, a multidão ao seu redor parece agitada e o ar na sala fica pesado e quente. De repente, ela sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>"Qualquer coisa que eu disser seria um palpite. Você parece ter uma conexão com o poder da terra muito além de qualquer coisa que um Arconte seja capaz de fazer."</DefaultText>
+      <DefaultText>"Qualquer coisa que eu disser seria um palpite. É por isso que estou com você! Você parece ter uma conexão com o poder desta terra muito além de qualquer coisa que um Arconte seja capaz de fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>"Isso me intriga. Eu quero o que é e aproveito-lo. Infelizmente, eu não sou uma mágica necessária para promulgar ou quebrar um [url=glossary:edict]edict[/url]."</DefaultText>
+      <DefaultText>"Isso me intriga. Eu quero aprender o que é e aproveitá-lo. Infelizmente, eu não tenho a magia necessária para promulgar ou quebrar um [url=glossary:edict]edict[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>442</ID>
-      <DefaultText>"Você está sempre tão beliscada e apertada, Fatebinder. Você pode querer ficar relaxada ocasionalmente. Foi apenas uma piada."</DefaultText>
+      <DefaultText>"Você está sempre tão beliscada e apertada, Fatebinder. Você pode querer tentar relaxar ocasionalmente. Foi apenas uma piada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>443</ID>
-      <DefaultText>"Você está me pedindo mais dinheiro do que eu."</DefaultText>
+      <DefaultText>"Por que você está me pedindo conselhos sobre coisas como esta? Há provavelmente decretos no lugar mais velhos do que eu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>"O que não é meu entender, é como deveria ser."</DefaultText>
+      <DefaultText>"Nenhum deles parece capaz de lidar com os rebeldes que os estão derrubando. O que, no meu entender, é como deveria ser."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>"Quanto menos dos Tiers infectados por [url=glossary:kyros]Kyros[/url], melhor. Se pudessem eliminar os exércitos por completo, eu consideraria essa a vitória de um homem."</DefaultText>
+      <DefaultText>"Quanto menos dos Tiers infectados por [url=glossary:kyros]Kyros[/url], melhor. Se pudéssemos eliminar os exércitos por completo, eu consideraria essa a verdadeira vitória."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] não é necessário tomar uma decisão sobre os Tiers, no entanto. Invadir o território de outra pessoa é uma maneira perfeita de se atacar".</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] não vai gostar de você assumir os Tiers, no entanto. Invadir o território de outra pessoa é a maneira perfeita de se atacar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>"Estamos negociando fofocas agora, Fatebinder, você está coletando informações para usar contra nós?" Ela arqueia como sobrancelhas inquisitivamente.</DefaultText>
+      <DefaultText>"Estamos negociando fofocas agora, Fatebinder, ou você está coletando informações para usar contra nós?" Ela arqueia as sobrancelhas inquisitivamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>"Quero dizer, que tipo de idéia você tem que não pode nem tirar sua armadura?"</DefaultText>
+      <DefaultText>"Quero dizer, que tipo de idiota você tem que ser se você não pode nem tirar sua armadura?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>"Tudo está bem, Barik. Eu não falei nada sobre alguém importante." Ela fala devagar e deliberadamente, acariciando-o suavemente no ombro. Ela então coloca uma mão na boca, reprimindo uma pequena risadinha.</DefaultText>
+      <DefaultText>"Está tudo bem, Barik. Eu não falei nada sobre alguém importante." Ela fala devagar e deliberadamente, acariciando-o suavemente no ombro. Ela então coloca a mão na boca, reprimindo uma pequena risadinha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>"Se você me trouxe safar com isso, eu coloquei uma lâmina nessa sua linda cabecinha e gire até que sua mente fique tão embaralhada quanto àquela que você invade."</DefaultText>
+      <DefaultText>"Se eu pudesse me safar com isso, eu colocaria uma lâmina naquela sua linda cabecinha e giraria até que sua mente estivesse tão embaralhada quanto aqueles que você invade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>"Como ... vívido." Sirin se vira para você e faz um pouco "Veja o que eu quero dizer?" Não faça nenhum verso.</DefaultText>
+      <DefaultText>"Como ... vívido." Sirin se vira para você e faz um pouco "Veja o que eu quero dizer?" gesto no verso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>"Quando eu não sou feliz de forma extensa, eu não pude ser responsabilizado por isso."</DefaultText>
+      <DefaultText>"Embora eu não seja excessivamente feliz, era mágica que eles costumavam prender minha língua quando eu era criança, eu mal posso responsabilizá-lo por isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>454</ID>
-      <DefaultText>"E então vai ser a morte e a morte para o amor e o cuidado - ou o que quer que seja constituído por amor e cuidado para uma mulher. Que seja muito bem trabalhado e arrogante ... Tudo é muito confuso."</DefaultText>
+      <DefaultText>"E então vai da morte e do sangue para o amor e o cuidado - ou o que quer que constitua amor e cuidado para uma Fera. Que poderia muito bem envolver sangue e rasgar e cio ... É tudo muito confuso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>"Você sabe o que eu quis dizer." Sirin está uma mão no seu olhar para Eb, mastigando os cantos da boca.</DefaultText>
+      <DefaultText>"Você sabe o que eu quis dizer." Sirin coloca uma mão no seu cocar e olha para Eb, mastigando os cantos da boca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>"Não se preocupe, seja querido. Você é muito jovem para mim. E não apenas aqui". Ela coloca as mãos na cabeça e pisca novamente.</DefaultText>
+      <DefaultText>"Não se preocupe, querido. Você é muito jovem para mim. Eu gosto de alguém com um pouco de desgaste sobre eles. E não apenas aqui". Ela coloca as mãos na cabeça e pisca novamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>"Ele não tem presença. Quando cheguei a ele, não havia nada nada. Estava vazio. Nunca mais sentiu isso isso de novo."</DefaultText>
+      <DefaultText>"Ele não tem presença. Quando cheguei a ele, não havia nada. Estava vazio. Nunca mais quero sentir isso de novo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>"Eles podem ser bons artesãos, mas o que mais me chama a sair desta prisão, eu deixo o amigo lidar com eles, obrigado."</DefaultText>
+      <DefaultText>"Eles podem ser bons artesãos, mas a menos que eles me criem uma saída desta prisão, eu deixarei você lidar com eles, obrigado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>"Eles só podem resistir, mas acho que isso pode ter sido feito em uma antiga fortaleza com as paredes quase impenetráveis."</DefaultText>
+      <DefaultText>"E só porque você decidiu jogar seu lote com eles não muda minha opinião sobre eles. Eles podem ter resistido, mas acho que qualquer um poderia fazer isso em uma antiga fortaleza com paredes quase impenetráveis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>- Seres humanos também são animais, sim? Igual a mulheres bestas. Só são menores - mais fracos. Morrem com facilidade. Então a Beastwoman protege seus companheiros de predadores com garras rasgadas e dentais. Mantém os companheiros de confiança.
+      <DefaultText>- Seres humanos também são animais, sim? Igual a mulheres bestas. Só são menores - mais fracos. Morrem com facilidade. Então a Beastwoman protege seus companheiros de predadores com garras rasgadas e dentes mortais. Mantém os companheiros de matilha seguros.
 
 Ela se inclina para o chão e abaixa a cabeça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>462</ID>
-      <DefaultText>"Ok, então talvez tenha sido um pouco duro. Então eu não tive a chance de formar uma opinião muito forte sobre eles. Melhor?"</DefaultText>
+      <DefaultText>"Ok, então talvez isso tenha sido um pouco duro. Vamos apenas dizer que em minha breve vida eu não tive muita experiência com os Beastmen, então eu não tive a chance de formar uma opinião muito forte sobre eles. Melhor?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>"Kills-in-Shadow perdoa pequeno nação canção. Ainda gosta de chitter Arconte".
+      <DefaultText>"Kills-in-Shadow perdoa pequeno pássaro canção. Ainda gosta de chitter Archon".
 
 Ela lambe as presas, observando Sirin com a intensidade de um gato olhando para um pássaro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>"Beastmen, então eu não tive a chance de formar uma opinião sobre eles."</DefaultText>
+      <DefaultText>"Vamos apenas dizer que na minha breve vida eu não tive muita experiência com os Beastmen, então eu não tive a chance de formar uma opinião sobre eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>"Se eu nunca falar com outro membro do coro a vida toda, considere um sucesso, não importa o que aconteça." Ela cruzou os braços sobre o peito e deu um olhar de aço para você.</DefaultText>
+      <DefaultText>"Se eu nunca falar com outro membro do coro a vida toda, considerarei um sucesso, não importa o que aconteça." Ela cruza os braços sobre o peito e nivela um olhar de aço para você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>"Então fico emocionado em executar sua tentativa de sucesso em uma constante."</DefaultText>
+      <DefaultText>"Então fico emocionado em transformar sua tentativa de sucesso em um fracasso constante. Vou tentar falar com você com mais frequência."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>"Oh, verso ... qualquer coisa que eu entorpece ao som da sua voz. Agora, você é importante? Estou falando com o Fatebinder."</DefaultText>
+      <DefaultText>"Oh, verso ... qualquer coisa que me entorpece ao som da sua voz. Agora, você se importa? Estou falando com o Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1976,22 +1976,22 @@ Ela lambe as presas, observando Sirin com a intensidade de um gato olhando para 
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>"Absolutamente não! A Única Razão Que Eu trabalhei com ELES E Porque eu estava Sendo Forcada um ISSO. Uma vez that [url=glossary:kyros]Kyros[/url] tinha ESSA monstruosidade colocada na Minha Cabeça, eu Realmente Não tiva ESCOLHA".</DefaultText>
+      <DefaultText>"Absolutamente não! A única razão que eu trabalhei com eles é porque eu estava sendo forçada a isso. Uma vez que [url=glossary:kyros]Kyros[/url] tinha essa monstruosidade colocada na minha cabeça, eu realmente não tive escolha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>"Eu não sou forte o suficiente para forçar os que me deixam e os que têm os números para mim", "Eu fiz o que me pedi" - até que você apareceu.</DefaultText>
+      <DefaultText>"Eu não sou forte o suficiente para forçá-los a me deixar ir e eles tinham os números para me sobrecarregar se eu tentasse qualquer coisa. Então, eu fiz o que me foi dito - até que você apareceu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>"Para um minuto. Você ligou para [url=glossary:kyros]Kyros[/url] 'ele' e 'ela'".</DefaultText>
+      <DefaultText>"Espere um minuto. Você ligou para [url=glossary:kyros]Kyros[/url] 'ele' e 'ela'".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>"Eu fiz isso? Desapareceu um deslize da língua." Ela sorri maliciosamente.</DefaultText>
+      <DefaultText>"Eu fiz? Que desajeitado de mim. Deve ter sido um deslize da língua." Ela sorri maliciosamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2006,12 +2006,12 @@ Ela lambe as presas, observando Sirin com a intensidade de um gato olhando para 
     </Entry>
     <Entry>
       <ID>475</ID>
-      <DefaultText>O Fatebinder é uma audiência que não se refere à sua audiência.</DefaultText>
+      <DefaultText>"Você realmente não sabe, não é? Isso é fascinante! Eu presumi que um Fatebinder teria uma audiência com ele. Não parece que ela deixou você realizar ações em seu nome sem falar com você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>"Isso é parte da mística, não é? Então, por que [url=glossary:kyros]Kyros[/url] deixar o que não queria que o mundo soubesse?"</DefaultText>
+      <DefaultText>"Isso é parte da mística, não é? Se seus inimigos não sabem nada sobre você, como eles podem planejar adequadamente? Então, por que [url=glossary:kyros]Kyros[/url] deixou escapar que ele não queria que o mundo soubesse?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2021,84 +2021,84 @@ Ela lambe as presas, observando Sirin com a intensidade de um gato olhando para 
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>"Não tem que se preocupar com os seus desejos." A vontade vai embora.</DefaultText>
+      <DefaultText>"Não ... Uma senhora tem que manter alguns segredos e isso vai ser meu. É bom ter algum poder nesse relacionamento. Não vai importar uma vez que você o derrote, de qualquer forma. Ela vai embora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>"Agora, espere um momento quente aqui. Você pode ser capaz de fazer isso!"</DefaultText>
+      <DefaultText>"Agora espere um momento quente aqui ... Eu pensei que você soubesse se [url=glossary:kyros]Kyros[/url] faz xixi em pé ou para baixo! Você é tão cheio de merda".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>"Fatebinder! Estou chocado com você - mentindo para Eb assim!</DefaultText>
+      <DefaultText>"Fatebinder! Estou chocado com você - mentindo para Eb assim! Embora seja meio difícil dizer com toda essa armadura, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>"Eu posso pedir às pessoas para removê-lo, mas eu sei que eles não são capazes. Isso não me impede de tentar, no entanto."</DefaultText>
+      <DefaultText>"Eu posso pedir às pessoas para removê-lo, mas eu sei que eles não serão capazes. Isso não vai me impedir de tentar, no entanto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>"Uma brisa suave de seu cartão de pagamento enquanto ela fala."
+      <DefaultText>"Você se lembra de mim, Fatebinder? Agora, não me decepcione. Nós trabalhamos juntos no [url=glossary:vellum citadel]Vellum Citadel[/url]. [url=lore:bl_sirin_song]You used my voice to subdue those naughty Sages who tried to escape.[/url]22" A brisa suave de suas palavras ganha força enquanto ela fala.
 
-Ela se aproxima, um grupo se separando diante dela. Eles são vistos e olham para você de forma conflituosa, alguns deles se interpõem entre você e a garota. Ela olha para eles revirando os olhos. Quando ela faz, o som da tempestade se aproxima.</DefaultText>
+Ela se aproxima, a multidão se separando diante dela. Eles se viram e olham para você confrontadamente, alguns deles se interpondo entre você e a garota. Ela olha para eles revirando os olhos. Quando ela faz, o som da tempestade se aproxima.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>618</ID>
-      <DefaultText>"Honestamente. O que passa por guardas estes dias, não é nada como [url=lore:bl_sirin_song]the Disfavored guards you gave me[/url]." É uma pena que eles morreram do jeito que eles fizeram. "</DefaultText>
+      <DefaultText>"Honestamente. O que passa por guardas estes dias, certo? Não é nada como [url=lore:bl_sirin_song]the Disfavored guards you gave me[/url]. É uma pena que eles morreram do jeito que eles fizeram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>619</ID>
-      <DefaultText>"Oh, bem ... Vida em [url=glossary:kyros]Kyros[/url] 'empregar é perigoso. Pelo menos, é para a maioria das pessoas."</DefaultText>
+      <DefaultText>"Oh, bem ... Vida em [url=glossary:kyros]Kyros[/url] 'empregar é perigoso. Pelo menos, é para a maioria das pessoas. Eu sou bem capaz de cuidar de mim mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>620</ID>
-      <DefaultText>"Honestamente. O que passa por guardas estes dias, não é nada como [url=lore:bl_sirin_song]the Disfavored guards you gave me[/url]." É uma pena que eles morreram do jeito que eles fizeram. "</DefaultText>
+      <DefaultText>"Honestamente. O que passa por guardas estes dias, certo? Não é nada como [url=lore:bl_sirin_song]the Disfavored guards you gave me[/url]. É uma pena que eles morreram do jeito que eles fizeram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>"Oh, bem ... Vida em [url=glossary:kyros]Kyros[/url] 'empregar é perigoso. Pelo menos, é para a maioria das pessoas."</DefaultText>
+      <DefaultText>"Oh, bem ... Vida em [url=glossary:kyros]Kyros[/url] 'empregar é perigoso. Pelo menos, é para a maioria das pessoas. Eu sou bem capaz de cuidar de mim mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>"Você tem que agradecer pela sua ajuda? Da última vez que estivemos aqui. O que é meu primeiro rejuvenescimento?" "</DefaultText>
+      <DefaultText>"Embora eu suponha que eu deva agradecer pela sua 'ajuda' da última vez que estivemos aqui. Havia algo decididamente ... desagradável sobre aquele grupo. Este se sente muito melhor. Dar meu antigo rebanho para o Coro significa que eu começo de novo. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>623</ID>
-      <DefaultText>"Parece que ele está aqui para mim machucar?" Se você gosta de compartilhar um segredo.</DefaultText>
+      <DefaultText>"Parece que ele está aqui para me machucar?" Ela retorna seu olhar para você e se inclina para frente como se quisesse compartilhar um segredo.</DefaultText>
       <FemaleText>"Does it look like she's here to hurt me?" She returns her gaze to you and leans forward as if to share a secret.</FemaleText>
     </Entry>
     <Entry>
       <ID>624</ID>
-      <DefaultText>"Honestamente. O que passa por guardas estes dias, não é nada como [url=lore:bl_sirin_song]the Disfavored guards you gave me[/url]." É uma pena que eles morreram do jeito que eles fizeram. "</DefaultText>
+      <DefaultText>"Honestamente. O que passa por guardas estes dias, certo? Não é nada como [url=lore:bl_sirin_song]the Disfavored guards you gave me[/url]. É uma pena que eles morreram do jeito que eles fizeram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>625</ID>
-      <DefaultText>"Oh, bem ... Vida em [url=glossary:kyros]Kyros[/url] 'empregar é perigoso. Pelo menos, é para a maioria das pessoas."</DefaultText>
+      <DefaultText>"Oh, bem ... Vida em [url=glossary:kyros]Kyros[/url] 'empregar é perigoso. Pelo menos, é para a maioria das pessoas. Eu sou bem capaz de cuidar de mim mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>"Não me importo com o que está tentando me proteger. Não me importo com o que estou dizendo?" Ela faz um gesto desdenhoso em direção ao grupo.</DefaultText>
+      <DefaultText>"Não que eu me importe com eles tentando me proteger. Mesmo que eles não tenham realmente intenção ... suponho que você está aqui para me dizer que não posso reunir outro rebanho?" Ela faz um gesto desdenhoso em direção ao grupo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>"Quando eu recebi a notícia de que ele tinha sido encontrado, eu convidei para a corte. Eu queria ver o homem que tinha me condenado à vida que eu estava levando."</DefaultText>
+      <DefaultText>"Quando eu recebi a notícia de que ele tinha sido encontrado, eu o convidei para a corte. Eu queria ver o homem que havia me condenado à vida que eu estava levando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>628</ID>
-      <DefaultText>Você pode ver o que você está procurando, ou seja, ouvir as palavras em voz alta.</DefaultText>
+      <DefaultText>Do canto do seu olho, você vê Verse colocar as mãos nos ouvidos, virando a cabeça para longe de Sirin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2108,234 +2108,234 @@ Ela se aproxima, um grupo se separando diante dela. Eles são vistos e olham par
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>"[url=glossary:tunon]Tunon[/url] está presente, você pode encontrar, não é? Não se deixe ficar satisfeito, podemos? Vamos controlá-la. Vamos começar a fazer o que é preciso e não fazer? Vamos usar-la para destruir nações!" "Ela, ela fala, a happy and the breath of the sun away and the ash."</DefaultText>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] provavelmente insistiu que você me encontrasse, não é? Porque não podemos deixar Sirin se divertir, podemos? Vamos controlá-la. Vamos dizer a ela o que ela pode e não pode fazer. Vamos usá-la para destruir nações!" " Enquanto ela fala, a multidão ao seu redor parece agitada e o ar na sala fica pesado e quente. De repente, ela sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>"[url=glossary:tunon]Tunon[/url] está presente, você pode encontrar, não é? Não se deixe ficar satisfeito, podemos? Vamos controlá-la. Vamos começar a fazer o que é preciso e não fazer? Vamos usar-la para destruir nações!" "Ela, ela fala, a happy and the breath of the sun away and the ash."</DefaultText>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] provavelmente insistiu que você me encontrasse, não é? Porque não podemos deixar Sirin se divertir, podemos? Vamos controlá-la. Vamos dizer a ela o que ela pode e não pode fazer. Vamos usá-la para destruir nações!" " Enquanto ela fala, a multidão ao seu redor parece agitada e o ar na sala fica pesado e quente. De repente, ela sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>"[url=glossary:tunon]Tunon[/url] está presente, você pode encontrar, não é? Não se deixe ficar satisfeito, podemos? Vamos controlá-la. Vamos começar a fazer o que é preciso e não fazer? Vamos usar-la para destruir nações!" "Ela, ela fala, a happy and the breath of the sun away and the ash."</DefaultText>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] provavelmente insistiu que você me encontrasse, não é? Porque não podemos deixar Sirin se divertir, podemos? Vamos controlá-la. Vamos dizer a ela o que ela pode e não pode fazer. Vamos usá-la para destruir nações!" " Enquanto ela fala, a multidão ao seu redor parece agitada e o ar na sala fica pesado e quente. De repente, ela sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>"[url=glossary:tunon]Tunon[/url] está presente, você pode encontrar, não é? Não se deixe ficar satisfeito, podemos? Vamos controlá-la. Vamos começar a fazer o que é preciso e não fazer? Vamos usar-la para destruir nações!" "Ela, ela fala, a happy and the breath of the sun away and the ash."</DefaultText>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] provavelmente insistiu que você me encontrasse, não é? Porque não podemos deixar Sirin se divertir, podemos? Vamos controlá-la. Vamos dizer a ela o que ela pode e não pode fazer. Vamos usá-la para destruir nações!" " Enquanto ela fala, a multidão ao seu redor parece agitada e o ar na sala fica pesado e quente. De repente, ela sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>"[url=glossary:tunon]Tunon[/url] está presente, você pode encontrar, não é? Não se deixe ficar satisfeito, podemos? Vamos controlá-la. Vamos começar a fazer o que é preciso e não fazer? Vamos usar-la para destruir nações!" "Ela, ela fala, a happy and the breath of the sun away and the ash."</DefaultText>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] provavelmente insistiu que você me encontrasse, não é? Porque não podemos deixar Sirin se divertir, podemos? Vamos controlá-la. Vamos dizer a ela o que ela pode e não pode fazer. Vamos usá-la para destruir nações!" " Enquanto ela fala, a multidão ao seu redor parece agitada e o ar na sala fica pesado e quente. De repente, ela sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>"A única vez que eu me diverti foi quando cheguei a causar caos. [url=lore:right_command]Like encouraging them to fight each other to prove their superiority.[/url] Obrigado, a propósito, por permitir que continue enquanto durar ..."</DefaultText>
+      <DefaultText>"A única vez que eu me diverti foi quando cheguei a causar caos. [url=lore:right_command]Like encouraging them to fight each other to prove their superiority.[/url] Obrigado, a propósito, por permitir que isso continue enquanto durar ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>"A mãe colocou a mão no meu ombro e na minha frente, querendo que eu não me lembre". da minha mente, eu sabia que algo estava errado, mas eu sabia que minha mãe cuidaria disso ”.</DefaultText>
+      <DefaultText>"Minha mãe colocou a mão no meu ombro e pisou na minha frente, dizendo algo que eu não me lembro. O pássaro pousou em uma árvore acima de nós e eu não conseguia parar de assistir. Suas asas batiam ocasionalmente, quase preguiçosamente. No fundo da minha mente, eu sabia que algo estava errado, mas eu sabia que minha mãe cuidaria disso ”.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>Você pode gostar do que pode ser visto, uma culpa que lhe dá atenção todos os dias. "O fardo deve ser demais para suportar".</DefaultText>
+      <DefaultText>"Então eu cantei uma canção para ele. Eu disse a ele como ele parecia cansado, como ele parecia abatido. Eu falei sobre o cansaço que ele deve sentir, a culpa que certamente o atormentava todos os dias. Perguntei como ele suportou o peso de sua traição. O fardo deve ser demais para suportar ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>638</ID>
-      <DefaultText>"Eu finalmente percebi que não havia sido tão isolado na festa, porque eu tinha exercido a minha própria vontade sobre o Senhor e sobre a boa razão para pedir minha morte, eu não poderia ter sido feito depois disso."</DefaultText>
+      <DefaultText>"Eu finalmente percebi que não poderia ter sido punido na festa, porque [url=glossary:kyros]Kyros[/url] teria que admitir que eu tinha exercido minha vontade sobre o Overlord! E sem uma boa razão para pedir a minha morte, eu não poderia ter sido executado depois. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>"Eu era o Songbird! A vontade e a vontade de exteritos. Você pode melhorar a sua amaterapia de recrutamento?"</DefaultText>
+      <DefaultText>"Eu era o Songbird! Eu não fiz nada além de espalhar [url=glossary:kyros]Kyros[/url] 'vontade e reunir os exércitos. Você executaria sua melhor e mais amada ferramenta de recrutamento?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>640</ID>
-      <DefaultText>"Ele sorriu e abriu os braços para me abraçar e querer que alguém encontrasse meu peito e apertou meu coração - enviando ódio inundando minhas veias."</DefaultText>
+      <DefaultText>"Então ele olhou para cima e sorriu. Ele sorriu quando me viu. Você pode acreditar nisso? Ele sorriu e abriu os braços para me abraçar e parecia que alguém alcançou meu peito e apertou meu coração - enviando ódio inundando minhas veias. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>641</ID>
-      <DefaultText>"Eu me apresentei. Eu cantei, dancei, convenci as pessoas a participar. Então, no meio disso tudo, eu tive uma idéia brilhante de trabalhar mais uma performance no show, algo que seria o fim definitivo para o show. Tarde."</DefaultText>
+      <DefaultText>"Então eu me apresentei. Eu cantei, dancei, convenci as pessoas a participar. Então, no meio disso tudo, eu tive uma brilhante idéia de trabalhar mais uma performance no show, algo que seria o fim definitivo para o show. tarde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>642</ID>
-      <DefaultText>"Eu adicionei um contraponto à minha música e o meu direcionamento para [url=glossary:kyros]Kyros[/url]. Nele, mencionei que pode ser sera interesse de todos os [url=glossary:kyros]Kyros[/url] acabar empalado em uma espada. Eu honestamente não é o que funciona, mas por que não tentar, certo?"</DefaultText>
+      <DefaultText>"Eu adicionei um contraponto à minha música e o direcionei para [url=glossary:kyros]Kyros[/url]. Nele, mencionei que pode ser do interesse de todos se [url=glossary:kyros]Kyros[/url] acabar empalado em uma espada. Eu honestamente não achei que funcionaria, mas por que não tentar , certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>643</ID>
-      <DefaultText>"Então eles me amordaçaram. Eles foram colocados em minha mente quando eu não estava na aula. Eu sempre passei pela moda." De fala, mas nada saiu ".</DefaultText>
+      <DefaultText>"Então eles me amordaçaram. Eles sabiam que simplesmente segurar minha boca fechada não seria suficiente, então eles foram criativos. Usando magia, eles colocaram minha voz em estase quando eu não estava na aula. Eu poderia passar pelos movimentos." de fala, mas nada saiu ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>644</ID>
-      <DefaultText>The job was like it, they me distributed like, they me bateram, you was a escrava deles. "</DefaultText>
+      <DefaultText>"Oh, eles tiveram prazer nisso. Entre as aulas eles me deram tarefas, eles me repreenderam, eles me bateram. Eu era a escrava deles. A única razão pela qual eu vivia era por vontade, mas eu fui torturado por todos os outros."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>645</ID>
-      <DefaultText>"Eu me importo com a sua condescendência. Eu tenho a minha própria saúde e as suas regras de pagamento."</DefaultText>
+      <DefaultText>"Eu me cansei de sua condescendência. Eu os odiei por me tratar como uma criança. Suas regras, sua disciplina, seu treinamento. Eles mataram minha mãe, e eu os faria pagar por isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>646</ID>
-      <DefaultText>"Comecei a cantarolar, nada que atraísse sua atenção, é claro. Uma canção de nascimento da minha mãe cantada para mim. Arranjo, pensamento, para invadir a mente e o homem com uma música que me foi ensinada pela mulher que os destruía."</DefaultText>
+      <DefaultText>"Comecei a cantarolar, nada que atraísse sua atenção, é claro. Uma canção de ninar que minha mãe cantou para mim. Arranjo, pensei, para invadir a mente desse homem com uma música que me foi ensinada pela mulher que destruíram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>"Uma janela ', eu cantei para ele.' Olha. O que está na janela? ' Ele se tornou, em transe e olhou para fora, sua boca se movendo silenciosamente enquanto sonhava com uma resposta para a minha pergunta. "</DefaultText>
+      <DefaultText>"Então eu trabalhei em minhas palavras. 'A janela', eu cantei para ele. 'Olha. O que está na janela?' Ele se virou, em transe e olhou para fora, sua boca se movendo silenciosamente enquanto ele sonhava com uma resposta para a minha pergunta. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>"Claro, eu não queria que ele estivesse. Ele estava procurando pela janela e estendeu a mão, como para tocar ... o que quer que ele olhe e olhe antes que eu pudesse detê-lo, ele se foi. você pode pegar enquanto tudo enquanto caía de vista ".</DefaultText>
+      <DefaultText>"Claro, eu não queria que ele caísse. Ele estava olhando pela janela e estendeu a mão, como se para tocar ... o que quer que ele estivesse olhando e antes que eu pudesse detê-lo, ele se foi. Parecia ele estava tentando pegar alguma coisa enquanto caía de vista ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>"Está voando em direção à nossa casa. O único detalhe que eu mostro é o pássaro. A era azul com manchas vermelhas em suas asas e era tão bonito. Aterrissou em uma posição e ficou imóvel enquanto se tornava"</DefaultText>
+      <DefaultText>"Estávamos andando em direção à nossa casa. O único detalhe que me lembro com clareza é o pássaro. Era azul com manchas vermelhas em suas asas e era tão bonito. Aterrissou em um poste e ficou imóvel enquanto a aldeia se tornara "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>650</ID>
-      <DefaultText>"Minha mãe estava me trazendo para casa de ser o Songbird. Eu não era meu filho. Era um filho de alguém que tinha um pé dolorido? Tudo o que eu pedia para fazer uma mistura agora."</DefaultText>
+      <DefaultText>"Minha mãe estava me trazendo para casa de ser o Songbird. Eu nem me lembro para que era. O filho de alguém estava doente? A escrava de alguém tinha um pé dolorido? Tudo o que me pediram para fazer uma mistura agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] pagou muito mais do que o simples fazendeiro poderia ser o mesmo que o lucro, o ganho, o ganho de um prazo curto".</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] pagou muito mais do que um simples fazendeiro poderia. E mesmo que o lucro a longo prazo de receber vários pequenos pagamentos acabasse por compensar o que meu pai deu a ele, ele só viu o ganho a curto prazo".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>652</ID>
-      <DefaultText>"Eu ainda estava vivo, procurando por algo em algum lugar, implorando por todos os que foram vistos para encontrar o seu próprio pai."
+      <DefaultText>"Eu sonhei que ele ainda estava vivo, procurando por mim em algum lugar, implorando a todos que ele viu para ajudá-lo a encontrar o seu pássaro canoro. No entanto, ele foi o único que virou todo mundo sobre nós."
 
 "Mas ele está morto agora e eu não preciso mais me preocupar com ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>653</ID>
-      <DefaultText>"Eu não me importo para começar a voar e as suas energias para crescer. Ela me disse" logo seria muito difícil para ela viajar comigo ".</DefaultText>
+      <DefaultText>"Eu lembro da minha mãe falando sobre eu ter um irmãozinho. Não demorou muito para eu começar a cantar e meus poderes começaram a crescer. Ela me disse que logo seria muito difícil para ela viajar comigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>654</ID>
-      <DefaultText>"Não foi uma viagem que chegou e eu sabia que ela não iria embora."
+      <DefaultText>"Houve uma viagem chegando e eu sabia que ela não iria. Eu não podia suportar a idéia de todos aqueles dias sob os cuidados de meu pai."
 
-Sua voz se quebra e ela fecha os olhos.</DefaultText>
+Sua voz se quebra novamente e ela fecha os olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>"Nerat saiu do meu pai me vendeu para [url=glossary:kyros]Kyros[/url] e foi necessário para a morte da mãe. Um homem teve uma criança?"
+      <DefaultText>"Nerat deixou escapar que meu pai me vendeu para [url=glossary:kyros]Kyros[/url] e foi responsável pela morte da minha mãe. Alguém teve que colocar a multidão no ovo. E alguém teve que dizer [url=glossary:kyros]Kyros[/url] 'homens onde eu estava ..."
 
-"Não importa isso. Ele está morto e eu estou melhor sem ele."</DefaultText>
+"Não que isso importe. Ele está morto e eu estou melhor sem ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>656</ID>
-      <DefaultText>"Alguns dos gritos eram eu, mas o fim vinha da aldeia. Parecia que tinham uma batalha. As pessoas estavam reunidas sobre as outras, com sangue cobrindo suas mãos, suas bocas."</DefaultText>
+      <DefaultText>"Alguns dos gritos eram eu, mas o resto vinha das pessoas da aldeia. Parecia que houve uma batalha. Havia corpos por toda parte. Algumas pessoas estavam inclinadas sobre as outras, sangue cobrindo suas mãos, suas bocas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>657</ID>
-      <DefaultText>"Eles me ensinaram a refinar e a controlar minha voz. Meu poder tornou-se mais direcionado, mais poderoso, mais sutil. Eu não precisava mais me ajudar a fazer o que as pessoas fizessem."</DefaultText>
+      <DefaultText>"Eles me ensinaram a refinar e controlar minha voz. Meu poder tornou-se mais direcionado, mais poderoso, mais sutil. Eu não precisava mais dizer especificamente o que eu queria que as pessoas fizessem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>658</ID>
-      <DefaultText>Tudo foi feito para a edificação. As pessoas elogiaram o seu poder, e eu estava acostumada a trazer-as de volta. foi sufocado rapidamente ".</DefaultText>
+      <DefaultText>"Tudo foi feito para a edificação. Eles pediram sinais de seu poder, e eu estava acostumada a trazê-los de volta. As pessoas elogiavam meu nome - na medida em que isso era permitido. Mas se o foco de adoração realmente apontasse para mim, foi rapidamente sufocado ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>659</ID>
-      <DefaultText>"Eu estava desfilando como uma nova jóia, e como eu tinha o poder real, demorava um pouco para o brilho desvanecer. Mas quando me embaciava, corroía.</DefaultText>
+      <DefaultText>"Eu estava desfilando como a nova jóia, e como eu tinha o poder real, demorava um pouco para o brilho desvanecer. Mas quando me embaciava, corroía. E quando deixei de ser uma agradável distração, fui passado para Nerat para ser esquecido ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>660</ID>
-      <DefaultText>"Como foi localizado na escola. Foi um tempo maravilhoso e horrível. Aprendi a controlar e maximizar meu poder. Mas eles me subestimaram as habilidades ou superestimaram como eles foram.</DefaultText>
+      <DefaultText>"Então fui colocado na escola. Foi um tempo maravilhoso e horrível. Aprendi a controlar e maximizar meu poder. Mas eles subestimaram minhas habilidades ou superestimaram as deles. Acho que foi mais do que o anterior."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>661</ID>
-      <DefaultText>"Um grupo de ﬁ m de poder acabou se instalando perto de um outro e essa era uma minha aldeia. Éramos cerca de 32 quilômetros do Resto das Sombras - e você também não está livre de falar.</DefaultText>
+      <DefaultText>"Um grupo de famílias acabou se instalando perto um do outro e essa era a minha aldeia. Era cerca de 32 quilômetros do Resto das Sombras - e você provavelmente não ouviu falar disso também. Nós éramos agricultores - pobres e isolados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>662</ID>
-      <DefaultText>"Além disso, você pode me enviar uma mensagem para remover e, se possível, provocar um mentiroso, adore dizer a verdade se quiser mais um pouco de dor."</DefaultText>
+      <DefaultText>"Além disso, Nerat me disse que o capacete me mataria se eu o removesse e, embora possa ser um monstro mentiroso, adore dizer a verdade se a verdade causar um pouco mais de dor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>663</ID>
-      <DefaultText>"Assistir você em ação poderia ser uma vantagem que eu preciso para desbloquear uma torre própria ..."
+      <DefaultText>"Assistir você em ação poderia me dar a vantagem que eu preciso para desbloquear uma torre própria ..."
 
-Tudo bem. Seja o presente glorioso da minha presença em sua festa.</DefaultText>
+"Tudo bem. Vou permitir-lhe o presente glorioso da minha presença em sua festa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>664</ID>
-      <DefaultText>"'Sirin ...' ela disse, procurando ao redor quando uma pedra bateu com um baque, mandando o pássaro para o ar. Eu estava olhando para a minha mãe. de nós. "</DefaultText>
+      <DefaultText>"'Sirin ...' ela disse, olhando ao redor quando uma pedra bateu na cerca com um baque, mandando o pássaro para o ar. Eu olhei para a minha mãe. Ela estava olhando por cima do meu ombro para as pessoas reunidas atrás de nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>665</ID>
-      <DefaultText>"Ele estava simplesmente esperando minha mãe e eu sairmos por alguns dias para que ele pudesse falar sem medo da minha mãe descobrir".</DefaultText>
+      <DefaultText>"Ele estava simplesmente esperando minha mãe e eu sairmos por alguns dias para que ele pudesse falar sem medo de minha mãe descobrir".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>"Os gritos da minha mãe cortaram uma música. E o sangue. Estava em toda parte. Eu fui arrastado da sala, mas não me lembro quem me levou."</DefaultText>
+      <DefaultText>"Os gritos de minha mãe cortaram a música. E o sangue. Estava em toda parte. Eu fui arrastado da sala, mas não me lembro quem me levou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>667</ID>
-      <DefaultText>"Em algum lugar onde você pode se deparar com uma falha de atenção. Não importa o que você quer, não confie nele - isso sempre terminará mal."</DefaultText>
+      <DefaultText>"Em algum lugar dentro daquela mente caótica, eu vi os desejos mais depravados e perturbadores que tive a infelicidade de sentir. Não importa o que Nerat diga a você, não confie nele - isso sempre terminará mal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>668</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] queria-me. E o que [url=glossary:kyros]Kyros[/url] quer, [url=glossary:kyros]Kyros[/url] leva. Nada fica no caminho."</DefaultText>
+      <DefaultText>"Mas mesmo que não tivesse sido então, teria sido logo depois. [url=glossary:kyros]Kyros[/url] queria-me. E o que [url=glossary:kyros]Kyros[/url] quer, [url=glossary:kyros]Kyros[/url] leva. Nada fica no caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>670</ID>
-      <DefaultText>"Você se lembra de mim, Fatebinder? Ágora, não me desapontarei. [url=lore:right_command]I was having a little fun with the Scarlet Chorus and you decided to get involved.[/url]" A brisa suave de seu cartão de pagamento enquanto ela fala.
+      <DefaultText>"Você se lembra de mim, Fatebinder? Agora, não me desaponte. [url=lore:right_command]I was having a little fun with the Scarlet Chorus and you decided to get involved.[/url]" A brisa suave de suas palavras ganha força enquanto ela fala.
 
-Ela se aproxima, um grupo se separando diante dela. Eles são vistos e olham para você de forma conflituosa, alguns deles se interpõem entre você e a garota. Ela olha para eles revirando os olhos. Quando ela faz, o som da tempestade se aproxima.</DefaultText>
+Ela se aproxima, a multidão se separando diante dela. Eles se viram e olham para você confrontadamente, alguns deles se interpondo entre você e a garota. Ela olha para eles revirando os olhos. Quando ela faz, o som da tempestade se aproxima.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>"Honra ', Fatebinder? [url=glossary:tunon]Tunon[/url] está fazendo outra coisa de suas birras?"</DefaultText>
+      <DefaultText>"Para o que eu devo essa incrível 'honra', Fatebinder? [url=glossary:tunon]Tunon[/url] está jogando outra de suas birras? Ameaçando a todos se eles não me encontrarem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>672</ID>
-      <DefaultText>"Você pode chamar de Sirin, o Arconte da Canção." Ela sorri friamente e inclina-se para a frente em um arco simulado.</DefaultText>
+      <DefaultText>"Você pode me chamar de Sirin, o Arconte da Canção." Ela sorri friamente e se inclina ligeiramente para a frente em um arco simulado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>673</ID>
-      <DefaultText>"Qual era o problema do bebê de Amelia?"</DefaultText>
+      <DefaultText>"Qual era o problema do bebê de Amelia? Se eu pedir para você fazer alguma coisa, eu espero que você faça isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>674</ID>
-      <DefaultText>"Sempre o guardião cuidadoso, Fatebinder. O que fazer é me matar?"
+      <DefaultText>"Sempre o guardião cuidadoso, Fatebinder. Faz o coração cantar. Me desculpe se matar um bebê não vem tão facilmente para mim como obviamente faz para você."
 
-"Eu não gosto de ser usado para fazer coisas horríveis que você não tem coragem de fazer sozinho."</DefaultText>
+"E eu não gosto de ser usado para fazer as coisas horríveis que você não tem coragem de fazer sozinho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2345,163 +2345,163 @@ Ela se aproxima, um grupo se separando diante dela. Eles são vistos e olham par
     </Entry>
     <Entry>
       <ID>676</ID>
-      <DefaultText>"Um líder delega responsabilidade."</DefaultText>
+      <DefaultText>"Um líder delega responsabilidade. Você não precisa gostar, você só tem que fazer isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>677</ID>
-      <DefaultText>"Quando ele faz isso, você sabe 'não de novo'. O que você quer dizer com isso?"</DefaultText>
+      <DefaultText>"Quando lhe pedi para fazer isso, você disse 'não de novo'. O que você quer dizer com isso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>678</ID>
-      <DefaultText>"Não se pode fingir ser um paradigma virtuoso, Fatebinder, porque essa história não é vendida aqui."</DefaultText>
+      <DefaultText>"Como se você estivesse obedecendo às ordens do [url=glossary:kyros]Kyros[/url]? Não tente fingir ser um paradigma virtuoso, Fatebinder, porque essa história não vai vender aqui. Eu fiz o que você me pediu. E, não, eu não gostei. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>679</ID>
-      <DefaultText>"Eu vou te contar a história, goste ou não, certo?" Ela suspira, balancing a cabeça, os ombros caídos. Ela parece se encolher.</DefaultText>
+      <DefaultText>"Eu diria a você para cuidar do seu negócio, mas eu não tenho escolha aqui, tenho? Vou ter que contar a história, goste ou não, certo?" Ela suspira, balançando a cabeça, os ombros caídos. Ela parece se encolher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>680</ID>
-      <DefaultText>Ela olha para você com um ritmo, seus lábios uma linha fina. Os olhos ficam vermelhos e se formam em suas pálpebras. Finalmente, ela balançou um pouco e quebrou seu silêncio.</DefaultText>
+      <DefaultText>Ela olha para você por um tempo, seus lábios uma linha fina. Seus olhos ficam vermelhos e lágrimas se formam em suas pálpebras. Finalmente, ela balança a cabeça lentamente e quebra seu silêncio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>681</ID>
-      <DefaultText>"Eu não me importo para começar a voar e as suas energias para crescer. Ela me disse" logo seria muito difícil para ela viajar comigo ".</DefaultText>
+      <DefaultText>"Eu lembro da minha mãe falando sobre eu ter um irmãozinho. Não demorou muito para eu começar a cantar e meus poderes começaram a crescer. Ela me disse que logo seria muito difícil para ela viajar comigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>682</ID>
-      <DefaultText>"Sirin, querida, ela disse, 'você tem que ir com o seu pai.'
+      <DefaultText>"'Sirin, querida', ela disse, 'você terá que ir com o seu pai. Não seria bom para o bebê se eu continuasse viajando assim. Talvez depois que seu irmão esteja aqui conosco, todos nós podemos viajar juntos.'"
 
 Sirin olha para o horizonte, sua voz se quebrando.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>683</ID>
-      <DefaultText>"Você não gostou de viajar com o pai?"</DefaultText>
+      <DefaultText>"Você não gostou de viajar com seu pai?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>684</ID>
-      <DefaultText>"Quando, na estrada, você pode ser totalmente livre de dinheiro. Uma vez que a estrada fez isso, você pode ter seus filhos e filhos, meu pai usava minha voz. "</DefaultText>
+      <DefaultText>"Não. Tudo o que ele queria era o dinheiro. Quando estávamos na estrada, ele me ignorava completamente. Eu era simplesmente algo para ganhar anéis. Uma ferramenta. Os fazendeiros da minha aldeia usavam seus ancinhos e carroças, meu pai usava minha voz. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>685</ID>
-      <DefaultText>"Continuar."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>686</ID>
-      <DefaultText>Você foi embora para mim e para os seus amigos e para as pessoas que se foram. nada poderia me machucar ".</DefaultText>
+      <DefaultText>"Todo mundo queria que o Songbird cantasse para eles e eles nos pagavam muito dinheiro. Então nós fomos. Mas eu não queria ficar sem minha mãe. Ela era o único conforto real que eu tinha. Quando eu estava com ela, eu senti seguro - nada poderia me machucar ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>687</ID>
-      <DefaultText>"Não foi uma viagem que chegou e eu sabia que ela não iria embora."
+      <DefaultText>"Houve uma viagem chegando e eu sabia que ela não iria. Eu não podia suportar a idéia de todos aqueles dias sob os cuidados de meu pai."
 
-Sua voz se quebra e ela fecha os olhos.</DefaultText>
+Sua voz se quebra novamente e ela fecha os olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>688</ID>
-      <DefaultText>"Então, eu estou indo para o meu irmãozinho. Eu estou indo para o meu irmãozinho. Eu quero que ele saia daqui agora ..."
+      <DefaultText>"Então, eu cantei para o meu irmãozinho. Eu disse a ele que estávamos todos esperando por ele. Eu disse a ele que precisávamos ser uma família para que pudéssemos viajar juntos. Eu disse a ele que ele deveria sair agora ..."
 
-"Eu não sei se eu quero que seja acontecesse, mas eu cantei como palavras que podem ser resistir a minha voz."</DefaultText>
+"Eu não sei se eu quis que isso acontecesse, mas eu cantei as palavras que ninguém pode resistir a minha voz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>689</ID>
-      <DefaultText>"Os gritos da minha mãe cortaram uma música. E o sangue. Estava em toda parte. Eu fui arrastado da sala, mas não me lembro quem me levou."</DefaultText>
+      <DefaultText>"Os gritos de minha mãe cortaram a música. E o sangue. Estava em toda parte. Eu fui arrastado da sala, mas não me lembro quem me levou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>690</ID>
-      <DefaultText>O padrão encharcou o meu sapato, o salpico na parte superior dos meus dedos não piscaram.</DefaultText>
+      <DefaultText>"Eu só lembro de olhar para o meu pé o resto da tarde. O padrão encharcou o meu sapato, o salpico na parte superior dos meus dedos do pé. Eu não consegui me limpar, eu apenas olhei para ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>691</ID>
-      <DefaultText>"Há muito tempo sua mãe estava grávida?"</DefaultText>
+      <DefaultText>"Há quanto tempo sua mãe estava grávida?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>692</ID>
-      <DefaultText>"O problema é que eu não sou capaz de fazer isso. Eu não acho que ele tenha sobrevivido. que foi a hora da minha mãe dar à luz. "</DefaultText>
+      <DefaultText>"Não o suficiente para meu irmão sobreviver. Talvez ele pudesse ter, eu não sei. O problema é que quando eu disse a ele que ele tinha que sair, eu não quis dizer que o queria vivo. Eu não acho que ele teria sobrevivido mesmo que fosse a hora da minha mãe dar à luz. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>693</ID>
-      <DefaultText>"Continuar."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>694</ID>
-      <DefaultText>"Como as pessoas iam e vinham todo dia. Havia muito choro. E ninguém veio da mesma maneira depois disso. Eu conheci o que tinha feito. de mim estava feliz ".</DefaultText>
+      <DefaultText>"As pessoas iam e vinham o dia todo. Houve muito choro. E ninguém me olhou da mesma maneira depois disso. Minha mãe me disse que coisas assim acontecem o tempo todo, mas mesmo às cinco, eu sabia o que tinha feito. E parte de mim estava feliz ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>695</ID>
-      <DefaultText>A minha mulher de volta, e eu peguei. Ela ainda me amava - ela morreu me protegendo - mas eu a aterrorizava. porque eu cantava, ela não suportava me ver ".</DefaultText>
+      <DefaultText>"Eu queria minha mãe de volta, e eu a peguei. Ela ainda me amava - ela morreu me protegendo - mas eu a aterrorizava. Toda vez que eu abria minha boca, eu a via vacilar. E depois que meu irmão morreu, ela nunca esteve por perto. quando eu cantava, ela não suportava me ver ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>696</ID>
-      <DefaultText>"Se você tem que chegar na mente de alguém para controlar, como você influenciar exércitos inteiros para fazer o que você quer?"</DefaultText>
+      <DefaultText>"Se você tem que chegar na mente de alguém para controlá-los, como você influenciou exércitos inteiros para fazer o que você quer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>697</ID>
-      <DefaultText>"Eu não posso influenciar um exército, mas eu posso ... persuadi-los a sentir do jeito que você quer. ".</DefaultText>
+      <DefaultText>"Eu não posso influenciar um exército, mas eu posso ... persuadi-los a se sentir do jeito que eu quero. Se eu quiser que alguém faça algo específico para mim, eu tenho que entrar na cabeça deles e isso requer muito mais esforço ".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>"Ninguém pode me manter fora, mas eles estão fazendo cientes do que estou fazendo, não posso permitir que eles façam nada. Pelo menos, não com a coisa na minha cabeça." Ela bate uma mão contra o capacete.</DefaultText>
+      <DefaultText>"Ninguém pode me manter fora, mas se eles estão cientes do que estou fazendo, não posso forçá-los a fazer nada. Pelo menos, não com essa coisa na minha cabeça." Ela bate a mão contra o capacete.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>699</ID>
-      <DefaultText>"Realmente, eu não sei como funciona, apenas acontece. Você pode me perguntar onde vem o raio."</DefaultText>
+      <DefaultText>"Realmente, eu não sei como isso funciona, apenas acontece. Você poderia também me perguntar de onde vem o raio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>700</ID>
-      <DefaultText>"Eu espero que você me ajude em um assunto delicado, mas não seja útil para mim."</DefaultText>
+      <DefaultText>"Eu esperava que você me ajudasse em um assunto delicado, mas parece que você não tem utilidade para mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>701</ID>
-      <DefaultText>"Você está satisfeito, Fatebinder? A história foi tudo o que você esperava?" Ela passa a mão nos olhos, farejando.</DefaultText>
+      <DefaultText>"Você está satisfeito, Fatebinder? A história foi tudo o que você esperava? Eu já expliquei o suficiente" Não de novo "para você?" Ela passa a mão nos olhos, farejando.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>702</ID>
-      <DefaultText>"Se você não pode tirá-lo, então por que você fez o removedor quando nos conhecemos?"</DefaultText>
+      <DefaultText>"Se você não pode tirá-lo, então por que você tentou me fazer remover quando nos conhecemos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>703</ID>
-      <DefaultText>"Você é tão sério quanto pode ser tão estúpido? Você é uma pessoa que pode ser capaz de se libertar. está a controlar um Fatebinder? "</DefaultText>
+      <DefaultText>"Como alguém tão poderoso pode ser tão estúpido? Eu sabia que você não seria capaz de removê-lo. Isso não é o que eu estava tentando fazer. Você é um Fatebinder! Você honestamente acha que eu ia deixar passar a oportunidade de tentar e controlar um Fatebinder? "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>704</ID>
-      <DefaultText>"Como você sabe que como defesas dele estavam baixas?"</DefaultText>
+      <DefaultText>"Como você sabe que as defesas dele estavam baixas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>"Continuar."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>706</ID>
-      <DefaultText>"Eu sei apenas ... sentir isso. Se alguém é um alerta ou está correndo, é muito mais difícil de entrar."</DefaultText>
+      <DefaultText>"Eu posso apenas ... sentir isso. Se alguém está alerta ou ciente do que está acontecendo, é muito mais difícil de entrar. Mas eu sei quando eles estão vulneráveis. Eu sei como aproveitar a abertura e subir certo dentro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2511,7 +2511,7 @@ Sua voz se quebra e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>708</ID>
-      <DefaultText>"Continuar."</DefaultText>
+      <DefaultText>"Continue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2521,27 +2521,27 @@ Sua voz se quebra e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>"Claro! Uma das garras as coisas que sairam do meu tempo com [url=glossary:kyros]Kyros[/url] foi a minha educação. O meu professor insistiu que eu seja treinado na maneira correta de falar com um corte real."</DefaultText>
+      <DefaultText>"Claro! Uma das únicas coisas boas que saíram do meu tempo com [url=glossary:kyros]Kyros[/url] foi a minha educação. Meus professores insistiram que eu seja treinado na maneira correta de falar com a corte real."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>711</ID>
-      <DefaultText>"Eu era frustrado com alguém mais velho, então acho que me livrei muito mais do que eu poderia ter cometido. Por todas as suas falhas, eles foram certificados de que eu estava devidamente educado."</DefaultText>
+      <DefaultText>"Eu era freqüentemente confundido com alguém mais velho, então eu acho que me livrei muito mais do que eu poderia ter de outra forma. Por todas as suas falhas, eles se certificaram de que eu estava devidamente educado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>712</ID>
-      <DefaultText>"Minha aula de teatro era aprender como convencer as pessoas a fazer o que você queria sem usar. Você estava nisso? Você chegou ao mundo? Mas era um assunto fascinante!"</DefaultText>
+      <DefaultText>"Minha aula favorita era aprender como convencer as pessoas a fazerem o que você queria sem usar magia. Você acredita nisso? Por que você arriscaria isso no mundo? Mas era um assunto fascinante!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>713</ID>
-      <DefaultText>"Você poderia me chamar alguns truques?"</DefaultText>
+      <DefaultText>"Você poderia me ensinar alguns truques?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>714</ID>
-      <DefaultText>"Certamente, Fatebinder! Não me lembro do meu treinamento, mas tenho certeza de que poderia ajudá-lo."</DefaultText>
+      <DefaultText>"Certamente, Fatebinder! Não me lembro de quanto do meu treinamento vou me lembrar, mas tenho certeza de que poderia ajudá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2556,17 +2556,17 @@ Sua voz se quebra e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>717</ID>
-      <DefaultText>"Bem, então vamos lá. Se você me ensinar como maravilhas do mundo, isso não vai acontecer aqui ..."</DefaultText>
+      <DefaultText>"Bem, então vamos lá. Se você vai me ensinar as maravilhas do mundo, isso não vai acontecer aqui ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>718</ID>
-      <DefaultText>Sua boca se abre em perfeita forma de O, e o som que sai é cativante, fascinante. Isso é uma maneira de fazer o movimento do espaço, para que possa existir além da voz dela.</DefaultText>
+      <DefaultText>Sua boca se abre em perfeita forma de O, e o som que sai é cativante, fascinante. Isso amortece a agitação do ambiente do corredor, até parece que nada existe além da voz dela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>719</ID>
-      <DefaultText>"Ao seu serviço, Arconte Sirin."</DefaultText>
+      <DefaultText>"Ao seu serviço, Archon Sirin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2576,7 +2576,7 @@ Sua voz se quebra e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>721</ID>
-      <DefaultText>You can that the helmet of the sirin está em uma fase da cabeça com um mecanismo complicado. Você não pode fazer nada além de destruir e libertar o Arconte, satisfazendo seu comando.</DefaultText>
+      <DefaultText>Você descobre que o capacete de Sirin está preso atrás da cabeça com um mecanismo complicado. Você não quer nada além de destruir a fechadura e libertar o Arconte, satisfazendo seu comando.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2586,7 +2586,7 @@ Sua voz se quebra e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>723</ID>
-      <DefaultText>"Isso é decepcionante. Vale a pena, suponho. Embora pareça um desperdício colossal de esforço." Ela suspira e dá um sorriso timido.</DefaultText>
+      <DefaultText>"É mesmo? É isso? Que decepcionante. Valeu a pena tentar, suponho. Embora pareça ter sido um colossal desperdício de esforço." Ela suspira e dá um sorriso tímido.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2606,35 +2606,35 @@ Sua voz se quebra e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>727</ID>
-      <DefaultText>"Se você puder manipular as suas palavras, imagine o poder de sua compulsão quando seu sigilo à sugestão."</DefaultText>
+      <DefaultText>"Uma classe como essa provavelmente se apropria de seus talentos singulares. Se você puder manipular alguém apenas com suas palavras, imagine o poder de sua compulsão quando acrescentar seu sigilo à sugestão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>728</ID>
-      <DefaultText>"Você é que uma aula foi feita apenas para o meu benefício? [url=glossary:kyros]Kyros[/url] se fosse."
+      <DefaultText>"Você acha que a aula foi criada apenas para o meu benefício? Quer dizer, eu não iria passar [url=glossary:kyros]Kyros[/url] se fosse."
 
-Ela é inclinada para perto e, não mais suave das carícias, tem lábios roçam sua orelha. "Quer que eu te ensine um truque ou dois?"
+Ela se inclina para perto e, no mais suave das carícias, seus lábios roçam sua orelha. "Quer que eu te ensine um truque ou dois?"
 
-Mas ela começou, sua voz, um zumbido baixo e zumbido, antes que você pudesse se formar uma resposta.</DefaultText>
+Mas ela começou, sua voz um zumbido baixo e zumbido, antes que você possa formar uma resposta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>729</ID>
-      <DefaultText>Palavras ou sons indiscriminados ao ouvido humano - uma linguagem que não deve ser interpretada por ninguém não ser o Arconte da Canção, além da amplitude do discernimento, mas inescapavelmente convincente - vinculante, dolorosamente dolorosa em uma única cadela e então euforicamente cumprindo uma mera intone mais tarde -
+      <DefaultText>Palavras ou sons indiscriminados ao ouvido humano - uma linguagem que não deve ser entendida por ninguém a não ser o Arconte da Canção, além da amplitude do discernimento, mas inescapavelmente convincente - vinculante, dolorosamente dolorosa em uma única cadela e então euforicamente cumprindo uma mera intone mais tarde -
 
-Você pode sentir o murmúrio de arrepiar em seu ouvido se calou.
+Você pisca e percebe que o murmúrio de arrepiar em seu ouvido se calou.
 
-Sirin recua com um suspiro satisfeito, sorrindo para você. E a imagem perfeita de um sigilo - uma invocação do nome dela - se marca nas profundezas da sua mente.</DefaultText>
+Sirin recua com um suspiro satisfeito, sorrindo para você. E a imagem perfeita de um sigilo - a invocação do nome dela - se marca nas profundezas da sua mente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>730</ID>
-      <DefaultText>Ela é inclinada para perto e, não mais suave das carícias, tem lábios roçam sua orelha.</DefaultText>
+      <DefaultText>Ela se inclina para perto e, no mais suave das carícias, seus lábios roçam sua orelha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>731</ID>
-      <DefaultText>"Muito bom. Contanto que você não deixe sair do controle ..."</DefaultText>
+      <DefaultText>"Muito bom. Contanto que você não deixe isso sair do controle ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2645,6 +2645,15 @@ Sirin recua com um suspiro satisfeito, sorrindo para você. E a imagem perfeita 
     <Entry>
       <ID>733</ID>
       <DefaultText>"Tudo o que você decidir, eu estou à sua disposição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>Palavras ou sons indiscriminados ao ouvido humano - uma linguagem que não deve ser entendida por ninguém a não ser o Arconte da Canção, além da amplitude do discernimento, mas inescapavelmente convincente - vinculante, dolorosamente dolorosa em uma única cadela e então euforicamente cumprindo uma mera intone mais tarde -
+
+Você pisca e percebe que o murmúrio de arrepiar em seu ouvido se calou.
+
+Sirin recua com um suspiro satisfeito, sorrindo para você. E a imagem perfeita de um sigilo - a invocação do nome dela - se marca nas profundezas da sua mente.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,21 +1,21 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_burninglibrary\0302_cv_effigy_maric_main</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>87</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"O que você quer? Já enfrentei tormentos suficientes nas mãos desses ... acadêmicos."
+      <DefaultText>"What do you want? I've already faced enough torments at the hands of these... scholars."
 
-O prisioneiro amarrado olha para você e lambe os lábios secos.
+The bound prisoner squints up at you and licks his dry lips.
 
-"Você é o Fatebinder do [url=glossary:tunon]Tunon[/url], não é? Eu te reconheceria em qualquer lugar."</DefaultText>
+"You're [url=glossary:tunon]Tunon[/url]'s Fatebinder, aren't you? I'd recognize you anywhere."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"O que aconteceu com você?"</DefaultText>
+      <DefaultText>"What happened to you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -25,281 +25,281 @@ O prisioneiro amarrado olha para você e lambe os lábios secos.
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Meus batedores e eu estávamos nos infiltrando no [url=glossary:burning library]Burning Library[/url]. Um dos meus melhores - Jelena - deve ter trabalhado com o [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Ela desapareceu, e logo depois fomos caçados."
+      <DefaultText>"My scouts and I were infiltrating the [url=glossary:burning library]Burning Library[/url]. One of my best - Jelena - must have been working with the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. She disappeared, and shortly after we were hunted down."
 
-Ele envia um jato de sangue para o chão.</DefaultText>
+He sends a bloody glob of spit to the ground. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Liberte-me e nós podemos conversar mais. Isso seria um favor real. E se você estivesse preocupado com o músculo ao redor do acampamento, o resto dos meus batedores estão por perto. Eles podem nos ajudar a lutar contra a escória."</DefaultText>
+      <DefaultText>"Set me free and we can talk more. That would be a real favor. And if you were worried about the muscle around camp, the rest of my scouts are nearby. They can help us fight off the [url=glossary:sage]Sage[/url] scum."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Você deve ser Maric. Ashe me incumbiu de destruir a Biblioteca, então eu preciso da sua ajuda para passar pelo Coro."</DefaultText>
+      <DefaultText>"You must be Maric. Ashe has tasked me with destroying the Library, so I need your help to get past the Chorus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Maric parece desanimada. "Então [url=glossary:graven ashe]Graven Ashe[/url] enviou alguém para terminar o que eu não pude fazer. Eu sabia que tinha falhado em minha missão, mas não sabia que não teria a chance de me redimir."
+      <DefaultText>Maric looks dismayed. "So [url=glossary:graven ashe]Graven Ashe[/url] sent someone to finish what I couldn't do. I knew I had failed my mission, but I didn't know I wasn't going to be given a chance to redeem myself."
 
-"Assim seja. Não faz sentido lamentar o que eu não posso mudar. Quanto ao seu problema - eu gostaria de poder ajudá-lo, Fatebinder, mas no momento, eu não posso nem me ajudar."
+"So be it. There is no point in mourning what I cannot change. As for your problem - I wish I could help you, Fatebinder, but at present, I can't even help myself."
 
-Maric olha para suas restrições.</DefaultText>
+Maric looks down at his restraints. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Os Sábios já estão mortos. Você está livre."</DefaultText>
+      <DefaultText>"The Sages are already dead. You're free."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Obrigado por sua ajuda, Fatebinder. Eu sempre estarei em dívida com você por me ajudar a evitar a vergonha de uma morte desonrosa em cima do meu outro fracasso. Eu tenho medo de pedir mais de você, mesmo depois de você já ter feito mais por mim do que posso retribuir ".</DefaultText>
+      <DefaultText>"Thank you for your help, Fatebinder. I will forever be in debt to you for helping me to avoid the shame of a dishonorable death on top of my other failure. I am afraid I must ask more of you, even after you have already done more for me than I can repay."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Alguns dos meus batedores Oath Bound ainda estão faltando. Dois estão no [url=glossary:burning library]Burning Library[/url], e o terceiro - Jelena - está no acampamento. Eu quero vê-la devidamente punida por sua traição - tanto quanto eu quero ver os outros salvos "</DefaultText>
+      <DefaultText>"Some of my Oath Bound scouts are still missing. Two are in the [url=glossary:burning library]Burning Library[/url], and the third - Jelena - is in the [url=glossary:scarlet chorus]Scarlet Chorus[/url] camp. I want to see her properly punished for her betrayal - as much as I want to see the others saved."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Obrigado, Fatebinder. Eu estou em dívida com você. Não vou esconder o fato de que sem a sua ajuda, eu teria falhado em minha missão. Seu nome será elogiado enquanto eu puder respirar."
+      <DefaultText>"Thank you, Fatebinder. I am in your debt. I will not hide the fact that without your help, I would have failed in my mission. Your name will be praised as long as I can draw a breath."
 
-"Eu esperarei seu retorno aqui."</DefaultText>
+"I will await your return here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Fatebinder, eu não posso te agradecer o suficiente por resgatar meus olheiros do Oath Bound."
+      <DefaultText>"Fatebinder, I can't thank you enough for rescuing my Oath Bound scouts."
 
-"Eu também ouvi dizer que você me salvou do trabalho de despachar Jelena. Por mais que eu preferisse levar a cabo a justiça, acho que é por isso que você está aqui."</DefaultText>
+"I also heard that you saved me the trouble of dispatching Jelena. Much as I would have preferred to carry out [url=glossary:disfavored]Disfavored[/url] justice myself, I suppose that's why you're here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Jelena, o que eu vou fazer com você?"
+      <DefaultText>"Jelena, what am I to do with you?" 
 
-"Não só você nos vendeu para o [url=glossary:scarlet chorus]Scarlet Chorus[/url], mas você usou nossa conexão Oath Bound contra nós. Em toda a história do [url=glossary:disfavored]Disfavored[/url], eu nunca ouvi falar de um crime mais desprezível".
+"Not only did you sell us out to the [url=glossary:scarlet chorus]Scarlet Chorus[/url], but you used our Oath Bound connection against us. In all the history of the [url=glossary:disfavored]Disfavored[/url], I never heard of a more despicable crime." 
 
-"Nem mesmo as Fúrias Escarlate cometeriam tal atrocidade."</DefaultText>
+"Not even the Scarlet Furies would commit such an atrocity."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Fatebinder, eu sou grato que você retornou minha unidade, mas eu tenho outro problema - Jelena. Enquanto eu sou simpática ao fato de que ela sofreu nas mãos do Coro, eu não posso fingir que ela não trair nós. Nem o resto dos meus batedores. "
+      <DefaultText>"Fatebinder, I'm grateful that you returned my unit, but I have another problem - Jelena. While I'm sympathetic to the fact that she suffered at the hands of the Chorus, I can't pretend that she didn't betray us. Neither can the rest of my scouts."
 
-"Você tem um jeito com a justiça e a lei. Você se importaria de julgar o assunto? Estou muito empenhado para fazer uma decisão clara."</DefaultText>
+"You have a way with justice and law. Would you mind adjudicating the matter? I'm too knotted up over it to make a clear-headed ruling."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Jelena deveria ser executada por sua traição."</DefaultText>
+      <DefaultText>"Jelena should be executed for her betrayal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Jelena só revelou o que tinha que fazer, e merece se juntar à unidade. Sua má orientação permitiu que o resto de vocês sobrevivesse."</DefaultText>
+      <DefaultText>"Jelena only revealed what she had to, and deserves to rejoin the unit. Her misdirection allowed the rest of you to survive."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Jelena jogou com suas vidas, e essa não foi sua escolha a fazer. Ela deveria ser banida."</DefaultText>
+      <DefaultText>"Jelena gambled with your lives, and that was not her choice to make. She should be banished."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Qualquer um poderia quebrar sob tortura. Jelena era tão leal quanto qualquer um poderia ser. Perdoe-a."</DefaultText>
+      <DefaultText>"Anyone could break under torture. Jelena was as loyal as anyone could be. Pardon her."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Eu concordo. Embora não me dê nenhum prazer terminar a vida de um dos meus, não vejo outra maneira de corrigir esse erro."
+      <DefaultText>"I agree. Though it gives me no pleasure to end the life of one of my own, I can see no other way to right this wrong."
 
-"Jelena, prepare-se."</DefaultText>
+"Jelena, ready yourself." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Os [url=glossary:disfavored]Disfavored[/url] não são" ninguém ". O Oath Bound classifica o padrão de lealdade, confiabilidade e firmeza diante da adversidade ".
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] are not 'anyone.' The Oath Bound ranks set the standard for loyalty, dependability, and steadfastness in the face of adversity."
 
-"Eu me culpo por qualquer talento que eu reconheci em Jelena, mas a falha ainda é dela."</DefaultText>
+"I blame myself for whatever talent I recognized in Jelena, but the failing is still hers to bear."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Ele estremece.
+      <DefaultText>He winces. 
 
-"Mesmo agora, procuro acreditar na sua fidelidade, o que torna isso ainda mais difícil."
+"Even now, I seek to believe in your fidelity, which makes this all the more difficult." 
 
-"Jelena, você está livre da proteção de Ashe, e eu consigno você para o vazio, que o [url=glossary:disfavored]Disfavored[/url] pode ser mais forte para a sua ausência."</DefaultText>
+"Jelena, you are released from Ashe's protection, and I consign you to the void, that the [url=glossary:disfavored]Disfavored[/url] may be stronger for your absence." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Devo admitir que não tinha considerado isso ... interpretação de eventos."
+      <DefaultText>"I must admit that I had not considered this... interpretation of events." 
 
-Ele faz uma pausa.
+He pauses. 
 
-"Jelena causou a morte de alguns, mas apenas por uma questão de poupar os outros. Quando você enquadra dessa maneira, ela realmente confiava na força de seus irmãos, e não há ação mais do que isso."</DefaultText>
+"Jelena caused the deaths of some, but only for the sake of sparing others. When you frame it that way, she did indeed rely on the strength of her brethren, and there is no action more [url=glossary:disfavored]Disfavored[/url] than that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Jelena, agrada-me recebê-lo de volta na unidade. Arrume suas coisas e prepare-se para sair."</DefaultText>
+      <DefaultText>"Jelena, it pleases me to welcome you back into the unit. Pack your things and get ready to move out." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Obrigado pela sua ajuda. Eu posso terminar qualquer outra coisa na Biblioteca que requeira a atenção do [url=glossary:disfavored]Disfavored[/url] enquanto você retorna para [url=glossary:graven ashe]Graven Ashe[/url]. Eu lhe enviarei meu relatório completo assim que eu puder. Se você precisar de alguma ajuda no futuro, você tem que perguntar. "</DefaultText>
+      <DefaultText>"Thank you for your assistance. I can finish anything else in the Library that requires the [url=glossary:disfavored]Disfavored[/url]'s attention while you return to [url=glossary:graven ashe]Graven Ashe[/url]. I will send him my full report as soon as I'm able. Should you need any assistance in the future, you have but to ask."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Isso soa razoável para mim. Jelena fez um movimento calculista com as intenções certas em seu coração, mas poderia facilmente ter nos matado."
+      <DefaultText>"That sounds reasonable to me. Jelena made a calculating move with the right intentions in her heart, but it could just as easily have gotten us all killed." 
 
-Ele se vira para ela. "Jelena, é por isso que temos planos, ordens, uma cadeia de comando."</DefaultText>
+He turns to her. "Jelena, this is why we have plans, orders, a chain of command."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Hora de ir, Jelena."
+      <DefaultText>"Time to go, Jelena." 
 
-"Sua vida é sua, mas você está livre da proteção de Ashe. Eu consigno você para o deserto, que o [url=glossary:disfavored]Disfavored[/url] pode ser mais forte para a sua ausência."</DefaultText>
+"Your life is your own, but you are released from Ashe's protection. I consign you to the wilderness, that the [url=glossary:disfavored]Disfavored[/url] may be stronger for your absence."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Fatebinder!"
+      <DefaultText>"Fatebinder!" 
 
-A expressão de Maric se contorce em uma careta.
+Maric's expression twists into a grimace.
 
-"Senti a morte do meu Juramento Preso com tanta certeza como se uma lâmina tivesse escorregado entre as minhas próprias costelas. Agradeço sua ajuda e lamento aqueles que caíram quando terminei aqui."</DefaultText>
+"I felt the death of my Oath Bound as surely as if a blade had been slipped between my own ribs. I thank you for your help and will mourn those who fell when I am finished here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Vou esperar aqui pela minha unidade e cuidar das minhas feridas."</DefaultText>
+      <DefaultText>"I'll wait here for my unit and tend to my wounds."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ela usou sua conexão Oath Bound contra nós. É assim que o Coro conseguiu definir nossa localização. Maldita seja inteligente. Eu não sei quantos de nós foram levados, mas esses Sábios me pegaram enquanto eu estava descansando. Suponha que eu deveria sentir-se grato? "
+      <DefaultText>"She used her Oath Bound connection against us. That's how the Chorus was able to pin down our location. Damn clever. I don't know how many of us were taken, but these Sages caught me while I was resting. Suppose I should feel grateful?"
 
-"Agora eu só aguardo a minha execução. A menos que você esteja disposto a me ajudar?"</DefaultText>
+"Now I just await my execution. Unless you're willing to help me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"No mínimo, nós não arrastaríamos o assunto para o espaço aberto assim."</DefaultText>
+      <DefaultText>"At the very least, we wouldn't drag the matter out into the open like this."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Maric, eles estavam me torturando! Eu não tinha escolha!"</DefaultText>
+      <DefaultText>"Maric, they were torturing me! I had no choice!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Você poderia ter resistido tirando força do nosso vínculo! Nós teríamos encontrado você eventualmente."
+      <DefaultText>"You could have endured by drawing strength from our bond! We would have found you eventually."
 
-Maric massageia sua testa.</DefaultText>
+Maric massages his brow. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Ela ajeita os ombros em uma saudação apertada.
+      <DefaultText>She squares her shoulders in a tight salute. 
 
-"Eu estava morto no momento em que virei as costas para [url=glossary:graven ashe]Graven Ashe[/url]. Esta é uma mera formalidade, então vamos acabar com isso."
+"I was dead the moment I turned my back on [url=glossary:graven ashe]Graven Ashe[/url]. This is a mere formality, so let's be done with it." 
 
-"Que seu balanço seja verdade, Maric. Pelo amor de nossos pais, não me deixe sofrer."</DefaultText>
+"May your swing be true, Maric. For our countrymens' sake, don't let me suffer." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Você pediu minha decisão, Maric."</DefaultText>
+      <DefaultText>"You asked for my ruling, Maric."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"E eu agradeço por isso, mas eu sou o mestre dos meus batedores. O destino deles está comigo".
+      <DefaultText>"And I thank you for it, but I am the master of my scouts. Their fate rests with me." 
 
-"Jelena, prepare-se."</DefaultText>
+"Jelena, ready yourself." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Eu gostaria de ouvir o que Jelena tem a dizer."</DefaultText>
+      <DefaultText>"I would like to hear what Jelena has to say."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Obrigado, Maric. E você também, Fatebinder. Eu prometo reforçar a [url=glossary:disfavored]Disfavored[/url] através de lealdade e ação."</DefaultText>
+      <DefaultText>"Thank you, Maric. And you too, Fatebinder. I vow to strengthen the [url=glossary:disfavored]Disfavored[/url] through loyalty and deed."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Obrigado pela oportunidade, Fatebinder."
+      <DefaultText>"Thank you for the opportunity, Fatebinder."
 
-"Eu sabia que não poderia suportar o interrogatório de coro para sempre. Ninguém menos que Ashe tem a coragem por isso."</DefaultText>
+"I knew that I couldn't endure the Chorus interrogation forever. No one short of Ashe has the fortitude for it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Você não está qualificado para julgar."</DefaultText>
+      <DefaultText>"You're hardly qualified to judge." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Deixe-a falar."</DefaultText>
+      <DefaultText>"Let her talk."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Eu fiz como se fosse quebrar a pressão, e entreguei a localização de dois batedores. Eles estavam separados do resto, e a localização deles não teria cedido ninguém."
+      <DefaultText>"I made as if to break under the pressure, and surrendered the location of two scouts. They were both cut-off from the rest, and their location wouldn't have given anyone away."
 
-"Mesmo assim, eu estava guardando minhas forças para enviar uma advertência que alertaria o resto de vocês sobre os movimentos do Coro ... mesmo para aqueles que eu traí".</DefaultText>
+"Even so, I was saving my strength to send a warning that would alert the rest of you about the Chorus movements... even to those I betrayed."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Uma vergonha. [url=glossary:graven ashe]Graven Ashe[/url] odeia perder um nortista para um inimigo, muito menos um aliado."</DefaultText>
+      <DefaultText>"A shame. [url=glossary:graven ashe]Graven Ashe[/url] hates to lose a Northerner to an enemy, much less an ally."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Eu não digo isso para desculpar minhas ações - apenas para oferecer algum contexto. Os caçadores caídos podem me assombrar pelo resto dos meus dias, mas Maric e os outros podem viver vidas mais ricas e completas em seu favor".</DefaultText>
+      <DefaultText>"I don't say that to excuse my actions - just to offer some context. The fallen scouts may haunt me for the rest of my days, but Maric and the others may live richer, fuller lives on their behalf."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Maric, isso muda alguma coisa para você?"</DefaultText>
+      <DefaultText>"Maric, does this change anything for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Seu testemunho não muda nada - você é culpado de conluio com o inimigo."</DefaultText>
+      <DefaultText>"Your testimony changes nothing - you are guilty of collusion with the enemy."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Fatebinder, eu retiro o meu pedido de decisão. Nenhum julgamento é necessário. Jelena está livre e bem vinda para voltar à sua unidade."
+      <DefaultText>"Fatebinder, I retract my request for a ruling. No judgment is necessary. Jelena is free and welcome to rejoin her unit."
 
-"Jelena, arrumar suas coisas e prepare-se para sair."</DefaultText>
+"Jelena, pack your things and get ready to move out."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Eu nunca esqueci, Maric."
+      <DefaultText>"I never forgot, Maric."
 
-"Fatebinder, obrigado por sua ajuda. Os Tiers serão um lugar sem amigos sem o [url=glossary:disfavored]Disfavored[/url], mas agrada-me saber que você está aqui, dispensando julgamento."</DefaultText>
+"Fatebinder, thank you for your help. The Tiers will be a friendless place without the [url=glossary:disfavored]Disfavored[/url], but it pleases me to know that you're here, dispensing judgment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"O que você está fazendo aqui, traidor? Não tenho nada a dizer para você."</DefaultText>
+      <DefaultText>"What are you doing here, betrayer? I have nothing to say to you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -309,12 +309,12 @@ Maric massageia sua testa.</DefaultText>
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Maric olha para você com um olhar inabalável. "Faça."</DefaultText>
+      <DefaultText>Maric looks at you with an unwavering stare. "Do it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Peço a você para encontrar meus homens desaparecidos e devolvê-los para mim. Jelena deve ser feita para pagar por seus crimes e eu não vou ter outro dos meus homens perdidos para sua vontade fraca."</DefaultText>
+      <DefaultText>"I ask of you to find my missing men and return them to me. Jelena must be made to pay for her crimes and I will not have another of my men lost to her weak will."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -324,161 +324,161 @@ Maric massageia sua testa.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Maric olha para você com um olhar inabalável. "Faça."</DefaultText>
+      <DefaultText>Maric looks at you with an unwavering stare. "Do it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Primeiro você vai me ajudar. Eu preciso ir até a biblioteca."</DefaultText>
+      <DefaultText>"First you will help me. I need to get to the Library."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Qual é o seu pedido?"</DefaultText>
+      <DefaultText>"What is your request?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Eu vou te dizer tudo o que eu sei, eu só peço que você faça algo para mim quando você chegar à Biblioteca. [url=glossary:graven ashe]Graven Ashe[/url] encarregou-me e ao meu grupo de destruí-lo. Infelizmente, nós fomos descobertos e encaminhados, mas eu sei como você lá com segurança. Aqui, deixe-me marcar em seu mapa como ignorar todas as patrulhas Chorus para chegar à Biblioteca. Uma vez lá, você só precisa lidar com o Censor para entrar. "</DefaultText>
+      <DefaultText>"I will tell you everything I know, I only ask you do something for me once you make it to the Library. [url=glossary:graven ashe]Graven Ashe[/url] tasked me and my group with destroying it. Unfortunately, we were discovered and routed, but I know how to get you there safely. Here, let me mark on your map how to bypass all the Chorus patrols to get to the Library. Once there, you need only deal with the Censor to get inside."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Você tem sorte de ter negócios lá também. Vou procurar o seu Oath Bound".</DefaultText>
+      <DefaultText>"You're lucky I have business there as well. I will look for your Oath Bound."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Eu vou encontrar seus homens e devolvê-los para você."</DefaultText>
+      <DefaultText>"I will find your men and return them to you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Conte-me sobre essa traição."</DefaultText>
+      <DefaultText>"Tell me about this betrayal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Você mencionou uma conexão Oath Bound? O que é isso?"</DefaultText>
+      <DefaultText>"You mentioned an Oath Bound connection? What is that?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"O que você quer que eu faça?"</DefaultText>
+      <DefaultText>"What do you want me to do?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ela usou sua conexão Oath Bound contra nós. Foi assim que o Coro conseguiu definir nossa localização. Maldita seja inteligente. Não sei quantos de nós foram levados, mas esses Sábios me pegaram enquanto eu estava descansando. Ela deve estar punido por sua traição ".</DefaultText>
+      <DefaultText>"She used her Oath Bound connection against us. That's how the Chorus was able to pin down our location. Damn clever. I don't know how many of us were taken, but these Sages caught me while I was resting. She must be punished for her betrayal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Porque você me ajudou, eu vou te dizer, mas normalmente esse conhecimento não é compartilhado fora do [url=glossary:disfavored]Disfavored[/url]".</DefaultText>
+      <DefaultText>"Because you helped me, I will tell you, but normally this knowledge is not shared outside the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Antes que você seja realmente um Oath Bound, você deve completar um ritual que conecta você a cada um de seus irmãos. Seus sentimentos se tornam seus, suas dores são suas dores e seus problemas também são seus. Jelena usou essa conexão para nos trair. Ela deve ser obrigada a pagar por esse ato ".</DefaultText>
+      <DefaultText>"Before you are truly an Oath Bound, you must complete a ritual that connects you to each one of your brothers. Their feelings become yours, their pains are your pains, and their troubles are yours as well. Jelena used that connection to betray us. She must be made to pay for that act."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>A expressão de Maric se contorce em uma careta. "Fatebinder! Senti a morte do meu Juramento Ligado tão certo como se uma lâmina tivesse sido jogada entre as minhas próprias costelas. Longe de mim questionar suas decisões nesses assuntos, mas você não poderia ter resgatado meus homens antes de destruir a Biblioteca? " Ele olha para baixo, seu rosto abandonado. "Eu vou chorar aqueles que caíram quando eu terminar aqui."</DefaultText>
+      <DefaultText>Maric's expression twists into a grimace. "Fatebinder! I felt the death of my Oath Bound as surely as if a blade had been slipped between my own ribs. Far be it from me to question your decisions in these matters, but could you not have rescued my men before destroying the Library?" He looks down, his face forlorn. "I will mourn those who fell when I am finished here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Quando você terminar o que você veio fazer aqui, venha falar comigo de novo. Não falhe do jeito que eu falhei com os meus homens, Fatebinder."</DefaultText>
+      <DefaultText>"When you have finished what you came here to do, come speak to me again. Do not fail Ashe as I have failed my men, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Nó de Script 101</DefaultText>
+      <DefaultText>Script Node 101</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Nó de script 102</DefaultText>
+      <DefaultText>Script Node 102</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Você mataria um homem atado, desarmado? Eu não posso tolerar sua brutalidade, Fatebinder. Maric é [url=glossary:disfavored]Disfavored[/url], e merece melhor."</DefaultText>
+      <DefaultText>"You would slay a bound, unarmed man? I can't stomach your brutality, Fatebinder. Maric is [url=glossary:disfavored]Disfavored[/url], and deserves better."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Fique de pé, Barik. Isso não é da sua conta."</DefaultText>
+      <DefaultText>"Stand down, Barik. This is none of your concern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Você está errado. Estou preocupado com a própria integridade dessa guerra. Qualquer confiança que eu tenha tido em sua liderança é desafiada pelo monstro que vejo diante de mim. Vá em frente. Faça o que você faz de melhor."</DefaultText>
+      <DefaultText>"You're wrong. I'm concerned for the very integrity of this war. Whatever confidence I once had in your leadership is challenged by the monster I see before me. Go on, then. Do what you do best." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Por que tão melindroso agora? Nós já matamos muitos [url=glossary:disfavored]Disfavored[/url] antes, e isso não será o último."</DefaultText>
+      <DefaultText>"Why so squeamish now? We've killed plenty of [url=glossary:disfavored]Disfavored[/url] before, and this won't be the last."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Sim, e eu conto todos eles com tristeza enquanto torço meu saco de dormir à noite. Por mais que suas mortes me causem desconforto, eu sei que eles serviram um propósito de trazer ordem para esta campanha ... obscura e desconcertante como eu poderia encontrá-lo. " Barik olha para você.
+      <DefaultText>"Yes, and I count them all with sorrow as I twist in my bedroll at night. As much as their deaths bring me unease, I know that they served a purpose of bringing order to this campaign... obscure and bewildering as I might find it." Barik glares at you.
 
-"Isso não serve para nada, não ajuda ninguém, e traz agonia desnecessária para um bom homem do Norte. Me chame de melindre, se for preciso. Eu me oponho veementemente."</DefaultText>
+"This serves nothing, helps no one, and brings needless agony to a good Northman. Call me squeamish if you must. I vehemently object." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Você é o único responsável por [url=lore:bl_sirin_song]muzzling those troublesome Sages[/url]. Essa decisão foi um golpe de gênio. Não apenas você manteve os Sábios sob controle, você dificultou os esforços do Censor para explorar a Biblioteca. Se eles não podem falar com os Sábios, eles não vai receber muita ajuda deles. "</DefaultText>
+      <DefaultText>"You're the one responsible for [url=lore:bl_sirin_song]muzzling those troublesome Sages[/url]. That decision was a stroke of genius. Not only did you keep the Sages under control, you hampered the Censor's efforts to explore the Library. If they can't talk to the Sages, they're not going to get a lot of help out of them."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Sem sua ajuda, meus [url=glossary:disfavored]Disfavored[/url] irmãos teria sido [url=lore:bl_lost_to_mountains]lost forever in those mountains[/url]. Eu não sei o que aconteceu para prendê-los até lá, mas se você não tivesse intercedido em seu nome, eu nunca teria visto novamente."</DefaultText>
+      <DefaultText>"Without your help, my [url=glossary:disfavored]Disfavored[/url] brethren would have been [url=lore:bl_lost_to_mountains]lost forever in those mountains[/url]. I don't know what happened to trap them up there, but if you had not interceded on their behalf, I would never have seen them again."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Embora eu vou dizer isso. É por causa de você [url=lore:bl_lost_to_mountains]some of my Disfavored brethren were lost forever in the mountains[/url]. Se você poderia ter poupado um grupo para encontrá-los, não teríamos motivo para lamentar a morte de muitos bons homens e bons soldados".</DefaultText>
+      <DefaultText>"Although I will say this. It's because of you [url=lore:bl_lost_to_mountains]some of my Disfavored brethren were lost forever in the mountains[/url]. If you could have spared a [url=glossary:scarlet chorus]Scarlet Chorus[/url] group to find them, we wouldn't have had cause to mourn the deaths of many good men and fine soldiers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Mas temo que você me tenha em desvantagem agora ... estou à sua mercê."</DefaultText>
+      <DefaultText>"But I'm afraid you have me at a disadvantage right now... I am at your mercy."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Embora eu vou dizer isso. É por causa de você [url=lore:bl_lost_to_mountains]some of my Disfavored brethren were lost forever in the mountains[/url]. Se você poderia ter poupado um grupo para encontrá-los, não teríamos motivo para lamentar a morte de muitos bons homens e bons soldados".</DefaultText>
+      <DefaultText>"Although I will say this. It's because of you [url=lore:bl_lost_to_mountains]some of my Disfavored brethren were lost forever in the mountains[/url]. If you could have spared a [url=glossary:scarlet chorus]Scarlet Chorus[/url] group to find them, we wouldn't have had cause to mourn the deaths of many good men and fine soldiers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Esteja ciente, Fatebinder - um dos meus soldados mencionou uma grande barricada mágica dentro da Biblioteca. O Censor tem suas gangues procurando em todo o prédio por partes de algum tipo de senha para ir além disso. Se você vai realizar seu objetivo , você precisará encontrar a senha antes deles. "
+      <DefaultText>"Be aware, Fatebinder - one of my soldiers mentioned a large, magical barricade deep inside the Library. The Censor has her gangs searching the entire building for parts of some kind of passcode to get beyond it. If you are going to accomplish your goal, you will need to find the passcode before they do."
 
-"Eu gostaria de ter mais informações para você, mas espero que isso ajude você." Ele te saúda. "Agora, eu faria o meu pedido de você."</DefaultText>
+"I wish I had more information for you, but I hope that will help you." He salutes you. "Now, I would make my request of you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Você deve ser Maric. Estou aqui para encontrar informações na Biblioteca. Ela me disse para destruir a Biblioteca quando eu encontrasse o que estava procurando."</DefaultText>
+      <DefaultText>"You must be Maric. I am here to find information in the Library. Ashe told me to destroy the Library when I found what I was looking for."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Você pode me dizer algo sobre o [url=glossary:edict]Edict[/url]?"</DefaultText>
+      <DefaultText>"Can you tell me anything about the [url=glossary:edict]Edict[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Infelizmente não. Tudo o que sei é que todo o conhecimento proibido na Biblioteca deve ser destruído. [url=glossary:graven ashe]Graven Ashe[/url] acredita que destruir o Arquivo Silencioso vai conseguir isso, mas com a barreira protegendo-o, ninguém pode chegar a ele. Pelo menos, parece ninguém entrou ainda, caso contrário, o [url=glossary:edict]Edict[/url] teria terminado. "</DefaultText>
+      <DefaultText>"Unfortunately not. All I know is that all the forbidden lore in the Library must be destroyed. [url=glossary:graven ashe]Graven Ashe[/url] believes that destroying the Silent Archive will achieve this, but with the barrier protecting it, no one can get to it. At least, it seems no one has gotten in yet. Otherwise, the [url=glossary:edict]Edict[/url] would have ended."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Obrigado pela sua ajuda. Eu posso terminar qualquer outra coisa na Biblioteca que requeira a atenção do [url=glossary:disfavored]Disfavored[/url] enquanto você retorna para [url=glossary:graven ashe]Graven Ashe[/url]. Eu lhe enviarei meu relatório completo assim que eu puder. Se você precisar de alguma ajuda no futuro, você tem que perguntar. "</DefaultText>
+      <DefaultText>"Thank you for your assistance. I can finish anything else in the Library that requires the [url=glossary:disfavored]Disfavored[/url]'s attention while you return to [url=glossary:graven ashe]Graven Ashe[/url]. I will send him my full report as soon as I'm able. Should you need any assistance in the future, you have but to ask."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,17 +488,17 @@ Maric massageia sua testa.</DefaultText>
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Maric foi acompanhado por membros de sua unidade - dois Oath Bound com aparência cansada, com grandes manchas de cinzas e sangue cobrindo suas armaduras. Eles acenam ao seu comandante quando se aproximam, uma reação curiosamente indiferente ao seu resgate. Maric parece recuperar um pouco de força ao ver seus homens. Ele acena vigorosamente quando você se aproxima, uma expressão determinada visível em seu rosto.</DefaultText>
+      <DefaultText>Maric has been joined by members of his unit - two weary-looking Oath Bound with large patches of ash and blood blanketing their armor. They nod to their commander as they approach, a curiously nonchalant reaction to his rescue. Maric appears to regain some strength at the sight of his men. He beckons vigorously as you approach, a determined expression visible on his face.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Eu voltarei quando eles forem eliminados."</DefaultText>
+      <DefaultText>"I will return when they have been eliminated."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Para a glória de [url=glossary:kyros]Kyros[/url], mostre o inimigo sem quartel!"</DefaultText>
+      <DefaultText>"For the glory of [url=glossary:kyros]Kyros[/url], show the enemy no quarter!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

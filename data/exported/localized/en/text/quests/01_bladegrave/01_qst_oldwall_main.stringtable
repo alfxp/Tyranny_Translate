@@ -1,199 +1,199 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\01_bladegrave\01_qst_oldwall_main</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>38</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Uma brecha entre mundos</DefaultText>
+      <DefaultText>A Breach Between Worlds</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Fale com o Hieronymus.</DefaultText>
+      <DefaultText>Speak with Hieronymus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Localize o artefato [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Locate the [url=glossary:unbroken]Unbroken[/url] artifact.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Levante a plataforma central.</DefaultText>
+      <DefaultText>Raise the central platform.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Encontre os Keystones ausentes.</DefaultText>
+      <DefaultText>Find the missing Keystones.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Desative a armadilha do espírito.</DefaultText>
+      <DefaultText>Deactivate the spirit trap.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Viajar para a violação Oldwalls.</DefaultText>
+      <DefaultText>Travel to the Oldwalls Breach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Coloque todos os Keystones ao redor da plataforma.</DefaultText>
+      <DefaultText>Place all the Keystones around the platform.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Colete o artefato [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Collect the [url=glossary:unbroken]Unbroken[/url] artifact.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Recupere a tocha.</DefaultText>
+      <DefaultText>Retrieve the torchkey.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Deixe a brecha de Oldwalls.</DefaultText>
+      <DefaultText>Leave the Oldwalls Breach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Fale com [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
+      <DefaultText>Speak with [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Fale com [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <DefaultText>Speak with [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Fale com o Mattias.</DefaultText>
+      <DefaultText>Speak with Mattias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Você aprendeu que os rebeldes estão procurando os restos de um regente, um acredita-se que mantenha a insígnia firme. Este artefato é dito ter o poder de resistir aos ventos fortes de [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] de tempestades, e pode ser o seu caminho em Sentinel Stand Keep.</DefaultText>
+      <DefaultText>You have learned that the rebels are searching the [url=glossary:blade grave]Blade Grave[/url] Oldwalls for the remains of an [url=glossary:unbroken]Unbroken[/url] Regent, one believed to hold the Steadfast Insignia. This artifact is said to have the power to resist the fierce winds of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Storms, and may be your way into Sentinel Stand Keep.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Para entrar no Oldwalls, você precisará de um item mantido por Hieronymus. Tire isso dele.</DefaultText>
+      <DefaultText>In order to get into the Oldwalls proper, you will need an item held by Hieronymus. Get it from him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Encontre um caminho para a câmara principal dos Oldwalls e tente localizar o artefato.</DefaultText>
+      <DefaultText>Find a way into the main chamber of the Oldwalls and try to locate the artifact.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>O Primeiro Regente, e o artefato que ele carrega, não podem ser alcançados a menos que a plataforma em torno dele seja erguida. Examine o ambiente e encontre uma maneira de operar o dispositivo.</DefaultText>
+      <DefaultText>The First Regent, and the artifact he carries, can't be reached unless the platform surrounding him is raised. Examine the environment and find a way to operate the device.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Parece que Keystones, como o encontrado por Javala, são necessários para operar a plataforma. Encontre os três restantes.</DefaultText>
+      <DefaultText>It appears that Keystones, like the one Javala found, are needed to operate the platform. Find the remaining three.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Apesar de todos os quatro pilares terem sido colocados, a armadilha do espírito desestabilizado ainda bloqueia o seu caminho para o artefato [url=glossary:unbroken]Unbroken[/url]. Ative o painel do piso final para desfazer a armadilha do espírito para sempre.</DefaultText>
+      <DefaultText>Though all four keystones have been placed, the destabilized spirit trap still blocks your way to the [url=glossary:unbroken]Unbroken[/url] artifact. Activate the final floor panel to undo the spirit trap for good.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Viaje para a brecha ao longo da antiga muralha para localizar os [url=glossary:unbroken]Unbroken[/url] soldados que caçam a insígnia firme.</DefaultText>
+      <DefaultText>Travel to the breach along the [url=glossary:blade grave]Blade Grave[/url] Oldwalls to locate the [url=glossary:unbroken]Unbroken[/url] soldiers hunting for the Steadfast Insignia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Agora que você localizou todos os Keystones, coloque-os nos slots ao redor do poço central para elevar a plataforma.</DefaultText>
+      <DefaultText>Now that you have located all the Keystones, place them into the slots around the central pit to raise the platform.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText>Com o Havoc ido, tudo o que resta a fazer é coletar o artefato dos restos do [url=glossary:unbroken]Unbroken[/url] First Regent.</DefaultText>
+      <DefaultText>With the Havoc gone, all that's left to do is to collect the artifact from the remains of the [url=glossary:unbroken]Unbroken[/url] First Regent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>Hieronymus disse que o item que você precisa para entrar no Oldwalls é no corpo de um soldado que caiu em batalha, a sudeste da Brecha. Encontre seu corpo e pegue a tocha.</DefaultText>
+      <DefaultText>Hieronymus said the item you need to get into the Oldwalls is on the body of an [url=glossary:unbroken]Unbroken[/url] soldier who fell in battle, southeast of the Breach. Find his body and get the torchkey.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10015</ID>
-      <DefaultText>Com o artefato [url=glossary:unbroken]Unbroken[/url] agora em sua posse, é hora de deixar a Brecha de Muralhas Antigas e retornar à Base de Suporte da Sentinela.</DefaultText>
+      <DefaultText>With the [url=glossary:unbroken]Unbroken[/url] artifact now in your possession, it's time to leave the Oldwalls Breach and return to Sentinel Stand Keep.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10017</ID>
-      <DefaultText>Ashe vai querer ver o artefato por si mesmo. Retorne para o Coração de Ferro e fale com o Arconte.</DefaultText>
+      <DefaultText>Ashe will want to see the artifact for himself. Return to Iron Hearth and speak with the Archon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10018</ID>
-      <DefaultText>Nerat, sem dúvida, ficará curioso sobre a insígnia firme. Retorne à Cacofonia e atualize-o sobre eventos recentes.</DefaultText>
+      <DefaultText>Nerat will no doubt be curious about the Steadfast Insignia. Return to Cacophony and update him about recent events.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10019</ID>
-      <DefaultText>Volte a Duskwatch e fale com Mattias sobre seus próximos passos.</DefaultText>
+      <DefaultText>Return to Duskwatch and speak with Mattias about your next steps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Você encontrou o Cold Keystone.</DefaultText>
+      <DefaultText>You found the Cold Keystone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Você encontrou o Heavy Keystone.</DefaultText>
+      <DefaultText>You found the Heavy Keystone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Você encontrou o Bright Keystone.</DefaultText>
+      <DefaultText>You found the Bright Keystone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você derrotou o Havoc que estava preso nos Oldwalls e recuperou o artefato do corpo do Primeiro Regente.</DefaultText>
+      <DefaultText>You defeated the Havoc that was trapped in the Oldwalls and retrieved the [url=glossary:unbroken]Unbroken[/url] artifact from the body of the First Regent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] viu a Insígnia Permanente e está pronto para levar a batalha para a Fortaleza de Sentinelas.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] has seen the Steadfast Insignia and is ready to take the battle to Sentinel Stand Keep.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Você obteve a Insígnia Contínua e está pronto para levar a batalha para a Fortaleza da Base de Sentinelas.</DefaultText>
+      <DefaultText>You have obtained the Steadfast Insignia and are ready to take the battle to Sentinel Stand Keep.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Mattias ficou exultante com o seu sucesso e enviou seus homens para a Guarda dos Portais Sentinela.</DefaultText>
+      <DefaultText>Mattias was elated with your success, and has sent his men to take Sentinel Stand Keep.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>Mattias pediu que você ajudasse seus homens a procurar o Insígnia Constante nos [url=glossary:blade grave]Blade Grave[/url] Oldwalls. O último Regente a manejá-lo morreu na guerra e acredita-se que tenha perecido ali. Recuperar este artefato pode dar a você a habilidade de entrar no Sentinel Stand Keep, e acabar com o [url=glossary:edict]Edict[/url] de Storms.</DefaultText>
+      <DefaultText>Mattias has asked you to help his men search the Steadfast Insignia at the [url=glossary:blade grave]Blade Grave[/url] Oldwalls. The last Regent to wield it died in the war, and is believed to have perished there. Recovering this artifact may give you the ability to enter Sentinel Stand Keep, and to end the [url=glossary:edict]Edict[/url] of Storms.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40002</ID>
-      <DefaultText>Os [url=glossary:unbroken]Unbroken[/url] estão à procura de um poderoso artefato, o Insígnia Steadfast, no [url=glossary:blade grave]Blade Grave[/url] Oldwalls. Este item de poder pode valer a pena investigar.
+      <DefaultText>The [url=glossary:unbroken]Unbroken[/url] are looking for a powerful artifact, the Steadfast Insignia, at the [url=glossary:blade grave]Blade Grave[/url] Oldwalls. This item of power may be worth investigating.
 
-[OPCIONAL QUEST]</DefaultText>
+[OPTIONAL QUEST]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_bs_trapped_soldiers_rustcanyons</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Tire-nos daqui!"</DefaultText>
+      <DefaultText>"Get us out of here!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"O [url=glossary:unbroken]Unbroken[/url] nos atormenta sem fim. Por favor, nos liberte!"</DefaultText>
+      <DefaultText>"The [url=glossary:unbroken]Unbroken[/url] torment us without end. Please, release us!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Nó Aleatório 3</DefaultText>
+      <DefaultText>Random Node 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Pela misericórdia do General - ajude-nos!"</DefaultText>
+      <DefaultText>"By the General's mercy - help us!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

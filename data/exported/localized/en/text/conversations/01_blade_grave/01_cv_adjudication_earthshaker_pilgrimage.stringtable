@@ -1,191 +1,191 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_cv_adjudication_earthshaker_pilgrimage</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>60</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Afaste-se! Estou saindo em missão e você não tem o direito de me enganar." O Earthshaker torce os dedos para preparar um sigilo.</DefaultText>
+      <DefaultText>"Back off! I'm leaving on assignment, and you have no right to waylay me." The Earthshaker twists his fingers to ready a sigil. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Nós dois sabemos que você não tem nenhuma missão. Archon Ashe especificamente disse que quer que seus magos sejam mandados de volta para o forte." O soldado acena para as tendas. "Volte para seus aposentos. Você saberá quando for necessário."</DefaultText>
+      <DefaultText>"We both know that you don't have any assignment. Archon Ashe specifically said that he wants his mages pulled back to the fort." The soldier nods off to the tents. "Return to your quarters. You'll know when you're needed."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>. "Eu estou tomando uma peregrinação ao [url=glossary:stone sea]Stone Sea[/url]. Chegou o tempo para visitar [url=glossary:cairn]Cairn[/url], o Archon caído de pedra Quando ele viveu, o Earthshakers Aliança fez um grande esforço para segui-lo e aprender pelo exemplo Agora que ele está morto -. Ou morrer - podemos apenas estudar seu cadáver em repouso. "</DefaultText>
+      <DefaultText>"I'm taking a pilgrimage to the [url=glossary:stone sea]Stone Sea[/url]. The time has come to visit [url=glossary:cairn]Cairn[/url], the fallen Archon of Stone. When he lived, the Earthshakers Guild took great pains to follow him and learn by example. Now that he's dead - or dying - we can but study his corpse in repose."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Oque parece ser o problema?"</DefaultText>
+      <DefaultText>"What seems to be the problem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Eu não quero ouvir isso agora."</DefaultText>
+      <DefaultText>"I don't want to hear it right now."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Que bobagem. Vocês, adoradores do rock, devem fidelidade ao Arconte Ashe. Ele permite que você estude seus feitiços sob proteção. [url=glossary:cairn]Cairn[/url] teria levado você a rebelião e morte." Com o pensamento, o soldado [url=glossary:disfavored]Disfavored[/url] toca o punho de sua espada.</DefaultText>
+      <DefaultText>"What nonsense. You rock-worshippers owe allegiance to Archon Ashe. He allows you to study your spells under [url=glossary:kyros]Kyros[/url]' protection. [url=glossary:cairn]Cairn[/url] would have led you to rebellion and death." At the very thought, the [url=glossary:disfavored]Disfavored[/url] soldier touches the hilt of his sword.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>O Earthshaker nota você e ondas. "Fatebinder! Temo que estamos em um impasse. Posso pedir ajuda?"</DefaultText>
+      <DefaultText>The Earthshaker notices you and waves. "Fatebinder! I'm afraid we're at something of an impasse. Can I appeal to you for aid?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Vocês dois concordarão com a minha decisão?"</DefaultText>
+      <DefaultText>"Will both of you agree to my ruling?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Eu vou respeitar a sua decisão. Parece que eu não vou a lugar nenhum sem ela." Ele faz um gesto grosseiro e desdenhoso para o soldado.</DefaultText>
+      <DefaultText>"I will abide by your decision. It appears I'm not going anywhere without it." He makes a rude, dismissive gesture at the soldier.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"A palavra de um Fatebinder é [url=glossary:kyros]Kyros[/url] 'lei. Como eu poderia recusar?" Ele define sua postura e encolhe os ombros. "Estou confiante de que você vai fazer a coisa certa e calar a boca deste arremessador de runas."</DefaultText>
+      <DefaultText>"A Fatebinder's word is [url=glossary:kyros]Kyros[/url]' law. How could I refuse?" He sets his stance and shrugs. "I'm confident you'll do the right thing and shut this rune-slinger's mouth." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Por que essa peregrinação é tão importante?"</DefaultText>
+      <DefaultText>"Why is this pilgrimage so important?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Você diz que os Earthshakers devem permanecer no forte?"</DefaultText>
+      <DefaultText>"You say the Earthshakers must remain in the fort?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"O que seria ganho com o aprendizado sobre [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <DefaultText>"What would be gained from learning about [url=glossary:cairn]Cairn[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Estou pronto para fazer minha decisão."</DefaultText>
+      <DefaultText>"I am ready to make my ruling."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Muito bem. Estamos prontos para recebê-lo." O Earthshaker aperta as mãos dele. "Seja o que for que você decida, eu reconheço e aprecio o pensamento que você coloca nele."</DefaultText>
+      <DefaultText>"Very well. We are ready to receive it." The Earthshaker clasps his hands. "Whatever you decide, I recognize and appreciate the thought you put into it." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Você está livre para sair em sua peregrinação."</DefaultText>
+      <DefaultText>"You are free to leave on your pilgrimage."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Você deve ficar no forte de Ashe pelo bem do exército."</DefaultText>
+      <DefaultText>"You must stay in Ashe's fort for the good of the army."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Vá aprender com [url=glossary:cairn]Cairn[/url], mas ensine suas lições para outros Earthshakers."</DefaultText>
+      <DefaultText>"Go learn from [url=glossary:cairn]Cairn[/url], but teach your lessons to other Earthshakers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Deixe-me reconsiderar minhas perguntas anteriores."</DefaultText>
+      <DefaultText>"Let me reconsider my previous questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Este é um dia excelente! Eu não vou esquecer isso, Fatebinder."</DefaultText>
+      <DefaultText>"This is an excellent day! I won't forget it, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Nem eu. Você pode ter o melhor interesse desses leitores de livros em mente, mas lembre-se de que estamos em guerra, e a lealdade conta para tudo."</DefaultText>
+      <DefaultText>"Neither will I. You may have the best interests of these book-readers in mind, but be sure you remember that we're at war, and loyalty counts for everything."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ah, maldições. Talvez tenhamos outra oportunidade quando a guerra acabar. Obrigado do mesmo jeito."</DefaultText>
+      <DefaultText>"Oh, curses. Perhaps we'll have another opportunity when the war dies down. Thank you all the same."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Tanto quanto eu estou preocupado, você pode ir onde quiser quando a guerra acabar. Muito obrigado, Fatebinder."</DefaultText>
+      <DefaultText>"As far as I'm concerned, you can go wherever you like when the war is over. Much obliged, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Oh, com certeza! Vamos divulgar nossas descobertas para todos os membros da guilda."</DefaultText>
+      <DefaultText>"Oh, to be sure! We'll circulate our findings to every member of the guild." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Isso vai contra as ordens de Ashe, mas até eu devo admitir que soa como uma busca útil. Vou tentar fazer os outros verem a razão por trás disso, mas você sabe como eles podem ser."</DefaultText>
+      <DefaultText>"It goes against Ashe's orders, but even I must admit that it sounds like a useful pursuit. I'll try to get the others to see the reason behind it, but you know how they can be." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Como é seu direito, Fatebinder."</DefaultText>
+      <DefaultText>"As is your right, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Desde [url=glossary:cairn]Cairn[/url] não pode mais ensinar seus alunos, cabe a nós sair e aprender com ele. Não é uma questão de devoção ou lealdade. [url=glossary:cairn]Cairn[/url] é a fonte da qual flui o nosso poder arcano. Há poucos outros recursos que podem nos ensinar sobre a nossa arte, e nenhum tão potente quanto [url=glossary:cairn]Cairn[/url]. "</DefaultText>
+      <DefaultText>"Since [url=glossary:cairn]Cairn[/url] can no longer teach his students, it behooves us to go out and learn from him. It's not a question of devotion or loyalty. [url=glossary:cairn]Cairn[/url] is the wellspring from which our arcane power flows. There are few other resources that can teach us about our art, and none as potent as [url=glossary:cairn]Cairn[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Por ordens de Ashe, sim, mas a razão deveria ser clara. Na vida, [url=glossary:cairn]Cairn[/url] era uma desgraça - um rebelde, um assassino e um barril de pólvora volátil."
+      <DefaultText>"By Ashe's orders, yes, but the reason should be clear. In life, [url=glossary:cairn]Cairn[/url] was a disgrace - a rebel, a murderer, and a volatile powder keg."
 
-"À luz de suas ... transgressões, muitos chegaram a duvidar dos Earthshakers e sua devoção à nossa causa. Seu dever atual é permanecer no forte e recuperar a confiança do nosso Grande General através de ações e consistência."</DefaultText>
+"In light of his... transgressions, many came to doubt the Earthshakers and their devotion to our cause. Their duty at present is to remain in the fort and earn back our Great General's trust through deeds and consistency." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Pense nisso como aprendizado através do [url=glossary:cairn]Cairn[/url]. Tudo o que sabemos da nossa arte veio do Arconte de Pedra. Imagine o que poderíamos aprender se um número suficiente de nós se agrupasse em torno de seus restos mortais?"</DefaultText>
+      <DefaultText>"Think of it as learning through [url=glossary:cairn]Cairn[/url]. Everything we know of our art came from the Archon of Stone. Imagine what we could learn if enough of us clustered around his remains?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Nós levaríamos esse conhecimento de volta ao nosso serviço com o [url=glossary:disfavored]Disfavored[/url], é claro. [url=glossary:graven ashe]Graven Ashe[/url] tem sido muito generoso com seu patrocínio de nossa guilda. Nós só procuramos recompensá-lo em espécie."</DefaultText>
+      <DefaultText>"We would take that knowledge back to our service with the [url=glossary:disfavored]Disfavored[/url], of course. [url=glossary:graven ashe]Graven Ashe[/url] has been very generous with his patronage of our guild. We only seek to repay him in kind."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Fatebinder, você está disposto a nos ajudar?"</DefaultText>
+      <DefaultText>"Fatebinder, are you willing to help us?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Qual foi o problema novamente?"</DefaultText>
+      <DefaultText>"What was the problem again?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Eles querem aprender com um Arconte morto?" Eb sacode a cabeça com um sorriso malicioso. "Talvez eles devessem ter prestado atenção nos ensinamentos de [url=glossary:cairn]Cairn[/url] quando ele estava vivo, parecendo que ele foi levado para grani-" ela estreita os olhos, parecendo irritada com algo distante ", tida como certa."
+      <DefaultText>"They want to learn from a dead Archon?" Eb shakes her head with a wicked smile. "Perhaps they should have paid attention to [url=glossary:cairn]Cairn[/url]'s teachings when he was alive, sound like he was taken for grani-" she narrows her eyes, looking angry at something far away, "taken for granted."
 
-"Agora eu certamente tive minha parte de meditação sobre as ondas e passei muitas horas olhando para o céu. Eu sei que a inspiração arcana pode vir dos lugares mais estranhos. Mas ainda assim ... que conhecimento possível poderia uma casca rochosa dar? que a vida [url=glossary:cairn]Cairn[/url] não poderia?</DefaultText>
+"Now I've certainly had my share of meditation over the waves and spent far too many hours looking at the sky. I know that arcane inspiration can come from the oddest places. But still... what possible knowledge could a rocky husk impart that the living [url=glossary:cairn]Cairn[/url] could not?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Earthshaker, o que é uma decisão a seu favor que vale a pena para você?"</DefaultText>
+      <DefaultText>"Earthshaker, what's a ruling in your favor worth to you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Com licença, Fatebinder?" O soldado [url=glossary:disfavored]Disfavored[/url] se inclina para a frente. "Com medo de não ouvir isso."</DefaultText>
+      <DefaultText>"Excuse me, Fatebinder?" The [url=glossary:disfavored]Disfavored[/url] soldier leans forward. "Afraid I didn't hear that." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Os cofres da guilda não correm tão profundamente quanto costumavam, mas eu posso juntar alguns anéis como 'despesas de viagem'. Isso vai fazer?</DefaultText>
+      <DefaultText>"The guild coffers don't run as deeply as they used to, but I can scrounge together a few rings as 'travelling expenses.' Will that do?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,117 +195,117 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Nenhum acordo."</DefaultText>
+      <DefaultText>"No deal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Eu certamente vou ... alguns anéis mais leves, talvez, mas com paz de espírito. Obrigado, Fatebinder."</DefaultText>
+      <DefaultText>"I certainly will... a few rings lighter, perhaps, but with peace of mind. Thank you, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Isso foi um espetáculo vergonhoso. Vou me certificar de que o exército saiba de sua interpretação vulgar da justiça." Ele concorda.</DefaultText>
+      <DefaultText>"That was a disgraceful spectacle. I will make sure that the army knows of your vulgar interpretation of justice." He nods. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Eu vejo. O que será então?"</DefaultText>
+      <DefaultText>"I see. What will it be, then?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Quando você terminar de pensar no seu julgamento, basta nos informar."</DefaultText>
+      <DefaultText>"When you are finished contemplating your judgment, you have only to let us know."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Eu devo considerar minha decisão. Adeus."</DefaultText>
+      <DefaultText>"I must consider my decision. Farewell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Permita-me fazer algumas perguntas antes de tomar minha decisão."</DefaultText>
+      <DefaultText>"Allow me to ask some questions before I make my ruling."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Claro, isso é seu direito. Tenha, Fatebinder."</DefaultText>
+      <DefaultText>"Of course, that is your right. Have on, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Com um segundo pensamento, prefiro lidar com isso mais tarde."</DefaultText>
+      <DefaultText>"On second thought, I'd prefer to handle this later."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Você vai se retirar do meu caminho, soldado!"</DefaultText>
+      <DefaultText>"You will remove yourself from my path, soldier!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Nó de script 57</DefaultText>
+      <DefaultText>Script Node 57</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Parece que estou preso aqui."</DefaultText>
+      <DefaultText>"Looks like I'm stuck here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Nó de script 59</DefaultText>
+      <DefaultText>Script Node 59</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Bem ... aqui estou e aqui fico."</DefaultText>
+      <DefaultText>"Well... here I am, and here I stay."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Nó do banco 61</DefaultText>
+      <DefaultText>Bank Node 61</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Eu preciso de tempo para considerar."</DefaultText>
+      <DefaultText>"I need time to consider."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Eu não estou ficando entre vocês dois. Adeus."</DefaultText>
+      <DefaultText>"I'm not getting between you two. Farewell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Mesmo na morte, ele tem grande poder."</DefaultText>
+      <DefaultText>"Even in death, he has great power."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Se eles acham a responsabilidade tão cansativa, eles podem culpar [url=glossary:cairn]Cairn[/url] por isso." Ele sorri.</DefaultText>
+      <DefaultText>"If they find the responsibility so tiring, they can blame [url=glossary:cairn]Cairn[/url] for it." He smiles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Eu quase sinto pena desses místicos. Eles se banharam no luxo de ter um Arconte vivo para ensiná-los a magia. Mas mate o professor e os alunos estão desamparados - [url=glossary:cairn]Cairn[/url] não os treinou para treinarem eles mesmos."</DefaultText>
+      <DefaultText>"I almost pity these mystics. They bathed in the luxury of having a living Archon to teach them magic. But kill the teacher and the students are helpless - [url=glossary:cairn]Cairn[/url] didn't train them to train themselves."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Aproxime-se um pouco mais e grito alto o suficiente para estourar as palavras do outro lado da sua cabeça."</DefaultText>
+      <DefaultText>"Lean in any closer and I'll shout loud enough to blow the words out the other side of your head."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Eu suponho que eu posso ouvir você, mas é melhor que isso não seja um desperdício do meu tempo."</DefaultText>
+      <DefaultText>"I suppose I can hear you out, but this better not be a waste of my time."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Vocês dois sabem a rotina, certo? Meu julgamento é a lei, não uma sugestão."</DefaultText>
+      <DefaultText>"You two know the routine, right? My judgment is the law, not a suggestion."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

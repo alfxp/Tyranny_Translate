@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\0219_cv_galum</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Boa noite." O homem alto e magro sorri ao se aproximar. "Bem-vindo à senhora de Lethian. Meu nome é Galum e não me faria nenhum prazer servi-lo hoje."</DefaultText>
+      <DefaultText>"Good evening." The tall, thin man smiles at your approach. "And welcome to Lethian's Mistress. My name is Galum and it would do me no end of pleasure to serve you today."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Conte-me sobre você. Como você acabou aqui?"</DefaultText>
+      <DefaultText>"Tell me about yourself. How did you end up here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"O que você pode oferecer que os outros não podem?"</DefaultText>
+      <DefaultText>"What can you offer that the others can't?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,19 +26,19 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Não há muito a dizer, realmente." Galum reflete em silêncio por um momento. "Eu sou do norte e estava viajando com uma trupe quando fomos atacados por bandidos perto de [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Eu estava ferido e perdi a consciência e quando cheguei, a Senhora Sophia estava cuidando das minhas feridas".
+      <DefaultText>"There's not much to say, really." Galum muses quietly for a moment. "I am from the north and was traveling with a performing troupe when we were beset by bandits near [url=glossary:lethian's crossing]Lethian's Crossing[/url]. I was injured and lost consciousness and when I came to, Mistress Sophia was nursing my wounds."
 
-"O resto da trupe morreu na luta e eu não tinha para onde ir, então a Mestra me ofereceu uma posição. Ela sabia que minhas habilidades de apresentação seriam úteis. É o melhor trabalho que já tive."</DefaultText>
+"The rest of the troupe died in the fight and I had nowhere to go, so the Mistress offered me a position. She knew my performing skills would come in handy. It's the best job I've ever had."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Se você quer que o chão se mova e sinta as paredes desmoronando, eu sou o homem para você. Eu vou lhe dar o 'Deleite do Earthshaker' e - acredite em mim - você nunca mais vai querer contratar outro artista novamente."</DefaultText>
+      <DefaultText>"If you want the ground to move and feel the walls tumbling down, I'm the man for you. I will give you the 'Earthshaker's Delight' and - trust me - you will never want to hire another performer again."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Bem vindo de volta!" Galum cumprimenta-te com um sorriso tímido. "Você gostaria de passar algum tempo comigo?"</DefaultText>
+      <DefaultText>"Welcome back!" Galum greets you with a shy smile. "Would you like to spend some time with me?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

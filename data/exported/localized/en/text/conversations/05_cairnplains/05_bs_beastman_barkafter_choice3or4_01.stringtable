@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_cairnplains\05_bs_beastman_barkafter_choice3or4_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Não gosto disso, Fatebinder. Não quero dar [url=glossary:disfavored]Disfavored[/url] preciosos Dentes Antigos."</DefaultText>
+      <DefaultText>"Do not like this, Fatebinder. Do not want to give [url=glossary:disfavored]Disfavored[/url] precious Elder Teeth."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

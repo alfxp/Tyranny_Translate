@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\vx1\vx1_qst_gamblersruin</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

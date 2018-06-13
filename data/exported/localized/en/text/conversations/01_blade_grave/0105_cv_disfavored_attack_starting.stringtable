@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\0105_cv_disfavored_attack_starting</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>2</EntryCount>
   <Entries>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Chifres tocam à distância, anunciando o início do assalto [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>Horns blare in the distance, heralding the start of the [url=glossary:disfavored]Disfavored[/url] assault.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Esteja em sua guarda! Nós todos sabemos que as forças de [url=glossary:kyros]Kyros[/url] mostrarão os nossos semelhantes. Trim para o portão da frente - o ataque começará lá!"</DefaultText>
+      <DefaultText>"Be on your guard! We all know that the forces of [url=glossary:kyros]Kyros[/url] will show the likes of us no quarter. Rally to the front gate - the assault will begin there!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

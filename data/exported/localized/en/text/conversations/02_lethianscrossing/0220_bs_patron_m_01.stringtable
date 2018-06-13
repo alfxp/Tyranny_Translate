@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\0220_bs_patron_m_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Toda essa pele! Me faz querer ver o que está debaixo dela."</DefaultText>
+      <DefaultText>"All that fur! Makes me want to see what's under it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Você acha que ele pode se controlar quando ele ... você sabe? E se ele não parar quando você pedir a ele?"</DefaultText>
+      <DefaultText>"You think he can control himself when he's...you know? What if he won't stop when you ask him to?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Se você não fizer isso, eu sou! Talvez. Hmmmm ... Não tenho certeza. Quero dizer, e se ele ficar preso?"</DefaultText>
+      <DefaultText>"If you don't do it, I am! Maybe. Hmmmm...Not sure. I mean, what if he gets stuck?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

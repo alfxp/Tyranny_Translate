@@ -1,52 +1,52 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_cv_elia_campattack</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bom tempo. Nosso vigia relatou que os [url=glossary:disfavored]Disfavored[/url] estão fazendo para este acampamento." Ela olha para os canyons. "Nunca pensei que me veria lutar tanto para defender um sulco de lixo na terra."</DefaultText>
+      <DefaultText>"Good timing. Our lookout reported that the [url=glossary:disfavored]Disfavored[/url] are making for this encampment." She looks out at the canyons. "Never thought I'd see myself fight so hard to defend a garbage furrow in the [url=glossary:kyros]Kyros[/url]-be-damned dirt." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Qual é o status de suas defesas?"</DefaultText>
+      <DefaultText>"What's the status of your defenses?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Vamos nos preparar para a batalha."</DefaultText>
+      <DefaultText>"Let's ready ourselves for battle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Nossas barricadas norte e sul estão bem reforçadas. O portão leste foi destruído mais cedo em um ataque e nós não terminamos de reconstruí-lo. Se o inimigo vai entrar, as probabilidades são de que ele tente do leste."</DefaultText>
+      <DefaultText>"Our northern and southern barricades are well-reinforced. The eastern gate was wrecked earlier in an attack and we haven't finished rebuilding it. If the enemy is going to get inside, odds are they'll try it from the east."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>O capitão se vira quando um soldado grita do lado leste do forte. "Eles estão aqui. Defenda o portão leste - vou me preparar no portão principal para a próxima onda!"</DefaultText>
+      <DefaultText>The captain turns as a soldier cries out from the eastern side of the fort. "They're here. Defend the eastern gate - I'll prepare at the main gate for the next wave!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"É admirável que eles conseguiram construir tanto. O [url=glossary:blade grave]Blade Grave[/url] oferece poucos recursos de valor."</DefaultText>
+      <DefaultText>"It's admirable that they managed to build this much. The [url=glossary:blade grave]Blade Grave[/url] offers few resources of value."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Eu estava esperando que você dissesse isso." O verso aperta suas armas e dá um sorriso.</DefaultText>
+      <DefaultText>"I was hoping you would say that." Verse tightens her grip on her weapons and cracks a smile. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Nós fizemos um bom trabalho de cavar nossas garras na área, mas não estamos equipados para resistir ao ferro por muito tempo. Você pode nos ajudar?"</DefaultText>
+      <DefaultText>"We've done a fair job of digging our claws into the area, but we're not equipped to stand against [url=glossary:disfavored]Disfavored[/url] iron for long. Can you help us?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Eu estava esperando que você dissesse isso." O verso aperta suas armas e dá um sorriso.</DefaultText>
+      <DefaultText>"I was hoping you would say that." Verse tightens her grip on her weapons and cracks a smile. </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

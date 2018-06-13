@@ -1,37 +1,37 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>176</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Fogo do Canal</DefaultText>
+      <DefaultText>Channel Fire</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Anulando</DefaultText>
+      <DefaultText>Nullifying</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Entropia</DefaultText>
+      <DefaultText>Entropy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Guarda Azure</DefaultText>
+      <DefaultText>Azure Guard</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Distorção</DefaultText>
+      <DefaultText>Distortion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Render Julgamento</DefaultText>
+      <DefaultText>Render Judgment</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Unidade de Ardente</DefaultText>
+      <DefaultText>Unity of Ardent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Passiva</DefaultText>
+      <DefaultText>Passive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,57 +56,57 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Passiva</DefaultText>
+      <DefaultText>Passive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Adaptativo</DefaultText>
+      <DefaultText>Adaptive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Passiva</DefaultText>
+      <DefaultText>Passive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Rastreamento</DefaultText>
+      <DefaultText>Tracking</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Reverberando</DefaultText>
+      <DefaultText>Reverberating</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Exsanguinante</DefaultText>
+      <DefaultText>Exsanguinating</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Geladura</DefaultText>
+      <DefaultText>Frostbite</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Radiante</DefaultText>
+      <DefaultText>Radiant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Devastador</DefaultText>
+      <DefaultText>Devastating</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Passiva</DefaultText>
+      <DefaultText>Passive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Oprimir</DefaultText>
+      <DefaultText>Oppressing</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Potência [url=glossary:cairn]Cairn[/url]</DefaultText>
+      <DefaultText>[url=glossary:cairn]Cairn[/url]'s Potency</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,32 +126,32 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Tenacidade da [url=glossary:cairn]Cairn[/url]</DefaultText>
+      <DefaultText>[url=glossary:cairn]Cairn[/url]'s Tenacity</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Formulário [url=glossary:cairn]Cairn[/url]</DefaultText>
+      <DefaultText>[url=glossary:cairn]Cairn[/url]'s Form</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Passiva</DefaultText>
+      <DefaultText>Passive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Carregada</DefaultText>
+      <DefaultText>Charged</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Invencível</DefaultText>
+      <DefaultText>Unconquerable</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Resoluto</DefaultText>
+      <DefaultText>Resolute</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,52 +161,52 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Passiva</DefaultText>
+      <DefaultText>Passive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Ira do Tidecaster</DefaultText>
+      <DefaultText>Tidecaster's Wrath</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Autoridade do senhor</DefaultText>
+      <DefaultText>Lord's Authority</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Não consolidado</DefaultText>
+      <DefaultText>Unbound</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Brilho</DefaultText>
+      <DefaultText>Brilliance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Formato</DefaultText>
+      <DefaultText>Form</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Graça</DefaultText>
+      <DefaultText>Grace</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Pressa</DefaultText>
+      <DefaultText>Haste</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Potência</DefaultText>
+      <DefaultText>Potency</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Tenacidade</DefaultText>
+      <DefaultText>Tenacity</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,17 +216,17 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Carbonizado</DefaultText>
+      <DefaultText>Charred</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Coragem</DefaultText>
+      <DefaultText>Courage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Amortecimento</DefaultText>
+      <DefaultText>Dampening</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Indescritível</DefaultText>
+      <DefaultText>Elusive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,22 +246,22 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Etéreo</DefaultText>
+      <DefaultText>Ethereal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Anti chama</DefaultText>
+      <DefaultText>Flame Proof</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Fugindo</DefaultText>
+      <DefaultText>Fleeing</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Frenesi</DefaultText>
+      <DefaultText>Frenzy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,12 +271,12 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Aterramento</DefaultText>
+      <DefaultText>Grounding</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Endurecido</DefaultText>
+      <DefaultText>Hardened</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,162 +286,162 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Peso leve</DefaultText>
+      <DefaultText>Lightweight</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Por sorte</DefaultText>
+      <DefaultText>Lucky</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Mártir</DefaultText>
+      <DefaultText>Martyr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Caçador da Noite</DefaultText>
+      <DefaultText>Nighthunter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>De gigantes</DefaultText>
+      <DefaultText>Of Giants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>De segredos</DefaultText>
+      <DefaultText>Of Secrets</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Purificando</DefaultText>
+      <DefaultText>Purifying</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Passo rápido</DefaultText>
+      <DefaultText>Quickstep</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Regenerando</DefaultText>
+      <DefaultText>Regenerating</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Chamadas</DefaultText>
+      <DefaultText>Ring-calling</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Selvagem</DefaultText>
+      <DefaultText>Savage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Arbitragem</DefaultText>
+      <DefaultText>Arbitration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Das lendas</DefaultText>
+      <DefaultText>Of Legends</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>De trapaceiros</DefaultText>
+      <DefaultText>Of Rogues</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Dos guerreiros</DefaultText>
+      <DefaultText>Of Warriors</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Sigil de Atrofia</DefaultText>
+      <DefaultText>Sigil of Atrophy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Sigilo de Fogo</DefaultText>
+      <DefaultText>Sigil of Fire</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Sigilo da Força</DefaultText>
+      <DefaultText>Sigil of Force</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Sigilo de Terratus</DefaultText>
+      <DefaultText>Sigil of Terratus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Sigilo da Ilusão</DefaultText>
+      <DefaultText>Sigil of Illusion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Sigilo da Vida</DefaultText>
+      <DefaultText>Sigil of Life</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Sigil de Relâmpago</DefaultText>
+      <DefaultText>Sigil of Lightning</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Sigilo da Emoção</DefaultText>
+      <DefaultText>Sigil of Emotion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Sigilo de Pedra</DefaultText>
+      <DefaultText>Sigil of Stone</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Sigil de Vigor</DefaultText>
+      <DefaultText>Sigil of Vigor</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Ágil</DefaultText>
+      <DefaultText>Nimble</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Reflexão de feitiço</DefaultText>
+      <DefaultText>Spell Reflection</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Espinhos</DefaultText>
+      <DefaultText>Thorns</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Visão cega</DefaultText>
+      <DefaultText>Blindsight</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Imortal</DefaultText>
+      <DefaultText>Undying</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Veterano</DefaultText>
+      <DefaultText>Veteran</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Vigilância</DefaultText>
+      <DefaultText>Vigilant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,52 +451,52 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Aquecimento</DefaultText>
+      <DefaultText>Warming</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Sensato</DefaultText>
+      <DefaultText>Wise</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Maior brilho</DefaultText>
+      <DefaultText>Greater Brilliance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Forma Maior</DefaultText>
+      <DefaultText>Greater Form</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Graça Maior</DefaultText>
+      <DefaultText>Greater Grace</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Maior pressa</DefaultText>
+      <DefaultText>Greater Haste</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Maior Potência</DefaultText>
+      <DefaultText>Greater Potency</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Maior tenacidade</DefaultText>
+      <DefaultText>Greater Tenacity</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Balanceamento</DefaultText>
+      <DefaultText>Balancing Act</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Amaldiçoado</DefaultText>
+      <DefaultText>Cursed</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,62 +506,62 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Artista</DefaultText>
+      <DefaultText>Entertainer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Hidromancia</DefaultText>
+      <DefaultText>Hydromancy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Legado</DefaultText>
+      <DefaultText>[url=glossary:unbroken]Unbroken[/url] Legacy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Desabafar</DefaultText>
+      <DefaultText>Unbreathing</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Sombra</DefaultText>
+      <DefaultText>Shadow</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Preciso</DefaultText>
+      <DefaultText>Accurate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Onipotente</DefaultText>
+      <DefaultText>Omnipotent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Pesada</DefaultText>
+      <DefaultText>Weighted</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Punho de ferro</DefaultText>
+      <DefaultText>Iron Grip</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Sanguinário</DefaultText>
+      <DefaultText>Bloodthirsty</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Pedra Encantada</DefaultText>
+      <DefaultText>Stone Enchanted</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Gravetos</DefaultText>
+      <DefaultText>Kindling</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,22 +571,22 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Rapinando</DefaultText>
+      <DefaultText>Preying</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Venenoso</DefaultText>
+      <DefaultText>Poisonous</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Impenetrável</DefaultText>
+      <DefaultText>Impenetrable</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Irregular</DefaultText>
+      <DefaultText>Jagged</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,172 +611,172 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Potencia II</DefaultText>
+      <DefaultText>Potency II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Congelando</DefaultText>
+      <DefaultText>Freezing</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Explosão Arcana</DefaultText>
+      <DefaultText>Arcane Blast</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Aniquilação</DefaultText>
+      <DefaultText>Annihilation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Explosivo</DefaultText>
+      <DefaultText>Explosive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Rendição</DefaultText>
+      <DefaultText>Rending</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Escalonamento</DefaultText>
+      <DefaultText>Staggering</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Limpeza</DefaultText>
+      <DefaultText>Cleansing</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Estático</DefaultText>
+      <DefaultText>Static</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Rejuvenescendo</DefaultText>
+      <DefaultText>Rejuvenating</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Vôlei</DefaultText>
+      <DefaultText>Volley</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Aluna</DefaultText>
+      <DefaultText>Student</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Prova de pedra</DefaultText>
+      <DefaultText>Stone Proof</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Sobrevivente</DefaultText>
+      <DefaultText>Survivor</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Impedimento</DefaultText>
+      <DefaultText>Hindering</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Menor [url=glossary:accuracy]Accuracy[/url]</DefaultText>
+      <DefaultText>Minor [url=glossary:accuracy]Accuracy[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Enervador</DefaultText>
+      <DefaultText>Enervating</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Brilho de [url=glossary:cairn]Cairn[/url]</DefaultText>
+      <DefaultText>[url=glossary:cairn]Cairn[/url]'s Brilliance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Afluência</DefaultText>
+      <DefaultText>Surging</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Reprisação de Bane</DefaultText>
+      <DefaultText>Bane Reprisal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Autoridade</DefaultText>
+      <DefaultText>Authority</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Feitiçaria</DefaultText>
+      <DefaultText>Sorcery</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Erradicar</DefaultText>
+      <DefaultText>Eradicating</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Afiado</DefaultText>
+      <DefaultText>Sharp</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Imolar</DefaultText>
+      <DefaultText>Immolate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Orgulho do regente</DefaultText>
+      <DefaultText>Regent's Pride</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Mineira Parrying</DefaultText>
+      <DefaultText>Minor Parrying</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Sigilo de Gelo</DefaultText>
+      <DefaultText>Sigil of Frost</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Veneno de mercúrio</DefaultText>
+      <DefaultText>Quicksilver Poison</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Pesado</DefaultText>
+      <DefaultText>Heavy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Pesado</DefaultText>
+      <DefaultText>Cumbersome</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Capitalizando</DefaultText>
+      <DefaultText>Capitalizing</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Hemorragia</DefaultText>
+      <DefaultText>Hemorrhaging</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Refrigeração</DefaultText>
+      <DefaultText>Chilling</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -786,27 +786,27 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Corroendo</DefaultText>
+      <DefaultText>Eroding</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Lavagem</DefaultText>
+      <DefaultText>Scouring</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Carbonizado</DefaultText>
+      <DefaultText>Charred</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Magia</DefaultText>
+      <DefaultText>Wizardry</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Fortitude Dire</DefaultText>
+      <DefaultText>Dire Fortitude</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,72 +816,72 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Óptica</DefaultText>
+      <DefaultText>Optics</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Pele de pedra</DefaultText>
+      <DefaultText>Stone Skin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Ortopédico</DefaultText>
+      <DefaultText>Orthopedic</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Março forçado</DefaultText>
+      <DefaultText>Forced March</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Sofrimento</DefaultText>
+      <DefaultText>Suffering</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>Pelego Grosso do Homem-Besta</DefaultText>
+      <DefaultText>Beastman's Thick Hide</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>Ferocidade</DefaultText>
+      <DefaultText>Ferocity</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Fortificado</DefaultText>
+      <DefaultText>Fortified</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Leitão de Rixatrix</DefaultText>
+      <DefaultText>Rixatrix's Piglet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Estudioso</DefaultText>
+      <DefaultText>Scholar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Vazio Sombrio</DefaultText>
+      <DefaultText>Shadow Void</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Encoberto</DefaultText>
+      <DefaultText>Shrouding</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>Potência volátil</DefaultText>
+      <DefaultText>Volatile Power</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Melodia Incessante</DefaultText>
+      <DefaultText>Incessant Melody</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

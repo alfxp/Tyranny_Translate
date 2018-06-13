@@ -1,267 +1,267 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\01_bladegrave\01_qst_trappersjunction_main</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>52</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Um caminho assustador</DefaultText>
+      <DefaultText>A Daunting Path</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viajar para a junção do caçador.</DefaultText>
+      <DefaultText>Travel to Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>A junção do caçador da busca para sinais do [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Search Trapper's Junction for signs of the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Entre no campo [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Enter the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Fale com Mattias no Sudoeste</DefaultText>
+      <DefaultText>Talk to Mattias in the South-West</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Fale com Remedy Jagged.</DefaultText>
+      <DefaultText>Talk to Jagged Remedy.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Encontre o Dauntless.</DefaultText>
+      <DefaultText>Find the Dauntless.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Retornar para Mattias</DefaultText>
+      <DefaultText>Return to Mattias</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Mostre o Dauntless para Mattias.</DefaultText>
+      <DefaultText>Show the Dauntless to Mattias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Fale com Remedy Jagged</DefaultText>
+      <DefaultText>Talk to Jagged Remedy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Mate todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção do caçador.</DefaultText>
+      <DefaultText>Kill all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Mate todos os [url=glossary:unbroken]Unbroken[/url] na junção do caçador.</DefaultText>
+      <DefaultText>Kill all of the [url=glossary:unbroken]Unbroken[/url] at Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Fale com o líder [url=glossary:unbroken]Unbroken[/url] na junção do caçador.</DefaultText>
+      <DefaultText>Talk to the [url=glossary:unbroken]Unbroken[/url] leader at Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Fale com o [url=glossary:scarlet chorus]Scarlet Chorus[/url] líder na junção do caçador.</DefaultText>
+      <DefaultText>Talk to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] leader at Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Mate todos os [url=glossary:unbroken]Unbroken[/url] na junção do caçador.</DefaultText>
+      <DefaultText>Kill all of the [url=glossary:unbroken]Unbroken[/url] at Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Mate todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção do caçador.</DefaultText>
+      <DefaultText>Kill all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Retornar para Mattias</DefaultText>
+      <DefaultText>Return to Mattias</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Fale com Remedy Jagged</DefaultText>
+      <DefaultText>Talk to Jagged Remedy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Volte para Mattias.</DefaultText>
+      <DefaultText>Return to Mattias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Elimine o [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção do caçador.</DefaultText>
+      <DefaultText>Eliminate the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Fale com o Mattias.</DefaultText>
+      <DefaultText>Speak with Mattias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Mattias, líder do [url=glossary:unbroken]Unbroken[/url], foi encaixotado no cruzamento de Trapper e é incapaz de reunir suas forças em Duskwatch. Viaje até lá e ajude-o.</DefaultText>
+      <DefaultText>Mattias, leader of the [url=glossary:unbroken]Unbroken[/url], has been boxed in at Trapper's Junction and is unable to rejoin his forces at Duskwatch. Travel there and aid him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Viaje até a junção de Trapper para localizar o grupo de [url=glossary:unbroken]Unbroken[/url] na área.</DefaultText>
+      <DefaultText>Travel to Trapper's Junction to locate the group of [url=glossary:unbroken]Unbroken[/url] in the area.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Agora que você chegou ao Trapper's Junction, dê uma olhada para descobrir mais sobre a situação com o [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Now that you've arrived at Trapper's Junction, take a look around to figure out learn more about the situation with the [url=glossary:unbroken]Unbroken[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Você encontrou um soldado mortalmente ferido e descobriu que o 2222222222222222222222222222222222222222222222112 perseguiu o [url=glossary:unbroken]Unbroken[/url] aqui. Localize o campo [url=glossary:unbroken]Unbroken[/url] para obter mais informações sobre a situação.</DefaultText>
+      <DefaultText>You encountered a mortally wounded [url=glossary:unbroken]Unbroken[/url] soldier and found out that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] has chased the [url=glossary:unbroken]Unbroken[/url] here. Locate the [url=glossary:unbroken]Unbroken[/url] camp to learn more information on the situation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Jagged Remedy quer recrutar Mattias e o [url=glossary:unbroken]Unbroken[/url] no cruzamento de Trapper. Ele mencionou que os cativos poderiam ser usados ​​como moeda de barganha para convencer Mattias a ceder o alistamento.</DefaultText>
+      <DefaultText>Jagged Remedy wants to conscript Mattias and the [url=glossary:unbroken]Unbroken[/url] in Trapper's Junction. He mentioned that the [url=glossary:scarlet chorus]Scarlet Chorus[/url]' captives might be used as a bargaining chip to convince Mattias to give into conscription.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Mattias está debatendo se juntar ao [url=glossary:scarlet chorus]Scarlet Chorus[/url] mas ainda não tem certeza. Ele mencionou que, se o [url=glossary:scarlet chorus]Scarlet Chorus[/url] mostrar algum sinal de boa vontade, ele estaria mais disposto.</DefaultText>
+      <DefaultText>Mattias is debating joining the [url=glossary:scarlet chorus]Scarlet Chorus[/url] but is still unsure. He mentioned that if the [url=glossary:scarlet chorus]Scarlet Chorus[/url] were to show some sign of good will, he'd be more willing.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Você aprendeu sobre uma espada antiga chamada Dauntless que pode aumentar a moral de Mattias e seus [url=glossary:unbroken]Unbroken[/url] soldados. Dizem que está localizado perto dos [url=glossary:blade grave]Blade Grave[/url] Oldwalls.</DefaultText>
+      <DefaultText>You learned about an ancient sword named the Dauntless that can boost the morale of Mattias and his [url=glossary:unbroken]Unbroken[/url] soldiers. It's said to be located near the [url=glossary:blade grave]Blade Grave[/url] Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Você negociou com sucesso com Jagged Remedy para mostrar um sinal de boa fé para o [url=glossary:unbroken]Unbroken[/url], liberando soldados que deveriam ser enviados para o forte [url=glossary:the voices of nerat]the Voices of Nerat[/url].</DefaultText>
+      <DefaultText>You successfully negotiated with Jagged Remedy to show a sign of good faith toward the [url=glossary:unbroken]Unbroken[/url] by releasing soldiers that were to be sent to [url=glossary:the voices of nerat]the Voices of Nerat[/url]'s fort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Você recuperou a lâmina lendária, o Dauntless. Mostre-o a Mattias e inspire o [url=glossary:unbroken]Unbroken[/url] na junção do caçador.</DefaultText>
+      <DefaultText>You recovered the legendary blade, the Dauntless. Show it to Mattias and inspire the [url=glossary:unbroken]Unbroken[/url] at Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Com Irentis e seus partidários mortos, não há nada que mantenha Mattias de se juntar ao [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Hora de dizer ao Jagged Remedy que o [url=glossary:unbroken]Unbroken[/url] aqui se juntará.</DefaultText>
+      <DefaultText>With Irentis and his supporters dead, there is nothing keeping Mattias from joining the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Time to tell Jagged Remedy that the [url=glossary:unbroken]Unbroken[/url] here will join.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText>Você decidiu provocar o Jagged Remedy e agora deve eliminar todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldados que estavam sob seu comando.</DefaultText>
+      <DefaultText>You've decided to provoke Jagged Remedy, and must now take out all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldiers that were under his command.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10013</ID>
-      <DefaultText>Você decidiu provocar Mattias e agora deve eliminar todos os [url=glossary:unbroken]Unbroken[/url] soldados que estavam sob seu comando.</DefaultText>
+      <DefaultText>You've decided to provoke Mattias, and must now take out all of the [url=glossary:unbroken]Unbroken[/url] soldiers that were under his command.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>Você cuidou da ameaça [url=glossary:scarlet chorus]Scarlet Chorus[/url] na Junção do Trapper. Hora de falar com o líder do [url=glossary:unbroken]Unbroken[/url] lá e dizer-lhes a boa notícia.</DefaultText>
+      <DefaultText>You've taken care of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] threat at Trapper's Junction. Time to talk to the leader of the [url=glossary:unbroken]Unbroken[/url] there and tell them the good news.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10015</ID>
-      <DefaultText>Você matou todos os [url=glossary:unbroken]Unbroken[/url] na Junção do Trapper. Hora de falar com o líder do [url=glossary:scarlet chorus]Scarlet Chorus[/url] lá e dizer-lhes que todos os rebeldes estão mortos.</DefaultText>
+      <DefaultText>You've killed all of the [url=glossary:unbroken]Unbroken[/url] at Trapper's Junction. Time to talk to the leader of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] there and tell them all of the rebels are dead.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10018</ID>
-      <DefaultText>Você já provocou Mattias, e deve tirar todos os [url=glossary:unbroken]Unbroken[/url] soldados que estavam sob seu comando.</DefaultText>
+      <DefaultText>You've now provoked Mattias, and must take out all of the [url=glossary:unbroken]Unbroken[/url] soldiers that were under his command.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10019</ID>
-      <DefaultText>Você já provocou o Jagged Remedy, e deve eliminar todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldados que estavam sob seu comando.</DefaultText>
+      <DefaultText>You've now provoked Jagged Remedy, and must take out all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldiers that were under his command.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10023</ID>
-      <DefaultText>Você não conseguiu convencer a Jagged Remedy a entregar prisioneiros. Em vez disso, ele deu a você um ultimato para entregar a Mattias: Conscript, ou todo mundo vai morrer quando os reforços do Coro chegarem.</DefaultText>
+      <DefaultText>You were not successful in convincing Jagged Remedy to hand over prisoners. Instead he gave you an ultimatum to deliver to Mattias: Conscript or everyone will die when Chorus reinforcements arrive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10025</ID>
-      <DefaultText>O ultimato do Remedy Jagged não ficou bem com Mattias. Ele reuniu suas tropas contra você e os [url=glossary:scarlet chorus]Scarlet Chorus[/url], e você conseguiu colocar sua rebelião para baixo. Retorne a Jagged Remedy e retransmita esta notícia para ele.</DefaultText>
+      <DefaultText>Jagged Remedy's ultimatum did not sit well with Mattias. He rallied his troops against you and the [url=glossary:scarlet chorus]Scarlet Chorus[/url], and you managed to put their rebellion down. Return to Jagged Remedy and relay this news to him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10026</ID>
-      <DefaultText>Você negociou com sucesso com Jagged Remedy para mostrar um sinal de boa fé para o [url=glossary:unbroken]Unbroken[/url] por entregar um [url=glossary:disfavored]Disfavored[/url] capitão para o [url=glossary:unbroken]Unbroken[/url] para punir como bem entenderem.</DefaultText>
+      <DefaultText>You successfully negotiated with Jagged Remedy to show a sign of good faith toward the [url=glossary:unbroken]Unbroken[/url] by handing over a [url=glossary:disfavored]Disfavored[/url] captain to the [url=glossary:unbroken]Unbroken[/url] to punish as they see fit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10027</ID>
-      <DefaultText>Você recuperou o espírito do [url=glossary:unbroken]Unbroken[/url] recuperando o artefato perdido, o Dauntless. Conduza a carga [url=glossary:unbroken]Unbroken[/url] contra o [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção do caçador e destrua-os.</DefaultText>
+      <DefaultText>You've rallied the spirit of the [url=glossary:unbroken]Unbroken[/url] by recovering the lost artifact, the Dauntless. Lead the [url=glossary:unbroken]Unbroken[/url] charge against the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in Trapper's Junction and destroy them.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10028</ID>
-      <DefaultText>As forças [url=glossary:scarlet chorus]Scarlet Chorus[/url] na Junção do Trapper foram aniquiladas. Consulte Mattias sobre o seu próximo passo.</DefaultText>
+      <DefaultText>The [url=glossary:scarlet chorus]Scarlet Chorus[/url] forces at Trapper's Junction have been annihilated. Consult Mattias about your next move.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Mattias concordou em ouvir os termos de rendição. Fale com ele no [url=glossary:unbroken]Unbroken[/url] acampamento.</DefaultText>
+      <DefaultText>Mattias has agreed to listen to the [url=glossary:scarlet chorus]Scarlet Chorus[/url]' terms of surrender. Speak with him at the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Mattias recebeu você em seu acampamento. Fale com ele no acampamento [url=glossary:unbroken]Unbroken[/url].</DefaultText>
+      <DefaultText>Mattias has welcomed you into his encampment. Speak to him at the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Não vendo nenhuma alternativa, Mattias está pensando em se juntar ao [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Procure outro jeito de convencer Mattias a ficar do seu lado.</DefaultText>
+      <DefaultText>Seeing no alternative, Mattias is considering joining the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Look for another way to convince Mattias to side with you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você inspirou o [url=glossary:unbroken]Unbroken[/url] com o Dauntless e reuniu-os para derrotar o [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção de Trapper.</DefaultText>
+      <DefaultText>You inspired the [url=glossary:unbroken]Unbroken[/url] with the Dauntless and rallied them to defeat the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você ajudou o [url=glossary:scarlet chorus]Scarlet Chorus[/url] a conscriptar com êxito o [url=glossary:unbroken]Unbroken[/url] no Junção do Trapper para os ranks do Chorus.</DefaultText>
+      <DefaultText>You assisted the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in successfully conscripting the [url=glossary:unbroken]Unbroken[/url] in Trapper's Junction into the Chorus' ranks.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Você matou todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção do caçador, liberando o [url=glossary:unbroken]Unbroken[/url] lá da ameaça.</DefaultText>
+      <DefaultText>You killed all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction, freeing the [url=glossary:unbroken]Unbroken[/url] there from the threat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Você matou todos os [url=glossary:unbroken]Unbroken[/url] rebeldes na junção do caçador, não deixando nada vivo para se juntar ao [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <DefaultText>You killed all of the [url=glossary:unbroken]Unbroken[/url] rebels at Trapper's Junction, leaving none alive to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>Você matou todo mundo na Junção do Trapper. Não [url=glossary:scarlet chorus]Scarlet Chorus[/url] ou [url=glossary:unbroken]Unbroken[/url] rebeldes permanecem vivos.</DefaultText>
+      <DefaultText>You have killed everyone at Trapper's Junction. No [url=glossary:scarlet chorus]Scarlet Chorus[/url] or [url=glossary:unbroken]Unbroken[/url] rebels remain alive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>Você atacou os rebeldes no Trapper's Junction e os alienou da sua causa. Sem o apoio deles, sua rebelião tem poucas chances de sucesso.</DefaultText>
+      <DefaultText>You have attacked the rebels at Trapper's Junction and alienated them from your cause. Without their support, your rebellion stands little chance of succeeding.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30006</ID>
-      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

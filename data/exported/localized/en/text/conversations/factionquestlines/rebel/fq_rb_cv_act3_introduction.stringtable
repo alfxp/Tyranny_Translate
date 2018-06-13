@@ -1,52 +1,52 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\factionquestlines\rebel\fq_rb_cv_act3_introduction</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Binder [nome do jogador]!" Arri se aproxima de você sem fôlego. "Nossos batedores manchado [url=glossary:disfavored]Disfavored[/url] forças que marcham em 222222222222222222222222222222222233222222222222222222222. O decreto de [url=glossary:kyros]Kyros[/url] deve ter colocado um fogo sob [url=glossary:graven ashe]Graven Ashe[/url]. Eu aposto minha lança ele quer o ferro da cidade debaixo do controle dele".</DefaultText>
+      <DefaultText>"Binder [Player Name]!" Arri approaches you breathless. "Our scouts spotted [url=glossary:disfavored]Disfavored[/url] forces marching on [url=glossary:lethian's crossing]Lethian's Crossing[/url]. The decree from [url=glossary:kyros]Kyros[/url] must have put a fire under [url=glossary:graven ashe]Graven Ashe[/url]. I'd bet my spear he wants the town's iron under his control." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"O futuro da coalizão dança à beira de uma lâmina. Fale com os líderes. Esta pode ser nossa única chance de revidar de uma posição de poder."</DefaultText>
+      <DefaultText>"The future of the coalition dances on the edge of a blade. Talk to the leaders. This might be our only chance to strike back from a position of power." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Precisamos reunir nossas forças e revidar. Chame uma reunião da coalizão."</DefaultText>
+      <DefaultText>"We need to gather our forces and strike back. Call a meeting of the coalition."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Você está certo. Vou reunir todos para discutir nossos próximos passos. Podemos contar com eles realizando tanto." Ela franze a testa. "Apesar de [url=glossary:kyros]Kyros[/url] saber se eles vão cooperar uns com os outros."</DefaultText>
+      <DefaultText>"You're right. I'll gather everyone to discuss our next steps. We can count on them accomplishing that much." She frowns. "Though [url=glossary:kyros]Kyros[/url] knows if they'll cooperate with each other." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"[url=glossary:lethian's crossing]Lethian's Crossing[/url] não me interessa."</DefaultText>
+      <DefaultText>"[url=glossary:lethian's crossing]Lethian's Crossing[/url] doesn't concern me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Eu devo lidar com isso agora?"</DefaultText>
+      <DefaultText>"Must I deal with this now?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Isso ... isso está acontecendo, quer você tenha ou não tempo para isso! Temos que reunir nossas forças e revidar." Ela olha para você como se isso fosse evidente.</DefaultText>
+      <DefaultText>"This... this is happening whether or not you have time for it! We have to assemble our forces and strike back." She looks to you as if this should be evident.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Nós estaremos esperando por você em [url=glossary:ascension hall]Ascension Hall[/url]."</DefaultText>
+      <DefaultText>"We'll be waiting for you at [url=glossary:ascension hall]Ascension Hall[/url]." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"É melhor você se preocupar. Se o [url=glossary:disfavored]Disfavored[/url] tomar o cruzamento, então você terá colocado um novo arsenal de armas de ferro nas mãos do inimigo." Ela sacode a cabeça. "Estou reunindo a coalizão. Seria bom se você fizesse uma aparição."</DefaultText>
+      <DefaultText>"You had better get concerned. If the [url=glossary:disfavored]Disfavored[/url] take the Crossing, then you'll have put a new arsenal of iron weapons in enemy hands." She shakes her head. "I'm gathering the coalition. It would be nice if you made an appearance." </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

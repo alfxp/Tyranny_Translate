@@ -1,24 +1,24 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\06_cv_albetronas</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Fatebinder". O tenente dá-lhe um breve aceno de cabeça.
+      <DefaultText>"Fatebinder." The lieutenant gives you a curt nod. 
 
-"Eu estou pouco à vontade neste salão polido, mas eu admito que é um alívio do campo de batalha e campos de treinamento. Se Ashe precisar que eu fique aqui e represente seus interesses durante a ocupação, então eu vou estar à altura da tarefa." "</DefaultText>
+"I'm ill at ease in this polished hall, but I admit that it's a reprieve from the battlefield and training grounds. If Ashe needs me to stay here and represent his interests throughout the occupation, then I'll be up to the task." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hail Ashe e [url=glossary:kyros]Kyros[/url]!"</DefaultText>
+      <DefaultText>"Hail Ashe and [url=glossary:kyros]Kyros[/url]!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Não pode ser pior que nossos dias em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Brincadeiras à parte, você era generoso para conceder o [url=glossary:disfavored]Disfavored[/url] controle sobre a cidade. Até mesmo a legião de ferro precisa uma fratura da frente de vez em quando."</DefaultText>
+      <DefaultText>"It can't be worse than our days in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Joking aside, you were generous to grant the [url=glossary:disfavored]Disfavored[/url] control over the city. Even the iron legion needs a break from the front every once in a while." </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

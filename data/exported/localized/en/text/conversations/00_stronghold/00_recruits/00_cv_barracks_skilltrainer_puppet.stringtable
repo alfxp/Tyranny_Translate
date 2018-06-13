@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_barracks_skilltrainer_puppet</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>28</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Para o coro e as vozes, eh Fatebinder? Hee hee!"</DefaultText>
+      <DefaultText>"For the Chorus and the Voices, eh Fatebinder? Hee hee!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Vamos queimar alguma coisa juntos, Fatebinder! Vamos queimar tudo!" O fantoche sorri maniacally.</DefaultText>
+      <DefaultText>"Let us burn something together, Fatebinder! Let us burn it all!" Puppet smiles maniacally.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Não. Vamos treinar em vez disso."</DefaultText>
+      <DefaultText>"No. Let's train instead." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,24 +26,24 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Oh, bom, é você." Ela não parece nada satisfeita. "Você sabe, eu estou começando a pensar que as vozes estavam certas sobre você ... mas não importa isso. Aqui para treinamento?"</DefaultText>
+      <DefaultText>"Oh, good, it's you." She doesn't look pleased at all. "You know, I'm starting to think the Voices was right about you... but never mind that. Here for training?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Braseiros em abundância, mas não há coisas suficientes para queimar ..." Puppet olha de um jeito distraído. "Oh, é você! Você está aqui para treinar?"</DefaultText>
+      <DefaultText>"Braziers in abundance, but not enough things to burn..." Puppet glances about in a distracted manner. "Oh, it's you! Are you here for training?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Hoo hoo! Hee hee! Ha ha!"
+      <DefaultText>"Hoo hoo! Hee hee! Ha ha!" 
 
-O Blood Chanter ri e tropeça, dançando de maneira descontrolada e maníaca.</DefaultText>
+The Blood Chanter laughs and canters about, dancing in a rhythmless and maniacal fashion. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"E agora? O que é isso?"</DefaultText>
+      <DefaultText>"What now? What is this?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,27 +53,27 @@ O Blood Chanter ri e tropeça, dançando de maneira descontrolada e maníaca.</D
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Eu vim para ajudá-lo, meu querido! [url=glossary:the voices of nerat]The Voices of Nerat[/url] me disse para subir - up - UP até a Spire e encontrar o Fatebinder decorado de [url=glossary:tunon]Tunon[/url]. Agora aqui estou eu!" Ela abre bem os braços.</DefaultText>
+      <DefaultText>"I've come to help you, dear one! [url=glossary:the voices of nerat]The Voices of Nerat[/url] told me to go up - up - UP to the Spire and find the decorated Fatebinder of [url=glossary:tunon]Tunon[/url]. Now here I am!" She spreads her arms wide.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Eu sou Puppet, e meu mestre me pediu para mantê-lo entretido, afiado e pronto para a batalha. Você gostaria de tentar sua mão em bolas de malabarismo, ou devemos trocar histórias e chorar para dormir?" Ela dobra as mãos em um travesseiro e descansa a cabeça.</DefaultText>
+      <DefaultText>"I am Puppet, and my master bade me to keep you entertained, sharp, and battle-ready. Would you like to try your hand at juggling fireballs, or shall we trade stories and cry ourselves to sleep?" She folds her hands into a pillow and rests her head.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] é meu inimigo. Ele enviou você aqui?"</DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] is my enemy. He sent you here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Você foi enviado para me espionar, não foi?"</DefaultText>
+      <DefaultText>"You were sent to spy on me, weren't you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Vamos treinar."</DefaultText>
+      <DefaultText>"Let's train."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,19 +83,19 @@ O Blood Chanter ri e tropeça, dançando de maneira descontrolada e maníaca.</D
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Não questione seu gênio! As Vozes sabem mais do que qualquer um de nós pode sonhar, e nós somos TODAS as marionetes antes dele!" Ela respira pesadamente e recupera a compostura.</DefaultText>
+      <DefaultText>"Do not question his genius! The Voices knows more than any of us may ever dream, and we are ALL puppets before him!" She breathes heavily and regains her composure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"As vozes viveram por muito tempo para ter algum prazer de um inimigo desinteressante. Ele quer você bem-educado, educado, competente. Espero que você ache isso encorajador, Fatebinder! Por que vale a pena, ele também envia seus elogios."</DefaultText>
+      <DefaultText>"The Voices has lived for too long to take any pleasure from an uninteresting foe. He wants you well-rounded, educated, competent. I hope you find that encouraging, Fatebinder! For what it's worth, he also sends his compliments." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>O Blood Chanter olha para você com uma expressão vaga. Sua cabeça inclina para o lado de uma forma solta.
+      <DefaultText>The Blood Chanter stares at you with a vacant expression. Her head tilts to the side in a loose fashion. 
 
-Há uma nota presa no peito dela.</DefaultText>
+There is a note pinned to her chest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,47 +110,47 @@ Há uma nota presa no peito dela.</DefaultText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>O Blood Chanter sorri. "Estou brincando, Fatebinder! Eu não queria te assustar! Espero que você esteja pronto para treinar?"</DefaultText>
+      <DefaultText>The Blood Chanter grins. "Just kidding, Fatebinder! I didn't mean to frighten you! I hope you've come ready for training?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>As palavras estão escritas em letras grandes e infantis:
+      <DefaultText>The words are scrawled in big, childish letters: 
 
-ADORAMOS SUA CASA, FATEBINDER. MANTENHA O BOM TRABALHO!
-~ Vozes
+WE JUST ADORE YOUR HOME, FATEBINDER. KEEP UP THE GOOD WORK! 
+~Voices
 
-O pergaminho explode em chamas que consomem em um instante.</DefaultText>
+The parchment bursts into flames that consume it in an instant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Ela rasga a nota em pedaços e os entrega ao vento, que leva as peças para o leste.</DefaultText>
+      <DefaultText>She rips the note to shreds and gives them to the wind, which carries the pieces to the east.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>O Blood Chanter sorri. "Estou brincando, Fatebinder! Eu não queria te assustar! Espero que você esteja pronto para treinar?"</DefaultText>
+      <DefaultText>The Blood Chanter grins. "Just kidding, Fatebinder! I didn't mean to frighten you! I hope you've come ready for training?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Uma nota sutil de irritação entra em sua voz. "Isso deve ser assumido, Fatebinder ... ou você não está familiarizado com o Arconte dos Segredos?"</DefaultText>
+      <DefaultText>A subtle note of irritation enters her voice. "That should be assumed, Fatebinder... or are you not acquainted with the Archon of Secrets?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Ela faz um gesto de desprezo. "Eu envio a ele nada mais do que atualizações sobre seu treinamento. Não se preocupe, meu paranóico."</DefaultText>
+      <DefaultText>She makes a dismissive wave. "I send him nothing more than updates on your training. Worry not, my paranoid one." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Vamos começar."</DefaultText>
+      <DefaultText>"Let's get started."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Ela pega seu braço com velocidade surpreendente e oferece um par de bombas entusiasmadas. "Você não pode sair agora! Não antes de jogarmos! As vozes me disseram que você ama jogos."</DefaultText>
+      <DefaultText>She snatches your arm with surprising speed and delivers a pair of enthusiastic pumps. "You can't leave now! Not before we've played a game! The Voices told me you LOVE games."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

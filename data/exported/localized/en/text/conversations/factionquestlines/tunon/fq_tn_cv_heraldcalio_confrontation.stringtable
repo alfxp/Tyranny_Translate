@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\factionquestlines\tunon\fq_tn_cv_heraldcalio_confrontation</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>2</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Você foi longe demais, [nome do jogador]. [url=glossary:tunon]Tunon[/url] deu-lhe uma coleira muito longa e ainda não foi suficiente para você."</DefaultText>
+      <DefaultText>"You've gone too far, [Player Name]. [url=glossary:tunon]Tunon[/url] gave you a very long leash and it still wasn't enough for you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ao contrário de você, eu sei o meu dever. Apenas um de nós pode ir embora vivo."</DefaultText>
+      <DefaultText>"Unlike you, I know my duty. Only one of us can walk away alive."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

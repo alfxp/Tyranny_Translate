@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\missives\msv_northerncontact_archonquest</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>136</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Quill na mão, você avança sobre uma folha de pergaminho em branco. Você tem as informações de contato de Binder Myothis na mão e contempla suas palavras de abertura.</DefaultText>
+      <DefaultText>Quill in hand, you loom over a blank sheet of parchment. You have Binder Myothis' contact information in hand and contemplate your opening words.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Introdução educada.</DefaultText>
+      <DefaultText>Polite introduction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,589 +33,589 @@ There are numerous questions nestled in your request - what is it you wish to kn
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Caro Fatebinder Myothis,
+      <DefaultText>Dear Fatebinder Myothis,
 
-Eu escrevo para você a pedido do meu colega e professor, Fatebinder Rhogalus. Ele encontrou-se desprovido de respostas (uma condição rara para ele) e sugeriu que você pode ser a única fonte das respostas que procuro.
+I write to you at the urging of my peer and tutor, Fatebinder Rhogalus. He has found himself bereft of answers (a rare condition for him) and suggested you may be the only source of the answers I seek.
 
-Se você perdoar a imposição, isso significaria muito para aprender o que você sabe sobre os Editos e a magia das Torres. A Montanha Pináculo das Camadas despertou para a minha presença - um evento que ocorreu momentos depois de eu ter resolvido um [url=glossary:edict]Edict[/url] de [url=glossary:kyros]Kyros[/url] - então é fundamental que eu aprenda o que aconteceu comigo, e o que tudo isso significa.
+If you will pardon the imposition, it would mean a great deal to learn what you know of [url=glossary:kyros]Kyros[/url]' Edicts, and the magic of the Spires. The Mountain Spire of the Tiers has awoken to my presence - an event that occurred moments after I resolved an [url=glossary:edict]Edict[/url] of [url=glossary:kyros]Kyros[/url] - so it's critical that I learn just what has happened to me, and what it all means.
 
-Agradeço antecipadamente por sua consideração e sabedoria.
+I thank you in advance for your consideration and wisdom.
 
--Fatebinder [nome do jogador]</DefaultText>
+-Fatebinder [Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Introdução impetuosa.</DefaultText>
+      <DefaultText>Brash introduction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Apresente-se e envie o pagamento [500 toques].</DefaultText>
+      <DefaultText>Introduce yourself and send payment [500 rings].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Fatebinder Myothis,
 
-Meu nome é [Nome do Jogador] e eu resolvi recentemente [url=glossary:kyros]Kyros[/url] '[url=glossary:edict]Edict[/url] de Execução e reivindiquei o Pináculo da Montanha dos Níveis. Eu sou agora o mestre de [url=glossary:vendrien's well]Vendrien's Well[/url], e um ponto de interrogação para muitos, como parece que despertou o Spire chocou a todos.
+My name is [Player Name] and I recently resolved [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution and claimed the Mountain Spire of the Tiers. I am now the master of [url=glossary:vendrien's well]Vendrien's Well[/url], and a question mark to many, as it seems awaken the Spire has shocked everyone.
 
-Rhogalus disse que você era sábio e conhecedor de assuntos que não são discutidos na frente dos Arcontes. Parece que me deparei com a posse da Spire e sinto que deveria aprender tudo o que puder sobre esse monumento que agora é meu.
+Rhogalus said you were wise and knowledgeable in matters best not discussed in front of the Archons. I seem to have stumbled into ownership of the Spire and feel I should learn all that I can about this monument that is now my own.
 
-Se você for ter acesso ao seu conhecimento, prometo que será recompensado quando chegar a hora de mostrar gratidão aos fiéis.
+If you will be forthcoming with your knowledge, I promise you will be rewarded when the time comes to show gratitude to the loyal.
 
--Fatebinder [nome do jogador]</DefaultText>
+-Fatebinder [Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Fatebinder Myothis,
 
-Eu sou Fatebinder [Player Name] e atualmente estou servindo nas camadas. Eu recentemente quebrei um [url=glossary:edict]Edict[/url] de [url=glossary:kyros]Kyros[/url] e em aproximadamente o mesmo fôlego, despertou as energias latentes no Pináculo da Montanha dos Tiers.
+I am Fatebinder [Player Name], and I'm currently serving in the Tiers. I recently broke an [url=glossary:edict]Edict[/url] of [url=glossary:kyros]Kyros[/url] and in roughly the same breath, awoke the latent energies in the Mountain Spire of the Tiers.
 
-Quando contei a meu antigo mentor Rhogalus sobre esses eventos, ele insistiu que eu o contatasse, insinuando que sua sabedoria excede a dele. Se isso for verdade, eu seria um tolo em não dar atenção ao conselho de alguém mais mundano do que Rhogalus.
+When I told my old mentor Rhogalus of these events, he insisted I contact you, hinting that your wisdom exceeds his own. If that's true, I'd be a fool not to heed the advice of someone more worldly than even Rhogalus.
 
-Mas eu sei que conhecimento é poder e poder não é livre. Eu coloquei uma mão de anéis como mensalidade e tributo - uma oferta insignificante para um professor respeitado, mas é uma soma considerável para mim.
+But I know knowledge is power, and power isn't free. I have enclosed a hand of rings as tuition and tribute - a paltry offering for a respected teacher, but it is a sizable sum to me.
 
-Obrigado pela sua consideração, aguardo ansiosamente a sua resposta.
+Thank you for your consideration, I eagerly await your reply.
 
--Fatebinder [nome do jogador]</DefaultText>
+-Fatebinder [Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Informe-se sobre Edicts e sua natureza.</DefaultText>
+      <DefaultText>Inquire about Edicts and their nature.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Pergunte sobre as torres.</DefaultText>
+      <DefaultText>Ask about the Spires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Solicite seu conselho.</DefaultText>
+      <DefaultText>Solicit her advice.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Obrigado por me ouvir. Eu tenho mais perguntas do que eu tenho tinta, mas vamos começar com uma discussão de [url=glossary:kyros]Kyros[/url] 'Edicts. Eu vivi sob, editos proclamados e resolvidos - o que me torna muito mais conhecedor do que o leigo sobre o assunto, e ainda assim eu sei tão pouco.
+Thank you for hearing me out. I have more questions than I have ink, but let's start with a discussion of [url=glossary:kyros]Kyros[/url]' Edicts. I've lived under, proclaimed, and resolved Edicts - which makes me far more knowledgeable than the lay person on the subject, and yet I still know so little.
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Parece sábio conhecer o próprio domínio e, como sou agora o mestre do Pináculo da Montanha, devo aprender tudo o que puder. Se você compartilhasse comigo o que você sabe sobre os Spires, eu estaria em dívida com você.
+It seems wise to know one's own domain, and seeing as I'm now the master of the Mountain Spire, I ought to learn all that I can. If you would share with me what you know of the Spires, I would be in your debt.
 
-Vou começar com o que sei e observei até agora. O Pináculo da Montanha parecia despertar mais ou menos no mesmo instante em que a Execução foi posta de lado. Houve uma explosão de energia arcana que abafou meus sentidos, e eu acordei no pico da Espiral (o que parecia ser) apenas algumas batidas do tempo.
+I'll start with what I know and have observed so far. The Mountain Spire seemed to awaken at about the same instant that [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution was put to rest. There was a burst of arcane energy that drowned out my senses, and I awoke at the summit of the Spire in (what seemed to be) just a few heartbeats of time.
 
-No topo do Spire há uma espécie de escultura antiga e parece ser o núcleo da energia mística do Spire. Eu tenho visto visões e recebido sensações da escultura - parece estranho descrevê-la como falando comigo, mas essa parece ser a analogia mais próxima.
+Atop the Spire is an old sculpture of sorts, and it seems to be the core of the Spire's mystic energy. I've been seeing visions and receiving sensations FROM the sculpture - it seems odd to describe it as talking to me, but that seems the closest analogy.
 
-Eu sou o primeiro a relatar essas coisas? Existem outros Spires em outras partes do mundo, correto?
+Am I the first to report such things? There are other Spires elsewhere in the world, correct?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Agradeço a informação, obrigado por compartilhar.
+I appreciate the information, thank you for sharing.
 
-Sabendo o que você sabe da minha situação, o que você faria?
+Knowing what you know of my situation, what would you do?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Saudações, [nome do jogador]
+      <DefaultText>Salutations, [Player Name]
 
-É difícil separar o fato da superstição quando se trata de Edicts, pois parece que apenas o resto de nós é deixado para viver com medo e refletir sobre tudo.
+It is difficult to separate fact from superstition when it comes to Edicts, as it seems only [url=glossary:kyros]Kyros[/url] knows how it all works, the rest of us are left to live in fear and ponder it all.
 
-[url=glossary:kyros]Kyros[/url] Edicts são uma espécie de magia acima e além mesmo os Arcontes - Eu diria que os Edicts são mais fortes do que [url=glossary:kyros]Kyros[/url] como não há nenhuma evidência [url=glossary:kyros]Kyros[/url] pode voluntariamente parar um [url=glossary:edict]Edict[/url] uma vez em movimento ... o que é, em parte, porque [url=glossary:kyros]Kyros[/url] ter uma cláusula 'até' ou 'a menos que' na sua formulação.
+[url=glossary:kyros]Kyros[/url] Edicts are a sort of magic above and beyond even the Archons - I daresay the Edicts are STRONGER than [url=glossary:kyros]Kyros[/url] as there's no evidence [url=glossary:kyros]Kyros[/url] can willingly stop an [url=glossary:edict]Edict[/url] once set into motion... which is, in part, why [url=glossary:kyros]Kyros[/url]' Edicts seem to have an 'until' or 'unless' clause in their wording.
 
-Eu sei que o [url=glossary:edict]Edict[/url], tão poderoso como é, requer uma voz humana para completar o elenco - assim, o Overlord tem pessoas como você proclamar Edicts longe do Trono Imperial - a magia é mágica, mas a voz humana é a final portador ou gatilho para completar o fenômeno mágico.
+I know the [url=glossary:edict]Edict[/url], as powerful as it is, requires a human voice to complete the casting - thus the Overlord has people like you proclaim Edicts cast far from the Imperial Throne - the magic is [url=glossary:kyros]Kyros[/url]' magic, but the human voice is the final carrier or trigger to complete the magic phenomenon.
 
-E aqui está o que é mais fascinante - pelo menos no que diz respeito a você. Houve dezenas de agentes mortais que foram feitos para proclamar éditos - dois terços deles morrem dentro de uma década, e muitos deram relatos de cicatrizes místicas remanescentes da provação.
+And here's what's most fascinating - at least as far as you're concerned. There have been dozens of mortal agents who have been made to proclaim Edicts - two-thirds of them die within a decade, and many gave reports of lingering mystic scars from the ordeal.
 
-E também tem havido um punhado para resolver ou quebrar um [url=glossary:edict]Edict[/url] - estes 'até' e 'a menos' cláusulas se cumprem de vez em quando, e vemos um padrão semelhante na história - aqueles que resolvem um [url=glossary:edict]Edict[/url] muitas vezes vivem vidas curtas, e muitos falam de efeitos colaterais arcanos dos Edicts destruídos.
+And there have also been a handful to resolve or break an [url=glossary:edict]Edict[/url] - these 'until' and 'unless' clauses get fulfilled from time to time, and we see a similar pattern in history - those who resolve an [url=glossary:edict]Edict[/url] often live short lives, and many speak of arcane side effects of the shattered Edicts.
 
-Aqui é onde você é único ... para o melhor da minha descoberta de fatos, você é o primeiro a proclamar e quebrar exatamente o mesmo [url=glossary:edict]Edict[/url]. Seja qual for o poder místico envolvido na criação e destruição de tais magias, você é o primeiro ficar no final de ambos.
+Here's where you're unique... to the best of my fact-finding, you are the first to proclaim and break the exact same [url=glossary:edict]Edict[/url]. Whatever mystical power is involved in the creation and destruction of such magics, you're the first to stand at the terminus of both.
 
-Agora que eu sei que as Spires podem ser acordadas, faz sentido que, se alguma coisa pode ou iria despertá-los do sono, um [url=glossary:edict]Edict[/url] parece o provável culpado.
+Now that I know the Spires can be awoken, it makes sense that if anything can or would wake them from slumber, a shattered [url=glossary:edict]Edict[/url] seems the likely culprit.
 
-[url=glossary:kyros]Kyros[/url] tem outros Edicts no lugar em todo o Tiers. Se você realmente deseja aprender mais, talvez você deva destruir esses Editos. Afinal, se [url=glossary:kyros]Kyros[/url] não queria que os Edicts fossem quebrados, por que incluir uma cláusula de rescisão?
+[url=glossary:kyros]Kyros[/url] has other Edicts in place throughout the Tiers. If you truly wish to learn more, perhaps you should take it upon yourself to shatter those Edicts. After all, if [url=glossary:kyros]Kyros[/url] did not wish for the Edicts to be broken, why include a termination clause?
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Saudações [nome do jogador],
+      <DefaultText>Greetings [Player Name],
 
-Você está correto, existem Spires em todo Terratus. A distribuição exata destes monumentos alimenta todo tipo de debate e especulação, mas dois fatos parecem banais: a maioria dos Spires são construídos perto de Oldwalls (o seu Mountain Spire é uma exceção notável) e quase todas as culturas anteriores a [url=glossary:kyros]Kyros[/url] têm algum mito local para explicar os construtores. dessas torres - eu acredito que os Tiersmen citam os "Reinos Antigos" como seu nome local para os arquitetos do Spire / Oldwalls ... mas ninguém sabe ao certo.
+You are correct, there are Spires all across Terratus. The exact distribution of these monuments fuels all sorts of debate and speculation, but two facts seem commonplace: most Spires are built near Oldwalls (your Mountain Spire is a notable exception) and nearly every culture that predated [url=glossary:kyros]Kyros[/url] has some local myth to explain the builders of these Spires - I believe the Tiersmen cite the "Older Realms" as their local name for the  Spire/Oldwalls architects... but nobody knows for sure.
 
-E claro, onde [url=glossary:kyros]Kyros[/url] trouxe civilização adequada, a origem dos Spires simplesmente não é discutida em boa companhia ...
+And of course, where [url=glossary:kyros]Kyros[/url] has brought proper civilization, the origin of the Spires simply isn't discussed in good company...
 
-Aqui está o que eu acho que você precisa saber ...
+Here's what I think you need to know...
 
-Primeiro, os Pináculos se comportam como uma arcada arcana - há um campo constante de força mágica em torno de um Pináculo. Se você imaginar um mar místico descansando sobre o nosso mundo, os Espíritos parecem girar e agitar essa mágica - criar um feitiço com um esforço ainda modesto se materializará com resultados poderosos.
+First, the Spires behave as arcane lodestone - there is a constant field of magical strength around a Spire. If you imagine a mystic sea resting atop our world, the Spires seem to spin and churn this magic - creating a spell cast with even modest effort will materialize with powerful results.
 
-Em segundo lugar, e eu diria de forma mais reveladora, [url=glossary:kyros]Kyros[/url] tem leis contra a entrada no Oldwalls, mas não há leis contra as Spires. Você poderia inferir a partir disso que o [url=glossary:kyros]Kyros[/url] não tem problemas com os leigos que estão mexendo com os Spires, mas deseja manter-nos a salvo dos Oldwalls. Ou você poderia pensar como um Overlord e saber que se você colocar uma regra contra algo, você a torna proibida e desejável ... agora eu acho que ela diz que [url=glossary:kyros]Kyros[/url] proíbe os corredores que levam às Spires, mas não pinta um alvo no Spires-se.
+Second, and I'd say most tellingly, [url=glossary:kyros]Kyros[/url] has laws against entering the Oldwalls, but there are no laws against the Spires. You could infer from this that means [url=glossary:kyros]Kyros[/url] has no issue with the lay folks messing with the Spires but wishes to keep us safe from the Oldwalls. Or you could think like an Overlord and know that if you place a rule against something, you make it forbidden and desirable... now I find it telling that [url=glossary:kyros]Kyros[/url] forbids the hallways that leads to the Spires but does not paint a target on the Spires themselves.
 
-Por último, mas não menos importante ... como um jovem Fatebinder, uma vez tive que supervisionar o caso de um homem que construiu um santuário para a base de uma torre no extremo sudeste. Eu não pude encontrar nenhuma evidência de falsidade ou calúnia - seu santuário era um tributo mais reverente e amoroso como eu já vi. Em um ponto, porém, este homem alegou que ele tinha provas de que '[url=glossary:kyros]Kyros[/url] estava aqui de volta em cinquenta negativos'. Ele tinha apenas proferido essas palavras e meu veterano Binder girou o machado na mesma hora. Sendo a nova garota da Corte, não disse nada, mas há muito me pergunto por que tal comentário exigiria a morte, em vez da tradicional retirada da língua.
+Last but not least... as a young Fatebinder, I once had to oversee the case of a man who had built a shrine to [url=glossary:kyros]Kyros[/url] around the base of a Spire in the far south east. I could find no evidence of falsity or slander - his shrine was a most reverent and loving tribute as I've ever seen. At one point though, this man claimed he had evidence that '[url=glossary:kyros]Kyros[/url] was here back in negative fifty.' He had merely uttered those words and my senior Binder swung the axe then and there. Being the new girl at the Court, I said nothing, but I have long wondered why such a comment should require death instead of the traditional removal of the tongue.
 
 -Fatebinder Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Meu querido [nome do jogador],
+      <DefaultText>My dear [Player Name],
 
-E eles dizem que o respeito pelos mais velhos é uma forma de arte agonizante - agradeço a gentileza pela oferta, já que tenho contas para resolver e netos para estragar, e manter um perfil discreto não é muito lucrativo. Eu coloquei algo para você em troca - eu odeio deixar o pergaminho coletar poeira e acho que uma mente mais jovem poderia fazer uso de alguns pergaminhos assombrando meus armários.
+And they say respect for one's elders is a dying art form - I thank you kindly for the offering, as I've accounts to settle and grandchildren to spoil, and keeping a low profile isn't very profitable. I have enclosed something for you in return - I do so hate to let parchment collect dust and I figure a younger mind could make use of some of the scrolls haunting my cabinets.
 
-Eu sou agora o mais velho dos 'filhos' da Corte e tenho visto muito no meu tempo. É provavelmente para o melhor todo mundo assume que eu sou velho, inofensivo, e vale a pena remexer nos arquivos ... se eu fosse examinado muito de perto, tenho certeza [url=glossary:tunon]Tunon[/url] iria achar que eu cresci negligente em minha velhice mimada .. .
+I'm now the oldest of the Court's 'children' and I've seen much in my time. It's probably for the best everyone assumes I'm old, harmless, and worth shuffling away in the archives... if I were scrutinized too closely, I'm sure [url=glossary:tunon]Tunon[/url] would find I've grown lax in my spoiled old age...
 
-Parte do motivo pelo qual estou onde estou é que mantive minha cabeça baixa - você parece estar fazendo o oposto. Em alguns aspectos, isso está além de seu controle - você foi escolhido para a honra de proclamar [url=glossary:kyros]Kyros[/url] 'Edicts - duas vezes! Recusar significaria a morte, mas aceitar significa ser colocado no palco para todos verem.
+Part of why I am where I am is that I've kept my head down - you appear to be doing the opposite. In some regards, this is beyond your control - you were chosen for the honor of proclaiming [url=glossary:kyros]Kyros[/url]' Edicts - twice! To decline would have meant death, but to accept means to be placed on the stage for all to see.
 
-[url=glossary:kyros]Kyros[/url] 'arma mais poderosa não é o [url=glossary:edict]Edict[/url], é a sua capacidade de nos entregar corda que nós usamos de bom grado para nos enforcar - nunca se esqueça disso.
+[url=glossary:kyros]Kyros[/url]' most powerful weapon is not the [url=glossary:edict]Edict[/url], it's her ability to hand us rope that we willingly use to hang ourselves - never forget this.
 
-Existem inúmeras perguntas aninhadas em sua solicitação - o que você mais deseja saber? Concentre sua pergunta e eu responderei da melhor maneira possível.
+There are numerous questions nestled in your request - what is it you wish to know most? Focus your inquiry and I will answer as best I can.
 
 -Fatebinder Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Informe-se sobre Edicts e sua natureza.</DefaultText>
+      <DefaultText>Inquire about Edicts and their nature.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Pergunte sobre as torres.</DefaultText>
+      <DefaultText>Ask about the Spires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Obrigado por me ouvir. Eu tenho mais perguntas do que eu tenho tinta, mas vamos começar com uma discussão de [url=glossary:kyros]Kyros[/url] 'Edicts. Eu vivi sob, editos proclamados e resolvidos - o que me torna muito mais conhecedor do que o leigo sobre o assunto, e ainda assim eu sei tão pouco.
+Thank you for hearing me out. I have more questions than I have ink, but let's start with a discussion of [url=glossary:kyros]Kyros[/url]' Edicts. I've lived under, proclaimed, and resolved Edicts - which makes me far more knowledgeable than the lay person on the subject, and yet I still know so little.
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Parece sábio conhecer o próprio domínio e, como sou agora o mestre do Pináculo da Montanha, devo aprender tudo o que puder. Se você compartilhasse comigo o que você sabe sobre os Spires, eu estaria em dívida com você.
+It seems wise to know one's own domain, and seeing as I'm now the master of the Mountain Spire, I ought to learn all that I can. If you would share with me what you know of the Spires, I would be in your debt.
 
-Vou começar com o que sei e observei até agora. O Pináculo da Montanha parecia despertar mais ou menos no mesmo instante em que a Execução foi posta de lado. Houve uma explosão de energia arcana que abafou meus sentidos, e eu acordei no pico da Espiral (o que parecia ser) apenas algumas batidas do tempo.
+I'll start with what I know and have observed so far. The Mountain Spire seemed to awaken at about the same instant that [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution was put to rest. There was a burst of arcane energy that drowned out my senses, and I awoke at the summit of the Spire in (what seemed to be) just a few heartbeats of time.
 
-No topo do Spire há uma espécie de escultura antiga e parece ser o núcleo da energia mística do Spire. Eu tenho visto visões e recebido sensações da escultura - parece estranho descrevê-la como falando comigo, mas essa parece ser a analogia mais próxima.
+Atop the Spire is an old sculpture of sorts, and it seems to be the core of the Spire's mystic energy. I've been seeing visions and receiving sensations FROM the sculpture - it seems odd to describe it as talking to me, but that seems the closest analogy.
 
-Eu sou o primeiro a relatar essas coisas? Existem outros Spires em outras partes do mundo, correto?
+Am I the first to report such things? There are other Spires elsewhere in the world, correct?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Caro [nome do jogador],
+      <DefaultText>Dear [Player Name],
 
-Baseado no que você me disse, parece difícil acreditar que esses eventos sejam mera coincidência ou circunstância. [url=glossary:kyros]Kyros[/url] 'Execução foi uma configuração para ALGUÉM para reivindicar [url=glossary:ascension hall]Ascension Hall[/url] ... para pensar que [url=glossary:kyros]Kyros[/url] não sabia o que aconteceria é uma enorme subestimação da visão longa do Overlord.
+Based on what you've told me, it seems a stretch to believe these events are mere coincidence or circumstance. [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution was a setup for SOMEONE to claim [url=glossary:ascension hall]Ascension Hall[/url]... to think that [url=glossary:kyros]Kyros[/url] did not know what would happen is a massive underestimation of the Overlord's long view.
 
-Você foi empurrado para a arena dos poderosos, suas opções são: recuar para a obscuridade, para o suicídio ou para a ocasião - sugiro a terceira opção.
+You have been thrust into the arena of the mighty, your options are: retreat into obscurity, suicide, or rising to the occasion - I suggest the third option.
 
-Se eu fosse você, usaria minha conexão com os Spires para ver se todos eles despertariam para a minha presença. Cada Tiersman vê as Espirais no horizonte - se elas sabem que você é o mestre das Espirais, elas verão você cada vez que olharem para o nascer do sol ou o pôr do sol.
+If I were you, I would use my connection to the Spires to see if they will all awaken to my presence. Every Tiersman sees the Spires in the horizon - if they know YOU are the master of the Spires, they will see YOU each time they look to the sunrise or sunset.
 
-Promova uma reputação de poder, faça com que os outros temam você. Isto é o que eu vi [url=glossary:kyros]Kyros[/url] e cada Arconte vivo fazer enquanto eu vivi e há razões para isso ... há o caso prático que o poder e uma reputação isolam você de ameaças, mas há o elemento menos conhecido que não posso provar, mas sei que em meu coração é verdade: o medo e o amor dos outros fortalecerão sua magia.
+Foster a reputation for power, make others fear you. This is what I've seen [url=glossary:kyros]Kyros[/url] and every living Archon do for as long as I've lived and there's reasons for this... there's the practical case that power and a reputation insulate you from threats, but there's the lesser-known element that I can't prove but I know in my heart to be true: the fear and love of others will strengthen your magic.
 
-Esta última parte inferi de minhas discussões com [url=glossary:bleden mark]Bleden Mark[/url]. Nas poucas vezes em que ele falou de seu horrível trabalho de matar aqueles que poderiam se levantar para ameaçar o Overlord, ele insinuou que é mais fácil matar os 'elementos nocivos' antes que eles tornar-se famoso e temível. Na minha vida, eu vi [url=glossary:graven ashe]Graven Ashe[/url] mudar de um miliciano desconhecido para um temível general - e posso assegurar-lhe, ele não tinha o poder de proteger seus guerreiros naqueles dias em que ele estava sem título ou reputação. Os Arcontes jamais discutirão a origem de seu poder (porque tal conhecimento pode ser usado contra eles), mas eu conheço TODOS os Arcontes como obcecados com a apresentação do poder ...
+This last part I've inferred from my discussions with [url=glossary:bleden mark]Bleden Mark[/url]. In the few times he has spoken of his gruesome work of slaying those who might rise to threaten the Overlord, he has hinted that it's easier to kill the 'rogue elements' before they become famed and fearsome. In my lifetime, I saw [url=glossary:graven ashe]Graven Ashe[/url] change from an unknown militiaman to a fearsome general - and I can assure you, he did not have the power to shield his warriors in those days when he was without title or reputation. The Archons will never, ever discuss the origin of their power (because such knowledge might be used against them) but I have known ALL the Archons to be obsessed with the presentation of power...
 
-Sua conexão com os Spires vai garantir que os Archons vão querer controlá-lo e destruí-lo - é uma questão de quando, não se. Comece a pensar e agir como um Arconte ... no que me diz respeito, você é um Arconte - o Arconte das Torres. Somos rápidos em colocar rótulos em poderes que facilmente identificamos - e a história está repleta de Arcontes do Fogo e do Gelo - é tolice pensar que deve haver uma palavra para uma coisa antes que um Arconte possa controlá-la. Outra maneira de contornar - os Arcontes nos mostram o que é possível, e devemos dar um passo para a dança deles.
+Your connection to the Spires will all but guarantee the Archons will want to control and destroy you - it's a question of when, not if. Start thinking and acting like an Archon... as far as I'm concerned, you ARE an Archon - the Archon of the Spires. We are quick to place labels on powers we easily spot - and history is replete with Archons of Fire and Ice - it is foolish to think that there must be a word for a thing before an Archon can control it. Other way around - the Archons show us what is possible, and we must step to their dance.
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Pergunte sobre as torres.</DefaultText>
+      <DefaultText>Ask about the Spires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Informe-se sobre Edicts e sua natureza.</DefaultText>
+      <DefaultText>Inquire about Edicts and their nature.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Solicite seu conselho.</DefaultText>
+      <DefaultText>Solicit her advice.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Parece sábio conhecer o próprio domínio e, como sou agora o mestre do Pináculo da Montanha, devo aprender tudo o que puder. Se você compartilhasse comigo o que você sabe sobre os Spires, eu estaria em dívida com você.
+It seems wise to know one's own domain, and seeing as I'm now the master of the Mountain Spire, I ought to learn all that I can. If you would share with me what you know of the Spires, I would be in your debt.
 
-Vou começar com o que sei e observei até agora. O Pináculo da Montanha parecia despertar mais ou menos no mesmo instante em que a Execução foi posta de lado. Houve uma explosão de energia arcana que abafou meus sentidos, e eu acordei no pico da Espiral (o que parecia ser) apenas algumas batidas do tempo.
+I'll start with what I know and have observed so far. The Mountain Spire seemed to awaken at about the same instant that [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution was put to rest. There was a burst of arcane energy that drowned out my senses, and I awoke at the summit of the Spire in (what seemed to be) just a few heartbeats of time.
 
-No topo do Spire há uma espécie de escultura antiga e parece ser o núcleo da energia mística do Spire. Eu tenho visto visões e recebido sensações da escultura - parece estranho descrevê-la como falando comigo, mas essa parece ser a analogia mais próxima.
+Atop the Spire is an old sculpture of sorts, and it seems to be the core of the Spire's mystic energy. I've been seeing visions and receiving sensations FROM the sculpture - it seems odd to describe it as talking to me, but that seems the closest analogy.
 
-Eu sou o primeiro a relatar essas coisas? Existem outros Spires em outras partes do mundo, correto?
+Am I the first to report such things? There are other Spires elsewhere in the world, correct?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Obrigado por me ouvir. Eu tenho mais perguntas do que eu tenho tinta, mas vamos começar com uma discussão de [url=glossary:kyros]Kyros[/url] 'Edicts. Eu vivi sob, editos proclamados e resolvidos - o que me torna muito mais conhecedor do que o leigo sobre o assunto, e ainda assim eu sei tão pouco.
+Thank you for hearing me out. I have more questions than I have ink, but let's start with a discussion of [url=glossary:kyros]Kyros[/url]' Edicts. I've lived under, proclaimed, and resolved Edicts - which makes me far more knowledgeable than the lay person on the subject, and yet I still know so little.
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Agradeço a informação, obrigado por compartilhar.
+I appreciate the information, thank you for sharing.
 
-Sabendo o que você sabe da minha situação, o que você faria?
+Knowing what you know of my situation, what would you do?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Saudações [nome do jogador],
+      <DefaultText>Greetings [Player Name],
 
-Você está correto, existem Spires em todo Terratus. A distribuição exata destes monumentos alimenta todo tipo de debate e especulação, mas dois fatos parecem banais: a maioria dos Spires são construídos perto de Oldwalls (o seu Mountain Spire é uma exceção notável) e quase todas as culturas anteriores a [url=glossary:kyros]Kyros[/url] têm algum mito local para explicar os construtores. dessas torres - eu acredito que os Tiersmen citam os "Reinos Antigos" como seu nome local para os arquitetos do Spire / Oldwalls ... mas ninguém sabe ao certo.
+You are correct, there are Spires all across Terratus. The exact distribution of these monuments fuels all sorts of debate and speculation, but two facts seem commonplace: most Spires are built near Oldwalls (your Mountain Spire is a notable exception) and nearly every culture that predated [url=glossary:kyros]Kyros[/url] has some local myth to explain the builders of these Spires - I believe the Tiersmen cite the "Older Realms" as their local name for the  Spire/Oldwalls architects... but nobody knows for sure.
 
-E claro, onde [url=glossary:kyros]Kyros[/url] trouxe civilização adequada, a origem dos Spires simplesmente não é discutida em boa companhia ...
+And of course, where [url=glossary:kyros]Kyros[/url] has brought proper civilization, the origin of the Spires simply isn't discussed in good company...
 
-Aqui está o que eu acho que você precisa saber ...
+Here's what I think you need to know...
 
-Primeiro, os Pináculos se comportam como uma arcada arcana - há um campo constante de força mágica em torno de um Pináculo. Se você imaginar um mar místico descansando sobre o nosso mundo, os Espíritos parecem girar e agitar essa mágica - criar um feitiço com um esforço ainda modesto se materializará com resultados poderosos.
+First, the Spires behave as arcane lodestone - there is a constant field of magical strength around a Spire. If you imagine a mystic sea resting atop our world, the Spires seem to spin and churn this magic - creating a spell cast with even modest effort will materialize with powerful results.
 
-Em segundo lugar, e eu diria de forma mais reveladora, [url=glossary:kyros]Kyros[/url] tem leis contra a entrada no Oldwalls, mas não há leis contra as Spires. Você poderia inferir a partir disso que o [url=glossary:kyros]Kyros[/url] não tem problemas com os leigos que estão mexendo com os Spires, mas deseja manter-nos a salvo dos Oldwalls. Ou você poderia pensar como um Overlord e saber que se você colocar uma regra contra algo, você a torna proibida e desejável ... agora eu acho que ela diz que [url=glossary:kyros]Kyros[/url] proíbe os corredores que levam às Spires, mas não pinta um alvo no Spires-se.
+Second, and I'd say most tellingly, [url=glossary:kyros]Kyros[/url] has laws against entering the Oldwalls, but there are no laws against the Spires. You could infer from this that means [url=glossary:kyros]Kyros[/url] has no issue with the lay folks messing with the Spires but wishes to keep us safe from the Oldwalls. Or you could think like an Overlord and know that if you place a rule against something, you make it forbidden and desirable... now I find it telling that [url=glossary:kyros]Kyros[/url] forbids the hallways that leads to the Spires but does not paint a target on the Spires themselves.
 
-Por último, mas não menos importante ... como um jovem Fatebinder, uma vez tive que supervisionar o caso de um homem que construiu um santuário para a base de uma torre no extremo sudeste. Eu não pude encontrar nenhuma evidência de falsidade ou calúnia - seu santuário era um tributo mais reverente e amoroso como eu já vi. Em um ponto, porém, este homem alegou que ele tinha provas de que '[url=glossary:kyros]Kyros[/url] estava aqui de volta em cinquenta negativos'. Ele tinha apenas proferido essas palavras e meu veterano Binder girou o machado na mesma hora. Sendo a nova garota da Corte, não disse nada, mas há muito me pergunto por que tal comentário exigiria a morte, em vez da tradicional retirada da língua.
+Last but not least... as a young Fatebinder, I once had to oversee the case of a man who had built a shrine to [url=glossary:kyros]Kyros[/url] around the base of a Spire in the far south east. I could find no evidence of falsity or slander - his shrine was a most reverent and loving tribute as I've ever seen. At one point though, this man claimed he had evidence that '[url=glossary:kyros]Kyros[/url] was here back in negative fifty.' He had merely uttered those words and my senior Binder swung the axe then and there. Being the new girl at the Court, I said nothing, but I have long wondered why such a comment should require death instead of the traditional removal of the tongue.
 
 -Fatebinder Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Saudações, [nome do jogador]
+      <DefaultText>Salutations, [Player Name]
 
-É difícil separar o fato da superstição quando se trata de Edicts, pois parece que apenas o resto de nós é deixado para viver com medo e refletir sobre tudo.
+It is difficult to separate fact from superstition when it comes to Edicts, as it seems only [url=glossary:kyros]Kyros[/url] knows how it all works, the rest of us are left to live in fear and ponder it all.
 
-[url=glossary:kyros]Kyros[/url] Edicts são uma espécie de magia acima e além mesmo os Arcontes - Eu diria que os Edicts são mais fortes do que [url=glossary:kyros]Kyros[/url] como não há nenhuma evidência [url=glossary:kyros]Kyros[/url] pode voluntariamente parar um [url=glossary:edict]Edict[/url] uma vez em movimento ... o que é, em parte, porque [url=glossary:kyros]Kyros[/url] ter uma cláusula 'até' ou 'a menos que' na sua formulação.
+[url=glossary:kyros]Kyros[/url] Edicts are a sort of magic above and beyond even the Archons - I daresay the Edicts are STRONGER than [url=glossary:kyros]Kyros[/url] as there's no evidence [url=glossary:kyros]Kyros[/url] can willingly stop an [url=glossary:edict]Edict[/url] once set into motion... which is, in part, why [url=glossary:kyros]Kyros[/url]' Edicts seem to have an 'until' or 'unless' clause in their wording.
 
-Eu sei que o [url=glossary:edict]Edict[/url], tão poderoso como é, requer uma voz humana para completar o elenco - assim, o Overlord tem pessoas como você proclamar Edicts longe do Trono Imperial - a magia é mágica, mas a voz humana é a final portador ou gatilho para completar o fenômeno mágico.
+I know the [url=glossary:edict]Edict[/url], as powerful as it is, requires a human voice to complete the casting - thus the Overlord has people like you proclaim Edicts cast far from the Imperial Throne - the magic is [url=glossary:kyros]Kyros[/url]' magic, but the human voice is the final carrier or trigger to complete the magic phenomenon.
 
-E aqui está o que é mais fascinante - pelo menos no que diz respeito a você. Houve dezenas de agentes mortais que foram feitos para proclamar éditos - dois terços deles morrem dentro de uma década, e muitos deram relatos de cicatrizes místicas remanescentes da provação.
+And here's what's most fascinating - at least as far as you're concerned. There have been dozens of mortal agents who have been made to proclaim Edicts - two-thirds of them die within a decade, and many gave reports of lingering mystic scars from the ordeal.
 
-E também tem havido um punhado para resolver ou quebrar um [url=glossary:edict]Edict[/url] - estes 'até' e 'a menos' cláusulas se cumprem de vez em quando, e vemos um padrão semelhante na história - aqueles que resolvem um [url=glossary:edict]Edict[/url] muitas vezes vivem vidas curtas, e muitos falam de efeitos colaterais arcanos dos Edicts destruídos.
+And there have also been a handful to resolve or break an [url=glossary:edict]Edict[/url] - these 'until' and 'unless' clauses get fulfilled from time to time, and we see a similar pattern in history - those who resolve an [url=glossary:edict]Edict[/url] often live short lives, and many speak of arcane side effects of the shattered Edicts.
 
-Aqui é onde você é único ... para o melhor da minha descoberta de fatos, você é o primeiro a proclamar e quebrar exatamente o mesmo [url=glossary:edict]Edict[/url]. Seja qual for o poder místico envolvido na criação e destruição de tais magias, você é o primeiro ficar no final de ambos.
+Here's where you're unique... to the best of my fact-finding, you are the first to proclaim and break the exact same [url=glossary:edict]Edict[/url]. Whatever mystical power is involved in the creation and destruction of such magics, you're the first to stand at the terminus of both.
 
-Agora que eu sei que as Spires podem ser acordadas, faz sentido que, se alguma coisa pode ou iria despertá-los do sono, um [url=glossary:edict]Edict[/url] parece o provável culpado.
+Now that I know the Spires can be awoken, it makes sense that if anything can or would wake them from slumber, a shattered [url=glossary:edict]Edict[/url] seems the likely culprit.
 
-[url=glossary:kyros]Kyros[/url] tem outros Edicts no lugar em todo o Tiers. Se você realmente deseja aprender mais, talvez você deva destruir esses Editos. Afinal, se [url=glossary:kyros]Kyros[/url] não queria que os Edicts fossem quebrados, por que incluir uma cláusula de rescisão?
+[url=glossary:kyros]Kyros[/url] has other Edicts in place throughout the Tiers. If you truly wish to learn more, perhaps you should take it upon yourself to shatter those Edicts. After all, if [url=glossary:kyros]Kyros[/url] did not wish for the Edicts to be broken, why include a termination clause?
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Caro [nome do jogador],
+      <DefaultText>Dear [Player Name],
 
-Baseado no que você me disse, parece difícil acreditar que esses eventos sejam mera coincidência ou circunstância. [url=glossary:kyros]Kyros[/url] 'Execução foi uma configuração para ALGUÉM para reivindicar [url=glossary:ascension hall]Ascension Hall[/url] ... para pensar que [url=glossary:kyros]Kyros[/url] não sabia o que aconteceria é uma enorme subestimação da visão longa do Overlord.
+Based on what you've told me, it seems a stretch to believe these events are mere coincidence or circumstance. [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] of Execution was a setup for SOMEONE to claim [url=glossary:ascension hall]Ascension Hall[/url]... to think that [url=glossary:kyros]Kyros[/url] did not know what would happen is a massive underestimation of the Overlord's long view.
 
-Você foi empurrado para a arena dos poderosos, suas opções são: recuar para a obscuridade, para o suicídio ou para a ocasião - sugiro a terceira opção.
+You have been thrust into the arena of the mighty, your options are: retreat into obscurity, suicide, or rising to the occasion - I suggest the third option.
 
-Se eu fosse você, usaria minha conexão com os Spires para ver se todos eles despertariam para a minha presença. Cada Tiersman vê as Espirais no horizonte - se elas sabem que você é o mestre das Espirais, elas verão você cada vez que olharem para o nascer do sol ou o pôr do sol.
+If I were you, I would use my connection to the Spires to see if they will all awaken to my presence. Every Tiersman sees the Spires in the horizon - if they know YOU are the master of the Spires, they will see YOU each time they look to the sunrise or sunset.
 
-Promova uma reputação de poder, faça com que os outros temam você. Isto é o que eu vi [url=glossary:kyros]Kyros[/url] e cada Arconte vivo fazer enquanto eu vivi e há razões para isso ... há o caso prático que o poder e uma reputação isolam você de ameaças, mas há o elemento menos conhecido que não posso provar, mas sei que em meu coração é verdade: o medo e o amor dos outros fortalecerão sua magia.
+Foster a reputation for power, make others fear you. This is what I've seen [url=glossary:kyros]Kyros[/url] and every living Archon do for as long as I've lived and there's reasons for this... there's the practical case that power and a reputation insulate you from threats, but there's the lesser-known element that I can't prove but I know in my heart to be true: the fear and love of others will strengthen your magic.
 
-Esta última parte inferi de minhas discussões com [url=glossary:bleden mark]Bleden Mark[/url]. Nas poucas vezes em que ele falou de seu horrível trabalho de matar aqueles que poderiam se levantar para ameaçar o Overlord, ele insinuou que é mais fácil matar os 'elementos nocivos' antes que eles tornar-se famoso e temível. Na minha vida, eu vi [url=glossary:graven ashe]Graven Ashe[/url] mudar de um miliciano desconhecido para um temível general - e posso assegurar-lhe, ele não tinha o poder de proteger seus guerreiros naqueles dias em que ele estava sem título ou reputação. Os Arcontes jamais discutirão a origem de seu poder (porque tal conhecimento pode ser usado contra eles), mas eu conheço TODOS os Arcontes como obcecados com a apresentação do poder ...
+This last part I've inferred from my discussions with [url=glossary:bleden mark]Bleden Mark[/url]. In the few times he has spoken of his gruesome work of slaying those who might rise to threaten the Overlord, he has hinted that it's easier to kill the 'rogue elements' before they become famed and fearsome. In my lifetime, I saw [url=glossary:graven ashe]Graven Ashe[/url] change from an unknown militiaman to a fearsome general - and I can assure you, he did not have the power to shield his warriors in those days when he was without title or reputation. The Archons will never, ever discuss the origin of their power (because such knowledge might be used against them) but I have known ALL the Archons to be obsessed with the presentation of power...
 
-Sua conexão com os Spires vai garantir que os Archons vão querer controlá-lo e destruí-lo - é uma questão de quando, não se. Comece a pensar e agir como um Arconte ... no que me diz respeito, você é um Arconte - o Arconte das Torres. Somos rápidos em colocar rótulos em poderes que facilmente identificamos - e a história está repleta de Arcontes do Fogo e do Gelo - é tolice pensar que deve haver uma palavra para uma coisa antes que um Arconte possa controlá-la. Outra maneira de contornar - os Arcontes nos mostram o que é possível, e devemos dar um passo para a dança deles.
+Your connection to the Spires will all but guarantee the Archons will want to control and destroy you - it's a question of when, not if. Start thinking and acting like an Archon... as far as I'm concerned, you ARE an Archon - the Archon of the Spires. We are quick to place labels on powers we easily spot - and history is replete with Archons of Fire and Ice - it is foolish to think that there must be a word for a thing before an Archon can control it. Other way around - the Archons show us what is possible, and we must step to their dance.
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Solicite seu conselho.</DefaultText>
+      <DefaultText>Solicit her advice.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Agradeço a informação, obrigado por compartilhar.
+I appreciate the information, thank you for sharing.
 
-Sabendo o que você sabe da minha situação, o que você faria?
+Knowing what you know of my situation, what would you do?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Pergunte sobre [url=glossary:kyros]Kyros[/url] 'ira.</DefaultText>
+      <DefaultText>Ask about [url=glossary:kyros]Kyros[/url]' wrath.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Informe-se sobre as mortes de [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
+      <DefaultText>Inquire about [url=glossary:bleden mark]Bleden Mark[/url]'s killings.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Pergunte sobre os Arcontes e como eles subiram ao poder.</DefaultText>
+      <DefaultText>Ask about the Archons and how they've risen to power.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Caro [nome do jogador],
+      <DefaultText>Dear [Player Name],
 
-Meu conselho seria isolar e abrigar a si mesmo - evitar os outros Arcontes. Seja qual for a verdade por trás de seu link para os Spires, não importa - tudo o que importa é que você tem um poder novo e mal compreendido e isso faz de você um problema para os Arcontes - se eles não estão tentando te matar, eles logo .
+My advice would be to isolate and shelter yourself - avoid the other Archons. Whatever the truth is behind your link to the Spires matters not - all that matters is you have a new, poorly-understood power and that makes you a problem to the Archons - if they aren't trying to kill you already, they soon will.
 
-E por essa razão, devo pedir que paremos com nossas trocas - temo que aqueles que estão observando meus pombais possam inferir o vínculo e causar aflição a um ou a ambos.
+And for that reason, I must ask that we cease our exchanges - I fear those who are watching my dovecotes may infer the link and bring woe upon one or both of us.
 
-Boa sorte, Fatebinder. Você certamente precisará disso.
+Best of luck, Fatebinder. You will most certainly need it.
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Obrigado por pesar sobre tudo isso. Para fazer uma pergunta talvez muito óbvia ... se eu sou uma anomalia, uma ameaça dessas, por que o Overlord não me tratou imediatamente? Um [url=glossary:edict]Edict[/url] ou apenas um simples pedido para [url=glossary:bleden mark]Bleden Mark[/url] não seria uma pequena ameaça ... nem parece ter acontecido ainda.
+Thank you for weighing in on all of this. To ask perhaps too obvious a question... if I am such an anomaly, such a threat, why hasn't the Overlord dealt with me right away? An [url=glossary:edict]Edict[/url] or just a simple request to [url=glossary:bleden mark]Bleden Mark[/url] would be no small threat... neither seems to have happened just yet.
 
-Qual é a sua opinião sobre isso? Por que não tem [url=glossary:kyros]Kyros[/url] lidou comigo?
+What is your take on this? Why hasn't [url=glossary:kyros]Kyros[/url] dealt with me?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Sua sabedoria sobre o assunto é muito apreciada.
+Your wisdom on the matter is greatly appreciated.
 
-Você fez menção de [url=glossary:bleden mark]Bleden Mark[/url] e suas matanças. Durante o meu treinamento, Fatebinder Calio sugeriu que muito do trabalho do [url=glossary:bleden mark]Bleden Mark[/url] envolve o abortamento de ameaças antes que elas surjam em problemas genuínos - por isso, é curioso ouvir você em segundo plano.
+You made mention of [url=glossary:bleden mark]Bleden Mark[/url] and his killings. During my training, Fatebinder Calio hinted that much of [url=glossary:bleden mark]Bleden Mark[/url]'s work involves killing off threats before they blossom into genuine problems - so it's curious to hear you second that fact.
 
-Então ... digamos, por uma questão de argumento, EU SOU algum Arconte ... é só uma questão de tempo até que [url=glossary:bleden mark]Bleden Mark[/url] seja enviado para me matar? Devo estar fazendo grandes demonstrações de lealdade ao Tribunal para amenizar suas suspeitas?
+So... let's say for the sake of argument I AM some Archon... is it just a matter of time until [url=glossary:bleden mark]Bleden Mark[/url] is sent to kill me? Should I be making grand displays of loyalty to the Court to assuage his suspicions?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Eu aprecio o insight e sou honrado pelo seu voto de confiança.
+I appreciate the insight and am honored by your vote of confidence.
 
-Sua missiva fez menção de [url=glossary:graven ashe]Graven Ashe[/url] - e como você sabe dele desde antes que ele usava o título de Arconte da Guerra. Você pode me dizer mais sobre o que você observou de sua ascensão ao poder? Se eu sou de fato um Arconte, é seguro dizer que não nasci sabendo o que posso ou não fazer e é lógico que eu possa aprender alguma coisa com as histórias dos outros Arcontes.
+Your missive made mention of [url=glossary:graven ashe]Graven Ashe[/url] - and how you've known of him since before he wore the title Archon of War. Can you tell me more of what you observed of his rise to power? If I am indeed an Archon, it's safe to say I wasn't born knowing what I can or can't do and it stands to reason I might learn something from the stories of the other Archons.
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Arconte [nome do jogador],
+      <DefaultText>Archon [Player Name],
 
-Permita-me dirigir-me a você com um título assim antes que se torne moda - eu me orgulho de ser uma mulher que fica à frente das tendências.
+Allow me to address you by such a title before it becomes fashionable to do - I pride myself as a woman who stays ahead of the trends.
 
-Por que [url=glossary:kyros]Kyros[/url] fere alguns, mas permite que outros existam é uma questão que todos nós ponderamos. O Overlord pode certamente parecer arbitrário e se eu aprendi alguma coisa, esse é o ponto ... [url=glossary:kyros]Kyros[/url] é intencionalmente distante e distante - tanto para questões de segurança pessoal e porque se você tivesse que disputar as entidades mais poderosas de Terratus, você precisa impedi-los de ficar muito confortáveis.
+Why [url=glossary:kyros]Kyros[/url] smites some but allows others to exist is a question we all ponder. The Overlord can certainly appear arbitrary and if I've learned anything, that's the point... [url=glossary:kyros]Kyros[/url] is intentionally aloof and distant - both for matters of personal security and because if you had to wrangle the most powerful entities of Terratus, you'd need to keep them from getting too comfortable.
 
-Para mim, a resposta mais óbvia é que [url=glossary:kyros]Kyros[/url] sabe EXATAMENTE o que você está fazendo - ela provavelmente aprova suas ações e provavelmente está trabalhando em todas as oportunidades para criar uma situação em que você está agindo em seu próprio interesse enquanto satisfaz suas ambições também .
+To me, the most obvious answer is that [url=glossary:kyros]Kyros[/url] knows EXACTLY what you are doing - she probably approves of your actions and is likely working at every opportunity to create a situation wherein you are acting in your own self-interest while satisfying her ambitions as well.
 
-Você tem que considerar um detalhe importante: não há nenhum lugar em Terratus para conquistar agora que os Tiers estão no alcance do Overlord. O que os grandes generais farão em um tempo de paz? 2222222222222222222222222222222 é dificilmente tolerável quando você tem necessidade de um mestre espião, por que manter em torno de um monstro quando você não precisa mais de uma arma tão horrível?
+You have to consider one important detail: there's nowhere left in Terratus to conquer now that the Tiers are in the Overlord's grasp. What would the great generals even do in a time of peace? [url=glossary:the voices of nerat]The Voices of Nerat[/url] is barely tolerable when you have need of a spy master, why keep around such a monster when you no longer have need of such a gruesome weapon?
 
-Eu diria que é no interesse de que os Tiers sejam uma invasão cara que ceifam as vidas de tantos dos Archons quanto possível - carne insuficiente nas Tiers para manter muitos tubarões satisfeitos por muito tempo.
+I would argue it is in [url=glossary:kyros]Kyros[/url]' interest that the Tiers be a costly invasion that claims the lives of as many of the Archons as possible - not enough meat on the Tiers to keep too many sharks sated very long.
 
-[url=glossary:kyros]Kyros[/url] ordenou que todos tomassem [url=glossary:ascension hall]Ascension Hall[/url] ou morram - o 'ou morra' deve ter sido uma opção aceitável, correto? Se eu tivesse que arriscar um palpite, eu diria que você tem o apoio não dito do Overlord - não é como se você não pudesse encontrá-lo sempre que ele quisesse.
+[url=glossary:kyros]Kyros[/url] ordered everyone to take [url=glossary:ascension hall]Ascension Hall[/url] or die - the 'or die' must have been an acceptable option, correct? If I had to hazard a guess, I'd say you have the unspoken backing of the Overlord - it's not like [url=glossary:bleden mark]Bleden Mark[/url] can't find you whenever he wants.
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Meu querido Fatebinder,
+      <DefaultText>My dear Fatebinder,
 
-É um segredo mal guardado que o trabalho de [url=glossary:bleden mark]Bleden Mark[/url] é mais sobre matar ameaças antes que elas se tornem um problema - execuções 'oficiais' são realmente a minoria de suas obrigações.
+It's a poorly-kept secret that [url=glossary:bleden mark]Bleden Mark[/url]'s job is more about killing threats before they become a problem - 'official' executions are really the minority of his duties.
 
-Pelo que entendi, [url=glossary:kyros]Kyros[/url] tem usado por muito tempo [url=glossary:bleden mark]Bleden Mark[/url] como medida preventiva. Já que ele pode se mover pelo mundo com certa liberdade, e ele pode escapar de todos, exceto dos poderes mais absurdos, ele é o predador perfeito para enviar contra talentos selvagens.
+As I understand it, [url=glossary:kyros]Kyros[/url] has long used [url=glossary:bleden mark]Bleden Mark[/url] as a preventative measure. Since he can move about the world rather freely, and he can evade all but the most absurd powers, he's the perfect predator to send against wild talents.
 
-Tenho certeza de que poucos nos Tiers já se perguntaram por que aparentemente poucos Arcontes nasceram tão a oeste. Tenho certeza de que pessoas com potencial para serem Arcontes têm ocorrido nas camadas mais e mais vezes - mas elas geralmente são cortadas por Marcos antes que o mundo as ouça.
+I'm sure few in the Tiers have ever actively wondered why there have been seemingly so few Archons born this far west. I'm sure folks with the potential to be Archons have occurred in the Tiers time and time again - but they're usually cut down by Mark before the world hears of them.
 
-É provável que seja seguro assumir que [url=glossary:bleden mark]Bleden Mark[/url] está de olho em você e tem ordens de usar seu próprio julgamento sobre quando atacar. Conheço o velho há muito tempo e encorajo vivamente que NÃO tente apelar para ele com demonstrações evidentes de lealdade - ele não tem estômago para bajuladores. Acredito sinceramente que ele pensa que todo ser humano é um egoísta, um sujeito retorcido e há aqueles que estão mentindo sobre isso e aqueles que aceitam o que são - nenhum terceiro tipo existe.
+It's likely safe to assume [url=glossary:bleden mark]Bleden Mark[/url] has his eye on you and has orders to use his own judgment as to when to strike. I've known the old man for ages and I'd strongly encourage you NOT to try to appeal to him with overt displays of loyalty - he has no stomach for sycophants. I sincerely believe he thinks every human being is a selfish, twisted knave and there are those who are lying about it and those that accept what they are - no third type exists.
 
-Então sim, acho [url=glossary:bleden mark]Bleden Mark[/url] um dia tem que vir para você. Como eu disse - você sempre pode se esconder ou acabar com sua vida agora ... mas para onde você está indo, o conflito é inevitável.
+So yes, I do think [url=glossary:bleden mark]Bleden Mark[/url] will one day have to come for you. As I said - you could always hide or end your life now... but where you're headed, conflict is likely inevitable.
 
 -Myothis</DefaultText>
       <FemaleText />
@@ -639,177 +639,177 @@ Thus my advice to you is to act like an Archon - take power where you can find i
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Informe-se sobre as mortes de [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
+      <DefaultText>Inquire about [url=glossary:bleden mark]Bleden Mark[/url]'s killings.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Pergunte sobre os Arcontes e como eles subiram ao poder.</DefaultText>
+      <DefaultText>Ask about the Archons and how they've risen to power.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Sua sabedoria sobre o assunto é muito apreciada.
+Your wisdom on the matter is greatly appreciated.
 
-Você fez menção de [url=glossary:bleden mark]Bleden Mark[/url] e suas matanças. Durante o meu treinamento, Fatebinder Calio sugeriu que muito do trabalho do [url=glossary:bleden mark]Bleden Mark[/url] envolve o abortamento de ameaças antes que elas surjam em problemas genuínos - por isso, é curioso ouvir você em segundo plano.
+You made mention of [url=glossary:bleden mark]Bleden Mark[/url] and his killings. During my training, Fatebinder Calio hinted that much of [url=glossary:bleden mark]Bleden Mark[/url]'s work involves killing off threats before they blossom into genuine problems - so it's curious to hear you second that fact.
 
-Então ... digamos, por uma questão de argumento, EU SOU algum Arconte ... é só uma questão de tempo até que [url=glossary:bleden mark]Bleden Mark[/url] seja enviado para me matar? Devo estar fazendo grandes demonstrações de lealdade ao Tribunal para amenizar suas suspeitas?
+So... let's say for the sake of argument I AM some Archon... is it just a matter of time until [url=glossary:bleden mark]Bleden Mark[/url] is sent to kill me? Should I be making grand displays of loyalty to the Court to assuage his suspicions?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Eu aprecio o insight e sou honrado pelo seu voto de confiança.
+I appreciate the insight and am honored by your vote of confidence.
 
-Sua missiva fez menção de [url=glossary:graven ashe]Graven Ashe[/url] - e como você sabe dele desde antes que ele usava o título de Arconte da Guerra. Você pode me dizer mais sobre o que você observou de sua ascensão ao poder? Se eu sou de fato um Arconte, é seguro dizer que não nasci sabendo o que posso ou não fazer e é lógico que eu possa aprender alguma coisa com as histórias dos outros Arcontes.
+Your missive made mention of [url=glossary:graven ashe]Graven Ashe[/url] - and how you've known of him since before he wore the title Archon of War. Can you tell me more of what you observed of his rise to power? If I am indeed an Archon, it's safe to say I wasn't born knowing what I can or can't do and it stands to reason I might learn something from the stories of the other Archons.
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Pergunte sobre [url=glossary:kyros]Kyros[/url] 'ira.</DefaultText>
+      <DefaultText>Ask about [url=glossary:kyros]Kyros[/url]' wrath.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Pergunte sobre os Arcontes e como eles subiram ao poder.</DefaultText>
+      <DefaultText>Ask about the Archons and how they've risen to power.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Pergunte sobre [url=glossary:kyros]Kyros[/url] 'ira.</DefaultText>
+      <DefaultText>Ask about [url=glossary:kyros]Kyros[/url]' wrath.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Informe-se sobre as mortes de [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
+      <DefaultText>Inquire about [url=glossary:bleden mark]Bleden Mark[/url]'s killings.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Obrigado por pesar sobre tudo isso. Para fazer uma pergunta talvez muito óbvia ... se eu sou uma anomalia, uma ameaça dessas, por que o Overlord não me tratou imediatamente? Um [url=glossary:edict]Edict[/url] ou apenas um simples pedido para [url=glossary:bleden mark]Bleden Mark[/url] não seria uma pequena ameaça ... nem parece ter acontecido ainda.
+Thank you for weighing in on all of this. To ask perhaps too obvious a question... if I am such an anomaly, such a threat, why hasn't the Overlord dealt with me right away? An [url=glossary:edict]Edict[/url] or just a simple request to [url=glossary:bleden mark]Bleden Mark[/url] would be no small threat... neither seems to have happened just yet.
 
-Qual é a sua opinião sobre isso? Por que não tem [url=glossary:kyros]Kyros[/url] lidou comigo?
+What is your take on this? Why hasn't [url=glossary:kyros]Kyros[/url] dealt with me?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Eu aprecio o insight e sou honrado pelo seu voto de confiança.
+I appreciate the insight and am honored by your vote of confidence.
 
-Sua missiva fez menção de [url=glossary:graven ashe]Graven Ashe[/url] - e como você sabe dele desde antes que ele usava o título de Arconte da Guerra. Você pode me dizer mais sobre o que você observou de sua ascensão ao poder? Se eu sou de fato um Arconte, é seguro dizer que não nasci sabendo o que posso ou não fazer e é lógico que eu possa aprender alguma coisa com as histórias dos outros Arcontes.
+Your missive made mention of [url=glossary:graven ashe]Graven Ashe[/url] - and how you've known of him since before he wore the title Archon of War. Can you tell me more of what you observed of his rise to power? If I am indeed an Archon, it's safe to say I wasn't born knowing what I can or can't do and it stands to reason I might learn something from the stories of the other Archons.
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Obrigado por pesar sobre tudo isso. Para fazer uma pergunta talvez muito óbvia ... se eu sou uma anomalia, uma ameaça dessas, por que o Overlord não me tratou imediatamente? Um [url=glossary:edict]Edict[/url] ou apenas um simples pedido para [url=glossary:bleden mark]Bleden Mark[/url] não seria uma pequena ameaça ... nem parece ter acontecido ainda.
+Thank you for weighing in on all of this. To ask perhaps too obvious a question... if I am such an anomaly, such a threat, why hasn't the Overlord dealt with me right away? An [url=glossary:edict]Edict[/url] or just a simple request to [url=glossary:bleden mark]Bleden Mark[/url] would be no small threat... neither seems to have happened just yet.
 
-Qual é a sua opinião sobre isso? Por que não tem [url=glossary:kyros]Kyros[/url] lidou comigo?
+What is your take on this? Why hasn't [url=glossary:kyros]Kyros[/url] dealt with me?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Sua sabedoria sobre o assunto é muito apreciada.
+Your wisdom on the matter is greatly appreciated.
 
-Você fez menção de [url=glossary:bleden mark]Bleden Mark[/url] e suas matanças. Durante o meu treinamento, Fatebinder Calio sugeriu que muito do trabalho do [url=glossary:bleden mark]Bleden Mark[/url] envolve o abortamento de ameaças antes que elas surjam em problemas genuínos - por isso, é curioso ouvir você em segundo plano.
+You made mention of [url=glossary:bleden mark]Bleden Mark[/url] and his killings. During my training, Fatebinder Calio hinted that much of [url=glossary:bleden mark]Bleden Mark[/url]'s work involves killing off threats before they blossom into genuine problems - so it's curious to hear you second that fact.
 
-Então ... digamos, por uma questão de argumento, EU SOU algum Arconte ... é só uma questão de tempo até que [url=glossary:bleden mark]Bleden Mark[/url] seja enviado para me matar? Devo estar fazendo grandes demonstrações de lealdade ao Tribunal para amenizar suas suspeitas?
+So... let's say for the sake of argument I AM some Archon... is it just a matter of time until [url=glossary:bleden mark]Bleden Mark[/url] is sent to kill me? Should I be making grand displays of loyalty to the Court to assuage his suspicions?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Meu querido Fatebinder,
+      <DefaultText>My dear Fatebinder,
 
-É um segredo mal guardado que o trabalho de [url=glossary:bleden mark]Bleden Mark[/url] é mais sobre matar ameaças antes que elas se tornem um problema - execuções 'oficiais' são realmente a minoria de suas obrigações.
+It's a poorly-kept secret that [url=glossary:bleden mark]Bleden Mark[/url]'s job is more about killing threats before they become a problem - 'official' executions are really the minority of his duties.
 
-Pelo que entendi, [url=glossary:kyros]Kyros[/url] tem usado por muito tempo [url=glossary:bleden mark]Bleden Mark[/url] como medida preventiva. Já que ele pode se mover pelo mundo com certa liberdade, e ele pode escapar de todos, exceto dos poderes mais absurdos, ele é o predador perfeito para enviar contra talentos selvagens.
+As I understand it, [url=glossary:kyros]Kyros[/url] has long used [url=glossary:bleden mark]Bleden Mark[/url] as a preventative measure. Since he can move about the world rather freely, and he can evade all but the most absurd powers, he's the perfect predator to send against wild talents.
 
-Tenho certeza de que poucos nos Tiers já se perguntaram por que aparentemente poucos Arcontes nasceram tão a oeste. Tenho certeza de que pessoas com potencial para serem Arcontes têm ocorrido nas camadas mais e mais vezes - mas elas geralmente são cortadas por Marcos antes que o mundo as ouça.
+I'm sure few in the Tiers have ever actively wondered why there have been seemingly so few Archons born this far west. I'm sure folks with the potential to be Archons have occurred in the Tiers time and time again - but they're usually cut down by Mark before the world hears of them.
 
-É provável que seja seguro assumir que [url=glossary:bleden mark]Bleden Mark[/url] está de olho em você e tem ordens de usar seu próprio julgamento sobre quando atacar. Conheço o velho há muito tempo e encorajo vivamente que NÃO tente apelar para ele com demonstrações evidentes de lealdade - ele não tem estômago para bajuladores. Acredito sinceramente que ele pensa que todo ser humano é um egoísta, um sujeito retorcido e há aqueles que estão mentindo sobre isso e aqueles que aceitam o que são - nenhum terceiro tipo existe.
+It's likely safe to assume [url=glossary:bleden mark]Bleden Mark[/url] has his eye on you and has orders to use his own judgment as to when to strike. I've known the old man for ages and I'd strongly encourage you NOT to try to appeal to him with overt displays of loyalty - he has no stomach for sycophants. I sincerely believe he thinks every human being is a selfish, twisted knave and there are those who are lying about it and those that accept what they are - no third type exists.
 
-Então sim, acho [url=glossary:bleden mark]Bleden Mark[/url] um dia tem que vir para você. Como eu disse - você sempre pode se esconder ou acabar com sua vida agora ... mas para onde você está indo, o conflito é inevitável.
+So yes, I do think [url=glossary:bleden mark]Bleden Mark[/url] will one day have to come for you. As I said - you could always hide or end your life now... but where you're headed, conflict is likely inevitable.
 
 -Myothis</DefaultText>
       <FemaleText />
@@ -833,19 +833,19 @@ Thus my advice to you is to act like an Archon - take power where you can find i
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Arconte [nome do jogador],
+      <DefaultText>Archon [Player Name],
 
-Permita-me dirigir-me a você com um título assim antes que se torne moda - eu me orgulho de ser uma mulher que fica à frente das tendências.
+Allow me to address you by such a title before it becomes fashionable to do - I pride myself as a woman who stays ahead of the trends.
 
-Por que [url=glossary:kyros]Kyros[/url] fere alguns, mas permite que outros existam é uma questão que todos nós ponderamos. O Overlord pode certamente parecer arbitrário e se eu aprendi alguma coisa, esse é o ponto ... [url=glossary:kyros]Kyros[/url] é intencionalmente distante e distante - tanto para questões de segurança pessoal e porque se você tivesse que disputar as entidades mais poderosas de Terratus, você precisa impedi-los de ficar muito confortáveis.
+Why [url=glossary:kyros]Kyros[/url] smites some but allows others to exist is a question we all ponder. The Overlord can certainly appear arbitrary and if I've learned anything, that's the point... [url=glossary:kyros]Kyros[/url] is intentionally aloof and distant - both for matters of personal security and because if you had to wrangle the most powerful entities of Terratus, you'd need to keep them from getting too comfortable.
 
-Para mim, a resposta mais óbvia é que [url=glossary:kyros]Kyros[/url] sabe EXATAMENTE o que você está fazendo - ela provavelmente aprova suas ações e provavelmente está trabalhando em todas as oportunidades para criar uma situação em que você está agindo em seu próprio interesse enquanto satisfaz suas ambições também .
+To me, the most obvious answer is that [url=glossary:kyros]Kyros[/url] knows EXACTLY what you are doing - she probably approves of your actions and is likely working at every opportunity to create a situation wherein you are acting in your own self-interest while satisfying her ambitions as well.
 
-Você tem que considerar um detalhe importante: não há nenhum lugar em Terratus para conquistar agora que os Tiers estão no alcance do Overlord. O que os grandes generais farão em um tempo de paz? 2222222222222222222222222222222 é dificilmente tolerável quando você tem necessidade de um mestre espião, por que manter em torno de um monstro quando você não precisa mais de uma arma tão horrível?
+You have to consider one important detail: there's nowhere left in Terratus to conquer now that the Tiers are in the Overlord's grasp. What would the great generals even do in a time of peace? [url=glossary:the voices of nerat]The Voices of Nerat[/url] is barely tolerable when you have need of a spy master, why keep around such a monster when you no longer have need of such a gruesome weapon?
 
-Eu diria que é no interesse de que os Tiers sejam uma invasão cara que ceifam as vidas de tantos dos Archons quanto possível - carne insuficiente nas Tiers para manter muitos tubarões satisfeitos por muito tempo.
+I would argue it is in [url=glossary:kyros]Kyros[/url]' interest that the Tiers be a costly invasion that claims the lives of as many of the Archons as possible - not enough meat on the Tiers to keep too many sharks sated very long.
 
-[url=glossary:kyros]Kyros[/url] ordenou que todos tomassem [url=glossary:ascension hall]Ascension Hall[/url] ou morram - o 'ou morra' deve ter sido uma opção aceitável, correto? Se eu tivesse que arriscar um palpite, eu diria que você tem o apoio não dito do Overlord - não é como se você não pudesse encontrá-lo sempre que ele quisesse.
+[url=glossary:kyros]Kyros[/url] ordered everyone to take [url=glossary:ascension hall]Ascension Hall[/url] or die - the 'or die' must have been an acceptable option, correct? If I had to hazard a guess, I'd say you have the unspoken backing of the Overlord - it's not like [url=glossary:bleden mark]Bleden Mark[/url] can't find you whenever he wants.
 
 -Myothis</DefaultText>
       <FemaleText />
@@ -869,198 +869,198 @@ Thus my advice to you is to act like an Archon - take power where you can find i
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Arconte [nome do jogador],
+      <DefaultText>Archon [Player Name],
 
-Permita-me dirigir-me a você com um título assim antes que se torne moda - eu me orgulho de ser uma mulher que fica à frente das tendências.
+Allow me to address you by such a title before it becomes fashionable to do - I pride myself as a woman who stays ahead of the trends.
 
-Por que [url=glossary:kyros]Kyros[/url] fere alguns, mas permite que outros existam é uma questão que todos nós ponderamos. O Overlord pode certamente parecer arbitrário e se eu aprendi alguma coisa, esse é o ponto ... [url=glossary:kyros]Kyros[/url] é intencionalmente distante e distante - tanto para questões de segurança pessoal e porque se você tivesse que disputar as entidades mais poderosas de Terratus, você precisa impedi-los de ficar muito confortáveis.
+Why [url=glossary:kyros]Kyros[/url] smites some but allows others to exist is a question we all ponder. The Overlord can certainly appear arbitrary and if I've learned anything, that's the point... [url=glossary:kyros]Kyros[/url] is intentionally aloof and distant - both for matters of personal security and because if you had to wrangle the most powerful entities of Terratus, you'd need to keep them from getting too comfortable.
 
-Para mim, a resposta mais óbvia é que [url=glossary:kyros]Kyros[/url] sabe EXATAMENTE o que você está fazendo - ela provavelmente aprova suas ações e provavelmente está trabalhando em todas as oportunidades para criar uma situação em que você está agindo em seu próprio interesse enquanto satisfaz suas ambições também .
+To me, the most obvious answer is that [url=glossary:kyros]Kyros[/url] knows EXACTLY what you are doing - she probably approves of your actions and is likely working at every opportunity to create a situation wherein you are acting in your own self-interest while satisfying her ambitions as well.
 
-Você tem que considerar um detalhe importante: não há nenhum lugar em Terratus para conquistar agora que os Tiers estão no alcance do Overlord. O que os grandes generais farão em um tempo de paz? 2222222222222222222222222222222 é dificilmente tolerável quando você tem necessidade de um mestre espião, por que manter em torno de um monstro quando você não precisa mais de uma arma tão horrível?
+You have to consider one important detail: there's nowhere left in Terratus to conquer now that the Tiers are in the Overlord's grasp. What would the great generals even do in a time of peace? [url=glossary:the voices of nerat]The Voices of Nerat[/url] is barely tolerable when you have need of a spy master, why keep around such a monster when you no longer have need of such a gruesome weapon?
 
-Eu diria que é no interesse de que os Tiers sejam uma invasão cara que ceifam as vidas de tantos dos Archons quanto possível - carne insuficiente nas Tiers para manter muitos tubarões satisfeitos por muito tempo.
+I would argue it is in [url=glossary:kyros]Kyros[/url]' interest that the Tiers be a costly invasion that claims the lives of as many of the Archons as possible - not enough meat on the Tiers to keep too many sharks sated very long.
 
-[url=glossary:kyros]Kyros[/url] ordenou que todos tomassem [url=glossary:ascension hall]Ascension Hall[/url] ou morram - o 'ou morra' deve ter sido uma opção aceitável, correto? Se eu tivesse que arriscar um palpite, eu diria que você tem o apoio não dito do Overlord - não é como se você não pudesse encontrá-lo sempre que ele quisesse.
+[url=glossary:kyros]Kyros[/url] ordered everyone to take [url=glossary:ascension hall]Ascension Hall[/url] or die - the 'or die' must have been an acceptable option, correct? If I had to hazard a guess, I'd say you have the unspoken backing of the Overlord - it's not like [url=glossary:bleden mark]Bleden Mark[/url] can't find you whenever he wants.
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Meu querido Fatebinder,
+      <DefaultText>My dear Fatebinder,
 
-É um segredo mal guardado que o trabalho de [url=glossary:bleden mark]Bleden Mark[/url] é mais sobre matar ameaças antes que elas se tornem um problema - execuções 'oficiais' são realmente a minoria de suas obrigações.
+It's a poorly-kept secret that [url=glossary:bleden mark]Bleden Mark[/url]'s job is more about killing threats before they become a problem - 'official' executions are really the minority of his duties.
 
-Pelo que entendi, [url=glossary:kyros]Kyros[/url] tem usado por muito tempo [url=glossary:bleden mark]Bleden Mark[/url] como medida preventiva. Já que ele pode se mover pelo mundo com certa liberdade, e ele pode escapar de todos, exceto dos poderes mais absurdos, ele é o predador perfeito para enviar contra talentos selvagens.
+As I understand it, [url=glossary:kyros]Kyros[/url] has long used [url=glossary:bleden mark]Bleden Mark[/url] as a preventative measure. Since he can move about the world rather freely, and he can evade all but the most absurd powers, he's the perfect predator to send against wild talents.
 
-Tenho certeza de que poucos nos Tiers já se perguntaram por que aparentemente poucos Arcontes nasceram tão a oeste. Tenho certeza de que pessoas com potencial para serem Arcontes têm ocorrido nas camadas mais e mais vezes - mas elas geralmente são cortadas por Marcos antes que o mundo as ouça.
+I'm sure few in the Tiers have ever actively wondered why there have been seemingly so few Archons born this far west. I'm sure folks with the potential to be Archons have occurred in the Tiers time and time again - but they're usually cut down by Mark before the world hears of them.
 
-É provável que seja seguro assumir que [url=glossary:bleden mark]Bleden Mark[/url] está de olho em você e tem ordens de usar seu próprio julgamento sobre quando atacar. Conheço o velho há muito tempo e encorajo vivamente que NÃO tente apelar para ele com demonstrações evidentes de lealdade - ele não tem estômago para bajuladores. Acredito sinceramente que ele pensa que todo ser humano é um egoísta, um sujeito retorcido e há aqueles que estão mentindo sobre isso e aqueles que aceitam o que são - nenhum terceiro tipo existe.
+It's likely safe to assume [url=glossary:bleden mark]Bleden Mark[/url] has his eye on you and has orders to use his own judgment as to when to strike. I've known the old man for ages and I'd strongly encourage you NOT to try to appeal to him with overt displays of loyalty - he has no stomach for sycophants. I sincerely believe he thinks every human being is a selfish, twisted knave and there are those who are lying about it and those that accept what they are - no third type exists.
 
-Então sim, acho [url=glossary:bleden mark]Bleden Mark[/url] um dia tem que vir para você. Como eu disse - você sempre pode se esconder ou acabar com sua vida agora ... mas para onde você está indo, o conflito é inevitável.
+So yes, I do think [url=glossary:bleden mark]Bleden Mark[/url] will one day have to come for you. As I said - you could always hide or end your life now... but where you're headed, conflict is likely inevitable.
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Pergunte sobre os Arcontes e como eles subiram ao poder.</DefaultText>
+      <DefaultText>Ask about the Archons and how they've risen to power.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Informe-se sobre as mortes de [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
+      <DefaultText>Inquire about [url=glossary:bleden mark]Bleden Mark[/url]'s killings.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Pergunte sobre os Arcontes e como eles subiram ao poder.</DefaultText>
+      <DefaultText>Ask about the Archons and how they've risen to power.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Pergunte sobre [url=glossary:kyros]Kyros[/url] 'ira.</DefaultText>
+      <DefaultText>Ask about [url=glossary:kyros]Kyros[/url]' wrath.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Informe-se sobre as mortes de [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
+      <DefaultText>Inquire about [url=glossary:bleden mark]Bleden Mark[/url]'s killings.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Pergunte sobre [url=glossary:kyros]Kyros[/url] 'ira.</DefaultText>
+      <DefaultText>Ask about [url=glossary:kyros]Kyros[/url]' wrath.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Eu aprecio o insight e sou honrado pelo seu voto de confiança.
+I appreciate the insight and am honored by your vote of confidence.
 
-Sua missiva fez menção de [url=glossary:graven ashe]Graven Ashe[/url] - e como você sabe dele desde antes que ele usava o título de Arconte da Guerra. Você pode me dizer mais sobre o que você observou de sua ascensão ao poder? Se eu sou de fato um Arconte, é seguro dizer que não nasci sabendo o que posso ou não fazer e é lógico que eu possa aprender alguma coisa com as histórias dos outros Arcontes.
+Your missive made mention of [url=glossary:graven ashe]Graven Ashe[/url] - and how you've known of him since before he wore the title Archon of War. Can you tell me more of what you observed of his rise to power? If I am indeed an Archon, it's safe to say I wasn't born knowing what I can or can't do and it stands to reason I might learn something from the stories of the other Archons.
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Sua sabedoria sobre o assunto é muito apreciada.
+Your wisdom on the matter is greatly appreciated.
 
-Você fez menção de [url=glossary:bleden mark]Bleden Mark[/url] e suas matanças. Durante o meu treinamento, Fatebinder Calio sugeriu que muito do trabalho do [url=glossary:bleden mark]Bleden Mark[/url] envolve o abortamento de ameaças antes que elas surjam em problemas genuínos - por isso, é curioso ouvir você em segundo plano.
+You made mention of [url=glossary:bleden mark]Bleden Mark[/url] and his killings. During my training, Fatebinder Calio hinted that much of [url=glossary:bleden mark]Bleden Mark[/url]'s work involves killing off threats before they blossom into genuine problems - so it's curious to hear you second that fact.
 
-Então ... digamos, por uma questão de argumento, EU SOU algum Arconte ... é só uma questão de tempo até que [url=glossary:bleden mark]Bleden Mark[/url] seja enviado para me matar? Devo estar fazendo grandes demonstrações de lealdade ao Tribunal para amenizar suas suspeitas?
+So... let's say for the sake of argument I AM some Archon... is it just a matter of time until [url=glossary:bleden mark]Bleden Mark[/url] is sent to kill me? Should I be making grand displays of loyalty to the Court to assuage his suspicions?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Eu aprecio o insight e sou honrado pelo seu voto de confiança.
+I appreciate the insight and am honored by your vote of confidence.
 
-Sua missiva fez menção de [url=glossary:graven ashe]Graven Ashe[/url] - e como você sabe dele desde antes que ele usava o título de Arconte da Guerra. Você pode me dizer mais sobre o que você observou de sua ascensão ao poder? Se eu sou de fato um Arconte, é seguro dizer que não nasci sabendo o que posso ou não fazer e é lógico que eu possa aprender alguma coisa com as histórias dos outros Arcontes.
+Your missive made mention of [url=glossary:graven ashe]Graven Ashe[/url] - and how you've known of him since before he wore the title Archon of War. Can you tell me more of what you observed of his rise to power? If I am indeed an Archon, it's safe to say I wasn't born knowing what I can or can't do and it stands to reason I might learn something from the stories of the other Archons.
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Obrigado por pesar sobre tudo isso. Para fazer uma pergunta talvez muito óbvia ... se eu sou uma anomalia, uma ameaça dessas, por que o Overlord não me tratou imediatamente? Um [url=glossary:edict]Edict[/url] ou apenas um simples pedido para [url=glossary:bleden mark]Bleden Mark[/url] não seria uma pequena ameaça ... nem parece ter acontecido ainda.
+Thank you for weighing in on all of this. To ask perhaps too obvious a question... if I am such an anomaly, such a threat, why hasn't the Overlord dealt with me right away? An [url=glossary:edict]Edict[/url] or just a simple request to [url=glossary:bleden mark]Bleden Mark[/url] would be no small threat... neither seems to have happened just yet.
 
-Qual é a sua opinião sobre isso? Por que não tem [url=glossary:kyros]Kyros[/url] lidou comigo?
+What is your take on this? Why hasn't [url=glossary:kyros]Kyros[/url] dealt with me?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Sua sabedoria sobre o assunto é muito apreciada.
+Your wisdom on the matter is greatly appreciated.
 
-Você fez menção de [url=glossary:bleden mark]Bleden Mark[/url] e suas matanças. Durante o meu treinamento, Fatebinder Calio sugeriu que muito do trabalho do [url=glossary:bleden mark]Bleden Mark[/url] envolve o abortamento de ameaças antes que elas surjam em problemas genuínos - por isso, é curioso ouvir você em segundo plano.
+You made mention of [url=glossary:bleden mark]Bleden Mark[/url] and his killings. During my training, Fatebinder Calio hinted that much of [url=glossary:bleden mark]Bleden Mark[/url]'s work involves killing off threats before they blossom into genuine problems - so it's curious to hear you second that fact.
 
-Então ... digamos, por uma questão de argumento, EU SOU algum Arconte ... é só uma questão de tempo até que [url=glossary:bleden mark]Bleden Mark[/url] seja enviado para me matar? Devo estar fazendo grandes demonstrações de lealdade ao Tribunal para amenizar suas suspeitas?
+So... let's say for the sake of argument I AM some Archon... is it just a matter of time until [url=glossary:bleden mark]Bleden Mark[/url] is sent to kill me? Should I be making grand displays of loyalty to the Court to assuage his suspicions?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Querida Myothis
+      <DefaultText>Dear Myothis,
 
-Obrigado por pesar sobre tudo isso. Para fazer uma pergunta talvez muito óbvia ... se eu sou uma anomalia, uma ameaça dessas, por que o Overlord não me tratou imediatamente? Um [url=glossary:edict]Edict[/url] ou apenas um simples pedido para [url=glossary:bleden mark]Bleden Mark[/url] não seria uma pequena ameaça ... nem parece ter acontecido ainda.
+Thank you for weighing in on all of this. To ask perhaps too obvious a question... if I am such an anomaly, such a threat, why hasn't the Overlord dealt with me right away? An [url=glossary:edict]Edict[/url] or just a simple request to [url=glossary:bleden mark]Bleden Mark[/url] would be no small threat... neither seems to have happened just yet.
 
-Qual é a sua opinião sobre isso? Por que não tem [url=glossary:kyros]Kyros[/url] lidou comigo?
+What is your take on this? Why hasn't [url=glossary:kyros]Kyros[/url] dealt with me?
 
--[Nome do jogador]</DefaultText>
+-[Player Name]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Não envie.</DefaultText>
+      <DefaultText>Don't send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1082,17 +1082,17 @@ Thus my advice to you is to act like an Archon - take power where you can find i
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Meu querido Fatebinder,
+      <DefaultText>My dear Fatebinder,
 
-É um segredo mal guardado que o trabalho de [url=glossary:bleden mark]Bleden Mark[/url] é mais sobre matar ameaças antes que elas se tornem um problema - execuções 'oficiais' são realmente a minoria de suas obrigações.
+It's a poorly-kept secret that [url=glossary:bleden mark]Bleden Mark[/url]'s job is more about killing threats before they become a problem - 'official' executions are really the minority of his duties.
 
-Pelo que entendi, [url=glossary:kyros]Kyros[/url] tem usado por muito tempo [url=glossary:bleden mark]Bleden Mark[/url] como medida preventiva. Já que ele pode se mover pelo mundo com certa liberdade, e ele pode escapar de todos, exceto dos poderes mais absurdos, ele é o predador perfeito para enviar contra talentos selvagens.
+As I understand it, [url=glossary:kyros]Kyros[/url] has long used [url=glossary:bleden mark]Bleden Mark[/url] as a preventative measure. Since he can move about the world rather freely, and he can evade all but the most absurd powers, he's the perfect predator to send against wild talents.
 
-Tenho certeza de que poucos nos Tiers já se perguntaram por que aparentemente poucos Arcontes nasceram tão a oeste. Tenho certeza de que pessoas com potencial para serem Arcontes têm ocorrido nas camadas mais e mais vezes - mas elas geralmente são cortadas por Marcos antes que o mundo as ouça.
+I'm sure few in the Tiers have ever actively wondered why there have been seemingly so few Archons born this far west. I'm sure folks with the potential to be Archons have occurred in the Tiers time and time again - but they're usually cut down by Mark before the world hears of them.
 
-É provável que seja seguro assumir que [url=glossary:bleden mark]Bleden Mark[/url] está de olho em você e tem ordens de usar seu próprio julgamento sobre quando atacar. Conheço o velho há muito tempo e encorajo vivamente que NÃO tente apelar para ele com demonstrações evidentes de lealdade - ele não tem estômago para bajuladores. Acredito sinceramente que ele pensa que todo ser humano é um egoísta, um sujeito retorcido e há aqueles que estão mentindo sobre isso e aqueles que aceitam o que são - nenhum terceiro tipo existe.
+It's likely safe to assume [url=glossary:bleden mark]Bleden Mark[/url] has his eye on you and has orders to use his own judgment as to when to strike. I've known the old man for ages and I'd strongly encourage you NOT to try to appeal to him with overt displays of loyalty - he has no stomach for sycophants. I sincerely believe he thinks every human being is a selfish, twisted knave and there are those who are lying about it and those that accept what they are - no third type exists.
 
-Então sim, acho [url=glossary:bleden mark]Bleden Mark[/url] um dia tem que vir para você. Como eu disse - você sempre pode se esconder ou acabar com sua vida agora ... mas para onde você está indo, o conflito é inevitável.
+So yes, I do think [url=glossary:bleden mark]Bleden Mark[/url] will one day have to come for you. As I said - you could always hide or end your life now... but where you're headed, conflict is likely inevitable.
 
 -Myothis</DefaultText>
       <FemaleText />
@@ -1116,84 +1116,84 @@ Thus my advice to you is to act like an Archon - take power where you can find i
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Arconte [nome do jogador],
+      <DefaultText>Archon [Player Name],
 
-Permita-me dirigir-me a você com um título assim antes que se torne moda - eu me orgulho de ser uma mulher que fica à frente das tendências.
+Allow me to address you by such a title before it becomes fashionable to do - I pride myself as a woman who stays ahead of the trends.
 
-Por que [url=glossary:kyros]Kyros[/url] fere alguns, mas permite que outros existam é uma questão que todos nós ponderamos. O Overlord pode certamente parecer arbitrário e se eu aprendi alguma coisa, esse é o ponto ... [url=glossary:kyros]Kyros[/url] é intencionalmente distante e distante - tanto para questões de segurança pessoal e porque se você tivesse que disputar as entidades mais poderosas de Terratus, você precisa impedi-los de ficar muito confortáveis.
+Why [url=glossary:kyros]Kyros[/url] smites some but allows others to exist is a question we all ponder. The Overlord can certainly appear arbitrary and if I've learned anything, that's the point... [url=glossary:kyros]Kyros[/url] is intentionally aloof and distant - both for matters of personal security and because if you had to wrangle the most powerful entities of Terratus, you'd need to keep them from getting too comfortable.
 
-Para mim, a resposta mais óbvia é que [url=glossary:kyros]Kyros[/url] sabe EXATAMENTE o que você está fazendo - ela provavelmente aprova suas ações e provavelmente está trabalhando em todas as oportunidades para criar uma situação em que você está agindo em seu próprio interesse enquanto satisfaz suas ambições também .
+To me, the most obvious answer is that [url=glossary:kyros]Kyros[/url] knows EXACTLY what you are doing - she probably approves of your actions and is likely working at every opportunity to create a situation wherein you are acting in your own self-interest while satisfying her ambitions as well.
 
-Você tem que considerar um detalhe importante: não há nenhum lugar em Terratus para conquistar agora que os Tiers estão no alcance do Overlord. O que os grandes generais farão em um tempo de paz? 2222222222222222222222222222222 é dificilmente tolerável quando você tem necessidade de um mestre espião, por que manter em torno de um monstro quando você não precisa mais de uma arma tão horrível?
+You have to consider one important detail: there's nowhere left in Terratus to conquer now that the Tiers are in the Overlord's grasp. What would the great generals even do in a time of peace? [url=glossary:the voices of nerat]The Voices of Nerat[/url] is barely tolerable when you have need of a spy master, why keep around such a monster when you no longer have need of such a gruesome weapon?
 
-Eu diria que é no interesse de que os Tiers sejam uma invasão cara que ceifam as vidas de tantos dos Archons quanto possível - carne insuficiente nas Tiers para manter muitos tubarões satisfeitos por muito tempo.
+I would argue it is in [url=glossary:kyros]Kyros[/url]' interest that the Tiers be a costly invasion that claims the lives of as many of the Archons as possible - not enough meat on the Tiers to keep too many sharks sated very long.
 
-[url=glossary:kyros]Kyros[/url] ordenou que todos tomassem [url=glossary:ascension hall]Ascension Hall[/url] ou morram - o 'ou morra' deve ter sido uma opção aceitável, correto? Se eu tivesse que arriscar um palpite, eu diria que você tem o apoio não dito do Overlord - não é como se você não pudesse encontrá-lo sempre que ele quisesse.
+[url=glossary:kyros]Kyros[/url] ordered everyone to take [url=glossary:ascension hall]Ascension Hall[/url] or die - the 'or die' must have been an acceptable option, correct? If I had to hazard a guess, I'd say you have the unspoken backing of the Overlord - it's not like [url=glossary:bleden mark]Bleden Mark[/url] can't find you whenever he wants.
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Meu querido Fatebinder,
+      <DefaultText>My dear Fatebinder,
 
-É um segredo mal guardado que o trabalho de [url=glossary:bleden mark]Bleden Mark[/url] é mais sobre matar ameaças antes que elas se tornem um problema - execuções 'oficiais' são realmente a minoria de suas obrigações.
+It's a poorly-kept secret that [url=glossary:bleden mark]Bleden Mark[/url]'s job is more about killing threats before they become a problem - 'official' executions are really the minority of his duties.
 
-Pelo que entendi, [url=glossary:kyros]Kyros[/url] tem usado por muito tempo [url=glossary:bleden mark]Bleden Mark[/url] como medida preventiva. Já que ele pode se mover pelo mundo com certa liberdade, e ele pode escapar de todos, exceto dos poderes mais absurdos, ele é o predador perfeito para enviar contra talentos selvagens.
+As I understand it, [url=glossary:kyros]Kyros[/url] has long used [url=glossary:bleden mark]Bleden Mark[/url] as a preventative measure. Since he can move about the world rather freely, and he can evade all but the most absurd powers, he's the perfect predator to send against wild talents.
 
-Tenho certeza de que poucos nos Tiers já se perguntaram por que aparentemente poucos Arcontes nasceram tão a oeste. Tenho certeza de que pessoas com potencial para serem Arcontes têm ocorrido nas camadas mais e mais vezes - mas elas geralmente são cortadas por Marcos antes que o mundo as ouça.
+I'm sure few in the Tiers have ever actively wondered why there have been seemingly so few Archons born this far west. I'm sure folks with the potential to be Archons have occurred in the Tiers time and time again - but they're usually cut down by Mark before the world hears of them.
 
-É provável que seja seguro assumir que [url=glossary:bleden mark]Bleden Mark[/url] está de olho em você e tem ordens de usar seu próprio julgamento sobre quando atacar. Conheço o velho há muito tempo e encorajo vivamente que NÃO tente apelar para ele com demonstrações evidentes de lealdade - ele não tem estômago para bajuladores. Acredito sinceramente que ele pensa que todo ser humano é um egoísta, um sujeito retorcido e há aqueles que estão mentindo sobre isso e aqueles que aceitam o que são - nenhum terceiro tipo existe.
+It's likely safe to assume [url=glossary:bleden mark]Bleden Mark[/url] has his eye on you and has orders to use his own judgment as to when to strike. I've known the old man for ages and I'd strongly encourage you NOT to try to appeal to him with overt displays of loyalty - he has no stomach for sycophants. I sincerely believe he thinks every human being is a selfish, twisted knave and there are those who are lying about it and those that accept what they are - no third type exists.
 
-Então sim, acho [url=glossary:bleden mark]Bleden Mark[/url] um dia tem que vir para você. Como eu disse - você sempre pode se esconder ou acabar com sua vida agora ... mas para onde você está indo, o conflito é inevitável.
+So yes, I do think [url=glossary:bleden mark]Bleden Mark[/url] will one day have to come for you. As I said - you could always hide or end your life now... but where you're headed, conflict is likely inevitable.
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Arconte [nome do jogador],
+      <DefaultText>Archon [Player Name],
 
-Permita-me dirigir-me a você com um título assim antes que se torne moda - eu me orgulho de ser uma mulher que fica à frente das tendências.
+Allow me to address you by such a title before it becomes fashionable to do - I pride myself as a woman who stays ahead of the trends.
 
-Por que [url=glossary:kyros]Kyros[/url] fere alguns, mas permite que outros existam é uma questão que todos nós ponderamos. O Overlord pode certamente parecer arbitrário e se eu aprendi alguma coisa, esse é o ponto ... [url=glossary:kyros]Kyros[/url] é intencionalmente distante e distante - tanto para questões de segurança pessoal e porque se você tivesse que disputar as entidades mais poderosas de Terratus, você precisa impedi-los de ficar muito confortáveis.
+Why [url=glossary:kyros]Kyros[/url] smites some but allows others to exist is a question we all ponder. The Overlord can certainly appear arbitrary and if I've learned anything, that's the point... [url=glossary:kyros]Kyros[/url] is intentionally aloof and distant - both for matters of personal security and because if you had to wrangle the most powerful entities of Terratus, you'd need to keep them from getting too comfortable.
 
-Para mim, a resposta mais óbvia é que [url=glossary:kyros]Kyros[/url] sabe EXATAMENTE o que você está fazendo - ela provavelmente aprova suas ações e provavelmente está trabalhando em todas as oportunidades para criar uma situação em que você está agindo em seu próprio interesse enquanto satisfaz suas ambições também .
+To me, the most obvious answer is that [url=glossary:kyros]Kyros[/url] knows EXACTLY what you are doing - she probably approves of your actions and is likely working at every opportunity to create a situation wherein you are acting in your own self-interest while satisfying her ambitions as well.
 
-Você tem que considerar um detalhe importante: não há nenhum lugar em Terratus para conquistar agora que os Tiers estão no alcance do Overlord. O que os grandes generais farão em um tempo de paz? 2222222222222222222222222222222 é dificilmente tolerável quando você tem necessidade de um mestre espião, por que manter em torno de um monstro quando você não precisa mais de uma arma tão horrível?
+You have to consider one important detail: there's nowhere left in Terratus to conquer now that the Tiers are in the Overlord's grasp. What would the great generals even do in a time of peace? [url=glossary:the voices of nerat]The Voices of Nerat[/url] is barely tolerable when you have need of a spy master, why keep around such a monster when you no longer have need of such a gruesome weapon?
 
-Eu diria que é no interesse de que os Tiers sejam uma invasão cara que ceifam as vidas de tantos dos Archons quanto possível - carne insuficiente nas Tiers para manter muitos tubarões satisfeitos por muito tempo.
+I would argue it is in [url=glossary:kyros]Kyros[/url]' interest that the Tiers be a costly invasion that claims the lives of as many of the Archons as possible - not enough meat on the Tiers to keep too many sharks sated very long.
 
-[url=glossary:kyros]Kyros[/url] ordenou que todos tomassem [url=glossary:ascension hall]Ascension Hall[/url] ou morram - o 'ou morra' deve ter sido uma opção aceitável, correto? Se eu tivesse que arriscar um palpite, eu diria que você tem o apoio não dito do Overlord - não é como se você não pudesse encontrá-lo sempre que ele quisesse.
+[url=glossary:kyros]Kyros[/url] ordered everyone to take [url=glossary:ascension hall]Ascension Hall[/url] or die - the 'or die' must have been an acceptable option, correct? If I had to hazard a guess, I'd say you have the unspoken backing of the Overlord - it's not like [url=glossary:bleden mark]Bleden Mark[/url] can't find you whenever he wants.
 
 -Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Meu querido [nome do jogador],
+      <DefaultText>My dear [Player Name],
 
-E eles dizem que o respeito pelos mais velhos é uma forma de arte agonizante - agradeço a gentileza pela oferta, já que tenho contas para resolver e netos para estragar, e manter um perfil discreto não é muito lucrativo. Eu coloquei algo para você em troca - eu odeio deixar o pergaminho coletar poeira e acho que uma mente mais jovem poderia fazer uso de alguns pergaminhos assombrando meus armários.
+And they say respect for one's elders is a dying art form - I thank you kindly for the offering, as I've accounts to settle and grandchildren to spoil, and keeping a low profile isn't very profitable. I have enclosed something for you in return - I do so hate to let parchment collect dust and I figure a younger mind could make use of some of the scrolls haunting my cabinets.
 
-Eu sou agora o mais velho dos 'filhos' da Corte e tenho visto muito no meu tempo. É provavelmente para o melhor todo mundo assume que eu sou velho, inofensivo, e vale a pena remexer nos arquivos ... se eu fosse examinado muito de perto, tenho certeza [url=glossary:tunon]Tunon[/url] iria achar que eu cresci negligente em minha velhice mimada .. .
+I'm now the oldest of the Court's 'children' and I've seen much in my time. It's probably for the best everyone assumes I'm old, harmless, and worth shuffling away in the archives... if I were scrutinized too closely, I'm sure [url=glossary:tunon]Tunon[/url] would find I've grown lax in my spoiled old age...
 
-Parte do motivo pelo qual estou onde estou é que mantive minha cabeça baixa - você parece estar fazendo o oposto. Em alguns aspectos, isso está além de seu controle - você foi escolhido para a honra de proclamar [url=glossary:kyros]Kyros[/url] 'Edicts - duas vezes! Recusar significaria a morte, mas aceitar significa ser colocado no palco para todos verem.
+Part of why I am where I am is that I've kept my head down - you appear to be doing the opposite. In some regards, this is beyond your control - you were chosen for the honor of proclaiming [url=glossary:kyros]Kyros[/url]' Edicts - twice! To decline would have meant death, but to accept means to be placed on the stage for all to see.
 
-[url=glossary:kyros]Kyros[/url] 'arma mais poderosa não é o [url=glossary:edict]Edict[/url], é a sua capacidade de nos entregar corda que nós usamos de bom grado para nos enforcar - nunca se esqueça disso.
+[url=glossary:kyros]Kyros[/url]' most powerful weapon is not the [url=glossary:edict]Edict[/url], it's her ability to hand us rope that we willingly use to hang ourselves - never forget this.
 
-Existem inúmeras perguntas aninhadas em sua solicitação - o que você mais deseja saber? Concentre sua pergunta e eu responderei da melhor maneira possível.
+There are numerous questions nestled in your request - what is it you wish to know most? Focus your inquiry and I will answer as best I can.
 
 -Fatebinder Myothis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Informe-se sobre Edicts e sua natureza.</DefaultText>
+      <DefaultText>Inquire about Edicts and their nature.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Pergunte sobre as torres.</DefaultText>
+      <DefaultText>Ask about the Spires.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

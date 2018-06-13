@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_poi_oldwall_03_puzzle_hint</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Tente o cristal azul no farol esquerdo."</DefaultText>
+      <DefaultText>"Try the blue crystal on the left beacon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Eu sugiro colocar o vermelho no meio - homenagear o Coro."</DefaultText>
+      <DefaultText>"I suggest putting the red one in the middle - pay homage to the Chorus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Azul e laranja estão em oposição - talvez eles não devam ser adjacentes."</DefaultText>
+      <DefaultText>"Blue and orange stand in opposition - perhaps they should not be adjacent."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"É melhor tratar runas como machos teimosos - continue batendo com vara até que seja devidamente obediente."</DefaultText>
+      <DefaultText>"Best to treat runes like stubborn males - keep hitting with stick until properly obedient."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Eu sempre começo meu dia com uma pitada de cerúleo para remover as teias de aranha. Talvez comece com o azul."</DefaultText>
+      <DefaultText>"I always start my day with a dash of cerulean to remove the cobwebs. Maybe start with the blue one."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"O azul é minha cor favorita. No que me diz respeito, deve ser sempre o primeiro."</DefaultText>
+      <DefaultText>"Blue is my favorite color. As far as I'm concerned, it should always be first."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Nó do banco 12</DefaultText>
+      <DefaultText>Bank Node 12</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

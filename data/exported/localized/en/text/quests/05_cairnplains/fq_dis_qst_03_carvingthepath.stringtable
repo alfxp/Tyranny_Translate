@@ -1,57 +1,57 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\05_cairnplains\fq_dis_qst_03_carvingthepath</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>10</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Esculpindo o caminho</DefaultText>
+      <DefaultText>Carving the Path</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Elimine o [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
+      <DefaultText>Eliminate the [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Fale com Radix no Howling Rock.</DefaultText>
+      <DefaultText>Speak with Radix at Howling Rock.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Atualização [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
+      <DefaultText>Update [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Caedis e Radix pediram-lhe para começar a fazer um caminho para o 112211222222222222222222222222222222222, começando com Stone Down.</DefaultText>
+      <DefaultText>Caedis and Radix have asked you to begin making a path for the [url=glossary:disfavored]Disfavored[/url] through the [url=glossary:stone sea]Stone Sea[/url], beginning with Stone Down.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>A primeira área que deve ser limpa para Caedis e Radix é Stone Down. É a casa dos Beastmen da tribo [url=glossary:stonestalker]Stonestalker[/url] - todos eles devem morrer.</DefaultText>
+      <DefaultText>The first area that must be cleared for Caedis and Radix is Stone Down. It's the home of the Beastmen of the [url=glossary:stonestalker]Stonestalker[/url] tribe - all of them must die.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Agora que o [url=glossary:stonestalkers]Stonestalkers[/url] foi eliminado, entre no campo [url=glossary:disfavored]Disfavored[/url] em Howling Rock e encontre-se com Radix.</DefaultText>
+      <DefaultText>Now that the [url=glossary:stonestalkers]Stonestalkers[/url] have been eliminated, enter the [url=glossary:disfavored]Disfavored[/url] camp at Howling Rock and rendezvous with Radix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Antes de avançar com os planos da Radix e da Caedis, você precisará falar com [url=glossary:graven ashe]Graven Ashe[/url] no Iron Hearth e informá-lo sobre a situação.</DefaultText>
+      <DefaultText>Before moving forward with Radix's and Caedis' plans, you'll need to speak to [url=glossary:graven ashe]Graven Ashe[/url] at Iron Hearth and brief him on the situation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você falou com [url=glossary:graven ashe]Graven Ashe[/url] e recebeu sua benção para um ataque ao [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <DefaultText>You have spoken with [url=glossary:graven ashe]Graven Ashe[/url] and received his blessing for an attack on the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você falhou o [url=glossary:disfavored]Disfavored[/url] e foi expulso como um anarquista.</DefaultText>
+      <DefaultText>You have failed the [url=glossary:disfavored]Disfavored[/url] and have been cast out as an anarchist.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

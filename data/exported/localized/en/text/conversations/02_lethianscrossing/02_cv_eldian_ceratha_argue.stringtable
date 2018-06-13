@@ -1,31 +1,31 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_eldian_ceratha_argue</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Cuidado com o seu tom comigo, Eldian. Você pode ter liderado esta cidade uma vez, mas esse é o meu trabalho agora. Você pode não gostar, mas devo pelo menos um pouco de respeito."</DefaultText>
+      <DefaultText>"Watch your tone with me, Eldian. You might have led this town at one time, but that is my job now. You might not like it, but I am due at least a little respect."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Nós podemos ter que sofrer sob o polegar da Irmandade, Ceratha, mas sem minha ajuda para manter a população aplacada, você teria muito mais dificuldade em manter o controle e você sabe disso. Então eu sugiro que você mostre um pouco de respeito em troca. Como minha mãe sempre dizia: 'Se você não planeja pagar pela torta, não peça ao padeiro para fazer isso'. Ela era uma mulher sábia ".</DefaultText>
+      <DefaultText>"We might have to suffer under the Brotherhood's thumb, Ceratha, but without my help keeping the populace placated, you would have a much harder time keeping control and you know it. So I suggest you show a little respect in return. As my mother always said, 'If you don't plan on paying for the pie, don't ask the baker to make it.' She was a wise woman."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Ceratha revira os olhos. "Sim, Eldian. Sua mãe foi incrível. Mas nós não estamos discutindo trivialidades antiquadas. Embora eu adoraria dar-lhe mais liberdade, Raetommon vai tomar minha cabeça se não mantivermos um aperto firme neste acordo - e isso inclui você." Ela abaixa a voz antes de continuar, então você mal consegue ouvi-la.
+      <DefaultText>Ceratha rolls her eyes. "Yes, Eldian. Your mother was amazing. But we aren't discussing antiquated platitudes. While I would love to give you more leeway, Raetommon will take my head if we don't keep a tight grip on this settlement - and that includes you." She lowers her voice before she continues so you can barely hear her.
 
-"Agora, eu sugiro que você fique em sua casa e fora de vista no caso de Raetommon retornar. Pelo menos por enquanto."</DefaultText>
+"Now, I suggest that you stay in your house and out of sight in case Raetommon returns. At least for the moment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Eu suponho que você está certo. 'O caracol que se recusa a descansar em sua concha sempre vai acabar sendo salgado.'" Ele balança a cabeça.
+      <DefaultText>"I suppose you're right. 'The snail that refuses to rest in his shell will always end up being salted.'" He shakes his head.
 
-"Ok, nem tudo o que ela disse foi uma jóia."</DefaultText>
+"Okay, not everything she said was a gem."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

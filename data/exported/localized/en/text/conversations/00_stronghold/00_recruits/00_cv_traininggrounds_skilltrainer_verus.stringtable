@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_traininggrounds_skilltrainer_verus</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>28</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Manutenção. Volte depois."</DefaultText>
+      <DefaultText>"Maintenance. Come back later."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Fatebinder". O Oath Bound concorda. "Você traz honra à legião. O que posso fazer por você?"</DefaultText>
+      <DefaultText>"Fatebinder." The Oath Bound nods. "You bring honor to the legion. What can I do for you?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Você tem alguma coisa para mim?"</DefaultText>
+      <DefaultText>"Do you have anything for me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,17 +26,17 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>O Oath Bound dobra os braços e fica em silêncio, esperando que você fale.</DefaultText>
+      <DefaultText>The Oath Bound folds his arms and remains silent, waiting for you to speak.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Fatebinder". O Oath Bound oferece um sorriso de boas-vindas.</DefaultText>
+      <DefaultText>"Fatebinder." The Oath Bound offers you a welcoming smile. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>O soldado acidentado faz uma saudação imediata, com o punho batendo contra o peitoral. "[url=glossary:graven ashe]Graven Ashe[/url] protege!"</DefaultText>
+      <DefaultText>The rugged soldier snaps to an immediate salute, his fist clanging against his breastplate. "[url=glossary:graven ashe]Graven Ashe[/url] protects!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,22 +51,22 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Eu não poderia estar mais orgulhoso de ficar no topo desta Spire com uma verdadeira amiga da legião, Fatebinder." Ele olha para o horizonte e respira fundo. "Estou longe de casa há muito tempo e é bom ver o Norte desta posição."</DefaultText>
+      <DefaultText>"I couldn't be more proud to stand atop this Spire with a true friend of the legion, Fatebinder." He looks out to the horizon and takes a deep breath. "I've been away from home for too long, and it's good to see the North from this vantage." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Ele lhe dá uma expressão mista e tranca os pés juntos. "É claro que eu não deveria esperar que você se envolvesse com as fileiras. As desculpas da minha suposição comprometeram a dignidade da Corte."</DefaultText>
+      <DefaultText>He gives you a mixed expression and locks his feet together. "Of course I shouldn't expect you to engage with the rank and file. Apologies of my assumption compromised the dignity of the Court."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Como você chegou aqui, soldado?"</DefaultText>
+      <DefaultText>"How did you get up here, soldier."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Agora que você está aqui em cima, qual é o seu plano?"</DefaultText>
+      <DefaultText>"Now that you're up here, what's your plan?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,17 +76,17 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Sua postura rígida oscila com incerteza. "Em vez de conversa fiada, talvez você esteja mais interessado em minhas qualificações? Eu sou um Oath Bound e, entre outras coisas, significa que sou um destacado escuteiro e caçador."</DefaultText>
+      <DefaultText>His rigid stance wavers with uncertainty. "Instead of small talk, perhaps you're more interested in my qualifications? I'm an Oath Bound, and among other things that means I'm a distinguished scout and hunter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Se você está interessado em peles, seria uma honra vasculhar o deserto além da Torre e colocar algumas armadilhas. Qualquer coisa que eu traga de volta é sua por direito."</DefaultText>
+      <DefaultText>"If you're interested in pelts, it would be my honor to scour the wilderness beyond the Spire and lay some traps. Anything I bring back is yours by rights."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Você tem alguma coisa para mim agora?"</DefaultText>
+      <DefaultText>"Do you have anything for me now?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,42 +106,42 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Ele sorri. "Eu vou te mostrar o que eu tenho."</DefaultText>
+      <DefaultText>He smiles. "I'll show you what I've got."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ainda não tenho nada em mim, mas me encontre novamente mais tarde, quando tive a chance de inspecionar minhas armadilhas."</DefaultText>
+      <DefaultText>"I haven't got anything on me just yet, but find me again later when I've had a chance to inspect my snares."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Você não é estranho para a legião. Você já deve saber que cada um de nós é obrigado ao dever, e nenhum desafio permanece em nosso caminho sem oposição - nenhuma parede, rio, ou inimigo nos impedirá de seguir nossas ordens. Nenhum Espiral é muito alto para que não cheguemos ao topo de alguma forma. "</DefaultText>
+      <DefaultText>"You're no stranger to the legion. You should already know that each of us is bound to duty, and no challenge stands in our path unopposed - no wall, river, [url=glossary:edict]Edict[/url] or enemy will keep us from following our orders. No Spire is too tall that we won't reach the top somehow."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Então, quando [url=glossary:graven ashe]Graven Ashe[/url] ordenou-me a informar o seu Spire, eu obedeci. Contra toda a razão que me diz ascendente é um luxo impossível concedido aos poucos", ele te favorece com um aceno ", eu estou aqui. Nem lógica nem razão nunca me impediu de seguir as ordens de Ashe no passado, e eu não estava disposta a deixá-los começar. "</DefaultText>
+      <DefaultText>"So when [url=glossary:graven ashe]Graven Ashe[/url] ordered me to report to your Spire, I obeyed. Against all rationale that tells me ascending is an impossible luxury afforded to the very few," he favors you with a nod, "I am here. Neither logic nor reason ever stopped me from following Ashe's orders in the past, and I wasn't about to let them start." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Isso não responde exatamente a minha pergunta."</DefaultText>
+      <DefaultText>"That doesn't exactly answer my question."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ok, seguindo em frente. O que você pode fazer por mim, soldado?"</DefaultText>
+      <DefaultText>"Okay, moving on. What can you do for me, soldier?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Talvez não, mas é toda a resposta que tenho para dar, implorando seu perdão." Ele concorda.</DefaultText>
+      <DefaultText>"Maybe not, but it's all the answer I have to give, begging your pardon." He nods. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Eu sou um Oath Bound e, entre outras coisas, significa que sou um ilustre escoteiro e caçador. Pretendo fazer o que faço melhor."</DefaultText>
+      <DefaultText>"I'm an Oath Bound, and among other things that means I'm a distinguished scout and hunter. I intend to do what I do best."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

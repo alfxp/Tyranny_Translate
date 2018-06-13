@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_bs_playerfemale_sneaky_voiceset</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>111</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Estou ferido."</DefaultText>
+      <DefaultText>"I'm injured."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,37 +21,37 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Sim."</DefaultText>
+      <DefaultText>"Yes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Certo."</DefaultText>
+      <DefaultText>"Right."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Nele."</DefaultText>
+      <DefaultText>"On it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Entendi."</DefaultText>
+      <DefaultText>"I got it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Vai fazer."</DefaultText>
+      <DefaultText>"Will do."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Sim."</DefaultText>
+      <DefaultText>"Aye."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Uh-huh"</DefaultText>
+      <DefaultText>"Uh-huh."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,57 +101,57 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Isso é inútil, eu deveria tentar outra coisa."</DefaultText>
+      <DefaultText>"This is useless, I should try something else."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ah, entendi."</DefaultText>
+      <DefaultText>"Ah, got it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Isso não foi tão difícil."</DefaultText>
+      <DefaultText>"That wasn't so hard."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Acalme-se."</DefaultText>
+      <DefaultText>"Quiet down."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Na vigia."</DefaultText>
+      <DefaultText>"On the lookout."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Movendo-se cautelosamente."</DefaultText>
+      <DefaultText>"Moving cautiously."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Não posso fazer isso."</DefaultText>
+      <DefaultText>"Can't do that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Desculpe, não posso."</DefaultText>
+      <DefaultText>"Sorry, I can't."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Hmmm ... dê uma olhada aqui".</DefaultText>
+      <DefaultText>"Hmmm... have a look here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Encontrei algo."</DefaultText>
+      <DefaultText>"Found something."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Veja isso?"</DefaultText>
+      <DefaultText>"See that?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,22 +171,22 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Interessante..."</DefaultText>
+      <DefaultText>"Interesting..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Hã..."</DefaultText>
+      <DefaultText>"Huh..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Curioso."</DefaultText>
+      <DefaultText>"Curious."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Pegue isso!"</DefaultText>
+      <DefaultText>"Take that!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,92 +206,92 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Me siga."</DefaultText>
+      <DefaultText>"Follow me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Eu não posso me mexer!"</DefaultText>
+      <DefaultText>"I can't move!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Não se sentindo tão bem ..."</DefaultText>
+      <DefaultText>"Not feeling so great..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Batalhar!"</DefaultText>
+      <DefaultText>"To battle!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"O problema está acontecendo."</DefaultText>
+      <DefaultText>"Trouble is afoot."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Atenção, nós temos companhia."</DefaultText>
+      <DefaultText>"Heads up, we have company."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Temos que descansar em breve."</DefaultText>
+      <DefaultText>"We must rest, soon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Minhas feridas estão me atrasando, eu preciso descansar."</DefaultText>
+      <DefaultText>"My wounds are slowing me down, I need rest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Estou ferido, cansado ... vamos descansar."</DefaultText>
+      <DefaultText>"I'm injured, tired... let's rest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Eu estou carregando muito."</DefaultText>
+      <DefaultText>"I'm carrying too much."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Aguarde meu sinal."</DefaultText>
+      <DefaultText>"Await my signal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"No meu comando!"</DefaultText>
+      <DefaultText>"On my command!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Pronto?"</DefaultText>
+      <DefaultText>"Ready?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Sem falhas!"</DefaultText>
+      <DefaultText>"Flawless!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Bom trabalho!"</DefaultText>
+      <DefaultText>"Good work!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Devemos tentar isso de novo."</DefaultText>
+      <DefaultText>"We should try that again."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Me desculpe por isso."</DefaultText>
+      <DefaultText>"Sorry about that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Volte aqui!"</DefaultText>
+      <DefaultText>"Get back here!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,82 +301,82 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Você aprende algo todo dia."</DefaultText>
+      <DefaultText>"You learn something every day."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Minhas feridas precisam de atenção, outra lesão e eu estou acabado."</DefaultText>
+      <DefaultText>"My wounds need attention, another injury and I'm done for."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Isto vai ser divertido."</DefaultText>
+      <DefaultText>"This will be fun."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Eu vou apenas segurar isso."</DefaultText>
+      <DefaultText>"I'll just hold on to this."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Não conheço a minha própria força ..."</DefaultText>
+      <DefaultText>"Don't know my own strength..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Certo."</DefaultText>
+      <DefaultText>"Sure."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Pode apostar."</DefaultText>
+      <DefaultText>"You bet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Não posso."</DefaultText>
+      <DefaultText>"Can't."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Uuuh ... não"</DefaultText>
+      <DefaultText>"Uuuh... no."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Eu preciso tentar uma arma diferente."</DefaultText>
+      <DefaultText>"I need to try a different weapon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Esta arma é uma decepção terrível".</DefaultText>
+      <DefaultText>"This weapon is a terrible disappointment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Oh isso vai ser fácil."</DefaultText>
+      <DefaultText>"Oh that'll be easy."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Afaste-se, deixe o especialista fazer isso."</DefaultText>
+      <DefaultText>"Step aside, let the expert do it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Huh ... dê uma olhada nisso!"</DefaultText>
+      <DefaultText>"Huh... have a look at that!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Bem, dê uma olhada nisso!</DefaultText>
+      <DefaultText>"Well have a look at that!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Minha cabeça ... tudo está ficando ... escuro ..."</DefaultText>
+      <DefaultText>"My head... everything's getting... dark..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,12 +386,12 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Como isso se sente?"</DefaultText>
+      <DefaultText>"How'd THAT feel?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Certo na marca!"</DefaultText>
+      <DefaultText>"Right on the mark!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,47 +401,47 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Tente isso ... [grunhido] de novo ..."</DefaultText>
+      <DefaultText>"Try that... [grunt] again..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Estou sem bolsos."</DefaultText>
+      <DefaultText>"I'm all out of pockets."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Estou sobrecarregado como está."</DefaultText>
+      <DefaultText>"I'm overburdened as it is."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Estou preso!"</DefaultText>
+      <DefaultText>"I'm stuck!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ótimo, eu sou um alvo sentado!"</DefaultText>
+      <DefaultText>"Great, I'm a sitting target!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Parece que estou morrendo pouco a pouco ...</DefaultText>
+      <DefaultText>"Feels like... I'm dying bit by bit...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Eu sinto que estou ... morrendo lentamente ..."</DefaultText>
+      <DefaultText>"I'm feel like I'm... slowly dying..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Isso deveria ser divertido ..."</DefaultText>
+      <DefaultText>"This ought to be fun..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Muito agradável."</DefaultText>
+      <DefaultText>"Very nice."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,77 +451,77 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Espere - o tempo está desligado."</DefaultText>
+      <DefaultText>"Wait up - timing's all off."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Espere um momento, eu vou te dizer quando."</DefaultText>
+      <DefaultText>"Hold a moment, I'll tell you when."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Correr não vai te salvar ..."</DefaultText>
+      <DefaultText>"Running won't save you..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Não tão rápido, covarde!"</DefaultText>
+      <DefaultText>"Not so fast, coward!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Não, não - ahhhhh!"</DefaultText>
+      <DefaultText>"No, no - ahhhhh!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Só quando eu pensei que sabia tudo ..."</DefaultText>
+      <DefaultText>"Just when I thought I knew it all..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Ignorância é felicidade, mas conhecimento é poder."</DefaultText>
+      <DefaultText>"Ignorance is bliss, but knowledge is power."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Eu não posso acreditar que ainda estou vivo - eu preciso descansar!"</DefaultText>
+      <DefaultText>"I can't believe I'm still alive - I need to rest!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Eu sou um pequeno arranhão de morrer ... por favor, precisamos nos reagrupar."</DefaultText>
+      <DefaultText>"I'm a small scratch away from dying... please, we need to regroup."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Acho que quebrei o meu adversário ..."</DefaultText>
+      <DefaultText>"I think I broke my opponent..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Isso funcionou melhor do que eu esperava ..."</DefaultText>
+      <DefaultText>"That worked better than I expected..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Oh ... oh meu ..."</DefaultText>
+      <DefaultText>"Oh... oh my..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Filho de um ... fique focado ..."</DefaultText>
+      <DefaultText>"Son of a-... stay focused..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Meu objetivo está desligado hoje."</DefaultText>
+      <DefaultText>"My aim is off today."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Não tornando isso fácil para mim, não é?"</DefaultText>
+      <DefaultText>"Not making this easy on me, are you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,12 +536,12 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Sim?"</DefaultText>
+      <DefaultText>"Yes?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"O que?</DefaultText>
+      <DefaultText>"What?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,7 +556,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Ei."</DefaultText>
+      <DefaultText>"Hey."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

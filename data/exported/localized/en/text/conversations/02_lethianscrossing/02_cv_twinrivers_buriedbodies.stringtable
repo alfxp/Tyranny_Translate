@@ -1,54 +1,54 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_twinrivers_buriedbodies</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Sob a sujeira, você encontra uma coleção de ossos envolta em farrapos carmesins esfarrapados. Um medalhão brilhante com a insígnia da ordem do Blood Chanter repousa entre os ossos.
+      <DefaultText>Beneath the dirt you find a collection of bones wrapped in tattered crimson rags. A shining medallion bearing the insignia of the Blood Chanter order rests among the bones.
 
-Marcações nos ossos indicam que estes Blood Chanters foram mortos pelas armas de ferro do [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+Markings on the bones indicate these Blood Chanters were killed by the iron weapons of the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] matando refrão? Não é inédito nestes tempos, mas esses corpos são muito mais antigos que os recentes."</DefaultText>
+      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] killing Chorus? Not unheard of in these times, but these bodies are much older than recent events."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Parece que alguém estava fazendo algo que não deveria ter."</DefaultText>
+      <DefaultText>"Looks like someone was doing something they shouldn't have."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Osso são frágeis. Cheiro de sangue velho e cortes de ferro. Significa que sempre humanos caçaram humanos, sim?"</DefaultText>
+      <DefaultText>"Bone are brittle. Smell of old blood and iron cuts. Means always humans have hunted humans, yep?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Parece que os [url=glossary:disfavored]Disfavored[/url] e [url=glossary:scarlet chorus]Scarlet Chorus[/url] começaram sua rival um pouco mais cedo do que pensávamos."</DefaultText>
+      <DefaultText>"It would seem the [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] started their feud a little earlier than we thought."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Parece que a rivalidade está acontecendo há mais tempo do que se pensava."</DefaultText>
+      <DefaultText>"It would seem the [url=glossary:scarlet chorus]Scarlet Chorus[/url]-[url=glossary:disfavored]Disfavored[/url] rivalry has been going on longer than previously thought."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Estes Blood Chanters foram mortos muito antes de tomarmos [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
+      <DefaultText>"These Blood Chanters were killed long before we took [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Nó Aleatório 8</DefaultText>
+      <DefaultText>Random Node 8</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Nó do banco 9</DefaultText>
+      <DefaultText>Bank Node 9</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

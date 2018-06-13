@@ -1,62 +1,62 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\03_burninglibrary\fq_dis_qst_02_burninglibrary</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>28</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Apagando as chamas</DefaultText>
+      <DefaultText>Extinguishing the Flames</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viajar para Effigy.</DefaultText>
+      <DefaultText>Travel to Effigy.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Resgate Maric.</DefaultText>
+      <DefaultText>Rescue Maric.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Vá para as [url=glossary:burning library]Burning Library[/url] ruínas.</DefaultText>
+      <DefaultText>Go to the [url=glossary:burning library]Burning Library[/url] ruins.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Encontre um caminho além da barreira mágica.</DefaultText>
+      <DefaultText>Find a way past the magic barrier.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Encontre mais pedaços de pergaminho.</DefaultText>
+      <DefaultText>Find more parchment pieces.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Encontre os pedaços de pergaminho restantes.</DefaultText>
+      <DefaultText>Find the remaining parchment pieces.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Encontre a última peça de pergaminho.</DefaultText>
+      <DefaultText>Find the last parchment piece.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Use as peças de pergaminho para alcançar o Arquivo silencioso.</DefaultText>
+      <DefaultText>Use the parchment pieces to reach the Silent Archive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Destrua o [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>Destroy the [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Volte ao [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
+      <DefaultText>Report back to [url=glossary:graven ashe]Graven Ashe[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,57 +71,57 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] quer que você termine o que foi iniciado durante [url=glossary:kyros]Kyros[/url] 'conquista dos Tiers e destruir o [url=glossary:burning library]Burning Library[/url] de uma vez por todas, negando o [url=glossary:scarlet chorus]Scarlet Chorus[/url] conhecimento proibido da biblioteca.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Graven Ashe[/url] wants you to finish what was started during [url=glossary:kyros]Kyros[/url]' conquest of the Tiers and destroy the [url=glossary:burning library]Burning Library[/url] once and for all, denying the [url=glossary:scarlet chorus]Scarlet Chorus[/url] the library's forbidden knowledge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Maric lidera um grupo de [url=glossary:disfavored]Disfavored[/url] Oath Bound no [url=glossary:burning library]Burning Library[/url] e pode ser capaz de ajudá-lo, embora Ashe tenha perdido contato com ele nas últimas semanas. Viaje até o último local conhecido de Maric em Effigy e obtenha sua assistência, se possível.</DefaultText>
+      <DefaultText>Maric leads a group of [url=glossary:disfavored]Disfavored[/url] Oath Bound in the [url=glossary:burning library]Burning Library[/url] and may be able to help you, though Ashe lost contact with him in recent weeks. Travel to Maric's last known location at Effigy and gain his assistance, if possible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Agora que você chegou em Effigy, você precisa localizar e liberar o soldado Oath Bound capturado, Maric. Ele tem conhecimento que você precisa para destruir o [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>Now that you've arrived in Effigy, you need to locate and free the captured Oath Bound soldier, Maric. He has knowledge you'll need to destroy the [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Entre nas ruínas do [url=glossary:burning library]Burning Library[/url] para destruir o Arquivo silencioso.</DefaultText>
+      <DefaultText>Enter the ruins of the [url=glossary:burning library]Burning Library[/url] to destroy the Silent Archive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Uma barreira mágica impede que você viaje mais nas ruínas. Encontre uma maneira de dispersá-lo para continuar explorando o [url=glossary:burning library]Burning Library[/url].</DefaultText>
+      <DefaultText>A magic barrier prevents you from traveling any further into the ruins. Find a way to dispell it to continue exploring the [url=glossary:burning library]Burning Library[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Você encontrou um fragmento de pergaminho que parece importante. Encontre mais e junte-os.</DefaultText>
+      <DefaultText>You found a fragment of parchment that looks important. Find more and piece them together.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Você encontrou outro fragmento de pergaminho. Encontre o resto deles e junte-os.</DefaultText>
+      <DefaultText>You found another parchment fragment. Find the rest of them and piece them together.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Você encontrou três pedaços de pergaminho. Parece que mais uma irá completar a página. Encontre.</DefaultText>
+      <DefaultText>You found three parchment pieces. It looks like one more will complete the page. Find it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Você encontrou pedaços de pergaminho suficientes para decifrar uma frase mágica. Depois de ter feito isso, use-o para obter acesso ao Arquivo silencioso.</DefaultText>
+      <DefaultText>You’ve found enough parchment pieces to decipher a magical phrase. Once you have done so, use it to gain entry to the Silent Archive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Agora que você localizou o Arquivo Silencioso, encontre uma maneira de destruir o [url=glossary:burning library]Burning Library[/url] e complete a tarefa [url=glossary:graven ashe]Graven Ashe[/url] deu a você.</DefaultText>
+      <DefaultText>Now that you've located the Silent Archive, find a way to destroy the [url=glossary:burning library]Burning Library[/url] and complete the task [url=glossary:graven ashe]Graven Ashe[/url] gave you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Volte para [url=glossary:graven ashe]Graven Ashe[/url] em Iron Hearth e diga a ele que o [url=glossary:burning library]Burning Library[/url] não é mais.</DefaultText>
+      <DefaultText>Return to [url=glossary:graven ashe]Graven Ashe[/url] at Iron Hearth and tell him that the [url=glossary:burning library]Burning Library[/url] is no more.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,12 +136,12 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você destruiu o [url=glossary:burning library]Burning Library[/url] para o [url=glossary:disfavored]Disfavored[/url], apenas como [url=glossary:graven ashe]Graven Ashe[/url] comandado.</DefaultText>
+      <DefaultText>You destroyed the [url=glossary:burning library]Burning Library[/url] for the [url=glossary:disfavored]Disfavored[/url], just as [url=glossary:graven ashe]Graven Ashe[/url] commanded.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você desobedeceu as ordens de [url=glossary:graven ashe]Graven Ashe[/url] matando Maric, e ao fazê-lo alienou-se do exército [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>You disobeyed [url=glossary:graven ashe]Graven Ashe[/url]'s orders by killing Maric, and in doing so have alienated yourself from the [url=glossary:disfavored]Disfavored[/url] army.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

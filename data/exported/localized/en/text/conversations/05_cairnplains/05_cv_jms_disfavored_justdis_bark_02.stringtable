@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_cairnplains\05_cv_jms_disfavored_justdis_bark_02</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>2</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bem-vindo ao Jagged Maw Shrine, senhor."</DefaultText>
+      <DefaultText>"Welcome to Jagged Maw Shrine, sir."</DefaultText>
       <FemaleText>"Welcome to Jagged Maw Shrine, ma'am."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Bem-vindo ao Santuário Jagged Maw, minha senhora."</DefaultText>
+      <DefaultText>"Welcome to Jagged Maw Shrine, ma'am."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

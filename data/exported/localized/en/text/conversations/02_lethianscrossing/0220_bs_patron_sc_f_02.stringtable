@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\0220_bs_patron_sc_f_02</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Vá embora. Estou ocupado e você vai estragar se não me deixar em paz."</DefaultText>
+      <DefaultText>"Go away. I'm busy and you'll ruin it if you don't leave me alone."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Vamos lá ... Por que não vai lá ... Talvez se for assim?"</DefaultText>
+      <DefaultText>"Come on...Why won't it go in there...Maybe if it twist it this way?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Se você vai ficar parado lá e assistir, eu vou começar a cobrar você."</DefaultText>
+      <DefaultText>"If you're just going to stand there and watch, I'm going to start charging you."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

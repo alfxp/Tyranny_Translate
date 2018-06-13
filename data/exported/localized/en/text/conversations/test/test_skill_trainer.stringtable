@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\test\test_skill_trainer</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Escolha a interface de treinamento que você deseja exibir.</DefaultText>
+      <DefaultText>Pick the training UI that you want to display.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Mostrar a interface do treinador de habilidades</DefaultText>
+      <DefaultText>Show skill trainer UI</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Teste [url=glossary:reputation]Reputation[/url] Conceder OnExit deste nó.</DefaultText>
+      <DefaultText>Test [url=glossary:reputation]Reputation[/url] Granting OnExit of this node.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Ganhar Rep OnEnter e OnExit</DefaultText>
+      <DefaultText>Gain Rep OnEnter and OnExit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Este é um ponto de decisão anarquista."</DefaultText>
+      <DefaultText>"This is an Anarchist Decision Point."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] Wrath Tier 3 condicional"</DefaultText>
+      <DefaultText>"[url=glossary:disfavored]Disfavored[/url] Wrath Tier 3 Conditional"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Lantry Loyalty Tier 1 condicional"</DefaultText>
+      <DefaultText>"Lantry Loyalty Tier 1 Conditional"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,202 +1,202 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\01_bladegrave\01_qst_trappersjunction_anarchist</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>39</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Encadernado pela Lâmina</DefaultText>
+      <DefaultText>Bound by the Blade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viajar para a junção do caçador.</DefaultText>
+      <DefaultText>Travel to Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Investigue a junção do caçador.</DefaultText>
+      <DefaultText>Investigate Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Encontre o [url=glossary:unbroken]Unbroken[/url] acampamento.</DefaultText>
+      <DefaultText>Find the [url=glossary:unbroken]Unbroken[/url] camp.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Recupere o Dauntless.</DefaultText>
+      <DefaultText>Retrieve the Dauntless.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Retornar para [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
+      <DefaultText>Return to [url=glossary:bleden mark]Bleden Mark[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Mate todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção do caçador</DefaultText>
+      <DefaultText>Kill all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Mate todos os [url=glossary:unbroken]Unbroken[/url] na junção do caçador</DefaultText>
+      <DefaultText>Kill all of the [url=glossary:unbroken]Unbroken[/url] at Trapper's Junction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Fale com o líder [url=glossary:unbroken]Unbroken[/url] na junção do caçador</DefaultText>
+      <DefaultText>Talk to the [url=glossary:unbroken]Unbroken[/url] leader at Trapper's Junction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Fale com o [url=glossary:scarlet chorus]Scarlet Chorus[/url] líder na junção do caçador</DefaultText>
+      <DefaultText>Talk to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] leader at Trapper's Junction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Mate todos os [url=glossary:unbroken]Unbroken[/url] na junção do caçador</DefaultText>
+      <DefaultText>Kill all of the [url=glossary:unbroken]Unbroken[/url] at Trapper's Junction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Mate todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção do caçador</DefaultText>
+      <DefaultText>Kill all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Eliminar todos os esquadrões do [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção do caçador</DefaultText>
+      <DefaultText>Eliminate all the squads of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Fale com Mattias</DefaultText>
+      <DefaultText>Speak with Mattias</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Junção de Inimigos do Caçador Claro.</DefaultText>
+      <DefaultText>Clear Trapper's Junction of Enemies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Você aprendeu que Mattias, líder do [url=glossary:unbroken]Unbroken[/url], foi para o entroncamento de Trapper. Ele tem informações que você precisa sobre o Dauntless, a relíquia que você enviou para adquirir.</DefaultText>
+      <DefaultText>You learned that Mattias, leader of the [url=glossary:unbroken]Unbroken[/url], has gone to Trapper's Junction. He has information you need about the Dauntless, the relic that [url=glossary:bleden mark]Bleden Mark[/url] sent you to acquire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Vá para a junção de Trapper para procurar por Mattias.</DefaultText>
+      <DefaultText>Go to Trapper's Junction to search for Mattias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Você chegou ao cruzamento de Trapper. Dê uma olhada ao redor para descobrir qual é a situação e tente encontrar algumas pistas sobre o paradeiro da lâmina Dauntless.</DefaultText>
+      <DefaultText>You've arrived at Trapper's Junction. Take a look around to figure out what the situation is and try to find some clues as to the whereabouts of the Dauntless blade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Você encontrou um soldado mortalmente ferido e aprendeu que o [url=glossary:scarlet chorus]Scarlet Chorus[/url] perseguiu o [url=glossary:unbroken]Unbroken[/url] aqui. Encontre o campo [url=glossary:unbroken]Unbroken[/url] para obter mais informações sobre a situação.</DefaultText>
+      <DefaultText>You encountered a mortally wounded [url=glossary:unbroken]Unbroken[/url] soldier and learned that the [url=glossary:scarlet chorus]Scarlet Chorus[/url] have chased the [url=glossary:unbroken]Unbroken[/url] here. Find the [url=glossary:unbroken]Unbroken[/url] camp for more information on the situation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Você aprendeu que o Dauntless pode ser encontrado perto dos Oldwalls Infestados.</DefaultText>
+      <DefaultText>You learned that the Dauntless can be found near the Infested Oldwalls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Agora que você recuperou o Dauntless, volte para [url=glossary:bleden mark]Bleden Mark[/url] em Ashweald e descubra o que fazer a seguir.</DefaultText>
+      <DefaultText>Now that you've recovered the Dauntless, return to [url=glossary:bleden mark]Bleden Mark[/url] at Ashweald and find out what to do next.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText>Você decidiu provocar o Jagged Remedy e agora deve eliminar todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldados que estavam sob seu comando.</DefaultText>
+      <DefaultText>You've decided to provoke Jagged Remedy, and must now take out all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldiers that were under his command.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10013</ID>
-      <DefaultText>Você decidiu provocar Mattias e agora deve eliminar todos os [url=glossary:unbroken]Unbroken[/url] soldados que estavam sob seu comando.</DefaultText>
+      <DefaultText>You've decided to provoke Mattias, and must now take out all of the [url=glossary:unbroken]Unbroken[/url] soldiers that were under his command.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>Você cuidou da ameaça [url=glossary:scarlet chorus]Scarlet Chorus[/url] na Junção do Trapper. Hora de falar com o líder do [url=glossary:unbroken]Unbroken[/url] lá e dizer-lhes a boa notícia.</DefaultText>
+      <DefaultText>You've taken care of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] threat at Trapper's Junction. Time to talk to the leader of the [url=glossary:unbroken]Unbroken[/url] there and tell them the good news.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10015</ID>
-      <DefaultText>Você matou todos os [url=glossary:unbroken]Unbroken[/url] na Junção do Trapper. Hora de falar com o líder do [url=glossary:scarlet chorus]Scarlet Chorus[/url] lá e dizer-lhes que todos os rebeldes estão mortos.</DefaultText>
+      <DefaultText>You've killed all of the [url=glossary:unbroken]Unbroken[/url] at Trapper's Junction. Time to talk to the leader of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] there and tell them all of the rebels are dead.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10018</ID>
-      <DefaultText>Você já provocou Mattias, e deve tirar todos os [url=glossary:unbroken]Unbroken[/url] soldados que estavam sob seu comando.</DefaultText>
+      <DefaultText>You've now provoked Mattias, and must take out all of the [url=glossary:unbroken]Unbroken[/url] soldiers that were under his command.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10019</ID>
-      <DefaultText>Você já provocou o Jagged Remedy, e deve eliminar todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldados que estavam sob seu comando.</DefaultText>
+      <DefaultText>You've now provoked Jagged Remedy, and must take out all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] soldiers that were under his command.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10027</ID>
-      <DefaultText>Você recuperou o espírito do [url=glossary:unbroken]Unbroken[/url] recuperando a arma do artefato perdido, o Dauntless. Com ele, lidere a carga e derrote os [url=glossary:scarlet chorus]Scarlet Chorus[/url] restantes na junção de Trapper.</DefaultText>
+      <DefaultText>You've rallied the spirit of the [url=glossary:unbroken]Unbroken[/url] by recovering the lost artifact weapon the Dauntless. With it, lead the charge and defeat the remaining [url=glossary:scarlet chorus]Scarlet Chorus[/url] in Trapper's Junction.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10028</ID>
-      <DefaultText>Você foi vitorioso. Fale com Mattias e para ver o que vem a seguir com o [url=glossary:unbroken]Unbroken[/url] no [url=glossary:blade grave]Blade Grave[/url].</DefaultText>
+      <DefaultText>You have been victorious. Speak with Mattias and to see what is next with [url=glossary:unbroken]Unbroken[/url] in the [url=glossary:blade grave]Blade Grave[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10035</ID>
-      <DefaultText>Um soldado moribundo revelou que tanto os soldados Chorus quanto os [url=glossary:unbroken]Unbroken[/url] estão presentes. Mate todos, incluindo Mattias.</DefaultText>
+      <DefaultText>A dying soldier revealed that both Chorus and [url=glossary:unbroken]Unbroken[/url] soldiers are present. Kill everyone, including Mattias.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Pesquisar os corpos do [url=glossary:unbroken]Unbroken[/url] você matou por uma possível pista sobre a localização do Dauntless.</DefaultText>
+      <DefaultText>Search the bodies of the [url=glossary:unbroken]Unbroken[/url] you have killed for a possible lead on the location of the Dauntless.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Mattias recebeu você em seu acampamento. Fale com ele em seu acampamento para o sudoeste.</DefaultText>
+      <DefaultText>Mattias has welcomed you into his encampment. Speak with him in their camp to the South-West.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você inspirou o [url=glossary:unbroken]Unbroken[/url] com a lâmina Dauntless e reuniu-os para derrotar o [url=glossary:scarlet chorus]Scarlet Chorus[/url] em uma batalha final.</DefaultText>
+      <DefaultText>You inspired the [url=glossary:unbroken]Unbroken[/url] with the Dauntless blade and rallied them to defeat the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in a final battle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você ajudou o [url=glossary:scarlet chorus]Scarlet Chorus[/url] a conscriptar com êxito o [url=glossary:unbroken]Unbroken[/url] no Junção do Trapper para os ranks do Chorus.</DefaultText>
+      <DefaultText>You assisted the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in successfully conscripting the [url=glossary:unbroken]Unbroken[/url] in Trapper's Junction into the Chorus' ranks.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Você matou todos os [url=glossary:scarlet chorus]Scarlet Chorus[/url] na junção do caçador, liberando o [url=glossary:unbroken]Unbroken[/url] lá da ameaça.</DefaultText>
+      <DefaultText>You killed all of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] at Trapper's Junction, freeing the [url=glossary:unbroken]Unbroken[/url] there from the threat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Você matou todos os [url=glossary:unbroken]Unbroken[/url] rebeldes na junção do caçador, certificando-se de que nenhum está vivo para se juntar ao [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <DefaultText>You killed all of the [url=glossary:unbroken]Unbroken[/url] rebels at Trapper's Junction, making sure none are alive to join the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>Você matou todo mundo na Junção do Trapper. Não [url=glossary:scarlet chorus]Scarlet Chorus[/url] ou [url=glossary:unbroken]Unbroken[/url] rebeldes permanecem vivos.</DefaultText>
+      <DefaultText>You have killed everyone at Trapper's Junction. No [url=glossary:scarlet chorus]Scarlet Chorus[/url] or [url=glossary:unbroken]Unbroken[/url] rebels remain alive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>Você encontrou o Dauntless e se tornou mais poderoso.</DefaultText>
+      <DefaultText>You have found the Dauntless and grown more powerful.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>Enquanto na junção do caçador, você descobriu notas de um soldado caído que detalha a posição de um artefato chamado Dauntless perto dos Oldwalls infestados. [url=glossary:bleden mark]Bleden Mark[/url] pediu-lhe para procurar este artefato para que ele possa ajudá-lo em sua ascensão ao poder.</DefaultText>
+      <DefaultText>While in Trapper's Junction, you discovered notes from a fallen soldier that detail the location of an artifact called Dauntless near the Infested Oldwalls. [url=glossary:bleden mark]Bleden Mark[/url] has asked you to seek out this artifact so it may aid you in your rise to power. </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

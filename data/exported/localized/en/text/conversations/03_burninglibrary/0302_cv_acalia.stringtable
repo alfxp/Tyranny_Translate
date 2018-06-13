@@ -1,104 +1,104 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_burninglibrary\0302_cv_acalia</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>50</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Você percebe uma jovem se separando do resto dos Sábios. Ela agita e contrai-se, pulando de um pé para o outro, murmurando para si mesma. Mesmo que ela pareça enérgica, seus olhos estão cansados ​​e sujos, com círculos escuros embaixo deles. Ela se inclina contra a parede, saltando para cima e para baixo nas pontas dos pés. Olhando para cima, ela chama sua atenção e grita para você.</DefaultText>
+      <DefaultText>You notice a young woman standing apart from the rest of the Sages. She fidgets and twitches, hopping back and forth from foot to foot, murmuring to herself. Even though she seems energetic, her eyes are tired and rheumy, with dark circles underneath them. She leans against the wall, bouncing up and down on the balls of her feet. Looking up mid-twitch, she catches your eye and calls out to you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Você aí sim você pode me ajudar eu tenho tanto que precisa ser feito mas não tenho como fazer isso e pedi ajuda a Renata mas ela é toda negócio e organização e nunca há tempo para nada com ela exceto 'se tornar o líder dos Sábios ou algo que isso significa e como todos nós temos que nos unir para um propósito e recuperar o conhecimento perdido no [url=glossary:vellum citadel]Vellum Citadel[/url] e força e unidade e conhecimento e pergaminhos e blá blá blá blá e eu só quero levar a cabo minha pesquisa e você se parece com alguém que sabe uma coisa ou duas sobre magia e eu esqueci de me apresentar como rude de mim meu nome é Acalia e é bom conhecê-lo e como você está e por favor me diga que você sabe, pelo menos um pouco sobre magia ".</DefaultText>
+      <DefaultText>"You there yes you can you help me out I have so much that needs to get done but I have no way of doing it and I asked Renata for help but she's all business and organization and there's never time for anything with her except 'becoming the leader of the Sages' or something whatever that means and how we all have to come together for one purpose and recover the knowledge lost in the [url=glossary:vellum citadel]Vellum Citadel[/url] and strength and unity and knowledge and scrolls and blah blah blah blah and I just want to carry out my research and you look like someone who knows a thing or two about magic and I forgot to introduce myself how rude of me my name is Acalia and it's nice to meet you and how are you and please tell me you know at least a little bit about magic."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Há outro [url=glossary:sage]Sage[/url] chamado Hieronymus e eu estive estudando seu trabalho na criptografia de Oldwall porque é absolutamente fascinante ele é tão articulado e perspicaz e eu o conheci uma vez que ele é realmente bonito também eu não posso acreditar que acabei de dizer que não diga a ele Eu disse qualquer coisa para você que eu iria morrer de qualquer maneira, eu estava passando por alguns de seus escritos e vi algo que pode ser algo, mas ainda não tenho informações suficientes, mas para ver se o que eu sei realmente pode ser algo que vale a pena sabendo que preciso de mais algumas informações dos escritos de Oldwalls aos quais não tenho acesso, mas acho que sei onde eles estão. "</DefaultText>
+      <DefaultText>"There's another [url=glossary:sage]Sage[/url] named Hieronymus and I've been studying his work on Oldwalls cryptography because it's absolutely fascinating he's so articulate and insightful and I met him once he's really handsome too I can't believe I just told you that don't tell him I said anything to you I would just die anyway I was going through some of his writings and I saw something that might actually be something but I don't have enough information yet but in order to see if what I know actually might be something worth knowing I need some more information from Oldwalls writings that I don't have access to but I think I know where they are."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Eu usei a pesquisa de Hieronymus e algumas contas arquivadas de exploradores e encontrei a localização dos sigilos que eu preciso para continuar minha pesquisa importante e eles estão dentro do Oldwalls em Haven perto de [url=glossary:lethian's crossing]Lethian's Crossing[/url] você pode acreditar que eles estão dentro do Oldwalls eu adoraria ser capaz de visitá-los e explorar por dentro e ver todos aqueles tesouros antigos e arquitetura para mim, na verdade, na minha pesquisa Eu encontrei algumas evidências que dizem que todos os Oldwalls podem ser completamente interconectados em todas as camadas Você acredita que todas essas paredes e você poderiam Tente encontrar uma maneira de percorrê-los não que você queira Você pode imaginar todo o Bane com o qual você teria que lidar se você fizesse isso de qualquer maneira, se você pudesse encontrar esses escritos, isso realmente me ajudaria! ”</DefaultText>
+      <DefaultText>“I used Hieronymus' research and some archived accounts from explorers and found the location of the sigils I need to continue my important research and they are inside the Oldwalls in Haven near [url=glossary:lethian's crossing]Lethian's Crossing[/url] can you believe that they're inside the Oldwalls I would love to be able to visit them and explore inside and see all those old treasures and architecture for myself in fact in my research I found some evidence that says all the Oldwalls might be completely interconnected across all the Tiers can you believe that all those walls and you could try to find a way to walk through them not that you'd want to can you imagine all the Bane you'd have to deal with if you did that anyway if you could find those writings it would really help me out!”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Isso é maravilhoso, muito obrigado. Eu não posso acreditar que este é o melhor momento da minha vida, então se você copiar os símbolos da Oldwalls, eu serei capaz de trabalhar com eles para conseguir o que eu preciso para seguir em frente." O próximo passo é fascinante, na verdade, acho que a magia está profundamente enraizada em sua linguagem, embora honestamente eu esteja me adiantando agora, com base em minha pesquisa, o texto que eu preciso é provavelmente dividido em vários segmentos e você deve encontrá-los em câmaras específicas. em alguns altares de aparência assustadora por falta de um termo melhor, os escritos de quatro deles devem ser suficientes para trabalhar e uma vez que você os traga de volta, eu me preocupo em analisá-los e decifrá-los, porque isso deve ser insensato e servil e você certamente não precisa fazer isso, mas não me importo que eu ame tarefas que mantenham meu cérebro ocupado e agradeço de novo! "</DefaultText>
+      <DefaultText>"That's wonderful thank you so much I can't believe it this is the best moment of my life okay so if you'll copy down the Oldwalls sigils I will be able to work with them to get what I need to move on to the next step it's fascinating actually I think magic is deeply embedded in their language though honestly I'm getting ahead of myself now so anyway based on my research the text I need is likely split into multiple segments you should be able to find them in specific chambers on some creepy-looking altars for lack of a better term the writings from four of them should be enough to work with and once you bring them back I'll worry about analyzing and deciphering them because that must be mindless and menial and you certainly don't need to be doing that but I don't mind that I love tasks that keep my brain occupied and thank you again!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Eu sei uma coisa ou duas sobre magia se isso te ajuda."</DefaultText>
+      <DefaultText>"I know a thing or two about magic if that helps you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Eu dediquei minha vida a estudar o arcano e posso praticamente ver você derramando a mágica, é só sobre você, então eu sei que você é a pessoa certa para perguntar isso, porque é realmente importante, bem, talvez não muito importante. Quero dizer, é importante, mas não é como se fosse vida ou morte ou qualquer coisa assim, pelo menos eu não acho que é sempre que há uma chance de alguém morrer se minha pesquisa não estiver terminada ou talvez eles vão morrer se for, eu nunca pensei nisso, mas o importante é que eu preciso da sua ajuda ".</DefaultText>
+      <DefaultText>"I've dedicated my life to studying the arcane and I can practically see you oozing magic it's just all over you so I know you're the right person to ask this of because it's really important well maybe not really important I mean it is important but it's not like it's life-and-death or anything like that at least I don't think it is though there's always a chance someone could die if my research isn't finished or maybe they'll die if it is I never thought of that but what is important is that I need your help."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Por favor, depressa eu preciso dos sigilos dos Oldwalls perto de [url=glossary:lethian's crossing]Lethian's Crossing[/url] se eu tiver uma chance de continuar minha pesquisa e se você se apressar e encontrar ..."</DefaultText>
+      <DefaultText>"Please hurry I need the sigils the Oldwalls near [url=glossary:lethian's crossing]Lethian's Crossing[/url] if I'm ever going to have a chance of continuing my research and if you hurry and find..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Acalia pula e balança, afastando-se da parede e recuando para descansar. Mesmo quando ela está encostada na parede, seus olhos se movem para frente e para trás e ela retira suas anotações e as revê.
+      <DefaultText>Acalia bounces and rocks, stepping forward away from the wall and then stepping back to rest against it. Even when she's leaning against the wall, her eyes dart back and forth and she pulls out her notes and reviews them.
 
-"Você está de volta, isso é incrível, eu não posso esperar para ver o que você achou e eu acho que estou supondo que você encontrou algo porque você esteve fora por um tempo e isso geralmente significa progresso ou pelo menos para mim e eu estou apenas supondo que isso faça para você também, mas eu acho que odeio quando outras pessoas assumem coisas sobre mim e eu odiaria que você pensasse que tudo que eu faço é sentar aqui e fazer suposições sobre as coisas, não que você é uma coisa só que você estaria na categoria de coisas que eu poderia pensar, mas você encontrou alguma coisa para mim? "</DefaultText>
+"You're back this is incredible I can't wait to see what you found and I guess I'm just assuming you found something because you've been gone for a while and that generally means progress or at least it does for me and I'm just assuming it does for you too but I guess I hate it when other people assume things about me and I'd hate for you to think that all I do is sit here and make assumptions about things not that you're a thing just that you would be in the category of things that I might think about but did you find anything for me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Isso é tudo o que eu consegui copiar."</DefaultText>
+      <DefaultText>"This is everything I was able to copy."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Uau, estas são incríveis, deixe-me levá-las a uma luz melhor, olhe para isso, eu não posso acreditar que tenho minhas mãos nelas agora, vamos ver se isso acontece aqui e o cypher é uma substituição reversa e se você usar o índice de Randor, seja sim oh espere não que não saiba o que é isso e sim lá vamos nós uau eu não achei que seria assim tão fácil mas já posso ver os links esperar alguns desses sigilos parecerem incompletos talvez eles tenham resistido quando você os encontrou hmm Lembre-se Hieronymus olhando para outra construção Oldwallian que pode ajudar com isso, então eu suponho que vou ter que pedir outra coisa. "</DefaultText>
+      <DefaultText>"Wow these are incredible let me get them into better light just look at this I can't believe I have my hands on them now let's see if this goes here and the cypher is a reverse substitution and if you use Randor's index then this would be yes oh wait no that might not what's this and yes there we go wow I didn't think it would be this easy but I can already see the links wait some of these sigils appear incomplete perhaps they were weathered when you found them hmm I remember Hieronymus looking into another Oldwallian construct that might help with this so I suppose I'm going to have to ask you for something else."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Há mais coisas que eu posso aprender com os escritos que você me trouxe, mas as coisas realmente importantes requerem mais algumas informações que somente um especialista em campo saberia, então eu preciso que você encontre o Hieronymus e colete quaisquer dados que ele possa ter sobre esses objetos que ele chama de Stones of Elucidação e eu não posso acreditar que você consegue falar com ele, ele era muito inteligente e esperto e eu poderia ouvi-lo falar por horas e eu acho que sim porque ele estava ensinando alguns Sábios sobre uma nova técnica de tinta assim que eu me sentei lá e Ouvi a coisa toda, embora fosse muito lento e meio chato, mas ele tinha alguns comentários muito perspicazes para fazer sobre isso, mas pela última vez ouvi que ele saiu para investigar uma violação em [url=glossary:blade grave]Blade Grave[/url] Oldwalls pessoalmente para algumas descobertas mais conclusivas, mas tenho Não faço ideia de por que ele faria isso sozinho Quer dizer, não podemos arriscar nossas vidas quando somos os únicos que podem resolver esses mistérios, porque é isso que você está aqui, certo?</DefaultText>
+      <DefaultText>"There's more I can learn from the writings you brought me but the really important stuff requires some more info that only a field specialist would know so I need you to find Hieronymus and gather any data that he might have on these objects he calls Stones of Elucidation and I can't believe you get to talk to him he was very knowledgeable and smart and I could listen to him talk for hours and I suppose I did because he was teaching some Sages about a new inking technique once so I sat there and listened to the whole thing even though it was really slow and kind of boring but he had some very insightful comments to make about it but last I heard he left to investigate a Breach in the [url=glossary:blade grave]Blade Grave[/url] Oldwalls in person for some more conclusive findings but I have no idea why he would do that himself I mean we can't go risking our lives when we're the only ones who can solve these mysteries because that's what you are here for right?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Isso é maravilhoso, muito obrigado, eu não posso acreditar que estou tão perto de terminar isso e vou lhe dar muito crédito, porque sem você eu ainda estaria me perguntando como obter as informações do Gêmeo. Rivers Oldwalls e eu não posso acreditar que você consegue falar com Hieronymus você tem tanta sorte você dirá a ele que eu disse olá, espere não, não faça isso Eu morreria se ele soubesse que eu achava que ele era bonito e se você diz oi ele vai para saber que ele é realmente esperto, então nem me mencione bem, apenas fale com ele e me deixe fora disso. "</DefaultText>
+      <DefaultText>"That's wonderful thank you so much I can't believe I'm so close to finishing this and I'll be sure to give you a lot of the credit because without you I would still be wondering how to get the information from the Twin Rivers Oldwalls and I can't believe you get to talk to Hieronymus you are so lucky will you tell him I said hello wait no don't do that I would die if he knew I thought he was handsome and if you say hi he's going to know he's really smart so don't even mention me okay just talk to him and keep me out of it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Lembre-se que eu preciso dos dados de Hieronymus e da última vez que ouvi que ele estava em algum lugar perto dos Oldwalls no [url=glossary:blade grave]Blade Grave[/url] para que você possa verificar ..."</DefaultText>
+      <DefaultText>"Remember I need that data from Hieronymus and last time I heard he was somewhere near the Oldwalls in the [url=glossary:blade grave]Blade Grave[/url] so you can check..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Isso é incrível, isso é realmente não é, você me deu tudo que eu precisava para continuar minha pesquisa e agora estou muito mais perto de terminar e acho que vou ficar doente. Estou tão animada isso é realmente incrível se você não se importar em esperar, por favor, me dê alguns momentos para analisar essa informação e ver se ela valida minhas hipóteses. ”</DefaultText>
+      <DefaultText>"This is incredible this is really it isn't it you got me everything I needed so I can continue my research and now I'm that much closer to finishing and I think I'm going to be sick I'm so excited by this you're incredible really if you don’t mind waiting please give me a few moments to parse this information and see if it validates my hypotheses.”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Obrigado novamente por sua ajuda que você me deu muito mais perto de terminar minha pesquisa. Quer dizer, eu nunca vou realmente terminar minha pesquisa porque ainda há muito a aprender, mas pelo menos eu estou no meu caminho ... "</DefaultText>
+      <DefaultText>"Thank you again for your help you've gotten me so much closer to finishing my research I mean I will never actually be done with my research because there's still so much to learn but at least I'm well on my way..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Você está de volta, é maravilhoso! Eu estava esperando que você voltasse porque eu estava aqui esperando que você voltasse e você estivesse lá e eu estava pensando se você considerou me ajudar porque eu acho que eu disse isso antes, se você não me ajudar, então minha pesquisa está praticamente parada onde está e isso é uma perspectiva muito sombria para mim, mas eu suponho que poderia ajudar Renata se eu realmente precisasse, mas ela não se move rápido o suficiente para o meu gosto, é tudo sobre pergaminhos e poder e estou me repetindo, não estou? Mas onde estava eu ​​de novo, oh sim, você vai me ajudar? "</DefaultText>
+      <DefaultText>"You're back that's wonderful! I was hoping you'd come back because I was just standing here hoping you'd come back and there you are and I was wondering if you've considered helping me out because and I think I said this before if you don't help me then my research is pretty much stalled right where it is and that is a very dismal prospect to me but I suppose I could help Renata out if I really had to but she doesn't move fast enough for my taste it's all about scrolls and power and I'm repeating myself aren't I? But where was I again oh yeah will you help me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"O que voce precisa que eu faca?"</DefaultText>
+      <DefaultText>"What do you need me to do?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Eu vou gravar os sigilos para você."</DefaultText>
+      <DefaultText>"I'll record the sigils for you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,32 +113,32 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Woah! Devagar! Você ainda respira?"</DefaultText>
+      <DefaultText>"Woah! Slow down! Do you even breathe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"O quê? Ah, a conversa é tão bem que você vê - eu queria fazer mais pesquisas, mas não pude porque estava sempre adormecendo nos meus pergaminhos, então eu tive que encontrar uma maneira de me manter acordada para que eu pudesse pesquisar mais feito assim eu encontrei alguns pergaminhos e eles referenciaram algumas ervas que eram usadas para manter as pessoas acordadas e vivas enquanto estavam sendo torturadas porque eram ao mesmo tempo estimulantes e curativas - as ervas não as pessoas sendo torturadas não seriam histéricas se era o povo então eu pareceria um idiota pegando todas essas ervas pensando que elas estavam ajudando, mas tudo o que elas estavam fazendo era provar como merda, mas não realmente me ajudando e eu queria poder fazer mais pesquisas, então eu disse para mim mesmo 'Bem , se você quiser fazer mais pesquisas, você provavelmente deve encontrar algumas dessas ervas ', então eu fiz e agora eu estive nesta pesquisa por quase 2 semanas sólidas. É incrível! "</DefaultText>
+      <DefaultText>"What? Oh the talking yeah that well you see - I wanted to get more research done but I couldn't because I was always falling asleep on my scrolls so I had to find a way to keep myself awake so I could get more research done so I found some scrolls and they referenced some herbs that were used to keep people awake and alive while they were being tortured because they were both a stimulant and a curative - the herbs not the people getting tortured wouldn't that be hysterical if it was the people then I would look like such a fool taking all these herbs thinking they were helping but all they were doing was tasting like shit but not actually helping me and I wanted to be able to do more research so I said to myself 'Well, if you want to do more research, you should probably find yourself some of those herbs' so I did and now I've been at this research for almost 2 solid weeks. It's incredible!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"De qualquer forma, isso me permite concentrar no que estou tentando decodificar! Mas espere", você diz, "como você pode estar vivo depois de duas semanas sem dormir?" e eu digo "Ha!" Eu lhe disse que as ervas tinham propriedades curativas também, então isso me mantém saudável e eu só tenho alucinações duas vezes por semana agora ao invés de três ou quatro vezes por dia e eu chamo isso de progresso! Mas onde eu estava? Oh, sim, eu preciso sua ajuda porque Renata - espere eu já disse essa parte, eu estava te perguntando se você poderia me ajudar e eu tinha certeza que você era alguém que sabia uma coisa ou duas sobre magia porque você parece ter estado por aí e visto muito Para não dizer que você parece velho ou qualquer coisa, eu sou um juiz horrível da idade, eu só estou dizendo que você parece que você pode lidar com você mesmo em batalha Não quer dizer que você parece particularmente com sede de sangue ou qualquer coisa a menos que seja assim "Estou tentando parecer, então eu digo bom para você, porque você parece apenas com sede de sangue e nem um pouco velho, mas talvez um pouco desgastado. Mas você sabe alguma coisa sobre magia?"</DefaultText>
+      <DefaultText>"Anyway, it lets me concentrate on what I'm trying to decode! 'But wait,' you say, 'how can you possibly be alive after 2 weeks with no sleep?' and I say 'Ha!' I told you the herbs had curative properties, too, so it keeps me healthy and I only have hallucinations twice a week now instead of three or four times a day and I call that progress! But where was I? Oh, yeah, I need your help because Renata - wait I already said that part. I was asking you if you could help me out and I was sure you were someone who knew a thing or two about magic because you look like you've been around and seen a lot. Not to say you look old or anything, I'm a horrible judge of age, I'm just saying you look like you can handle yourself in battle. Not to say that you look particularly blood-thirsty or anything unless that's how you're trying to look then I say good for you because you look just blood-thirsty enough and not at all old but maybe just a little weathered. But do you know anything about magic?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"O que você estava dizendo sobre Renata?"</DefaultText>
+      <DefaultText>"What were you saying about Renata?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Se alguém souber alguma coisa sobre magia, eu seria o Fatebinder de [url=glossary:tunon]Tunon[/url]".</DefaultText>
+      <DefaultText>"If anyone knows anything about magic, it would be me. I'm the Fatebinder of [url=glossary:tunon]Tunon[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Bem, eu estarei aqui se você mudar de idéia e eu realmente espero que você faça, porque se você não me ajudar eu não acho que nada será feito, exceto talvez o que todo mundo está fazendo. Quero dizer, é claro que eles As tarefas que realizam não precisam da sua ajuda, não é? Eu acho que eles não foram até todos que eu conheço e perguntaram se precisavam de sua ajuda, mas acho que eu poderia fazer isso, porque pelo menos alguma coisa seria feito ... "</DefaultText>
+      <DefaultText>"Well I'll be here if you change your mind and I really hope you do because if you don't help me I don't think anything is going to get done except maybe what everyone else is doing. I mean of course they'll get their tasks done they don't need your help do they? I suppose they might I haven't gone around to everyone I know and asked them if they needed your help but I suppose I could do that because then at least something would get done..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,112 +148,112 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Isso é incrível eu não posso acreditar que estou realmente em pé na presença do Fatebinder e se alguém teria conhecimento de trabalho de magia seria definitivamente você quero dizer que você é o único que proclamou o [url=glossary:edict]Edict[/url] em [url=glossary:vendrien's well]Vendrien's Well[/url] e, embora isso Realmente não foi uma coisa muito legal de se fazer Foi incrivelmente poderoso Não quero dizer que você não é uma boa pessoa Você poderia ser uma pessoa muito legal Eu acho que nunca te conheci bem Eu acabei de te conhecer e você parece legal suficiente e provavelmente poderoso, então é exatamente isso que eu estou procurando, então talvez você possa me ajudar, porque se você pudesse, seria maravilhoso, porque eu tenho muito que fazer, mas não posso fazer isso sem ajuda e Seria ótimo se você pudesse me ajudar!</DefaultText>
+      <DefaultText>"That is amazing I can't believe I'm actually standing in the presence of the Fatebinder and if anyone would have working knowledge of magic it would definitely be you I mean you're the one that proclaimed the [url=glossary:edict]Edict[/url] in [url=glossary:vendrien's well]Vendrien's Well[/url] and although that really wasn't a very nice thing to do it was incredibly powerful I mean not to say you aren't a nice person you could be a very nice person I guess I've never met you well I just met you and you seem nice enough and probably powerful so that's exactly what I'm looking for so maybe you could help me out because if you could it would be wonderful because I have a lot I need to get done but I can't do it without any help and it would be great if you could help me!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Eu tenho que falar sobre Renata? Ela é todo o negócio e não vai sequer considerar fazer qualquer outra coisa agora, exceto encontrar o Scrivener's Eye e recuperar os sábios e não deixá-la ouvi-lo chamando de [url=glossary:burning library]Burning Library[/url] ou ela vai enlouquecer porque ela manda tudo isso e manda isso e honestamente é como se não houvesse mais nada no mundo além de poder e ordem e controle e eu tenho esse incrível achado e ela nem quer ouvir nada sobre isso, você pode acreditar nisso? "</DefaultText>
+      <DefaultText>"Do I have to talk about Renata? She's all business and won't even consider doing anything else right now except finding the Scrivener's Eye and recovering the [url=glossary:vellum citadel]Vellum Citadel[/url] for the Sages and don't let her hear you calling it the [url=glossary:burning library]Burning Library[/url] or she will freak out because she's all order this and rules that and honestly it's like there's nothing else in the world but power and order and control and I have this amazing find and she doesn't even want to hear anything about it can you believe that?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Eu acho que nem tudo é ruim porque nós poderíamos ter um líder que não se importasse com a gente, embora eu ache que às vezes a Renata não se importe com a gente, mas se preocupa com o conhecimento e o poder, mas pela extensão Eu suponho que isso significa que ela se preocupa conosco porque sem o resto dos Sábios ela não teria ninguém para liderar, mas ainda é estranho o jeito que ela lida com as coisas e eu acho que poderíamos ter um líder morto ao invés de Renata. ser bom em tudo porque então eles não seriam capazes de fazer nada, exceto ficarem mortos a menos que eles morressem sentados e então eu suponho que eles estariam sentados mortos, mas de qualquer forma eles não estariam nos fazendo bem algum. "</DefaultText>
+      <DefaultText>"I guess it's not all bad because we could have a leader who didn't care about us at all although I guess at times it feels like Renata doesn't really care about us but just cares about the knowledge and the power but by extension I suppose that means she cares about us because without the rest of the Sages she wouldn't have anyone to lead but it's still weird the way she handles things and I suppose we could have a dead leader instead of Renata I mean that wouldn't be good at all because then they wouldn't be able to do anything except lie there dead unless they died sitting down and then I suppose they'd be sitting there dead but either way they wouldn't be doing us any good."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Me fale sobre essa erva que você encontrou."</DefaultText>
+      <DefaultText>"Tell me about this herb you found."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Tópicos pertinentes", com um estalo abafado, o seu squib se solta em uma rajada de tacadas, "e tópicos pertinentes SOMENTE, por favor."</DefaultText>
+      <DefaultText>"Pertinent topics," with a muffled crack, his squib snaps off in a flurry of strokes, "and pertinent topics ONLY, please."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"A erva, o que você quer saber sobre isso? Quero dizer, o que posso lhe dizer sobre isso? Eu não sei exatamente o que é porque eu encontrei a informação sobre isso em alguns pergaminhos, mas eu já lhe falei sobre isso. mas é tão incrível porque você coloca um pouco na boca e depois de alguns segundos tudo parece começar a vibrar e então você pensa tão rápido e o sono é completamente desnecessário e eu tenho trabalhado tanto e eu estava dizendo?</DefaultText>
+      <DefaultText>"The herb what do you want to know about it I mean what can I tell you about it I'm not entirely sure exactly what it is because I kind of found the information about it in some scrolls but I already told you about that didn't I but it's so amazing because you just put a little of it in your mouth and after a few seconds everything seems to start vibrating and then you think so quickly and sleep is completely unnecessary and I've gotten so much work done and what was I saying?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Talvez você pudesse ... uh", Lantry balança a mão com um gemido. "Demitir as perguntas? Eu não acho que meu pulso pode suportar a chegada desta mulher em sua seção do Chronicle."</DefaultText>
+      <DefaultText>"Perhaps you could... uh," Lantry shakes his writing hand with a groan. "Lay off the questions? I don't think my wrist can endure this woman's arrival into your section of the Chronicle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Normalmente eu diria que tenho apenas a minha nota compulsiva insana a ser culpada, mas não - esta miséria está em você, Fatebinder!" Lantry estreita os olhos, sacudindo a cabeça para você desejar uma carranca entre garranchos atormentados.</DefaultText>
+      <DefaultText>"Normally I'd say I have only my insane compulsive note taking to blame but no - this misery is on you, Fatebinder!" Lantry narrows his eyes, shaking his head at you wish a scowl between harried scrawls.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Eu vou falar com o Hieronymus por você."</DefaultText>
+      <DefaultText>"I'll talk to Hieronymus for you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ei, é você de novo, isso é fantástico porque eu ainda não estou mais perto de terminar minha pesquisa, tecnicamente, estou um pouco mais perto porque você me trouxe todos aqueles pergaminhos copiados e isso foi maravilhoso de você, mas agora eu preciso de mais informações de Hieronymus Eu te disse que o conheci e que foi um dos melhores momentos da minha vida e eu também mencionei o quão bonito ele era e eu não posso acreditar que eu possivelmente te disse isso duas vezes e mesmo que não fosse duas vezes eu sei que definitivamente apenas lhe disse uma vez e isso é incrivelmente embaraçoso e você acha que pode me ajudar de novo? "</DefaultText>
+      <DefaultText>"Hey it's you again this is fantastic because I'm still no closer to finishing my research well technically I am a little closer because you brought me all those copied scrolls and that was wonderful of you but now I need more information from Hieronymus and did I tell you I met him and that was one of the best moments of my life and did I also mention how handsome he was and I can't believe I possibly told you that twice and even if it wasn't twice I know I definitely just told you once and that is incredibly embarrassing and do you think you can help me again?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"O que voce precisa que eu faca?"</DefaultText>
+      <DefaultText>"What do you need me to do?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Eu acredito que isso é o que você está procurando."</DefaultText>
+      <DefaultText>"I believe this is what you're looking for."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Você aí sim você pode me ajudar Eu tenho tanto que precisa ... oh, espere, eu pensei que você fosse outra pessoa e isso é incrivelmente embaraçoso, então não importa, porque você não é quem eu pensei que você era e então você pode não me ajude e seria um desperdício para mim pedir-lhe tudo apenas para descobrir que você não pode me ajudar porque eu sei que você não pode me ajudar porque você não é a pessoa que eu estava procurando por isso, obrigado por ouvir mas eu preciso continuar fazendo minha pesquisa agora, então eu vou até aqui ... "Ela pula e se contorce a alguns metros de distância e se inclina contra a parede novamente, murmurando para si mesma.</DefaultText>
+      <DefaultText>"You there yes you can you help me out I have so much that needs to... oh wait I thought you were someone else and this is incredibly embarrassing so never mind because you're not who I thought you were and so you can't help me and it would be a waste for me to ask you everything only to find out you can't help me because I know you can't help me because you're not the person I was looking for so thanks for listening but I need to keep doing my research now so I'll go over here..." She bounces and twitches a few feet away and leans against the wall again, muttering to herself.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Olá, oh, espere, é você de novo por um segundo Eu pensei que você fosse outra pessoa de novo e isso teria sido engraçado se eu tivesse perguntado a você ..."</DefaultText>
+      <DefaultText>"Hello there oh wait it's you again for a second I thought you were someone else again and that would have been funny if I'd asked you..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>“Eu sinto muito pela longa espera, apesar do meu entusiasmo O trabalho de decifrar padrões e significados em sigilos antigos não é pouca coisa. Eu espero que você não esteja muito entediado esperando aqui. Eu sei que a qualidade do ar não é realmente a melhor e a cenário realmente é bastante sombrio nada como o [url=glossary:vellum citadel]Vellum Citadel[/url] antes [url=glossary:kyros]Kyros[/url] decidiu que a leitura está fora de moda oh bondade você deveria ter visto isso em seu dia.</DefaultText>
+      <DefaultText>“I’m terribly sorry for the long wait despite my enthusiasm the work of deciphering patterns and meaning in ancient sigils is no small feat I hope you weren’t too bored waiting here I know the air quality really isn’t the best and the scenery really is quite dreary nothing like the [url=glossary:vellum citadel]Vellum Citadel[/url] before [url=glossary:kyros]Kyros[/url] decided that reading is out of fashion oh goodness you should have seen it in its day.”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Já faz cinco minutos."</DefaultText>
+      <DefaultText>“It’s been five minutes.”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Eu pensei que isso vai demorar muito mais tempo."</DefaultText>
+      <DefaultText>“I thought this going to take much longer.”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>“Muito tempo eu sei desculpas mais uma vez, mas estou feliz em informar que minhas teorias foram confirmadas e estamos realmente à beira de um mundo totalmente novo. É possível que os Oldwallians soubessem abrir passagens para outros reinos da existência e talvez seja para lá que todos eles foram uau! Eu certamente tenho que pesquisar isso, mas de volta ao assunto em questão, como mencionei anteriormente, parece que a magia era uma expressão tão comum para os antigos que seus blocos de construção podem ser encontrados em todos os lugares em seus escritos. Quer dizer, mas eu posso ver padrões na repetição e isolar quais contêm formas relevantes é como desconstruir o ritmo de uma música, na verdade. ”</DefaultText>
+      <DefaultText>“Terribly long I know apologies once again but I am happy to report that my theories have been confirmed and we’re really on the precipice of a whole new world I mean a new world of magical research not another reality or anything though I suppose it’s possible the Oldwallians knew how to open passageways to other realms of existence and maybe that’s where they all went wow! I will certainly have to research that but back to the matter at hand so as I mentioned earlier it appears that magic was such a common expression for the ancients that its building blocks can be found everywhere in their writings I don’t understand what the sigils mean but I can see patterns in the repetition and isolate which ones contain relevant shapes it's rather like deconstructing the rhythm of a song actually.”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>“Graças a Deus, não foi, sem dúvida, uma cansativa espera, já peço desculpas mais uma vez, mas estou feliz em informar que minhas teorias foram confirmadas e estamos realmente à beira de um mundo totalmente novo, quero dizer um novo mundo mágico. Não pesquise outra realidade ou qualquer coisa, embora eu suponha que seja possível que os Oldwallians soubessem abrir passagens para outros reinos da existência e talvez seja para lá que todos eles foram uau! Eu certamente tenho que pesquisar isso, mas de volta ao assunto em questão, como mencionei anteriormente, parece que a magia era uma expressão tão comum para os antigos que seus blocos de construção podem ser encontrados em todos os lugares em seus escritos. Quer dizer, mas eu posso ver padrões na repetição e isolar quais contêm formas relevantes é como desconstruir o ritmo de uma música, na verdade. ”</DefaultText>
+      <DefaultText>“Thank goodness it didn’t it was no doubt a tiresome wait already apologies once again but I am happy to report that my theories have been confirmed and we’re really on the precipice of a whole new world I mean a new world of magical research not another reality or anything though I suppose it’s possible the Oldwallians knew how to open passageways to other realms of existence and maybe that’s where they all went wow! I will certainly have to research that but back to the matter at hand so as I mentioned earlier it appears that magic was such a common expression for the ancients that its building blocks can be found everywhere in their writings I don’t understand what the sigils mean but I can see patterns in the repetition and isolate which ones contain relevant shapes it's rather like deconstructing the rhythm of a song actually.”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>“Para validar isso eu peguei um sigilo conhecido como ponto de referência para o meu passe e fiquei chocado, embora eu devesse dizer gratificado ao descobrir que esse sigilo poderia ser reconstruído depois de seguir um padrão recorrente evidente em seus escritos que certamente não pode ser uma coincidência. Expresso o quão excitante isso é e eu me pergunto o que Hieronymus vai dizer uma vez que ele descobre que talvez pudéssemos pesquisar isso juntos oh meu Sinto muito estou corando agora e isso é pouco relevante para você, mas realmente nada disso teria sido possível sem a sua ajuda e o mínimo que posso fazer é oferecer o pergaminho que eu preparei para o meu sigilo de referência e algumas das ervas que eu tenho usado você certamente mereceram isso, mas o Fatebinder é apenas o começo quem sabe que outros sigilos mágicos podem ser descoberto com este processo que não é conhecido até mesmo pelos sábios mais cultos hoje eu tenho muito mais trabalho para fazer e obrigado novamente muito obrigado! ”</DefaultText>
+      <DefaultText>“To validate this I took a known spell sigil as a reference point for my pass and was stunned though I should say gratified to find that this sigil could be reconstructed after following a recurring pattern evident in their writings which surely cannot be a coincidence I cannot express just how exciting this is and I wonder what Hieronymus will say once he finds out maybe we could research this together oh my I'm sorry I’m blushing now and this is hardly relevant to you but really none of this would have been possible without your help and the least I can do is offer you the scroll I drafted for my reference sigil and some of the herbs I’ve been using you have certainly earned it but Fatebinder this is just the beginning who knows what other magical sigils can be uncovered with this process that aren’t known to even the most learned sages today I have so much more work to do and thank you again thank you so much!”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"A pesquisa de Hieronymus é bastante surpreendente, você vê que ele notou padrões nos sigilos encontrados no Oldwalls, ele é tão esperto, quero dizer que não podemos lê-los ou nada, mas há padrões consistentes nos escritos que vimos dentro e eu" Tenho certeza de que esses padrões significam algo mais do que apenas "cuidado" ou "o Bane é um grupo rude" ou o que aqueles construtores da Oldwalls falaram sobre você sabe o que eu vou chamar de Oldwallians, não é como se eles estivessem por perto discutir sobre títulos certo?</DefaultText>
+      <DefaultText>"Hieronymus’ research is quite amazing you see he noticed patterns in the sigils one finds in the Oldwalls gosh he’s so smart I mean we can’t read them or anything but there are consistent patterns in the writings we’ve seen inside and I’m pretty sure that those patterns mean something more than just ‘beware’ or ‘the Bane are a rude bunch’ or whatever those Oldwalls builders talked about you know what I’m just going to call them Oldwallians it’s not like they’re around to argue about titles right?”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Isso é incrível, isso é realmente não é, você me deu tudo que eu precisava para continuar minha pesquisa e agora estou muito mais perto de terminar e acho que vou ficar doente. Estou tão animada isso é realmente incrível se você não se importar em esperar, por favor, me dê alguns momentos para analisar essa informação e ver se ela valida minhas hipóteses. ”</DefaultText>
+      <DefaultText>"This is incredible this is really it isn't it you got me everything I needed so I can continue my research and now I'm that much closer to finishing and I think I'm going to be sick I'm so excited by this you're incredible really if you don’t mind waiting please give me a few moments to parse this information and see if it validates my hypotheses.”</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\areanotifications</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Protótipo</DefaultText>
+      <DefaultText>Prototype</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>O [url=glossary:blade grave]Blade Grave[/url]</DefaultText>
+      <DefaultText>The [url=glossary:blade grave]Blade Grave[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>O Reino Perdido de Testiclese</DefaultText>
+      <DefaultText>The Lost Realm of Testiclese</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>O [url=glossary:stone sea]Stone Sea[/url]</DefaultText>
+      <DefaultText>The [url=glossary:stone sea]Stone Sea[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>O [url=glossary:burning library]Burning Library[/url]</DefaultText>
+      <DefaultText>The [url=glossary:burning library]Burning Library[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Império do Norte</DefaultText>
+      <DefaultText>Northern Empire</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

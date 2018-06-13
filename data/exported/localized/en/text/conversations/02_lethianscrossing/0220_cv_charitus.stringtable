@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\0220_cv_charitus</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Saudação e bem-vindo à Espada ou Bainha!" O homem loiro e saudável levantou a mão em saudação ao se aproximar. "Meu nome é Charitus - mas não deixe o nome enganar você. Eu não estou dando nada."</DefaultText>
+      <DefaultText>"Greeting and welcome to the Sword or Sheath!" The hearty blond man raised a hand in greeting as you approach. "My name is Charitus - but don't let the name fool you. I'm not giving anything away."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <DefaultText>"Tell me about yourself."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"O que você pode oferecer que os outros não podem?"</DefaultText>
+      <DefaultText>"What can you offer that the others can't?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Quanto você cobra?"</DefaultText>
+      <DefaultText>"How much do you charge?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Nada muito emocionante aconteceu comigo." Charitus encolhe os ombros. "Eu era um aventureiro, buscando minha fortuna por toda parte e o que achei foi Bay, que me ofereceu um emprego. Estou aqui desde então!"</DefaultText>
+      <DefaultText>"Nothing too exciting ever happened to me." Charitus shrugs. "I was an adventurer, seeking my fortune far and wide and what I found was Bay, who offered me a job. I've been here ever since!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Embora meus movimentos possam não ser tão exóticos quanto Evarista ou Philo, eu conheço um truque que ninguém mais faz. Aprendi no mar cruzando o Beco Agitado. Passe a noite comigo e eu lhe darei o Porto Furado." - e sua vida nunca mais será a mesma. "</DefaultText>
+      <DefaultText>"While my moves might not be as exotic as Evarista or Philo, I do know one trick that no one else does. I learned it out at sea crossing the Churning Straights. Spend the night with me and I'll give you the Leaky Port - and your life will never be the same."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"São 30 anéis para a noite. E, acredite em mim, você terá o valor do seu dinheiro."</DefaultText>
+      <DefaultText>"It's 30 rings for the night. And trust me, you'll get your money's worth."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,22 +51,22 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Deixe-me perguntar uma coisa primeiro."</DefaultText>
+      <DefaultText>"Let me ask you something first."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Eu procuro agradar."</DefaultText>
+      <DefaultText>"I aim to please."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"O Fatebinder retorna!" Charitus sorri para você. "Qual é o seu prazer hoje?"</DefaultText>
+      <DefaultText>"The Fatebinder returns!" Charitus smiles at you. "What is your pleasure today?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Certo." Charitus encolhe os ombros. "Estou aqui a noite toda. Mas tenho certeza de que nosso tempo poderia ser melhor gasto sozinho em um quarto ..."</DefaultText>
+      <DefaultText>"Sure." Charitus shrugs. "I'm here all night. But I'm sure our time could be better spent alone in a room..."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

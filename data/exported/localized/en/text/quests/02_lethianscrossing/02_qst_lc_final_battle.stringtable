@@ -1,152 +1,152 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\02_lethianscrossing\02_qst_lc_final_battle</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>29</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Conflito na travessia</DefaultText>
+      <DefaultText>Conflict at the Crossing</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Pegue a ponte do comerciante para o leste.</DefaultText>
+      <DefaultText>Take the Merchant's Bridge to the east.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Resgate seus aliados.</DefaultText>
+      <DefaultText>Rescue your allies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Destrua os invasores para o oeste.</DefaultText>
+      <DefaultText>Destroy the invaders to the west.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Resgate os colonos.</DefaultText>
+      <DefaultText>Rescue the settlers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Ajude a combater os flagelos.</DefaultText>
+      <DefaultText>Help fight the Scourges.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Resgate Eldian.</DefaultText>
+      <DefaultText>Rescue Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Apague o fogo.</DefaultText>
+      <DefaultText>Extinguish the fire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Proteja os colonos.</DefaultText>
+      <DefaultText>Protect the settlers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Derrote o campeão inimigo.</DefaultText>
+      <DefaultText>Defeat the enemy Champion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Mate o comandante inimigo.</DefaultText>
+      <DefaultText>Kill the enemy Commander.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Viaje para [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <DefaultText>Travel to [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Viaje para [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Travel to [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Na sequência do seu decreto para os Arcontes, os [url=glossary:disfavored]Disfavored[/url] ficaram desesperados e invadiram [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Você tem que decidir convocar uma reunião de sua coalizão para descobrir um plano de batalha.</DefaultText>
+      <DefaultText>In the wake of your [url=glossary:edict]Edict[/url] and [url=glossary:kyros]Kyros[/url]' decree to the Archons, the [url=glossary:disfavored]Disfavored[/url] have become desperate and invaded [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You have to decide to convene a meeting of your coalition to figure out a battle plan.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Invasores bloquearam a ponte oriental na entrada para [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Você precisa limpar o caminho para o outro lado, mas se você fizer isso, você não terá tempo para matar seus inimigos a oeste.</DefaultText>
+      <DefaultText>Invaders have blocked off the eastern bridge at the entrance to [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You need to clear the path to the other side, but if you do this, you won't have time to kill your enemies to the west.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Seus aliados no nível superior para o oeste em [url=glossary:lethian's crossing]Lethian's Crossing[/url] são superados em número e vão morrer sem a sua ajuda. No entanto, se você fizer isso, você não terá tempo para recuperar a Ponte do Mercador.</DefaultText>
+      <DefaultText>Your allies on the upper level to the west in [url=glossary:lethian's crossing]Lethian's Crossing[/url] are outnumbered and will die without your help. However, if you do this, you won't have time to reclaim the Merchant's Bridge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Invasores bloquearam o caminho no nível superior para o oeste em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Você precisa remover a obstrução, mas se você fizer isso, você não terá tempo para recuperar a Ponte do Mercador.</DefaultText>
+      <DefaultText>Invaders have blocked off the path on the upper level to the west in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You need to remove the obstruction, but if you do this, you won't have time to reclaim the Merchant's Bridge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Um pequeno grupo de colonos estão atualmente presos pelos invasores no nível mais alto de [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Eles precisam de sua ajuda.</DefaultText>
+      <DefaultText>A small group of settlers are currently trapped by the invaders on the highest level of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. They need your help.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Os flagelos escaparam dos Oldwalls e estão ameaçando. Os invasores têm defensores de assentamentos presos com os Flagelados pela entrada do Pináculo.</DefaultText>
+      <DefaultText>Scourges have escaped from the Oldwalls and are threatening [url=glossary:lethian's crossing]Lethian's Crossing[/url]. The invaders have settlement defenders trapped with the Scourges by the Spire entrance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Os invasores estão tentando invadir a casa de Eldian. Se você não intervir, ele será morto.</DefaultText>
+      <DefaultText>The invaders are attempting to break into Eldian's house. If you don't intervene, he will be killed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Os invasores começaram a acender edifícios em chamas. Colonos e mercadores podem morrer se o fogo não for extinto.</DefaultText>
+      <DefaultText>The invaders have begun to light buildings on fire. Settlers and merchants may die if the fire isn't extinguished.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10013</ID>
-      <DefaultText>Os invasores estão invadindo casas para matar colonos. Os colonos precisam de você para protegê-los.</DefaultText>
+      <DefaultText>The invaders are breaking into homes to kill settlers. The settlers need you to protect them.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>O campeão inimigo está aumentando o moral entre as tropas invasoras. Mate o campeão para abaixar a moral.</DefaultText>
+      <DefaultText>The enemy Champion is boosting morale amongst the invading troops. Kill the Champion to lower moral.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10016</ID>
-      <DefaultText>O comandante invasor emergiu do esconderijo. Mate o comandante e termine esta batalha.</DefaultText>
+      <DefaultText>The invading Commander has emerged from hiding. Kill the commander and end this battle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10018</ID>
-      <DefaultText>Uma reunião está programada para começar em [url=glossary:vendrien's well]Vendrien's Well[/url]. Viaje até lá e fale com Arri para determinar qual é o melhor curso de ação para sua aliança.</DefaultText>
+      <DefaultText>A meeting is set to begin at [url=glossary:ascension hall]Ascension Hall[/url] in [url=glossary:vendrien's well]Vendrien's Well[/url]. Travel there and speak to Arri determine what the best course of action is for your alliance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10019</ID>
-      <DefaultText>Encontre seus aliados em [url=glossary:lethian's crossing]Lethian's Crossing[/url] e defenda o acordo.</DefaultText>
+      <DefaultText>Meet your allies at [url=glossary:lethian's crossing]Lethian's Crossing[/url] and defend the settlement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Você limpou seus inimigos para o oeste, mas os invasores tomaram o controle da ponte.</DefaultText>
+      <DefaultText>You cleared out your enemies to the west, but invaders have taken control of the bridge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Você limpou um caminho através da Ponte do Mercador, mas seus aliados foram mortos.</DefaultText>
+      <DefaultText>You cleared a path across the Merchant's Bridge, but your allies have been killed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você terminou a batalha por [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>You have ended the battle for [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

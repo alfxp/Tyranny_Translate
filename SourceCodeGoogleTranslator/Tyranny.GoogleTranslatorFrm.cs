@@ -163,7 +163,7 @@ namespace Tyranny.GoogleTranslator
 
                                 //Existe outras palavras reservadas além do link  '[url'
                                 //Não traduzir as outras palavras originais.
-                                if (phrase.IndexOf("[") != 0)
+                                if (phrase.IndexOf("[", StringComparison.CurrentCulture) != 0)
                                 {
                                     var phraseGoogle = t.Translate(phrase, LanguageFrom, LanguageTo);
 
@@ -189,13 +189,13 @@ namespace Tyranny.GoogleTranslator
                         Task tb = Task.Run(() =>
                         {
                             //If a folder does not exist, create it
-                            if (!Directory.Exists(Path.GetDirectoryName(info.FullName.Replace("en", "pt"))))
+                            if (!Directory.Exists(Path.GetDirectoryName(info.FullName.Replace(@"\en", @"\pt"))))
                             {
-                                Directory.CreateDirectory(Path.GetDirectoryName(info.FullName.Replace("en", "pt")));
+                                Directory.CreateDirectory(Path.GetDirectoryName(info.FullName.Replace(@"\en", @"\pt")));
                             }
 
                             //Gravando o arquivo.
-                            ds.WriteXml(info.FullName.Replace("en", "pt"));
+                            ds.WriteXml(info.FullName.Replace(@"\en", @"\pt"));
                         });
                         tb.Wait();
                     }

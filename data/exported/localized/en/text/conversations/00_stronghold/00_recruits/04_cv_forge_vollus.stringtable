@@ -1,124 +1,124 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\04_cv_forge_vollus</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>23</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Os fogos da forja queimam brilhante, Fatebinder!" Vollus se curva diante de você. "Como posso atendê-lo?"</DefaultText>
+      <DefaultText>"The forge fires burn bright, Fatebinder!" Vollus bows low before you. "How may I serve you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Eu encontrei referência a um punhal chamado Heart's Blood. O que você pode me dizer sobre isso?"</DefaultText>
+      <DefaultText>"I found reference to a dagger called Heart's Blood. What can you tell me about it?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Eu não preciso de nada agora."</DefaultText>
+      <DefaultText>"I don't need anything right now."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Coração Sangue? Sério? Deixe-me ver esse livro!" Ele olha para isso.
+      <DefaultText>"Heart's Blood? Really? Let me see that book!" He looks at it.
 
-"Isso é incrível! Infelizmente, as informações contidas neste livro não são suficientes para eu recriá-lo. Se você pudesse me dar mais informações sobre isso, eu provavelmente poderia fazer isso por você."</DefaultText>
+"This is incredible! Unfortunately, the information in that book isn't sufficient for me to recreate it. If you were able to give me more information on it, I could probably make it for you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Eu encontrei esse cabo na Oldwalls. O que você pode me dizer sobre isso?"</DefaultText>
+      <DefaultText>"I found this hilt in the Oldwalls. What can you tell me about it?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Isso parece o cabo da Sentinela, uma das melhores espadas que a [url=glossary:forge-bound]Forge-Bound[/url] já fez! Com isso, eu poderia recriá-la se você quiser."</DefaultText>
+      <DefaultText>"That looks like the hilt of Sentinel, one of the finest swords the [url=glossary:forge-bound]Forge-Bound[/url] have ever made! With this, I could recreate it if you want."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Eu encontrei esses planos e este metal nos Oldwalls. Você pode fazer isso por mim?"</DefaultText>
+      <DefaultText>"I found these plans and this metal in the Oldwalls. Can you make this for me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Estes são os planos para Skorn! E você tem o metal que precisamos para fazer isso!"</DefaultText>
+      <DefaultText>"These are the plans for Skorn! And you have the metal we need to make it!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Eu encontrei estes planos nos Oldwalls. Você pode fazer isso por mim?"</DefaultText>
+      <DefaultText>"I found these plans in the Oldwalls. Can you make this for me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Infelizmente eu não posso agora - isso fala de um metal específico necessário para forjá-lo. Se você me trouxer os dois, eu poderia fazer isso por você."</DefaultText>
+      <DefaultText>"Unfortunately I can't right now - this speaks of a specific metal needed to forge it. If you brought me both, I could make it for you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Eu encontrei este capacete em Rust Canyons. O que você pode me dizer sobre isso?"</DefaultText>
+      <DefaultText>"I found this helmet in Rust Canyons. What can you tell me about it?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Este é o Helm Eye Hawk! Com isso, eu deveria ser capaz de recriá-lo para você!"</DefaultText>
+      <DefaultText>"This is the Hawk Eye Helm! With this, I should be able to recreate it for you!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"As forjas estão prontas, Fatebinder." Vollus inclina a cabeça, sem encontrar seus olhos. Seu corpo está virado, como se para evitar um golpe. "Como um ferreiro indigno pode servir sua grandeza?"</DefaultText>
+      <DefaultText>"The forges stand ready, Fatebinder." Vollus bows his head, not meeting your eyes. His body is turned away, as if to avoid a blow. "How may an unworthy smith serve your greatness?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Saudações, Fatebinder! Como posso ajudá-lo?"</DefaultText>
+      <DefaultText>"Greetings, Fatebinder! How may I help you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Conte-me sobre a Forja."</DefaultText>
+      <DefaultText>"Tell me about the Forge."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Você completou o forjamento de um item para mim?"</DefaultText>
+      <DefaultText>"Have you completed forging an item for me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Eu quero que você forje algo para mim."</DefaultText>
+      <DefaultText>"I want you to forge something for me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Ele gesticula para as bigornas próximas. "Se você quer melhorar suas armas e armaduras, você pode usar qualquer uma das bigornas - deve ser bem simples se você tiver os materiais."</DefaultText>
+      <DefaultText>He gestures at the nearby anvils. "If you want to upgrade your weapons and armor, you can use any of the anvils - it should be simple enough if you've got the materials."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Se você precisar de algo que exija um mestre ferreiro, como forjar um item único, venha falar comigo e eu vou ver o que posso fazer."</DefaultText>
+      <DefaultText>"If you need something that requires a master smith, like forging a one-of-kind item, come talk to me and I'll see what I can do."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Existe mais alguma coisa que eu possa fazer por você?"</DefaultText>
+      <DefaultText>"Is there anything else I can do for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Certamente, Fatebinder."</DefaultText>
+      <DefaultText>"Certainly, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Seus recrutas têm trabalhado duro. Deixe-me mostrar o que eles fizeram."</DefaultText>
+      <DefaultText>"Your recruits have been hard at work. Let me show you what they've done."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"O trabalho é lento com apenas um único recruta, mas ainda podemos fazer as coisas."</DefaultText>
+      <DefaultText>"The work is slow with only a single recruit, but we can still get things done."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

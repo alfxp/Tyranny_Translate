@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_poi_oldwall_01_spirit_trap</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Sem dúvida, este é um espécime particularmente feroz ... por que mais alguém iria ao esforço de capturá-lo?"</DefaultText>
+      <DefaultText>"No doubt this is a particularly fierce specimen... why else would someone go to the effort to trap it?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Aquela fera de Oldwall parece estar presa ... pelo menos por enquanto."</DefaultText>
+      <DefaultText>"That Oldwalls beast appears trapped... for the moment, at least."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"O que é um espécime geralmente grande. É assustadoramente estacionário - vamos esperar que ele esteja preso, não apenas adormecido."</DefaultText>
+      <DefaultText>"What an usually large specimen. It's eerily stationary - let's hope it's trapped, not merely dormant."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Beastwoman gostaria de lutar contra esse grande Bane. Parece durão."</DefaultText>
+      <DefaultText>"Beastwoman would like to fight such large Bane. Looks tough."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"O que em nome de [url=glossary:kyros]Kyros[/url] é isso?"</DefaultText>
+      <DefaultText>"What in the name of [url=glossary:kyros]Kyros[/url] is that?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Vamos apenas esperar que o que quer que esteja nessa armadilha não encontre uma saída enquanto estamos aqui."</DefaultText>
+      <DefaultText>"Let's just hope that whatever is in that trap doesn't find a way out while we're here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Nó do banco 8</DefaultText>
+      <DefaultText>Bank Node 8</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,5 +1,5 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_tree_verse_hub</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Nó de Trigger Conv 6</DefaultText>
+      <DefaultText>Trigger Conv Node 6</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Nó Conv. Trigger 7</DefaultText>
+      <DefaultText>Trigger Conv Node 7</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

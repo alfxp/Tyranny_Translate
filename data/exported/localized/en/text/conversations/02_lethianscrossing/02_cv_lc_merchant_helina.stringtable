@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_helina</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bom dia meu amigo, posso te interessar em meus produtos? Eu tenho todos os tipos de mercadorias que eu sei que você precisa!"</DefaultText>
+      <DefaultText>"Fine day my friend, might I interest you in my wares? I have all manner of goods I know you need!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,52 +21,52 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Ela dá um tapinha na mão no cinto. "Vamos ver se podemos encontrar algo que você gosta ..."</DefaultText>
+      <DefaultText>She pats her hand on her ring belt. "Let's see if we can find something you like..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"O que você sabe sobre o Gino?"</DefaultText>
+      <DefaultText>"What do you know about Gino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Gino? Por que você quer saber sobre aquele réprobo?" Helina encolhe os ombros. "Foi-me dito - por alguém que viu os corpos - que Gino matou os outros pescadores da aldeia para que ele pudesse levantar uma perna. E que ele pagou o exército de ocupação para olhar para o outro lado!"</DefaultText>
+      <DefaultText>"Gino? Why would you want to know about that reprobate?" Helina shrugs. "I was told - by someone who saw the bodies - that Gino killed the other fishermen in the village so he could get a leg up. And that he paid off the occupying army to look the other way!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Quem viu os corpos?"</DefaultText>
+      <DefaultText>"Who saw the bodies?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"O irmão mais novo de Gino, Alagan, é o que me contou sobre os corpos. Ele tem dito às pessoas sobre isso na esperança de que alguém venha para a cidade e faça algo a respeito."</DefaultText>
+      <DefaultText>"Gino's younger brother Alagan is the one that told me about the bodies. He has been telling people about it in hopes that someone would come into town and do something about it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Você poderia me dizer alguma coisa sobre este selo? Eu encontrei em [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
+      <DefaultText>"Could you tell me anything about this seal? I found it in [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Desculpe, eu não posso te ajudar. Eu nunca vi nada assim antes ..."</DefaultText>
+      <DefaultText>"Sorry, I can't help you. I've never seen anything like that before..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Seu rosto endurece quando ela reconhece você, mas quando ela fala, seu tom é tão acolhedor quanto antes. "Fatebinder! Eu dificilmente esperava você aqui no Crossing. Eu assumi que o efeito do seu [url=glossary:edict]Edict[/url] iria mantê-lo afastado. Posso ajudá-lo com alguma coisa hoje?"</DefaultText>
+      <DefaultText>Her face hardens as she recognizes you, but when she speaks, her tone is just as welcoming as before. "Fatebinder! I hardly expected you here in the Crossing. I assumed the effect of your [url=glossary:edict]Edict[/url] would keep you away. Can I help you with anything today?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Fatebinder!" Ela pega sua mão e a segura entre as dela. "A palavra de suas ações se espalhou até mesmo para esta pequena loja. O que traz alguém de tão imenso poder aqui? Posso ajudá-lo com alguma coisa hoje?"</DefaultText>
+      <DefaultText>"Fatebinder!" She grabs your hand and holds it between hers. "Word of your deeds has spread even to this little shop. What brings someone of such immense power here? Can I help you with anything today?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Importa-se de dar uma olhada nos meus produtos?"</DefaultText>
+      <DefaultText>"Care to take a look at my wares?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\critpathspine\cps_qst_progression_index</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>14</EntryCount>
   <Entries>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Jogador caiu para Anarquia por trair [url=glossary:unbroken]Unbroken[/url] na junção de Trapper ou o Salão dos Regentes</DefaultText>
+      <DefaultText>Player has dropped to Anarchy by betraying [url=glossary:unbroken]Unbroken[/url] in Trapper's Junction or the Hall of Regents</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>HUB DE ARQUIVO SILENCIOSO ANARQUISTA</DefaultText>
+      <DefaultText>ANARCHIST SILENT ARCHIVE HUB</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>CUBO MAGEBANE ANARQUISTA</DefaultText>
+      <DefaultText>ANARCHIST MAGEBANE HUB</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>HUB DO PROTETOR ANARQUISTA AZURE</DefaultText>
+      <DefaultText>ANARCHIST AZURE SHIELD HUB</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>CUBO DE DISTRIBUIÇÃO ANARQUISTA</DefaultText>
+      <DefaultText>ANARCHIST DAUNTLESS HUB</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Jogador foi completado [url=glossary:blade grave]Blade Grave[/url] com outra facção, mas não obteve Dauntless</DefaultText>
+      <DefaultText>Player has completed [url=glossary:blade grave]Blade Grave[/url] with another faction, but didn't get Dauntless</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>O jogador completou o [url=glossary:stone sea]Stone Sea[/url] com outra facção mas não obteve o Escudo Azure</DefaultText>
+      <DefaultText>Player has completed the [url=glossary:stone sea]Stone Sea[/url] with another faction but did not get the Azure Shield</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

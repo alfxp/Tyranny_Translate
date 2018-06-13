@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_lc_raid_start_scarlet_chorus</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>11</EntryCount>
   <Entries>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Fatebinder! Uma batalha começou!" O Blood Hound corre para cima, suas palavras pontuadas pela respiração ofegante. "Os [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] estão atacando [url=glossary:lethian's crossing]Lethian's Crossing[/url]! Venha se juntar à luta! Talvez você seja capaz de matar o líder da raid - Ceratha com conta-gotas!"</DefaultText>
+      <DefaultText>"Fatebinder! A battle has begun!" The Blood Hound runs up, her words punctuated by labored breathing. "The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] are attacking [url=glossary:lethian's crossing]Lethian's Crossing[/url]! Come join the fight! Maybe you'll be able to kill the raid-leader - Ring-Dropper Ceratha!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Eu esperava poder testar você em batalha!"</DefaultText>
+      <DefaultText>"I hoped I would get to test you in battle!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,27 +26,27 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Honestamente, vocês são incapazes de fazer qualquer coisa sem minha ajuda? O que você vai me dar se eu fizer?"</DefaultText>
+      <DefaultText>"Honestly, are you people incapable of doing anything without my help? What will you give me if I do?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Ela parece chocada e gagueja sua resposta, "W ... por que você exigiria pagamento? Certamente a batalha em si é pagamento suficiente!"</DefaultText>
+      <DefaultText>She looks shocked and stammers her reply, "W... why would you require payment? Surely the battle itself is payment enough!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Tier Smasher está segurando-os de volta. Depressa, antes que você perca toda a diversão! Eles estão no centro da cidade, perto do rio!"</DefaultText>
+      <DefaultText>"Tier Smasher is holding them back. Hurry before you miss out on all the fun! They're in the center of town, by the river!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Eu vou de bom grado entrar na luta. Se você cair, você nunca foi um membro digno de [url=glossary:kyros]Kyros[/url] 'exército para começar."</DefaultText>
+      <DefaultText>"I'll gladly join the fight. If you fall, you were never a worthy member of [url=glossary:kyros]Kyros[/url]' army to begin with."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Agora este é um lado do verso que eu poderia aprender a gostar!"</DefaultText>
+      <DefaultText>"Now this is a side of Verse I could learn to like!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,9 +56,9 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>O rosto do Blood Hound fica pálido e ela dá um passo para trás. "Enfrenta o [url=glossary:scarlet chorus]Scarlet Chorus[/url] e o Brotherhood?" Ela dá outro passo. "Eu ouvi sobre você - e você provavelmente vai ganhar essa luta. Eu estou fora daqui!"
+      <DefaultText>The Blood Hound's face goes pale and she takes a step backward. "Take on both the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and the Brotherhood?" She takes another step. "I've heard about you - and you'll probably win this fight. I'm out of here!"
 
-Ela se vira e corre de você.</DefaultText>
+She turns and runs from you.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

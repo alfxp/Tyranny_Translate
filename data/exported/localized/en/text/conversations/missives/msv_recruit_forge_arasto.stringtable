@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\missives\msv_recruit_forge_arasto</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Volte.</DefaultText>
+      <DefaultText>Go back.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Envie isto.</DefaultText>
+      <DefaultText>Send it.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

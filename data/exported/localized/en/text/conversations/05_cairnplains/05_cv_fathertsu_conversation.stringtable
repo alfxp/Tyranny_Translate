@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_cairnplains\05_cv_fathertsu_conversation</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>157</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Sempre um prazer te ver, Fatebinder."</DefaultText>
+      <DefaultText>"Always a pleasure to see you, Fatebinder." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Você conseguiu adquirir o Everwell, Fatebinder?"</DefaultText>
+      <DefaultText>"Were you able to acquire the Everwell, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"O que você pode me dizer sobre aqueles que desafiariam [url=glossary:kyros]Kyros[/url] neste reino?"</DefaultText>
+      <DefaultText>"What can you tell me about those who would defy [url=glossary:kyros]Kyros[/url] in this realm?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Por que há um Homem-Besta sendo mantido aqui em [Plainsgate]?"</DefaultText>
+      <DefaultText>"Why is there a Beastman being held here in [Plainsgate]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Despedida."</DefaultText>
+      <DefaultText>"Farewell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Sim eu fiz."</DefaultText>
+      <DefaultText>"Yes, I did."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Eu encontrei, mas estou vendendo para Arason."</DefaultText>
+      <DefaultText>"I found it, but I'm selling it to Arason."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,366 +46,366 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Você estaria disposto a confiar o cuidado da relíquia ao povo de [Plainsgate]?"</DefaultText>
+      <DefaultText>"Would you be willing to entrust the care of the relic to the people of [Plainsgate]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Não é uma chance."</DefaultText>
+      <DefaultText>"Not a chance."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Como você está certo, é claro, mas não há nada que eu possa dizer para convencê-lo a confiar os cuidados da Everwell ao povo de [Plainsgate]?"</DefaultText>
+      <DefaultText>"As is your right, of course, but is there nothing I can say to convince you to entrust the Everwell's care to the people of [Plainsgate]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"O que posso fazer para você?"</DefaultText>
+      <DefaultText>"What can I do for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Quando a cidade era basicamente um mercado para os fazendeiros, eles trabalhavam como bestas de carga. Eles faziam o transporte e a aragem em sua maioria. E eles aprenderam a não reclamar. Mas [url=glossary:cairn]Cairn[/url] incitou-os com uma ideia idiota de tomar de volta as terras dos agricultores." seus ancestrais e eles não têm sido nada além de delirantes e violentos desde então. "</DefaultText>
+      <DefaultText>"Back when the town was primarily a market for farmers, [url=glossary:stonestalkers]Stonestalkers[/url] worked as beasts of burden. They did the hauling and the plowing mostly. And they learned not to complain. But then [url=glossary:cairn]Cairn[/url] incited them with a fool idea to take back the lands of their ancestors and they've been nothing but raving and violent ever since."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Não muito tempo atrás, aquele lá em cima foi arrastado para a cidade por um grupo de colonos e Coro. Ele estava coberto de sangue - uma coisa selvagem. Fizemos o nosso melhor para olhar para o outro lado, mas parece que eles não serão satisfeito em nos deixar estar. Agora eles estão caçando-nos um pouco além dos portões da nossa própria cidade. "</DefaultText>
+      <DefaultText>"Not long ago, that one up there was dragged into town by a group of settlers and Chorus. He was covered in blood - a wild thing. We've done our best to look the other way, but seems they won't be satisfied to leave us be. Now they're out hunting us just beyond our own city gates."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Você assumiu a culpa do Homem-Besta? Como você sabe que ele estava caçando um humano?"</DefaultText>
+      <DefaultText>"You assumed the Beastman's guilt? How do you know he was hunting a human?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ensanguentado e fora de vingança - o Homem-Besta deve ter feito isso, então."</DefaultText>
+      <DefaultText>"Bloodied and out for revenge - the Beastman must have done it, then."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Vamos discutir outra coisa."</DefaultText>
+      <DefaultText>"Let's discuss something else." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Você encontrará essa visão comum entre os colonos daqui. Com toda a probabilidade, o Homem-Besta será executado."</DefaultText>
+      <DefaultText>"You'll find that view common among the settlers here. In all likelihood, the Beastman will be executed."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Eu prefiro manter meu nariz fora dessas coisas ... mas se você se sentir seguro o suficiente sobre a inocência do Homem-Besta, você pode considerar fazer algo sobre isso."</DefaultText>
+      <DefaultText>"I do prefer to keep my nose out of these things... but if you feel certain enough about the Beastman's innocence, you might consider doing something about it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Eu prefiro manter meu nariz fora dessas coisas ... mas se você se sentir seguro o suficiente sobre a inocência do Homem-Besta, você pode considerar fazer algo sobre isso."</DefaultText>
+      <DefaultText>"I do prefer to keep my nose out of these things... but if you feel certain enough about the Beastman's innocence, you might consider doing something about it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ele é um Beastman. É o que eles fazem."</DefaultText>
+      <DefaultText>"He's a Beastman. It's what they do."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ah, Fatebinder! Estou tão feliz por ter falado com você."</DefaultText>
+      <DefaultText>"Ah, Fatebinder! So glad I caught up with you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"O que você quer?"</DefaultText>
+      <DefaultText>"What do you want?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Chegou ao meu conhecimento que Arason pediu para você encontrar o Everwell."</DefaultText>
+      <DefaultText>"It came to my attention that Arason has asked you to find the Everwell."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"A palavra viaja rápido, eu vejo."</DefaultText>
+      <DefaultText>"Word travels fast, I see."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Você é um Fatebinder. Tudo o que você diz ou faz em [Plainsgate] circula rapidamente".</DefaultText>
+      <DefaultText>"You're a Fatebinder. Everything you say or do in [Plainsgate] gets around quickly."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Perdoe minha presunção, Fatebinder." Ele rapidamente se afasta.</DefaultText>
+      <DefaultText>"Forgive my presumption, Fatebinder." He quickly moves away.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Eu preciso alcançar [url=lore:Howling_Rock]Howling Rock[/url]. Você sabe como chegar lá?"</DefaultText>
+      <DefaultText>"I need to reach [url=lore:Howling_Rock]Howling Rock[/url]. Do you know how to get there?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Eu sei que você precisa passar por [url=lore:StoneDown]Stone Down[/url], mas apenas os Beastmen lá sabem o resto do caminho. Se eles vão te dizer ..." Ele encolhe os ombros.</DefaultText>
+      <DefaultText>"I know you need to go through [url=lore:StoneDown]Stone Down[/url], but only the Beastmen there know the rest of the way. Whether they'll tell you..." He shrugs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Isso é tudo que eu precisava saber."</DefaultText>
+      <DefaultText>"That's all I needed to know."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Os Homens-Besta são aqueles que se opõem a [url=glossary:kyros]Kyros[/url] nestas partes. Estamos nos ossos de Azure, mas abaixo estão as ruínas do território ancestral de Beastman."
+      <DefaultText>"The Beastmen are the ones who oppose [url=glossary:kyros]Kyros[/url] in these parts. We're standing on the bones of Azure, but below that are the ruins of the Beastman ancestral territory."
 
-"Quando o Reino do Azure subiu ao poder, eles escravizaram as criaturas horrendas e as entregaram a vidas de trabalho duro."</DefaultText>
+"When the Realm of Azure rose in power, they enslaved the hideous creatures and consigned them to lives of hard labor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Desde então [url=glossary:cairn]Cairn[/url] caiu e o [url=glossary:edict]Edict[/url] devastou a terra, os Beastmen começaram a reclamar o [url=glossary:stone sea]Stone Sea[/url]."</DefaultText>
+      <DefaultText>"Ever since [url=glossary:cairn]Cairn[/url] fell and the [url=glossary:edict]Edict[/url] devastated the land, the Beastmen have started to reclaim the [url=glossary:stone sea]Stone Sea[/url]." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Se você se encontrar na presença deles, pise com cautela. Os Beastmen são territoriais e recorrem à violência com pouca provocação."</DefaultText>
+      <DefaultText>"If you find yourself in their presence, tread with caution. The Beastmen are territorial and resort to violence with little provocation."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Você está no meu caminho."</DefaultText>
+      <DefaultText>"You're in my way."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Só por um momento, Fatebinder. Por favor, me ouça."</DefaultText>
+      <DefaultText>"Only for a moment, Fatebinder. Please, hear me out."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Você ouviu direito."</DefaultText>
+      <DefaultText>"You heard right."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Você vê como o nosso assentamento é pobre." Ele gesticula em volta dele. "Arason usaria a relíquia para lucro pessoal e compartilharia pouco com o resto de nós. Se a relíquia pertencia a todos em [Plainsgate], o lucro de vender a tinta aos Sábios seria dividido entre todos os cidadãos - mesmo Arason ".</DefaultText>
+      <DefaultText>"You see how poor our settlement is." He gestures around him. "Arason would use the relic for personal profit and share little of it with the rest of us. If the relic belonged to everyone in [Plainsgate], however, the profit from selling the ink to the Sages would be split amongst all citizens - even Arason."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Eu vou considerar isso."</DefaultText>
+      <DefaultText>"I'll consider it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Eu suponho que você está se oferecendo para pagar mais por isso?"</DefaultText>
+      <DefaultText>"I assume you're offering to pay more for it?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Infelizmente, não. Não há nada que eu ou qualquer outra pessoa possa oferecer que combine com Arason."</DefaultText>
+      <DefaultText>"Sadly, no. There is nothing that I or anyone else can offer that would match Arason."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Obrigado por me ouvir, Fatebinder."</DefaultText>
+      <DefaultText>"Thank you for hearing me out, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Por que você quer o Everwell?"</DefaultText>
+      <DefaultText>"Why do you want the Everwell?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Eu disse não. Não teste minha paciência."</DefaultText>
+      <DefaultText>"I said no. Don't test my patience."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Você vê como o nosso assentamento é pobre." Ele gesticula em volta dele. "Arason usaria a relíquia para lucro pessoal e compartilharia pouco com o resto de nós. Se a relíquia pertencia a todos em [Plainsgate], o lucro de vender a tinta aos Sábios seria dividido entre todos os cidadãos - mesmo Arason ".</DefaultText>
+      <DefaultText>"You see how poor our settlement is." He gestures around him. "Arason would use the relic for personal profit and share little of it with the rest of us. If the relic belonged to everyone in [Plainsgate], however, the profit from selling the ink to the Sages would be split amongst all citizens - even Arason."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Nenhum acordo."</DefaultText>
+      <DefaultText>"No deal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Mas eu ouvi ... oh, não importa, então."</DefaultText>
+      <DefaultText>"But I'd heard... oh, never mind, then."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"O que Beastmen estão fazendo lá?"</DefaultText>
+      <DefaultText>"What are Beastmen doing there?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Quem conhece as mentes dessas criaturas?" Ele gesticula para a distância. "Pergunte a eles, se você precisar. Eles provavelmente estão agachados nas sepulturas de seus antigos senhores. Azure já foi uma região próspera e rica - mas os Beastmen viram isso de um ângulo muito diferente."</DefaultText>
+      <DefaultText>"Who knows the minds of those creatures?" He gestures off to the distance. "Ask them, if you must. They're probably squatting on the graves of their old masters. Azure was once a thriving, wealthy region - but the Beastmen saw it from a very different angle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Melhor sorte. Nos dias de hoje, eu não enviaria minha tia favorita para [url=lore:StoneDown]Stone Down[/url]".</DefaultText>
+      <DefaultText>"Best of luck. These days, I wouldn't send my least-favorite aunt into [url=lore:StoneDown]Stone Down[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Tudo bem por mim! Chega dessa conversa mórbida, hein?"</DefaultText>
+      <DefaultText>"Fine by me! Enough of this morbid talk, eh?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Tarkis Arri do [url=glossary:vendrien guard]Vendrien Guard[/url] me enviou."</DefaultText>
+      <DefaultText>"Tarkis Arri of the [url=glossary:vendrien guard]Vendrien Guard[/url] sent me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Eu sei o nome." Ele olha em volta com cautela. "O que isso tem a ver comigo?"</DefaultText>
+      <DefaultText>"I know the name." He glances around warily. "What's it got to do with me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Os rebeldes precisam de olhos e ouvidos em [Plainsgate]."</DefaultText>
+      <DefaultText>"The rebels need eyes and ears in [Plainsgate]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"E ela sugeriu que você viesse a mim. Muito bem, eu vou ajudar - contanto que eu seja pago pelo meu problema."</DefaultText>
+      <DefaultText>"And she suggested that you come to me. Very well, I'll help - so long as I get paid for my trouble."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Bem desse jeito?"</DefaultText>
+      <DefaultText>"Just like that?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Bem desse jeito."</DefaultText>
+      <DefaultText>"Just like that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Eu prefiro manter meu nariz fora dessas coisas ... mas se você se sentir seguro o suficiente sobre a culpa do Homem-Besta, você pode considerar fazer algo sobre isso."</DefaultText>
+      <DefaultText>"I do prefer to keep my nose out of these things... but if you feel certain enough about the Beastman's guilt, you might consider doing something about it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Eu prefiro manter meu nariz fora dessas coisas ... mas se você se sentir seguro o suficiente sobre a culpa do Homem-Besta, você pode considerar fazer algo sobre isso."</DefaultText>
+      <DefaultText>"I do prefer to keep my nose out of these things... but if you feel certain enough about the Beastman's guilt, you might consider doing something about it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Ele deve ser dado para o [url=glossary:scarlet chorus]Scarlet Chorus[/url] - vai refrear seus esforços de recrutamento agressivo em torno da cidade".</DefaultText>
+      <DefaultText>"He should be given to the [url=glossary:scarlet chorus]Scarlet Chorus[/url] - it'll curb their aggressive recruitment efforts around town."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Eu prefiro manter meu nariz fora dessas coisas ... mas se você acha que é melhor para nós dar a ele o Refrão, eu não acho que você encontrará muita oposição no assunto. Eles nos ajudaram a capturar o besta, afinal. "</DefaultText>
+      <DefaultText>"I prefer to keep my nose out of these things... but if you feel it's best for us to give him to the Chorus, I don't think you'll find much opposition in the matter. They did help us capture the beast, after all."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Eu prefiro manter meu nariz fora dessas coisas ... mas se você acha que é melhor para nós dar a ele o Refrão, eu não acho que você encontrará muita oposição no assunto. Eles nos ajudaram a capturar o besta, afinal. "</DefaultText>
+      <DefaultText>"I prefer to keep my nose out of these things... but if you feel it's best for us to give him to the Chorus, I don't think you'll find much opposition in the matter. They did help us capture the beast, after all."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Seus esforços têm sido implacáveis, chegando a limitar a violência às vezes." Ele acena para si mesmo, considerando suas palavras.</DefaultText>
+      <DefaultText>"Their efforts have been relentless, even bordering on violence at times." He nods to himself, considering your words.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"[url=glossary:bleden mark]Bleden Mark[/url] envia seus cumprimentos. Estou procurando pelo Escudo Azure."</DefaultText>
+      <DefaultText>"[url=glossary:bleden mark]Bleden Mark[/url] sends his regards. I'm looking for the Azure Shield."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Entendo." Ele pisca longe uma pontada de medo. Um segundo a emoção está visivelmente lá, a próxima desaparece. "Eu não tinha idéia de que você também estava em seu serviço. Em qualquer caso, o Beastmen de [url=lore:StoneDown]Stone Down[/url], o [url=glossary:stonestalkers]Stonestalkers[/url] tribo, tem o artefato. Sua [url=glossary:prima]Prima[/url], Cem-Sangue, mantém bem guardado."</DefaultText>
+      <DefaultText>"I see." He blinks away a stab of fear. One second the emotion is visibly there, the next it's gone. "I had no idea you were also in his service. In any case, the Beastmen of [url=lore:StoneDown]Stone Down[/url], the [url=glossary:stonestalkers]Stonestalkers[/url] tribe, have the artifact. Their [url=glossary:prima]Prima[/url], Hundred-Blood, keeps it well guarded."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Que uso os Homens-Besta teriam para uma relíquia Azure?"</DefaultText>
+      <DefaultText>"What use would the Beastmen have for an Azure relic?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"É uma questão de orgulho, Fatebinder. Para eles, o [url=glossary:stone sea]Stone Sea[/url] é deles. E se um escudo brilhante de ferro for encontrado, bem, também é deles."</DefaultText>
+      <DefaultText>"It's a matter of pride, Fatebinder. To them, the [url=glossary:stone sea]Stone Sea[/url] is theirs. And if a shiny shield of iron is found, well, that's theirs, too."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Derramar o sangue dela seria a solução mais direta, é claro. Não há tarefa fácil lá." Ele bate o dedo contra os lábios. "Também pode ser possível organizar um negócio, mas quem sabe o que um Homem-Besta poderia querer."</DefaultText>
+      <DefaultText>"Spilling her blood would be the most direct solution, of course. No easy task there." He taps his finger against his lips. "It also might be possible to arrange for a trade, but who knows what a Beastman could possibly want."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Isso é tudo que eu precisava saber."</DefaultText>
+      <DefaultText>"That's all I needed to know."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Você é o Fatebinder que todo mundo está falando."</DefaultText>
+      <DefaultText>"You're the Fatebinder that everyone's been talking about."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Disseram-me que você seria um agente confiável."</DefaultText>
+      <DefaultText>"I was told you'd make a reliable agent."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"É assim mesmo?" Ele ri. "Muito bem, eu vou ajudar - desde que eu seja pago pelo meu problema."</DefaultText>
+      <DefaultText>"Is that so?" He chuckles. "Very well, I'll help - so long as I get paid for my trouble."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Eu estou derrubando o [url=glossary:disfavored]Disfavored[/url] eo [url=glossary:scarlet chorus]Scarlet Chorus[/url].Quer ajudar?"</DefaultText>
+      <DefaultText>"I'm taking down the [url=glossary:disfavored]Disfavored[/url] and the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Want to help?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Você não é sutil, eu vou te dar isso." Ele ri. "Muito bem, eu vou ajudar - desde que eu seja pago pelo meu problema."</DefaultText>
+      <DefaultText>"You are not subtle, I'll give you that." He laughs. "Very well, I'll help - so long as I get paid for my trouble."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Como devo proceder para adquirir o artefato de Hundred-Blood?"</DefaultText>
+      <DefaultText>"How should I go about acquiring the artifact from Hundred-Blood?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Boa sorte com sua pesquisa, Fatebinder."</DefaultText>
+      <DefaultText>"Good luck with your search, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"É verdade, mas está errado." A Beastwoman agarra uma garra, parecendo entediada e ranzinza.
+      <DefaultText>"Is true, but are wrong." The Beastwoman flicks a claw, looking bored and surly.
 
-"Toda a terra em Azure-terras pertence a Beastwomen, mas não acumulam bugigangas inúteis para trocar ou contemplar como pining, slathering seres humanos. Para cem-sangue para reivindicar prêmio - significaria Beastwoman rasgou escudo da vida e membros de difícil, digno É uma prova de orgulho para a tribo [url=glossary:prima]Prima[/url]. "</DefaultText>
+"All earth in Azure-lands belongs to Beastwomen, but [url=glossary:stonestalkers]Stonestalkers[/url] do not hoard useless trinkets for trading or gazing upon like pining, slathering humans. For Hundred-Blood to claim prize - would mean Beastwoman tore shield from life and limbs of tough, worthy foe. Is proof of pride for [url=glossary:prima]Prima[/url] to tribe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Quer bater Hundred-Blood. Quer comer fígado de outras tribos [url=glossary:prima]Prima[/url] - provar Caçadores de Sombras são mais fortes, melhores predadores. Mas não tem que matar para ser o melhor. Pode deixar vivo ou pode ajudar Beastwoman proteger tribo. Ambos são boas escolhas para sobrevivência de todas as Fera, sim ".</DefaultText>
+      <DefaultText>"Want to beat Hundred-Blood. Want to eat liver of other tribe's [url=glossary:prima]Prima[/url] - prove Shadowhunters are stronger, better predators. But do not have to kill to be best. Can leave living or can help Beastwoman protect tribe. Both are good choices for survival of all Beastwomen, yep."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Estou ao seu serviço, Fatebinder." Haygren acena para você respeitosamente.</DefaultText>
+      <DefaultText>"I'm at your service, Fatebinder." Haygren nods at you respectfully.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Você estaria disposto a confiar o cuidado da relíquia para as pessoas de [Plainsgate]? A menos que ... [url=glossary:bleden mark]Bleden Mark[/url] as ordens dizem o contrário?" Ele olha para você esperançoso.</DefaultText>
+      <DefaultText>"Would you be willing to entrust the care of the relic to the people of [Plainsgate]? Unless... [url=glossary:bleden mark]Bleden Mark[/url]'s orders say otherwise?" He looks at you hopefully.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Entendo." Ele olha para longe, com os olhos baixos. "Se essas são as ordens do [url=glossary:bleden mark]Bleden Mark[/url], eu entendo."</DefaultText>
+      <DefaultText>"I see." He looks away, his eyes downcast. "If those are [url=glossary:bleden mark]Bleden Mark[/url]'s orders, I understand."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -415,116 +415,116 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Entendido, Fatebinder. Eu não falarei disso novamente."</DefaultText>
+      <DefaultText>"Understood, Fatebinder. I won't speak of it again."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"O quê? Realmente? Toda a tinta que eu poderia usar e você simplesmente me entregaria? Eu faria uma anotação de sua generosidade estupefante, mas agora essa tinta é escassa de novo ... Espero que este plano termine com você roubando de volta o Everwell. Se apenas para preservá-lo para a história, é claro ... "</DefaultText>
+      <DefaultText>"What? Really? All the ink I could ever use and you'd just give it away? I'd make a note of your stupefying generosity but now that ink is scarce again... I hope this plan ends with you stealing back the Everwell. If only to preserve it for history, of course..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Pegue."</DefaultText>
+      <DefaultText>"Take it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Eu não sei o que dizer." Ele fica boquiaberto com você, espantado.</DefaultText>
+      <DefaultText>"I.. don't know what to say." He gapes at you in astonishment.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Humanos matam humanos. É o que os humanos fazem. Mesmo agora, [url=glossary:kyros]Kyros[/url] 'bandos caçam uns aos outros - ao mesmo tempo em que caçadores humanos chamam os Tiersmen à extinção."</DefaultText>
+      <DefaultText>"Humans kill humans. Is what humans do. Even now, [url=glossary:kyros]Kyros[/url]' packs hunt each other - while also hunting humans called Tiersmen to extinction."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"O que os humanos estão fazendo em den-place chamado [Plainsgate]? Cravando, caçando, vivendo, mijando. Não são tão diferentes das Fera."
+      <DefaultText>"What are humans doing in den-place called [Plainsgate]? Rutting, hunting, living, pissing. Are not so different from Beastwomen."
 
-Ela rosna, mostrando a Haygren suas presas.
+She snarls, showing Haygren her fangs.
 
-"[url=glossary:stonestalker]Stonestalker[/url] tribo é livre agora para manter den como os seres humanos. Tem crescido forte de Archon of Stone rumblings, de Archon's earth-mágica surgindo através Azure-terras. Então, estão caçando, estão crescendo e re-reivindicando território".</DefaultText>
+"[url=glossary:stonestalker]Stonestalker[/url] tribe is free now to keep den like humans. Has grown strong from Archon of Stone's rumblings, from Archon's earth-magic surging through Azure-lands. So [url=glossary:stonestalkers]Stonestalkers[/url] are hunting, are growing and re-claiming territory."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Quem conhece as mentes dessas criaturas?" Ele olha para Kills-in-Shadow. "Talvez seu companheiro possa saber."</DefaultText>
+      <DefaultText>"Who knows the minds of those creatures?" He glances at Kills-in-Shadow. "Perhaps your companion might know."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"A violência contra os seres humanos é sempre justificada. Porque sempre os humanos estão provocando fera. Estão esfaqueando as Bestas com paus afiados ou cortando palavras."</DefaultText>
+      <DefaultText>"Violence against humans is always justified. Because always humans are provoking Beastwomen. Are stabbing at Beastwomen with sharpened sticks or cutting words." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Como eu disse antes, os Beastmen estão tentando recuperar suas terras ancestrais desde o [url=glossary:edict]Edict[/url] devastado Azure. Até agora, eles estão conseguindo."</DefaultText>
+      <DefaultText>"Like I said before, the Beastmen are trying to reclaim their ancestral lands ever since the [url=glossary:edict]Edict[/url] devastated Azure. So far, they're succeeding."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"O que você faz em [Plainsgate]?"</DefaultText>
+      <DefaultText>"What do you do in [Plainsgate]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Um pouco de tudo, na verdade. Sou decentemente prático com ferramentas e os prédios daqui sempre precisam de reparos."</DefaultText>
+      <DefaultText>"A little bit of everything, really. I'm decently handy with tools, and the buildings here are always in need of repairs."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Claro, meu serviço para [url=glossary:bleden mark]Bleden Mark[/url] tem prioridade sobre qualquer um desses."</DefaultText>
+      <DefaultText>"Of course, my service to [url=glossary:bleden mark]Bleden Mark[/url] takes priority over any of that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Ela rosna e estala suas mandíbulas. "Garra esquerda não é tão implacável quanto Kills-in-Shadow. É um bom e obediente filhote. Não caçaria humanos sem ordens do bando-alfa, a menos que os humanos fossem uma ameaça a Beastman."</DefaultText>
+      <DefaultText>She growls and snaps her jaws. "Left-Claw is not as ruthless as Kills-in-Shadow. Is good, obedient whelp. Would not hunt humans without orders from pack-Alpha, unless humans were threat to Beastman."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Essa foi fácil."</DefaultText>
+      <DefaultText>"That was easy."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Você será compensado."</DefaultText>
+      <DefaultText>"You'll be compensated."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Eu sei muito quando vejo um."</DefaultText>
+      <DefaultText>"I know a good deal when I see one."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Bom. Por favor, veja o que eu faço."</DefaultText>
+      <DefaultText>"Good. Please see that I do."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"No entanto, deixe-me ser claro - eu não juntei a sua causa. Se a qualquer momento parece que você pode perder ou eu estou em perigo, minha ajuda acaba. Sem ressentimentos."</DefaultText>
+      <DefaultText>"However, let me be clear - I haven't joined your cause. If at any point it looks like you might lose or I'm in danger, my help ends. No hard feelings."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"[url=glossary:bleden mark]Bleden Mark[/url] precisa de algo feito?"</DefaultText>
+      <DefaultText>"Does [url=glossary:bleden mark]Bleden Mark[/url] need something done?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Oh, nada disso. Esse é um assunto pessoal."</DefaultText>
+      <DefaultText>"Oh, nothing like that. This is a personal matter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"E isso lhe dá uma desculpa para interferir nos negócios da Fatebinder?"</DefaultText>
+      <DefaultText>"And this gives you an excuse to interfere in Fatebinder business?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Eu não quis ofender!" Ele levanta as mãos. "Eu só queria oferecer uma alternativa."</DefaultText>
+      <DefaultText>"I meant no offense!" He holds up his hands. "I just wanted to offer an alternative."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -534,183 +534,183 @@ Ela rosna, mostrando a Haygren suas presas.
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Saia do meu caminho, ou então."</DefaultText>
+      <DefaultText>"Get out of my way, or else."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"De nada, Haygren."</DefaultText>
+      <DefaultText>"You're welcome, Haygren."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Se eu descobrir que você mentiu para mim e está usando o Everwell para ganho pessoal ..."</DefaultText>
+      <DefaultText>"If I find out you lied to me and are using the Everwell for personal gain..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Não se preocupe, Fatebinder. Apenas um bobo se atreveria a atravessar você, e eu não sou bobo."</DefaultText>
+      <DefaultText>"Don't worry, Fatebinder. Only a fool would dare to cross you, and I'm no fool."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"As pessoas de [Plainsgate] nunca esquecerão sua generosidade, Fatebinder."</DefaultText>
+      <DefaultText>"The people of [Plainsgate] will never forget your generosity, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Nó Aleatório 161</DefaultText>
+      <DefaultText>Random Node 161</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Os anéis podem ser tomados pela força ou por truques, mas o favor é ganho através de ações. Você faz bem em saber a diferença." Barik concorda.</DefaultText>
+      <DefaultText>"Rings can be taken by force or trickery, but favor is earned through deeds. You do well to know the difference." Barik nods. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Ela bufa. "Por que dar aos outros quando pode manter para o próprio pacote?"</DefaultText>
+      <DefaultText>She snorts. "Why give to others when can keep for own pack?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Estamos aqui para trocar conchas com os habitantes locais, ou o quê? Espero que você possa pelo menos comprar algo com todos esses favores que você coleciona." Verso cruza os braços e balança a cabeça.</DefaultText>
+      <DefaultText>"Are we here to trade seashells with the locals, or what? I hope you can at least buy something with all these favors you collect." Verse crosses her arms and shakes her head.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Boas ações não vão alimentar ou vestir você, Fatebinder. Se você insistir em entregar tudo sem compensação, você vai acabar faminto e nu com um cordão vazio. Além disso, aquele item continha mágica - algo que você poderia estudar para mais adiante seu próprio poder! " Ela sacode a cabeça.</DefaultText>
+      <DefaultText>"Good acts aren't going to feed or clothe you, Fatebinder. If you insist on giving everything away without compensation, you'll end up hungry and naked with an empty ringcord. Plus, that item held magic - something you could study to further your own power!" She shakes her head.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Nunca dê nada de graça. Suponho que você está comprando a boa vontade do acordo, mas pagando muito acima do valor de mercado, se você me perguntar ... não que você fez."</DefaultText>
+      <DefaultText>"Never give anything away for free. I suppose you are purchasing the goodwill of the settlement, but you paying far above market value, if you ask me... not that you did."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Como você entrou no serviço [url=glossary:bleden mark]Bleden Mark[/url]?"</DefaultText>
+      <DefaultText>"How did you enter [url=glossary:bleden mark]Bleden Mark[/url]'s service?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Ele só apareceu na minha casa um dia." Ele coça a parte de trás da cabeça. "Disse que ele estava me observando, que havia algo único em mim e perguntou se eu queria me tornar parte de algo maior. Como eu poderia dizer não a isso?"</DefaultText>
+      <DefaultText>"He just showed up in my home one day." He scratches the back of his head. "Said he'd been watching me, that there was something unique about me, and asked if I wanted to become part of something greater. How could I say no to that?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Ele faz uma aparição de vez em quando e me pergunta sobre coisas que estão acontecendo em [Plainsgate], e eu faço o meu melhor para mantê-lo preenchido. Nada mais do que isso."</DefaultText>
+      <DefaultText>"He makes an appearance once in a while and asks me about things that have been going on in [Plainsgate], and I do my best to keep him filled in. Nothing more to it than that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Existe algo que eu possa fazer por você?"</DefaultText>
+      <DefaultText>"Is there something I can do for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Eu só queria que você soubesse que muitos de nós são gratos por ter restaurado a terra depois que [url=glossary:cairn]Cairn[/url] rasgou a terra. A vida em [Plainsgate] é difícil, mas pelo menos não precisamos nos preocupar com fome."</DefaultText>
+      <DefaultText>"I just wanted you to know that a lot of us here are grateful that you got the farmland restored after [url=glossary:cairn]Cairn[/url] tore the land up. Life in [Plainsgate] is tough but at least we don't have to worry about starvation."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Ela lambe suas presas, olhos vermelhos te observando com uma diversão afiada. Ela sussurra, mas depois balança a cabeça, pensando melhor no que quer que esteja prestes a roncar - abençoadamente não te entregando.</DefaultText>
+      <DefaultText>She licks her fangs, crimson eyes watching you with a keen amusement. She chuffs but then shakes her head, thinking better of whatever she'd been about to rumble - blessedly not giving you away.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Haygren olha entre você, incerto, antes de desviar o olhar.</DefaultText>
+      <DefaultText>Haygren glances between you, unsurely, before averting his gaze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Ela enrola suas garras alongadas e perversamente curvadas enquanto ela ronca seu aviso.
+      <DefaultText>She curls her elongated, wickedly curved claws as she rumbles her warning.
 
-"Não culpe Beastwoman por falta de paciência. Será que os seres humanos também não atacam moscas zumbindo, pululantes?"</DefaultText>
+"Do not blame Beastwoman for lacking patience. Do humans not also swat at buzzing-biting, swarming flies?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Talvez sabiamente, Haygren não diz nada em resposta à Fera Enlouquecida - encolhendo-se ligeiramente e lambendo os lábios secos e rachados. Entretanto, ele olha de relance como se dissesse: "Vêem?" antes de desviar o olhar.</DefaultText>
+      <DefaultText>Perhaps wisely, Haygren says nothing in reply  to the incensed Beast - shrinking in on himself slightly and licking dry, chapped lips. However, he furrows you a glance as if to say, 'See?' before looking away.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Ele considera a Beastwoman com interesse momentâneo, considerando sua explicação perspicaz. Mas no final ele cheira e encolhe os ombros, sem prestar atenção.</DefaultText>
+      <DefaultText>He regards the Beastwoman with momentary interest, considering her insightful explanation. But ultimately he sniffs and shrugs, paying it no mind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Alpha tem planos de ajudar Left-Claw para Kills-in-Shadow, sim? Não gostaria de perturbar Beastwoman, sim?"</DefaultText>
+      <DefaultText>"Alpha has plans to help Left-Claw for Kills-in-Shadow, yep? Would not want to upset Beastwoman, yep?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Agora não, Beastwoman. Os humanos estão falando."</DefaultText>
+      <DefaultText>"Not now, Beastwoman. The humans are talking."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Claro, eu vou ajudá-lo."</DefaultText>
+      <DefaultText>"Of course, I'm going to help him."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Eu não decidi qual curso de ação eu vou tomar ainda."</DefaultText>
+      <DefaultText>"I haven't decided what course of action I'll take yet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Ela bufa e se acomoda, olhando perigosamente Haygren enquanto ela traça o comprimento da cicatriz retorcida que corta seu peito.</DefaultText>
+      <DefaultText>She huffs and settles down, eying Haygren dangerously as she traces the length of the gnarled scar that bisects her chest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Ela bufa e se acomoda, olhando perigosamente Haygren enquanto ela traça o comprimento da cicatriz retorcida que corta seu peito.</DefaultText>
+      <DefaultText>She huffs and settles down, eying Haygren dangerously as she traces the length of the gnarled scar that bisects her chest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>Ela rosna violentamente, mas eventualmente se acomoda, olhando perigosamente para Haygren enquanto ela traça o comprimento da cicatriz retorcida que corta seu peito.</DefaultText>
+      <DefaultText>She snarls viciously but eventually settles down, eying Haygren dangerously as she traces the length of the gnarled scar that bisects her chest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Você sabe alguma coisa sobre os Spires no [url=glossary:stone sea]Stone Sea[/url]?"</DefaultText>
+      <DefaultText>"Do you know anything about the Spires in the [url=glossary:stone sea]Stone Sea[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Eu não confio em ninguém que afirme - esses monumentos não compartilham seus segredos com ninguém." Ele olha para o norte, apertando os olhos ao fazê-lo.</DefaultText>
+      <DefaultText>"I don't trust anyone that claims to - those monuments don't share their secrets with anyone." He gazes northward, squinting as he does so.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"É um pouco nebuloso daqui, mas na maioria dos dias o Aurora Spire se eleva no horizonte norte, perto de Gulfglow. Não é o que eu chamaria de visão reconfortante, mas pelo menos ajuda você a manter sua direção."</DefaultText>
+      <DefaultText>"It's a little hazy from here, but most days the Aurora Spire towers over the northern horizon, near Gulfglow. Not what I'd call a comforting sight, but at least it helps you keep your direction."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Eu não sei como você fez isso, mas as pessoas estão dizendo que você é responsável pelos tremores que param."
+      <DefaultText>"I don't know how you did it, but people are saying you are responsible for the quakes stopping."
 
-O homem se inclina profundamente diante de você. "[Plainsgate] está sempre em dívida com você."</DefaultText>
+The man bows deeply before you. "[Plainsgate] is forever in your debt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>As bochechas bronzeadas e desgastadas do homem se encolhem em uma carranca profundamente enrugada. Ele cruza os braços sobre o peito.
+      <DefaultText>The man's tanned, weathered cheeks scrunch into a deeply-lined scowl. He crosses his arms over his chest.
 
-"Quem?"</DefaultText>
+"Who?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"O que você quer dizer com 'quem?' O Arconte das Sombras, quem mais?</DefaultText>
+      <DefaultText>"What do you mean, 'who?' The Archon of Shadows, who else?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Oh, [url=glossary:bleden mark]Bleden Mark[/url] também queria que eu lhe dissesse que esta é sua chance de ver sua esposa novamente."</DefaultText>
+      <DefaultText>"Oh, [url=glossary:bleden mark]Bleden Mark[/url] also wanted me to tell you, this is your chance to see your wife again."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -720,31 +720,31 @@ O homem se inclina profundamente diante de você. "[Plainsgate] está sempre em 
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Ele dá de ombros e olha para a distância.
+      <DefaultText>He shrugs and glances off into the distance.
 
-"Só o Arconte de que eu ouvi é o [url=glossary:kyros]Kyros[/url] derrubado na guerra. Aquele [url=glossary:edict]Edict[/url] destruiu nosso maldito reino."</DefaultText>
+"Only Archon I've heard of is the one [url=glossary:kyros]Kyros[/url] felled in the war. That [url=glossary:edict]Edict[/url] ripped our damn realm apart."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Ele olha silenciosamente para você.</DefaultText>
+      <DefaultText>He glares silently back at you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Então, o que está acontecendo com sua esposa?"</DefaultText>
+      <DefaultText>"So what's going on with your wife?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Desta vez, é tanto o choque quanto a raiva que passam por seu rosto antes que ele consiga educar sua expressão.
+      <DefaultText>This time it's both shock and rage that flashes over his face before he manages to school his expression.
 
-Voz baixa, ele ferve. "Que porra você pensa, Fatebinder? Olha, mesmo que você queira dizer bem, a melhor maneira de me ajudar é apenas pegar suas informações e seguir em frente. Faça o que o Archon of Shadows quer, e eu e Elaine estaremos bem."</DefaultText>
+Voice low, he seethes. "What the fuck do you think, Fatebinder? Look, even if you mean well, the best way to help me with it is just to get your information and move on. Do what the Archon of Shadows wants, and me and Elaine will be just fine."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Sinto muito. Se houver algo que eu possa fazer, eu vou."</DefaultText>
+      <DefaultText>"I'm sorry. If there's anything I can do, I will."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -754,22 +754,22 @@ Voz baixa, ele ferve. "Que porra você pensa, Fatebinder? Olha, mesmo que você 
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>Ele cospe no chão. Seus olhos verdes olham seu rosto antes que ele esfregue uma sandália sobre a terra úmida. Mas no final ele apenas balança a cabeça, em silêncio.</DefaultText>
+      <DefaultText>He spits at the ground. His green eyes search your face before he scuffs a sandal over the moist dirt. But in the end he just shakes his head, silent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Ele atira em você um olhar conhecedor. "Então eu entendi que você sabe os detalhes mais sutis que envolvem o meu serviço?" Ele sorri, mas é um gesto amargo. "De qualquer forma, para nós dois, é melhor que eu não fale sobre isso. Você sabe tão bem quanto eu - [url=glossary:bleden mark]Bleden Mark[/url] pode estar assistindo."</DefaultText>
+      <DefaultText>He shoots you a knowing look. "Then I take it you know the finer details that entail my service?" He smiles but it's a bitter gesture. "Either way, for both of our sakes, it's better if I don't talk about it. You know as well as I do - [url=glossary:bleden mark]Bleden Mark[/url] may be watching."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Soa surpreendentemente ... não violento para alguém cujo nome atinge medo nos corações de homens e mulheres em todos os lugares."</DefaultText>
+      <DefaultText>"Sounds surprisingly... nonviolent for someone whose name strikes fear into the hearts of men and women everywhere."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Uau, foi exatamente assim que ele me recrutou!"</DefaultText>
+      <DefaultText>"Wow, that's exactly how he recruited me!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -779,32 +779,32 @@ Voz baixa, ele ferve. "Que porra você pensa, Fatebinder? Olha, mesmo que você 
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>Ele arrasta uma sandália na terra, um lampejo de raiva estragando suas feições antes de retornar um olhar atento ao seu rosto.</DefaultText>
+      <DefaultText>He scuffs one sandal into the dirt, a flash of anger marring his features before he returns an attentive gaze to your face.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Ele coça a parte de trás do pescoço e olha para os pés, desconfortável no momento de silêncio que se estende após sua explicação.</DefaultText>
+      <DefaultText>He scratches at the back of his neck and glances to his feet, uncomfortable in the moment of silence that stretches following his explanation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>Ele atira em você um olhar conhecedor. "Tenho certeza que foi."</DefaultText>
+      <DefaultText>He shoots you a knowing look. "I'm sure it was."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Por 'fazer uma aparição' você quer dizer continua a manter membros da família como reféns?"</DefaultText>
+      <DefaultText>"By 'make an appearance' you mean continues to hold family members hostage?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Você disse isso, não eu." Ele prende você com um olhar amargo. "De qualquer forma, para nós dois, é melhor que eu não fale sobre isso. Você sabe tão bem quanto eu - [url=glossary:bleden mark]Bleden Mark[/url] pode estar assistindo."</DefaultText>
+      <DefaultText>"You said it, not me." He pins you with a bitter stare. "Either way, for both of our sakes, it's better if I don't talk about it. You know as well as I do - [url=glossary:bleden mark]Bleden Mark[/url] may be watching."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Foi há alguns anos atrás. Eu cheguei em casa e o lugar estava quieto. Você sabe, o tipo de silêncio que rasteja por toda a sua pele?" Ele encolhe os ombros como se para agitar o sentimento. "Estava escuro por dentro e vazio, além da sombra de um homem. Eu pensei que ele viria me matar, mas ele só perguntou se eu queria me tornar parte de uma causa maior. Quero dizer, como eu poderia dizer não para aquele?"</DefaultText>
+      <DefaultText>"Was a few years back. I came home and the place was quiet. You know, the kind of quiet that crawls all over your skin?" He shrugs as if to shake the feeling. "It was dark inside and empty, aside from this shadow of a man. I thought he'd come to kill me, but he just asked if I wanted to become part of a greater cause. I mean, how could I say no to that?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

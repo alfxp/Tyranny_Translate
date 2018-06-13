@@ -1,235 +1,235 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\factionquestlines\rebel\fq_rb_cv_finalmeeting</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>59</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>O salão está cheio de sussurros abafados - alguns esperançosos, outros aterrorizados. Você ouve seu nome falado mais de uma vez, e nem sempre favoravelmente.
+      <DefaultText>The hall is full of hushed whispers - some hopeful, others terrified. You hear your name spoken more than once, and not always favorably.
 
-Quando você se aproxima, os sussurros cessam e todos olham para você imediatamente.</DefaultText>
+As you approach, the whispers cease, and everyone looks to you at once.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Fatebinder ... Arconte. Nós sabemos de [url=glossary:kyros]Kyros[/url] 'exército marchando para o sul, mas esperávamos ... tínhamos a impressão de que derrotar os outros Arcontes impediria esse avanço. É verdade o que ouvimos - que [url=glossary:kyros]Kyros[/url]' forças estão vindo de qualquer maneira? "
+      <DefaultText>"Fatebinder... Archon. We know of [url=glossary:kyros]Kyros[/url]' army marching South, but we had hoped... we were under the impression that defeating the other Archons would stem this advance. Is it true what we've heard - that [url=glossary:kyros]Kyros[/url]' forces are coming anyway?" 
 
-Dúvida, medo e determinação competem pelo domínio em seu tom abalado. Suas palavras vão definir o clima para a coalizão vir.</DefaultText>
+Doubt, fear and resolve vie for dominion in her shaken tone. Your words will set the mood for the coalition to come.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Eu não protegeria você da verdade. [url=glossary:kyros]Kyros[/url] está vindo para destruir tudo que construímos."</DefaultText>
+      <DefaultText>"I would not shield you from the truth. [url=glossary:kyros]Kyros[/url] is coming to destroy everything we've built." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Nó do banco 4</DefaultText>
+      <DefaultText>Bank Node 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>A Beastwoman brada alto, sua sede de sangue pela batalha a atiçando em uma ira de fogo. "Os soldados podem vir! E pode morrer! [url=glossary:stonestalkers]Stonestalkers[/url] vai lutar por Tiers-terras! Vai devastar e abater todos os últimos humanos que lutariam por [url=glossary:kyros]Kyros[/url] 'tribo!"</DefaultText>
+      <DefaultText>The Beastwoman brays loudly, her bloodlust for battle stoking her into a fiery rage. "Soldiers can come! And can die! [url=glossary:stonestalkers]Stonestalkers[/url] will fight for Tiers-lands! Will ravage and slaughter every last human who would fight for [url=glossary:kyros]Kyros[/url]' tribe!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>O Earthshaker inclina a cabeça e treme. "Nós nunca deveríamos ter deixado a misericórdia do Overlord ... nossa guilda está vulnerável, à beira da aniquilação."</DefaultText>
+      <DefaultText>The Earthshaker bows his head and trembles. "We should never have left the Overlord's mercy... our guild is vulnerable, on the brink of annihilation."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Não ... não estamos prontos para isso! [url=glossary:kyros]Kyros[/url] está chegando, mas é muito cedo! Não tivemos tempo para nos preparar de longe."</DefaultText>
+      <DefaultText>"No... we're not ready for this! [url=glossary:kyros]Kyros[/url] is coming, but it's too soon! We haven't had time to prepare by far." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Eu estava ao seu lado quando você fez o que era necessário no Posto Sentinela, e eu continuarei ao seu lado agora. Mesmo que [url=glossary:kyros]Kyros[/url] destrua essa coalizão, saberemos que ficamos bem diante de obstáculos intransponíveis e não vacilamos!"</DefaultText>
+      <DefaultText>"I was at your side when you did what was needed at Sentinel Stand, and I'll remain at your side now. Even if [url=glossary:kyros]Kyros[/url] shatters this coalition, we will know that we stood tall before insurmountable odds and did not falter!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Eu não vou ter minha guilda submetida à escravidão novamente. Estamos [url=glossary:kyros]Kyros[/url] 'brinquedos não mais." Ela acena para você. "Estamos dispostos a morrer por essa coalizão, aconteça o que acontecer."</DefaultText>
+      <DefaultText>"I won't have my guild subjected to slavery again. We are [url=glossary:kyros]Kyros[/url]' toys no longer." She nods to you. "We are willing to die for this coalition, come what may." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Merda. Eu estou em cima da minha cabeça? Eu estou na minha cabeça." Welby massagens sua sobrancelha e olha entre os líderes reunidos. "Estou começando a pensar que toda essa coalizão foi uma má ideia."</DefaultText>
+      <DefaultText>"Shit. Am I in over my head? I'm in over my head." Welby massages her brow and glances among the assembled leaders. "I'm beginning to think this whole coalition thing was a bad idea."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Eu sempre esperei ver o dia em que os Earthshakers pudessem estudar fora da autoridade. Mas eu nunca esperei morrer por esse sonho ..."</DefaultText>
+      <DefaultText>"I always hoped I would see the day when the Earthshakers could study outside of [url=glossary:kyros]Kyros[/url]' authority. But I never expected to die for that dream..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Agora não é hora de nos desintegrarmos em desespero! Escute-me, o Arconte vai ... o Arconte ..."
+      <DefaultText>"Now is not the time for us to crumble into despair! Listen to me, the Archon is going to... the Archon..." 
 
-Arri tenta fazer com que sua voz seja ouvida acima da ralé, mas ela deixa que ela se afogue - parecendo tão desanimada e sem esperança quanto qualquer uma das outras.</DefaultText>
+Arri tries to make her voice heard above the rabble, but she lets it drown her out - looking as dejected and hopeless as any of the others.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Você vai ficar calmo! Eu posso repelir [url=glossary:kyros]Kyros[/url] 'exército."</DefaultText>
+      <DefaultText>"You will be calm! I can repel [url=glossary:kyros]Kyros[/url]' army." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Nós sabíamos o que estávamos fazendo quando começamos esta coalizão".</DefaultText>
+      <DefaultText>"We knew what we were getting to when we started this coalition." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Se desistirmos agora, é tão bom como se nunca tivéssemos começado!"</DefaultText>
+      <DefaultText>"If we give up now, that's as good as if we never started!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Você tomou uma ferida na cabeça recentemente? Nós não temos forças para se levantar contra essa ameaça! Como você pode possivelmente ultrapassar o Império do Norte ao respirar no nosso pescoço?"</DefaultText>
+      <DefaultText>"Have you taken a head wound recently? We don't have the forces to stand against this threat! How can you possibly outmaneuver the Northern Empire as it breathes down our neck?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Há o ressonador no topo da montanha Spire. Eu posso usá-lo para lançar um [url=glossary:edict]Edict[/url]".</DefaultText>
+      <DefaultText>"There's the Resonator atop the Mountain Spire. I can use it to cast an [url=glossary:edict]Edict[/url]." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Nós sabíamos que esse dia chegaria. Eu tenho um plano para enfrentá-lo de frente."</DefaultText>
+      <DefaultText>"We knew this day would come. I have a plan to face it head-on."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>A sala fica silenciosa novamente enquanto todo mundo estuda você, suas palavras encontrando um lugar em sua imaginação que não existia um segundo antes.
+      <DefaultText>The room grows hushed again as everyone studies you, your words finding a place in their imagination that had not existed a second before.
 
-Arri fala com cuidado. "Você ... pretende emitir este [url=glossary:edict]Edict[/url] no Império do Norte? Esse é o seu plano?"</DefaultText>
+Arri speaks up with care. "Do you... intend on issuing this [url=glossary:edict]Edict[/url] on the Northern Empire? Is that your plan?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Uma demonstração apropriada do meu poder, você não acha?"</DefaultText>
+      <DefaultText>"A fitting demonstration of my power, don't you think?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Eu não quero me antecipar, mas acho que esta é a primeira vez que me sinto verdadeiramente ... verdadeiramente ... otimista de nossas chances." Um sorriso cauteloso cintila no rosto dela.
+      <DefaultText>"I don't want to get ahead of myself, but I think this is the first time I've felt truly... truly... optimistic of our chances." A cautious smile flickers to her face. 
 
-"Para enviar a magia do [url=glossary:kyros]Kyros[/url] de volta ao Norte ... poderia mudar tudo. Imagine o que as pessoas vão dizer!"</DefaultText>
+"To send the magic of [url=glossary:kyros]Kyros[/url] back upon the North... it could change everything. Just imagine what people will say!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Nó Cascata 4</DefaultText>
+      <DefaultText>Cascade Node 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Nós poderíamos usar algumas novas leis, não poderíamos? Os Tiers nunca tiveram tudo junto a esse respeito."</DefaultText>
+      <DefaultText>"We could use some new laws, couldn't we? The Tiers never quite had it all together in that respect." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Discutivelmente, a lei da terra é a mudança mais eficaz que [url=glossary:kyros]Kyros[/url] trouxe para Terratus. Se você trouxer uma versão mais favorável para os Tiers, acho que só poderia nos ajudar."</DefaultText>
+      <DefaultText>"Arguably, the law of the land is the most effective change that [url=glossary:kyros]Kyros[/url] brought to Terratus. If you would bring a more favorable version to the Tiers, I think it could only help us." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Leis que nos governam como um povo unificado, e não apenas um conjunto de poderes corruptos para escolher e escolher precedentes ... há potencial aqui, eu admito."</DefaultText>
+      <DefaultText>"Laws that govern us as a unified people, and not just a cluster of corrupt powers to pick and choose precedent... there's potential here, I admit."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Se você acha que pode aplicar um excelente padrão a todos e espero que todos vivam de acordo com isso, acostume-se a ficar desapontado. Não que eu seja contra você tentar."</DefaultText>
+      <DefaultText>"If you think you can apply some great standard to everyone and hope they will all live up to it, get used to being disappointed. Not that I'm against you trying." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Este reino precisa de nossa intervenção, e precisamos de uma estrutura que nos una. Unificar nossa definição de justiça sob uma única bandeira é a abordagem organizada".</DefaultText>
+      <DefaultText>"This realm needs our intervention, and we need a structure that binds us together. Unifying our definition of justice under a single banner is the organized approach."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Eu não sei por que eu não pensei nisso: um código de leis centralizado montado pelo melhor de nós para governar o resto. Precisamos de algo para nos reunir, e isso pode ser apenas isso".</DefaultText>
+      <DefaultText>"I don't know why I didn't think of it myself: a centralized code of law put together by the best of us to govern the rest. We need something to rally behind, and this might just be it." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"As feras não obedecem aos humanos. Não se curvar ou se curvar a choramingos e choramingos."
+      <DefaultText>"Beastwomen do not obey humans. Do not bend or bow to whimpers and whines."
 
-Ela coça uma crosta pungida e roxa. Ela pega de graça e depois come.
+She scratches at a puckered, purple scab. She picks it free and then eats it.
 
-"Mas a tribo do Cem-sangue escutará Fatebinder. Seguirá comandos chamados leis se isso é o que Fatebinder deseja."</DefaultText>
+"But Hundred-Blood's tribe WILL listen to Fatebinder. Will follow commands called laws if that is what Fatebinder desires."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Nos próximos dias, vou elaborar novas leis para o reino que construímos juntos, tirando o que aprendi."</DefaultText>
+      <DefaultText>"In the days to come, I will draft new laws for the realm we build together, taking from what I've learned." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Então seja, Archon, só espero que você saiba o que está fazendo."
+      <DefaultText>"So be it, then. Archon, I only hope you know what you're doing." 
 
-Ela aperta as mãos e os arcos. "As esperanças dessa coalizão vão com você."</DefaultText>
+She clasps her hands and bows. "The hopes of this coalition go with you." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Oh, você faz um bom argumento, mas o que é bom contra as forças de [url=glossary:kyros]Kyros[/url]? Que bom é algum de nós sem um plano, uma solução ?!"</DefaultText>
+      <DefaultText>"Oh, you make a good plea, but what good is it against the forces of [url=glossary:kyros]Kyros[/url]? What good are any of us without a plan, a solution?!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"É fácil dizer isso agora, mas algum de nós poderia ter visto a aniquilação no topo da colina para nos encontrar aqui? Porque eu não fiz isso!"
+      <DefaultText>"Easy to say that now, but could any of us have seen annihilation cresting the hill to meet us here? Because I didn't!" 
 
-Sua testa franze de raiva. "Fomos arrastados por você ... um soldado que se desgarrou na hierarquia do Overlord, desmantelando a própria conquista que você visitou em nossas cabeças. Tudo parecia tão promissor, como poderíamos recusar?"</DefaultText>
+Her brow furrows in anger. "We were swept up by you... a soldier gone rogue in the Overlord's hierarchy, dismantling the very conquest you visited upon our heads. It all sounded so promising, how could we refuse?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Vamos ficar juntos como uma força que não pode ser desafiada".</DefaultText>
+      <DefaultText>"We will stand together as a force that cannot be challenged."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Isso enviará uma mensagem clara para todos saberem - as camadas serão gratuitas".</DefaultText>
+      <DefaultText>"This will send a clear message for everyone to know - the Tiers will be free."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Mas o que vem a seguir, Arconte? O que dizer dos Filhotes e esse novo reino que conquistamos com o caos da conquista?"</DefaultText>
+      <DefaultText>"But what comes next, Archon? What of the Tiers, and this new realm we've carved out of the mayhem of conquest?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Juntos, comprometeremos um novo código que qualquer pessoa nas camadas pode usar para manter a ordem".</DefaultText>
+      <DefaultText>"Together, we will compromise on a new code that anyone in the Tiers can use to maintain order."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Minha vontade é lei e você seguirá as instruções que eu redigir ao pé da letra."</DefaultText>
+      <DefaultText>"My will is law, and you will follow the instructions I draft to the letter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Você tem sentimentos fortes sobre a justiça, o que é devido como um membro do tribunal de [url=glossary:tunon]Tunon[/url]." Ela franze a testa. "Mas sua proposta toca estranhamente em meus ouvidos. Algo sobre isso parece ... errado."</DefaultText>
+      <DefaultText>"You have strong feelings about justice, which you're owed as a member of [url=glossary:tunon]Tunon[/url]'s court." She frowns. "But your proposal rings strangely in my ears. Something about it feels... wrong." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Nossos destinos foram escolhidos pela vontade de poderes distantes. É hora de retomar o controle e determinar nosso novo rumo." Ela acena com a cabeça. "Bem falado, Arconte."</DefaultText>
+      <DefaultText>"Our fates have been chosen by the will of distant powers. It's time to take back control and determine our new course forward." She nods. "Well spoken, Archon." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Isso soa como uma perspectiva justa. Você não viu uma pequena parte dos Tiers. Se o melhor desse reino não tivesse se apoderado de você, duvido que fiquemos aqui em [url=glossary:ascension hall]Ascension Hall[/url] juntos." Ela sorri.</DefaultText>
+      <DefaultText>"That sounds like a fair prospect. You've seen no small part of the Tiers. If the best of this realm hadn't rubbed off on you already, I doubt we would stand here in [url=glossary:ascension hall]Ascension Hall[/url] together." She smiles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Ela olha para os líderes reunidos. "Coalizão, o que você diz?"</DefaultText>
+      <DefaultText>She looks to the assembled leaders. "Coalition, what say you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,7 +239,7 @@ Sua testa franze de raiva. "Fomos arrastados por você ... um soldado que se des
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Com unidade do nosso lado, podemos enfrentar qualquer ameaça."</DefaultText>
+      <DefaultText>"With unity on our side, we can face any threat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,62 +249,62 @@ Sua testa franze de raiva. "Fomos arrastados por você ... um soldado que se des
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Ela pisca para você e dá um passo incerto para trás, limpando a garganta.</DefaultText>
+      <DefaultText>She blinks at you and takes an uncertain step backward, clearing her throat. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Ela olha para os líderes reunidos. "Coalizão, o que você diz?"</DefaultText>
+      <DefaultText>She looks to the assembled leaders. "Coalition, what say you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Nó do banco 49</DefaultText>
+      <DefaultText>Bank Node 49</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Bem, se você quisesse assustar a todos nós até a morte, pelo menos você nos colocava na sala ao mesmo tempo para poupar o esforço."</DefaultText>
+      <DefaultText>"Well, if you wanted to scare us all to death, at least you got us in the room at the same time to spare yourself the effort." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Intimidação de [url=glossary:kyros]Kyros[/url] tende a ser cheia de glamour e carisma, como alguém tentando passar uma mensagem para um idiota. Pelo menos a sua assinatura terror é única e sutil". Ela pensa por um momento e encolhe os ombros. "Subtler"</DefaultText>
+      <DefaultText>"Intimidation from [url=glossary:kyros]Kyros[/url] tends to be full of glamor and showmanship, like someone trying to get a message across to a dullard. At least your signature terror is unique and subtle." She thinks for a moment and shrugs. "Subtler."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Franzindo a testa, Mattias cruza os braços e olha para você com ceticismo.</DefaultText>
+      <DefaultText>Frowning, Mattias crosses his arms and regards you with skepticism.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>O [url=glossary:sage]Sage[/url] faz um show de espalhar os braços e bocejar, mas você pode dizer que ela está realmente procurando a saída mais próxima.</DefaultText>
+      <DefaultText>The [url=glossary:sage]Sage[/url] makes a show of spreading her arms and yawning, but you can tell that she's actually searching for the nearest exit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Então nós trocamos um déspota por outro. Não que eu esteja reclamando ... Arconte." Isadora pigarreia e se curva.</DefaultText>
+      <DefaultText>"So we've traded one despot for another. Not that I'm complaining... Archon." Isadora clears her throat and bows. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>O Earthshaker intencionalmente evita o contato visual e traça o caminho de uma mariposa esvoaçando sobre o teto alto de [url=glossary:ascension hall]Ascension Hall[/url].</DefaultText>
+      <DefaultText>The Earthshaker pointedly avoids eye contact and traces the path of a moth fluttering about the high ceiling of [url=glossary:ascension hall]Ascension Hall[/url]. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>A Besta se coça e faz careta para os outros líderes reunidos.</DefaultText>
+      <DefaultText>The Beastwoman scratches herself and grimaces at the other assembled leaders.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Preocupe-se hoje. Parta amanhã para mim. [url=glossary:kyros]Kyros[/url] tornou-se um inimigo poderoso e gastarei todos os recursos para corrigir esse erro."</DefaultText>
+      <DefaultText>"Worry about today. Leave tomorrow to me. [url=glossary:kyros]Kyros[/url] has made a powerful enemy, and I will expend every resource correcting this error in judgment." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"O que você chama de 'caos' eu chamo de um bom começo. Meus futuros atos irão redefinir a atrocidade. Eu estou claro?"</DefaultText>
+      <DefaultText>"What you call 'mayhem' I call a good start. My future deeds will redefine atrocity. Do I make myself clear?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@ Sua testa franze de raiva. "Fomos arrastados por você ... um soldado que se des
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Os representantes da coalizão brigam entre si e Arri luta para encontrar uma voz na agitação crescente. Algo em seu olhar vazio faz com que eles caiam na linha, um por um, e aguardem sua palavra.</DefaultText>
+      <DefaultText>The coalition representatives bicker among themselves, and Arri struggles to find a voice in the growing unrest. Something about your empty stare causes them to gradually fall in line, one by one, and await your word.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

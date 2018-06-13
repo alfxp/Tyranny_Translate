@@ -1,452 +1,452 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\factionquestlines\rebel\fq_rb_arris_rebelpath_secondmeeting</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>148</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Eu não posso dizer que estou feliz em partir o pão com os gostos de você, mercenário. Sua banda não ajudou a conquistar os Tiers em primeiro lugar? Estranho que você viraria as costas para o seu ex-mestre."</DefaultText>
+      <DefaultText>"I can't say I'm pleased to break bread with the likes of you, mercenary. Did your band not help to conquer the Tiers in the first place? Strange that you would turn your back on your former master."   </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Fatebinder, eu estive querendo agradecer por sua ajuda em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. O trabalho na forja foi renovado, e em breve teremos as melhores armas e armaduras para esta coalizão sua. Desde que você mantenha [url=glossary:lethian's crossing]Lethian's Crossing[/url] seguro dos outros Arcontes, vamos nos divertir com o desafio de armar qualquer coisa que você consiga montar. "</DefaultText>
+      <DefaultText>"Fatebinder, I've been meaning to thank you for your help at [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Work at the forge has renewed, and we will soon have the finest arms and armor for this coalition of yours. Provided you keep [url=glossary:lethian's crossing]Lethian's Crossing[/url] safe from the other Archons, we will entertain the challenge of arming whatever motley you manage to assemble."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Arri está certo em ser cauteloso. Sua lealdade será provada com ação."</DefaultText>
+      <DefaultText>"Arri is right to be cautious. Your loyalty will be proven with action."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Welby se posicionou contra seus líderes para defender a sanidade. Acredito que a Irmandade merece uma segunda chance."</DefaultText>
+      <DefaultText>"Welby stood against her leaders to champion sanity. I believe the Brotherhood deserves a second chance."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Você fala como se nunca tivéssemos nos provado para um cliente antes. Quando chegar a hora, você verá a Fraternidade em toda a nossa glória comprometida com a sua causa. Temos muitos motivos para nivelar nossa fúria em [url=glossary:kyros]Kyros[/url] - você nunca duvida isto."</DefaultText>
+      <DefaultText>"You talk like we've never proven ourselves to a client before. When the time comes, you'll see the Brotherhood in our full glory committed to your cause. We have plenty of reason to level our fury at [url=glossary:kyros]Kyros[/url] - never you doubt it." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Raciocínio sólido. Eu só espero que compense a nosso favor. Você já liderou nossa coalizão até agora, então eu suponho que você sabe o que está fazendo."</DefaultText>
+      <DefaultText>"Sound reasoning. I only hope it pays off in our favor. You've led our coalition this far already, so I assume you know what you're doing." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Nossas diferenças de lado, agora que demonstramos a influência da coalizão no [url=glossary:lethian's crossing]Lethian's Crossing[/url], precisamos ampliar nossos horizontes."
+      <DefaultText>"Our differences aside, now that we've demonstrated the coalition's influence at [url=glossary:lethian's crossing]Lethian's Crossing[/url], we need to broaden our horizons."
 
-"Onde começar é problemático. Entre a guerra civil e as rebeliões isoladas nos níveis, pode ser difícil definir em quem confiar."</DefaultText>
+"Where to start is problematic. Between the civil war and the isolated rebellions across the Tiers, it may be difficult to pin down who to trust." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Eu entendo que você e [url=glossary:kyros]Kyros[/url] 'forças fizeram o bastante no Azure. Bem, como você gosta de uma segunda visita?"</DefaultText>
+      <DefaultText>"I understand you and [url=glossary:kyros]Kyros[/url]' forces did quite the number on Azure. Well, how do you fancy a second visit?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"O que vocês dois podem me dizer sobre essas rebeliões isoladas?"</DefaultText>
+      <DefaultText>"What can both of you tell me about these isolated rebellions?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Ela estuda você por um longo momento e depois suspira. "Quem sou eu para discutir com o disjuntor de cercos? Os [url=glossary:stonestalkers]Stonestalkers[/url] são uma idéia não convencional, eu concedo a você, mas poderia convidar mais problemas do que eles valem."
+      <DefaultText>She studies you for a long moment, and then sighs. "Who am I to argue with the breaker of sieges? The [url=glossary:stonestalkers]Stonestalkers[/url] are an unconventional idea, I grant you, but could invite more trouble than they're worth." 
 
-"Apenas mantenha sua mente aberta para a possibilidade do [url=glossary:unbroken]Unbroken[/url]."</DefaultText>
+"Just keep your mind open to the possibility of the [url=glossary:unbroken]Unbroken[/url]." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Raciocínio sólido, mas essa coalizão tem mais do que sua parcela de força e pouco intelecto. Sem ofensas. Precisamos de apoio arcano para ajudar nessa luta. Trabalhei com os Earthshakers no passado, e não acho que seria preciso muito para convencê-los a abandonar o navio. Se eles deixassem o [url=glossary:disfavored]Disfavored[/url], ele enfraqueceria o exército de Ashe e fortaleceria o nosso sem margem pequena. "</DefaultText>
+      <DefaultText>"Sound reasoning, but this coalition has more than its share of brawn, and precious little intellect. No offense. We need arcane support to help carry this fight. I've worked with the Earthshakers in the past, and I don't think it would take much to convince them to jump ship. If they left the [url=glossary:disfavored]Disfavored[/url], it would weaken Ashe's army and strengthen ours by no small margin." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Você esculpiu seu caminho através de Stalwart durante a conquista, então você deve saber algo sobre seus problemas atuais."</DefaultText>
+      <DefaultText>"You carved your way through Stalwart during the conquest, so you must know something of their current troubles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Os Earthshakers parecem nossa melhor aposta, vou tentar recrutá-los."</DefaultText>
+      <DefaultText>"The Earthshakers sound like our best bet, I will aim to recruit them." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Eu procurarei o [url=glossary:unbroken]Unbroken[/url] no [url=glossary:blade grave]Blade Grave[/url]."</DefaultText>
+      <DefaultText>"I will seek out the [url=glossary:unbroken]Unbroken[/url] in the [url=glossary:blade grave]Blade Grave[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Essa é a sua idéia - Beastmen? Convidar uma horda de selvagens mordidos por pulgas em [url=glossary:ascension hall]Ascension Hall[/url] está fora de questão. Podemos também abrir nossas portas para o [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <DefaultText>"That's your idea - Beastmen? Inviting a horde of flea-bitten savages into [url=glossary:ascension hall]Ascension Hall[/url] is out of the question. We might as well open our doors to the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"O que poderia o [url=glossary:stonestalkers]Stonestalkers[/url] adicionar à nossa coalizão?"</DefaultText>
+      <DefaultText>"What might the [url=glossary:stonestalkers]Stonestalkers[/url] add to our coalition?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Eu escolho o [url=glossary:stonestalkers]Stonestalkers[/url]. Precisamos de alguma brutalidade do nosso lado."</DefaultText>
+      <DefaultText>"I choose the [url=glossary:stonestalkers]Stonestalkers[/url]. We need some brutality on our side."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Eu serei o juiz de quem está apto para esta aliança."</DefaultText>
+      <DefaultText>"I will be the judge of who is fit for this alliance."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Todos os braços no Tiers significarão pouco se não houver ninguém para empunhá-los. Sugiro que sigamos o [url=glossary:unbroken]Unbroken[/url] como nosso próximo aliado. Eles causaram danos irreparáveis ​​aos [url=glossary:disfavored]Disfavored[/url] com armas recuperadas. Imagine o que eles poderiam fazer com [url=glossary:kyros]Kyros[/url]" próprio ferro? "</DefaultText>
+      <DefaultText>"All the arms in the Tiers will mean little if there's no one to wield them. I suggest we pursue the [url=glossary:unbroken]Unbroken[/url] as our next ally. They've done irreparable harm to the [url=glossary:disfavored]Disfavored[/url] with salvaged weapons. Imagine what they could do with [url=glossary:kyros]Kyros[/url]' own iron?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Qual dos [url=glossary:burning library]Burning Library[/url]? Poderíamos procurar ajuda lá?"</DefaultText>
+      <DefaultText>"What of the [url=glossary:burning library]Burning Library[/url]? Could we seek help there?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"O que mais eu deveria saber sobre o [url=glossary:blade grave]Blade Grave[/url]?"</DefaultText>
+      <DefaultText>"What else should I know about the [url=glossary:blade grave]Blade Grave[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Nós tivemos alguns Sábios se unindo à nossa causa - eles lutaram conosco - e morreram - durante o cerco. Pelo que eles me disseram, o [url=glossary:burning library]Burning Library[/url] está abandonado, exceto por algumas gangues do Chorus saqueando o que sobrou do lugar."</DefaultText>
+      <DefaultText>"We had a few Sages join our cause - they fought with us - and died - during the siege. From what they told me, the [url=glossary:burning library]Burning Library[/url] is abandoned, save for a few Chorus gangs looting what's left of the place."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Um ponto justo. Vou levar isso em consideração."</DefaultText>
+      <DefaultText>"A fair point. I'll take it into consideration."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Não se deixe atolar pelos caprichos da tradição passada. Quando chegar a hora, você precisará de toda a ajuda que puder obter. Além disso, você não gostaria de [url=glossary:kyros]Kyros[/url]" forças para recrutar o [url=glossary:stonestalkers]Stonestalkers[/url] antes que você teve um chance de conquistá-los. "</DefaultText>
+      <DefaultText>"Don't let yourself get bogged down by the whims of bygone tradition. When the time comes, you'll need all the help you can get. Besides, you wouldn't want [url=glossary:kyros]Kyros[/url]' forces to conscript the [url=glossary:stonestalkers]Stonestalkers[/url] before you had a chance to win them over." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"As pessoas de Stalwart são tipos independentes. Há pouca dúvida de que a guerra fortaleceu seu senso de orgulho nacional, mas pode ter distorcido isso também. Nós ouvimos que os [url=glossary:unbroken]Unbroken[/url] não têm amor perdido pelos antigos governantes de Stalwart - os Regentes. "</DefaultText>
+      <DefaultText>"The people of Stalwart are independent types. There's little doubt that the war strengthened their sense of national pride, but it may have twisted it as well. We hear that the [url=glossary:unbroken]Unbroken[/url] have no love lost for the old rulers of Stalwart - the Regents."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Força bruta! Brutalidade selvagem! Tenacidade segundo apenas para a Irmandade! O [url=glossary:stonestalkers]Stonestalkers[/url] não são apenas qualquer antiga tribo de cabeludas, essa tribo prosperou em um reino atormentado por[url=lore:edict_stone]the Edict of Stone.[/url] Precisamos desse tipo de fortaleza do nosso lado!"</DefaultText>
+      <DefaultText>"Raw strength! Savage brutality! Tenacity second only to the Brotherhood! The [url=glossary:stonestalkers]Stonestalkers[/url] aren't just any old tribe of hairy oafs, that tribe has thrived in a realm plagued by[url=lore:edict_stone]the Edict of Stone.[/url] We need that sort of fortitude on our side!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Você tem a sua escolha do mais forte - o 1122112222222222222222222222222222221122112, ou o [url=glossary:stonestalkers]Stonestalkers[/url] do [url=glossary:stone sea]Stone Sea[/url]. Quem você escolher, melhor levá-los ao nosso lado em breve. A guerra civil fez [url=glossary:kyros]Kyros[/url] 'forças mais agressivas para reivindicar o território. Nenhum dos essas rebeliões podem perdurar sem a ajuda de nossa coalizão ".</DefaultText>
+      <DefaultText>"You have your pick of the strongest - the [url=glossary:unbroken]Unbroken[/url] of the [url=glossary:blade grave]Blade Grave[/url], or the [url=glossary:stonestalkers]Stonestalkers[/url] of the [url=glossary:stone sea]Stone Sea[/url]. Whoever you choose, better get them on our side soon. The civil war has made [url=glossary:kyros]Kyros[/url]' forces more aggressive to claim territory. None of these rebellions can endure without our coalition's help." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Os filhos e filhas de Stalwart formaram sua própria coalizão chamada '[url=glossary:unbroken]Unbroken[/url]', e eles lutaram mais do que ninguém para empurrar as forças de [url=glossary:kyros]Kyros[/url] de suas terras. Poderíamos fazer bem em convidá-los para o nosso coletivo - para não mencionar trazer a luta para a porta do [url=glossary:graven ashe]Graven Ashe[/url]. "</DefaultText>
+      <DefaultText>"The sons and daughters of Stalwart formed their own coalition called the '[url=glossary:unbroken]Unbroken[/url],' and they've fought harder than anyone to push the forces of [url=glossary:kyros]Kyros[/url] from their lands. We could do well to invite them into our collective - not to mention bring the fight to [url=glossary:graven ashe]Graven Ashe[/url]'s doorstep."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Nó do banco 31</DefaultText>
+      <DefaultText>Bank Node 31</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Meus anéis estão no [url=glossary:stonestalkers]Stonestalkers[/url]. Já trabalhámos com tribos de Beastman no passado. Eles podem ser selvagens, mas eles reconhecem força e lealdade melhor do que a maioria dos humanos. Se você gosta do corte de seu jib, você pode localizá-los em o [url=glossary:stone sea]Stone Sea[/url]. "</DefaultText>
+      <DefaultText>"My rings are on the [url=glossary:stonestalkers]Stonestalkers[/url]. We've worked with Beastman tribes in the past. They may be savage, but they recognize strength and loyalty better than most humans. If you like the cut of their jib, you might track them down in the [url=glossary:stone sea]Stone Sea[/url]." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Vou procurar o [url=glossary:unbroken]Unbroken[/url]. Precisamos da força do velho Stalwart do nosso lado."</DefaultText>
+      <DefaultText>"I will seek the [url=glossary:unbroken]Unbroken[/url]. We need the strength of old Stalwart on our side." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Com essa mentalidade, eu diria que já vencemos." Welby lhe dá um sorriso feroz.
+      <DefaultText>"With that mindset, I'd say we've won already." Welby flashes you a fierce grin. 
 
-"Eu tenho conexões em [url=glossary:stone sea]Stone Sea[/url] que conhecem as rotas de patrulha [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Eles podem levá-lo para a região sem um arranhão".</DefaultText>
+"I have connections in [url=glossary:stone sea]Stone Sea[/url] who know the [url=glossary:scarlet chorus]Scarlet Chorus[/url] patrol routes. They can get you into the region without a scratch." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Escolha excelente. Eu sei que o [url=glossary:unbroken]Unbroken[/url] é ocupado pelo [url=glossary:disfavored]Disfavored[/url] e o [url=lore:edict_storms]Edict of Storms,[/url] mas você pode encontrá-los cooperativos se você ajudar a resolver os problemas deles. Welby, podemos despachar uma força para limpar as patrulhas inimigas que guardam o Suporte de Sentinela? Apenas para dispersar eles."</DefaultText>
+      <DefaultText>"Excellent choice. I know the [url=glossary:unbroken]Unbroken[/url] are occupied by the [url=glossary:disfavored]Disfavored[/url] and the [url=lore:edict_storms]Edict of Storms,[/url] but you might find them cooperative if you help sort out their problems. Welby, can we dispatch a force to clear out the enemy patrols guarding Sentinel Stand? Just to scatter them."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Uma boa escolha. Navegar na tempestade é difícil, mas vou implantar uma equipe de batedores para traçar uma rota para suas viagens. Sua passagem para o [url=glossary:blade grave]Blade Grave[/url] será clara."</DefaultText>
+      <DefaultText>"A fine choice. Navigating the storm is difficult, but I will deploy a team of scouts to plot a route for your travels. Your passage to the [url=glossary:blade grave]Blade Grave[/url] will be clear."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Então você deve entrar em contato com um membro de sua guilda o mais rápido possível. Qualquer soldado operando sob o comando de [url=glossary:graven ashe]Graven Ashe[/url] está em perigo de enfurecer os locais, e os Earthshakers estão atualmente separados da força principal."</DefaultText>
+      <DefaultText>"Then you should make contact with a member of their guild as soon as possible. Any soldier operating under [url=glossary:graven ashe]Graven Ashe[/url]'s command is in danger of enraging the locals, and the Earthshakers are presently separated from the main [url=glossary:disfavored]Disfavored[/url] force." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Há uma vitória simbólica em conquistar os servos leais de um Arconte à nossa causa - e se eles conhecem magia, essa é uma vantagem tática que não podemos ignorar."
+      <DefaultText>"There is a symbolic victory in winning over an Archon's loyal servants to our cause - and if they know magic, that's a tactical advantage we can't ignore."
 
-Arri bate o queixo em pensamento. "Se tivermos certeza de que os Earthshakers não permanecerão leais aos seus aliados e nos atacarão por dentro, então talvez este seja o curso correto de ação."</DefaultText>
+Arri taps her chin in thought. "If we are certain the Earthshakers won't stay loyal to their [url=glossary:disfavored]Disfavored[/url] allies and strike us from within, then perhaps this is the right course of action."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] nunca foi o nosso mestre. Fomos pagos com anéis e promessas, e recebemos metade do pagamento por nossos problemas. Aquele fanático sem mãe Raetommon também não ajudou nossa causa."
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] was never our master. We were paid with rings and promises, and received half payment for our troubles. That motherless fanatic Raetommon didn't help our cause none either."
 
-"Chame-nos o que quiser, mulher da Apex. Viemos para ter a chance de atacar as forças do [url=glossary:kyros]Kyros[/url]. Se você não nos quer, podemos encontrar nosso próprio caminho com menos insultos."</DefaultText>
+"Call us whatever you like, Apex woman. We've come for a chance to strike back at [url=glossary:kyros]Kyros[/url]' forces. If you don't want us, we can find our own way with fewer insults to boot." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Silêncio, vocês dois! Você não vê que essa briga só fortalece [url=glossary:kyros]Kyros[/url] 'forças?"</DefaultText>
+      <DefaultText>"Silence, both of you! Can't you see this bickering only strengthens [url=glossary:kyros]Kyros[/url]' forces?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Eu estou mais do que feliz em ignorar o fato de que esta coalizão é liderada por um servo de [url=glossary:kyros]Kyros[/url]. Se isso não é cooperação, então eu não sei o significado da palavra."</DefaultText>
+      <DefaultText>"I'm more than happy to overlook the fact that this coalition is led by a servant of [url=glossary:kyros]Kyros[/url]. If that isn't cooperation, then I don't know the meaning of the word."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Eu odeio que você esteja certo. Isso me faz pensar como a batalha no [url=lore:gates_judgment]Gates of Judgment[/url] teria ido, você estava lutando do nosso lado."</DefaultText>
+      <DefaultText>"I hate that you're right. It makes me wonder how the battle at the [url=lore:gates_judgment]Gates of Judgment[/url] would have gone, were you fighting on our side."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Não seja pego em pânico, Arri. Só porque nós marchamos com bolsos de tilintar não nos faz menos de um exército."</DefaultText>
+      <DefaultText>"Don't get caught up in a panic, Arri. Just because we march with jingling pockets doesn't make us any less of an army."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Por que tão desconfiados de seus compatriotas?"</DefaultText>
+      <DefaultText>"Why so untrusting of your countrymen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Podemos compartilhar este continente, mas todos aqui têm uma agenda que coloca seus interesses à frente de todos os outros. Nunca houve uma razão para os Tiers se unirem em torno de um objetivo comum ... até agora".
+      <DefaultText>"We may share this continent, but everyone here has an agenda that puts their interests ahead of everyone else's. There's never been a reason for the Tiers to rally around a common goal... until now."
 
-"Podemos objetivamente dizer que ninguém se beneficiará da subjugação sob a regra" [url=glossary:kyros]Kyros[/url] ". Quanto mais concordaremos, se nada mais."</DefaultText>
+"We can objectively say that no one will benefit from subjugation under [url=glossary:kyros]Kyros[/url]' rule. On that much we will agree, if nothing else." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Sem dúvida, as outras revoltas se recusarão a se unir à nossa coalizão, a menos que as ajudemos primeiro. Gestos de boa fé - você sabe como é."
+      <DefaultText>"Doubtless the other uprisings will outright refuse to join our coalition unless we help them first. Gestures of good faith - you know how it goes."
 
-"Mas nosso tempo e recursos são limitados, então acho que a primeira ordem é pesar quem merece nossa ajuda."</DefaultText>
+"But our time and resources are limited, so I guess the first order is to weigh who deserves our aid."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Eu mantive um olhar atento sobre o [url=glossary:blade grave]Blade Grave[/url] e seu conflito em desenvolvimento. Eu acho que seria um bom lugar para começar, mas só posso dizer o que eu sei."</DefaultText>
+      <DefaultText>"I've kept a close eye on the [url=glossary:blade grave]Blade Grave[/url] and its developing conflict. I think that would be a good place to start, but I can only tell you what I know." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Você também pode encontrar ajuda nas ruínas de Azure. Não é uma região bonita, mas você não encontrará nenhuma falta de coragem lá."</DefaultText>
+      <DefaultText>"You could also find help in the ruins of Azure. It's not a pretty region, but you'll find no lack of courage there."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Podemos encontrar alguns retardatários nas ruínas, mas precisamos de mais do que apenas alguns voluntários, precisamos de um exército. Vou enviar outro par de batedores para ver se podemos fazer contato com a liderança dos Sábios - o que restar dela - mas, por enquanto, vamos concentrar nossos esforços em quantidades conhecidas. "</DefaultText>
+      <DefaultText>"We might find a few stragglers in the ruins, but we need more than just a few volunteers, we need an army. I will send another pair of scouts to see if we can make contact with the Sages' leadership - whatever's left of it - but for now, let's focus our efforts on known quantities."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Tome cuidado se você digitar o [url=glossary:blade grave]Blade Grave[/url]. Eles dizem que as tempestades em torno de Sentinela Stand são poderosos o suficiente para retirar carne de osso. O [url=glossary:edict]Edict[/url] de Tempestades devastaram o reino no último ano da conquista, e continua até hoje."</DefaultText>
+      <DefaultText>"Take care if you enter the [url=glossary:blade grave]Blade Grave[/url]. They say the storms around Sentinel Stand are powerful enough to strip flesh from bone. The [url=glossary:edict]Edict[/url] of Storms devastated the realm in the last year of the conquest, and rages on to this day."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"O [url=glossary:edict]Edict[/url] foi uma maldição em [url=glossary:kyros]Kyros[/url] 'inimigos, embora tocou alguns de nós ainda mais profundo."</DefaultText>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] was a curse on [url=glossary:kyros]Kyros[/url]' enemies, though it touched some of us deeper still." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Os Tiersmen do [url=glossary:stone sea]Stone Sea[/url] são um povo isolado, e eles gostam desse jeito. Eles se apegam aos valores do Azure antigo, mesmo quando o reino se desmorona ao redor deles. Eles não toleram Beastman, [url=glossary:kyros]Kyros[/url] ou a maioria das pessoas quem vem de fora de suas fronteiras ".</DefaultText>
+      <DefaultText>"The Tiersmen of the [url=glossary:stone sea]Stone Sea[/url] are an isolated folk, and they like it that way. They'll cling to the values of old Azure even as the realm crumbles around them. They don't tolerate Beastman, [url=glossary:kyros]Kyros[/url]' ilk, or most anyone who comes from outside their borders." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Isso não deve ser um problema. Meus meninos vão receber a oportunidade." Ela acena para você. "Quando você chegar, espero que tenhamos limpado o caminho."</DefaultText>
+      <DefaultText>"That shouldn't be a problem. My boys will welcome the opportunity." She nods at you. "By the time you arrive, hopefully we'll have cleared the path." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Boa sorte, Fatebinder. Nossas esperanças vão com você. Eu sei que as paredes externas da Bancada da Sentinela são muito patrulhadas pelas forças e pelos [url=glossary:unbroken]Unbroken[/url] igualmente. Você pode encontrar alguma ajuda entre a devastação".</DefaultText>
+      <DefaultText>"Best of luck, Fatebinder. Our hopes go with you. I know that the outer walls of Sentinel Stand are much patrolled by [url=glossary:kyros]Kyros[/url]' forces and the [url=glossary:unbroken]Unbroken[/url] alike. You might find some help among the devastation."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"É melhor você começar nos Stone Downs. Os Beastmen que nós procuramos tomaram essa área para eles mesmos. Eles podem não receber sua vinda, mas eles vão apreciar sua força se você mostrar isso."
- 
-"Vou marcar o ponto no seu mapa."</DefaultText>
+      <DefaultText>"You'd best get started in the Stone Downs. The Beastmen we seek have taken that area for themselves. They might not welcome your coming, but they'll appreciate your strength if you show it."
+ 
+"I'll mark the spot on your map."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Tome cuidado com o recrutamento dessas ... coisas. Muitos dos homens-fera do Azure eram escravos antes que a guerra destruísse a região, então você pode encontrá-los sem pressa para ajudar a nossa causa."</DefaultText>
+      <DefaultText>"Take care with recruiting these... things. Many of Azure's Beastmen were slaves before the war shattered the region, so you might find them in no hurry to aid our cause." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] 'domínio afeta a todos nós, humanos e animais. Não é por isso que estamos aqui, porque buscamos um terreno comum?"</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' dominion affects us all, human and Beast alike. Isn't that why we're here, because we seek common ground?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Talvez ... talvez."</DefaultText>
+      <DefaultText>"Perhaps... perhaps."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Os Earthshakers estão jurados lutar com o [url=glossary:disfavored]Disfavored[/url]. Você tem alguma noção de como nós os convenceríamos a virar?"</DefaultText>
+      <DefaultText>"The Earthshakers are sworn to fight with the [url=glossary:disfavored]Disfavored[/url]. Do you have some notion of how we'd convince them to turn?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Nós precisamos dar-lhes uma razão convincente para arriscar a ira de Ashe, mas é importante notar que os Earthshakers são aliados mágicos para o [url=glossary:disfavored]Disfavored[/url] e nada mais. Salvar por algumas exceções, eles não compartilham os laços familiares que vinculam o legião."</DefaultText>
+      <DefaultText>"We'd need to give them a compelling reason to risk Ashe's wrath, but it's important to note that the Earthshakers are magical allies to the [url=glossary:disfavored]Disfavored[/url] and nothing more. Save for a few exceptions, they do not share the family ties that bind the legion."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Os Sábios e os Tidecasters resistiram por um longo tempo, mas é claro que viram tempos difíceis. Os Earthshakers optaram pelo caminho mais fácil. Suas pesquisas e crescimento floresceram com o apoio dos [url=glossary:kyros]Kyros[/url] e dos Archons, embora, é claro, o custo de alienar quaisquer colegas ".</DefaultText>
+      <DefaultText>"The Sages and the Tidecasters held out for a long while, but of course they've seen hard times. The Earthshakers opted for the easier route. Their research and growth have flourished with the backing of [url=glossary:kyros]Kyros[/url] and the Archons, though of course at the cost of alienating any colleagues." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Estas são pessoas que fizeram uma vida fora de estudar é apenas chefe do patrão, não o verdadeiro objeto de sua lealdade".</DefaultText>
+      <DefaultText>"These are folks who have made a life out of studying [url=glossary:cairn]Cairn[/url] - [url=glossary:graven ashe]Graven Ashe[/url] is just the boss' boss, not the true object of their loyalty."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"O que mais eu deveria saber sobre o [url=glossary:blade grave]Blade Grave[/url]?"</DefaultText>
+      <DefaultText>"What else should I know about the [url=glossary:blade grave]Blade Grave[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Os [url=glossary:unbroken]Unbroken[/url] mostram persistência incrível para permanecer na área. Parece que eles não vão desistir de seu país enquanto qualquer um deles ainda estiver de pé. Eu não posso nem imaginar como eles suportaram esse tempo."</DefaultText>
+      <DefaultText>"The [url=glossary:unbroken]Unbroken[/url] show incredible persistence to remain in the area. It seems they will not give up their country while any of them yet stand. I can't even imagine how they've endured this long." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"O [url=glossary:edict]Edict[/url] de Storms rasga as ruínas do antigo Stalwart, então prepare-se para se proteger de um ataque de poeira e destroços. Agora, mais do que nunca, é um território duro e implacável."</DefaultText>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] of Storms tears at the ruins of old Stalwart, so prepare to gird yourself against an onslaught of dust and debris. Now more than ever, it's a harsh, unforgiving territory."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"O [url=glossary:edict]Edict[/url] foi uma maldição em [url=glossary:kyros]Kyros[/url] 'inimigos, embora tocou alguns de nós ainda mais profundo."</DefaultText>
+      <DefaultText>"The [url=glossary:edict]Edict[/url] was a curse on [url=glossary:kyros]Kyros[/url]' enemies, though it touched some of us deeper still." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Poderíamos fazer muito pior do que colocar espadas em mãos merecedoras." Zdenya sorri com orgulho. "O que quer que aconteça, certifique-se de voltar para [url=glossary:ascension hall]Ascension Hall[/url] em uma peça. Esta coalizão precisa de seu líder, e eu odiaria para o [url=glossary:forge-bound]Forge-Bound[/url] cair de volta em [url=glossary:kyros]Kyros[/url] 'mãos."</DefaultText>
+      <DefaultText>"We could do a lot worse than put [url=glossary:forge-bound]Forge-Bound[/url] swords in deserving hands." Zdenya beams with pride. "Whatever happens, make sure you come back to [url=glossary:ascension hall]Ascension Hall[/url] in one piece. This coalition needs its leader, and I would hate for the [url=glossary:forge-bound]Forge-Bound[/url] to fall back into [url=glossary:kyros]Kyros[/url]' hands." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Se vamos conquistá-los, comece por fazer contato com minha amiga Isadora. Quando, pela última vez, trocamos cartas, ela estava perto de [Plainsgate] e ainda pode estar lá."</DefaultText>
+      <DefaultText>"If we're going to win them over, start by making contact with my friend Isadora. When last we exchanged missives, she was near [Plainsgate] and may still be there." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Se vamos conquistá-los, comece por fazer contato com minha amiga Isadora. Quando, pela última vez, trocamos cartas, ela estava perto de [Plainsgate] e ainda pode estar lá."</DefaultText>
+      <DefaultText>"If we're going to win them over, start by making contact with my friend Isadora. When last we exchanged missives, she was near [Plainsgate] and may still be there." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"A vulnerabilidade dos magos pode torná-los mais receptivos à nossa oferta. Talvez nunca tenhamos uma chance melhor de transformá-los para o nosso lado."</DefaultText>
+      <DefaultText>"The vulnerability of the mages could make them more receptive to our offer. We may never get a better chance to turn them to our side."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Já que o [url=glossary:stone sea]Stone Sea[/url] está rastejando com o Coro, eu imagino que Isadora poderia abrir mão do traje tradicional do Earthshaker. Nós sempre dizíamos uns aos outros se tivéssemos que falar sobre assuntos terríveis e ficar preocupados se estivéssemos sendo observados, usaríamos a frase" Eu venderia meu braço esquerdo por um pouco de vinho sableroot e responderia com 'desculpe, eu compartilhei o último dos meus com os Feras'. se é seguro falar ".</DefaultText>
+      <DefaultText>"Since the [url=glossary:stone sea]Stone Sea[/url] is crawling with the Chorus, I'd imagine Isadora might forgo the traditional Earthshaker garb. We always told each other if we had to speak about dire matters and worried we're being observed, we'd use the phrase 'I'd sell my left arm for some sableroot wine' and reply with 'sorry, I shared the last of mine with the Beasts.' if it's safe to talk."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Encontre-a - ajude-a, se puder - e faça o que puder para trazê-la de volta."
+      <DefaultText>"Find her - help her, if you can - and do whatever you can to bring them around."
 
-"Estaremos aqui, reunindo nossas forças e montando forjas para armar a coalizão. Boa sorte, Fatebinder."</DefaultText>
+"We'll be here, gathering our strength and setting up forges to arm the coalition. Best of luck, Fatebinder." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Já que o [url=glossary:stone sea]Stone Sea[/url] está rastejando com o Coro, eu imagino que Isadora poderia abrir mão do traje tradicional do Earthshaker. Nós sempre dizíamos uns aos outros se tivéssemos que falar sobre assuntos terríveis e ficar preocupados se estivéssemos sendo observados, usaríamos a frase" Eu venderia meu braço esquerdo por um pouco de vinho sableroot e responderia com 'desculpe, eu compartilhei o último dos meus com os Feras'. se é seguro falar ".</DefaultText>
+      <DefaultText>"Since the [url=glossary:stone sea]Stone Sea[/url] is crawling with the Chorus, I'd imagine Isadora might forgo the traditional Earthshaker garb. We always told each other if we had to speak about dire matters and worried we're being observed, we'd use the phrase 'I'd sell my left arm for some sableroot wine' and reply with 'sorry, I shared the last of mine with the Beasts.' if it's safe to talk."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Encontre-a - ajude-a, se puder - e faça o que puder para trazê-la de volta."
+      <DefaultText>"Find her - help her, if you can - and do whatever you can to bring them around."
 
-"Estaremos aqui, reunindo nossas forças e montando forjas para armar a coalizão. Boa sorte, Fatebinder."</DefaultText>
+"We'll be here, gathering our strength and setting up forges to arm the coalition. Best of luck, Fatebinder." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Fatebinder, eu ofereço meu apoio nesta missão. O [url=glossary:blade grave]Blade Grave[/url] é um lugar de ... de memória. Deixei muitas coortes enterradas entre as ruínas, e nenhuma pequena parte de mim também."</DefaultText>
+      <DefaultText>"Fatebinder, I offer you my support on this mission. The [url=glossary:blade grave]Blade Grave[/url] is a place of... of memory. I left many cohorts buried among the ruins, and no small part of myself as well."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Você poderia elaborar?"</DefaultText>
+      <DefaultText>"Could you elaborate?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Vou considerar sua oferta, mas não faço promessas."</DefaultText>
+      <DefaultText>"I'll consider your offer, but I make no promises."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Eu prefiro manter tópicos de guerra entre nós. Você é livre para fazer tratados como achar melhor, mas eu estou menos inclinado a depositar minha confiança no sul." Ele olha para Arri e de volta para você.</DefaultText>
+      <DefaultText>"I would rather keep topics of war between us. You are free to make treaties as you see fit, but I am less inclined to place my trust in the South." He glances to Arri and back at you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Eu perdi compatriotas às centenas no último dia da campanha de Stalwart, e pelos meus problemas me tornei fundido nesta armadura. O [url=glossary:blade grave]Blade Grave[/url] é o último lugar que eu já senti ... humano. Isso é tudo o que vou dizer sobre isso agora "</DefaultText>
+      <DefaultText>"I lost countrymen by the hundreds in the last day of the Stalwart campaign, and for my troubles I became fused in this armor. The [url=glossary:blade grave]Blade Grave[/url] is the last place I ever felt... human. That is all I will say about it now." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Você investiu muito nessa missão. Claro que pode me acompanhar."</DefaultText>
+      <DefaultText>"You have much invested in this mission. Of course you can accompany me." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Eu aprecio isso, Fatebinder. [url=glossary:graven ashe]Graven Ashe[/url] está atento e compreensivo para cada uma das suas tropas, e agrada-me ver o seu exemplo em você."</DefaultText>
+      <DefaultText>"I appreciate that, Fatebinder. [url=glossary:graven ashe]Graven Ashe[/url] is attentive and understanding to each of his troops, and it pleases me to see his example in you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Boa sorte, Fatebinder. Nossas esperanças vão com você. Eu sei que as paredes externas da Bancada da Sentinela são muito patrulhadas pelas forças e pelos [url=glossary:unbroken]Unbroken[/url] igualmente. Você pode encontrar alguma ajuda entre a devastação".</DefaultText>
+      <DefaultText>"Best of luck, Fatebinder. Our hopes go with you. I know that the outer walls of Sentinel Stand are much patrolled by [url=glossary:kyros]Kyros[/url]' forces and the [url=glossary:unbroken]Unbroken[/url] alike. You might find some help among the devastation."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Eu vou apontar-lhe o caminho para o Sentinela Stand. Levaria-me cem vidas para esquecer as antigas muralhas, ou o dia em que o [url=glossary:edict]Edict[/url] quebrou o nosso avanço ..."</DefaultText>
+      <DefaultText>"I will point you the way to Sentinel Stand. It would take me a hundred lifetimes to forget those old walls, or the day the [url=glossary:edict]Edict[/url] shattered our advance..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Eu entendo que você tem suas prioridades e sua maneira de fazer as coisas. Eu apenas pensei ..." Ele olha para o outro lado, incapaz ou sem vontade de terminar o pensamento.</DefaultText>
+      <DefaultText>"I understand you have your priorities and your way of getting things done. I just thought..." He looks away, unable or unwilling to finish the thought.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Isso é tudo? Sua maneira mudou".</DefaultText>
+      <DefaultText>"Is that all? Your manner has changed."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Barik fica ereto, e por um momento você não pode dizer se ele vai atacar ou cair em si mesmo. Você está preparado para qualquer coisa. Depois de uma longa pausa, os ombros caem um pouco.</DefaultText>
+      <DefaultText>Barik stands straighter, and for a moment you can't tell if he's going to lash out or crumple into himself. You are prepared for anything. After a long pause, his shoulders sag the slightest bit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Meu grupo marchou sobre Sentinela pé para completar uma missão ... nós falhamos. As paredes da fortaleza nos desafiou, eo último Regent of Stalwart se recusou a encontrar-nos na batalha. A vinda de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] cortar-nos de nosso objetivo . Devido a isso, o [url=glossary:blade grave]Blade Grave[/url] é também um lugar de arrependimento."</DefaultText>
+      <DefaultText>"My cohort marched on Sentinel Stand to complete a mission... we failed. The walls of the keep defied us, and the last Regent of Stalwart refused to meet us in battle. The coming of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] cut us off from our objective. Because of this, the [url=glossary:blade grave]Blade Grave[/url] is also a place of regret."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,29 +456,29 @@ Arri bate o queixo em pensamento. "Se tivermos certeza de que os Earthshakers n�
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Se a coalizão já se degenerou para isso, então não posso deixar de lamentar nossas chances".</DefaultText>
+      <DefaultText>"If the coalition has degenerated to this already, then I can't help but mourn our chances." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Nós não devemos julgar a Irmandade sobre as ações do falecido Primeiro Irmão, e nós seríamos tolos para transformar qualquer um corajoso o suficiente para lutar pelos Tiers."
+      <DefaultText>"We should not judge the Brotherhood on the actions of the late First Brother, and we'd be fools to turn anyone brave enough to fight for the Tiers."
 
-Eb acena com um sorriso satisfeito. "Além disso, ter mercenários do nosso lado faz com que isso pareça uma guerra adequada."</DefaultText>
+Eb nods with a satisfied smile. "Besides, having mercenaries on our side makes this feel like a proper war."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Lembre-se de que vocês idiotas estão aqui porque toleramos a ideia de cooperação. Isso tem seus limites." Ela acena para você.</DefaultText>
+      <DefaultText>"Remember that you idiots are here because we've tolerated the idea of cooperation. That has its limits." She nods to you. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Eu tive que dizer a eles quantas vezes?" Eb revira os olhos. "Talvez tudo o que os Arcontes precisam fazer seja sentar e nos deixar discutir e discutir até nos separarmos."</DefaultText>
+      <DefaultText>"I've had to tell them this how many times?" Eb rolls her eyes. "Maybe all the Archons need to do is sit back and let us argue and bicker until we disband."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"As feras são as mais selvagens ferozes em todos os níveis. A maior tribo - [url=glossary:stonestalkers]Stonestalkers[/url] em Azure-lands - seguirá Alpha para Kills-in-Shadow. Irá lutar ao lado dos humanos mais fortes para sobreviver."</DefaultText>
+      <DefaultText>"Beastwomen are most savage-fierce fighters in all of Tiers-lands. Largest tribe - [url=glossary:stonestalkers]Stonestalkers[/url] in Azure-lands - will follow Alpha to Kills-in-Shadow. Will fight beside strongest human to survive."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,290 +488,290 @@ Eb acena com um sorriso satisfeito. "Além disso, ter mercenários do nosso lado
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Ela calça alegremente, a língua pendendo, gotejando escravos sobre os dentes. Ela lambe o sangue de seus lábios e rosna ansiosamente.
+      <DefaultText>She pants happily, tongue lolling, dripping slaver over her teeth. She licks blood from her lips and growls eagerly.
 
-"Beastwomen lutarão por Alpha. Ajudará Kills-in-Shadow vingar a tribo caída - vai rasgar-rasgar [url=glossary:kyros]Kyros[/url] em pedaços e devorar o fígado de [url=glossary:prima]Prima[/url] humano!"</DefaultText>
+"Beastwomen will fight for Alpha. Will help Kills-in-Shadow avenge fallen tribe - will rip-tear [url=glossary:kyros]Kyros[/url] to chunks and devour human [url=glossary:prima]Prima[/url]'s liver!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>A Beastwoman encolhe seus ombros carnudos. "Sempre os seres humanos estão temendo a natureza. Tumult em terras de pedra fez [url=glossary:stonestalker]Stonestalker[/url] tribo mais forte do que nunca. O que é bom para as tribos, é bom para Alpha."</DefaultText>
+      <DefaultText>The Beastwoman shrugs her meaty shoulders. "Always humans are fearing nature. Tumult in Stone-lands has made [url=glossary:stonestalker]Stonestalker[/url] tribe stronger than ever before. What's good for tribes, is good for Alpha." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Sério? Você está me dizendo que eu não posso vê-los se afogar em um lago de lava?" Ela cruza os braços e exala em exasperação.
+      <DefaultText>"Seriously? You're telling me I don't get to watch them drown in a lake of lava?" She folds her arms and exhales in exasperation.
 
-"Contanto que eu tenha a chance em breve ..."</DefaultText>
+"As long as I get the chance soon..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Você espera que eu coopere com os guerreiros de Stalwart? Foi a teimosia deles que me colocou nessa armadura e ofendeu o General com perdas incontáveis!" Barik massageia a testa de seu elmo.</DefaultText>
+      <DefaultText>"You expect me to cooperate with warriors of Stalwart? It was their stubbornness that put me in this armor, and grieved the General with uncounted losses!" Barik massages the brow of his helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>O mestre [url=glossary:forge-bound]Forge-Bound[/url] facilita a volta para considerar Barik de uma posição de segurança. "Ninguém está tirando conclusões precipitadas aqui, meu amigo de ferro. Eu preferiria nos ver aliados aos Earthshakers, eu mesmo. Esta coalizão precisa de inteligência e estratégia para evitar os erros do passado."</DefaultText>
+      <DefaultText>The [url=glossary:forge-bound]Forge-Bound[/url] Master eases back to regard Barik from a position of safety. "No one's jumping to conclusions here, my ironclad friend. I would rather see us allied to the Earthshakers, myself. This coalition needs intellect and strategy if we're to avoid the mistakes of the past." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Ela pisca para ele duas vezes. "Você é um espécime notável, não é? Quando este conflito acabar, você deve permitir que eu inspecione o seu terno."</DefaultText>
+      <DefaultText>She blinks at him twice. "You are a remarkable specimen, aren't you? When this conflict is over, you must allow me to inspect that suit of yours." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Poderíamos fazer muito pior do que colocar espadas em mãos merecedoras." Zdenya sorri com orgulho. "O que quer que aconteça, certifique-se de voltar para [url=glossary:ascension hall]Ascension Hall[/url] em uma peça. Esta coalizão precisa de seu líder, e eu odiaria para o [url=glossary:forge-bound]Forge-Bound[/url] cair de volta em [url=glossary:kyros]Kyros[/url] 'mãos."</DefaultText>
+      <DefaultText>"We could do a lot worse than put [url=glossary:forge-bound]Forge-Bound[/url] swords in deserving hands." Zdenya beams with pride. "Whatever happens, make sure you come back to [url=glossary:ascension hall]Ascension Hall[/url] in one piece. This coalition needs its leader, and I would hate for the [url=glossary:forge-bound]Forge-Bound[/url] to fall back into [url=glossary:kyros]Kyros[/url]' hands." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Fatebinder, eu ofereço meu apoio nesta missão. O [url=glossary:blade grave]Blade Grave[/url] é um lugar de ... de memória. Deixei muitas coortes enterradas entre as ruínas, e nenhuma pequena parte de mim também."</DefaultText>
+      <DefaultText>"Fatebinder, I offer you my support on this mission. The [url=glossary:blade grave]Blade Grave[/url] is a place of... of memory. I left many cohorts buried among the ruins, and no small part of myself as well."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Você poderia elaborar?"</DefaultText>
+      <DefaultText>"Could you elaborate?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Eu prefiro manter tópicos de guerra entre nós. Você é livre para fazer tratados como achar melhor, mas eu estou menos inclinado a depositar minha confiança no sul." Ele olha para Arri e de volta para você.</DefaultText>
+      <DefaultText>"I would rather keep topics of war between us. You are free to make treaties as you see fit, but I am less inclined to place my trust in the South." He glances to Arri and back at you.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Eu perdi compatriotas às centenas no último dia da campanha de Stalwart, e pelos meus problemas me tornei fundido nesta armadura. O [url=glossary:blade grave]Blade Grave[/url] é o último lugar que eu já senti ... humano. Isso é tudo o que vou dizer sobre isso agora "</DefaultText>
+      <DefaultText>"I lost countrymen by the hundreds in the last day of the Stalwart campaign, and for my troubles I became fused in this armor. The [url=glossary:blade grave]Blade Grave[/url] is the last place I ever felt... human. That is all I will say about it now." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Isso é tudo? Sua maneira mudou".</DefaultText>
+      <DefaultText>"Is that all? Your manner has changed."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Barik fica ereto, e por um momento você não pode dizer se ele vai atacar ou cair em si mesmo. Você está preparado para qualquer coisa. Depois de uma longa pausa, os ombros caem um pouco.</DefaultText>
+      <DefaultText>Barik stands straighter, and for a moment you can't tell if he's going to lash out or crumple into himself. You are prepared for anything. After a long pause, his shoulders sag the slightest bit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Meu grupo marchou sobre Sentinela pé para completar uma missão ... nós falhamos. As paredes da fortaleza nos desafiou, eo último Regent of Stalwart se recusou a encontrar-nos na batalha. A vinda de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] cortar-nos de nosso objetivo . Devido a isso, o [url=glossary:blade grave]Blade Grave[/url] é também um lugar de arrependimento."</DefaultText>
+      <DefaultText>"My cohort marched on Sentinel Stand to complete a mission... we failed. The walls of the keep defied us, and the last Regent of Stalwart refused to meet us in battle. The coming of [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edict[/url] cut us off from our objective. Because of this, the [url=glossary:blade grave]Blade Grave[/url] is also a place of regret."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Vou considerar sua oferta, mas não faço promessas."</DefaultText>
+      <DefaultText>"I'll consider your offer, but I make no promises."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Eu entendo que você tem suas prioridades e sua maneira de fazer as coisas. Eu apenas pensei ..." Ele olha para o outro lado, incapaz ou sem vontade de terminar o pensamento.</DefaultText>
+      <DefaultText>"I understand you have your priorities and your way of getting things done. I just thought..." He looks away, unable or unwilling to finish the thought.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Eu vou apontar-lhe o caminho para o Sentinela Stand. Levaria-me cem vidas para esquecer as antigas muralhas, ou o dia em que o [url=glossary:edict]Edict[/url] quebrou o nosso avanço ..."</DefaultText>
+      <DefaultText>"I will point you the way to Sentinel Stand. It would take me a hundred lifetimes to forget those old walls, or the day the [url=glossary:edict]Edict[/url] shattered our advance..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Você investiu muito nessa missão. Claro que pode me acompanhar."</DefaultText>
+      <DefaultText>"You have much invested in this mission. Of course you can accompany me." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Eu aprecio isso, Fatebinder. [url=glossary:graven ashe]Graven Ashe[/url] está atento e compreensivo para cada uma das suas tropas, e agrada-me ver o seu exemplo em você."</DefaultText>
+      <DefaultText>"I appreciate that, Fatebinder. [url=glossary:graven ashe]Graven Ashe[/url] is attentive and understanding to each of his troops, and it pleases me to see his example in you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"As paredes externas do Sentinel Stand Keep estão em ruínas, mas são muito patrulhadas por olheiros. Procure aliados entre a devastação e você pode encontrar alguns."</DefaultText>
+      <DefaultText>"The outer walls of Sentinel Stand Keep lay in ruins, yet are much patrolled by [url=glossary:unbroken]Unbroken[/url] scouts. Seek for allies among the devastation and you may find some."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"As paredes externas do Sentinel Stand Keep estão em ruínas, mas são muito patrulhadas por olheiros. Procure aliados entre a devastação e você pode encontrar alguns."</DefaultText>
+      <DefaultText>"The outer walls of Sentinel Stand Keep lay in ruins, yet are much patrolled by [url=glossary:unbroken]Unbroken[/url] scouts. Seek for allies among the devastation and you may find some."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Ah sim, vamos adicionar os discípulos do traidor Arconte ao nosso pequeno bando." Ela bate sua equipe no chão com um beicinho. "O que possivelmente poderia dar errado?"
+      <DefaultText>"Ah yes, let's add the disciples of the traitor Archon to our little band." She pounds her staff to the ground with a pout. "What could possible go wrong?"
 
-"Eu aplaudo a ideia de negar o conhecimento arcano do inimigo ... mas não tenho certeza se quero que os Earthshakers estejam sentados em nossa mesa se isso terminar bem."</DefaultText>
+"I applaud the idea of denying the enemy arcane knowledge... but I'm not sure I want the Earthshakers sitting at our table if this does end well."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Ênfase em se as coisas terminarem bem." Lantry levanta um dedo em sinal de protesto. "E nós não podemos afastar um aliado poderoso se quisermos ter sucesso. Confie em mim, eu também tenho minhas reservas sobre isso ... nós já temos mais do que nosso quinhão de rivalidade arcana nesta sala."</DefaultText>
+      <DefaultText>"Emphasis on IF things end well." Lantry raises a finger in protest. "And we can't turn away a potent ally if we want to succeed. Trust me, I also have my reservations about this... we already have more than our fair share of arcane rivalry in this room."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Lantry tem razão, precisamos de tudo o que pudermos, não vou afastar uma poderosa guilda mágica se for uma opção."</DefaultText>
+      <DefaultText>"Lantry has a point, we need all we can get, I won't turn away a powerful magical guild if it's an option."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Há pouca garantia de que os seguidores do [url=glossary:cairn]Cairn[/url] joguem bem com os outros se unindo à causa."</DefaultText>
+      <DefaultText>"There's little guarantee that [url=glossary:cairn]Cairn[/url]'s followers will play nice with the others rallying to the cause."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Vocês dois estão me dando dor de cabeça com essa conversa. Eu tomei minha decisão."</DefaultText>
+      <DefaultText>"The two of you are giving me a headache with this talk. I've made my decision."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Assim como eu não vou afastar a chance de dizer 'eu avisei' com bastante antecedência."</DefaultText>
+      <DefaultText>"Just as I won't turn away the chance to say 'I told you so' well in advance."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Sim, sim, suponho que, se você assumir a traição e a discordância, essas coisas têm um jeito de se realizar."</DefaultText>
+      <DefaultText>"Yes yes, I suppose if you assume betrayal and dissent, such things have a way of self-fulfilling."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Cheira a ferrugem e desespero. Pouco a nada resta do velho orgulho de Stalwart."</DefaultText>
+      <DefaultText>"It reeks of rust and desperation. Little to nothing remains of Stalwart's old pride." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Lembrá-lo de alguém? Não? Vou manter meus pensamentos para mim, então."</DefaultText>
+      <DefaultText>"Remind you of anyone? No? I'll keep my thoughts to myself, then." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Com essa mentalidade, eu diria que já vencemos." Welby lhe dá um sorriso feroz.
+      <DefaultText>"With that mindset, I'd say we've won already." Welby flashes you a fierce grin. 
 
-"Eu tenho conexões em [url=glossary:stone sea]Stone Sea[/url] que conhecem as rotas de patrulha [url=glossary:scarlet chorus]Scarlet Chorus[/url]. Eles podem levá-lo para a região sem um arranhão".</DefaultText>
+"I have connections in [url=glossary:stone sea]Stone Sea[/url] who know the [url=glossary:scarlet chorus]Scarlet Chorus[/url] patrol routes. They can get you into the region without a scratch." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Por que não tentamos recrutar os dois?"</DefaultText>
+      <DefaultText>"Why don't we try to recruit both?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"As pessoas de Stalwart têm batalha no sangue. Tanto quanto me mata admitir isto, eu ouvi de várias fontes que o 112211221111111111111111111111111111111 consideram o [url=glossary:unbroken]Unbroken[/url]" quase digno "até onde os adversários vão. Se o [url=glossary:disfavored]Disfavored[/url] respeitosamente a sua proeza, isso diz muito ".</DefaultText>
+      <DefaultText>"The people of Stalwart have battle in the blood. As much as it kills me to admit this, I've heard from several sources that the [url=glossary:disfavored]Disfavored[/url] consider the [url=glossary:unbroken]Unbroken[/url] 'almost worthy' as far as adversaries go. If the [url=glossary:disfavored]Disfavored[/url] begrudgingly respect their prowess, that says a lot."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Oh, nós certamente deveríamos tentar ... assumindo que todos estão dispostos a compartilhar a mesma tenda ... e assumindo que outros poderes não cheguem primeiro a eles. Com o tempo, deveríamos procurar reunir tantos aliados quanto pudermos. .. mas você é o nosso principal representante e não pode estar em dois lugares ao mesmo tempo, então ... a quem você deseja se aproximar primeiro? "</DefaultText>
+      <DefaultText>"Oh we certainly should try... assuming they're all willing to share the same tent... and assuming other powers don't get to them first.  In time, we should seek to gather as many allies as we can... but you're our top representative and can't be in two places at once so... whom do you wish to approach first?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Qual o valor que o [url=glossary:unbroken]Unbroken[/url] forneceria?"</DefaultText>
+      <DefaultText>"What value would the [url=glossary:unbroken]Unbroken[/url] provide?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Embora os Earthshakers não sejam um grupo muito grande, seus feitiços para moldar, mover e destruir pedras seriam um benefício extraordinário para sua coalizão ... e uma vantagem importante para negar o [url=glossary:disfavored]Disfavored[/url]".</DefaultText>
+      <DefaultText>"Though the Earthshakers aren't a very large group, their spells to shape, move, and destroy stone would be an extraordinary boon to your coalition... and an important advantage to deny the [url=glossary:disfavored]Disfavored[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"E mais importante, como o [url=glossary:vendrien guard]Vendrien Guard[/url], o [url=glossary:unbroken]Unbroken[/url] ainda abertamente desafiar [url=glossary:kyros]Kyros[/url] - mesmo o [url=glossary:edict]Edict[/url] de tempestades não silenciou completamente sua vontade. Qualquer um que determinado a lutar fará uma adição forte a nossa causa."</DefaultText>
+      <DefaultText>"And more importantly, like the [url=glossary:vendrien guard]Vendrien Guard[/url], the [url=glossary:unbroken]Unbroken[/url] still openly defy [url=glossary:kyros]Kyros[/url] - even the [url=glossary:edict]Edict[/url] of Storms has not completely silenced their will. Anyone that determined to fight will make a strong addition to our cause."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"O que a Guilda dos Earthshakers poderia oferecer à nossa coalizão?"</DefaultText>
+      <DefaultText>"What might the Earthshakers Guild offer our coalition?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Com o desaparecimento de [url=glossary:cairn]Cairn[/url], Radix é seu novo líder, mas Isadora, sua associada próxima, é como o velho Arconte de Pedra - teimoso e independente. E sua mentalidade dificilmente é incomum entre seus pares. Eu sei que muitos magos da terra considere [url=glossary:cairn]Cairn[/url] seu mestre, não [url=glossary:kyros]Kyros[/url] ou Ashe - um sentimento mantido quieto, mas um nós poderíamos explorar para os separar do rebanho ".</DefaultText>
+      <DefaultText>"With [url=glossary:cairn]Cairn[/url]'s demise, Radix is their new leader, but Isadora, his close associate, is like the old Archon of Stone - stubborn and independent. And her mindset is hardly uncommon amongst her peers. I know for a fact lots of the earth mages consider [url=glossary:cairn]Cairn[/url] their master, not [url=glossary:kyros]Kyros[/url] or Ashe - a sentiment kept quiet, but one we could exploit to cleave them from the herd." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Eu sinto que é imprudente nos cercar de místicos - especialmente aqueles extraídos de nossos inimigos. Precisamos de corpos mais quentes para defender nossas posses. Dito isto ... nós estaríamos realmente roubando de nossos inimigos para nos fortalecermos e ... bem, eu não posso argumentar contra uma boa estratégia como essa. "</DefaultText>
+      <DefaultText>"I feel it unwise to surround ourselves with mystics - especially ones drawn from our enemies. We need more warm bodies to defend our holdings. That said... we would indeed be stealing from our enemy to strengthen ourselves and... well I can't argue against sound strategy like that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Vou viajar para o [url=glossary:stone sea]Stone Sea[/url] e procurar por Isadora."</DefaultText>
+      <DefaultText>"I'll travel to the [url=glossary:stone sea]Stone Sea[/url] and look for Isadora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Então ... você organiza mensagens enigmáticas para se comunicar em situações comprometidas com todos os seus amigos? Qual é a história aqui?"</DefaultText>
+      <DefaultText>"So... do you arrange cryptic messages to communicate under compromised situations with all your friends? What's the story here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Vamos esperar que esse seu amigo seja útil."</DefaultText>
+      <DefaultText>"Let's hope this friend of yours proves helpful."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"É um hábito que caímos por conta das sensibilidades. Embora Isadora e eu somos ambos cidadãos do Império do Norte, ambos nascemos e fomos criados e Haven - e ambos juramos fidelidade aos Northern Archons de nossos próprios acordos, antes dessa guerra." "</DefaultText>
+      <DefaultText>"It's a habit we fell into on account of [url=glossary:disfavored]Disfavored[/url] sensibilities. Though Isadora and I are both citizens the Northern Empire, we were both born and raised and Haven - and both of us swore fealty to Northern Archons of our own accords, before this war."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] não se importam com o meu passado, eles acham que é estranho, mas os aliados do Earthshaker são profundamente desconfiados daqueles que não nasceram sob o regime do Overlord. Desde o [url=glossary:disfavored]Disfavored[/url] não precisam de mais razões para desconfiarem dela e de sua Guilda." eu e ela adquirimos o hábito de discutir nostalgia por meio de código. "</DefaultText>
+      <DefaultText>"The [url=glossary:forge-bound]Forge-Bound[/url] don't care about my past, they think it's quaint, really, but the Earthshaker's [url=glossary:disfavored]Disfavored[/url] allies are deeply mistrusting of those not born under the Overlord's regime. Since the [url=glossary:disfavored]Disfavored[/url] don't need more reasons to mistrust her and her Guild, she and I fell into the habit of discussing nostalgia through code."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Filhotes de Corações Rancos-fracos não podem ser comparados à força de [url=glossary:stonestalkers]Stonestalkers[/url]. Alfa não quer tribo de caçadores-guerreiros em seu próprio lado? Beastwoman são mais durões. Têm melhor destreza e são mais leais que humanos. Mas Alfa prefere lutar? [url=glossary:stonestalkers]Stonestalkers[/url] como inimigos? "</DefaultText>
+      <DefaultText>"Rancid-weak Chorus whelps cannot compare to strength of [url=glossary:stonestalkers]Stonestalkers[/url]. Does Alpha not want tribe of hunter-warriors on own side? Beastwoman are tougher. Have better prowess and are more loyal than humans. But Alpha would rather fight [url=glossary:stonestalkers]Stonestalkers[/url] as enemies? Why?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Por que não tentamos recrutar os dois?"</DefaultText>
+      <DefaultText>"Why don't we try to recruit both?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Oh, nós certamente deveríamos tentar ... assumindo que todos estão dispostos a compartilhar a mesma tenda ... e assumindo que outros poderes não cheguem primeiro a eles. Com o tempo, deveríamos procurar reunir tantos aliados quanto pudermos. .. mas você é o nosso principal representante e não pode estar em dois lugares ao mesmo tempo, então ... a quem você deseja se aproximar primeiro? "</DefaultText>
+      <DefaultText>"Oh we certainly should try... assuming they're all willing to share the same tent... and assuming other powers don't get to them first.  In time, we should seek to gather as many allies as we can... but you're our top representative and can't be in two places at once so... whom do you wish to approach first?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Qual dos [url=glossary:burning library]Burning Library[/url]? Poderíamos procurar ajuda lá?"</DefaultText>
+      <DefaultText>"What of the [url=glossary:burning library]Burning Library[/url]? Could we seek help there?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Nós tivemos alguns Sábios se unindo à nossa causa - eles lutaram conosco - e morreram - durante o cerco. Pelo que eles me disseram, o [url=glossary:burning library]Burning Library[/url] está abandonado, exceto por algumas gangues do Chorus saqueando o que sobrou do lugar."</DefaultText>
+      <DefaultText>"We had a few Sages join our cause - they fought with us - and died - during the siege. From what they told me, the [url=glossary:burning library]Burning Library[/url] is abandoned, save for a few Chorus gangs looting what's left of the place."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Podemos encontrar alguns retardatários nas ruínas, mas precisamos de mais do que apenas alguns voluntários, precisamos de um exército. Vou enviar outro par de batedores para ver se podemos fazer contato com a liderança dos Sábios - o que restar dela - mas, por enquanto, vamos concentrar nossos esforços em quantidades conhecidas. "</DefaultText>
+      <DefaultText>"We might find a few stragglers in the ruins, but we need more than just a few volunteers, we need an army. I will send another pair of scouts to see if we can make contact with the Sages' leadership - whatever's left of it - but for now, let's focus our efforts on known quantities."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Enquanto em tempos passados, armar Beastmen é muitas vezes um sinal de desespero ... estes são tempos desesperados. Eu acho que o [url=glossary:stonestalkers]Stonestalkers[/url] pode ser um aliado difícil de conquistar, mas eles são a tribo mais forte da terra agora - melhor tê-los como amigos ".</DefaultText>
+      <DefaultText>"While in ages past, arming one's Beastmen is often a sign of desperation... these are desperate times. I think the [url=glossary:stonestalkers]Stonestalkers[/url] may be a hard ally to win over, but they're the strongest tribe in the land right now - better to have them as friends."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"O [url=glossary:disfavored]Disfavored[/url] bateu o snot fora do [url=glossary:unbroken]Unbroken[/url], mas eles nunca reivindicaram o Sentinel Stand Keep. Os últimos vestígios dos regentes, os governantes de Stalwart, provavelmente ainda estão escondidos em sua fortaleza. Você também pode ter alguma sorte rondando as selvas do [url=glossary:blade grave]Blade Grave[/url] para [url=glossary:unbroken]Unbroken[/url] partidários ... mas eu imagino que eles são uma raça em extinção estes dias, eu não posso imaginar como eles vivem sendo perseguidos pelo [url=glossary:disfavored]Disfavored[/url] e atormentado pelo [url=glossary:edict]Edict[/url] de tempestades ".</DefaultText>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] beat the snot out of the [url=glossary:unbroken]Unbroken[/url], but they never did claim Sentinel Stand Keep. The last vestiges of the Regents, Stalwart's rulers, are probably still hiding in their fortress. You also might have some luck prowling the wilds of the [url=glossary:blade grave]Blade Grave[/url] for [url=glossary:unbroken]Unbroken[/url] partisans... but I imagine they're a dying breed these days, I can't imagine how they live being chased by the [url=glossary:disfavored]Disfavored[/url] and plagued by the [url=glossary:edict]Edict[/url] of Storms."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"O [url=glossary:disfavored]Disfavored[/url] bateu o snot fora do [url=glossary:unbroken]Unbroken[/url], mas eles nunca reivindicaram o Sentinel Stand Keep. Os últimos vestígios dos regentes, os governantes de Stalwart, provavelmente ainda estão escondidos em sua fortaleza. Você também pode ter alguma sorte rondando as selvas do [url=glossary:blade grave]Blade Grave[/url] para [url=glossary:unbroken]Unbroken[/url] partidários ... mas eu imagino que eles são uma raça em extinção estes dias, eu não posso imaginar como eles vivem sendo perseguidos pelo [url=glossary:disfavored]Disfavored[/url] e atormentado pelo [url=glossary:edict]Edict[/url] de tempestades ".</DefaultText>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] beat the snot out of the [url=glossary:unbroken]Unbroken[/url], but they never did claim Sentinel Stand Keep. The last vestiges of the Regents, Stalwart's rulers, are probably still hiding in their fortress. You also might have some luck prowling the wilds of the [url=glossary:blade grave]Blade Grave[/url] for [url=glossary:unbroken]Unbroken[/url] partisans... but I imagine they're a dying breed these days, I can't imagine how they live being chased by the [url=glossary:disfavored]Disfavored[/url] and plagued by the [url=glossary:edict]Edict[/url] of Storms."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"O [url=glossary:disfavored]Disfavored[/url] bateu o snot fora do [url=glossary:unbroken]Unbroken[/url], mas eles nunca reivindicaram o Sentinel Stand Keep. Os últimos vestígios dos regentes, os governantes de Stalwart, provavelmente ainda estão escondidos em sua fortaleza. Você também pode ter alguma sorte rondando as selvas do [url=glossary:blade grave]Blade Grave[/url] para [url=glossary:unbroken]Unbroken[/url] partidários ... mas eu imagino que eles são uma raça em extinção estes dias, eu não posso imaginar como eles vivem sendo perseguidos pelo [url=glossary:disfavored]Disfavored[/url] e atormentado pelo [url=glossary:edict]Edict[/url] de tempestades ".</DefaultText>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] beat the snot out of the [url=glossary:unbroken]Unbroken[/url], but they never did claim Sentinel Stand Keep. The last vestiges of the Regents, Stalwart's rulers, are probably still hiding in their fortress. You also might have some luck prowling the wilds of the [url=glossary:blade grave]Blade Grave[/url] for [url=glossary:unbroken]Unbroken[/url] partisans... but I imagine they're a dying breed these days, I can't imagine how they live being chased by the [url=glossary:disfavored]Disfavored[/url] and plagued by the [url=glossary:edict]Edict[/url] of Storms."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"O [url=glossary:disfavored]Disfavored[/url] bateu o snot fora do [url=glossary:unbroken]Unbroken[/url], mas eles nunca reivindicaram o Sentinel Stand Keep. Os últimos vestígios dos regentes, os governantes de Stalwart, provavelmente ainda estão escondidos em sua fortaleza. Você também pode ter alguma sorte rondando as selvas do [url=glossary:blade grave]Blade Grave[/url] para [url=glossary:unbroken]Unbroken[/url] partidários ... mas eu imagino que eles são uma raça em extinção estes dias, eu não posso imaginar como eles vivem sendo perseguidos pelo [url=glossary:disfavored]Disfavored[/url] e atormentado pelo [url=glossary:edict]Edict[/url] de tempestades ".</DefaultText>
+      <DefaultText>"The [url=glossary:disfavored]Disfavored[/url] beat the snot out of the [url=glossary:unbroken]Unbroken[/url], but they never did claim Sentinel Stand Keep. The last vestiges of the Regents, Stalwart's rulers, are probably still hiding in their fortress. You also might have some luck prowling the wilds of the [url=glossary:blade grave]Blade Grave[/url] for [url=glossary:unbroken]Unbroken[/url] partisans... but I imagine they're a dying breed these days, I can't imagine how they live being chased by the [url=glossary:disfavored]Disfavored[/url] and plagued by the [url=glossary:edict]Edict[/url] of Storms."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

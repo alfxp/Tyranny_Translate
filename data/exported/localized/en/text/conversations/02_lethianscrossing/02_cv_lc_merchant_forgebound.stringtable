@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_forgebound</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bem vindo amigo!" O comerciante grita para você, seu cinto tilintando com anéis. Ele acena com os braços em uma apresentação dramática de seus produtos. "O que o leva ao meu humilde posto de troca? Tem algo certo em mente ou apenas navegando?"</DefaultText>
+      <DefaultText>"Welcome, friend!" The merchant cries out to you, his belt jingling with rings. He waves his arms about in a dramatic presentation of his wares. "What brings you to my humble trading post? Have a certain something in mind or just browsing?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Estou à procura de ferro personalizado a partir do [url=glossary:forge-bound]Forge-Bound[/url]".</DefaultText>
+      <DefaultText>"I'm looking for custom iron from the [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,51 +26,51 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Trabalho personalizado? Você precisará falar com o [url=glossary:forge-bound]Forge-Bound[/url] eles mesmos - eles não costumam vender suas obras-primas - ou pelo menos, não sem discussões antes de forjar."
+      <DefaultText>"Custom work? You'll need to speak with the [url=glossary:forge-bound]Forge-Bound[/url] themselves - they do not usually sell their masterworks - or at least, not without discussions ahead of forging."
 
-"Eu vendo apenas as peças de aprendiz - trabalhos de ferro e bronze que são mais finos que quase todos os que você encontrará nas Camadas, mas para as [url=glossary:forge-bound]Forge-Bound[/url], essas peças não são dignas de coleção ou comemoração, e devem ser vendidas."</DefaultText>
+"I sell only the apprentice pieces - works of iron and bronze that are finer that almost any you'll find in the Tiers, but to the [url=glossary:forge-bound]Forge-Bound[/url], these pieces aren't worthy of collection or commemoration, and are to be sold."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"E se você deve perguntar, seja cauteloso em como você pechincha. Um mestre é um animal fácil de ofender - eles simplesmente não colocam o mesmo valor em um anel de cobre que o resto de nós faz."
+      <DefaultText>"And if you should ask, be cautious in how you haggle. A [url=glossary:forge-bound]Forge-Bound[/url] master is an easy beast to offend - they just don't put the same value on a copper ring that the rest of us do."
 
-Ele encolhe os ombros. "E lembre-se de que todo oficial em [url=glossary:kyros]Kyros[/url] 'exército quer um dia do seu tempo - tenha isso em mente."</DefaultText>
+He shrugs. "And remember that every officer in [url=glossary:kyros]Kyros[/url]' army wants a day of their time - keep that in mind."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Certamente, dê uma olhada ..."</DefaultText>
+      <DefaultText>"Most certainly, have a look..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"O que você pode me dizer sobre o Gino?"</DefaultText>
+      <DefaultText>"What can you tell me about Gino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Eu diria a você qualquer coisa que você quisesse se eu soubesse quem era."</DefaultText>
+      <DefaultText>"I would tell you anything you wanted if I knew who that was."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Eu nunca vi isso antes. Você terá que perguntar a um dos outros comerciantes."</DefaultText>
+      <DefaultText>"I have never seen that before. You'll have to ask one of the other merchants."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Você poderia me dizer alguma coisa sobre este selo? Eu encontrei em [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
+      <DefaultText>"Could you tell me anything about this seal? I found it in [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Oh, meu ..." Ele pára e apenas olha para você por um momento. "Fatebinder! Como ... maravilhoso é tê-lo em meu estande. Seu [url=glossary:edict]Edict[/url] geralmente mantém as pessoas longe, então qualquer cliente é um cliente bem-vindo! Com o que posso ajudá-lo?"</DefaultText>
+      <DefaultText>"Oh, my..." He stops himself and just stares at you for a moment. "Fatebinder! How... wonderful it is to have you at my stand. Your [url=glossary:edict]Edict[/url] usually keeps people away, so any customer is a welcome customer! What can I help you with?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Bem, se não é o Fatebinder!" O homem se inclina profundamente, fazendo uma produção disso. "Qualquer um que tenha o potencial de livrar o mundo da regra [url=glossary:kyros]Kyros[/url] é bem-vindo aqui! O que posso ajudá-lo hoje?"</DefaultText>
+      <DefaultText>"Well, if it isn't the Fatebinder!" The man bows deeply, making a production of it. "Anyone who has the potential of ridding the world of [url=glossary:kyros]Kyros[/url]' rule is welcome here! What can I help you with today?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

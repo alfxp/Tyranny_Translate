@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\0219_bs_patron_f_02</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Estou cansada da constante bajulação ... Há outras pessoas aqui. Vá falar com elas!"</DefaultText>
+      <DefaultText>"I'm tired of the constant under-the-breath fawning...There are other people here. Go talk to them!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Eu juro, é como se ele esquecesse que eu estou de pé ao lado dele e pode ouvir tudo o que ele está dizendo."</DefaultText>
+      <DefaultText>"I swear, it's like he forgets I'm standing right next to him and can hear everything he's saying."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Não importa onde eu vá, ele segue. Estou tão perto de sair e nunca mais voltar."</DefaultText>
+      <DefaultText>"It doesn't matter where I go, he follows. I'm this close to leaving and never coming back."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Eu não me importo se há um novo Overlord e todos nós podemos morrer para algum novo [url=glossary:edict]Edict[/url]! Ele realmente precisa de uma dica!"</DefaultText>
+      <DefaultText>"I don't care if there's a new Overlord and we might all die to some new [url=glossary:edict]Edict[/url]! He really needs take a hint!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

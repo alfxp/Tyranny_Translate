@@ -1,42 +1,42 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_poi_oldwall_02_not_bridge</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Você vê algum sigilo ou interruptores? Eu aposto que alguém está por perto e nos levará para o outro lado."</DefaultText>
+      <DefaultText>"Do you see any sigils or switches? I'd wager one's nearby that will get us across."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Deve haver um caminho através - devemos procurar por qualquer sigilo na pedra."</DefaultText>
+      <DefaultText>"There must be a way across - we should look for any sigils in the stone."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Beastwoman poderia arremessar Alfa através de. Mas como Alpha pata-paw de volta? Não pode saltar tal largura."</DefaultText>
+      <DefaultText>"Beastwoman could hurl Alpha across. But how would Alpha paw-paw back? Cannot leap such width."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Nó do banco 7</DefaultText>
+      <DefaultText>Bank Node 7</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"O quê? Ninguém poderia ser incomodado em deixar uma nota sobre como se passa? Um desperdício tão grande".</DefaultText>
+      <DefaultText>"What? No one could be bothered to leave a note as to how one gets across? Such a waste."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"O que é sobre os Oldwalls que tudo tem que ser tão complicado? Procure por um interruptor ou algo assim."</DefaultText>
+      <DefaultText>"What is it about the Oldwalls that everything has to be so complicated? Look for a switch or something." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Tem que haver um sigilo por aqui em algum lugar que controle esta ponte."</DefaultText>
+      <DefaultText>"There has to be a sigil around here somewhere that controls this bridge."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

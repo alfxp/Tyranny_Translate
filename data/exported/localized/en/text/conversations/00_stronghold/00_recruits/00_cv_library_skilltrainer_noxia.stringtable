@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_stronghold\00_recruits\00_cv_library_skilltrainer_noxia</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>23</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Salve, Fatebinder. Vamos treinar mais tarde, sim?"</DefaultText>
+      <DefaultText>"Hail, Fatebinder. Let's train later, yeah?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ei, chefe. Quero dizer Fatebinder. Fatebinder-chefe." Noxia rola seu ombro e olha para você com uma inclinação de seu queixo. "Precisa de algum treinamento, ou apenas o prazer da minha companhia?"</DefaultText>
+      <DefaultText>"Hey, boss. I mean Fatebinder. Fatebinder-boss." Noxia rolls her shoulder and regards you with a tilt of her chin. "Need some training, or just the pleasure of my company?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Eu gostaria de treinar."</DefaultText>
+      <DefaultText>"I'd like to train."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,19 +26,19 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sim, eu vejo você lá. Precisa de algo, ou você apenas gosta de olhar?"</DefaultText>
+      <DefaultText>"Yeah, I see you there. Need something, or do you just like to stare?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Você quer treinar, Fatebinder?"</DefaultText>
+      <DefaultText>"You looking to spar, Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Glory to [url=glossary:the voices of nerat]the Voices of Nerat[/url]! A impressionante torre que você tem aqui, Fatebinder. Seria uma pena se alguém ... te tirasse da borda!"
+      <DefaultText>"Glory to [url=glossary:the voices of nerat]the Voices of Nerat[/url]! Quite the impressive tower you have here, Fatebinder. It would be a shame if someone... pushed you off the edge!"
 
-O Blood Chanter agarra você pelos seus ombros e tenta levá-lo ao limite.</DefaultText>
+The Blood Chanter grips you by your shoulders and tries to wrestle you to the edge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,56 +58,56 @@ O Blood Chanter agarra você pelos seus ombros e tenta levá-lo ao limite.</Defa
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Sua cabeça se agarra quando ela dá o golpe. Atordoada, ela balança a cabeça para se recuperar e lambe um pouco do sangue que sai do nariz.</DefaultText>
+      <DefaultText>Her head snaps back as she takes the strike. Dazed, she shakes her head to recover, and licks some of the blood dribbling from her nose.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Ela bate no chão de pedra com força e quebra a parte de trás de sua cabeça. Olhando para o céu sem consciência evidente, você assume que ela está morta até que ela pisque e olhe para você.</DefaultText>
+      <DefaultText>She hits the stone floor hard and cracks the back of her head. Staring up at the sky with no evident consciousness, you assume she's dead until she blinks and looks at you. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Seus olhos se abrem enquanto ela faz um som doloroso e sufocante. Demora algum tempo até que ela se recupere totalmente, respirando com esforço enquanto tenta falar.</DefaultText>
+      <DefaultText>Her eyes snap open wide as she makes a painful, choking sound. It takes some time before she fully recovers, taking labored breaths as she attempts to speak.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ow. Eu gostaria de poder dizer que tomei decisões piores, mas esta foi uma má ... Bad Noxia!" Ela aperta o braço e aperta os olhos, suportando e saboreando a dor em igual medida.</DefaultText>
+      <DefaultText>"Ow. I wish I could say that I've made worse decisions, but this was a bad one... Bad Noxia!" She pinches her arm and squeezes her eyes shut, enduring and relishing the pain in equal measure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Como em nome dos Arcontes você chegou até aqui?"</DefaultText>
+      <DefaultText>"How in the name of the Archons did you get up here?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Por que você tentou me matar?"</DefaultText>
+      <DefaultText>"Why did you try to kill me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Ela lambe os lábios manchados de sangue e sorri. "Esse é o jeito do coro, Fatebinder. Se alguém não está tentando te matar e tomar o seu lugar, as chances são de que você está fazendo algo errado."
+      <DefaultText>She licks her blood-stained lips and smiles. "That's the Chorus way, Fatebinder. If someone isn't trying to kill you and take your place, chances are you're doing something wrong."
 
-"Pensei que poderia me pegar uma torre livre. Lição aprendida."</DefaultText>
+"Thought I could nab myself a free tower. Lesson learned." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Eu peguei um par de ganchos de cerco e escalei a borda." Ela encolhe os ombros. "Eu não me importo de dizer que meus braços estão cansados, o que é provavelmente o motivo de eu não ter lutado muito. Mais é a pena."</DefaultText>
+      <DefaultText>"I picked up a couple of siege hooks and scaled the edge." She shrugs. "I don't mind saying my arms are fucking tired, which is probably why I didn't put up much of a fight. More's the pity." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Desculpe pela coisa toda de 'matar você'. Se eu não puder tomar sua torre, eu prefiro um lugar em sua gangue. É melhor do que ser chutado pela borda, de qualquer maneira."
+      <DefaultText>"Sorry for the whole 'killing you' thing. If I can't take your tower, I'd prefer a place in your gang. It beats getting kicked over the edge, anyway."
 
-"Deixe-me viver e eu vou te ensinar o que eu sei. As Vozes não se oporiam se eu tirasse algum tempo da minha gangue habitual, então ... o que você diz?"</DefaultText>
+"Let me live and I'll teach you what I know. The Voices wouldn't object if I took some time away from my usual gang, so... what do you say?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ensina-me então. Tente e jogue bem desta vez."</DefaultText>
+      <DefaultText>"Teach me, then. Try and play nice this time."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,7 +122,7 @@ O Blood Chanter agarra você pelos seus ombros e tenta levá-lo ao limite.</Defa
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Você consegue torcer o braço em um ângulo não natural. Ela sorri ao som de ossos estalados, e depois ataca a cabeça para fugir da luta. Atordoada, ela balança a cabeça para refocar, embalando o braço na outra mão.</DefaultText>
+      <DefaultText>You manage to twist her arm at an unnatural angle. She grins at the sound of snapped bones, and then headbutts you to break away from the fight. Dazed, she shakes her head to refocus, cradling her arm in her other hand.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

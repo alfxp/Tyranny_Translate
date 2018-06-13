@@ -1,46 +1,46 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_burninglibrary\03_cv_int01_companion_symbols_disappear</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Nó Aleatório 1</DefaultText>
+      <DefaultText>Random Node 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Eu suspeito que essa barreira seja a primeira de várias, e que poucas delas sejam tão simples. Parece que os sábios se deliciam com soluções complexas."</DefaultText>
+      <DefaultText>"I suspect that this barrier is the first of several, and that few of them will be as simple. It would appear the Sages delighted in complex solutions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Então tudo o que eu tenho que fazer é tocar esse símbolo e a barreira se dissipar? Isso foi tão suspeitamente fácil que agora eu estou pensando que há uma armadilha aqui ... ou talvez nós desencadeamos um feitiço de aviso em outro lugar? Eu odeio esse lugar."</DefaultText>
+      <DefaultText>"So all I have to do is touch this symbol and the barrier dissipates? That was so suspiciously easy that now I'm thinking there's a trap here... or maybe we triggered a warning spell elsewhere? I hate this place."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Pode sentir o calor da marcação. Toque para quebrar a cerca mística. Mas talvez a marcação não funcione para outras armadilhas esperando no caminho."</DefaultText>
+      <DefaultText>"Can feel heat from marking. Touch to break mystic-fence. But maybe marking will not work for other traps waiting in path."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Viu? De vez em quando, as coisas são mais fáceis do que eu esperava. Porém, duvido que quaisquer outras barreiras sejam fáceis de contornar."
+      <DefaultText>"See? Every once in a great while, things are easier than I expect. Though, I doubt any other barriers are going to be this easy to bypass."
 
-"Mantenha essa frase. Isso é um bom sinal, se eles não tivessem garantido o Arquivo Silencioso, eles não teriam se dado ao trabalho de deixar códigos para os sábios que retornassem."</DefaultText>
+"Keep that phrase. This is a good sign, if they had NOT secured the Silent Archive, they wouldn't have bothered to leave pass codes for any returning Sages."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Bem, isso parece cortado e seco. Toque esse símbolo e veja o que acontece!"
+      <DefaultText>"Well, this looks cut and dried. Touch that symbol and see what happens!"
 
-"Embora eu tenha certeza de que, se houver outra barricada, não teremos esse tempo fácil. Vamos procurar mais desses livros."</DefaultText>
+"Although I'm sure if there's another barricade, we're not going to have this easy of a time. Let's look for more of those books."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Então, estamos tocando os símbolos agora para fazer com que as barreiras desapareçam? Não sei se os sábios tinham um talento para o dramático ou se ninguém os ensinou como as portas funcionam."</DefaultText>
+      <DefaultText>"So we're touching symbols now to make barriers disappear? I don't know if Sages had a flair for the dramatic or if no one taught them how doors work." </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

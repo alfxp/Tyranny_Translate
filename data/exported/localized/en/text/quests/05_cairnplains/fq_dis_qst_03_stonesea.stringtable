@@ -1,47 +1,47 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\05_cairnplains\fq_dis_qst_03_stonesea</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>8</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>As camadas agitarão</DefaultText>
+      <DefaultText>The Tiers Will Shake</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viajar para o Santuário Jagged Maw.</DefaultText>
+      <DefaultText>Travel to Jagged Maw Shrine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Fale com Caedis e Radix.</DefaultText>
+      <DefaultText>Speak to Caedis and Radix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Com duas áreas do Tiers sob controle, [url=glossary:graven ashe]Graven Ashe[/url] decidiu que é o momento certo para avançar para o [url=glossary:stone sea]Stone Sea[/url]. Sua primeira tarefa será viajar para Jagged Maw Shrine e reunir com dois operativos [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>With two areas of the Tiers under [url=glossary:disfavored]Disfavored[/url] control, [url=glossary:graven ashe]Graven Ashe[/url] has decided that the time is right to press forward into the [url=glossary:stone sea]Stone Sea[/url]. Your first task will be to travel to Jagged Maw Shrine and meet with two [url=glossary:disfavored]Disfavored[/url] operatives.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Viaje para o Jagged Maw Shrine e conheça as [url=glossary:disfavored]Disfavored[/url] forças estacionadas lá.</DefaultText>
+      <DefaultText>Travel to Jagged Maw Shrine and meet with the [url=glossary:disfavored]Disfavored[/url] forces stationed there.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Você chegou ao Jagged Maw Shrine e precisa falar com Caedis e Radix. Eles vão te atualizar sobre o que precisa ser feito no [url=glossary:stone sea]Stone Sea[/url] para avançar as metas do [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>You arrived at Jagged Maw Shrine and need to speak to Caedis and Radix. They will update you on what needs to be done in the [url=glossary:stone sea]Stone Sea[/url] to advance the goals of the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você aprendeu o que você precisava fazer para o 112211221122222222222222222222222222222 de Caedis e Radix.</DefaultText>
+      <DefaultText>You learned what you needed to do for the [url=glossary:disfavored]Disfavored[/url] in the [url=glossary:stone sea]Stone Sea[/url] from Caedis and Radix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você falhou o [url=glossary:disfavored]Disfavored[/url] e foi expulso como um anarquista.</DefaultText>
+      <DefaultText>You have failed the [url=glossary:disfavored]Disfavored[/url] and have been cast out as an anarchist.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

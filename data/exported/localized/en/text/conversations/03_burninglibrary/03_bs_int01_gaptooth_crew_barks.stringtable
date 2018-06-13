@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_burninglibrary\03_bs_int01_gaptooth_crew_barks</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Gaptooth precisa tomar uma decisão! Eu quero matar alguma coisa!"</DefaultText>
+      <DefaultText>"Gaptooth needs to make up her mind! I want to kill something!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Estou ansioso por uma luta. Vamos já!"</DefaultText>
+      <DefaultText>"I'm itching for a fight. Let's go already!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Enquanto nos sentamos aqui esperando, um dos outros grupos vai ganhar!"</DefaultText>
+      <DefaultText>"While we sit here waiting, one of the other groups is going to win!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Uma palavra de Gaptooth e você está morto ..."</DefaultText>
+      <DefaultText>"One word from Gaptooth and you're dead..."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

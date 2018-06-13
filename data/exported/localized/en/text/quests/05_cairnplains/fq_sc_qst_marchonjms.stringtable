@@ -1,77 +1,77 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\05_cairnplains\fq_sc_qst_marchonjms</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>14</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Batalha no Santuário Maw Jagged</DefaultText>
+      <DefaultText>Battle at Jagged Maw Shrine</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viajar para o Santuário Jagged Maw.</DefaultText>
+      <DefaultText>Travel to Jagged Maw Shrine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Confrontar o [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>Confront the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Mate o [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>Kill the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>O membro tangled do [url=glossary:scarlet chorus]Scarlet Chorus[/url] está tomando um partido da guerra ao shrine Jagged do Maw para matar os [url=glossary:disfavored]Disfavored[/url] atuais habitantes. Ele pediu sua ajuda neste empreendimento.</DefaultText>
+      <DefaultText>Tangled Limb of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] is taking a war party to Jagged Maw Shrine to kill the current [url=glossary:disfavored]Disfavored[/url] inhabitants. He's requested your aid in this venture.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Conheça Tangled Limb e sua festa de guerra no Jagged Maw Shrine.</DefaultText>
+      <DefaultText>Meet Tangled Limb and his war party at Jagged Maw Shrine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] e [url=glossary:disfavored]Disfavored[/url] forças estão envolvidos em um impasse no Jagged Maw Shrine. Confrontar as forças [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>[url=glossary:scarlet chorus]Scarlet Chorus[/url] and [url=glossary:disfavored]Disfavored[/url] forces are engaged in a standoff at Jagged Maw Shrine. Confront the [url=glossary:disfavored]Disfavored[/url] forces.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>O [url=glossary:disfavored]Disfavored[/url] no Jagged Maw Shrine atacou você. Mate todos.</DefaultText>
+      <DefaultText>The [url=glossary:disfavored]Disfavored[/url] at Jagged Maw Shrine attacked you. Kill them all.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você eliminou todas as forças de [url=glossary:disfavored]Disfavored[/url] do Jagged Maw Shrine.</DefaultText>
+      <DefaultText>You have eliminated all [url=glossary:disfavored]Disfavored[/url] forces from Jagged Maw Shrine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você ligou o coro no Jagged Maw Shrine.</DefaultText>
+      <DefaultText>You turned on the Chorus at Jagged Maw Shrine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Você está muito atrasado para ajudar o seu companheiro Chorus, eles foram derrotados nas mãos do [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>You're too late to help your fellow Chorus, they have been defeated at the hands of the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Ao invés de matar as tropas do Jagged Maw Shrine, você as deixou recuar depois de matar Tangled Limb e sua gangue.</DefaultText>
+      <DefaultText>Rather than killing the [url=glossary:disfavored]Disfavored[/url] troops at Jagged Maw Shrine, you let them retreat after butchering Tangled Limb and his gang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>Você traiu seus aliados e não consegue mais concluir essa tarefa.</DefaultText>
+      <DefaultText>You betrayed your allies and are no longer able to complete this task.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>A oportunidade de resolver esta tarefa já passou.</DefaultText>
+      <DefaultText>The opportunity to resolve this task has passed.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

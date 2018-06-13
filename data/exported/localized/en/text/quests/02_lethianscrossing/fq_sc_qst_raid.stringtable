@@ -1,124 +1,124 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\02_lethianscrossing\fq_sc_qst_raid</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>23</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Sangue e Bronze</DefaultText>
+      <DefaultText>Blood and Bronze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Mate o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] comandante.</DefaultText>
+      <DefaultText>Kill the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] commander.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Mate os [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldados.</DefaultText>
+      <DefaultText>Kill the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Fale com o Tier Smasher.</DefaultText>
+      <DefaultText>Speak to Tier Smasher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Persiga Raetommon.</DefaultText>
+      <DefaultText>Pursue Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Pergunte ao Tier Smasher onde Raetommon pode estar tomando Zdenya.</DefaultText>
+      <DefaultText>Ask Tier Smasher where Raetommon may be taking Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Fale com o Harchiand Bronze.</DefaultText>
+      <DefaultText>Speak to Harchiand Bronze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Verifique em Eldian.</DefaultText>
+      <DefaultText>Check on Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Encontre Raetommon.</DefaultText>
+      <DefaultText>Find Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Pergunte a Eldian onde Raetommon pode estar tomando Zdenya.</DefaultText>
+      <DefaultText>Ask Eldian where Raetommon may be taking Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>O [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] ter encenado um ataque em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Ajudar a [url=glossary:scarlet chorus]Scarlet Chorus[/url] conduzi-los a partir do assentamento.</DefaultText>
+      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] have staged a raid on [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Help the [url=glossary:scarlet chorus]Scarlet Chorus[/url] drive them from the settlement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Encontre o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] comandante responsável por este ataque e mate-os.</DefaultText>
+      <DefaultText>Find the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] commander responsible for this raid and kill them.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Existem grupos de [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldados perto da margem leste e oeste do rio Portuscor em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Mate todos eles.</DefaultText>
+      <DefaultText>There are groups of [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldiers near the east and west bank of the Portuscor River in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Kill them all.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Deixe Nível Smasher em [url=glossary:lethian's crossing]Lethian's crossing[/url] saber que o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] foram tratados.</DefaultText>
+      <DefaultText>Let Tier Smasher in [url=glossary:lethian's crossing]Lethian's crossing[/url] know that the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] have been dealt with.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Raetommon cometeu um crime grave - ele não deve ser autorizado a deixar [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Raetommon has committed a grievous crime - he must not be allowed to leave [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Raetommon conseguiu escapar com Zdenya para o deserto ao redor de [url=glossary:lethian's crossing]Lethian's Crossing[/url] Tier Smasher poderia ter uma idéia de onde Raetommon pode ter tomado o mestre.
+      <DefaultText>Raetommon managed to escape with Zdenya into the surrounding wilderness of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Tier Smasher might have insight as to where Raetommon may have taken the [url=glossary:forge-bound]Forge-Bound[/url] Master.
 
-Ele provavelmente está falando com Eldian dentro de sua casa em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+He is likely speaking with Eldian inside his house in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Harchiand indicou que ele queria falar com você sobre o desaparecido [url=glossary:forge-bound]Forge-Bound[/url] Mestre. Fale com ele em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Harchiand indicated that he wanted to speak to you regarding the missing [url=glossary:forge-bound]Forge-Bound[/url] Master. Speak to him at [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Eldian é mais provável seguro dentro de sua casa em [url=glossary:lethian's crossing]Lethian's Crossing[/url], mas ainda seria uma boa idéia para verificar nele.</DefaultText>
+      <DefaultText>Eldian is most likely safe inside his house in [url=glossary:lethian's crossing]Lethian's Crossing[/url], but it still would be a good idea to check on him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Fale com Raetommon. Ele foi visto pela última vez com o segundo-irmão Ceratha perto da casa de Eldian em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Speak to Raetommon. He was last seen with Second-Brother Ceratha near Eldian's house in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText>Raetommon conseguiu escapar com Zdenya para o deserto circundante de [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Eldian pode ter uma visão de onde Raetommon pode ter tomado o [url=glossary:forge-bound]Forge-Bound[/url] Mestre.</DefaultText>
+      <DefaultText>Raetommon managed to escape with Zdenya into the surrounding wilderness of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Eldian might have insight as to where Raetommon may have taken the [url=glossary:forge-bound]Forge-Bound[/url] Master.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você protegeu os colonos de [url=glossary:lethian's crossing]Lethian's Crossing[/url] matando os invasores, embora seu líder Raetommon tenha conseguido escapar com o Forge Master Zdenya e o Magebane Helm.</DefaultText>
+      <DefaultText>You protected the settlers of [url=glossary:lethian's crossing]Lethian's Crossing[/url] by killing the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] raiders, though their leader Raetommon managed to escape with Forge Master Zdenya and the Magebane Helm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>Raetommon retornou para [url=glossary:lethian's crossing]Lethian's Crossing[/url] e está matando os colonos e seus próprios soldados.</DefaultText>
+      <DefaultText>Raetommon has returned to [url=glossary:lethian's crossing]Lethian's Crossing[/url] and is killing both settlers and his own soldiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40002</ID>
-      <DefaultText>Raetommon retornou ao [url=glossary:lethian's crossing]Lethian's Crossing[/url] para levá-lo para si mesmo agora que os exércitos de [url=glossary:kyros]Kyros[/url] se foram.</DefaultText>
+      <DefaultText>Raetommon has returned to [url=glossary:lethian's crossing]Lethian's Crossing[/url] to take it for himself now that the armies of [url=glossary:kyros]Kyros[/url] are gone.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

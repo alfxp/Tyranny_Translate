@@ -1,32 +1,32 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\0101_bs_dis_ally_02</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Gostaria de ter visto o massacre. Bom trabalho, Fatebinder."</DefaultText>
+      <DefaultText>"Wish I could have seen the slaughter. Nice job, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Casa é onde quer que eu vá com a legião."</DefaultText>
+      <DefaultText>"Home is wherever I go with the legion." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Os inimigos de [url=glossary:kyros]Kyros[/url] vão sentir a picada implacável de ferro."</DefaultText>
+      <DefaultText>"The enemies of [url=glossary:kyros]Kyros[/url] will feel the unforgiving sting of [url=glossary:disfavored]Disfavored[/url] iron."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Que todos nós possamos morrer em combate glorioso."</DefaultText>
+      <DefaultText>"May we all die in glorious combat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Nó do banco 5</DefaultText>
+      <DefaultText>Bank Node 5</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_bs_verse_seekingsheath</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Nó Aleatório 1</DefaultText>
+      <DefaultText>Random Node 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Peguei eles na minha mira."</DefaultText>
+      <DefaultText>"Got them in my sights."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Vejo você lá."</DefaultText>
+      <DefaultText>"I see you there."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Eu vejo como o corvo voa."</DefaultText>
+      <DefaultText>"I see as the crow flies."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

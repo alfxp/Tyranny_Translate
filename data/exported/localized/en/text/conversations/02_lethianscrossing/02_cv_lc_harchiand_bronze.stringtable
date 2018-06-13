@@ -1,84 +1,84 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_cv_lc_harchiand_bronze</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>147</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Aproxime-se, viajante! Eu tenho algo só para você!"</DefaultText>
+      <DefaultText>"Step closer, traveler! I have something just for you!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Saudações e saudações!" O comerciante alegre cumprimenta-lo com um sorriso e um aplauso no ombro. "E bem-vindo ao [url=glossary:lethian's crossing]Lethian's Crossing[/url]! Casa do melhor comerciante na totalidade dos Tiers!" Ele faz uma pausa e pisca. "Isso seria eu."</DefaultText>
+      <DefaultText>"Greetings and salutations!" The jolly merchant greets you with a smile and a clap on the shoulder. "And welcome to [url=glossary:lethian's crossing]Lethian's Crossing[/url]! Home of the best merchant in the entirety of the Tiers!" He pauses and winks. "That would be me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Harchiand Bronze ao seu serviço." Ele se curva. "O que posso fazer para você?"</DefaultText>
+      <DefaultText>"Harchiand Bronze at your service." He bows. "What can I do for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Você poderia me dizer alguma coisa sobre este selo? Eu encontrei em [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
+      <DefaultText>"Could you tell me anything about this seal? I found it in [url=glossary:vendrien's well]Vendrien's Well[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Eu gostaria de ver seus produtos."</DefaultText>
+      <DefaultText>"I'd like to see your wares."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Mm, vamos dar uma olhada, vamos?" Harchiand pega o selo e vira-o. Quando ele vê a insígnia, ele rapidamente a deposita de volta em sua mão e limpa as palmas das mãos.
+      <DefaultText>"Mm, let's take a look, shall we?" Harchiand takes the seal and turns it over. When he spots the insignia, he quickly deposits it back in your hand and wipes his palms clean. 
 
-"Onde você conseguiu isso ?!"</DefaultText>
+"Where did you get that?!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Suspeito tanto." Ele murmura e preocupa sua testa. "Tão longe das rotas comerciais normais ... mas por que lá, por que então, por que agora?"</DefaultText>
+      <DefaultText>"Suspected as much." He mumbles and worries his brow. "So far off the normal trading routes... but why there, why then, why now?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Veio de uma caravana mercante que foi saqueada".</DefaultText>
+      <DefaultText>"It came from a merchant caravan that was ransacked."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Talvez você possa começar me contando sobre os comerciantes."</DefaultText>
+      <DefaultText>"Maybe you could start by telling me about the merchants." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Ele se concentra em você e acena com a cabeça. "Claro. O sigilo pertence à Companhia Mercantil Hand-Over-Quill." Seus lábios se apertam para formar um franzido violento.</DefaultText>
+      <DefaultText>He refocuses on you and nods. "Of course. The sigil belongs to the Hand-Over-Quill Merchant Company." His lips tighten to form a violent pucker.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Um carregamento de ferro e armas desapareceu. Foi encontrado - com este selo - em uma casa em Echocall Crossing."</DefaultText>
+      <DefaultText>"A shipment of iron and weapons went missing. It was found - with this seal - in a house in Echocall Crossing."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"As armas foram feitas para o [url=glossary:disfavored]Disfavored[/url]. E o [url=glossary:vendrien guard]Vendrien Guard[/url] de repente tinha armas de ferro."</DefaultText>
+      <DefaultText>"The weapons were meant for the [url=glossary:disfavored]Disfavored[/url]. And the [url=glossary:vendrien guard]Vendrien Guard[/url] suddenly had iron weapons."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"O [url=glossary:vendrien guard]Vendrien Guard[/url]?" Harchiand bate os dedos na boca e pensa. "Bem, isso muda as coisas. Eu suponho ..."</DefaultText>
+      <DefaultText>"The [url=glossary:vendrien guard]Vendrien Guard[/url]?" Harchiand drums his fingers on his mouth and considers. "Well, this changes things. I suppose..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Ele acaricia a sombra do crescimento da barba sob o queixo. "Suspeito, eu concordo. Mas a guerra sempre tem seus pequenos problemas ..."</DefaultText>
+      <DefaultText>He strokes the shadow of beard growth under his chin. "Suspicious, I agree. But war always has its little problems..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ah, Fatebinder. Venha para estocar, eu vejo?"</DefaultText>
+      <DefaultText>"Ah, Fatebinder. Come to stock up, I see?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,12 +88,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Muda de coisas? O que o Hand-Over-Quill tem a ver com o [url=glossary:vendrien guard]Vendrien Guard[/url]?"</DefaultText>
+      <DefaultText>"Changes things? What does Hand-Over-Quill have to do with the [url=glossary:vendrien guard]Vendrien Guard[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Primeiras coisas primeiro." Harchiand limpa a garganta. "Isso terá um preço. Se algo lamentável aconteceu, e minha conexão foi rastreada até mim, as conseqüências seriam ... caras."</DefaultText>
+      <DefaultText>"First things first." Harchiand clears his throat. "This will come at a price. If something unfortunate took place, and my connection were traced back to me, the consequences would be... costly."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,115 +103,115 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Eu vou passar por agora."</DefaultText>
+      <DefaultText>"I'll pass for now."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Você já pensou que me abalar poderia ser ainda mais caro?"</DefaultText>
+      <DefaultText>"Have you considered that shaking me down could be even more costly?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Você sabe, estou chocado ao encontrar um comerciante honesto como você se engajar no comércio ilícito".</DefaultText>
+      <DefaultText>"You know, I'm shocked to find an honest merchant like yourself engaging in illicit trade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Como você vai. Você sabe onde me encontrar se mudar de idéia."</DefaultText>
+      <DefaultText>"As you will. You know where to find me if you change your mind."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Se você der uma palavra sobre isso para alguém, eu vou denunciar você pelo mentiroso que você é, mas ..." Ele olha em volta para se certificar de que não há colonos perto o suficiente para ouvir o que está sendo dito.
+      <DefaultText>"If you breathe a word of this to anyone, I will denounce you for the liar that you are, but..." He looks around to make sure there are no settlers close enough to overhear what is being said.
 
-"Recebi instruções do Quinto Olho para usar o Hand-Over-Quill para entregar armas de ferro para a Citadel. Não questiono minhas ordens, apenas sigo em frente. Não sei mais nada - e essa é a verdade!"</DefaultText>
+"I received instructions from Fifth Eye to use Hand-Over-Quill to deliver iron weapons to [url=glossary:vendrien's well]Vendrien's Well[/url] Citadel. I don't question my orders, I just follow through. I don't know anything else - and that's the truth!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Ele estuda você um momento antes de sua postura se esvaziar. "Não, eu suponho que não. Você pode tornar minha vida muito mais difícil a longo prazo, não é?"</DefaultText>
+      <DefaultText>He studies you a moment before his posture deflates. "No, I suppose not. You can make my life far more difficult in the long run, can't you?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Eu gostaria de continuar nossa discussão sobre o Hand-Over-Quill."</DefaultText>
+      <DefaultText>"I'd like to continue our discussion about Hand-Over-Quill."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Se você deve, mas eu tenho que lembrá-lo do risco significativo, que não é sem sua despesa ..."</DefaultText>
+      <DefaultText>"If you must, but I have to remind you of the significant risk, which is not without its expense..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"O que você pode me dizer sobre outras empresas mercantis no Tiers?"</DefaultText>
+      <DefaultText>"What can you tell me about other merchant companies in the Tiers?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Oh, tem havido vários ao longo dos anos - e eles prosperaram ou lutaram nesta nova era da lei." Ele conta os dedos. "Havia as Marmotas de Jade, a Franja de Renda, os Anéis Vinculados e, é claro, a Mão-de-Pena." Ele faz uma careta no último.
+      <DefaultText>"Oh, there have been several over the years - and they've thrived or struggled in this new age of law." He counts off his fingers. "There were the Jade Marmots, the Lace Fringe, the Linked Rings, and of course the Hand-Over-Quill." He grimaces at the last one. 
 
-"Mas não me deixe esquecer os Visitantes da Prosperidade, os Moguls Amarelos, o Paladar Tenfold ..." Ele segue em frente por algum tempo.</DefaultText>
+"But don't let me forget the Visitors of Prosperity, the Yellow Moguls, the Tenfold Palor..." He trails on for some time.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Harchiand Bronze recua quando você se aproxima. Ele dobra as mãos de uma maneira apressada e agradável, e depois abandona a postura e deixa-as pendurar ao seu lado.</DefaultText>
+      <DefaultText>Harchiand Bronze flinches as you approach. He folds his hands in a rushed, congenial manner, and then abandons the posture and lets them hang by his side. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Fatebinder? Goste de ver você aqui."</DefaultText>
+      <DefaultText>"Fatebinder? Fancy seeing you here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Em uma peça, você quer dizer? Aqueles Mercenários da Fraternidade certamente tentaram o melhor deles."</DefaultText>
+      <DefaultText>"In one piece, you mean? Those Brotherhood Mercenaries certainly tried their best."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Que terrível!" Harchiand Bronze coloca sua mão em seu coração. "Talvez houvesse alguns seguidores de Raetommon ainda a procura de sangue -" Ele percebe que suas palavras estão caindo em ouvidos moucos e deixa cair as mãos. "Oh, foda-se tudo."
+      <DefaultText>"How dreadful!" Harchiand Bronze places his hand to his heart. "Perhaps there were a few Raetommon loyalist still out for blood-" He notices his words are falling to deaf ears and drops his hands. "Oh, fuck it all."
 
-"Você não me deu outra escolha!" Ele rapidamente se recolhe, antes de continuar mais discretamente. "Um Fatebinder enviado da Cacophony aparece de repente fazendo perguntas sobre minha lealdade?" Ele afasta a mão para o Oldwalls. "Eu não sou maluca, qualquer membro do Chorus que valha a pena suas tatuagens dirá a você que eles encontrarão qualquer razão para serem os próximos da fila a subir na hierarquia. Eu estou apenas ficando dois passos à frente deles."</DefaultText>
+"You gave me no other choice!" He quickly collects himself, before continuing more discreetly. "A Fatebinder sent from Cacophony suddenly appears asking questions about my loyalty?" He fans his hand away towards the Oldwalls. "I'm not daft, any Chorus member worth their tattoos will tell you that they'd find any reason to be next in line to go up the ranks. I'm merely staying two steps ahead of them."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Se você arriscou ter um Fatebinder morto, você deve ter algo grande para esconder. Fale se você quiser viver."</DefaultText>
+      <DefaultText>"If you risked having a Fatebinder killed, you must have something big to hide. Talk if you want to live."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Eu vou começar a te alimentar anéis até você me dizer o que você está tentando esconder."</DefaultText>
+      <DefaultText>"I'm going to start feeding you rings until you tell me what you're trying to hide."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Ele acena uma demissão. "Não se soma. Agora, se podemos voltar ao assunto dos meus produtos?" Ele sorri e se prepara para mostrar uma bugiganga.</DefaultText>
+      <DefaultText>He waves a dismissal. "It doesn't add up. Now, if we can return to the subject of my wares?" He smiles and readies to show you some fancy bauble.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Me conte mais sobre o Hand-Over-Quill."</DefaultText>
+      <DefaultText>"Tell me more about Hand-Over-Quill."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] tem perguntas sobre suas transações recentes."</DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] has questions about your recent dealings."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Eles já foram uma organização comercial poderosa que ... bem ..." Ele segura sua boca e olha ao redor, "Vamos apenas dizer que você não queria ficar entre eles e um contrato."
+      <DefaultText>"They were once a powerful trade organization that... well..." He cups his mouth and glances around, "Let's just say that you didn't want to get between them and a contract."
 
-"Com as novas leis do 11221122111111111111111111111 no [url=glossary:bastard city]Bastard City[/url], o Quill fugiu para as sombras da autoridade, tentando manter um perfil mais baixo. Se você está envolvido em qualquer um de seus negócios, fique longe."</DefaultText>
+"What with [url=glossary:tunon]Tunon[/url]'s new laws in the [url=glossary:bastard city]Bastard City[/url], the Quill slunk into the shadows of [url=glossary:kyros]Kyros[/url]' authority, trying to keep a lower profile. If you're involved in any of their dealings, stay far away."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Sua pele perde um pouco de cor. "Ilícito? O que você quer dizer?"</DefaultText>
+      <DefaultText>His complexion loses some color. "Illicit? Whatever do you mean?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,379 +221,381 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Que garrafa?" Harchiand se vira, puxando a ponta da barba. Ele tenta seguir a direção do seu gesto. "Não há..."
+      <DefaultText>"What bottle?" Harchiand turns, pulling on the end of his beard. He tries to follow the direction of your gesture. "There's no..."
 
-Em seguida, sua confusão desaparece, substituída pela compreensão total. "É claro que há uma garrafa. E depois de dizer às autoridades que eu devo ter escondido ou destruído, então é a sua palavra contra a minha. Estou correto?"</DefaultText>
+Then his confusion clears, replaced by stark understanding. "Of course there's a bottle. And after you tell the authorities that I must have stashed or destroyed it, then it's your word against mine. Am I correct?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"O mais perceptivo de você."</DefaultText>
+      <DefaultText>"Most perceptive of you." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Perigo ocupacional". O comerciante solta um suspiro pesado. "Eu deveria estar acostumado com isso agora."</DefaultText>
+      <DefaultText>"Occupational hazard." The merchant lets out a heavy sigh. "I should be used to this by now."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Ele abre uma bolsa funda e você, sem cerimônias, deposita um volume de anéis - o ruído que faz girar várias cabeças.
+      <DefaultText>He opens a deep pouch, and you unceremoniously deposit a volume of rings - the clatter of which turns several heads. 
 
-Harchiand sacode a bolsa uma vez e acena com a cabeça, contente que a soma acordada está lá.</DefaultText>
+Harchiand shakes the pouch once and nods, content the agreed-upon sum is there.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Não seria mais barato derrotá-lo?" O verso encolhe os ombros. "Fique à vontade. Vou me divertir mais com meus ganhos."</DefaultText>
+      <DefaultText>"Wouldn't it be cheaper to beat it out of him?" Verse shrugs. "Suit yourself. I'll be having more fun with my earnings."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Harchiand estende as mãos. "Por favor, não faça isso! Eu prometo que vou te contar tudo - tudo!"</DefaultText>
+      <DefaultText>Harchiand holds out his hands. "Please, don't! I promise I'll tell you everything - everything!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Eu pagaria para assistir isso - e contribuir".</DefaultText>
+      <DefaultText>"I would pay to watch that - and to contribute."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Seus olhos se arregalam e sua fachada outrora enérgica e alegre rapidamente fica imóvel e fria. "Eu tinha pensado que nos estabelecemos no arranjo há algum tempo atrás. Tem alguma coisa ..." Ele franze a testa e acena para você seguir em frente. "Faça suas perguntas, então."</DefaultText>
+      <DefaultText>His eyes widen and his once energetic and cheery facade quickly becomes still and cold. "I had thought we settled on the arrangement some time ago. Has something..." He frowns and waves for you to have on. "Ask your questions, then."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Você vende para o [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
+      <DefaultText>"Do you sell to the [url=glossary:disfavored]Disfavored[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Você cobre seus rastros quando faz negócios com o [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
+      <DefaultText>"Do you cover your tracks when you make deals with the [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Você já enganou o [url=glossary:scarlet chorus]Scarlet Chorus[/url] em um acordo?"</DefaultText>
+      <DefaultText>"Have you ever cheated the [url=glossary:scarlet chorus]Scarlet Chorus[/url] on a deal?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Ele pisca e responde em voz baixa. "Eu dificilmente posso recusar um cliente, posso? Seria suspeito se eu recusei um servo de [url=glossary:kyros]Kyros[/url] por causa da cor de suas roupas."
+      <DefaultText>He blinks and responds in a low tone. "I can hardly refuse a customer, can I? It would be suspect if I refused a servant of [url=glossary:kyros]Kyros[/url] because of the color of their raiment." 
 
-"Eu salvo meus melhores produtos e preços para o [url=glossary:scarlet chorus]Scarlet Chorus[/url], mas você não pode me culpar por exercer meu negócio ..."</DefaultText>
+"I save my best goods and prices for the [url=glossary:scarlet chorus]Scarlet Chorus[/url], but you cannot fault me for plying my trade..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Você é um oportunista, então?"</DefaultText>
+      <DefaultText>"You're an opportunist, then?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Então você é o único que equipa nossos inimigos?"</DefaultText>
+      <DefaultText>"So you're the one equipping our enemies?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Ele abaixa a voz para um sussurro. "Mas uma leal. Eu tinha pensado que [url=glossary:the voices of nerat]the Voices of Nerat[/url] apreciaria alguém que sabe jogar ambos os lados. Deixe-o saber que sua confiança não é deslocada."</DefaultText>
+      <DefaultText>He lowers his voice to a whisper. "But a loyal one. I had thought [url=glossary:the voices of nerat]the Voices of Nerat[/url] would appreciate someone who knows how to play both sides. Let him know his trust isn't misplaced." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"O quê? Não! Você está pensando no [url=glossary:forge-bound]Forge-Bound[/url]." Ele olha para a esquerda e para a direita. "Quero dizer ... se um [url=glossary:disfavored]Disfavored[/url] soldado compra uma espada de segunda mão ou capacete ... então tecnicamente sim." Ele rapidamente dá uma última palavra. "Mas só o [url=glossary:scarlet chorus]Scarlet Chorus[/url] vê meus melhores produtos! Eu tenho certeza disso!"</DefaultText>
+      <DefaultText>"What? No! You're thinking of the [url=glossary:forge-bound]Forge-Bound[/url]." He glances left and right. "I mean... if a [url=glossary:disfavored]Disfavored[/url] soldier buys a secondhand sword or helmet... then technically yes." He quickly tacks on a final word. "But only the [url=glossary:scarlet chorus]Scarlet Chorus[/url] sees my finest goods! I make sure of it!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Ele sobe até a sua altura total. "Eu sou um profissional, e trato cada transação com a máxima confiança. [url=glossary:the voices of nerat]The Voices of Nerat[/url] não deve ter dúvidas sobre isso."</DefaultText>
+      <DefaultText>He rises up to his full height. "I am a professional, and I treat every transaction with the utmost confidence. [url=glossary:the voices of nerat]The Voices of Nerat[/url] should have no doubts on that account."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Se eu checasse seus livros, não acharia nada suspeito?"</DefaultText>
+      <DefaultText>"If I checked your ledgers, I wouldn't find anything suspect?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Você se mostrou orgulhoso quando nos conhecemos. Você sabe o significado da discrição?"</DefaultText>
+      <DefaultText>"You came across as boastful when we met. You know the meaning of discretion?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Sua confiança vacila. "Eu suponho que depende do que você está procurando ... Eu mantenho um segundo conjunto de registros que levam em consideração transações paralelas, mas uma autoridade certamente perceberia que eu faço negócios com o Scarlet-"
+      <DefaultText>His confidence falters. "I suppose that depends on what you're looking for... I keep a second set of records that factor in side dealings, but an authority would certainly realize that I do business with the Scarlet-" 
 
-Ele percebe o que ele disse e cobre a boca. "Será que as vozes querem que eu as mantenha separadas? Por [url=glossary:kyros]Kyros[/url], eu nunca pensei que alguém iria perguntar!"</DefaultText>
+He realizes what he said and covers his mouth. "Did the Voices want me to keep them separate? By [url=glossary:kyros]Kyros[/url], I never thought anyone would ask!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Ele afasta o seu ponto de vista. "Como todos os mercadores, falo em chavões e embelezamentos. As pessoas acham divertido, e ele vende tecidos que minha avó não usaria sobre seu cachorro doente".
+      <DefaultText>He brushes your point aside. "Like all merchants, I speak in platitudes and embellishment. The people find it amusing, and it sells cloth that my grandmother would not drape over her sick dog."
 
-"Eu nunca trago as minhas relações com [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
+"I never bring up my dealings with [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Ele ri. "Eu sei melhor que isso. [url=glossary:the voices of nerat]The Voices of Nerat[/url] é um astuto homem de negócios - não me surpreenderia se ele mantivesse o controle sobre todas as transações de armas que eu conduzi com suas tropas de elite." Ele se pergunta por um momento. "Venha para pensar sobre isso, também não me surpreenderia se ele não se importasse."
+      <DefaultText>He chuckles. "I know better than that. [url=glossary:the voices of nerat]The Voices of Nerat[/url] is a shrewd businessman - it wouldn't surprise me if he kept tabs on every weapons deal I've conducted with his elite troops." He wonders for a moment. "Come to think of it, it also wouldn't surprise me if he didn't care at all."
 
-"Do jeito que eu vejo, por que eu teria a chance de irritar uma Fúria Escarlate ou um Chanter de Sangue quando eu pudesse me contentar com minha taxa acordada?"</DefaultText>
+"The way I see it, why would I chance angering a Scarlet Fury or Blood Chanter when I can settle for my agreed-upon fee?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Você nunca arrisca a ira de um cliente em seu benefício?"</DefaultText>
+      <DefaultText>"You never risk a client's ire for your benefit?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"E quando você está vendendo para um grunhido da Horda?"</DefaultText>
+      <DefaultText>"What about when you're selling to a Horde grunt?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Certamente não. Inimigos são tais ... complicações. Tanta alimentação e manutenção, sempre olhando por cima do ombro." Ele afasta o conceito. "Deixe meus clientes lidarem com seus inimigos. Eu só preciso de amigos."</DefaultText>
+      <DefaultText>"Certainly not. Enemies are such... complications. So much feeding and upkeep, always looking over one's shoulder." He shoos away the concept. "Let my clients handle their enemies. I need only friends." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Bem ... nosso acordo especificou que eu trato armas com os oficiais mais altos. As necessidades da Horda são tão insignificantes em comparação ... ninharias, na verdade." Ele procura por simpatia em sua expressão e não a encontra.
+      <DefaultText>"Well... our arrangement specified that I deal weapons to the highest officers. The needs of the Horde are so insignificant by comparison...trifles, really." He looks for sympathy in your expression and doesn't find it. 
 
-"Então eu faço algum lucro extra fora do rank e arquivo. Não é mais ou menos justo do que qualquer um dos meus outros negócios. É ... isso é um problema?"</DefaultText>
+"So I make some extra profit off the rank and file. It's no more or less fair than any of my other dealings. Is... is that a problem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"No que me diz respeito, sua lealdade às Vozes não é contestada."</DefaultText>
+      <DefaultText>"As far as I'm concerned, your loyalty to the Voices is unchallenged." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Estou satisfeito por ter a confiança dele. Se você acreditasse no contrário ... bem, tenho certeza de que não teríamos essa conversa."</DefaultText>
+      <DefaultText>"I'm pleased to have his confidence. If you believed otherwise... well, I'm sure we wouldn't be having this conversation."
+
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Desiludido, Harchiand Bronze cruza os braços e olha para você com resignação amarga.
+      <DefaultText>Disgruntled, Harchiand Bronze crosses his arms and stares at you with bitter resignation.
 
-"Escute, você pode ficar aqui o dia todo questionando minha lealdade ao [url=glossary:scarlet chorus]Scarlet Chorus[/url], mas nós dois sabemos a ironia em exigir respostas de alguém que serve o Archon of Secrets. Eu sou um mentiroso Fatebinder, e [url=glossary:the voices of nerat]the Voices of Nerat[/url] me paga generosamente por tal serviço. "
+"Listen, you can stand here all day questioning my loyalty to the [url=glossary:scarlet chorus]Scarlet Chorus[/url], but we both know the irony in demanding answers from someone who serves the Archon of Secrets. I am a liar Fatebinder, and [url=glossary:the voices of nerat]the Voices of Nerat[/url] pays me handsomely for such a service." 
 
-"Qual é exatamente a motivação por trás deste julgamento que eu fui subjugado?"</DefaultText>
+"What exactly is the motivation behind this trial I have been subjugated to?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] me disse para falar com você quando eu cheguei."</DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] told me to speak with you when I arrived."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Claro! Eu recebi uma missiva mencionando que você estaria chegando. Eu tenho medo de não ter muito para lhe dizer no momento diferente do [url=glossary:forge-bound]Forge-Bound[/url] mestre chegou em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Você provavelmente deve ir para a forja e descobrir O que está acontecendo. O [url=glossary:forge-bound]Forge-Bound[/url] e eu não estamos realmente nos melhores termos ... "</DefaultText>
+      <DefaultText>"Of course! I received a missive mentioning you would be arriving. I'm afraid I don't have much to tell you at the moment other than the [url=glossary:forge-bound]Forge-Bound[/url] master has arrived in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You should probably go to the forge and find out what's going on. The [url=glossary:forge-bound]Forge-Bound[/url] and I aren't really on the best terms..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Claro! Eu recebi uma missiva mencionando que você estaria chegando. Receio que eu não tenho muito para lhe dizer no momento diferente do que o [url=glossary:forge-bound]Forge-Bound[/url] mestre está a caminho de [url=glossary:lethian's crossing]Lethian's Crossing[/url]."
+      <DefaultText>"Of course! I received a missive mentioning you would be arriving. I'm afraid I don't have much to tell you at the moment other than the [url=glossary:forge-bound]Forge-Bound[/url] master is on her way to [url=glossary:lethian's crossing]Lethian's Crossing[/url]."
 
-"Você provavelmente deveria falar com o Tier Smasher antes de fazer qualquer outra coisa na cidade. Ele pode ser um pouco sensível se ele ficar de fora."</DefaultText>
+"You should probably speak to Tier Smasher before you do anything else around town. He can be a little touchy if he's left out of the loop."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Quais são seus pensamentos sobre o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]?"</DefaultText>
+      <DefaultText>"What are your thoughts on the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Ele encolhe os ombros. "O que eu posso dizer? Eles fazem clientes decentes. Eu tento ficar do lado deles porque eu vejo como eles caem facilmente naqueles que saem da linha ... eu converso o suficiente para ser amigável, mas nunca o suficiente para deixar uma impressão suficiente para ser perigoso ".</DefaultText>
+      <DefaultText>He shrugs. "What can I say? They make decent customers. I try to stay on their good side because I've seen how easily they come down on those that step out of line... I chat just enough to be friendly but never enough to leave enough of an impression to be dangerous."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Ele encolhe os ombros. "Eu não vi muitos deles nos últimos anos. Suponho que alguns dos meus clientes provavelmente estão disfarçados tentando conseguir suprimentos para seus acampamentos, mas eu nunca posso ter certeza. Será que isso realmente importa? Eu sou amigável com isso." eles, mas não é como se eu fosse dar qualquer informação sensível para eles! "</DefaultText>
+      <DefaultText>He shrugs. "I haven't seen much of them in the past few years. I suppose some of my customers are probably [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] in disguise trying to get supplies for their camps but I can never be certain. Does it really matter? I'm friendly with them but it's not like I'm going to give away any sensitive information to them!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Onde está o Tier Smasher?"</DefaultText>
+      <DefaultText>"Where is Tier Smasher?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Onde está a forja?"</DefaultText>
+      <DefaultText>"Where is the forge?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Ele aponta para o nível acima de você. "A forja está no segundo nível na parte de trás do Crossing."</DefaultText>
+      <DefaultText>He points to the tier above you. "The forge is up on the second tier in the back of the Crossing."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Vamos falar sobre outra coisa."</DefaultText>
+      <DefaultText>"Let's talk about something else."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Ele está no nível do solo, do outro lado do rio." Ele aponta para o leste. "Você pode atravessar a ponte ali. Tier Smasher está geralmente se esgueirando do lado de fora da casa de Eldian, perto do centro da cidade."</DefaultText>
+      <DefaultText>"He's on the ground level on the other side of the river." He points to the east. "You can cross the bridge over there. Tier Smasher is usually skulking around outside of Eldian's home, near the center of town."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Você disse que queria me ver?"</DefaultText>
+      <DefaultText>"You said you wanted to see me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Sim! Isso é simplesmente inaceitável! Eu mandei um aviso para Nerat sobre o roubo e seqüestro. Enquanto aguardo uma resposta, você deve procurar pelo [url=glossary:forge-bound]Forge-Bound[/url] Mestre. Se pudermos recuperá-la, Nerat será mais indulgente!"</DefaultText>
+      <DefaultText>"Yes! This is simply unacceptable! I've sent notice to Nerat regarding the theft and kidnapping. While I await a response, you should search for the [url=glossary:forge-bound]Forge-Bound[/url] Master. If we can recover her, Nerat is bound to be more forgiving!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Harchiand sacode a cabeça. "Eu não tenho certeza. Eu ouvi relatos da Irmandade escondida dentro dos Oldwalls, mas eu não acho que você deveria correr de cabeça para o que poderia ser uma grande força da Irmandade."
+      <DefaultText>Harchiand shakes his head. "I'm not sure. I've heard reports of the Brotherhood hiding inside the Oldwalls, but I don't think you should run headlong into what could be a large Brotherhood force."
 
-"Eles também foram vistos recentemente nas proximidades do Deserter's March. Pode ser uma boa idéia verificar isso primeiro e ver se você pode coletar qualquer informação sobre a Brotherhood dentro da Oldwalls."</DefaultText>
+"They've also recently been seen in the vicinity of Deserter's March. It might be a good idea to check that out first and see if you can gather any information about the Brotherhood inside the Oldwalls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"O que você pode me dizer sobre o Deserter's March?"</DefaultText>
+      <DefaultText>"What can you tell me about Deserter's March?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Nada muito, realmente. Sinto muito. Se eu não puder vender lá, não tenho motivo para ir até lá! Eldian seria capaz de lhe dizer. Esta é a casa dele."</DefaultText>
+      <DefaultText>"Nothing much, really. I'm sorry. If I can't sell there, I have no reason to go there! Eldian would be able to tell you. This is his home."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Eu obtive este Keystone da Irmandade no Março de Deserter."</DefaultText>
+      <DefaultText>"I got this Keystone from the Brotherhood at Deserter's March."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Os olhos de Harchiand se arregalam quando ele vê o Keystone. "Esse é um dos Keystones para entrar nos Oldwalls!" Ele vira a pedra angular nas mãos enquanto fala. "Há apenas uma outra entrada que eu conheço e é em Twin Rivers. É onde a Irmandade está hospedada, então é provavelmente onde eles entraram na Oldwalls." Ele entrega o Keystone de volta para você. "Se você for lá, tenha cuidado!"
+      <DefaultText>Harchiand's eyes widen when he sees the Keystone. "That's one of the Keystones to get inside the Oldwalls!" He turns the Keystone over in his hands as he speaks. "There's only one other entrance that I know of and it's in Twin Rivers. That's where the Brotherhood have been staying, so that's probably where they've been entering the Oldwalls." He hands the Keystone back to you. "If you go there, be careful!"
 
-"As coisas foram bem tranquilas aqui, então eu não acho que Raetommon tentará atacar novamente. Reforços do [url=glossary:scarlet chorus]Scarlet Chorus[/url] estarão aparecendo em breve de qualquer maneira."</DefaultText>
+"Things have been pretty quiet here, so I don't think Raetommon will try attacking again. Reinforcements from the [url=glossary:scarlet chorus]Scarlet Chorus[/url] will be showing up soon anyway."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"E se você descobrir alguma coisa, por favor, venha me contar. Quanto mais eu tiver que contar a Nerat, menos me matará ele terá que fazer."</DefaultText>
+      <DefaultText>"And if you find out anything, please come tell me. The more I have to tell Nerat, the less killing me he has to do."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Eu ouvi de Nerat enquanto você estava fora e ele está extremamente interessado em Raetommon. Parece que o ataque de Raetommon não irritou Nerat, mas o intrigou e ele gostaria de conhecer Raetommon um pouco melhor." Ele cheira com desgosto.
+      <DefaultText>"I heard from Nerat while you were gone and he's extremely interested in Raetommon. Seems that Raetommon's attack didn't anger Nerat so much as intrigue him and he'd like to get to know Raetommon a little better." He sniffs with distaste.
 
-"Recuperar o [url=glossary:forge-bound]Forge-Bound[/url] Mestre ainda é prioridade, mas se você puder convencer Raetommon a considerar uma visita à Cacofonia, Nerat ficará muito agradecido."</DefaultText>
+"Retrieving the [url=glossary:forge-bound]Forge-Bound[/url] Master is still top priority, but if you can convince Raetommon to consider a visit to Cacophony, Nerat would be very thankful."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] me disse para falar com você."</DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]The Voices of Nerat[/url] told me to speak with you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Contanto que você não fale comigo do jeito que você fez com a guarnição!" Ele ri nervosamente. "Você terá que me perdoar no momento, Fatebinder, mas eu não tenho tempo para conversar. Minha barraca está um pouco bagunçada depois do recente desconforto."
+      <DefaultText>"As long as you don't speak to me the way you did to the garrison!" He laughs nervously. "You'll have to forgive me at the moment, Fatebinder, but I don't have time for conversation. My stall is in a bit of a mess after the recent unpleasantness."
 
-"A palavra é o [url=glossary:forge-bound]Forge-Bound[/url] Mestre chegou em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Você provavelmente deve ir para a forja para descobrir o que está acontecendo. Eu serei capaz de falar com você depois que eu me acostume aqui". Ele aponta para o nível acima de você. "A forja está no segundo nível na parte de trás do Crossing."</DefaultText>
+"Word is the [url=glossary:forge-bound]Forge-Bound[/url] Master has arrived in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. You should probably go to the forge to find out what's happening. I will be able to speak to you after I get my bearings here." He points to the tier above you. "The forge is up on the second tier in the back of the Crossing."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Você pode me dizer alguma coisa sobre Gino?"</DefaultText>
+      <DefaultText>"Can you tell me anything about Gino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Gino? O pobre pescador? Na verdade não ... Eu sei que ele tem um irmão chamado Alagan. Além disso, ele é um dos muitos locais cujos assuntos não são do meu interesse."</DefaultText>
+      <DefaultText>"Gino? The poor fisherman? Not really... I know he has a brother named Alagan. Beyond that he is one of many locals whose affairs are no concern of mine."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Ele mencionou o desejo de falar com Eldian também, mas você pode querer esperar até que a questão com Raetommon seja resolvida. Enquanto Eldian ainda tem uso, eu odiaria vê-lo ... desaparecer."</DefaultText>
+      <DefaultText>"He mentioned the desire to speak to Eldian as well, but you may want to wait until after the issue with Raetommon is dealt with. While Eldian still has use, I'd hate to see him...disappear."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Eu quero que você organize isso, então Eldian é enviado para [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
+      <DefaultText>"I want you to arrange it so Eldian is sent to [url=glossary:the voices of nerat]the Voices of Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Harchiand se curva. "Nada me daria mais prazer do que satisfazer o seu e todo o capricho de Nerat! Terei prazer em mandar Eldian ser enviado para as Vozes."
+      <DefaultText>Harchiand bows low. "Nothing would give me more pleasure than to fulfill yours and Nerat's every whim! I will gladly arrange for Eldian to be sent to the Voices."
 
-"Mas, posso sugerir algo? Você pode querer ter certeza de que tem tudo o que precisa de Eldian antes de ser expulso. As pessoas que têm uma audiência com Nerat tendem a não retornar ..."</DefaultText>
+"But, might I suggest something? You may want to make sure you have everything you need from Eldian before he is sent off. People who have an audience with Nerat tend not to return..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Bom ponto. Vou recuperar o Magebane Helm de Eldian primeiro."</DefaultText>
+      <DefaultText>"Good point. I will retrieve the Magebane Helm from Eldian first."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Eu tenho tudo que preciso. Faça os arranjos."</DefaultText>
+      <DefaultText>"I have everything I need. Make the arrangements."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Claro, Fatebinder. Eu vou cuidar disso imediatamente."</DefaultText>
+      <DefaultText>"Of course, Fatebinder. I will take care of it immediately."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Muito bom, Fatebinder. Volte para mim quando estiver pronto."</DefaultText>
+      <DefaultText>"Very good, Fatebinder. Return to me when you're ready."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Você já vendeu informações para alguém que não seja o [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
+      <DefaultText>"Have you ever sold information to anyone other than the [url=glossary:scarlet chorus]Scarlet Chorus[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Harchiand inala dramaticamente, parecendo chocado. "Eu nunca iria! Esse tipo de informação é apenas para ser compartilhado com pessoas muito específicas. A própria ideia!"</DefaultText>
+      <DefaultText>Harchiand inhales dramatically, looking shocked. "I would never! That kind of information is only meant to be shared with very specific people. The very idea!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Eu sugiro que você me diga a verdade antes que as coisas fiquem feias."</DefaultText>
+      <DefaultText>"I suggest you tell me the truth before things get ugly."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Eu farei todo o necessário para conseguir o que eu quero."</DefaultText>
+      <DefaultText>"I will do everything necessary to get what I want."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Eu não tenho certeza se acredito em você."</DefaultText>
+      <DefaultText>"I'm not so sure I believe you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Harchiand olha para longe de você, perdido em um mar de pensamentos. Ele acena para si mesmo depois de um momento. "Eu posso ver que você pode dizer a um bom mentiroso quando vê um. Assim como o Arconte dos Segredos, que é precisamente o que ele me paga." Ele respira fundo.
+      <DefaultText>Harchiand looks away from you, lost in a sea of thoughts. He nods to himself after a moment. "I can see you can tell a good liar when you see one. So does the Archon of Secrets, which is precisely what he pays me for." He takes a deep breath.
 
-"Eu posso ter deliberadamente escorregado para Raetommon que o mestre estava indo para [url=glossary:lethian's crossing]Lethian's Crossing[/url], e talvez a intenção de sua visita. Você vê, ele era a ferramenta perfeita para obter o [url=glossary:forge-bound]Forge-Bound[/url] Mestre em nosso alcance." Ele levanta as mãos. "E antes de você se levantar contra o que eu fiz, entenda que eu agi por conta própria. As vozes não têm idéia de que eu estava por trás de tudo isso."</DefaultText>
+"I may have purposely slipped to Raetommon that the [url=glossary:forge-bound]Forge-Bound[/url] Master was headed to [url=glossary:lethian's crossing]Lethian's Crossing[/url], and perhaps the intent of her visit. You see, he was the perfect tool to get the [url=glossary:forge-bound]Forge-Bound[/url] Master into our grasp." He puts up his hands. "And before you get up in arms about what I've done, understand that I acted on my own. The Voices has no idea I was behind any of this."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Os olhos se movem de um lado para o outro como se quisessem encontrar alguma saída para esse confronto. Depois de um momento, seu rosto se ilumina de repente. "Sim-Sim! Eu posso provar a minha inocência! Pelo menos eu conheço alguém que pode!"</DefaultText>
+      <DefaultText>Harchiand eyes dart from side to side as if to search for some way out of this confrontation. After a moment his face suddenly lights up. " Yes-Yes! I can prove my innocence! At least, I know someone who can!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Eu confio que isso vai ficar entre você e eu." Ele sorri com um sorriso cheio de dentes. "Pelo amor de Arconte?"</DefaultText>
+      <DefaultText>"I trust this will stay between just you and me." He grins with a toothy smile. "For the Archon's sake?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Eu entendo o que você fez foi para o bem maior. Vou garantir que sua lealdade seja conhecida."</DefaultText>
+      <DefaultText>"I understand what you did was for the greater good. I will make sure your loyalty is known."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -603,108 +605,108 @@ Ele percebe o que ele disse e cobre a boca. "Será que as vozes querem que eu as
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Ele se inclina profundamente. "Eu sabia que você entenderia. Agora vamos colocar esse negócio feio para trás! De agora em diante, você terá um desconto significativo em minhas mercadorias."</DefaultText>
+      <DefaultText>He bows deeply. "I knew you would understand. Now let us put this ugly business behind us! From now on, you will have a significant discount on my wares."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Sinto muito, Fatebinder, estou muito ocupado agora. Por favor, volte mais tarde."</DefaultText>
+      <DefaultText>"I'm sorry, Fatebinder, I'm far too busy right now. Please come back later."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Se você está tão preocupado sobre como Nerat vai responder, por que você disse a ele?"</DefaultText>
+      <DefaultText>"If you're so worried about how Nerat will respond, why did you tell him?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Onde eu iria procurar pelo [url=glossary:forge-bound]Forge-Bound[/url] Master?"</DefaultText>
+      <DefaultText>"Where would I even look for the [url=glossary:forge-bound]Forge-Bound[/url] Master?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Porque se ele descobrisse que eu retivesse informações dele, as coisas poderiam ficar ainda piores para mim! Confie em mim, encontrar o Mestre antes que Nerat tenha tempo de ficar bravo é a única maneira de lidar com isso com o mínimo de morte "</DefaultText>
+      <DefaultText>"Because if he ever found out that I withheld information from him, things could turn out even worse for me! Trust me, finding the Master before Nerat even has time to get mad is the only way to handle this with the least amount of death."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"'Mínima' quantidade de mortes? Por que tem que haver morte?"</DefaultText>
+      <DefaultText>"'Least' amount of death? Why does there have to be death at all?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Você está louco? Você já conheceu Nerat? Você já prestou atenção? O homem é insano! Ele mata as pessoas só porque o sol está brilhando de uma certa maneira. O jeito de lidar com ele é minimizar as razões para ele faça dano!"</DefaultText>
+      <DefaultText>"Are you insane? Have you met Nerat? Have you been paying attention at all? The man is insane! He kills people just because the sun is shining a certain way. The way to properly handle him is to minimize the reasons for him to do damage!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Ele olha em volta e acena dramaticamente para a frente e para trás. "Eu tenho que perguntar o que é isso tudo. É difícil o suficiente para conseguirmos negócios com a guerra e a ocupação e agora temos que lidar com isso!" Ele sorri. "Mas se colocar um [url=glossary:edict]Edict[/url] é a pior coisa que eu tenho que suportar, eu farei isso com a graça sem esforço pela qual sou conhecido!"</DefaultText>
+      <DefaultText>He looks around and waves a hand dramatically back and forth. "I do have to ask what this is all about. It's hard enough for us to get business with the war and occupation and now we have to deal with this!" He smiles. "But if putting up with an [url=glossary:edict]Edict[/url] is the worst thing I have to endure, I'll do it with the effortless grace I am known for!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"O que traz uma potência como você para [url=glossary:lethian's crossing]Lethian's Crossing[/url]? Após o [url=glossary:edict]Edict[/url] em [url=glossary:vendrien's well]Vendrien's Well[/url], eu assumi que você estaria fora começando seu próprio império e não confraternizando com o povo pouco! Não que eu nunca vou reclamar sobre a chance de esfregar ombros com o elite!"</DefaultText>
+      <DefaultText>"What brings a powerhouse like you to [url=glossary:lethian's crossing]Lethian's Crossing[/url]? After the [url=glossary:edict]Edict[/url] on [url=glossary:vendrien's well]Vendrien's Well[/url], I assumed you'd be off starting your own empire and not fraternizing with the little folk! Not that I will ever complain about getting the chance to rub shoulders with the elite!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"E você é o Fatebinder! Eu reconheceria você em qualquer lugar. E com uma lista de ações, contanto que você tivesse ficado surpreso se ainda houvesse alguém que não tivesse!"</DefaultText>
+      <DefaultText>"And you are the Fatebinder! I would recognize you anywhere. And with a list of deeds as long as yours, I'd be surprised if there was anyone left in the Tiers who didn't!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Sim, sim ... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar desde que você não mencionou nada para mim da última vez que nos falamos. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:the voices of nerat]the Voices of Nerat[/url] é É ruim o suficiente que não pudemos conversar antes, mas agora isso? É simplesmente inaceitável! "</DefaultText>
+      <DefaultText>"Yes, yes... You know. At first I wondered if you were the one I was supposed to talk to since you didn't mention anything to me last time we spoke. You can never be too careful, especially when [url=glossary:the voices of nerat]the Voices of Nerat[/url] is involved. It's bad enough that we weren't able to talk before, but now this? It's simply unacceptable!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Sim, sim ... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar desde que você não veio me ver antes de falar com Zdenya. Você nunca pode ser muito cuidadosa, especialmente quando [url=glossary:the voices of nerat]the Voices of Nerat[/url] é É ruim o suficiente que não pudemos conversar antes, mas agora isso? É simplesmente inaceitável! "</DefaultText>
+      <DefaultText>"Yes, yes... You know. At first I wondered if you were the one I was supposed to talk to since you didn't come and see me before speaking to Zdenya. You can never be too careful, especially when [url=glossary:the voices of nerat]the Voices of Nerat[/url] is involved. It's bad enough that we weren't able to talk before, but now this? It's simply unacceptable!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Eu mandei aviso para Nerat sobre o roubo e seqüestro. Enquanto aguardo uma resposta, você deve procurar pelo [url=glossary:forge-bound]Forge-Bound[/url] Mestre. Se nós podemos recuperá-la, Nerat é obrigado a ser mais indulgente!"</DefaultText>
+      <DefaultText>"I've sent notice to Nerat regarding the theft and kidnapping. While I await a response, you should search for the [url=glossary:forge-bound]Forge-Bound[/url] Master. If we can recover her, Nerat is bound to be more forgiving!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Fatebinder, obrigado por ter vindo. Sinto muito por não podermos falar em melhores circunstâncias."</DefaultText>
+      <DefaultText>"Fatebinder, thank you for coming. I'm sorry we couldn't speak under better circumstances." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Sou comerciante há muito mais anos do que me preocupo e, em todo esse tempo, nunca ouvi pessoas contarem histórias sobre alguém como elas fazem a seu respeito!"</DefaultText>
+      <DefaultText>"I have been a merchant far more years than I care to think and in all that time I have never heard people tell stories about someone like they do about you!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"E você é o Fatebinder! Eu reconheceria você em qualquer lugar. E com uma lista de ações, contanto que você tivesse ficado surpreso se ainda houvesse alguém que não tivesse!"
+      <DefaultText>"And you are the Fatebinder! I would recognize you anywhere. And with a list of deeds as long as yours, I'd be surprised if there was anyone left in the Tiers who didn't!"
 
-"Você acabou com o [url=glossary:edict]Edict[/url] de Storms no Sentinel Stand Keep, não foi? Agora é um conto que as pessoas vão contar nos próximos anos!"</DefaultText>
+"You ended the [url=glossary:edict]Edict[/url] of Storms at Sentinel Stand Keep, didn't you. Now that's a tale people will be telling for years to come!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"E você é o Fatebinder! Eu reconheceria você em qualquer lugar. E com uma lista de ações, contanto que você tivesse ficado surpreso se ainda houvesse alguém que não tivesse!"
+      <DefaultText>"And you are the Fatebinder! I would recognize you anywhere. And with a list of deeds as long as yours, I'd be surprised if there was anyone left in the Tiers who didn't!"
 
-"Você mergulhou de cabeça no [url=glossary:edict]Edict[/url] de Tempestades e reivindicou o Sentinel Stand Keep! Contos de sua bravura - ou insanidade - vão entreter as pessoas por anos!"</DefaultText>
+"You dove headfirst into the [url=glossary:edict]Edict[/url] of Storms and laid claim to Sentinel Stand Keep! Tales of your bravery - or insanity - will entertain people for years!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Falando como alguém que já lidou com Nerat há algum tempo, eu recomendo que você resolva essa bagunça imediatamente. E depois disso, você pode querer pensar em uma oferta ou duas para apaziguar o chefe."</DefaultText>
+      <DefaultText>"Speaking as someone who has dealt with Nerat for some time, I recommend you sort out this mess immediately. And after you do, you might want to think about an offering or two to appease the boss."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Você sabe o tipo que ele mais ama ... personalidades fascinantes. Eu posso garantir que ele vai querer falar com esse companheiro Raetommon."
+      <DefaultText>"You know the kind he loves most... fascinating personalities. I can guarantee you that he'll want to speak to this Raetommon fellow."
 
-Ele faz uma pausa, coçando o queixo em pensamento. "Eldian também, venha a pensar nisso. Aquele velho está sintonizado com as idas e vindas deste lugar. É melhor que ele compartilhe tal sabedoria com as vozes, certo?"</DefaultText>
+He pauses, scratching his chin in thought. "Eldian too, come to think of it. That old man's rather attuned to the comings and goings of this place. Better that he share such wisdom with the Voices, right?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Continue falando."</DefaultText>
+      <DefaultText>"Keep talking."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -714,7 +716,7 @@ Ele faz uma pausa, coçando o queixo em pensamento. "Eldian também, venha a pen
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Um velho amigo meu comerciante. Nós viajamos juntos por muitos anos, ele pode falar com a minha credibilidade!" Ele chega atrás dele por um pequeno pedaço de pergaminho e desenha rapidamente um mapa de um local perto de Twin Rivers. "Aqui está a sua rota comercial normal e é lá que ele normalmente acampa. Fale com ele e ele deve limpar meu nome!"</DefaultText>
+      <DefaultText>"An old merchant friend of mine. We traveled together for many years, he can speak to my credibility!" He reaches behind him for a small piece of parchment and quickly draws a map of a location near Twin Rivers. "Here is his normal trade route and there is where he normally takes camp. Speak with him and he should clear my name!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -724,17 +726,17 @@ Ele faz uma pausa, coçando o queixo em pensamento. "Eldian também, venha a pen
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Um sorriso cheio de dentes começa a se esticar em seu rosto. "Eu vejo que seu tempo é tão valioso quanto o meu. Como é um único anel de ferro para seus problemas?"</DefaultText>
+      <DefaultText>A toothy smile begins to stretch across his face. "I see your time is as valuable as mine. How's a single iron ring for your troubles?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Nós temos um acordo."</DefaultText>
+      <DefaultText>"We have a deal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Ele te joga o anel. "Prazer em fazer negócios, Fatebinder."</DefaultText>
+      <DefaultText>He tosses you the ring. "Pleasure doing business, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -749,27 +751,27 @@ Ele faz uma pausa, coçando o queixo em pensamento. "Eldian também, venha a pen
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Ele joga dois anéis de ferro e fala através dos dentes. "Prazer em fazer negócios, Fatebinder."</DefaultText>
+      <DefaultText>He tosses you two iron rings and speaks through his teeth. "Pleasure doing business, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Os sete dedos pediram que você fizesse o teste, ela disse que era um procedimento padrão."</DefaultText>
+      <DefaultText>"Seven-Toes requested you be tested, she said it was standard procedure."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Ah, sete dedos. Ela é tão mortal como ela é estúpida. Eu não a culpo por manter as fileiras expurgadas de dúvida, mas você não encontrará nenhuma confiança vacilante aqui."</DefaultText>
+      <DefaultText>"Ah, Seven-Toes. She's as deadly as she is dim-witted. I don't fault her for keeping the ranks purged of doubt, but you will find no wavering trust here."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Isso não explica por que um grupo de [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] estava fora para me matar."</DefaultText>
+      <DefaultText>"That doesn't explain why a group of [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] were out to kill me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Ele suspira e olha em volta procurando alguém por perto. "Vamos apenas dizer que os cofres do Anel-Conta-gotas de Ceratha não foram preenchidos por eles mesmos, e vamos deixar por isso mesmo."</DefaultText>
+      <DefaultText>He sighs and looks around for anyone nearby. "Let's just say Ring-Dropper Ceratha's coffers weren't filled by themselves, and we'll leave it at that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -784,9 +786,9 @@ Ele faz uma pausa, coçando o queixo em pensamento. "Eldian também, venha a pen
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Um pensamento cruza sua mente e ele rapidamente se vira para uma caixa atrás dele.
+      <DefaultText>A thought crosses his mind and he quickly turns to a crate behind him.
 
-"Aqui, leve isso para o seu tempo. E diga aos sete dedos que ela não deveria se preocupar comigo."</DefaultText>
+"Here, take this for your time. And do tell Seven-Toes she shouldn't worry about me."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

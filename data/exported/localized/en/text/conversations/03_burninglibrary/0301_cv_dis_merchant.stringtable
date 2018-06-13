@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_burninglibrary\0301_cv_dis_merchant</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>12</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Um jovem em roupas chamuscadas e esfarrapadas percebe sua aproximação e saúda com um gesto estranho. "Não, não é isso?" Ele deixa cair o braço ao seu lado na derrota. "Peço desculpas ao Fatebinder, sou relativamente novo em tudo isso." Ele tenta mascarar a fenda repentina em sua voz, limpando a garganta. "Eu fui despachado do Iron Hearth para atuar como intendente aqui em ..." Ele olha em volta para o estado da terra queimada ao redor dele. "... Qualquer que seja o lugar, isso é."</DefaultText>
+      <DefaultText>A young man in singed and tattered clothes notices your approach and salutes with a strange gesture. "No, that's not it is it?" He drops his arm to his side in defeat. "I apologize Fatebinder, I'm fairly new to all of this." He attempts to mask the sudden crack in his voice by clearing his throat. "I've been dispatched from Iron Hearth to act as quartermaster here at..." He looks around at the state of the scorched earth all around him. "...Whatever place this is."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Deixe-me ver suas mercadorias."</DefaultText>
+      <DefaultText>"Let me see your wares."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Como você entrou no serviço de Ashe?"</DefaultText>
+      <DefaultText>"How did you come into Ashe's service?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Seu rosto se inclina para baixo. "De onde eu venho no norte nós não temos muito. Meu irmão mandou que eu me juntasse a ele no Iron Hearth, servisse os soldados lá e ganhasse algum tipo de salário." Seus olhos começam a vacilar em uma cascata desanimada em direção a um olhar que repousa a seus pés. "Quando eu cheguei, ele foi enviado para servir a guarnição em [url=glossary:vendrien's well]Vendrien's Well[/url] Citadel. Tenho certeza de que você está bem ciente do que aconteceu lá."</DefaultText>
+      <DefaultText>His face droops downward. "Where I come from in the North we don't have much. My brother sent for me to join him at Iron Hearth, serve the soldiers there and earn a wage of some kind." His eyes begin to waver into a crestfallen cascade toward a gaze that rests at his feet. "By the time I had arrived he'd been sent off to serve the garrison at [url=glossary:vendrien's well]Vendrien's Well[/url] Citadel. I'm sure you are well aware of what happened there."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,34 +36,34 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Você pega o braço e a mão no seu, apertando o punho com força e empurrando-o em direção ao peito dele. Ele solta um suspiro de ar antes de se recolher.
+      <DefaultText>You take his arm and hand in yours, pressing his fist tightly together and thrusting it towards his chest. He lets out a sudden gasp of air, before collecting himself.
 
-"... eu vejo, obrigado Fatebinder."</DefaultText>
+"...I see, thank you Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Você provavelmente não está ciente de que [url=glossary:graven ashe]Graven Ashe[/url] me prometeu um desconto justo em todos os [url=glossary:disfavored]Disfavored[/url] bens deve o [url=glossary:burning library]Burning Library[/url] região ser tomada a partir do [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
+      <DefaultText>"You are probably unaware that [url=glossary:graven ashe]Graven Ashe[/url] promised me a fair discount on all [url=glossary:disfavored]Disfavored[/url] goods should the [url=glossary:burning library]Burning Library[/url] region be taken from the [url=glossary:scarlet chorus]Scarlet Chorus[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Um choque repentino atinge o jovem. "Y-sim claro [url=glossary:graven ashe]Graven Ashe[/url] me deu ordens específicas. Prometeu que eu não esqueceria. Eu tenho preços especiais só para você, Fatebinder."</DefaultText>
+      <DefaultText>A sudden shock strikes the young man. "Y-yes of course [url=glossary:graven ashe]Graven Ashe[/url] gave me specific orders. Promised I wouldn't forget. I have special prices just for you, Fatebinder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>O jovem tenta uma saudação novamente, pressionando dois dedos na têmpora. "Não, definitivamente não é isso ..." Ele suspira. "O que posso fazer para você?"</DefaultText>
+      <DefaultText>The young man attempts a salute again, pressing two fingers to his temple. "No, that's definitely not it is it..." He sighs. "What can I do for you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>O jovem cumprimenta-o com a adequada saudação. "O que posso fazer por você Fatebinder?"</DefaultText>
+      <DefaultText>The young man greets you with the proper [url=glossary:disfavored]Disfavored[/url] salute. "What can I do for you Fatebinder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Claro."</DefaultText>
+      <DefaultText>"Of course."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\global\slides_endgame</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>261</EntryCount>
+  <EntryCount>266</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1403,6 +1403,31 @@ As many of the Wound refugees have some training from Jaspos, the majority of th
     <Entry>
       <ID>310</ID>
       <DefaultText>By enacting an [url=glossary:edict]Edict[/url] on [url=glossary:vendrien's well]Vendrien's Well[/url], you announced your power to the world. Mercifully for the inhabitants of [url=glossary:vendrien's well]Vendrien's Well[/url], the [url=glossary:edict]Edict[/url] on the Well does not linger for long, but the event is forever remembered as the first display of true power from [url=glossary:kyros]Kyros[/url]' newest Archon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>While you managed to unite the Tiers under a single banner through conquest, losing the support of the Overlord's armies makes the work of maintaining this order all the more difficult. Loyalties weaken and slip, but you make a point of taking a personal hand in the country's new governance. After time and struggle, the Tiersmen begin to see themselves as citizens of a unified land.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>While you managed to unite the Tiers under a single banner through conquest, losing the support of the Overlord's armies makes the work of maintaining this order all the more difficult. Loyalties weaken and slip, but you make a point of taking a personal hand in the country's new governance. After time and struggle, the Tiersmen begin to see themselves as citizens of a unified land.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Uniting the Tiers under the banner of the [url=glossary:disfavored]Disfavored[/url] was never your directive, and yet you performed it admirably - consolidating the Overlord's forces under your rule and grooming the Tiers for their place in a new order. The same people who once hurled curses across a siege soon learn to think of themselves as part of a greater whole extending beyond their modest borders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Uniting the Tiers under the banner of the [url=glossary:scarlet chorus]Scarlet Chorus[/url] was never your directive, and yet you performed it admirably - consolidating the Overlord's forces under your rule and grooming the Tiers for their place in a new order. The same people who once hurled curses across a siege soon learn to think of themselves as part of a greater whole extending beyond their modest borders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Earning the cooperation of the rebel factions fulfilled [url=glossary:kyros]Kyros[/url]' plan of uniting the Tiers under one banner. The realization of this irony leaves you with many questions about the part you played, but precious few answers. You work to ensure peace in this new homeland, yet throughout your trials, the notion that you are part of some greater manipulation haunts you. Now you lose sleep trying to ignore it.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,47 +1,47 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_cairnplains\05_cv_specialmerchant_charise</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>8</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Fatebinder, eu não posso te agradecer o suficiente por nos salvar daqueles Feras desgraçados."</DefaultText>
+      <DefaultText>"Fatebinder, I can't thank you enough for saving us from those wretched Beasts."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Graças a você, estou vivo e capaz de reabrir para o negócio. Agora, acho que exige um desconto de ações, não é?"</DefaultText>
+      <DefaultText>"Thanks to you, I'm alive and able to re-open for business. Now, I think that calls for a stock discount, don't you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ótimo te ver, Fatebinder. O que posso fazer por você hoje?"</DefaultText>
+      <DefaultText>"Fine to see you, Fatebinder. What can I get for you today?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Bem conhecido, Fatebinder. Dê uma olhada no estoque, vai?"</DefaultText>
+      <DefaultText>"Well met, Fatebinder. Have a look at the stock, will you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Obrigado. Obrigada, Fatebinder! Eu te devo minha vida. E mais, provavelmente."</DefaultText>
+      <DefaultText>"Thank you. Thank you, Fatebinder! I owe you my life. And more, probably."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Somente os melhores preços para você. Aqui, dê uma olhada. Vê?"</DefaultText>
+      <DefaultText>"Only the best prices for you. Here, have a look. See?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Não estou interessado agora."</DefaultText>
+      <DefaultText>"Not interested right now."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

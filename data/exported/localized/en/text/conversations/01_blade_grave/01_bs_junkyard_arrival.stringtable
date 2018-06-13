@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_blade_grave\01_bs_junkyard_arrival</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Mas esses bastardos, pelo amor de sua mãe!"</DefaultText>
+      <DefaultText>"Gut those bastards, for your mother's sake!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Intrusos em andamento! Peguem suas armas!"</DefaultText>
+      <DefaultText>"Intruders afoot! Grab your weapons!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Esses são os idiotas sem mãe que atacaram nosso forte!"</DefaultText>
+      <DefaultText>"Those are the motherless cads that attacked our fort!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

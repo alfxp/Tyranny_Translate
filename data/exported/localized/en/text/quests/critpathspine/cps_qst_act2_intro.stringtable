@@ -1,62 +1,62 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\critpathspine\cps_qst_act2_intro</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>11</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>A voz de [url=glossary:kyros]Kyros[/url]</DefaultText>
+      <DefaultText>The Voice of [url=glossary:kyros]Kyros[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viaje para a corte de [url=glossary:tunon]Tunon[/url] no [url=glossary:bastard city]Bastard City[/url].</DefaultText>
+      <DefaultText>Travel to [url=glossary:tunon]Tunon[/url]'s court in the [url=glossary:bastard city]Bastard City[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Relatar para [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <DefaultText>Report to [url=glossary:tunon]Tunon[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Fale com [url=glossary:tunon]Tunon[/url] em particular.</DefaultText>
+      <DefaultText>Speak with [url=glossary:tunon]Tunon[/url] privately.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] é a voz para [url=glossary:kyros]Kyros[/url] no Tiers, e ele vai querer saber os detalhes do que aconteceu em [url=glossary:vendrien's well]Vendrien's Well[/url].</DefaultText>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] is the voice for [url=glossary:kyros]Kyros[/url] in the Tiers, and he'll want to know the specifics of what transpired in [url=glossary:vendrien's well]Vendrien's Well[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] aguarda o seu regresso ao seu tribunal no [url=glossary:bastard city]Bastard City[/url].</DefaultText>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] awaits your return to his court in the [url=glossary:bastard city]Bastard City[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] tribunal está em sessão. Aproxime-se dele e diga-lhe o que aconteceu em [url=glossary:vendrien's well]Vendrien's Well[/url].</DefaultText>
+      <DefaultText>[url=glossary:tunon]Tunon[/url]'s court is in session. Approach him and tell him what happened at [url=glossary:vendrien's well]Vendrien's Well[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] convocou você para uma audiência privada. Ele espera por você no terraço acima de sua corte no [url=glossary:bastard city]Bastard City[/url].</DefaultText>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] has summoned you to a private audience. He awaits you on the terrace above his court in the [url=glossary:bastard city]Bastard City[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] está descontente com a briga entre os [url=glossary:scarlet chorus]Scarlet Chorus[/url] e o [url=glossary:disfavored]Disfavored[/url]. Ele acredita que um dos Archons não é apto para governar. Ele sugeriu que você se encontrasse com um deles para investigar mais essa suspeita.</DefaultText>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] is displeased by the quarrel between the [url=glossary:scarlet chorus]Scarlet Chorus[/url] and the [url=glossary:disfavored]Disfavored[/url]. He believes one of the Archons unfit to rule. He suggested you meet with one of them to investigate this suspicion further.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] não estava satisfeito com minhas ações em [url=glossary:vendrien's well]Vendrien's Well[/url] e me demitiu de seu tribunal para o serviço de [url=glossary:bleden mark]Bleden Mark[/url] por enquanto.</DefaultText>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] wasn't pleased with my actions in [url=glossary:vendrien's well]Vendrien's Well[/url] and has dismissed me from his court into the service of [url=glossary:bleden mark]Bleden Mark[/url] for the time being.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Em vez de se reportar diretamente ao [url=glossary:bastard city]Bastard City[/url] como ele instruiu, você se encontrou com [url=glossary:bleden mark]Bleden Mark[/url] em segredo em Ashweald. Você agora se encontrou a serviço do Arconte das Sombras.</DefaultText>
+      <DefaultText>Instead of reporting directly to [url=glossary:tunon]Tunon[/url] at the [url=glossary:bastard city]Bastard City[/url] like he instructed, you met with [url=glossary:bleden mark]Bleden Mark[/url] in secret at Ashweald. You have now found yourself in the service of the Archon of Shadows.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,107 +1,107 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\02_lethianscrossing\fq_ac_qst_raid</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>20</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Assalto ao Cruzamento</DefaultText>
+      <DefaultText>Assault on the Crossing</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Mate o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] comandante.</DefaultText>
+      <DefaultText>Kill the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] commander.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Mate os [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldados.</DefaultText>
+      <DefaultText>Kill the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Verifique em Eldian.</DefaultText>
+      <DefaultText>Check on Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Persiga Raetommon.</DefaultText>
+      <DefaultText>Pursue Raetommon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Pergunte a Eldian onde Raetommon pode estar tomando Zdenya.</DefaultText>
+      <DefaultText>Ask Eldian where Raetommon may be taking Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Mate o Nível Smasher.</DefaultText>
+      <DefaultText>Kill Tier Smasher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Mate Vintara.</DefaultText>
+      <DefaultText>Kill Vintara.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Mate todos os soldados em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Kill every soldier in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Os [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] estão atacando [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Defenda o estabelecimento e derrote a fraternidade.</DefaultText>
+      <DefaultText>The [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] are raiding [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Defend the settlement and defeat the Brotherhood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Encontre o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] comandante responsável da força de assalto em [url=glossary:lethian's crossing]Lethian's Crossing[/url] e mate-o.</DefaultText>
+      <DefaultText>Find the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] commander in charge of the assault force at [url=glossary:lethian's crossing]Lethian's Crossing[/url] and kill him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Existem grupos de [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldados perto da margem leste e oeste do rio Portuscor em [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Mate todos eles.</DefaultText>
+      <DefaultText>There are groups of [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] soldiers near the east and west bank of the Portuscor River in [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Kill them all.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Eldian é mais provável seguro dentro de sua casa em [url=glossary:lethian's crossing]Lethian's Crossing[/url], mas ainda seria uma boa para verificar nele.</DefaultText>
+      <DefaultText>Eldian is most likely safe inside his house in [url=glossary:lethian's crossing]Lethian's Crossing[/url], but it would still be a good to check on him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Raetommon levou o Magebane Helm para si mesmo. Ele não deve ser autorizado a deixar [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Raetommon has taken the Magebane Helm for himself. He must not be allowed to leave [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Raetommon conseguiu escapar com Zdenya para o deserto circundante de [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Eldian pode ter uma visão de onde Raetommon pode ter tomado o [url=glossary:forge-bound]Forge-Bound[/url] Mestre.</DefaultText>
+      <DefaultText>Raetommon managed to escape with Zdenya into the surrounding wilderness of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Eldian may have insight as to where Raetommon may have taken the [url=glossary:forge-bound]Forge-Bound[/url] Master.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Tier Smasher está liderando a defesa de [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Encontre e mate-o.</DefaultText>
+      <DefaultText>Tier Smasher is leading the [url=glossary:scarlet chorus]Scarlet Chorus[/url] defense of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Find and kill him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Vintara está liderando a defesa do [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Encontre e mate-a.</DefaultText>
+      <DefaultText>Vintara is leading the [url=glossary:disfavored]Disfavored[/url] defense of [url=glossary:lethian's crossing]Lethian's Crossing[/url]. Find and kill her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Mate todos os soldados que encontrar em [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
+      <DefaultText>Kill every soldier you find in [url=glossary:lethian's crossing]Lethian's Crossing[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Eldian pediu-lhe para falar com ele sobre onde o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] pode ter tomado Zdenya.</DefaultText>
+      <DefaultText>Eldian asked you to speak to him about where the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] may have taken Zdenya.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você derrotou o [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] em [url=glossary:lethian's crossing]Lethian's Crossing[/url], mas seu líder Raetommon conseguiu escapar com o Magebane Helm.</DefaultText>
+      <DefaultText>You defeated the [url=glossary:bronze brotherhood]Bronze Brotherhood[/url] at [url=glossary:lethian's crossing]Lethian's Crossing[/url], but their leader Raetommon managed to escape with the Magebane Helm.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

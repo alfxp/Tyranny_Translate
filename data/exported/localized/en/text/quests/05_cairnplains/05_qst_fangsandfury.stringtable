@@ -1,207 +1,207 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\05_cairnplains\05_qst_fangsandfury</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>40</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Presas e Fúria</DefaultText>
+      <DefaultText>Fangs and Fury</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Viajar para Gulfglow.</DefaultText>
+      <DefaultText>Travel to Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Fale com Red-Fang.</DefaultText>
+      <DefaultText>Speak with Red-Fang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Escolha um método para resolver a disputa em Gulfglow.</DefaultText>
+      <DefaultText>Choose a method to resolve the dispute at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Elimine os Earthshakers em Gulfglow.</DefaultText>
+      <DefaultText>Eliminate the Earthshakers at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Elimine o [url=glossary:stonestalkers]Stonestalkers[/url] em Gulfglow.</DefaultText>
+      <DefaultText>Eliminate the [url=glossary:stonestalkers]Stonestalkers[/url] at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Reúna-se com os Beastmen no Circle of Savagery em Gulfglow.</DefaultText>
+      <DefaultText>Meet with the Beastmen at the Circle of Savagery in Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Informe Red-fang da derrota de cem-sangue no rito de sangue.</DefaultText>
+      <DefaultText>Inform Red-Fang of Hundred-Blood's defeat in the Rite of Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Fale com Red-Fang.</DefaultText>
+      <DefaultText>Speak with Red-Fang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Fale com Basilon.</DefaultText>
+      <DefaultText>Speak with Basilon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Retornar para Red-Fang.</DefaultText>
+      <DefaultText>Return to Red-Fang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Fale com Basilon.</DefaultText>
+      <DefaultText>Speak with Basilon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Fale com cem-sangue.</DefaultText>
+      <DefaultText>Speak with Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Fale com cem-sangue.</DefaultText>
+      <DefaultText>Speak with Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Fale com Basilon.</DefaultText>
+      <DefaultText>Speak with Basilon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Fale com cem-sangue.</DefaultText>
+      <DefaultText>Speak with Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Fale com cem-sangue.</DefaultText>
+      <DefaultText>Speak with Hundred-Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Uma seita de Earthshakers está entrando em conflito com os Beastmen [url=glossary:stonestalker]Stonestalker[/url] Beastmen em Gulfglow. Cem-Sangue pediu-lhe para resolver a disputa.</DefaultText>
+      <DefaultText>A sect of Earthshakers are currently clashing with the [url=glossary:stonestalker]Stonestalker[/url] Beastmen at Gulfglow. Hundred-Blood has asked you to resolve the dispute.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Viaje para Gulfglow para avaliar a situação entre os Earthshakers e os [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
+      <DefaultText>Travel to Gulfglow to assess the situation between the Earthshakers and the [url=glossary:stonestalkers]Stonestalkers[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Fale com Red-Fang nos Oldwalls na base da Spire em Gulfglow.</DefaultText>
+      <DefaultText>Speak with Red-Fang in the Oldwalls at the base of the Spire at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Decida e declare a Red-Fang como você lidará com a discordância entre os Earthshakers e os [url=glossary:stonestalkers]Stonestalkers[/url] em Gulfglow.</DefaultText>
+      <DefaultText>Decide and declare to Red-Fang how you will handle the disagreement between the Earthshakers and the [url=glossary:stonestalkers]Stonestalkers[/url] at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Elimine os Earthshakers que transpassaram no território do [url=glossary:stonestalkers]Stonestalkers[/url] '.</DefaultText>
+      <DefaultText>Eliminate the Earthshakers that have trespassed in the [url=glossary:stonestalkers]Stonestalkers[/url]' territory.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Elimine os Homens-Besta que atrapalharam os esforços de escavação dos Earthshakers por toda Gulfglow.</DefaultText>
+      <DefaultText>Eliminate the Beastmen who have hindered the Earthshakers' excavation efforts throughout Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Sobreviva ao Ritual de Savagery e Stone [url=glossary:stonestalker]Stonestalker[/url] para ganhar uma posição respeitada dentro da tribo. Conheça seus oponentes no Gulfglow Oldwalls, em um dos platôs rochosos perto da Spire.</DefaultText>
+      <DefaultText>Survive the [url=glossary:stonestalker]Stonestalker[/url]'s Rite of Savagery and Stone to earn a respected rank within the tribe. Meet your opponents at the Gulfglow Oldwalls, on one of the rocky plateaus near the Spire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Informe Red-Fang que você é o líder novo e legítimo do [url=glossary:stonestalkers]Stonestalkers[/url] depois de derrotar o Hundred-Blood no Rite of Blood.</DefaultText>
+      <DefaultText>Inform Red-Fang that you are the new and rightful leader of the [url=glossary:stonestalkers]Stonestalkers[/url] after defeating Hundred-Blood in the Rite of Blood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Fale com Red-Fang nos Oldwalls para alertá-la de que você matou os Earthshakers que estavam invadindo as terras da tribo.</DefaultText>
+      <DefaultText>Speak with Red-Fang in the Oldwalls to alert her that you have slaughtered the Earthshakers who were trespassing in the tribe's lands.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>Fale com Basilon para informá-lo que você matou os homens-fera que estavam incomodando seus terráqueos.</DefaultText>
+      <DefaultText>Speak with Basilon to inform him that you have slain the Beastmen who were troubling his Earthshakers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText>Agora que você sobreviveu ao Ritual de Savagery and Stone, retorne a Red-Fang como um membro honorário da tribo para decidir como lidar com os Earthshakers.</DefaultText>
+      <DefaultText>Now that you have survived the [url=glossary:stonestalker]Stonestalker[/url]'s Rite of Savagery and Stone, return to Red-Fang as an honorary member of the tribe to decide how to deal with the Earthshakers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Informe Basilon que o [url=glossary:stonestalkers]Stonestalkers[/url] permitirá que seus Earthshakers saiam com suas vidas, contanto que eles levem apenas os cristais que eles já reuniram e prometem nunca mais voltar.</DefaultText>
+      <DefaultText>Inform Basilon that the [url=glossary:stonestalkers]Stonestalkers[/url] will allow his Earthshakers to leave with their lives, so long as they take only the crystals they've already gathered and promise never to return.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText>Volte para o [url=glossary:stonestalkers]Stonestalkers[/url] 'den em Stone Down Gorge agora que você ajudou a tribo, resolvendo seu problema com os Earthshakers em Gulfglow.</DefaultText>
+      <DefaultText>Return to the [url=glossary:stonestalkers]Stonestalkers[/url]' den in Stone Down Gorge now that you have aided the tribe by resolving their issue with the Earthshakers at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10013</ID>
-      <DefaultText>Volte para o [url=glossary:stonestalkers]Stonestalkers[/url] 'den em Stone Down Gorge com a notícia da sua resolução entre os Earthshakers e os Beastmen.</DefaultText>
+      <DefaultText>Return to the [url=glossary:stonestalkers]Stonestalkers[/url]' den in Stone Down Gorge with the news of your resolution between the Earthshakers and the Beastmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10014</ID>
-      <DefaultText>Informe Basilon que o [url=glossary:stonestalkers]Stonestalkers[/url] permitirá que seus Earthshakers saiam com suas vidas, contanto que eles levem apenas os cristais que eles já reuniram e prometem nunca mais voltar.</DefaultText>
+      <DefaultText>Inform Basilon that the [url=glossary:stonestalkers]Stonestalkers[/url] will allow his Earthshakers to leave with their lives, so long as they take only the crystals they've already gathered and promise never to return.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10016</ID>
-      <DefaultText>Volte para o [url=glossary:stonestalkers]Stonestalkers[/url] 'den em Stone Down Gorge agora que você ajudou a tribo, resolvendo seu problema com os Earthshakers em Gulfglow.</DefaultText>
+      <DefaultText>Return to the [url=glossary:stonestalkers]Stonestalkers[/url]' den in Stone Down Gorge now that you have aided the tribe by resolving their issue with the Earthshakers at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10019</ID>
-      <DefaultText>Volte para o [url=glossary:stonestalkers]Stonestalkers[/url] 'den em Stone Down Gorge agora que você ajudou a tribo, resolvendo seu problema com os Earthshakers em Gulfglow.</DefaultText>
+      <DefaultText>Return to the [url=glossary:stonestalkers]Stonestalkers[/url]' den in Stone Down Gorge now that you have aided the tribe by resolving their issue with the Earthshakers at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você matou todos os [url=glossary:disfavored]Disfavored[/url] em Gulfglow.</DefaultText>
+      <DefaultText>You killed all the [url=glossary:disfavored]Disfavored[/url] at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você matou todos os Beastmen em Gulfglow.</DefaultText>
+      <DefaultText>You killed all the Beastmen at Gulfglow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Você completou o Ritual de Savagery and Stone e oficialmente se tornou um membro da tribo.</DefaultText>
+      <DefaultText>You completed the [url=glossary:stonestalker]Stonestalker[/url] Rite of Savagery and Stone and officially became a member of the tribe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Como o novo líder da tribo [url=glossary:stonestalker]Stonestalker[/url], você foi capaz de forçar o [url=glossary:stonestalkers]Stonestalkers[/url] para permitir que os [url=glossary:disfavored]Disfavored[/url] recolher os cristais.</DefaultText>
+      <DefaultText>As the new leader of the [url=glossary:stonestalker]Stonestalker[/url] tribe, you were able to force the [url=glossary:stonestalkers]Stonestalkers[/url] to allow the [url=glossary:disfavored]Disfavored[/url] collect the crystals.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>Você enviou Cem-Sangue para [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Bone-Claw não sabe do seu acordo anterior.</DefaultText>
+      <DefaultText>You sent Hundred-Blood to [url=glossary:the voices of nerat]the Voices of Nerat[/url]. Bone-Claw does not know of your previous agreement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>Você traiu o [url=glossary:scarlet chorus]Scarlet Chorus[/url] no [url=glossary:stone sea]Stone Sea[/url] e se tornou seu inimigo.</DefaultText>
+      <DefaultText>You betrayed the [url=glossary:scarlet chorus]Scarlet Chorus[/url] in the [url=glossary:stone sea]Stone Sea[/url] and became their enemy.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

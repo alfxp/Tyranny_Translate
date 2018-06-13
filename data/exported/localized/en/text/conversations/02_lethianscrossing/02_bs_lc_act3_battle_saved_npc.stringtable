@@ -1,17 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\02_lethianscrossing\02_bs_lc_act3_battle_saved_npc</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>2</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Obrigado, [nome do jogador]! Você me salvou!"</DefaultText>
+      <DefaultText>"Thank you, [Player Name]! You saved me!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Você nos salvou, Fatebinder! Muito obrigado."</DefaultText>
+      <DefaultText>"You saved us, Fatebinder! Thank you so much."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

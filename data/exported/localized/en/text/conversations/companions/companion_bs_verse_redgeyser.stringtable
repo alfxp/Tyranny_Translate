@@ -1,27 +1,27 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_bs_verse_redgeyser</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Nó Aleatório 1</DefaultText>
+      <DefaultText>Random Node 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Vamos ver o que cai de você!"</DefaultText>
+      <DefaultText>"Let's see what falls out of you!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Eu vou derramar sua coragem!"</DefaultText>
+      <DefaultText>"I'll spill your guts!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Espero que você goste de vermelho!"</DefaultText>
+      <DefaultText>"Hope you fancy red!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,127 +1,127 @@
-<?xml version="1.0" standalone="yes"?>
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\notifications</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>64</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Exemplo de título de notificação</DefaultText>
+      <DefaultText>Sample Notification Title</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Mensagem de Notificação de Amostra</DefaultText>
+      <DefaultText>Sample Notification Message</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Sigil Adquirido!</DefaultText>
+      <DefaultText>Sigil Acquired!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Forma da Força Dirigida</DefaultText>
+      <DefaultText>Shape of Directed Force</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Agora você tem energia suficiente para emitir um [url=glossary:edict]Edict[/url].</DefaultText>
+      <DefaultText>You now have enough Power to issue an [url=glossary:edict]Edict[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Novo [url=glossary:edict]Edict[/url] Disponível!</DefaultText>
+      <DefaultText>New [url=glossary:edict]Edict[/url] Available!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Nova Receita Enfermaria Spire Disponível!</DefaultText>
+      <DefaultText>New Spire Infirmary Recipe Available!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>A Toxina Fatigante pode ser criada com acesso a uma Atualização da Enfermaria da Espiral e materiais adequados.</DefaultText>
+      <DefaultText>Fatiguing Toxin can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Poção de Cura Maior pode ser criada com acesso a uma Atualização da Enfermaria da Espiral e materiais adequados.</DefaultText>
+      <DefaultText>Greater Healing Potion can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>A folha [url=glossary:cairn]Cairn[/url] pode ser criada com acesso a uma atualização da Spire Enfermaria e materiais adequados.</DefaultText>
+      <DefaultText>[url=glossary:cairn]Cairn[/url]'s Leaf can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>O Swig of Insight pode ser criado com acesso a um Upgrade da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Swig of Insight can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>O Waking [url=glossary:death]Death[/url] pode ser criado com acesso a um Upgrade da Spire Infirmary e a materiais adequados.</DefaultText>
+      <DefaultText>Waking [url=glossary:death]Death[/url] can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Novo Plano de Forja Espiral Disponível!</DefaultText>
+      <DefaultText>New Spire Forge Plan Available!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Manoplas de Ferro Travadas podem ser criadas com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Locked Iron Gauntlets can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>A queda do Thunder pode ser criada com acesso a um upgrade do Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Crashing Thunder can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>O zelo pode ser criado com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Zeal can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>O Headhunter pode ser criado com acesso a um upgrade do Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Headhunter can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Nova pesquisa bibliotecária disponível!</DefaultText>
+      <DefaultText>New Library Research Available!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Você pode pesquisar Heart's Blood se tiver acesso a uma biblioteca.</DefaultText>
+      <DefaultText>You can research Heart's Blood if you have access to a Library.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>O Heart's Blood pode ser criado com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Heart's Blood can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Você pode pesquisar este item mais com acesso a uma Biblioteca Spire.</DefaultText>
+      <DefaultText>You can research this item more with access to a Spire Library.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>O Sentinel pode ser criado com acesso a um upgrade do Spire Forge e a materiais adequados.</DefaultText>
+      <DefaultText>Sentinel can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>O Skorn pode ser criado com acesso a um upgrade do Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Skorn can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>O Hawk Eye Helm pode ser criado com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Hawk Eye Helm can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,197 +131,197 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Seta Tempestade Desbloqueada!</DefaultText>
+      <DefaultText>Arrow Storm Unlocked!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Barik e Verse ganharam uma nova habilidade de combinação.</DefaultText>
+      <DefaultText>Barik and Verse have gained a new combo ability.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Traga este item para um ferreiro em um Spire Forge Upgrade para investigar mais.</DefaultText>
+      <DefaultText>Bring this item to a blacksmith at a Spire Forge Upgrade to investigate it further.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Investigue este item!</DefaultText>
+      <DefaultText>Investigate this item!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>O Deathbringer pode ser criado com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Deathbringer can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>O Heart's Blood pode ser criado com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Heart's Blood can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Os Robes da Hierarch podem ser criados com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Hierarch's Robes can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Scales of Mercy pode ser criado com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Scales of Mercy can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Snowfang pode ser criado com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>Snowfang can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>O Baneward pode ser criado com acesso a um Upgrade Spire Forge e materiais adequados.</DefaultText>
+      <DefaultText>The Baneward can be created with access to a Spire Forge Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>The Malediction [url=glossary:edict]Edict[/url] agora está acessível.</DefaultText>
+      <DefaultText>The Malediction [url=glossary:edict]Edict[/url] is now accessible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Oldwater pode ser criado com acesso a uma atualização da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Oldwater can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>O Remedy dos Temuns pode ser criado com acesso a um Upgrade da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Dire Remedy can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>O Chaw do Vagrant pode ser criado com acesso a um Upgrade da Spire Infirmary e materiais apropriados.</DefaultText>
+      <DefaultText>Vagrant's Chaw can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>O Azurebell pode ser criado com acesso a um Upgrade da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Azurebell can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>O Potion of Heroes pode ser criado com acesso a um Upgrade da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Potion of Heroes can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>A Poção da Invisibilidade pode ser criada com acesso a um Upgrade da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Potion of Invisibility can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>O Marshberry pode ser criado com acesso a um Upgrade da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Marshberry can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>O Staggering Burn pode ser criado com acesso a um Upgrade da Spire Infirmary e a materiais adequados.</DefaultText>
+      <DefaultText>Staggering Burn can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>O Skycap pode ser criado com acesso a um Upgrade da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Skycap can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>O Rotspear pode ser criado com acesso a um Upgrade da Spire Infirmary e a materiais adequados.</DefaultText>
+      <DefaultText>Rotspear can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Potion of Revival pode ser criado com acesso a um Upgrade da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Potion of Revival can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>O Sableroot pode ser criado com acesso a um Upgrade da Spire Infirmary e materiais adequados.</DefaultText>
+      <DefaultText>Sableroot can be created with access to a Spire Infirmary Upgrade and proper materials.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Seu poder aumentou</DefaultText>
+      <DefaultText>Your Power Has Increased</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Você terminou [url=glossary:kyros]Kyros[/url] '{0}!</DefaultText>
+      <DefaultText>You ended [url=glossary:kyros]Kyros[/url]' {0}!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Você adquiriu {0}!</DefaultText>
+      <DefaultText>You acquired {0}!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Você ganhou a lealdade do {0}!</DefaultText>
+      <DefaultText>You gained the loyalty of the {0}!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>O {0} enviado para você!</DefaultText>
+      <DefaultText>The {0} submitted to you!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Você derrotou {0}!</DefaultText>
+      <DefaultText>You have defeated {0}!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Você ganhou a lealdade de {0}!</DefaultText>
+      <DefaultText>You gained the loyalty of {0}!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Novas missões estão disponíveis</DefaultText>
+      <DefaultText>New Quests are Available</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Fale com os habitantes de Plainsgate.</DefaultText>
+      <DefaultText>Speak with Plainsgate locals.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Fale com os moradores de Halfgate.</DefaultText>
+      <DefaultText>Speak with Halfgate locals.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Fale com [url=glossary:lethian's crossing]Lethian's Crossing[/url] locais.</DefaultText>
+      <DefaultText>Speak with [url=glossary:lethian's crossing]Lethian's Crossing[/url] locals.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Fale com os moradores locais.</DefaultText>
+      <DefaultText>Speak with settlement locals.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Mapa mundial</DefaultText>
+      <DefaultText>World Map</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>{0} está agora desbloqueado no mapa do mundo.</DefaultText>
+      <DefaultText>{0} is now unlocked on the world map.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>[url=glossary:reputation]Reputation[/url] Capacidade desbloqueada!</DefaultText>
+      <DefaultText>[url=glossary:reputation]Reputation[/url] Ability Unlocked!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>{0} {1} Capacidade - {2}</DefaultText>
+      <DefaultText>{0} {1} Ability - {2}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
